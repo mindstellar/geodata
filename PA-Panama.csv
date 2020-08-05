@@ -1,0 +1,601 @@
+s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Almirante,almirante
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Barranco,barranco
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Barranco Adentro,barranco-adentro
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Bastimentos,bastimentos
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Bocas del Toro,bocas-del-toro
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Cauchero,cauchero
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Changuinola,changuinola
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Chiriqui Grande,chiriqui-grande
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Distrito Chiriqui Grande,distrito-chiriqui-grande
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Distrito de Bocas del Toro,distrito-de-bocas-del-toro
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Distrito de Changuinola,distrito-de-changuinola
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,El Empalme,el-empalme
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,El Silencio,el-silencio
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Guabito,guabito
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Isla Bastimentos,isla-bastimentos
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,La Mesa,la-mesa
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Miramar,miramar
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Punta Laurel,punta-laurel
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Punta Pena,punta-pena
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Punta Robalo,punta-robalo
+Panama,PA,Bocas del Toro Province,bocas-del-toro-province,Valle del Risco,valle-del-risco
+Panama,PA,Chiriqui Province,chiriqui-province,Alanje,alanje
+Panama,PA,Chiriqui Province,chiriqui-province,Algarrobos Arriba,algarrobos-arriba
+Panama,PA,Chiriqui Province,chiriqui-province,Alto Boquete,alto-boquete
+Panama,PA,Chiriqui Province,chiriqui-province,Aserrio de Gariche,aserrio-de-gariche
+Panama,PA,Chiriqui Province,chiriqui-province,Bagala,bagala
+Panama,PA,Chiriqui Province,chiriqui-province,Bajo Boquete,bajo-boquete
+Panama,PA,Chiriqui Province,chiriqui-province,Barrio Guadalupe,barrio-guadalupe
+Panama,PA,Chiriqui Province,chiriqui-province,Bijagual,bijagual
+Panama,PA,Chiriqui Province,chiriqui-province,Boca Chica,boca-chica
+Panama,PA,Chiriqui Province,chiriqui-province,Boca del Monte,boca-del-monte
+Panama,PA,Chiriqui Province,chiriqui-province,Boqueron,boqueron
+Panama,PA,Chiriqui Province,chiriqui-province,Boquete,boquete
+Panama,PA,Chiriqui Province,chiriqui-province,Brenon,brenon
+Panama,PA,Chiriqui Province,chiriqui-province,Bugaba,bugaba
+Panama,PA,Chiriqui Province,chiriqui-province,Bugabita Arriba,bugabita-arriba
+Panama,PA,Chiriqui Province,chiriqui-province,Caimito,caimito
+Panama,PA,Chiriqui Province,chiriqui-province,Caldera,caldera
+Panama,PA,Chiriqui Province,chiriqui-province,Canas Gordas,canas-gordas
+Panama,PA,Chiriqui Province,chiriqui-province,Celmira,celmira
+Panama,PA,Chiriqui Province,chiriqui-province,Cerro Punta,cerro-punta
+Panama,PA,Chiriqui Province,chiriqui-province,Cerro Viejo,cerro-viejo
+Panama,PA,Chiriqui Province,chiriqui-province,Chiriqui,chiriqui
+Panama,PA,Chiriqui Province,chiriqui-province,Cochea Abajo,cochea-abajo
+Panama,PA,Chiriqui Province,chiriqui-province,Cordillera,cordillera
+Panama,PA,Chiriqui Province,chiriqui-province,David,david
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de Alanje,distrito-de-alanje
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de Baru,distrito-de-baru
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de Boqueron,distrito-de-boqueron
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de Boquete,distrito-de-boquete
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de Bugaba,distrito-de-bugaba
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de David,distrito-de-david
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de Dolega,distrito-de-dolega
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de Gualaca,distrito-de-gualaca
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de Remedios,distrito-de-remedios
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de Renacimiento,distrito-de-renacimiento
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de San Felix,distrito-de-san-felix
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de San Lorenzo,distrito-de-san-lorenzo
+Panama,PA,Chiriqui Province,chiriqui-province,Distrito de Tole,distrito-de-tole
+Panama,PA,Chiriqui Province,chiriqui-province,Divala,divala
+Panama,PA,Chiriqui Province,chiriqui-province,Dolega District,dolega-district
+Panama,PA,Chiriqui Province,chiriqui-province,El Nancito,el-nancito
+Panama,PA,Chiriqui Province,chiriqui-province,El Palmar,el-palmar
+Panama,PA,Chiriqui Province,chiriqui-province,El Porvenir,el-porvenir
+Panama,PA,Chiriqui Province,chiriqui-province,El Tejar,el-tejar
+Panama,PA,Chiriqui Province,chiriqui-province,Finca Blanco,finca-blanco
+Panama,PA,Chiriqui Province,chiriqui-province,Gomez,gomez
+Panama,PA,Chiriqui Province,chiriqui-province,Guabal,guabal
+Panama,PA,Chiriqui Province,chiriqui-province,Guaca Arriba,guaca-arriba
+Panama,PA,Chiriqui Province,chiriqui-province,Gualaca,gualaca
+Panama,PA,Chiriqui Province,chiriqui-province,Guarumal,guarumal
+Panama,PA,Chiriqui Province,chiriqui-province,Guayabal,guayabal
+Panama,PA,Chiriqui Province,chiriqui-province,Horconcitos,horconcitos
+Panama,PA,Chiriqui Province,chiriqui-province,La Concepcion,la-concepcion
+Panama,PA,Chiriqui Province,chiriqui-province,La Esperanza,la-esperanza
+Panama,PA,Chiriqui Province,chiriqui-province,La Estrella,la-estrella
+Panama,PA,Chiriqui Province,chiriqui-province,Lajas Adentro,lajas-adentro
+Panama,PA,Chiriqui Province,chiriqui-province,Lajas de Tole,lajas-de-tole
+Panama,PA,Chiriqui Province,chiriqui-province,Las Lajas,las-lajas
+Panama,PA,Chiriqui Province,chiriqui-province,Las Lomas,las-lomas
+Panama,PA,Chiriqui Province,chiriqui-province,Limones,limones
+Panama,PA,Chiriqui Province,chiriqui-province,Los Algarrobos,los-algarrobos
+Panama,PA,Chiriqui Province,chiriqui-province,Los Anastacios,los-anastacios
+Panama,PA,Chiriqui Province,chiriqui-province,Los Angeles,los-angeles
+Panama,PA,Chiriqui Province,chiriqui-province,Los Naranjos,los-naranjos
+Panama,PA,Chiriqui Province,chiriqui-province,Manaca Civil,manaca-civil
+Panama,PA,Chiriqui Province,chiriqui-province,Manaca Norte,manaca-norte
+Panama,PA,Chiriqui Province,chiriqui-province,Mata del Nance,mata-del-nance
+Panama,PA,Chiriqui Province,chiriqui-province,Monte Lirio,monte-lirio
+Panama,PA,Chiriqui Province,chiriqui-province,Nuevo San Carlitos,nuevo-san-carlitos
+Panama,PA,Chiriqui Province,chiriqui-province,Paja de Sombrero,paja-de-sombrero
+Panama,PA,Chiriqui Province,chiriqui-province,Palmira,palmira
+Panama,PA,Chiriqui Province,chiriqui-province,Palmira Centro,palmira-centro
+Panama,PA,Chiriqui Province,chiriqui-province,Paraiso,paraiso
+Panama,PA,Chiriqui Province,chiriqui-province,Paso Canoas Arriba,paso-canoas-arriba
+Panama,PA,Chiriqui Province,chiriqui-province,Pedregal,pedregal
+Panama,PA,Chiriqui Province,chiriqui-province,Plaza de Caisan,plaza-de-caisan
+Panama,PA,Chiriqui Province,chiriqui-province,Potrerillos Abajo,potrerillos-abajo
+Panama,PA,Chiriqui Province,chiriqui-province,Potrerillos Arriba,potrerillos-arriba
+Panama,PA,Chiriqui Province,chiriqui-province,Progreso,progreso
+Panama,PA,Chiriqui Province,chiriqui-province,Pueblo Viejo,pueblo-viejo
+Panama,PA,Chiriqui Province,chiriqui-province,Puerto Armuelles,puerto-armuelles
+Panama,PA,Chiriqui Province,chiriqui-province,Punta de Burica,punta-de-burica
+Panama,PA,Chiriqui Province,chiriqui-province,Quebrada de Piedra,quebrada-de-piedra
+Panama,PA,Chiriqui Province,chiriqui-province,Querevalo,querevalo
+Panama,PA,Chiriqui Province,chiriqui-province,Quinteno,quinteno
+Panama,PA,Chiriqui Province,chiriqui-province,Remedios,remedios
+Panama,PA,Chiriqui Province,chiriqui-province,Rincon,rincon
+Panama,PA,Chiriqui Province,chiriqui-province,Rio Sereno,rio-sereno
+Panama,PA,Chiriqui Province,chiriqui-province,Rovira Arriba,rovira-arriba
+Panama,PA,Chiriqui Province,chiriqui-province,San Andres,san-andres
+Panama,PA,Chiriqui Province,chiriqui-province,San Carlos,san-carlos
+Panama,PA,Chiriqui Province,chiriqui-province,San Felix,san-felix
+Panama,PA,Chiriqui Province,chiriqui-province,San Isidro,san-isidro
+Panama,PA,Chiriqui Province,chiriqui-province,San Lorenzo,san-lorenzo
+Panama,PA,Chiriqui Province,chiriqui-province,San Pablo Nuevo Abajo,san-pablo-nuevo-abajo
+Panama,PA,Chiriqui Province,chiriqui-province,San Pablo Viejo Abajo,san-pablo-viejo-abajo
+Panama,PA,Chiriqui Province,chiriqui-province,Santa Clara,santa-clara
+Panama,PA,Chiriqui Province,chiriqui-province,Santa Cruz,santa-cruz
+Panama,PA,Chiriqui Province,chiriqui-province,Santa Marta,santa-marta
+Panama,PA,Chiriqui Province,chiriqui-province,Santa Rosa,santa-rosa
+Panama,PA,Chiriqui Province,chiriqui-province,Santo Domingo,santo-domingo
+Panama,PA,Chiriqui Province,chiriqui-province,Santo Tomas,santo-tomas
+Panama,PA,Chiriqui Province,chiriqui-province,Siogui Abajo,siogui-abajo
+Panama,PA,Chiriqui Province,chiriqui-province,Siogui Arriba,siogui-arriba
+Panama,PA,Chiriqui Province,chiriqui-province,Sortova,sortova
+Panama,PA,Chiriqui Province,chiriqui-province,Tijeras,tijeras
+Panama,PA,Chiriqui Province,chiriqui-province,Tinajas,tinajas
+Panama,PA,Chiriqui Province,chiriqui-province,Tole,tole
+Panama,PA,Chiriqui Province,chiriqui-province,Veladero,veladero
+Panama,PA,Chiriqui Province,chiriqui-province,Volcan,volcan
+Panama,PA,Cocle Province,cocle-province,Aguadulce,aguadulce
+Panama,PA,Cocle Province,cocle-province,Aguas Blancas,aguas-blancas
+Panama,PA,Cocle Province,cocle-province,Alto de La Estancia,alto-de-la-estancia
+Panama,PA,Cocle Province,cocle-province,Anton,anton
+Panama,PA,Cocle Province,cocle-province,Barranco Colorado,barranco-colorado
+Panama,PA,Cocle Province,cocle-province,Caballero,caballero
+Panama,PA,Cocle Province,cocle-province,Cabuya,cabuya
+Panama,PA,Cocle Province,cocle-province,Caimito,caimito
+Panama,PA,Cocle Province,cocle-province,Canaveral,canaveral
+Panama,PA,Cocle Province,cocle-province,Capellania,capellania
+Panama,PA,Cocle Province,cocle-province,Chigore,chigore
+Panama,PA,Cocle Province,cocle-province,Chiguiri Arriba,chiguiri-arriba
+Panama,PA,Cocle Province,cocle-province,Churuquita Chiquita,churuquita-chiquita
+Panama,PA,Cocle Province,cocle-province,Churuquita Grande,churuquita-grande
+Panama,PA,Cocle Province,cocle-province,Cocle,cocle
+Panama,PA,Cocle Province,cocle-province,Distrito de Aguadulce,distrito-de-aguadulce
+Panama,PA,Cocle Province,cocle-province,Distrito de Anton,distrito-de-anton
+Panama,PA,Cocle Province,cocle-province,Distrito de La Pintada,distrito-de-la-pintada
+Panama,PA,Cocle Province,cocle-province,Distrito de Nata,distrito-de-nata
+Panama,PA,Cocle Province,cocle-province,Distrito de Ola,distrito-de-ola
+Panama,PA,Cocle Province,cocle-province,Distrito Penonome,distrito-penonome
+Panama,PA,Cocle Province,cocle-province,El Cano,el-cano
+Panama,PA,Cocle Province,cocle-province,El Chiru,el-chiru
+Panama,PA,Cocle Province,cocle-province,El Coco,el-coco
+Panama,PA,Cocle Province,cocle-province,El Cope,el-cope
+Panama,PA,Cocle Province,cocle-province,El Cortezo,el-cortezo
+Panama,PA,Cocle Province,cocle-province,El Cristo,el-cristo
+Panama,PA,Cocle Province,cocle-province,El Potrero,el-potrero
+Panama,PA,Cocle Province,cocle-province,El Retiro,el-retiro
+Panama,PA,Cocle Province,cocle-province,El Roble,el-roble
+Panama,PA,Cocle Province,cocle-province,Entradero,entradero
+Panama,PA,Cocle Province,cocle-province,Farallon,farallon
+Panama,PA,Cocle Province,cocle-province,Guzman,guzman
+Panama,PA,Cocle Province,cocle-province,Juan Diaz,juan-diaz
+Panama,PA,Cocle Province,cocle-province,La Loma,la-loma
+Panama,PA,Cocle Province,cocle-province,La Pintada,la-pintada
+Panama,PA,Cocle Province,cocle-province,Las Huacas del Quije,las-huacas-del-quije
+Panama,PA,Cocle Province,cocle-province,Las Marias,las-marias
+Panama,PA,Cocle Province,cocle-province,Las Minas,las-minas
+Panama,PA,Cocle Province,cocle-province,Las Sabanas,las-sabanas
+Panama,PA,Cocle Province,cocle-province,Llano Grande,llano-grande
+Panama,PA,Cocle Province,cocle-province,Llano Marin,llano-marin
+Panama,PA,Cocle Province,cocle-province,Los Pollos,los-pollos
+Panama,PA,Cocle Province,cocle-province,Nata,nata
+Panama,PA,Cocle Province,cocle-province,Nuestro Amo,nuestro-amo
+Panama,PA,Cocle Province,cocle-province,Ola,ola
+Panama,PA,Cocle Province,cocle-province,Penonome,penonome
+Panama,PA,Cocle Province,cocle-province,Piedras Gordas,piedras-gordas
+Panama,PA,Cocle Province,cocle-province,Pocri,pocri
+Panama,PA,Cocle Province,cocle-province,Rio Grande,rio-grande
+Panama,PA,Cocle Province,cocle-province,Rio Hato,rio-hato
+Panama,PA,Cocle Province,cocle-province,San Juan de Dios,san-juan-de-dios
+Panama,PA,Cocle Province,cocle-province,Toabre,toabre
+Panama,PA,Cocle Province,cocle-province,Toza,toza
+Panama,PA,Cocle Province,cocle-province,Vista Hermosa,vista-hermosa
+Panama,PA,Colon Province,colon-province,Buena Vista,buena-vista
+Panama,PA,Colon Province,colon-province,Cativa,cativa
+Panama,PA,Colon Province,colon-province,Cocle del Norte,cocle-del-norte
+Panama,PA,Colon Province,colon-province,Colon,colon
+Panama,PA,Colon Province,colon-province,Cristobal,cristobal
+Panama,PA,Colon Province,colon-province,Distrito de Chagres,distrito-de-chagres
+Panama,PA,Colon Province,colon-province,Distrito de Colon,distrito-de-colon
+Panama,PA,Colon Province,colon-province,Distrito de Donoso,distrito-de-donoso
+Panama,PA,Colon Province,colon-province,Distrito de Portobelo,distrito-de-portobelo
+Panama,PA,Colon Province,colon-province,Distrito de Santa Isabel,distrito-de-santa-isabel
+Panama,PA,Colon Province,colon-province,El Giral,el-giral
+Panama,PA,Colon Province,colon-province,El Guabo,el-guabo
+Panama,PA,Colon Province,colon-province,El Valle de la Union,el-valle-de-la-union
+Panama,PA,Colon Province,colon-province,Escobal,escobal
+Panama,PA,Colon Province,colon-province,Gatun,gatun
+Panama,PA,Colon Province,colon-province,Gatuncillo,gatuncillo
+Panama,PA,Colon Province,colon-province,Las Margaritas,las-margaritas
+Panama,PA,Colon Province,colon-province,Maria Chiquita,maria-chiquita
+Panama,PA,Colon Province,colon-province,Miramar,miramar
+Panama,PA,Colon Province,colon-province,Nombre de Dios,nombre-de-dios
+Panama,PA,Colon Province,colon-province,Nuevo Chagres,nuevo-chagres
+Panama,PA,Colon Province,colon-province,Nuevo San Juan,nuevo-san-juan
+Panama,PA,Colon Province,colon-province,Nuevo Vigia,nuevo-vigia
+Panama,PA,Colon Province,colon-province,Palenque,palenque
+Panama,PA,Colon Province,colon-province,Palmas Bellas,palmas-bellas
+Panama,PA,Colon Province,colon-province,Palmira,palmira
+Panama,PA,Colon Province,colon-province,Playa Chiquita,playa-chiquita
+Panama,PA,Colon Province,colon-province,Portobelo,portobelo
+Panama,PA,Colon Province,colon-province,Puerto Escondido,puerto-escondido
+Panama,PA,Colon Province,colon-province,Puerto Pilon,puerto-pilon
+Panama,PA,Colon Province,colon-province,Quebrada Bonita Adentro,quebrada-bonita-adentro
+Panama,PA,Colon Province,colon-province,Rio Alejandro,rio-alejandro
+Panama,PA,Colon Province,colon-province,Rio Duque,rio-duque
+Panama,PA,Colon Province,colon-province,Rio Rita,rio-rita
+Panama,PA,Colon Province,colon-province,Sabanitas,sabanitas
+Panama,PA,Colon Province,colon-province,Santa Isabel,santa-isabel
+Panama,PA,Colon Province,colon-province,Santa Rita Arriba,santa-rita-arriba
+Panama,PA,Colon Province,colon-province,Viento Frio,viento-frio
+Panama,PA,Darien Province,darien-province,Boca de Cupe,boca-de-cupe
+Panama,PA,Darien Province,darien-province,Camoganti,camoganti
+Panama,PA,Darien Province,darien-province,Cucunati,cucunati
+Panama,PA,Darien Province,darien-province,Distrito de Chepigana,distrito-de-chepigana
+Panama,PA,Darien Province,darien-province,Distrito de Pinogana,distrito-de-pinogana
+Panama,PA,Darien Province,darien-province,Garachine,garachine
+Panama,PA,Darien Province,darien-province,Jaque,jaque
+Panama,PA,Darien Province,darien-province,La Palma,la-palma
+Panama,PA,Darien Province,darien-province,Meteti,meteti
+Panama,PA,Darien Province,darien-province,Morti,morti
+Panama,PA,Darien Province,darien-province,Pucuro,pucuro
+Panama,PA,Darien Province,darien-province,Santa Fe,santa-fe
+Panama,PA,Darien Province,darien-province,Yaviza,yaviza
+Panama,PA,Embera-Wounaan Comarca,embera-wounaan-comarca,Bayamon,bayamon
+Panama,PA,Embera-Wounaan Comarca,embera-wounaan-comarca,Cemaco,cemaco
+Panama,PA,Embera-Wounaan Comarca,embera-wounaan-comarca,Corozal,corozal
+Panama,PA,Embera-Wounaan Comarca,embera-wounaan-comarca,Sambu,sambu
+Panama,PA,Embera-Wounaan Comarca,embera-wounaan-comarca,Union Choco,union-choco
+Panama,PA,Embera-Wounaan Comarca,embera-wounaan-comarca,Yape,yape
+Panama,PA,Guna Yala,guna-yala,Achutupo,achutupo
+Panama,PA,Guna Yala,guna-yala,Ailigandi,ailigandi
+Panama,PA,Guna Yala,guna-yala,Carti Sugdup,carti-sugdup
+Panama,PA,Guna Yala,guna-yala,El Porvenir,el-porvenir
+Panama,PA,Guna Yala,guna-yala,Mulatupo,mulatupo
+Panama,PA,Guna Yala,guna-yala,Nargana,nargana
+Panama,PA,Guna Yala,guna-yala,Playon Chico,playon-chico
+Panama,PA,Guna Yala,guna-yala,Puerto Obaldia,puerto-obaldia
+Panama,PA,Guna Yala,guna-yala,San Ignacio de Tupile,san-ignacio-de-tupile
+Panama,PA,Guna Yala,guna-yala,Tubuala,tubuala
+Panama,PA,Guna Yala,guna-yala,Ustupo,ustupo
+Panama,PA,Herrera Province,herrera-province,Boca de Parita,boca-de-parita
+Panama,PA,Herrera Province,herrera-province,Cabuya,cabuya
+Panama,PA,Herrera Province,herrera-province,Cerro Largo,cerro-largo
+Panama,PA,Herrera Province,herrera-province,Chitre,chitre
+Panama,PA,Herrera Province,herrera-province,Chumical,chumical
+Panama,PA,Herrera Province,herrera-province,Chupampa,chupampa
+Panama,PA,Herrera Province,herrera-province,Distrito de Chitre,distrito-de-chitre
+Panama,PA,Herrera Province,herrera-province,Distrito de Las Minas,distrito-de-las-minas
+Panama,PA,Herrera Province,herrera-province,Distrito de Los Pozos,distrito-de-los-pozos
+Panama,PA,Herrera Province,herrera-province,Distrito de Ocu,distrito-de-ocu
+Panama,PA,Herrera Province,herrera-province,Distrito de Parita,distrito-de-parita
+Panama,PA,Herrera Province,herrera-province,Distrito de Pese,distrito-de-pese
+Panama,PA,Herrera Province,herrera-province,Distrito de Santa Maria,distrito-de-santa-maria
+Panama,PA,Herrera Province,herrera-province,El Calabacito,el-calabacito
+Panama,PA,Herrera Province,herrera-province,El Capuri,el-capuri
+Panama,PA,Herrera Province,herrera-province,El Cedro,el-cedro
+Panama,PA,Herrera Province,herrera-province,El Pedregoso,el-pedregoso
+Panama,PA,Herrera Province,herrera-province,El Rincon,el-rincon
+Panama,PA,Herrera Province,herrera-province,El Toro,el-toro
+Panama,PA,Herrera Province,herrera-province,La Arena,la-arena
+Panama,PA,Herrera Province,herrera-province,La Trinidad,la-trinidad
+Panama,PA,Herrera Province,herrera-province,Las Guabas,las-guabas
+Panama,PA,Herrera Province,herrera-province,Las Minas,las-minas
+Panama,PA,Herrera Province,herrera-province,Leones Arriba,leones-arriba
+Panama,PA,Herrera Province,herrera-province,Limon de Tijeras,limon-de-tijeras
+Panama,PA,Herrera Province,herrera-province,Llano Bonito,llano-bonito
+Panama,PA,Herrera Province,herrera-province,Llano de La Cruz,llano-de-la-cruz
+Panama,PA,Herrera Province,herrera-province,Llano Grande,llano-grande
+Panama,PA,Herrera Province,herrera-province,Los Canelos,los-canelos
+Panama,PA,Herrera Province,herrera-province,Los Castillos,los-castillos
+Panama,PA,Herrera Province,herrera-province,Los Cerritos,los-cerritos
+Panama,PA,Herrera Province,herrera-province,Los Cerros de Paja,los-cerros-de-paja
+Panama,PA,Herrera Province,herrera-province,Los Pozos,los-pozos
+Panama,PA,Herrera Province,herrera-province,Monagrillo,monagrillo
+Panama,PA,Herrera Province,herrera-province,Ocu,ocu
+Panama,PA,Herrera Province,herrera-province,Paris,paris
+Panama,PA,Herrera Province,herrera-province,Parita,parita
+Panama,PA,Herrera Province,herrera-province,Penas Chatas,penas-chatas
+Panama,PA,Herrera Province,herrera-province,Pese,pese
+Panama,PA,Herrera Province,herrera-province,Pitaloza Arriba,pitaloza-arriba
+Panama,PA,Herrera Province,herrera-province,Portobelillo,portobelillo
+Panama,PA,Herrera Province,herrera-province,Potuga,potuga
+Panama,PA,Herrera Province,herrera-province,Quebrada del Rosario,quebrada-del-rosario
+Panama,PA,Herrera Province,herrera-province,Rincon Hondo,rincon-hondo
+Panama,PA,Herrera Province,herrera-province,Sabana Grande,sabana-grande
+Panama,PA,Herrera Province,herrera-province,San Juan Bautista,san-juan-bautista
+Panama,PA,Herrera Province,herrera-province,Santa Maria,santa-maria
+Panama,PA,Los Santos Province,los-santos-province,Agua Buena,agua-buena
+Panama,PA,Los Santos Province,los-santos-province,Ave Maria,ave-maria
+Panama,PA,Los Santos Province,los-santos-province,Bahia Honda,bahia-honda
+Panama,PA,Los Santos Province,los-santos-province,Bajo Corral,bajo-corral
+Panama,PA,Los Santos Province,los-santos-province,Bayano,bayano
+Panama,PA,Los Santos Province,los-santos-province,Bella Vista,bella-vista
+Panama,PA,Los Santos Province,los-santos-province,Cambutal,cambutal
+Panama,PA,Los Santos Province,los-santos-province,Canas,canas
+Panama,PA,Los Santos Province,los-santos-province,Cedro Arriba,cedro-arriba
+Panama,PA,Los Santos Province,los-santos-province,Distrito de Guarare,distrito-de-guarare
+Panama,PA,Los Santos Province,los-santos-province,Distrito de Las Tablas,distrito-de-las-tablas
+Panama,PA,Los Santos Province,los-santos-province,Distrito de Los Santos,distrito-de-los-santos
+Panama,PA,Los Santos Province,los-santos-province,Distrito de Macaracas,distrito-de-macaracas
+Panama,PA,Los Santos Province,los-santos-province,Distrito de Pedasi,distrito-de-pedasi
+Panama,PA,Los Santos Province,los-santos-province,Distrito de Pocri,distrito-de-pocri
+Panama,PA,Los Santos Province,los-santos-province,Distrito de Tonosi,distrito-de-tonosi
+Panama,PA,Los Santos Province,los-santos-province,El Cacao,el-cacao
+Panama,PA,Los Santos Province,los-santos-province,El Canafistulo,el-canafistulo
+Panama,PA,Los Santos Province,los-santos-province,El Carate,el-carate
+Panama,PA,Los Santos Province,los-santos-province,El Cocal,el-cocal
+Panama,PA,Los Santos Province,los-santos-province,El Cortezo,el-cortezo
+Panama,PA,Los Santos Province,los-santos-province,El Ejido,el-ejido
+Panama,PA,Los Santos Province,los-santos-province,El Guasimo,el-guasimo
+Panama,PA,Los Santos Province,los-santos-province,El Hato,el-hato
+Panama,PA,Los Santos Province,los-santos-province,El Macano,el-macano
+Panama,PA,Los Santos Province,los-santos-province,El Manantial,el-manantial
+Panama,PA,Los Santos Province,los-santos-province,El Munoz,el-munoz
+Panama,PA,Los Santos Province,los-santos-province,El Pedregoso,el-pedregoso
+Panama,PA,Los Santos Province,los-santos-province,Flores,flores
+Panama,PA,Los Santos Province,los-santos-province,Guarare,guarare
+Panama,PA,Los Santos Province,los-santos-province,Guarare Arriba,guarare-arriba
+Panama,PA,Los Santos Province,los-santos-province,La Colorada,la-colorada
+Panama,PA,Los Santos Province,los-santos-province,La Enea,la-enea
+Panama,PA,Los Santos Province,los-santos-province,La Espigadilla,la-espigadilla
+Panama,PA,Los Santos Province,los-santos-province,La Laja,la-laja
+Panama,PA,Los Santos Province,los-santos-province,La Mesa,la-mesa
+Panama,PA,Los Santos Province,los-santos-province,La Miel,la-miel
+Panama,PA,Los Santos Province,los-santos-province,La Palma,la-palma
+Panama,PA,Los Santos Province,los-santos-province,La Pasera,la-pasera
+Panama,PA,Los Santos Province,los-santos-province,La Tiza,la-tiza
+Panama,PA,Los Santos Province,los-santos-province,La Tronosa,la-tronosa
+Panama,PA,Los Santos Province,los-santos-province,Lajamina,lajamina
+Panama,PA,Los Santos Province,los-santos-province,Las Cruces,las-cruces
+Panama,PA,Los Santos Province,los-santos-province,Las Guabas,las-guabas
+Panama,PA,Los Santos Province,los-santos-province,Las Palmas,las-palmas
+Panama,PA,Los Santos Province,los-santos-province,Las Palmitas,las-palmitas
+Panama,PA,Los Santos Province,los-santos-province,Las Tablas,las-tablas
+Panama,PA,Los Santos Province,los-santos-province,Las Trancas,las-trancas
+Panama,PA,Los Santos Province,los-santos-province,Llano Abajo,llano-abajo
+Panama,PA,Los Santos Province,los-santos-province,Llano de Piedra,llano-de-piedra
+Panama,PA,Los Santos Province,los-santos-province,Llano Largo,llano-largo
+Panama,PA,Los Santos Province,los-santos-province,Los Angeles,los-angeles
+Panama,PA,Los Santos Province,los-santos-province,Los Asientos,los-asientos
+Panama,PA,Los Santos Province,los-santos-province,Los Olivos,los-olivos
+Panama,PA,Los Santos Province,los-santos-province,Los Santos,los-santos
+Panama,PA,Los Santos Province,los-santos-province,Macaracas,macaracas
+Panama,PA,Los Santos Province,los-santos-province,Mogollon,mogollon
+Panama,PA,Los Santos Province,los-santos-province,Nuario,nuario
+Panama,PA,Los Santos Province,los-santos-province,Oria Arriba,oria-arriba
+Panama,PA,Los Santos Province,los-santos-province,Palmira,palmira
+Panama,PA,Los Santos Province,los-santos-province,Paraiso,paraiso
+Panama,PA,Los Santos Province,los-santos-province,Paritilla,paritilla
+Panama,PA,Los Santos Province,los-santos-province,Pedasi,pedasi
+Panama,PA,Los Santos Province,los-santos-province,Pena Blanca,pena-blanca
+Panama,PA,Los Santos Province,los-santos-province,Perales,perales
+Panama,PA,Los Santos Province,los-santos-province,Pocri,pocri
+Panama,PA,Los Santos Province,los-santos-province,Rio Hondo,rio-hondo
+Panama,PA,Los Santos Province,los-santos-province,Sabana Grande,sabana-grande
+Panama,PA,Los Santos Province,los-santos-province,San Jose,san-jose
+Panama,PA,Los Santos Province,los-santos-province,Santa Ana Arriba,santa-ana-arriba
+Panama,PA,Los Santos Province,los-santos-province,Santo Domingo,santo-domingo
+Panama,PA,Los Santos Province,los-santos-province,Sesteadero,sesteadero
+Panama,PA,Los Santos Province,los-santos-province,Tonosi,tonosi
+Panama,PA,Los Santos Province,los-santos-province,Tres Quebradas,tres-quebradas
+Panama,PA,Los Santos Province,los-santos-province,Valle Rico,valle-rico
+Panama,PA,Los Santos Province,los-santos-province,Vallerriquito,vallerriquito
+Panama,PA,Los Santos Province,los-santos-province,Villa Lourdes,villa-lourdes
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Bahia Azul,bahia-azul
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Besiko,besiko
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Bisira,bisira
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Boca de Balsa,boca-de-balsa
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Buenos Aires,buenos-aires
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Camaron Arriba,camaron-arriba
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Cerro Banco,cerro-banco
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Cerro Cana,cerro-cana
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Cerro Plata,cerro-plata
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Chichica,chichica
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Guayabito,guayabito
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Hato Chami,hato-chami
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Hato Corotu,hato-corotu
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Kankintu,kankintu
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Kusapin,kusapin
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Lajero Arriba,lajero-arriba
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Llano Nopo,llano-nopo
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Loma Yuca,loma-yuca
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Mirono,mirono
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Muna,muna
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Nole Duima,nole-duima
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Nurun,nurun
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Oma,oma
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Paredon Arriba,paredon-arriba
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Plan de Chorcha,plan-de-chorcha
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Pueblo Nuevo,pueblo-nuevo
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Quebrada Canoa,quebrada-canoa
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Quebrada Tula,quebrada-tula
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Sitio Prado,sitio-prado
+Panama,PA,Ngobe-Bugle Comarca,ngobe-bugle-comarca,Tobobe,tobobe
+Panama,PA,Panama Oeste Province,panama-oeste-province,Alto del Espino,alto-del-espino
+Panama,PA,Panama Oeste Province,panama-oeste-province,Altos de San Francisco,altos-de-san-francisco
+Panama,PA,Panama Oeste Province,panama-oeste-province,Arenosa,arenosa
+Panama,PA,Panama Oeste Province,panama-oeste-province,Arosemena,arosemena
+Panama,PA,Panama Oeste Province,panama-oeste-province,Arraijan,arraijan
+Panama,PA,Panama Oeste Province,panama-oeste-province,Bejuco,bejuco
+Panama,PA,Panama Oeste Province,panama-oeste-province,Buenos Aires,buenos-aires
+Panama,PA,Panama Oeste Province,panama-oeste-province,Cabuya,cabuya
+Panama,PA,Panama Oeste Province,panama-oeste-province,Caimito,caimito
+Panama,PA,Panama Oeste Province,panama-oeste-province,Capira,capira
+Panama,PA,Panama Oeste Province,panama-oeste-province,Cermeno,cermeno
+Panama,PA,Panama Oeste Province,panama-oeste-province,Cerro Cama,cerro-cama
+Panama,PA,Panama Oeste Province,panama-oeste-province,Chame,chame
+Panama,PA,Panama Oeste Province,panama-oeste-province,Ciri de Los Sotos,ciri-de-los-sotos
+Panama,PA,Panama Oeste Province,panama-oeste-province,Distrito Arraijan,distrito-arraijan
+Panama,PA,Panama Oeste Province,panama-oeste-province,Distrito de Capira,distrito-de-capira
+Panama,PA,Panama Oeste Province,panama-oeste-province,Distrito de Chame,distrito-de-chame
+Panama,PA,Panama Oeste Province,panama-oeste-province,Distrito de La Chorrera,distrito-de-la-chorrera
+Panama,PA,Panama Oeste Province,panama-oeste-province,Distrito de San Carlos,distrito-de-san-carlos
+Panama,PA,Panama Oeste Province,panama-oeste-province,El Cacao,el-cacao
+Panama,PA,Panama Oeste Province,panama-oeste-province,El Coco,el-coco
+Panama,PA,Panama Oeste Province,panama-oeste-province,El Espave,el-espave
+Panama,PA,Panama Oeste Province,panama-oeste-province,El Espino,el-espino
+Panama,PA,Panama Oeste Province,panama-oeste-province,El Higo,el-higo
+Panama,PA,Panama Oeste Province,panama-oeste-province,El Libano,el-libano
+Panama,PA,Panama Oeste Province,panama-oeste-province,Guadalupe,guadalupe
+Panama,PA,Panama Oeste Province,panama-oeste-province,Guayabito,guayabito
+Panama,PA,Panama Oeste Province,panama-oeste-province,Hato Montana,hato-montana
+Panama,PA,Panama Oeste Province,panama-oeste-province,La Chorrera,la-chorrera
+Panama,PA,Panama Oeste Province,panama-oeste-province,La Ermita,la-ermita
+Panama,PA,Panama Oeste Province,panama-oeste-province,La Herradura,la-herradura
+Panama,PA,Panama Oeste Province,panama-oeste-province,La Laguna,la-laguna
+Panama,PA,Panama Oeste Province,panama-oeste-province,La Mitra,la-mitra
+Panama,PA,Panama Oeste Province,panama-oeste-province,La Pesa,la-pesa
+Panama,PA,Panama Oeste Province,panama-oeste-province,Las Colinas,las-colinas
+Panama,PA,Panama Oeste Province,panama-oeste-province,Las Lajas,las-lajas
+Panama,PA,Panama Oeste Province,panama-oeste-province,Las Uvas,las-uvas
+Panama,PA,Panama Oeste Province,panama-oeste-province,Llano Largo,llano-largo
+Panama,PA,Panama Oeste Province,panama-oeste-province,Los Llanitos,los-llanitos
+Panama,PA,Panama Oeste Province,panama-oeste-province,Mendoza,mendoza
+Panama,PA,Panama Oeste Province,panama-oeste-province,Nueva Arenosa,nueva-arenosa
+Panama,PA,Panama Oeste Province,panama-oeste-province,Nueva Gorgona,nueva-gorgona
+Panama,PA,Panama Oeste Province,panama-oeste-province,Nuevo Arraijan,nuevo-arraijan
+Panama,PA,Panama Oeste Province,panama-oeste-province,Nuevo Emperador,nuevo-emperador
+Panama,PA,Panama Oeste Province,panama-oeste-province,Playa Leona,playa-leona
+Panama,PA,Panama Oeste Province,panama-oeste-province,Potrero Grande,potrero-grande
+Panama,PA,Panama Oeste Province,panama-oeste-province,Puerto Caimito,puerto-caimito
+Panama,PA,Panama Oeste Province,panama-oeste-province,Rio Congo,rio-congo
+Panama,PA,Panama Oeste Province,panama-oeste-province,San Carlos,san-carlos
+Panama,PA,Panama Oeste Province,panama-oeste-province,San Jose,san-jose
+Panama,PA,Panama Oeste Province,panama-oeste-province,San Vicente de Bique,san-vicente-de-bique
+Panama,PA,Panama Oeste Province,panama-oeste-province,Santa Clara,santa-clara
+Panama,PA,Panama Oeste Province,panama-oeste-province,Santa Rita,santa-rita
+Panama,PA,Panama Oeste Province,panama-oeste-province,Sora,sora
+Panama,PA,Panama Oeste Province,panama-oeste-province,Veracruz,veracruz
+Panama,PA,Panama Oeste Province,panama-oeste-province,Villa Carmen,villa-carmen
+Panama,PA,Panama Oeste Province,panama-oeste-province,Villa Rosario,villa-rosario
+Panama,PA,Panama Oeste Province,panama-oeste-province,Vista Alegre,vista-alegre
+Panama,PA,Panama Province,panama-province,Alcalde Diaz,alcalde-diaz
+Panama,PA,Panama Province,panama-province,Ancon,ancon
+Panama,PA,Panama Province,panama-province,Brujas,brujas
+Panama,PA,Panama Province,panama-province,Cabra Numero Uno,cabra-numero-uno
+Panama,PA,Panama Province,panama-province,Caimitillo,caimitillo
+Panama,PA,Panama Province,panama-province,Calzada Larga,calzada-larga
+Panama,PA,Panama Province,panama-province,Canita,canita
+Panama,PA,Panama Province,panama-province,Cerro Azul,cerro-azul
+Panama,PA,Panama Province,panama-province,Chepillo,chepillo
+Panama,PA,Panama Province,panama-province,Chepo,chepo
+Panama,PA,Panama Province,panama-province,Chilibre,chilibre
+Panama,PA,Panama Province,panama-province,Chiman,chiman
+Panama,PA,Panama Province,panama-province,Contadora,contadora
+Panama,PA,Panama Province,panama-province,Curundu,curundu
+Panama,PA,Panama Province,panama-province,Distrito de Balboa,distrito-de-balboa
+Panama,PA,Panama Province,panama-province,Distrito de Chepo,distrito-de-chepo
+Panama,PA,Panama Province,panama-province,Distrito de Chiman,distrito-de-chiman
+Panama,PA,Panama Province,panama-province,Distrito de Panama,distrito-de-panama
+Panama,PA,Panama Province,panama-province,Distrito de Taboga,distrito-de-taboga
+Panama,PA,Panama Province,panama-province,El Chorrillo,el-chorrillo
+Panama,PA,Panama Province,panama-province,El Progreso,el-progreso
+Panama,PA,Panama Province,panama-province,Gonzalillo,gonzalillo
+Panama,PA,Panama Province,panama-province,Howard,howard
+Panama,PA,Panama Province,panama-province,Juan Diaz,juan-diaz
+Panama,PA,Panama Province,panama-province,La Cabima,la-cabima
+Panama,PA,Panama Province,panama-province,La Colorada,la-colorada
+Panama,PA,Panama Province,panama-province,La Ensenada,la-ensenada
+Panama,PA,Panama Province,panama-province,La Esmeralda,la-esmeralda
+Panama,PA,Panama Province,panama-province,La Guinea,la-guinea
+Panama,PA,Panama Province,panama-province,La Mesa,la-mesa
+Panama,PA,Panama Province,panama-province,Las Cumbres,las-cumbres
+Panama,PA,Panama Province,panama-province,Las Margaritas,las-margaritas
+Panama,PA,Panama Province,panama-province,Lidice,lidice
+Panama,PA,Panama Province,panama-province,Los Lotes,los-lotes
+Panama,PA,Panama Province,panama-province,Nueva Esperanza,nueva-esperanza
+Panama,PA,Panama Province,panama-province,Nuevo Belen,nuevo-belen
+Panama,PA,Panama Province,panama-province,Pacora,pacora
+Panama,PA,Panama Province,panama-province,Panama,panama
+Panama,PA,Panama Province,panama-province,Parque Lefevre,parque-lefevre
+Panama,PA,Panama Province,panama-province,Pasiga,pasiga
+Panama,PA,Panama Province,panama-province,Pedregal,pedregal
+Panama,PA,Panama Province,panama-province,Rio Abajo,rio-abajo
+Panama,PA,Panama Province,panama-province,San Antonio,san-antonio
+Panama,PA,Panama Province,panama-province,San Felipe,san-felipe
+Panama,PA,Panama Province,panama-province,San Miguel,san-miguel
+Panama,PA,Panama Province,panama-province,San Miguelito,san-miguelito
+Panama,PA,Panama Province,panama-province,San Vicente,san-vicente
+Panama,PA,Panama Province,panama-province,Tocumen,tocumen
+Panama,PA,Panama Province,panama-province,Torti,torti
+Panama,PA,Panama Province,panama-province,Union de Azuero,union-de-azuero
+Panama,PA,Panama Province,panama-province,Union Santena,union-santena
+Panama,PA,Panama Province,panama-province,Villa Unida,villa-unida
+Panama,PA,Panama Province,panama-province,Vista Hermosa,vista-hermosa
+Panama,PA,Veraguas Province,veraguas-province,Alto de Jesus,alto-de-jesus
+Panama,PA,Veraguas Province,veraguas-province,Arenas,arenas
+Panama,PA,Veraguas Province,veraguas-province,Atalaya,atalaya
+Panama,PA,Veraguas Province,veraguas-province,Barnizal,barnizal
+Panama,PA,Veraguas Province,veraguas-province,Bisvalles,bisvalles
+Panama,PA,Veraguas Province,veraguas-province,Boqueron,boqueron
+Panama,PA,Veraguas Province,veraguas-province,Boro,boro
+Panama,PA,Veraguas Province,veraguas-province,Calabacito,calabacito
+Panama,PA,Veraguas Province,veraguas-province,Calidonia,calidonia
+Panama,PA,Veraguas Province,veraguas-province,Calobre,calobre
+Panama,PA,Veraguas Province,veraguas-province,Calovebora,calovebora
+Panama,PA,Veraguas Province,veraguas-province,Canazas,canazas
+Panama,PA,Veraguas Province,veraguas-province,Canto del Llano,canto-del-llano
+Panama,PA,Veraguas Province,veraguas-province,Corozal,corozal
+Panama,PA,Veraguas Province,veraguas-province,Distrito de Atalaya,distrito-de-atalaya
+Panama,PA,Veraguas Province,veraguas-province,Distrito de Calobre,distrito-de-calobre
+Panama,PA,Veraguas Province,veraguas-province,Distrito de Canazas,distrito-de-canazas
+Panama,PA,Veraguas Province,veraguas-province,Distrito de La Mesa,distrito-de-la-mesa
+Panama,PA,Veraguas Province,veraguas-province,Distrito de Las Palmas,distrito-de-las-palmas
+Panama,PA,Veraguas Province,veraguas-province,Distrito de Montijo,distrito-de-montijo
+Panama,PA,Veraguas Province,veraguas-province,Distrito de Rio de Jesus,distrito-de-rio-de-jesus
+Panama,PA,Veraguas Province,veraguas-province,Distrito de San Francisco,distrito-de-san-francisco
+Panama,PA,Veraguas Province,veraguas-province,Distrito de Santa Fe,distrito-de-santa-fe
+Panama,PA,Veraguas Province,veraguas-province,Distrito de Santiago,distrito-de-santiago
+Panama,PA,Veraguas Province,veraguas-province,Distrito de Sona,distrito-de-sona
+Panama,PA,Veraguas Province,veraguas-province,El Alto,el-alto
+Panama,PA,Veraguas Province,veraguas-province,El Barrito,el-barrito
+Panama,PA,Veraguas Province,veraguas-province,El Cocla,el-cocla
+Panama,PA,Veraguas Province,veraguas-province,El Espino de Santa Rosa,el-espino-de-santa-rosa
+Panama,PA,Veraguas Province,veraguas-province,El Maranon,el-maranon
+Panama,PA,Veraguas Province,veraguas-province,El Maria,el-maria
+Panama,PA,Veraguas Province,veraguas-province,El Pajaro,el-pajaro
+Panama,PA,Veraguas Province,veraguas-province,El Pantano,el-pantano
+Panama,PA,Veraguas Province,veraguas-province,El Penon,el-penon
+Panama,PA,Veraguas Province,veraguas-province,El Picador,el-picador
+Panama,PA,Veraguas Province,veraguas-province,El Potrero,el-potrero
+Panama,PA,Veraguas Province,veraguas-province,El Rincon,el-rincon
+Panama,PA,Veraguas Province,veraguas-province,El Uvito,el-uvito
+Panama,PA,Veraguas Province,veraguas-province,Guarumal,guarumal
+Panama,PA,Veraguas Province,veraguas-province,La Colorada,la-colorada
+Panama,PA,Veraguas Province,veraguas-province,La Garceana,la-garceana
+Panama,PA,Veraguas Province,veraguas-province,La Laguna,la-laguna
+Panama,PA,Veraguas Province,veraguas-province,La Loma,la-loma
+Panama,PA,Veraguas Province,veraguas-province,La Mesa,la-mesa
+Panama,PA,Veraguas Province,veraguas-province,La Montanuela,la-montanuela
+Panama,PA,Veraguas Province,veraguas-province,La Pena,la-pena
+Panama,PA,Veraguas Province,veraguas-province,La Raya de Calobre,la-raya-de-calobre
+Panama,PA,Veraguas Province,veraguas-province,La Raya de Santa Maria,la-raya-de-santa-maria
+Panama,PA,Veraguas Province,veraguas-province,La Yeguada,la-yeguada
+Panama,PA,Veraguas Province,veraguas-province,Las Guias Abajo,las-guias-abajo
+Panama,PA,Veraguas Province,veraguas-province,Las Huacas,las-huacas
+Panama,PA,Veraguas Province,veraguas-province,Las Palmas,las-palmas
+Panama,PA,Veraguas Province,veraguas-province,Leones Arriba,leones-arriba
+Panama,PA,Veraguas Province,veraguas-province,Llano Grande,llano-grande
+Panama,PA,Veraguas Province,veraguas-province,Lola,lola
+Panama,PA,Veraguas Province,veraguas-province,Los Algarrobos,los-algarrobos
+Panama,PA,Veraguas Province,veraguas-province,Los Castillos,los-castillos
+Panama,PA,Veraguas Province,veraguas-province,Los Higos,los-higos
+Panama,PA,Veraguas Province,veraguas-province,Mariato District,mariato-district
+Panama,PA,Veraguas Province,veraguas-province,Monjaras,monjaras
+Panama,PA,Veraguas Province,veraguas-province,Montijo,montijo
+Panama,PA,Veraguas Province,veraguas-province,Piedras Gordas,piedras-gordas
+Panama,PA,Veraguas Province,veraguas-province,Ponuga,ponuga
+Panama,PA,Veraguas Province,veraguas-province,Puerto Vidal,puerto-vidal
+Panama,PA,Veraguas Province,veraguas-province,Quebrada de Oro,quebrada-de-oro
+Panama,PA,Veraguas Province,veraguas-province,Rio de Jesus,rio-de-jesus
+Panama,PA,Veraguas Province,veraguas-province,Rio Grande,rio-grande
+Panama,PA,Veraguas Province,veraguas-province,Rodeo Viejo,rodeo-viejo
+Panama,PA,Veraguas Province,veraguas-province,San Bartolo,san-bartolo
+Panama,PA,Veraguas Province,veraguas-province,San Francisco,san-francisco
+Panama,PA,Veraguas Province,veraguas-province,San Jose,san-jose
+Panama,PA,Veraguas Province,veraguas-province,San Juan,san-juan
+Panama,PA,Veraguas Province,veraguas-province,San Marcelo,san-marcelo
+Panama,PA,Veraguas Province,veraguas-province,San Pedro del Espino,san-pedro-del-espino
+Panama,PA,Veraguas Province,veraguas-province,Santa Fe,santa-fe
+Panama,PA,Veraguas Province,veraguas-province,Santiago de Veraguas,santiago-de-veraguas
+Panama,PA,Veraguas Province,veraguas-province,Sona,sona
+Panama,PA,Veraguas Province,veraguas-province,Tebario,tebario
+Panama,PA,Veraguas Province,veraguas-province,Utira,utira
+Panama,PA,Veraguas Province,veraguas-province,Vigui,vigui
+Panama,PA,Veraguas Province,veraguas-province,Zapotillo,zapotillo

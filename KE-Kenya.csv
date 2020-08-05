@@ -1,0 +1,121 @@
+s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Kenya,KE,Baringo County,baringo-county,Baringo,baringo
+Kenya,KE,Baringo County,baringo-county,Eldama Ravine,eldama-ravine
+Kenya,KE,Baringo County,baringo-county,Kabarnet,kabarnet
+Kenya,KE,Bomet County,bomet-county,Sotik,sotik
+Kenya,KE,Bomet County,bomet-county,Sotik Post,sotik-post
+Kenya,KE,Bungoma County,bungoma-county,Bungoma,bungoma
+Kenya,KE,Bungoma County,bungoma-county,Malikisi,malikisi
+Kenya,KE,Bungoma County,bungoma-county,Webuye,webuye
+Kenya,KE,Busia County,busia-county,Busia,busia
+Kenya,KE,Busia County,busia-county,Luanda,luanda
+Kenya,KE,Busia County,busia-county,Lugulu,lugulu
+Kenya,KE,Busia County,busia-county,Malaba,malaba
+Kenya,KE,Busia County,busia-county,Nambare,nambare
+Kenya,KE,Busia County,busia-county,Port Victoria,port-victoria
+Kenya,KE,Central Province,central-province,Central Province,central-province
+Kenya,KE,Coast Province,coast-province,Coast Province,coast-province
+Kenya,KE,Eastern Province,eastern-province,Eastern Province,eastern-province
+Kenya,KE,Elgeyo-Marakwet County,elgeyo-marakwet-county,Elgeyo-Marakwet County,elgeyo-marakwet-county
+Kenya,KE,Embu County,embu-county,Embu,embu
+Kenya,KE,Garissa County,garissa-county,Garissa,garissa
+Kenya,KE,Homa Bay County,homa-bay-county,Homa Bay,homa-bay
+Kenya,KE,Homa Bay County,homa-bay-county,Oyugis,oyugis
+Kenya,KE,Homa Bay County,homa-bay-county,Rachuonyo District,rachuonyo-district
+Kenya,KE,Isiolo County,isiolo-county,Isiolo,isiolo
+Kenya,KE,Kajiado County,kajiado-county,Kajiado,kajiado
+Kenya,KE,Kajiado County,kajiado-county,Magadi,magadi
+Kenya,KE,Kajiado County,kajiado-county,Ngong,ngong
+Kenya,KE,Kakamega County,kakamega-county,Butere,butere
+Kenya,KE,Kakamega County,kakamega-county,Kakamega,kakamega
+Kenya,KE,Kakamega County,kakamega-county,Mumias,mumias
+Kenya,KE,Kericho County,kericho-county,Kericho,kericho
+Kenya,KE,Kericho County,kericho-county,Kipkelion,kipkelion
+Kenya,KE,Kericho County,kericho-county,Litein,litein
+Kenya,KE,Kericho County,kericho-county,Londiani,londiani
+Kenya,KE,Kiambu County,kiambu-county,Kiambu,kiambu
+Kenya,KE,Kiambu County,kiambu-county,Kikuyu,kikuyu
+Kenya,KE,Kiambu County,kiambu-county,Limuru,limuru
+Kenya,KE,Kilifi County,kilifi-county,Iten,iten
+Kenya,KE,Kilifi County,kilifi-county,Kapsowar,kapsowar
+Kenya,KE,Kilifi County,kilifi-county,Kilifi,kilifi
+Kenya,KE,Kilifi County,kilifi-county,Malindi,malindi
+Kenya,KE,Kilifi County,kilifi-county,Mariakani,mariakani
+Kenya,KE,Kilifi County,kilifi-county,Takaungu,takaungu
+Kenya,KE,Kirinyaga County,kirinyaga-county,Kerugoya,kerugoya
+Kenya,KE,Kirinyaga County,kirinyaga-county,Sagana,sagana
+Kenya,KE,Kisii County,kisii-county,Kisii,kisii
+Kenya,KE,Kisii County,kisii-county,Ogembo,ogembo
+Kenya,KE,Kisumu County,kisumu-county,Ahero,ahero
+Kenya,KE,Kisumu County,kisumu-county,Kisumu,kisumu
+Kenya,KE,Kisumu County,kisumu-county,Muhoroni,muhoroni
+Kenya,KE,Kitui County,kitui-county,Kitui,kitui
+Kenya,KE,Kitui County,kitui-county,Mwingi,mwingi
+Kenya,KE,Kwale County,kwale-county,Gazi,gazi
+Kenya,KE,Kwale County,kwale-county,Kinango,kinango
+Kenya,KE,Kwale County,kwale-county,Kwale,kwale
+Kenya,KE,Kwale County,kwale-county,Sawa Sawa,sawa-sawa
+Kenya,KE,Kwale County,kwale-county,Shimoni,shimoni
+Kenya,KE,Laikipia County,laikipia-county,Nanyuki,nanyuki
+Kenya,KE,Laikipia County,laikipia-county,Nyahururu,nyahururu
+Kenya,KE,Laikipia County,laikipia-county,Rumuruti,rumuruti
+Kenya,KE,Lamu County,lamu-county,Lamu,lamu
+Kenya,KE,Lamu County,lamu-county,Witu,witu
+Kenya,KE,Machakos County,machakos-county,Athi River,athi-river
+Kenya,KE,Machakos County,machakos-county,Kangundo,kangundo
+Kenya,KE,Machakos County,machakos-county,Konza,konza
+Kenya,KE,Machakos County,machakos-county,Machakos,machakos
+Kenya,KE,Makueni County,makueni-county,Makueni Boma,makueni-boma
+Kenya,KE,Makueni County,makueni-county,Mtito Andei,mtito-andei
+Kenya,KE,Makueni County,makueni-county,Wote,wote
+Kenya,KE,Mandera County,mandera-county,Mandera,mandera
+Kenya,KE,Marsabit County,marsabit-county,Marsabit,marsabit
+Kenya,KE,Marsabit County,marsabit-county,Moyale,moyale
+Kenya,KE,Meru County,meru-county,Maua,maua
+Kenya,KE,Meru County,meru-county,Meru,meru
+Kenya,KE,Migori County,migori-county,Kihancha,kihancha
+Kenya,KE,Migori County,migori-county,Migori,migori
+Kenya,KE,Mombasa County,mombasa-county,Mombasa,mombasa
+Kenya,KE,Muranga County,muranga-county,Kangema,kangema
+Kenya,KE,Muranga County,muranga-county,Karuri,karuri
+Kenya,KE,Muranga County,muranga-county,Maragua,maragua
+Kenya,KE,Muranga County,muranga-county,Muranga,muranga
+Kenya,KE,Nairobi,nairobi,Nairobi,nairobi
+Kenya,KE,Nairobi,nairobi,Pumwani,pumwani
+Kenya,KE,Nairobi,nairobi,Thika,thika
+Kenya,KE,Nakuru District,nakuru-district,Kijabe,kijabe
+Kenya,KE,Nakuru District,nakuru-district,Molo,molo
+Kenya,KE,Nakuru District,nakuru-district,Naivasha,naivasha
+Kenya,KE,Nakuru District,nakuru-district,Nakuru,nakuru
+Kenya,KE,Nakuru District,nakuru-district,Rongai,rongai
+Kenya,KE,Nandi District,nandi-district,Kapsabet,kapsabet
+Kenya,KE,Nandi District,nandi-district,Nandi Hills,nandi-hills
+Kenya,KE,Narok County,narok-county,Narok,narok
+Kenya,KE,North Eastern Province,north-eastern-province,North Eastern Province,north-eastern-province
+Kenya,KE,Nyamira District,nyamira-district,Keroka,keroka
+Kenya,KE,Nyamira District,nyamira-district,Nyamira,nyamira
+Kenya,KE,Nyandarua County,nyandarua-county,Ol Kalou,ol-kalou
+Kenya,KE,Nyanza Province,nyanza-province,Nyanza Province,nyanza-province
+Kenya,KE,Nyeri County,nyeri-county,Naro Moru,naro-moru
+Kenya,KE,Nyeri County,nyeri-county,Nyeri,nyeri
+Kenya,KE,Nyeri County,nyeri-county,Othaya,othaya
+Kenya,KE,Rift Valley Province,rift-valley-province,Rift Valley Province,rift-valley-province
+Kenya,KE,Samburu County,samburu-county,Maralal,maralal
+Kenya,KE,Siaya County,siaya-county,Bondo,bondo
+Kenya,KE,Siaya County,siaya-county,Siaya,siaya
+Kenya,KE,Siaya County,siaya-county,Yala,yala
+Kenya,KE,TaitaTaveta County,taitataveta-county,TaitaTaveta County,taitataveta-county
+Kenya,KE,Tana River County,tana-river-county,Hola,hola
+Kenya,KE,Tana River County,tana-river-county,Kipini,kipini
+Kenya,KE,Tharaka Nithi County,tharaka-nithi-county,Chuka,chuka
+Kenya,KE,Trans-Nzoia District,trans-nzoia-district,Kitale,kitale
+Kenya,KE,Turkana County,turkana-county,Lodwar,lodwar
+Kenya,KE,Uasin Gishu District,uasin-gishu-district,Eldoret,eldoret
+Kenya,KE,Vihiga District,vihiga-district,Vihiga District,vihiga-district
+Kenya,KE,Wajir County,wajir-county,Wajir,wajir
+Kenya,KE,West Pokot County,west-pokot-county,Chepareria,chepareria
+Kenya,KE,West Pokot County,west-pokot-county,Kapenguria,kapenguria
+Kenya,KE,West Pokot County,west-pokot-county,Taveta,taveta
+Kenya,KE,West Pokot County,west-pokot-county,Voi,voi
+Kenya,KE,West Pokot County,west-pokot-county,Wundanyi,wundanyi
+Kenya,KE,Western Province,western-province,Western Province,western-province

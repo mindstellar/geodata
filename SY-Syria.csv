@@ -1,0 +1,143 @@
+s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Syria,SY,Al-Hasakah Governorate,al-hasakah-governorate,Ad Darbasiyah,ad-darbasiyah
+Syria,SY,Al-Hasakah Governorate,al-hasakah-governorate,Al Hasakah,al-hasakah
+Syria,SY,Al-Hasakah Governorate,al-hasakah-governorate,Al Malikiyah,al-malikiyah
+Syria,SY,Al-Hasakah Governorate,al-hasakah-governorate,Al Qamishli,al-qamishli
+Syria,SY,Al-Hasakah Governorate,al-hasakah-governorate,Al-Malikiyah District,al-malikiyah-district
+Syria,SY,Al-Hasakah Governorate,al-hasakah-governorate,Amude,amude
+Syria,SY,Al-Raqqah Governorate,al-raqqah-governorate,Al-Thawrah District,al-thawrah-district
+Syria,SY,Al-Raqqah Governorate,al-raqqah-governorate,Ar Raqqah,ar-raqqah
+Syria,SY,Al-Raqqah Governorate,al-raqqah-governorate,Ar-Raqqah District,ar-raqqah-district
+Syria,SY,Al-Raqqah Governorate,al-raqqah-governorate,Ath Thawrah,ath-thawrah
+Syria,SY,Al-Raqqah Governorate,al-raqqah-governorate,Tall Abyad,tall-abyad
+Syria,SY,Al-Raqqah Governorate,al-raqqah-governorate,Tell Abyad District,tell-abyad-district
+Syria,SY,Aleppo Governorate,aleppo-governorate,Afrin,afrin
+Syria,SY,Aleppo Governorate,aleppo-governorate,Ayn al Arab,ayn-al-arab
+Syria,SY,Aleppo Governorate,aleppo-governorate,Afrin District,afrin-district
+Syria,SY,Aleppo Governorate,aleppo-governorate,Al Atarib,al-atarib
+Syria,SY,Aleppo Governorate,aleppo-governorate,Al Bab,al-bab
+Syria,SY,Aleppo Governorate,aleppo-governorate,Al-Bab District,al-bab-district
+Syria,SY,Aleppo Governorate,aleppo-governorate,Aleppo,aleppo
+Syria,SY,Aleppo Governorate,aleppo-governorate,As Safirah,as-safirah
+Syria,SY,Aleppo Governorate,aleppo-governorate,Azaz District,azaz-district
+Syria,SY,Aleppo Governorate,aleppo-governorate,Dayr Hafir,dayr-hafir
+Syria,SY,Aleppo Governorate,aleppo-governorate,Izaz,izaz
+Syria,SY,Aleppo Governorate,aleppo-governorate,Jarabulus,jarabulus
+Syria,SY,Aleppo Governorate,aleppo-governorate,Kafr Saghir,kafr-saghir
+Syria,SY,Aleppo Governorate,aleppo-governorate,Khanasir,khanasir
+Syria,SY,Aleppo Governorate,aleppo-governorate,Manbij,manbij
+Syria,SY,Aleppo Governorate,aleppo-governorate,Manbij District,manbij-district
+Syria,SY,Aleppo Governorate,aleppo-governorate,Mount Simeon District,mount-simeon-district
+Syria,SY,Aleppo Governorate,aleppo-governorate,Nubl,nubl
+Syria,SY,Aleppo Governorate,aleppo-governorate,Suran,suran
+Syria,SY,Aleppo Governorate,aleppo-governorate,Tadif,tadif
+Syria,SY,Aleppo Governorate,aleppo-governorate,Tall Rifat,tall-rifat
+Syria,SY,As-Suwayda Governorate,as-suwayda-governorate,As-Suwayda,as-suwayda
+Syria,SY,As-Suwayda Governorate,as-suwayda-governorate,As-Suwayda District,as-suwayda-district
+Syria,SY,As-Suwayda Governorate,as-suwayda-governorate,Salakhid,salakhid
+Syria,SY,As-Suwayda Governorate,as-suwayda-governorate,Salkhad,salkhad
+Syria,SY,As-Suwayda Governorate,as-suwayda-governorate,Salkhad District,salkhad-district
+Syria,SY,As-Suwayda Governorate,as-suwayda-governorate,Shahba,shahba
+Syria,SY,As-Suwayda Governorate,as-suwayda-governorate,Shahba District,shahba-district
+Syria,SY,Damascus Governorate,damascus-governorate,Damascus,damascus
+Syria,SY,Daraa Governorate,daraa-governorate,Al Harak,al-harak
+Syria,SY,Daraa Governorate,daraa-governorate,Al Muzayrib,al-muzayrib
+Syria,SY,Daraa Governorate,daraa-governorate,Al-Sanamayn District,al-sanamayn-district
+Syria,SY,Daraa Governorate,daraa-governorate,As Sanamayn,as-sanamayn
+Syria,SY,Daraa Governorate,daraa-governorate,Ash Shaykh Miskin,ash-shaykh-miskin
+Syria,SY,Daraa Governorate,daraa-governorate,Busra ash Sham,busra-ash-sham
+Syria,SY,Daraa Governorate,daraa-governorate,Dara,dara
+Syria,SY,Daraa Governorate,daraa-governorate,Ghabaghib,ghabaghib
+Syria,SY,Daraa Governorate,daraa-governorate,Inkhil,inkhil
+Syria,SY,Daraa Governorate,daraa-governorate,Izra District,izra-district
+Syria,SY,Daraa Governorate,daraa-governorate,Izra,izra
+Syria,SY,Daraa Governorate,daraa-governorate,Jasim,jasim
+Syria,SY,Daraa Governorate,daraa-governorate,Nawa,nawa
+Syria,SY,Daraa Governorate,daraa-governorate,Tafas,tafas
+Syria,SY,Daraa Governorate,daraa-governorate,Tasil,tasil
+Syria,SY,Deir ez-Zor Governorate,deir-ez-zor-governorate,Al Mayadin,al-mayadin
+Syria,SY,Deir ez-Zor Governorate,deir-ez-zor-governorate,Albu Kamal,albu-kamal
+Syria,SY,Deir ez-Zor Governorate,deir-ez-zor-governorate,Deir ez-Zor,deir-ez-zor
+Syria,SY,Deir ez-Zor Governorate,deir-ez-zor-governorate,Hajin,hajin
+Syria,SY,Deir ez-Zor Governorate,deir-ez-zor-governorate,Subaykhan,subaykhan
+Syria,SY,Hama Governorate,hama-governorate,Al-Salamiyah District,al-salamiyah-district
+Syria,SY,Hama Governorate,hama-governorate,As Salamiyah,as-salamiyah
+Syria,SY,Hama Governorate,hama-governorate,As Suqaylibiyah,as-suqaylibiyah
+Syria,SY,Hama Governorate,hama-governorate,Halfaya,halfaya
+Syria,SY,Hama Governorate,hama-governorate,Hama District,hama-district
+Syria,SY,Hama Governorate,hama-governorate,Hamah,hamah
+Syria,SY,Hama Governorate,hama-governorate,Kafr Zayta,kafr-zayta
+Syria,SY,Hama Governorate,hama-governorate,Masyaf,masyaf
+Syria,SY,Hama Governorate,hama-governorate,Masyaf District,masyaf-district
+Syria,SY,Hama Governorate,hama-governorate,Murak,murak
+Syria,SY,Hama Governorate,hama-governorate,Souran,souran
+Syria,SY,Hama Governorate,hama-governorate,Tall Salhab,tall-salhab
+Syria,SY,Hama Governorate,hama-governorate,Tayyibat al Imam,tayyibat-al-imam
+Syria,SY,Hama Governorate,hama-governorate,Tremseh,tremseh
+Syria,SY,Homs Governorate,homs-governorate,Al Ghantu,al-ghantu
+Syria,SY,Homs Governorate,homs-governorate,Al Qaryatayn,al-qaryatayn
+Syria,SY,Homs Governorate,homs-governorate,Al Qusayr,al-qusayr
+Syria,SY,Homs Governorate,homs-governorate,Al-Rastan District,al-rastan-district
+Syria,SY,Homs Governorate,homs-governorate,Ar Rastan,ar-rastan
+Syria,SY,Homs Governorate,homs-governorate,Hisya,hisya
+Syria,SY,Homs Governorate,homs-governorate,Homs,homs
+Syria,SY,Homs Governorate,homs-governorate,Kafr Laha,kafr-laha
+Syria,SY,Homs Governorate,homs-governorate,Mukharram al Fawqani,mukharram-al-fawqani
+Syria,SY,Homs Governorate,homs-governorate,Sadad,sadad
+Syria,SY,Homs Governorate,homs-governorate,Tadmur,tadmur
+Syria,SY,Homs Governorate,homs-governorate,Tadmur District,tadmur-district
+Syria,SY,Homs Governorate,homs-governorate,Tallbisah,tallbisah
+Syria,SY,Homs Governorate,homs-governorate,Tallkalakh,tallkalakh
+Syria,SY,Idlib Governorate,idlib-governorate,Ad Dana,ad-dana
+Syria,SY,Idlib Governorate,idlib-governorate,Ariha,ariha
+Syria,SY,Idlib Governorate,idlib-governorate,Armanaz,armanaz
+Syria,SY,Idlib Governorate,idlib-governorate,Binnish,binnish
+Syria,SY,Idlib Governorate,idlib-governorate,Darkush,darkush
+Syria,SY,Idlib Governorate,idlib-governorate,Harem District,harem-district
+Syria,SY,Idlib Governorate,idlib-governorate,Harim,harim
+Syria,SY,Idlib Governorate,idlib-governorate,Idlib,idlib
+Syria,SY,Idlib Governorate,idlib-governorate,Jisr al-Shughur District,jisr-al-shughur-district
+Syria,SY,Idlib Governorate,idlib-governorate,Jisr ash Shughur,jisr-ash-shughur
+Syria,SY,Idlib Governorate,idlib-governorate,Kafr Takharim,kafr-takharim
+Syria,SY,Idlib Governorate,idlib-governorate,Kafranbel,kafranbel
+Syria,SY,Idlib Governorate,idlib-governorate,Khan Shaykhun,khan-shaykhun
+Syria,SY,Idlib Governorate,idlib-governorate,Maarratmisrin,maarratmisrin
+Syria,SY,Idlib Governorate,idlib-governorate,Maarrat al-Nu'man District,maarrat-al-numan-district
+Syria,SY,Idlib Governorate,idlib-governorate,Salqin,salqin
+Syria,SY,Idlib Governorate,idlib-governorate,Saraqib,saraqib
+Syria,SY,Idlib Governorate,idlib-governorate,Sarmin,sarmin
+Syria,SY,Idlib Governorate,idlib-governorate,Taftanaz,taftanaz
+Syria,SY,Latakia Governorate,latakia-governorate,Al-Haffah District,al-haffah-district
+Syria,SY,Latakia Governorate,latakia-governorate,Jablah,jablah
+Syria,SY,Latakia Governorate,latakia-governorate,Jableh District,jableh-district
+Syria,SY,Latakia Governorate,latakia-governorate,Kassab,kassab
+Syria,SY,Latakia Governorate,latakia-governorate,Latakia,latakia
+Syria,SY,Latakia Governorate,latakia-governorate,Latakia District,latakia-district
+Syria,SY,Latakia Governorate,latakia-governorate,Qardaha District,qardaha-district
+Syria,SY,Latakia Governorate,latakia-governorate,Slinfah,slinfah
+Syria,SY,Quneitra Governorate,quneitra-governorate,Al Qunaytirah,al-qunaytirah
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Irbin,irbin
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Al Kiswah,al-kiswah
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Al Qutayfah,al-qutayfah
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Al-Zabadani District,al-zabadani-district
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,An Nabk,an-nabk
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,At Tall,at-tall
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Az Zabadani,az-zabadani
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Darayya,darayya
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Dayr al Asafir,dayr-al-asafir
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Douma,douma
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Harasta,harasta
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Jaramana,jaramana
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Jayrud,jayrud
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Malula,malula
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Medaya,medaya
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Qarah,qarah
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Qatana,qatana
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Saydnaya,saydnaya
+Syria,SY,Rif Dimashq Governorate,rif-dimashq-governorate,Yabrud,yabrud
+Syria,SY,Tartus Governorate,tartus-governorate,Ad Duraykish,ad-duraykish
+Syria,SY,Tartus Governorate,tartus-governorate,Baniyas,baniyas
+Syria,SY,Tartus Governorate,tartus-governorate,Kaff al-Jaa,kaff-al-jaa
+Syria,SY,Tartus Governorate,tartus-governorate,Safita District,safita-district
+Syria,SY,Tartus Governorate,tartus-governorate,Satita,satita
+Syria,SY,Tartus Governorate,tartus-governorate,Tartouss,tartouss

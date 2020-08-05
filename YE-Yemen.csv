@@ -1,0 +1,354 @@
+s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Yemen,YE,'Adan Governorate,adan-governorate,Aden,aden
+Yemen,YE,'Adan Governorate,adan-governorate,Al Buraiqeh,al-buraiqeh
+Yemen,YE,'Adan Governorate,adan-governorate,Al Mansura,al-mansura
+Yemen,YE,'Adan Governorate,adan-governorate,Al Mualla,al-mualla
+Yemen,YE,'Adan Governorate,adan-governorate,Ash Shaikh Outhman,ash-shaikh-outhman
+Yemen,YE,'Adan Governorate,adan-governorate,Attawahi,attawahi
+Yemen,YE,'Adan Governorate,adan-governorate,Craiter,craiter
+Yemen,YE,'Adan Governorate,adan-governorate,Dar Sad,dar-sad
+Yemen,YE,'Amran Governorate,amran-governorate,Amran,amran
+Yemen,YE,'Amran Governorate,amran-governorate,Al Ashah,al-ashah
+Yemen,YE,'Amran Governorate,amran-governorate,Al Madan,al-madan
+Yemen,YE,'Amran Governorate,amran-governorate,Al Qaflah,al-qaflah
+Yemen,YE,'Amran Governorate,amran-governorate,As Sawd,as-sawd
+Yemen,YE,'Amran Governorate,amran-governorate,As Sudah,as-sudah
+Yemen,YE,'Amran Governorate,amran-governorate,Bani Suraim,bani-suraim
+Yemen,YE,'Amran Governorate,amran-governorate,Dhi Bin,dhi-bin
+Yemen,YE,'Amran Governorate,amran-governorate,Habur Zulaymah,habur-zulaymah
+Yemen,YE,'Amran Governorate,amran-governorate,Harf Sufyan,harf-sufyan
+Yemen,YE,'Amran Governorate,amran-governorate,Hooth,hooth
+Yemen,YE,'Amran Governorate,amran-governorate,Iyal Surayh,iyal-surayh
+Yemen,YE,'Amran Governorate,amran-governorate,Jabal Iyal Yazid,jabal-iyal-yazid
+Yemen,YE,'Amran Governorate,amran-governorate,Khamir,khamir
+Yemen,YE,'Amran Governorate,amran-governorate,Kharif,kharif
+Yemen,YE,'Amran Governorate,amran-governorate,Maswar,maswar
+Yemen,YE,'Amran Governorate,amran-governorate,Raydah,raydah
+Yemen,YE,'Amran Governorate,amran-governorate,Shaharah,shaharah
+Yemen,YE,'Amran Governorate,amran-governorate,Suwayr,suwayr
+Yemen,YE,'Amran Governorate,amran-governorate,Thula,thula
+Yemen,YE,Abyan Governorate,abyan-governorate,Ahwar,ahwar
+Yemen,YE,Abyan Governorate,abyan-governorate,Ahwar,ahwar
+Yemen,YE,Abyan Governorate,abyan-governorate,Al Mahfad,al-mahfad
+Yemen,YE,Abyan Governorate,abyan-governorate,Al Wade'a,al-wadea
+Yemen,YE,Abyan Governorate,abyan-governorate,Jawf al Maqbabah,jawf-al-maqbabah
+Yemen,YE,Abyan Governorate,abyan-governorate,Jayshan,jayshan
+Yemen,YE,Abyan Governorate,abyan-governorate,Khanfir,khanfir
+Yemen,YE,Abyan Governorate,abyan-governorate,Lawdar,lawdar
+Yemen,YE,Abyan Governorate,abyan-governorate,Mudiyah,mudiyah
+Yemen,YE,Abyan Governorate,abyan-governorate,Mudiyah,mudiyah
+Yemen,YE,Abyan Governorate,abyan-governorate,Rasad,rasad
+Yemen,YE,Abyan Governorate,abyan-governorate,Sarar,sarar
+Yemen,YE,Abyan Governorate,abyan-governorate,Sibah,sibah
+Yemen,YE,Abyan Governorate,abyan-governorate,Zingibar,zingibar
+Yemen,YE,Abyan Governorate,abyan-governorate,Zinjibar,zinjibar
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Al A'rsh,al-arsh
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Al Bayda,al-bayda
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Al Bayda City,al-bayda-city
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Al Bayda,al-bayda
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Al Malagim,al-malagim
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Al Quraishyah,al-quraishyah
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Ar Ryashyyah,ar-ryashyyah
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,As Sawadiyah,as-sawadiyah
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,As Sawma'ah,as-sawmaah
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Ash Sharafayn,ash-sharafayn
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,At Taffah,at-taffah
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Az Zahir,az-zahir
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Dhi Na'im,dhi-naim
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Maswarah,maswarah
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Mukayras,mukayras
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Na'man,naman
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Nati',nati
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Rada,rada
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Radman Al Awad,radman-al-awad
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Sabah,sabah
+Yemen,YE,Al Bayda' Governorate,al-bayda-governorate,Wald Rabi',wald-rabi
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Ad Dahi,ad-dahi
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Ad Durayhimi,ad-durayhimi
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Al Garrahi,al-garrahi
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Al Hajjaylah,al-hajjaylah
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Al Hali,al-hali
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Al Hawak,al-hawak
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Al Hudaydah,al-hudaydah
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Al Mansuriyah,al-mansuriyah
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Al Marawi'ah,al-marawiah
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Al Mighlaf,al-mighlaf
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Al Mina,al-mina
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Al Munirah,al-munirah
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Al Qanawis,al-qanawis
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Alluheyah,alluheyah
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,As Salif,as-salif
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,As Salif,as-salif
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,As Sukhnah,as-sukhnah
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,At Tuhayat,at-tuhayat
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Az Zaydiyah,az-zaydiyah
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Az Zuhrah,az-zuhrah
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Bajil,bajil
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Bayt al Faqih,bayt-al-faqih
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Bura,bura
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Hays,hays
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Jabal Ra's,jabal-ras
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Kamaran,kamaran
+Yemen,YE,Al Hudaydah Governorate,al-hudaydah-governorate,Zabid,zabid
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Al Inan,al-inan
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Al Ghayl,al-ghayl
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Al Hazm,al-hazm
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Al Hazm,al-hazm
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Al Humaydat,al-humaydat
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Al Khalq,al-khalq
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Al Maslub,al-maslub
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Al Matammah,al-matammah
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Al Maton,al-maton
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Az Zahir,az-zahir
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Bart al Anan,bart-al-anan
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Khabb wa ash Sha'af,khabb-wa-ash-shaaf
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Kharab Al Marashi,kharab-al-marashi
+Yemen,YE,Al Jawf Governorate,al-jawf-governorate,Rajuzah,rajuzah
+Yemen,YE,Al Mahrah Governorate,al-mahrah-governorate,Al Ghaydah,al-ghaydah
+Yemen,YE,Al Mahrah Governorate,al-mahrah-governorate,Al Ghayzah,al-ghayzah
+Yemen,YE,Al Mahrah Governorate,al-mahrah-governorate,Al Masilah,al-masilah
+Yemen,YE,Al Mahrah Governorate,al-mahrah-governorate,Hat,hat
+Yemen,YE,Al Mahrah Governorate,al-mahrah-governorate,Hawf,hawf
+Yemen,YE,Al Mahrah Governorate,al-mahrah-governorate,Huswain,huswain
+Yemen,YE,Al Mahrah Governorate,al-mahrah-governorate,Man'ar,manar
+Yemen,YE,Al Mahrah Governorate,al-mahrah-governorate,Qishn,qishn
+Yemen,YE,Al Mahrah Governorate,al-mahrah-governorate,Sayhut,sayhut
+Yemen,YE,Al Mahrah Governorate,al-mahrah-governorate,Shahan,shahan
+Yemen,YE,Al Mahwit Governorate,al-mahwit-governorate,Al Khabt,al-khabt
+Yemen,YE,Al Mahwit Governorate,al-mahwit-governorate,Al Mahwait,al-mahwait
+Yemen,YE,Al Mahwit Governorate,al-mahwit-governorate,Al Mahwit,al-mahwit
+Yemen,YE,Al Mahwit Governorate,al-mahwit-governorate,Ar Rujum,ar-rujum
+Yemen,YE,Al Mahwit Governorate,al-mahwit-governorate,At Tawilah,at-tawilah
+Yemen,YE,Al Mahwit Governorate,al-mahwit-governorate,Bani Sa'd,bani-sad
+Yemen,YE,Al Mahwit Governorate,al-mahwit-governorate,Hufash,hufash
+Yemen,YE,Al Mahwit Governorate,al-mahwit-governorate,Milhan,milhan
+Yemen,YE,Al Mahwit Governorate,al-mahwit-governorate,Shibam Kawkaban,shibam-kawkaban
+Yemen,YE,Dhamar Governorate,dhamar-governorate,Ans,ans
+Yemen,YE,Dhamar Governorate,dhamar-governorate,Al Hada,al-hada
+Yemen,YE,Dhamar Governorate,dhamar-governorate,Al Manar,al-manar
+Yemen,YE,Dhamar Governorate,dhamar-governorate,"Al-Medy Village,  ",al-medy-village
+Yemen,YE,Dhamar Governorate,dhamar-governorate,Dawran Aness,dawran-aness
+Yemen,YE,Dhamar Governorate,dhamar-governorate,Dhamar,dhamar
+Yemen,YE,Dhamar Governorate,dhamar-governorate,Jabal Ash sharq,jabal-ash-sharq
+Yemen,YE,Dhamar Governorate,dhamar-governorate,Jahran,jahran
+Yemen,YE,Dhamar Governorate,dhamar-governorate,Maghirib Ans,maghirib-ans
+Yemen,YE,Dhamar Governorate,dhamar-governorate,Mayfa'at Anss,mayfaat-anss
+Yemen,YE,Dhamar Governorate,dhamar-governorate,Utmah,utmah
+Yemen,YE,Dhamar Governorate,dhamar-governorate,Wusab Al Ali,wusab-al-ali
+Yemen,YE,Dhamar Governorate,dhamar-governorate,Wusab As Safil,wusab-as-safil
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Ad Dis,ad-dis
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Ad Dis ash Sharqiyah,ad-dis-ash-sharqiyah
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Adh Dhlia'ah,adh-dhliaah
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Al Abr,al-abr
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Al Hamdi,al-hamdi
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Al Mukalla,al-mukalla
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Al Mukalla City,al-mukalla-city
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Al Qaf,al-qaf
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Al Qatn,al-qatn
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Amd,amd
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Ar Raydah Wa Qusayar,ar-raydah-wa-qusayar
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,As Sawm,as-sawm
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Ash Shihr,ash-shihr
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Ash Shihr,ash-shihr
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,At Tahaluf,at-tahaluf
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Brom Mayfa,brom-mayfa
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Daw'an,dawan
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Ghayl Ba Wazir,ghayl-ba-wazir
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Ghayl Bin Yamin,ghayl-bin-yamin
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Hagr As Sai'ar,hagr-as-saiar
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Hajr,hajr
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Huraidhah,huraidhah
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Kilmia,kilmia
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Mukalla,mukalla
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Rakhyah,rakhyah
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Rumah,rumah
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Sah,sah
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Sayun,sayun
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Shibam,shibam
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Suhayl Shibam,suhayl-shibam
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Tarim,tarim
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Tarim,tarim
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Thamud,thamud
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Wadi Al Ayn,wadi-al-ayn
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Yabuth,yabuth
+Yemen,YE,Hadhramaut Governorate,hadhramaut-governorate,Zamakh wa Manwakh,zamakh-wa-manwakh
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Abs,abs
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Aflah Al Yaman,aflah-al-yaman
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Aflah Ash Shawm,aflah-ash-shawm
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Al Jamimah,al-jamimah
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Al Maghrabah,al-maghrabah
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Al Mahabishah,al-mahabishah
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Al Miftah,al-miftah
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Ash Shaghadirah,ash-shaghadirah
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Ash Shahil,ash-shahil
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Aslem,aslem
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Bakil Al Mir,bakil-al-mir
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Bani al Awwam,bani-al-awwam
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Bani Al Awam,bani-al-awam
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Bani Qa'is,bani-qais
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Hajjah,hajjah
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Hajjah,hajjah
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Harad District,harad-district
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Hayran,hayran
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Khayran Al Muharraq,khayran-al-muharraq
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Ku'aydinah,kuaydinah
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Kuhlan Affar,kuhlan-affar
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Kuhlan Ash Sharaf,kuhlan-ash-sharaf
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Kushar,kushar
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Mabyan,mabyan
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Midi,midi
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Mustaba,mustaba
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Najrah,najrah
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Qafl Shamer,qafl-shamer
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Qarah,qarah
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Sharas,sharas
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Wadhrah,wadhrah
+Yemen,YE,Hajjah Governorate,hajjah-governorate,Washhah,washhah
+Yemen,YE,Ibb Governorate,ibb-governorate,Al Udayn,al-udayn
+Yemen,YE,Ibb Governorate,ibb-governorate,Al Dhihar,al-dhihar
+Yemen,YE,Ibb Governorate,ibb-governorate,Al Makhadir,al-makhadir
+Yemen,YE,Ibb Governorate,ibb-governorate,Al Mashannah,al-mashannah
+Yemen,YE,Ibb Governorate,ibb-governorate,Al Qafr,al-qafr
+Yemen,YE,Ibb Governorate,ibb-governorate,An Nadirah,an-nadirah
+Yemen,YE,Ibb Governorate,ibb-governorate,Ar Radmah,ar-radmah
+Yemen,YE,Ibb Governorate,ibb-governorate,As Sabrah,as-sabrah
+Yemen,YE,Ibb Governorate,ibb-governorate,As Saddah,as-saddah
+Yemen,YE,Ibb Governorate,ibb-governorate,As Sayyani,as-sayyani
+Yemen,YE,Ibb Governorate,ibb-governorate,Ash Sha'ir,ash-shair
+Yemen,YE,Ibb Governorate,ibb-governorate,Ba'dan,badan
+Yemen,YE,Ibb Governorate,ibb-governorate,Dhi as Sufal,dhi-as-sufal
+Yemen,YE,Ibb Governorate,ibb-governorate,Far Al Udayn,far-al-udayn
+Yemen,YE,Ibb Governorate,ibb-governorate,Hazm Al Udayn,hazm-al-udayn
+Yemen,YE,Ibb Governorate,ibb-governorate,Hubaysh,hubaysh
+Yemen,YE,Ibb Governorate,ibb-governorate,Ibb,ibb
+Yemen,YE,Ibb Governorate,ibb-governorate,Jiblah,jiblah
+Yemen,YE,Ibb Governorate,ibb-governorate,Mudhaykhirah,mudhaykhirah
+Yemen,YE,Ibb Governorate,ibb-governorate,Yarim,yarim
+Yemen,YE,Lahij Governorate,lahij-governorate,Al  Hawtah,al-hawtah
+Yemen,YE,Lahij Governorate,lahij-governorate,Al Habilayn,al-habilayn
+Yemen,YE,Lahij Governorate,lahij-governorate,Al Had,al-had
+Yemen,YE,Lahij Governorate,lahij-governorate,Al Madaribah Wa Al Arah,al-madaribah-wa-al-arah
+Yemen,YE,Lahij Governorate,lahij-governorate,Al Maflahy,al-maflahy
+Yemen,YE,Lahij Governorate,lahij-governorate,Al Maqatirah,al-maqatirah
+Yemen,YE,Lahij Governorate,lahij-governorate,Al Milah,al-milah
+Yemen,YE,Lahij Governorate,lahij-governorate,Al Musaymir,al-musaymir
+Yemen,YE,Lahij Governorate,lahij-governorate,Al Musaymir,al-musaymir
+Yemen,YE,Lahij Governorate,lahij-governorate,Al Qabbaytah,al-qabbaytah
+Yemen,YE,Lahij Governorate,lahij-governorate,Habil Jabr,habil-jabr
+Yemen,YE,Lahij Governorate,lahij-governorate,Halimayn,halimayn
+Yemen,YE,Lahij Governorate,lahij-governorate,Lahij,lahij
+Yemen,YE,Lahij Governorate,lahij-governorate,Radfan,radfan
+Yemen,YE,Lahij Governorate,lahij-governorate,Tuban,tuban
+Yemen,YE,Lahij Governorate,lahij-governorate,Tur Al Bahah,tur-al-bahah
+Yemen,YE,Lahij Governorate,lahij-governorate,Yafa'a,yafaa
+Yemen,YE,Lahij Governorate,lahij-governorate,Yahr,yahr
+Yemen,YE,Ma'rib Governorate,marib-governorate,Al Abdiyah,al-abdiyah
+Yemen,YE,Ma'rib Governorate,marib-governorate,Al Jubah,al-jubah
+Yemen,YE,Ma'rib Governorate,marib-governorate,Bidbadah,bidbadah
+Yemen,YE,Ma'rib Governorate,marib-governorate,Harib,harib
+Yemen,YE,Ma'rib Governorate,marib-governorate,Harib Al Qaramish,harib-al-qaramish
+Yemen,YE,Ma'rib Governorate,marib-governorate,Jabal Murad,jabal-murad
+Yemen,YE,Ma'rib Governorate,marib-governorate,Ma'rib,marib
+Yemen,YE,Ma'rib Governorate,marib-governorate,Mahliyah,mahliyah
+Yemen,YE,Ma'rib Governorate,marib-governorate,Majzar,majzar
+Yemen,YE,Ma'rib Governorate,marib-governorate,Marib,marib
+Yemen,YE,Ma'rib Governorate,marib-governorate,Marib City,marib-city
+Yemen,YE,Ma'rib Governorate,marib-governorate,Medghal,medghal
+Yemen,YE,Ma'rib Governorate,marib-governorate,Raghwan,raghwan
+Yemen,YE,Ma'rib Governorate,marib-governorate,Rahabah,rahabah
+Yemen,YE,Ma'rib Governorate,marib-governorate,Sirwah,sirwah
+Yemen,YE,Raymah Governorate,raymah-governorate,Al Jabin,al-jabin
+Yemen,YE,Raymah Governorate,raymah-governorate,Al Jafariyah,al-jafariyah
+Yemen,YE,Raymah Governorate,raymah-governorate,As Salafiyah,as-salafiyah
+Yemen,YE,Raymah Governorate,raymah-governorate,Bilad At Ta'am,bilad-at-taam
+Yemen,YE,Raymah Governorate,raymah-governorate,Kusmah,kusmah
+Yemen,YE,Raymah Governorate,raymah-governorate,Mazhar,mazhar
+Yemen,YE,Saada Governorate,saada-governorate,Al Dhaher,al-dhaher
+Yemen,YE,Saada Governorate,saada-governorate,Al Hashwah,al-hashwah
+Yemen,YE,Saada Governorate,saada-governorate,As Safra,as-safra
+Yemen,YE,Saada Governorate,saada-governorate,Ash Shawati,ash-shawati
+Yemen,YE,Saada Governorate,saada-governorate,Baqim,baqim
+Yemen,YE,Saada Governorate,saada-governorate,Ghamr,ghamr
+Yemen,YE,Saada Governorate,saada-governorate,Haydan,haydan
+Yemen,YE,Saada Governorate,saada-governorate,Kitaf wa Al Boqe'e,kitaf-wa-al-boqee
+Yemen,YE,Saada Governorate,saada-governorate,Majz,majz
+Yemen,YE,Saada Governorate,saada-governorate,Monabbih,monabbih
+Yemen,YE,Saada Governorate,saada-governorate,Qatabir,qatabir
+Yemen,YE,Saada Governorate,saada-governorate,Razih,razih
+Yemen,YE,Saada Governorate,saada-governorate,Sa'dah,sadah
+Yemen,YE,Saada Governorate,saada-governorate,Sadah,sadah
+Yemen,YE,Saada Governorate,saada-governorate,Sahar,sahar
+Yemen,YE,Saada Governorate,saada-governorate,Saqayn,saqayn
+Yemen,YE,Saada Governorate,saada-governorate,Saqayn,saqayn
+Yemen,YE,Saada Governorate,saada-governorate,Shada'a,shadaa
+Yemen,YE,Sana'a,sanaa,Sana'a,sanaa
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Al Haymah Ad Dakhiliyah,al-haymah-ad-dakhiliyah
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Al Haymah Al Kharijiyah,al-haymah-al-kharijiyah
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Al Husn,al-husn
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Al Khaniq,al-khaniq
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Arhab,arhab
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Attyal,attyal
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Bani Dhabyan,bani-dhabyan
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Bani Hushaysh,bani-hushaysh
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Bani Matar,bani-matar
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Bilad Ar Rus,bilad-ar-rus
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Hamdan,hamdan
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Jihanah,jihanah
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Khwlan,khwlan
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Manakhah,manakhah
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Manakhah,manakhah
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Nihm,nihm
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Sa'fan,safan
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Sahar,sahar
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Sanaa,sanaa
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Sanhan,sanhan
+Yemen,YE,Sana'a Governorate,sanaa-governorate,Sayyan,sayyan
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Ain,ain
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Al Aqir,al-aqir
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Al Talh,al-talh
+Yemen,YE,Shabwah Governorate,shabwah-governorate,AL-khasha upper,al-khasha-upper
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Ar Rawdah,ar-rawdah
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Arma,arma
+Yemen,YE,Shabwah Governorate,shabwah-governorate,As Said,as-said
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Ataq,ataq
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Bayhan,bayhan
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Dhar,dhar
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Habban,habban
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Hatib,hatib
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Jardan,jardan
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Khimar,khimar
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Mayfa'a,mayfaa
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Merkhah Al Ulya,merkhah-al-ulya
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Merkhah As Sufla,merkhah-as-sufla
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Nisab,nisab
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Rudum,rudum
+Yemen,YE,Shabwah Governorate,shabwah-governorate,Usaylan,usaylan
+Yemen,YE,Socotra Governorate,socotra-governorate,Hadibu,hadibu
+Yemen,YE,Socotra Governorate,socotra-governorate,Hidaybu,hidaybu
+Yemen,YE,Socotra Governorate,socotra-governorate,Qalansiyah,qalansiyah
+Yemen,YE,Socotra Governorate,socotra-governorate,Qulensya Wa Abd Al Kuri,qulensya-wa-abd-al-kuri
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Al Ma'afer,al-maafer
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Al Mawasit,al-mawasit
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Al Misrakh,al-misrakh
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Al Mudhaffar,al-mudhaffar
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Al Mukha,al-mukha
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Al Qahirah,al-qahirah
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Al Wazi'iyah,al-waziiyah
+Yemen,YE,Ta'izz Governorate,taizz-governorate,As Silw,as-silw
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Ash Shamayatayn,ash-shamayatayn
+Yemen,YE,Ta'izz Governorate,taizz-governorate,At Taizziyah,at-taizziyah
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Dhubab,dhubab
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Dimnat Khadir,dimnat-khadir
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Hayfan,hayfan
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Jabal Habashy,jabal-habashy
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Maqbanah,maqbanah
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Mashra'a Wa Hadnan,mashraa-wa-hadnan
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Mawiyah,mawiyah
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Mawza,mawza
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Sabir Al Mawadim,sabir-al-mawadim
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Salh,salh
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Sama,sama
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Shara'b Ar Rawnah,sharab-ar-rawnah
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Shara'b As Salam,sharab-as-salam
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Taizz,taizz
+Yemen,YE,Ta'izz Governorate,taizz-governorate,Village of ALAMRAH,village-of-alamrah

@@ -1,0 +1,278 @@
+s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Morocco,MA,Al Haouz Province,al-haouz-province,Al Haouz Province,al-haouz-province
+Morocco,MA,Al Hoceima Province,al-hoceima-province,Al Hoceima Province,al-hoceima-province
+Morocco,MA,Aousserd Province,aousserd-province,Aousserd Province,aousserd-province
+Morocco,MA,Assa-Zag Province,assa-zag-province,Agadir,agadir
+Morocco,MA,Assa-Zag Province,assa-zag-province,Agadir Melloul,agadir-melloul
+Morocco,MA,Assa-Zag Province,assa-zag-province,Agadir-Ida-ou-Tnan,agadir-ida-ou-tnan
+Morocco,MA,Assa-Zag Province,assa-zag-province,Aoulouz,aoulouz
+Morocco,MA,Assa-Zag Province,assa-zag-province,Aourir,aourir
+Morocco,MA,Assa-Zag Province,assa-zag-province,Arazane,arazane
+Morocco,MA,Assa-Zag Province,assa-zag-province,Argana,argana
+Morocco,MA,Assa-Zag Province,assa-zag-province,Bigoudine,bigoudine
+Morocco,MA,Assa-Zag Province,assa-zag-province,Chtouka-Ait-Baha,chtouka-ait-baha
+Morocco,MA,Assa-Zag Province,assa-zag-province,Inezgane,inezgane
+Morocco,MA,Assa-Zag Province,assa-zag-province,Inezgane-Ait Melloul,inezgane-ait-melloul
+Morocco,MA,Assa-Zag Province,assa-zag-province,Ouijjane,ouijjane
+Morocco,MA,Assa-Zag Province,assa-zag-province,Oulad Teima,oulad-teima
+Morocco,MA,Assa-Zag Province,assa-zag-province,Reggada,reggada
+Morocco,MA,Assa-Zag Province,assa-zag-province,Sidi Ifni,sidi-ifni
+Morocco,MA,Assa-Zag Province,assa-zag-province,Tadrart,tadrart
+Morocco,MA,Assa-Zag Province,assa-zag-province,Tafraout,tafraout
+Morocco,MA,Assa-Zag Province,assa-zag-province,Taghazout,taghazout
+Morocco,MA,Assa-Zag Province,assa-zag-province,Taliouine,taliouine
+Morocco,MA,Assa-Zag Province,assa-zag-province,Tamri,tamri
+Morocco,MA,Assa-Zag Province,assa-zag-province,Tanalt,tanalt
+Morocco,MA,Assa-Zag Province,assa-zag-province,Taroudannt,taroudannt
+Morocco,MA,Assa-Zag Province,assa-zag-province,Taroudant,taroudant
+Morocco,MA,Assa-Zag Province,assa-zag-province,Tarsouat,tarsouat
+Morocco,MA,Assa-Zag Province,assa-zag-province,Tata,tata
+Morocco,MA,Assa-Zag Province,assa-zag-province,Tiznit,tiznit
+Morocco,MA,Azilal Province,azilal-province,Azilal Province,azilal-province
+Morocco,MA,Ben Slimane Province,ben-slimane-province,Ben Slimane Province,ben-slimane-province
+Morocco,MA,Beni Mellal-Khenifra,beni-mellal-khenifra,Beni Mellal-Khenifra,beni-mellal-khenifra
+Morocco,MA,Beni-Mellal Province,beni-mellal-province,Beni-Mellal Province,beni-mellal-province
+Morocco,MA,Berkane Province,berkane-province,Berkane Province,berkane-province
+Morocco,MA,Boujdour Province,boujdour-province,Boujdour Province,boujdour-province
+Morocco,MA,Boulemane Province,boulemane-province,Boulemane Province,boulemane-province
+Morocco,MA,Casablanca-Settat,casablanca-settat,Azemmour,azemmour
+Morocco,MA,Casablanca-Settat,casablanca-settat,Benslimane,benslimane
+Morocco,MA,Casablanca-Settat,casablanca-settat,Berrechid,berrechid
+Morocco,MA,Casablanca-Settat,casablanca-settat,Berrechid Province,berrechid-province
+Morocco,MA,Casablanca-Settat,casablanca-settat,Boulaouane,boulaouane
+Morocco,MA,Casablanca-Settat,casablanca-settat,Bouskoura,bouskoura
+Morocco,MA,Casablanca-Settat,casablanca-settat,Bouznika,bouznika
+Morocco,MA,Casablanca-Settat,casablanca-settat,Casablanca,casablanca
+Morocco,MA,Casablanca-Settat,casablanca-settat,El Jadid,el-jadid
+Morocco,MA,Casablanca-Settat,casablanca-settat,El-Jadida,el-jadida
+Morocco,MA,Casablanca-Settat,casablanca-settat,Mediouna,mediouna
+Morocco,MA,Casablanca-Settat,casablanca-settat,Mohammedia,mohammedia
+Morocco,MA,Casablanca-Settat,casablanca-settat,Nouaceur,nouaceur
+Morocco,MA,Casablanca-Settat,casablanca-settat,Oualidia,oualidia
+Morocco,MA,Casablanca-Settat,casablanca-settat,Oulad Frej,oulad-frej
+Morocco,MA,Casablanca-Settat,casablanca-settat,Settat,settat
+Morocco,MA,Casablanca-Settat,casablanca-settat,Settat Province,settat-province
+Morocco,MA,Casablanca-Settat,casablanca-settat,Sidi Bennour,sidi-bennour
+Morocco,MA,Casablanca-Settat,casablanca-settat,Sidi Smaiil,sidi-smaiil
+Morocco,MA,Casablanca-Settat,casablanca-settat,Tit Mellil,tit-mellil
+Morocco,MA,Casablanca-Settat,casablanca-settat,Zawyat an Nwacer,zawyat-an-nwacer
+Morocco,MA,Chefchaouen Province,chefchaouen-province,Chefchaouen Province,chefchaouen-province
+Morocco,MA,Chichaoua Province,chichaoua-province,Chichaoua Province,chichaoua-province
+Morocco,MA,Dakhla-Oued Ed-Dahab,dakhla-oued-ed-dahab,Dakhla-Oued Ed-Dahab,dakhla-oued-ed-dahab
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Agdz,agdz
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Alnif,alnif
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Aoufous,aoufous
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Arfoud,arfoud
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Errachidia,errachidia
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Imilchil,imilchil
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Jebel Tiskaouine,jebel-tiskaouine
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Jorf,jorf
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Kelaat Mgouna,kelaat-mgouna
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Mhamid,mhamid
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Midelt,midelt
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Ouarzazat,ouarzazat
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Ouarzazate,ouarzazate
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Recani,recani
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Taznakht,taznakht
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Telouet,telouet
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Tinghir,tinghir
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Tinghir Province,tinghir-province
+Morocco,MA,Draa-Tafilalet,draa-tafilalet,Zagora,zagora
+Morocco,MA,El Hajeb Province,el-hajeb-province,El Hajeb Province,el-hajeb-province
+Morocco,MA,El Jadida Province,el-jadida-province,El Jadida Province,el-jadida-province
+Morocco,MA,Errachidia Province,errachidia-province,Errachidia Province,errachidia-province
+Morocco,MA,Es Semara Province,es-semara-province,Es Semara Province,es-semara-province
+Morocco,MA,Essaouira Province,essaouira-province,Essaouira Province,essaouira-province
+Morocco,MA,Fahs Anjra Province,fahs-anjra-province,Fahs Anjra Province,fahs-anjra-province
+Morocco,MA,Fes-Meknes,fes-meknes,Ain Leuh,ain-leuh
+Morocco,MA,Fes-Meknes,fes-meknes,Aknoul,aknoul
+Morocco,MA,Fes-Meknes,fes-meknes,Almis Marmoucha,almis-marmoucha
+Morocco,MA,Fes-Meknes,fes-meknes,Azrou,azrou
+Morocco,MA,Fes-Meknes,fes-meknes,Bhalil,bhalil
+Morocco,MA,Fes-Meknes,fes-meknes,Bouarouss,bouarouss
+Morocco,MA,Fes-Meknes,fes-meknes,Boulemane,boulemane
+Morocco,MA,Fes-Meknes,fes-meknes,El Hajeb,el-hajeb
+Morocco,MA,Fes-Meknes,fes-meknes,El-Hajeb,el-hajeb
+Morocco,MA,Fes-Meknes,fes-meknes,Fes,fes
+Morocco,MA,Fes-Meknes,fes-meknes,Fes,fes
+Morocco,MA,Fes-Meknes,fes-meknes,Fes al Bali,fes-al-bali
+Morocco,MA,Fes-Meknes,fes-meknes,Galaz,galaz
+Morocco,MA,Fes-Meknes,fes-meknes,Ghouazi,ghouazi
+Morocco,MA,Fes-Meknes,fes-meknes,Guercif,guercif
+Morocco,MA,Fes-Meknes,fes-meknes,Ifrane,ifrane
+Morocco,MA,Fes-Meknes,fes-meknes,Meknes,meknes
+Morocco,MA,Fes-Meknes,fes-meknes,Meknes,meknes
+Morocco,MA,Fes-Meknes,fes-meknes,Missour,missour
+Morocco,MA,Fes-Meknes,fes-meknes,Moulay Bouchta,moulay-bouchta
+Morocco,MA,Fes-Meknes,fes-meknes,Moulay-Yacoub,moulay-yacoub
+Morocco,MA,Fes-Meknes,fes-meknes,Oued Amlil,oued-amlil
+Morocco,MA,Fes-Meknes,fes-meknes,Oulad Tayeb,oulad-tayeb
+Morocco,MA,Fes-Meknes,fes-meknes,Ourtzagh,ourtzagh
+Morocco,MA,Fes-Meknes,fes-meknes,Sefrou,sefrou
+Morocco,MA,Fes-Meknes,fes-meknes,Tahla,tahla
+Morocco,MA,Fes-Meknes,fes-meknes,Talzemt,talzemt
+Morocco,MA,Fes-Meknes,fes-meknes,Taounate,taounate
+Morocco,MA,Fes-Meknes,fes-meknes,Taza,taza
+Morocco,MA,Fes-Meknes,fes-meknes,Tmourghout,tmourghout
+Morocco,MA,Figuig Province,figuig-province,Figuig Province,figuig-province
+Morocco,MA,Guelmim Province,guelmim-province,Guelmim Province,guelmim-province
+Morocco,MA,Guelmim-Oued Noun,guelmim-oued-noun,Assa-Zag,assa-zag
+Morocco,MA,Guelmim-Oued Noun,guelmim-oued-noun,Guelmim,guelmim
+Morocco,MA,Guelmim-Oued Noun,guelmim-oued-noun,Sidi Ifni,sidi-ifni
+Morocco,MA,Guelmim-Oued Noun,guelmim-oued-noun,Tan-Tan,tan-tan
+Morocco,MA,Ifrane Province,ifrane-province,Ifrane Province,ifrane-province
+Morocco,MA,Inezgane-Ait Melloul Prefecture,inezgane-ait-melloul-prefecture,Inezgane-Ait Melloul Prefecture,inezgane-ait-melloul-prefecture
+Morocco,MA,Jerada Province,jerada-province,Jerada Province,jerada-province
+Morocco,MA,Kelaat Sraghna Province,kelaat-sraghna-province,Kelaat Sraghna Province,kelaat-sraghna-province
+Morocco,MA,Kenitra Province,kenitra-province,Arbaoua,arbaoua
+Morocco,MA,Kenitra Province,kenitra-province,Had Kourt,had-kourt
+Morocco,MA,Kenitra Province,kenitra-province,Kenitra,kenitra
+Morocco,MA,Kenitra Province,kenitra-province,Kenitra Province,kenitra-province
+Morocco,MA,Kenitra Province,kenitra-province,Khemisset,khemisset
+Morocco,MA,Kenitra Province,kenitra-province,Mechraa Bel Ksiri,mechraa-bel-ksiri
+Morocco,MA,Kenitra Province,kenitra-province,Oulmes,oulmes
+Morocco,MA,Kenitra Province,kenitra-province,Rabat,rabat
+Morocco,MA,Kenitra Province,kenitra-province,Sale,sale
+Morocco,MA,Kenitra Province,kenitra-province,Sidi Bousber,sidi-bousber
+Morocco,MA,Kenitra Province,kenitra-province,Sidi Qacem,sidi-qacem
+Morocco,MA,Kenitra Province,kenitra-province,Sidi Redouane,sidi-redouane
+Morocco,MA,Kenitra Province,kenitra-province,Sidi Slimane,sidi-slimane
+Morocco,MA,Kenitra Province,kenitra-province,Sidi Yahia El Gharb,sidi-yahia-el-gharb
+Morocco,MA,Kenitra Province,kenitra-province,Sidi-Kacem,sidi-kacem
+Morocco,MA,Kenitra Province,kenitra-province,Skhirate,skhirate
+Morocco,MA,Kenitra Province,kenitra-province,Skhirate-Temara,skhirate-temara
+Morocco,MA,Kenitra Province,kenitra-province,Souq Larba al Gharb,souq-larba-al-gharb
+Morocco,MA,Kenitra Province,kenitra-province,Temara,temara
+Morocco,MA,Kenitra Province,kenitra-province,Teroual,teroual
+Morocco,MA,Kenitra Province,kenitra-province,Tiflet,tiflet
+Morocco,MA,Khemisset Province,khemisset-province,Khemisset Province,khemisset-province
+Morocco,MA,Khenifra Province,khenifra-province,Aguelmous,aguelmous
+Morocco,MA,Khenifra Province,khenifra-province,Al Fqih Ben Calah,al-fqih-ben-calah
+Morocco,MA,Khenifra Province,khenifra-province,Azilal,azilal
+Morocco,MA,Khenifra Province,khenifra-province,Azilal Province,azilal-province
+Morocco,MA,Khenifra Province,khenifra-province,Beni Mellal,beni-mellal
+Morocco,MA,Khenifra Province,khenifra-province,Beni-Mellal,beni-mellal
+Morocco,MA,Khenifra Province,khenifra-province,Boujniba,boujniba
+Morocco,MA,Khenifra Province,khenifra-province,Bzou,bzou
+Morocco,MA,Khenifra Province,khenifra-province,Dar Ould Zidouh,dar-ould-zidouh
+Morocco,MA,Khenifra Province,khenifra-province,Demnate,demnate
+Morocco,MA,Khenifra Province,khenifra-province,El Ksiba,el-ksiba
+Morocco,MA,Khenifra Province,khenifra-province,Fquih Ben Salah Province,fquih-ben-salah-province
+Morocco,MA,Khenifra Province,khenifra-province,Ifrane,ifrane
+Morocco,MA,Khenifra Province,khenifra-province,Isseksi,isseksi
+Morocco,MA,Khenifra Province,khenifra-province,Itzer,itzer
+Morocco,MA,Khenifra Province,khenifra-province,Kasba Tadla,kasba-tadla
+Morocco,MA,Khenifra Province,khenifra-province,Kerrouchen,kerrouchen
+Morocco,MA,Khenifra Province,khenifra-province,Khenifra,khenifra
+Morocco,MA,Khenifra Province,khenifra-province,Khouribga,khouribga
+Morocco,MA,Khenifra Province,khenifra-province,Khouribga Province,khouribga-province
+Morocco,MA,Khenifra Province,khenifra-province,Midelt,midelt
+Morocco,MA,Khenifra Province,khenifra-province,Ouaoula,ouaoula
+Morocco,MA,Khenifra Province,khenifra-province,Oued Zem,oued-zem
+Morocco,MA,Khenifra Province,khenifra-province,Sidi Jaber,sidi-jaber
+Morocco,MA,Khenifra Province,khenifra-province,Timoulilt,timoulilt
+Morocco,MA,Khenifra Province,khenifra-province,Zawyat ech Cheikh,zawyat-ech-cheikh
+Morocco,MA,Khouribga Province,khouribga-province,Khouribga Province,khouribga-province
+Morocco,MA,Laayoune Province,laayoune-province,Laayoune Province,laayoune-province
+Morocco,MA,Laayoune-Sakia El Hamra,laayoune-sakia-el-hamra,Akhfennir,akhfennir
+Morocco,MA,Laayoune-Sakia El Hamra,laayoune-sakia-el-hamra,Boujdour,boujdour
+Morocco,MA,Laayoune-Sakia El Hamra,laayoune-sakia-el-hamra,Es-Semara,es-semara
+Morocco,MA,Laayoune-Sakia El Hamra,laayoune-sakia-el-hamra,Gueltat Zemmour,gueltat-zemmour
+Morocco,MA,Laayoune-Sakia El Hamra,laayoune-sakia-el-hamra,Laayoune,laayoune
+Morocco,MA,Laayoune-Sakia El Hamra,laayoune-sakia-el-hamra,Smara,smara
+Morocco,MA,Laayoune-Sakia El Hamra,laayoune-sakia-el-hamra,Tarfaya,tarfaya
+Morocco,MA,Larache Province,larache-province,Larache Province,larache-province
+Morocco,MA,Marrakesh-Safi,marrakesh-safi,Marrakesh-Safi,marrakesh-safi
+Morocco,MA,Mediouna Province,mediouna-province,Mediouna Province,mediouna-province
+Morocco,MA,Moulay Yacoub Province,moulay-yacoub-province,Moulay Yacoub Province,moulay-yacoub-province
+Morocco,MA,Nador Province,nador-province,Nador Province,nador-province
+Morocco,MA,Nouaceur Province,nouaceur-province,Nouaceur Province,nouaceur-province
+Morocco,MA,Oriental,oriental,Ahfir,ahfir
+Morocco,MA,Oriental,oriental,Ain Beni Mathar,ain-beni-mathar
+Morocco,MA,Oriental,oriental,Al Aaroui,al-aaroui
+Morocco,MA,Oriental,oriental,Berkane,berkane
+Morocco,MA,Oriental,oriental,Bouarfa,bouarfa
+Morocco,MA,Oriental,oriental,Debdou,debdou
+Morocco,MA,Oriental,oriental,Driouch Province,driouch-province
+Morocco,MA,Oriental,oriental,El Aioun,el-aioun
+Morocco,MA,Oriental,oriental,Figuig,figuig
+Morocco,MA,Oriental,oriental,Guercif Province,guercif-province
+Morocco,MA,Oriental,oriental,Jerada,jerada
+Morocco,MA,Oriental,oriental,Madagh,madagh
+Morocco,MA,Oriental,oriental,Midar,midar
+Morocco,MA,Oriental,oriental,Nador,nador
+Morocco,MA,Oriental,oriental,Oujda-Angad,oujda-angad
+Morocco,MA,Oriental,oriental,Saidia,saidia
+Morocco,MA,Oriental,oriental,Selouane,selouane
+Morocco,MA,Oriental,oriental,Taourirt,taourirt
+Morocco,MA,Oriental,oriental,Tiztoutine,tiztoutine
+Morocco,MA,Oriental,oriental,Zaio,zaio
+Morocco,MA,Ouarzazate Province,ouarzazate-province,Ouarzazate Province,ouarzazate-province
+Morocco,MA,Oued Ed-Dahab Province,oued-ed-dahab-province,Aousserd,aousserd
+Morocco,MA,Oued Ed-Dahab Province,oued-ed-dahab-province,Imlili,imlili
+Morocco,MA,Oued Ed-Dahab Province,oued-ed-dahab-province,Oued-Ed-Dahab,oued-ed-dahab
+Morocco,MA,Safi Province,safi-province,Abadou,abadou
+Morocco,MA,Safi Province,safi-province,Adassil,adassil
+Morocco,MA,Safi Province,safi-province,Al-Haouz,al-haouz
+Morocco,MA,Safi Province,safi-province,Bouabout,bouabout
+Morocco,MA,Safi Province,safi-province,Chichaoua,chichaoua
+Morocco,MA,Safi Province,safi-province,Essaouira,essaouira
+Morocco,MA,Safi Province,safi-province,Kelaa-Des-Sraghna,kelaa-des-sraghna
+Morocco,MA,Safi Province,safi-province,Marrakech,marrakech
+Morocco,MA,Safi Province,safi-province,Marrakesh,marrakesh
+Morocco,MA,Safi Province,safi-province,Oukaimedene,oukaimedene
+Morocco,MA,Safi Province,safi-province,Rehamna,rehamna
+Morocco,MA,Safi Province,safi-province,Safi,safi
+Morocco,MA,Safi Province,safi-province,Setti Fatma,setti-fatma
+Morocco,MA,Safi Province,safi-province,Sidi Rahhal,sidi-rahhal
+Morocco,MA,Safi Province,safi-province,Smimou,smimou
+Morocco,MA,Safi Province,safi-province,Tamanar,tamanar
+Morocco,MA,Safi Province,safi-province,Taouloukoult,taouloukoult
+Morocco,MA,Safi Province,safi-province,Tidili Mesfioua,tidili-mesfioua
+Morocco,MA,Safi Province,safi-province,Timezgadiouine,timezgadiouine
+Morocco,MA,Safi Province,safi-province,Youssoufia,youssoufia
+Morocco,MA,Safi Province,safi-province,Zerkten,zerkten
+Morocco,MA,Sefrou Province,sefrou-province,Sefrou Province,sefrou-province
+Morocco,MA,Settat Province,settat-province,Settat Province,settat-province
+Morocco,MA,Shtouka Ait Baha Province,shtouka-ait-baha-province,Shtouka Ait Baha Province,shtouka-ait-baha-province
+Morocco,MA,Sidi Kacem Province,sidi-kacem-province,Sidi Kacem Province,sidi-kacem-province
+Morocco,MA,Sidi Youssef Ben Ali,sidi-youssef-ben-ali,Sidi Youssef Ben Ali,sidi-youssef-ben-ali
+Morocco,MA,Souss-Massa,souss-massa,Souss-Massa,souss-massa
+Morocco,MA,Tan-Tan Province,tan-tan-province,Tan-Tan Province,tan-tan-province
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Al Hoceima,al-hoceima
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Al-Hoceima,al-hoceima
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Asilah,asilah
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Bni Bouayach,bni-bouayach
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Brikcha,brikcha
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Cap Negro II,cap-negro-ii
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Chefchaouen Province,chefchaouen-province
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Chefchaouene,chefchaouene
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Derdara,derdara
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Fahs-Anjra,fahs-anjra
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Fnidek,fnidek
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Imzouren,imzouren
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Ksar El Kebir,ksar-el-kebir
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Larache,larache
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,M'Diq-Fnideq,mdiq-fnideq
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Martil,martil
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Oued Laou,oued-laou
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Ouezzane,ouezzane
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Ouezzane Province,ouezzane-province
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Senada,senada
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Tamorot,tamorot
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Tanger-Assilah,tanger-assilah
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Tangier,tangier
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Targuist,targuist
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Tetouan,tetouan
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Tetouan,tetouan
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Tirhanimine,tirhanimine
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Zinat,zinat
+Morocco,MA,Tanger-Tetouan-Al Hoceima,tanger-tetouan-al-hoceima,Zoumi,zoumi
+Morocco,MA,Taounate Province,taounate-province,Taounate Province,taounate-province
+Morocco,MA,Taourirt Province,taourirt-province,Taourirt Province,taourirt-province
+Morocco,MA,Taroudant Province,taroudant-province,Taroudant Province,taroudant-province
+Morocco,MA,Tata Province,tata-province,Tata Province,tata-province
+Morocco,MA,Taza Province,taza-province,Taza Province,taza-province
+Morocco,MA,Tetouan Province,tetouan-province,Tetouan Province,tetouan-province
+Morocco,MA,Tiznit Province,tiznit-province,Tiznit Province,tiznit-province
+Morocco,MA,Zagora Province,zagora-province,Zagora Province,zagora-province

@@ -1,0 +1,895 @@
+s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Indonesia,ID,Aceh,aceh,Banda Aceh,banda-aceh
+Indonesia,ID,Aceh,aceh,Bireun,bireun
+Indonesia,ID,Aceh,aceh,Kabupaten Aceh Barat,kabupaten-aceh-barat
+Indonesia,ID,Aceh,aceh,Kabupaten Aceh Barat Daya,kabupaten-aceh-barat-daya
+Indonesia,ID,Aceh,aceh,Kabupaten Aceh Besar,kabupaten-aceh-besar
+Indonesia,ID,Aceh,aceh,Kabupaten Aceh Jaya,kabupaten-aceh-jaya
+Indonesia,ID,Aceh,aceh,Kabupaten Aceh Selatan,kabupaten-aceh-selatan
+Indonesia,ID,Aceh,aceh,Kabupaten Aceh Singkil,kabupaten-aceh-singkil
+Indonesia,ID,Aceh,aceh,Kabupaten Aceh Tamiang,kabupaten-aceh-tamiang
+Indonesia,ID,Aceh,aceh,Kabupaten Aceh Tengah,kabupaten-aceh-tengah
+Indonesia,ID,Aceh,aceh,Kabupaten Aceh Tenggara,kabupaten-aceh-tenggara
+Indonesia,ID,Aceh,aceh,Kabupaten Aceh Timur,kabupaten-aceh-timur
+Indonesia,ID,Aceh,aceh,Kabupaten Aceh Utara,kabupaten-aceh-utara
+Indonesia,ID,Aceh,aceh,Kabupaten Bener Meriah,kabupaten-bener-meriah
+Indonesia,ID,Aceh,aceh,Kabupaten Bireuen,kabupaten-bireuen
+Indonesia,ID,Aceh,aceh,Kabupaten Gayo Lues,kabupaten-gayo-lues
+Indonesia,ID,Aceh,aceh,Kabupaten Nagan Raya,kabupaten-nagan-raya
+Indonesia,ID,Aceh,aceh,Kabupaten Pidie,kabupaten-pidie
+Indonesia,ID,Aceh,aceh,Kabupaten Simeulue,kabupaten-simeulue
+Indonesia,ID,Aceh,aceh,Kota Banda Aceh,kota-banda-aceh
+Indonesia,ID,Aceh,aceh,Kota Langsa,kota-langsa
+Indonesia,ID,Aceh,aceh,Kota Lhokseumawe,kota-lhokseumawe
+Indonesia,ID,Aceh,aceh,Kota Sabang,kota-sabang
+Indonesia,ID,Aceh,aceh,Kota Subulussalam,kota-subulussalam
+Indonesia,ID,Aceh,aceh,Langsa,langsa
+Indonesia,ID,Aceh,aceh,Lhokseumawe,lhokseumawe
+Indonesia,ID,Aceh,aceh,Meulaboh,meulaboh
+Indonesia,ID,Aceh,aceh,Reuleuet,reuleuet
+Indonesia,ID,Aceh,aceh,Sabang,sabang
+Indonesia,ID,Aceh,aceh,Sigli,sigli
+Indonesia,ID,Aceh,aceh,Sinabang,sinabang
+Indonesia,ID,Aceh,aceh,Singkil,singkil
+Indonesia,ID,Bali,bali,Amlapura,amlapura
+Indonesia,ID,Bali,bali,Amlapura city,amlapura-city
+Indonesia,ID,Bali,bali,Banjar,banjar
+Indonesia,ID,Bali,bali,Banjar Wangsian,banjar-wangsian
+Indonesia,ID,Bali,bali,Bedugul,bedugul
+Indonesia,ID,Bali,bali,Denpasar,denpasar
+Indonesia,ID,Bali,bali,Jimbaran,jimbaran
+Indonesia,ID,Bali,bali,Kabupaten Badung,kabupaten-badung
+Indonesia,ID,Bali,bali,Kabupaten Bangli,kabupaten-bangli
+Indonesia,ID,Bali,bali,Kabupaten Buleleng,kabupaten-buleleng
+Indonesia,ID,Bali,bali,Kabupaten Gianyar,kabupaten-gianyar
+Indonesia,ID,Bali,bali,Kabupaten Jembrana,kabupaten-jembrana
+Indonesia,ID,Bali,bali,Kabupaten Karang Asem,kabupaten-karang-asem
+Indonesia,ID,Bali,bali,Kabupaten Klungkung,kabupaten-klungkung
+Indonesia,ID,Bali,bali,Kabupaten Tabanan,kabupaten-tabanan
+Indonesia,ID,Bali,bali,Klungkung,klungkung
+Indonesia,ID,Bali,bali,Kota Denpasar,kota-denpasar
+Indonesia,ID,Bali,bali,Kuta,kuta
+Indonesia,ID,Bali,bali,Legian,legian
+Indonesia,ID,Bali,bali,Lovina,lovina
+Indonesia,ID,Bali,bali,Munduk,munduk
+Indonesia,ID,Bali,bali,Negara,negara
+Indonesia,ID,Bali,bali,Nusa Dua,nusa-dua
+Indonesia,ID,Bali,bali,Seririt,seririt
+Indonesia,ID,Bali,bali,Singaraja,singaraja
+Indonesia,ID,Bali,bali,Tabanan,tabanan
+Indonesia,ID,Bali,bali,Ubud,ubud
+Indonesia,ID,Bangka Belitung Islands,bangka-belitung-islands,Kabupaten Bangka,kabupaten-bangka
+Indonesia,ID,Bangka Belitung Islands,bangka-belitung-islands,Kabupaten Bangka Barat,kabupaten-bangka-barat
+Indonesia,ID,Bangka Belitung Islands,bangka-belitung-islands,Kabupaten Bangka Selatan,kabupaten-bangka-selatan
+Indonesia,ID,Bangka Belitung Islands,bangka-belitung-islands,Kabupaten Bangka Tengah,kabupaten-bangka-tengah
+Indonesia,ID,Bangka Belitung Islands,bangka-belitung-islands,Kabupaten Belitung,kabupaten-belitung
+Indonesia,ID,Bangka Belitung Islands,bangka-belitung-islands,Kabupaten Belitung Timur,kabupaten-belitung-timur
+Indonesia,ID,Bangka Belitung Islands,bangka-belitung-islands,Kota Pangkal Pinang,kota-pangkal-pinang
+Indonesia,ID,Bangka Belitung Islands,bangka-belitung-islands,Manggar,manggar
+Indonesia,ID,Bangka Belitung Islands,bangka-belitung-islands,Muntok,muntok
+Indonesia,ID,Bangka Belitung Islands,bangka-belitung-islands,Pangkalpinang,pangkalpinang
+Indonesia,ID,Bangka Belitung Islands,bangka-belitung-islands,Sungailiat,sungailiat
+Indonesia,ID,Bangka Belitung Islands,bangka-belitung-islands,Tanjung Pandan,tanjung-pandan
+Indonesia,ID,Banten,banten,Curug,curug
+Indonesia,ID,Banten,banten,Kabupaten Lebak,kabupaten-lebak
+Indonesia,ID,Banten,banten,Kabupaten Pandeglang,kabupaten-pandeglang
+Indonesia,ID,Banten,banten,Kabupaten Serang,kabupaten-serang
+Indonesia,ID,Banten,banten,Kabupaten Tangerang,kabupaten-tangerang
+Indonesia,ID,Banten,banten,Kota Cilegon,kota-cilegon
+Indonesia,ID,Banten,banten,Kota Serang,kota-serang
+Indonesia,ID,Banten,banten,Kota Tangerang,kota-tangerang
+Indonesia,ID,Banten,banten,Kota Tangerang Selatan,kota-tangerang-selatan
+Indonesia,ID,Banten,banten,Labuan,labuan
+Indonesia,ID,Banten,banten,Pandeglang,pandeglang
+Indonesia,ID,Banten,banten,Rangkasbitung,rangkasbitung
+Indonesia,ID,Banten,banten,Serang,serang
+Indonesia,ID,Banten,banten,South Tangerang,south-tangerang
+Indonesia,ID,Banten,banten,Tangerang,tangerang
+Indonesia,ID,Bengkulu,bengkulu,Bengkulu,bengkulu
+Indonesia,ID,Bengkulu,bengkulu,Curup,curup
+Indonesia,ID,Bengkulu,bengkulu,Kabupaten Bengkulu Selatan,kabupaten-bengkulu-selatan
+Indonesia,ID,Bengkulu,bengkulu,Kabupaten Bengkulu Tengah,kabupaten-bengkulu-tengah
+Indonesia,ID,Bengkulu,bengkulu,Kabupaten Bengkulu Utara,kabupaten-bengkulu-utara
+Indonesia,ID,Bengkulu,bengkulu,Kabupaten Kaur,kabupaten-kaur
+Indonesia,ID,Bengkulu,bengkulu,Kabupaten Kepahiang,kabupaten-kepahiang
+Indonesia,ID,Bengkulu,bengkulu,Kabupaten Lebong,kabupaten-lebong
+Indonesia,ID,Bengkulu,bengkulu,Kabupaten Mukomuko,kabupaten-mukomuko
+Indonesia,ID,Bengkulu,bengkulu,Kabupaten Rejang Lebong,kabupaten-rejang-lebong
+Indonesia,ID,Bengkulu,bengkulu,Kabupaten Seluma,kabupaten-seluma
+Indonesia,ID,Bengkulu,bengkulu,Kota Bengkulu,kota-bengkulu
+Indonesia,ID,Central Java,central-java,Adiwerna,adiwerna
+Indonesia,ID,Central Java,central-java,Ambarawa,ambarawa
+Indonesia,ID,Central Java,central-java,Baekrajan,baekrajan
+Indonesia,ID,Central Java,central-java,Baki,baki
+Indonesia,ID,Central Java,central-java,Balapulang,balapulang
+Indonesia,ID,Central Java,central-java,Banyumas,banyumas
+Indonesia,ID,Central Java,central-java,Batang,batang
+Indonesia,ID,Central Java,central-java,Baturaden,baturaden
+Indonesia,ID,Central Java,central-java,Blora,blora
+Indonesia,ID,Central Java,central-java,Boyolali,boyolali
+Indonesia,ID,Central Java,central-java,Buaran,buaran
+Indonesia,ID,Central Java,central-java,Bulakamba,bulakamba
+Indonesia,ID,Central Java,central-java,Candi Prambanan,candi-prambanan
+Indonesia,ID,Central Java,central-java,Ceper,ceper
+Indonesia,ID,Central Java,central-java,Cepu,cepu
+Indonesia,ID,Central Java,central-java,Colomadu,colomadu
+Indonesia,ID,Central Java,central-java,Comal,comal
+Indonesia,ID,Central Java,central-java,Delanggu,delanggu
+Indonesia,ID,Central Java,central-java,Demak,demak
+Indonesia,ID,Central Java,central-java,Dukuhturi,dukuhturi
+Indonesia,ID,Central Java,central-java,Gatak,gatak
+Indonesia,ID,Central Java,central-java,Gebog,gebog
+Indonesia,ID,Central Java,central-java,Gombong,gombong
+Indonesia,ID,Central Java,central-java,Grogol,grogol
+Indonesia,ID,Central Java,central-java,Gunung Kendil,gunung-kendil
+Indonesia,ID,Central Java,central-java,Jaten,jaten
+Indonesia,ID,Central Java,central-java,Jatiroto,jatiroto
+Indonesia,ID,Central Java,central-java,Jekulo,jekulo
+Indonesia,ID,Central Java,central-java,Jogonalan,jogonalan
+Indonesia,ID,Central Java,central-java,Juwana,juwana
+Indonesia,ID,Central Java,central-java,Kabupaten Banjarnegara,kabupaten-banjarnegara
+Indonesia,ID,Central Java,central-java,Kabupaten Banyumas,kabupaten-banyumas
+Indonesia,ID,Central Java,central-java,Kabupaten Batang,kabupaten-batang
+Indonesia,ID,Central Java,central-java,Kabupaten Blora,kabupaten-blora
+Indonesia,ID,Central Java,central-java,Kabupaten Boyolali,kabupaten-boyolali
+Indonesia,ID,Central Java,central-java,Kabupaten Brebes,kabupaten-brebes
+Indonesia,ID,Central Java,central-java,Kabupaten Cilacap,kabupaten-cilacap
+Indonesia,ID,Central Java,central-java,Kabupaten Demak,kabupaten-demak
+Indonesia,ID,Central Java,central-java,Kabupaten Grobogan,kabupaten-grobogan
+Indonesia,ID,Central Java,central-java,Kabupaten Jepara,kabupaten-jepara
+Indonesia,ID,Central Java,central-java,Kabupaten Karanganyar,kabupaten-karanganyar
+Indonesia,ID,Central Java,central-java,Kabupaten Kebumen,kabupaten-kebumen
+Indonesia,ID,Central Java,central-java,Kabupaten Kendal,kabupaten-kendal
+Indonesia,ID,Central Java,central-java,Kabupaten Klaten,kabupaten-klaten
+Indonesia,ID,Central Java,central-java,Kabupaten Kudus,kabupaten-kudus
+Indonesia,ID,Central Java,central-java,Kabupaten Magelang,kabupaten-magelang
+Indonesia,ID,Central Java,central-java,Kabupaten Pati,kabupaten-pati
+Indonesia,ID,Central Java,central-java,Kabupaten Pekalongan,kabupaten-pekalongan
+Indonesia,ID,Central Java,central-java,Kabupaten Pemalang,kabupaten-pemalang
+Indonesia,ID,Central Java,central-java,Kabupaten Purbalingga,kabupaten-purbalingga
+Indonesia,ID,Central Java,central-java,Kabupaten Purworejo,kabupaten-purworejo
+Indonesia,ID,Central Java,central-java,Kabupaten Rembang,kabupaten-rembang
+Indonesia,ID,Central Java,central-java,Kabupaten Semarang,kabupaten-semarang
+Indonesia,ID,Central Java,central-java,Kabupaten Sragen,kabupaten-sragen
+Indonesia,ID,Central Java,central-java,Kabupaten Sukoharjo,kabupaten-sukoharjo
+Indonesia,ID,Central Java,central-java,Kabupaten Tegal,kabupaten-tegal
+Indonesia,ID,Central Java,central-java,Kabupaten Temanggung,kabupaten-temanggung
+Indonesia,ID,Central Java,central-java,Kabupaten Wonogiri,kabupaten-wonogiri
+Indonesia,ID,Central Java,central-java,Kabupaten Wonosobo,kabupaten-wonosobo
+Indonesia,ID,Central Java,central-java,Karanganom,karanganom
+Indonesia,ID,Central Java,central-java,Kartasura,kartasura
+Indonesia,ID,Central Java,central-java,Kebonarun,kebonarun
+Indonesia,ID,Central Java,central-java,Kedungwuni,kedungwuni
+Indonesia,ID,Central Java,central-java,Ketanggungan,ketanggungan
+Indonesia,ID,Central Java,central-java,Klaten,klaten
+Indonesia,ID,Central Java,central-java,Kota Magelang,kota-magelang
+Indonesia,ID,Central Java,central-java,Kota Pekalongan,kota-pekalongan
+Indonesia,ID,Central Java,central-java,Kota Salatiga,kota-salatiga
+Indonesia,ID,Central Java,central-java,Kota Semarang,kota-semarang
+Indonesia,ID,Central Java,central-java,Kota Surakarta,kota-surakarta
+Indonesia,ID,Central Java,central-java,Kota Tegal,kota-tegal
+Indonesia,ID,Central Java,central-java,Kroya,kroya
+Indonesia,ID,Central Java,central-java,Kudus,kudus
+Indonesia,ID,Central Java,central-java,Kutoarjo,kutoarjo
+Indonesia,ID,Central Java,central-java,Lasem,lasem
+Indonesia,ID,Central Java,central-java,Lebaksiu,lebaksiu
+Indonesia,ID,Central Java,central-java,Magelang,magelang
+Indonesia,ID,Central Java,central-java,Majenang,majenang
+Indonesia,ID,Central Java,central-java,Margasari,margasari
+Indonesia,ID,Central Java,central-java,Mertoyudan,mertoyudan
+Indonesia,ID,Central Java,central-java,Mlonggo,mlonggo
+Indonesia,ID,Central Java,central-java,Mranggen,mranggen
+Indonesia,ID,Central Java,central-java,Muntilan,muntilan
+Indonesia,ID,Central Java,central-java,Ngemplak,ngemplak
+Indonesia,ID,Central Java,central-java,Pati,pati
+Indonesia,ID,Central Java,central-java,Pecangaan,pecangaan
+Indonesia,ID,Central Java,central-java,Pekalongan,pekalongan
+Indonesia,ID,Central Java,central-java,Pemalang,pemalang
+Indonesia,ID,Central Java,central-java,Purbalingga,purbalingga
+Indonesia,ID,Central Java,central-java,Purwodadi,purwodadi
+Indonesia,ID,Central Java,central-java,Purwokerto,purwokerto
+Indonesia,ID,Central Java,central-java,Randudongkal,randudongkal
+Indonesia,ID,Central Java,central-java,Rembangan,rembangan
+Indonesia,ID,Central Java,central-java,Salatiga,salatiga
+Indonesia,ID,Central Java,central-java,Selogiri,selogiri
+Indonesia,ID,Central Java,central-java,Semarang,semarang
+Indonesia,ID,Central Java,central-java,Sidareja,sidareja
+Indonesia,ID,Central Java,central-java,Slawi,slawi
+Indonesia,ID,Central Java,central-java,Sokaraja,sokaraja
+Indonesia,ID,Central Java,central-java,Sragen,sragen
+Indonesia,ID,Central Java,central-java,Surakarta,surakarta
+Indonesia,ID,Central Java,central-java,Tarub,tarub
+Indonesia,ID,Central Java,central-java,Tayu,tayu
+Indonesia,ID,Central Java,central-java,Tegal,tegal
+Indonesia,ID,Central Java,central-java,Trucuk,trucuk
+Indonesia,ID,Central Java,central-java,Ungaran,ungaran
+Indonesia,ID,Central Java,central-java,Wangon,wangon
+Indonesia,ID,Central Java,central-java,Wedi,wedi
+Indonesia,ID,Central Java,central-java,Welahan,welahan
+Indonesia,ID,Central Java,central-java,Weleri,weleri
+Indonesia,ID,Central Java,central-java,Wiradesa,wiradesa
+Indonesia,ID,Central Java,central-java,Wonopringgo,wonopringgo
+Indonesia,ID,Central Java,central-java,Wonosobo,wonosobo
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Barito Selatan,kabupaten-barito-selatan
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Barito Timur,kabupaten-barito-timur
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Barito Utara,kabupaten-barito-utara
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Gunung Mas,kabupaten-gunung-mas
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Kapuas,kabupaten-kapuas
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Katingan,kabupaten-katingan
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Kotawaringin Barat,kabupaten-kotawaringin-barat
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Kotawaringin Timur,kabupaten-kotawaringin-timur
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Lamandau,kabupaten-lamandau
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Murung Raya,kabupaten-murung-raya
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Pulang Pisau,kabupaten-pulang-pisau
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Seruyan,kabupaten-seruyan
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kabupaten Sukamara,kabupaten-sukamara
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kota Palangka Raya,kota-palangka-raya
+Indonesia,ID,Central Kalimantan,central-kalimantan,Kualakapuas,kualakapuas
+Indonesia,ID,Central Kalimantan,central-kalimantan,Palangkaraya,palangkaraya
+Indonesia,ID,Central Kalimantan,central-kalimantan,Pangkalanbuun,pangkalanbuun
+Indonesia,ID,Central Kalimantan,central-kalimantan,Sampit,sampit
+Indonesia,ID,Central Sulawesi,central-sulawesi,Kabupaten Banggai,kabupaten-banggai
+Indonesia,ID,Central Sulawesi,central-sulawesi,Kabupaten Banggai Kepulauan,kabupaten-banggai-kepulauan
+Indonesia,ID,Central Sulawesi,central-sulawesi,Kabupaten Banggai Laut,kabupaten-banggai-laut
+Indonesia,ID,Central Sulawesi,central-sulawesi,Kabupaten Buol,kabupaten-buol
+Indonesia,ID,Central Sulawesi,central-sulawesi,Kabupaten Donggala,kabupaten-donggala
+Indonesia,ID,Central Sulawesi,central-sulawesi,Kabupaten Morowali Utara,kabupaten-morowali-utara
+Indonesia,ID,Central Sulawesi,central-sulawesi,Kabupaten Parigi Moutong,kabupaten-parigi-moutong
+Indonesia,ID,Central Sulawesi,central-sulawesi,Kabupaten Poso,kabupaten-poso
+Indonesia,ID,Central Sulawesi,central-sulawesi,Kabupaten Sigi,kabupaten-sigi
+Indonesia,ID,Central Sulawesi,central-sulawesi,Kabupaten Toli-Toli,kabupaten-toli-toli
+Indonesia,ID,Central Sulawesi,central-sulawesi,Kota Palu,kota-palu
+Indonesia,ID,Central Sulawesi,central-sulawesi,Luwuk,luwuk
+Indonesia,ID,Central Sulawesi,central-sulawesi,Morowali Regency,morowali-regency
+Indonesia,ID,Central Sulawesi,central-sulawesi,Palu,palu
+Indonesia,ID,Central Sulawesi,central-sulawesi,Poso,poso
+Indonesia,ID,Central Sulawesi,central-sulawesi,Tojo Una-Una Regency,tojo-una-una-regency
+Indonesia,ID,East Java,east-java,Babat,babat
+Indonesia,ID,East Java,east-java,Balung,balung
+Indonesia,ID,East Java,east-java,Bangil,bangil
+Indonesia,ID,East Java,east-java,Bangkalan,bangkalan
+Indonesia,ID,East Java,east-java,Banyuwangi,banyuwangi
+Indonesia,ID,East Java,east-java,Batu,batu
+Indonesia,ID,East Java,east-java,Besuki,besuki
+Indonesia,ID,East Java,east-java,Blitar,blitar
+Indonesia,ID,East Java,east-java,Bojonegoro,bojonegoro
+Indonesia,ID,East Java,east-java,Bondowoso,bondowoso
+Indonesia,ID,East Java,east-java,Boyolangu,boyolangu
+Indonesia,ID,East Java,east-java,Buduran,buduran
+Indonesia,ID,East Java,east-java,Dampit,dampit
+Indonesia,ID,East Java,east-java,Diwek,diwek
+Indonesia,ID,East Java,east-java,Driyorejo,driyorejo
+Indonesia,ID,East Java,east-java,Gambiran Satu,gambiran-satu
+Indonesia,ID,East Java,east-java,Gampengrejo,gampengrejo
+Indonesia,ID,East Java,east-java,Gedangan,gedangan
+Indonesia,ID,East Java,east-java,Genteng,genteng
+Indonesia,ID,East Java,east-java,Gongdanglegi Kulon,gongdanglegi-kulon
+Indonesia,ID,East Java,east-java,Gresik,gresik
+Indonesia,ID,East Java,east-java,Gresik Regency,gresik-regency
+Indonesia,ID,East Java,east-java,Jember,jember
+Indonesia,ID,East Java,east-java,Jombang,jombang
+Indonesia,ID,East Java,east-java,Kabupaten Bangkalan,kabupaten-bangkalan
+Indonesia,ID,East Java,east-java,Kabupaten Banyuwangi,kabupaten-banyuwangi
+Indonesia,ID,East Java,east-java,Kabupaten Blitar,kabupaten-blitar
+Indonesia,ID,East Java,east-java,Kabupaten Bojonegoro,kabupaten-bojonegoro
+Indonesia,ID,East Java,east-java,Kabupaten Bondowoso,kabupaten-bondowoso
+Indonesia,ID,East Java,east-java,Kabupaten Jember,kabupaten-jember
+Indonesia,ID,East Java,east-java,Kabupaten Jombang,kabupaten-jombang
+Indonesia,ID,East Java,east-java,Kabupaten Kediri,kabupaten-kediri
+Indonesia,ID,East Java,east-java,Kabupaten Lamongan,kabupaten-lamongan
+Indonesia,ID,East Java,east-java,Kabupaten Lumajang,kabupaten-lumajang
+Indonesia,ID,East Java,east-java,Kabupaten Madiun,kabupaten-madiun
+Indonesia,ID,East Java,east-java,Kabupaten Magetan,kabupaten-magetan
+Indonesia,ID,East Java,east-java,Kabupaten Malang,kabupaten-malang
+Indonesia,ID,East Java,east-java,Kabupaten Mojokerto,kabupaten-mojokerto
+Indonesia,ID,East Java,east-java,Kabupaten Nganjuk,kabupaten-nganjuk
+Indonesia,ID,East Java,east-java,Kabupaten Ngawi,kabupaten-ngawi
+Indonesia,ID,East Java,east-java,Kabupaten Pacitan,kabupaten-pacitan
+Indonesia,ID,East Java,east-java,Kabupaten Pamekasan,kabupaten-pamekasan
+Indonesia,ID,East Java,east-java,Kabupaten Pasuruan,kabupaten-pasuruan
+Indonesia,ID,East Java,east-java,Kabupaten Ponorogo,kabupaten-ponorogo
+Indonesia,ID,East Java,east-java,Kabupaten Probolinggo,kabupaten-probolinggo
+Indonesia,ID,East Java,east-java,Kabupaten Sampang,kabupaten-sampang
+Indonesia,ID,East Java,east-java,Kabupaten Sidoarjo,kabupaten-sidoarjo
+Indonesia,ID,East Java,east-java,Kabupaten Situbondo,kabupaten-situbondo
+Indonesia,ID,East Java,east-java,Kabupaten Sumenep,kabupaten-sumenep
+Indonesia,ID,East Java,east-java,Kabupaten Trenggalek,kabupaten-trenggalek
+Indonesia,ID,East Java,east-java,Kabupaten Tuban,kabupaten-tuban
+Indonesia,ID,East Java,east-java,Kabupaten Tulungagung,kabupaten-tulungagung
+Indonesia,ID,East Java,east-java,Kalianget,kalianget
+Indonesia,ID,East Java,east-java,Kamal,kamal
+Indonesia,ID,East Java,east-java,Kebomas,kebomas
+Indonesia,ID,East Java,east-java,Kediri,kediri
+Indonesia,ID,East Java,east-java,Kedungwaru,kedungwaru
+Indonesia,ID,East Java,east-java,Kencong,kencong
+Indonesia,ID,East Java,east-java,Kepanjen,kepanjen
+Indonesia,ID,East Java,east-java,Kertosono,kertosono
+Indonesia,ID,East Java,east-java,Kota Batu,kota-batu
+Indonesia,ID,East Java,east-java,Kota Blitar,kota-blitar
+Indonesia,ID,East Java,east-java,Kota Kediri,kota-kediri
+Indonesia,ID,East Java,east-java,Kota Madiun,kota-madiun
+Indonesia,ID,East Java,east-java,Kota Malang,kota-malang
+Indonesia,ID,East Java,east-java,Kota Mojokerto,kota-mojokerto
+Indonesia,ID,East Java,east-java,Kota Pasuruan,kota-pasuruan
+Indonesia,ID,East Java,east-java,Kota Probolinggo,kota-probolinggo
+Indonesia,ID,East Java,east-java,Kota Surabaya,kota-surabaya
+Indonesia,ID,East Java,east-java,Kraksaan,kraksaan
+Indonesia,ID,East Java,east-java,Krian,krian
+Indonesia,ID,East Java,east-java,Lamongan,lamongan
+Indonesia,ID,East Java,east-java,Lawang,lawang
+Indonesia,ID,East Java,east-java,Lumajang,lumajang
+Indonesia,ID,East Java,east-java,Madiun,madiun
+Indonesia,ID,East Java,east-java,Malang,malang
+Indonesia,ID,East Java,east-java,Mojoagung,mojoagung
+Indonesia,ID,East Java,east-java,Mojokerto,mojokerto
+Indonesia,ID,East Java,east-java,Muncar,muncar
+Indonesia,ID,East Java,east-java,Nganjuk,nganjuk
+Indonesia,ID,East Java,east-java,Ngoro,ngoro
+Indonesia,ID,East Java,east-java,Ngunut,ngunut
+Indonesia,ID,East Java,east-java,Paciran,paciran
+Indonesia,ID,East Java,east-java,Pakisaji,pakisaji
+Indonesia,ID,East Java,east-java,Pamekasan,pamekasan
+Indonesia,ID,East Java,east-java,Panarukan,panarukan
+Indonesia,ID,East Java,east-java,Pandaan,pandaan
+Indonesia,ID,East Java,east-java,Panji,panji
+Indonesia,ID,East Java,east-java,Pare,pare
+Indonesia,ID,East Java,east-java,Pasuruan,pasuruan
+Indonesia,ID,East Java,east-java,Ponorogo,ponorogo
+Indonesia,ID,East Java,east-java,Prigen,prigen
+Indonesia,ID,East Java,east-java,Probolinggo,probolinggo
+Indonesia,ID,East Java,east-java,Sampang,sampang
+Indonesia,ID,East Java,east-java,Sidoarjo,sidoarjo
+Indonesia,ID,East Java,east-java,Singojuruh,singojuruh
+Indonesia,ID,East Java,east-java,Singosari,singosari
+Indonesia,ID,East Java,east-java,Situbondo,situbondo
+Indonesia,ID,East Java,east-java,Soko,soko
+Indonesia,ID,East Java,east-java,Srono,srono
+Indonesia,ID,East Java,east-java,Sumberpucung,sumberpucung
+Indonesia,ID,East Java,east-java,Sumenep,sumenep
+Indonesia,ID,East Java,east-java,Surabaya,surabaya
+Indonesia,ID,East Java,east-java,Tanggul,tanggul
+Indonesia,ID,East Java,east-java,Tanggulangin,tanggulangin
+Indonesia,ID,East Java,east-java,Trenggalek,trenggalek
+Indonesia,ID,East Java,east-java,Tuban,tuban
+Indonesia,ID,East Java,east-java,Tulangan Utara,tulangan-utara
+Indonesia,ID,East Java,east-java,Tulungagung,tulungagung
+Indonesia,ID,East Java,east-java,Wongsorejo,wongsorejo
+Indonesia,ID,East Kalimantan,east-kalimantan,Balikpapan,balikpapan
+Indonesia,ID,East Kalimantan,east-kalimantan,Bontang,bontang
+Indonesia,ID,East Kalimantan,east-kalimantan,City of Balikpapan,city-of-balikpapan
+Indonesia,ID,East Kalimantan,east-kalimantan,Kabupaten Berau,kabupaten-berau
+Indonesia,ID,East Kalimantan,east-kalimantan,Kabupaten Kutai Barat,kabupaten-kutai-barat
+Indonesia,ID,East Kalimantan,east-kalimantan,Kabupaten Kutai Kartanegara,kabupaten-kutai-kartanegara
+Indonesia,ID,East Kalimantan,east-kalimantan,Kabupaten Kutai Timur,kabupaten-kutai-timur
+Indonesia,ID,East Kalimantan,east-kalimantan,Kabupaten Mahakam Hulu,kabupaten-mahakam-hulu
+Indonesia,ID,East Kalimantan,east-kalimantan,Kabupaten Paser,kabupaten-paser
+Indonesia,ID,East Kalimantan,east-kalimantan,Kabupaten Penajam Paser Utara,kabupaten-penajam-paser-utara
+Indonesia,ID,East Kalimantan,east-kalimantan,Kota Balikpapan,kota-balikpapan
+Indonesia,ID,East Kalimantan,east-kalimantan,Kota Bontang,kota-bontang
+Indonesia,ID,East Kalimantan,east-kalimantan,Kota Samarinda,kota-samarinda
+Indonesia,ID,East Kalimantan,east-kalimantan,Loa Janan,loa-janan
+Indonesia,ID,East Kalimantan,east-kalimantan,Samarinda,samarinda
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Atambua,atambua
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Ende,ende
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Alor,kabupaten-alor
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Belu,kabupaten-belu
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Ende,kabupaten-ende
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Flores Timur,kabupaten-flores-timur
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Kupang,kabupaten-kupang
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Lembata,kabupaten-lembata
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Malaka,kabupaten-malaka
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Manggarai,kabupaten-manggarai
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Manggarai Barat,kabupaten-manggarai-barat
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Manggarai Timur,kabupaten-manggarai-timur
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Nagekeo,kabupaten-nagekeo
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Ngada,kabupaten-ngada
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Rote Ndao,kabupaten-rote-ndao
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Sabu Raijua,kabupaten-sabu-raijua
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Sikka,kabupaten-sikka
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Sumba Barat,kabupaten-sumba-barat
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Sumba Barat Daya,kabupaten-sumba-barat-daya
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Sumba Tengah,kabupaten-sumba-tengah
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Sumba Timur,kabupaten-sumba-timur
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Timor Tengah Selatan,kabupaten-timor-tengah-selatan
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kabupaten Timor Tengah Utara,kabupaten-timor-tengah-utara
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kefamenanu,kefamenanu
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Komodo,komodo
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kota Kupang,kota-kupang
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Kupang,kupang
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Labuan Bajo,labuan-bajo
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Maumere,maumere
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Naisano Dua,naisano-dua
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Ruteng,ruteng
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Soe,soe
+Indonesia,ID,East Nusa Tenggara,east-nusa-tenggara,Waingapu,waingapu
+Indonesia,ID,Gorontalo,gorontalo,Gorontalo,gorontalo
+Indonesia,ID,Gorontalo,gorontalo,Kabupaten Boalemo,kabupaten-boalemo
+Indonesia,ID,Gorontalo,gorontalo,Kabupaten Bone Bolango,kabupaten-bone-bolango
+Indonesia,ID,Gorontalo,gorontalo,Kabupaten Gorontalo,kabupaten-gorontalo
+Indonesia,ID,Gorontalo,gorontalo,Kabupaten Gorontalo Utara,kabupaten-gorontalo-utara
+Indonesia,ID,Gorontalo,gorontalo,Kabupaten Pohuwato,kabupaten-pohuwato
+Indonesia,ID,Gorontalo,gorontalo,Kota Gorontalo,kota-gorontalo
+Indonesia,ID,Jakarta,jakarta,Jakarta,jakarta
+Indonesia,ID,Jakarta,jakarta,Kota Administrasi Jakarta Barat,kota-administrasi-jakarta-barat
+Indonesia,ID,Jakarta,jakarta,Kota Administrasi Jakarta Pusat,kota-administrasi-jakarta-pusat
+Indonesia,ID,Jakarta,jakarta,Kota Administrasi Jakarta Selatan,kota-administrasi-jakarta-selatan
+Indonesia,ID,Jakarta,jakarta,Kota Administrasi Jakarta Timur,kota-administrasi-jakarta-timur
+Indonesia,ID,Jakarta,jakarta,Kota Administrasi Jakarta Utara,kota-administrasi-jakarta-utara
+Indonesia,ID,Jambi,jambi,Bejubang Dua,bejubang-dua
+Indonesia,ID,Jambi,jambi,Jambi City,jambi-city
+Indonesia,ID,Jambi,jambi,Kabupaten Batang Hari,kabupaten-batang-hari
+Indonesia,ID,Jambi,jambi,Kabupaten Bungo,kabupaten-bungo
+Indonesia,ID,Jambi,jambi,Kabupaten Kerinci,kabupaten-kerinci
+Indonesia,ID,Jambi,jambi,Kabupaten Merangin,kabupaten-merangin
+Indonesia,ID,Jambi,jambi,Kabupaten Muaro Jambi,kabupaten-muaro-jambi
+Indonesia,ID,Jambi,jambi,Kabupaten Sarolangun,kabupaten-sarolangun
+Indonesia,ID,Jambi,jambi,Kabupaten Tanjung Jabung Barat,kabupaten-tanjung-jabung-barat
+Indonesia,ID,Jambi,jambi,Kabupaten Tanjung Jabung Timur,kabupaten-tanjung-jabung-timur
+Indonesia,ID,Jambi,jambi,Kabupaten Tebo,kabupaten-tebo
+Indonesia,ID,Jambi,jambi,Kota Jambi,kota-jambi
+Indonesia,ID,Jambi,jambi,Kota Sungai Penuh,kota-sungai-penuh
+Indonesia,ID,Jambi,jambi,Kuala Tungkal,kuala-tungkal
+Indonesia,ID,Jambi,jambi,Mendaha,mendaha
+Indonesia,ID,Jambi,jambi,Simpang,simpang
+Indonesia,ID,Jambi,jambi,Sungai Penuh,sungai-penuh
+Indonesia,ID,Kalimantan,kalimantan,Kalimantan,kalimantan
+Indonesia,ID,Lampung,lampung,Bandar Lampung,bandar-lampung
+Indonesia,ID,Lampung,lampung,Kabupaten Lampung Barat,kabupaten-lampung-barat
+Indonesia,ID,Lampung,lampung,Kabupaten Lampung Selatan,kabupaten-lampung-selatan
+Indonesia,ID,Lampung,lampung,Kabupaten Lampung Tengah,kabupaten-lampung-tengah
+Indonesia,ID,Lampung,lampung,Kabupaten Lampung Timur,kabupaten-lampung-timur
+Indonesia,ID,Lampung,lampung,Kabupaten Lampung Utara,kabupaten-lampung-utara
+Indonesia,ID,Lampung,lampung,Kabupaten Mesuji,kabupaten-mesuji
+Indonesia,ID,Lampung,lampung,Kabupaten Pesawaran,kabupaten-pesawaran
+Indonesia,ID,Lampung,lampung,Kabupaten Pesisir Barat,kabupaten-pesisir-barat
+Indonesia,ID,Lampung,lampung,Kabupaten Pringsewu,kabupaten-pringsewu
+Indonesia,ID,Lampung,lampung,Kabupaten Tanggamus,kabupaten-tanggamus
+Indonesia,ID,Lampung,lampung,Kabupaten Tulangbawang,kabupaten-tulangbawang
+Indonesia,ID,Lampung,lampung,Kabupaten Way Kanan,kabupaten-way-kanan
+Indonesia,ID,Lampung,lampung,Kota Bandar Lampung,kota-bandar-lampung
+Indonesia,ID,Lampung,lampung,Kota Metro,kota-metro
+Indonesia,ID,Lampung,lampung,Kotabumi,kotabumi
+Indonesia,ID,Lampung,lampung,Metro,metro
+Indonesia,ID,Lampung,lampung,Terbanggi Besar,terbanggi-besar
+Indonesia,ID,Lesser Sunda Islands,lesser-sunda-islands,Lesser Sunda Islands,lesser-sunda-islands
+Indonesia,ID,Maluku,maluku,Amahai,amahai
+Indonesia,ID,Maluku,maluku,Ambon,ambon
+Indonesia,ID,Maluku,maluku,Kabupaten Buru,kabupaten-buru
+Indonesia,ID,Maluku,maluku,Kabupaten Buru Selatan,kabupaten-buru-selatan
+Indonesia,ID,Maluku,maluku,Kabupaten Kepulauan Aru,kabupaten-kepulauan-aru
+Indonesia,ID,Maluku,maluku,Kabupaten Maluku Barat Daya,kabupaten-maluku-barat-daya
+Indonesia,ID,Maluku,maluku,Kabupaten Maluku Tengah,kabupaten-maluku-tengah
+Indonesia,ID,Maluku,maluku,Kabupaten Maluku Tenggara,kabupaten-maluku-tenggara
+Indonesia,ID,Maluku,maluku,Kabupaten Maluku Tenggara Barat,kabupaten-maluku-tenggara-barat
+Indonesia,ID,Maluku,maluku,Kabupaten Seram Bagian Barat,kabupaten-seram-bagian-barat
+Indonesia,ID,Maluku,maluku,Kabupaten Seram Bagian Timur,kabupaten-seram-bagian-timur
+Indonesia,ID,Maluku,maluku,Kota Ambon,kota-ambon
+Indonesia,ID,Maluku,maluku,Kota Tual,kota-tual
+Indonesia,ID,Maluku,maluku,Tual,tual
+Indonesia,ID,Maluku Islands,maluku-islands,Maluku Islands,maluku-islands
+Indonesia,ID,North Kalimantan,north-kalimantan,Kabupaten Bulungan,kabupaten-bulungan
+Indonesia,ID,North Kalimantan,north-kalimantan,Kabupaten Malinau,kabupaten-malinau
+Indonesia,ID,North Kalimantan,north-kalimantan,Kabupaten Nunukan,kabupaten-nunukan
+Indonesia,ID,North Kalimantan,north-kalimantan,Kabupaten Tana Tidung,kabupaten-tana-tidung
+Indonesia,ID,North Kalimantan,north-kalimantan,Tanjung Selor,tanjung-selor
+Indonesia,ID,North Kalimantan,north-kalimantan,Tarakan,tarakan
+Indonesia,ID,North Maluku,north-maluku,East Halmahera Regency,east-halmahera-regency
+Indonesia,ID,North Maluku,north-maluku,Kabupaten Halmahera Barat,kabupaten-halmahera-barat
+Indonesia,ID,North Maluku,north-maluku,Kabupaten Halmahera Selatan,kabupaten-halmahera-selatan
+Indonesia,ID,North Maluku,north-maluku,Kabupaten Halmahera Tengah,kabupaten-halmahera-tengah
+Indonesia,ID,North Maluku,north-maluku,Kabupaten Halmahera Utara,kabupaten-halmahera-utara
+Indonesia,ID,North Maluku,north-maluku,Kabupaten Kepulauan Sula,kabupaten-kepulauan-sula
+Indonesia,ID,North Maluku,north-maluku,Kabupaten Pulau Morotai,kabupaten-pulau-morotai
+Indonesia,ID,North Maluku,north-maluku,Kabupaten Pulau Taliabu,kabupaten-pulau-taliabu
+Indonesia,ID,North Maluku,north-maluku,Kota Ternate,kota-ternate
+Indonesia,ID,North Maluku,north-maluku,Kota Tidore Kepulauan,kota-tidore-kepulauan
+Indonesia,ID,North Maluku,north-maluku,Sofifi,sofifi
+Indonesia,ID,North Maluku,north-maluku,Ternate,ternate
+Indonesia,ID,North Maluku,north-maluku,Tobelo,tobelo
+Indonesia,ID,North Sulawesi,north-sulawesi,Kabupaten Bolaang Mongondow,kabupaten-bolaang-mongondow
+Indonesia,ID,North Sulawesi,north-sulawesi,Kabupaten Bolaang Mongondow Selatan,kabupaten-bolaang-mongondow-selatan
+Indonesia,ID,North Sulawesi,north-sulawesi,Kabupaten Bolaang Mongondow Timur,kabupaten-bolaang-mongondow-timur
+Indonesia,ID,North Sulawesi,north-sulawesi,Kabupaten Bolaang Mongondow Utara,kabupaten-bolaang-mongondow-utara
+Indonesia,ID,North Sulawesi,north-sulawesi,Kabupaten Kepulauan Sangihe,kabupaten-kepulauan-sangihe
+Indonesia,ID,North Sulawesi,north-sulawesi,Kabupaten Kepulauan Talaud,kabupaten-kepulauan-talaud
+Indonesia,ID,North Sulawesi,north-sulawesi,Kabupaten Minahasa,kabupaten-minahasa
+Indonesia,ID,North Sulawesi,north-sulawesi,Kabupaten Minahasa Selatan,kabupaten-minahasa-selatan
+Indonesia,ID,North Sulawesi,north-sulawesi,Kabupaten Minahasa Tenggara,kabupaten-minahasa-tenggara
+Indonesia,ID,North Sulawesi,north-sulawesi,Kabupaten Minahasa Utara,kabupaten-minahasa-utara
+Indonesia,ID,North Sulawesi,north-sulawesi,Kabupaten Siau Tagulandang Biaro,kabupaten-siau-tagulandang-biaro
+Indonesia,ID,North Sulawesi,north-sulawesi,Kota Bitung,kota-bitung
+Indonesia,ID,North Sulawesi,north-sulawesi,Kota Kotamobagu,kota-kotamobagu
+Indonesia,ID,North Sulawesi,north-sulawesi,Kota Manado,kota-manado
+Indonesia,ID,North Sulawesi,north-sulawesi,Kota Tomohon,kota-tomohon
+Indonesia,ID,North Sulawesi,north-sulawesi,"Laikit, Laikit II (Dimembe)",laikit-laikit-ii-dimembe
+Indonesia,ID,North Sulawesi,north-sulawesi,Manado,manado
+Indonesia,ID,North Sulawesi,north-sulawesi,Tomohon,tomohon
+Indonesia,ID,North Sulawesi,north-sulawesi,Tondano,tondano
+Indonesia,ID,North Sumatra,north-sumatra,Ambarita,ambarita
+Indonesia,ID,North Sumatra,north-sumatra,Bandar,bandar
+Indonesia,ID,North Sumatra,north-sumatra,Belawan,belawan
+Indonesia,ID,North Sumatra,north-sumatra,Berastagi,berastagi
+Indonesia,ID,North Sumatra,north-sumatra,Binjai,binjai
+Indonesia,ID,North Sumatra,north-sumatra,Deli Tua,deli-tua
+Indonesia,ID,North Sumatra,north-sumatra,Gunungsitoli,gunungsitoli
+Indonesia,ID,North Sumatra,north-sumatra,Kabanjahe,kabanjahe
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Asahan,kabupaten-asahan
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Batu Bara,kabupaten-batu-bara
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Dairi,kabupaten-dairi
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Deli Serdang,kabupaten-deli-serdang
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Humbang Hasundutan,kabupaten-humbang-hasundutan
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Karo,kabupaten-karo
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Labuhan Batu,kabupaten-labuhan-batu
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Labuhan Batu Selatan,kabupaten-labuhan-batu-selatan
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Labuhan Batu Utara,kabupaten-labuhan-batu-utara
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Langkat,kabupaten-langkat
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Mandailing Natal,kabupaten-mandailing-natal
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Nias,kabupaten-nias
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Nias Barat,kabupaten-nias-barat
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Nias Utara,kabupaten-nias-utara
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Padang Lawas,kabupaten-padang-lawas
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Padang Lawas Utara,kabupaten-padang-lawas-utara
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Pakpak Bharat,kabupaten-pakpak-bharat
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Samosir,kabupaten-samosir
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Serdang Bedagai,kabupaten-serdang-bedagai
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Simalungun,kabupaten-simalungun
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Tapanuli Selatan,kabupaten-tapanuli-selatan
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Tapanuli Tengah,kabupaten-tapanuli-tengah
+Indonesia,ID,North Sumatra,north-sumatra,Kabupaten Tapanuli Utara,kabupaten-tapanuli-utara
+Indonesia,ID,North Sumatra,north-sumatra,Kisaran,kisaran
+Indonesia,ID,North Sumatra,north-sumatra,Kota Binjai,kota-binjai
+Indonesia,ID,North Sumatra,north-sumatra,Kota Gunungsitoli,kota-gunungsitoli
+Indonesia,ID,North Sumatra,north-sumatra,Kota Medan,kota-medan
+Indonesia,ID,North Sumatra,north-sumatra,Kota Padangsidimpuan,kota-padangsidimpuan
+Indonesia,ID,North Sumatra,north-sumatra,Kota Pematang Siantar,kota-pematang-siantar
+Indonesia,ID,North Sumatra,north-sumatra,Kota Sibolga,kota-sibolga
+Indonesia,ID,North Sumatra,north-sumatra,Kota Tanjung Balai,kota-tanjung-balai
+Indonesia,ID,North Sumatra,north-sumatra,Kota Tebing Tinggi,kota-tebing-tinggi
+Indonesia,ID,North Sumatra,north-sumatra,Labuhan Deli,labuhan-deli
+Indonesia,ID,North Sumatra,north-sumatra,Medan,medan
+Indonesia,ID,North Sumatra,north-sumatra,Padangsidempuan,padangsidempuan
+Indonesia,ID,North Sumatra,north-sumatra,Pangkalan Brandan,pangkalan-brandan
+Indonesia,ID,North Sumatra,north-sumatra,Parapat,parapat
+Indonesia,ID,North Sumatra,north-sumatra,Pekan Bahapal,pekan-bahapal
+Indonesia,ID,North Sumatra,north-sumatra,Pematangsiantar,pematangsiantar
+Indonesia,ID,North Sumatra,north-sumatra,Perbaungan,perbaungan
+Indonesia,ID,North Sumatra,north-sumatra,Percut,percut
+Indonesia,ID,North Sumatra,north-sumatra,Rantauprapat,rantauprapat
+Indonesia,ID,North Sumatra,north-sumatra,Sibolga,sibolga
+Indonesia,ID,North Sumatra,north-sumatra,Stabat,stabat
+Indonesia,ID,North Sumatra,north-sumatra,Sunggal,sunggal
+Indonesia,ID,North Sumatra,north-sumatra,Tanjungbalai,tanjungbalai
+Indonesia,ID,North Sumatra,north-sumatra,Tanjungtiram,tanjungtiram
+Indonesia,ID,North Sumatra,north-sumatra,Tebingtinggi,tebingtinggi
+Indonesia,ID,North Sumatra,north-sumatra,Teluk Nibung,teluk-nibung
+Indonesia,ID,North Sumatra,north-sumatra,Tomok Bolon,tomok-bolon
+Indonesia,ID,North Sumatra,north-sumatra,Tongging,tongging
+Indonesia,ID,North Sumatra,north-sumatra,Tuktuk Sonak,tuktuk-sonak
+Indonesia,ID,Papua,papua,Abepura,abepura
+Indonesia,ID,Papua,papua,Biak,biak
+Indonesia,ID,Papua,papua,Insrom,insrom
+Indonesia,ID,Papua,papua,Jayapura,jayapura
+Indonesia,ID,Papua,papua,Kabupaten Asmat,kabupaten-asmat
+Indonesia,ID,Papua,papua,Kabupaten Biak Numfor,kabupaten-biak-numfor
+Indonesia,ID,Papua,papua,Kabupaten Boven Digoel,kabupaten-boven-digoel
+Indonesia,ID,Papua,papua,Kabupaten Deiyai,kabupaten-deiyai
+Indonesia,ID,Papua,papua,Kabupaten Dogiyai,kabupaten-dogiyai
+Indonesia,ID,Papua,papua,Kabupaten Intan Jaya,kabupaten-intan-jaya
+Indonesia,ID,Papua,papua,Kabupaten Jayapura,kabupaten-jayapura
+Indonesia,ID,Papua,papua,Kabupaten Jayawijaya,kabupaten-jayawijaya
+Indonesia,ID,Papua,papua,Kabupaten Keerom,kabupaten-keerom
+Indonesia,ID,Papua,papua,Kabupaten Kepulauan Yapen,kabupaten-kepulauan-yapen
+Indonesia,ID,Papua,papua,Kabupaten Lanny Jaya,kabupaten-lanny-jaya
+Indonesia,ID,Papua,papua,Kabupaten Mamberamo Raya,kabupaten-mamberamo-raya
+Indonesia,ID,Papua,papua,Kabupaten Mamberamo Tengah,kabupaten-mamberamo-tengah
+Indonesia,ID,Papua,papua,Kabupaten Mappi,kabupaten-mappi
+Indonesia,ID,Papua,papua,Kabupaten Merauke,kabupaten-merauke
+Indonesia,ID,Papua,papua,Kabupaten Mimika,kabupaten-mimika
+Indonesia,ID,Papua,papua,Kabupaten Nabire,kabupaten-nabire
+Indonesia,ID,Papua,papua,Kabupaten Nduga,kabupaten-nduga
+Indonesia,ID,Papua,papua,Kabupaten Paniai,kabupaten-paniai
+Indonesia,ID,Papua,papua,Kabupaten Pegunungan Bintang,kabupaten-pegunungan-bintang
+Indonesia,ID,Papua,papua,Kabupaten Puncak Jaya,kabupaten-puncak-jaya
+Indonesia,ID,Papua,papua,Kabupaten Sarmi,kabupaten-sarmi
+Indonesia,ID,Papua,papua,Kabupaten Supiori,kabupaten-supiori
+Indonesia,ID,Papua,papua,Kabupaten Tolikara,kabupaten-tolikara
+Indonesia,ID,Papua,papua,Kabupaten Waropen,kabupaten-waropen
+Indonesia,ID,Papua,papua,Kabupaten Yahukimo,kabupaten-yahukimo
+Indonesia,ID,Papua,papua,Kabupaten Yalimo,kabupaten-yalimo
+Indonesia,ID,Papua,papua,Kota Jayapura,kota-jayapura
+Indonesia,ID,Papua,papua,Nabire,nabire
+Indonesia,ID,Riau,riau,Balaipungut,balaipungut
+Indonesia,ID,Riau,riau,Batam,batam
+Indonesia,ID,Riau,riau,Dumai,dumai
+Indonesia,ID,Riau,riau,Kabupaten Bengkalis,kabupaten-bengkalis
+Indonesia,ID,Riau,riau,Kabupaten Indragiri Hilir,kabupaten-indragiri-hilir
+Indonesia,ID,Riau,riau,Kabupaten Indragiri Hulu,kabupaten-indragiri-hulu
+Indonesia,ID,Riau,riau,Kabupaten Kampar,kabupaten-kampar
+Indonesia,ID,Riau,riau,Kabupaten Kepulauan Meranti,kabupaten-kepulauan-meranti
+Indonesia,ID,Riau,riau,Kabupaten Kuantan Singingi,kabupaten-kuantan-singingi
+Indonesia,ID,Riau,riau,Kabupaten Pelalawan,kabupaten-pelalawan
+Indonesia,ID,Riau,riau,Kabupaten Rokan Hilir,kabupaten-rokan-hilir
+Indonesia,ID,Riau,riau,Kabupaten Rokan Hulu,kabupaten-rokan-hulu
+Indonesia,ID,Riau,riau,Kabupaten Siak,kabupaten-siak
+Indonesia,ID,Riau,riau,Kota Dumai,kota-dumai
+Indonesia,ID,Riau,riau,Kota Pekanbaru,kota-pekanbaru
+Indonesia,ID,Riau,riau,Pekanbaru,pekanbaru
+Indonesia,ID,Riau Islands,riau-islands,Kabupaten Bintan,kabupaten-bintan
+Indonesia,ID,Riau Islands,riau-islands,Kabupaten Karimun,kabupaten-karimun
+Indonesia,ID,Riau Islands,riau-islands,Kabupaten Kepulauan Anambas,kabupaten-kepulauan-anambas
+Indonesia,ID,Riau Islands,riau-islands,Kabupaten Lingga,kabupaten-lingga
+Indonesia,ID,Riau Islands,riau-islands,Kabupaten Natuna,kabupaten-natuna
+Indonesia,ID,Riau Islands,riau-islands,Kijang,kijang
+Indonesia,ID,Riau Islands,riau-islands,Kota Batam,kota-batam
+Indonesia,ID,Riau Islands,riau-islands,Kota Tanjung Pinang,kota-tanjung-pinang
+Indonesia,ID,Riau Islands,riau-islands,Tanjung Pinang,tanjung-pinang
+Indonesia,ID,South Kalimantan,south-kalimantan,Amuntai,amuntai
+Indonesia,ID,South Kalimantan,south-kalimantan,Banjarmasin,banjarmasin
+Indonesia,ID,South Kalimantan,south-kalimantan,Barabai,barabai
+Indonesia,ID,South Kalimantan,south-kalimantan,Kabupaten Balangan,kabupaten-balangan
+Indonesia,ID,South Kalimantan,south-kalimantan,Kabupaten Banjar,kabupaten-banjar
+Indonesia,ID,South Kalimantan,south-kalimantan,Kabupaten Barito Kuala,kabupaten-barito-kuala
+Indonesia,ID,South Kalimantan,south-kalimantan,Kabupaten Hulu Sungai Selatan,kabupaten-hulu-sungai-selatan
+Indonesia,ID,South Kalimantan,south-kalimantan,Kabupaten Hulu Sungai Tengah,kabupaten-hulu-sungai-tengah
+Indonesia,ID,South Kalimantan,south-kalimantan,Kabupaten Hulu Sungai Utara,kabupaten-hulu-sungai-utara
+Indonesia,ID,South Kalimantan,south-kalimantan,Kabupaten Kota Baru,kabupaten-kota-baru
+Indonesia,ID,South Kalimantan,south-kalimantan,Kabupaten Tabalong,kabupaten-tabalong
+Indonesia,ID,South Kalimantan,south-kalimantan,Kabupaten Tanah Bumbu,kabupaten-tanah-bumbu
+Indonesia,ID,South Kalimantan,south-kalimantan,Kabupaten Tanah Laut,kabupaten-tanah-laut
+Indonesia,ID,South Kalimantan,south-kalimantan,Kabupaten Tapin,kabupaten-tapin
+Indonesia,ID,South Kalimantan,south-kalimantan,Kota Banjar Baru,kota-banjar-baru
+Indonesia,ID,South Kalimantan,south-kalimantan,Kota Banjarmasin,kota-banjarmasin
+Indonesia,ID,South Kalimantan,south-kalimantan,Martapura,martapura
+Indonesia,ID,South Sulawesi,south-sulawesi,Galesong,galesong
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Bantaeng,kabupaten-bantaeng
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Barru,kabupaten-barru
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Bone,kabupaten-bone
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Bulukumba,kabupaten-bulukumba
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Enrekang,kabupaten-enrekang
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Gowa,kabupaten-gowa
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Jeneponto,kabupaten-jeneponto
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Luwu,kabupaten-luwu
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Luwu Timur,kabupaten-luwu-timur
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Luwu Utara,kabupaten-luwu-utara
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Maros,kabupaten-maros
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Pangkajene Dan Kepulauan,kabupaten-pangkajene-dan-kepulauan
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Pinrang,kabupaten-pinrang
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Sidenreng Rappang,kabupaten-sidenreng-rappang
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Sinjai,kabupaten-sinjai
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Soppeng,kabupaten-soppeng
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Takalar,kabupaten-takalar
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Tana Toraja,kabupaten-tana-toraja
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Toraja Utara,kabupaten-toraja-utara
+Indonesia,ID,South Sulawesi,south-sulawesi,Kabupaten Wajo,kabupaten-wajo
+Indonesia,ID,South Sulawesi,south-sulawesi,Kota Makassar,kota-makassar
+Indonesia,ID,South Sulawesi,south-sulawesi,Kota Palopo,kota-palopo
+Indonesia,ID,South Sulawesi,south-sulawesi,Kota Parepare,kota-parepare
+Indonesia,ID,South Sulawesi,south-sulawesi,Makassar,makassar
+Indonesia,ID,South Sulawesi,south-sulawesi,Maros,maros
+Indonesia,ID,South Sulawesi,south-sulawesi,Palopo,palopo
+Indonesia,ID,South Sulawesi,south-sulawesi,Parepare,parepare
+Indonesia,ID,South Sulawesi,south-sulawesi,Rantepao,rantepao
+Indonesia,ID,South Sulawesi,south-sulawesi,Selayar Islands Regency,selayar-islands-regency
+Indonesia,ID,South Sulawesi,south-sulawesi,Sengkang,sengkang
+Indonesia,ID,South Sulawesi,south-sulawesi,Sinjai,sinjai
+Indonesia,ID,South Sulawesi,south-sulawesi,Watampone,watampone
+Indonesia,ID,South Sumatra,south-sumatra,Baturaja,baturaja
+Indonesia,ID,South Sumatra,south-sumatra,Kabupaten Empat Lawang,kabupaten-empat-lawang
+Indonesia,ID,South Sumatra,south-sumatra,Kabupaten Muara Enim,kabupaten-muara-enim
+Indonesia,ID,South Sumatra,south-sumatra,Kabupaten Musi Banyuasin,kabupaten-musi-banyuasin
+Indonesia,ID,South Sumatra,south-sumatra,Kabupaten Musi Rawas,kabupaten-musi-rawas
+Indonesia,ID,South Sumatra,south-sumatra,Kabupaten Musi Rawas Utara,kabupaten-musi-rawas-utara
+Indonesia,ID,South Sumatra,south-sumatra,Kabupaten Ogan Ilir,kabupaten-ogan-ilir
+Indonesia,ID,South Sumatra,south-sumatra,Kabupaten Ogan Komering Ilir,kabupaten-ogan-komering-ilir
+Indonesia,ID,South Sumatra,south-sumatra,Kabupaten Ogan Komering Ulu,kabupaten-ogan-komering-ulu
+Indonesia,ID,South Sumatra,south-sumatra,Kabupaten Ogan Komering Ulu Selatan,kabupaten-ogan-komering-ulu-selatan
+Indonesia,ID,South Sumatra,south-sumatra,Kabupaten Ogan Komering Ulu Timur,kabupaten-ogan-komering-ulu-timur
+Indonesia,ID,South Sumatra,south-sumatra,Kabupaten Penukal Abab Lematang Ilir,kabupaten-penukal-abab-lematang-ilir
+Indonesia,ID,South Sumatra,south-sumatra,Kota Lubuklinggau,kota-lubuklinggau
+Indonesia,ID,South Sumatra,south-sumatra,Kota Pagar Alam,kota-pagar-alam
+Indonesia,ID,South Sumatra,south-sumatra,Kota Palembang,kota-palembang
+Indonesia,ID,South Sumatra,south-sumatra,Kota Prabumulih,kota-prabumulih
+Indonesia,ID,South Sumatra,south-sumatra,Lahat,lahat
+Indonesia,ID,South Sumatra,south-sumatra,Lahat Regency,lahat-regency
+Indonesia,ID,South Sumatra,south-sumatra,Lubuklinggau,lubuklinggau
+Indonesia,ID,South Sumatra,south-sumatra,Pagar Alam,pagar-alam
+Indonesia,ID,South Sumatra,south-sumatra,Palembang,palembang
+Indonesia,ID,South Sumatra,south-sumatra,Prabumulih,prabumulih
+Indonesia,ID,South Sumatra,south-sumatra,Tanjungagung,tanjungagung
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Bombana,kabupaten-bombana
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Buton,kabupaten-buton
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Buton Selatan,kabupaten-buton-selatan
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Buton Tengah,kabupaten-buton-tengah
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Buton Utara,kabupaten-buton-utara
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Kolaka,kabupaten-kolaka
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Kolaka Timur,kabupaten-kolaka-timur
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Kolaka Utara,kabupaten-kolaka-utara
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Konawe,kabupaten-konawe
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Konawe Kepulauan,kabupaten-konawe-kepulauan
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Konawe Selatan,kabupaten-konawe-selatan
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Konawe Utara,kabupaten-konawe-utara
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Muna,kabupaten-muna
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kabupaten Muna Barat,kabupaten-muna-barat
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Katabu,katabu
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kendari,kendari
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kota Baubau,kota-baubau
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Kota Kendari,kota-kendari
+Indonesia,ID,Southeast Sulawesi,southeast-sulawesi,Wakatobi Regency,wakatobi-regency
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Bambanglipuro,bambanglipuro
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Bantul,bantul
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Depok,depok
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Gamping Lor,gamping-lor
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Godean,godean
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Kabupaten Bantul,kabupaten-bantul
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Kabupaten Gunung Kidul,kabupaten-gunung-kidul
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Kabupaten Kulon Progo,kabupaten-kulon-progo
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Kabupaten Sleman,kabupaten-sleman
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Kasihan,kasihan
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Kota Yogyakarta,kota-yogyakarta
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Melati,melati
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Pandak,pandak
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Pundong,pundong
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Sewon,sewon
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Sleman,sleman
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Srandakan,srandakan
+Indonesia,ID,Special Region of Yogyakarta,special-region-of-yogyakarta,Yogyakarta,yogyakarta
+Indonesia,ID,Sulawesi,sulawesi,Sulawesi,sulawesi
+Indonesia,ID,Sumatra,sumatra,Sumatra,sumatra
+Indonesia,ID,West Java,west-java,Arjawinangun,arjawinangun
+Indonesia,ID,West Java,west-java,Astanajapura,astanajapura
+Indonesia,ID,West Java,west-java,Bandung,bandung
+Indonesia,ID,West Java,west-java,Banjar,banjar
+Indonesia,ID,West Java,west-java,Banjaran,banjaran
+Indonesia,ID,West Java,west-java,Bekasi,bekasi
+Indonesia,ID,West Java,west-java,Bogor,bogor
+Indonesia,ID,West Java,west-java,Caringin,caringin
+Indonesia,ID,West Java,west-java,Ciamis,ciamis
+Indonesia,ID,West Java,west-java,Ciampea,ciampea
+Indonesia,ID,West Java,west-java,Cibinong,cibinong
+Indonesia,ID,West Java,west-java,Cicurug,cicurug
+Indonesia,ID,West Java,west-java,Cikampek,cikampek
+Indonesia,ID,West Java,west-java,Cikarang,cikarang
+Indonesia,ID,West Java,west-java,Cikupa,cikupa
+Indonesia,ID,West Java,west-java,Cileungsir,cileungsir
+Indonesia,ID,West Java,west-java,Cileunyi,cileunyi
+Indonesia,ID,West Java,west-java,Cimahi,cimahi
+Indonesia,ID,West Java,west-java,Ciputat,ciputat
+Indonesia,ID,West Java,west-java,Ciranjang-hilir,ciranjang-hilir
+Indonesia,ID,West Java,west-java,Cirebon,cirebon
+Indonesia,ID,West Java,west-java,Citeureup,citeureup
+Indonesia,ID,West Java,west-java,Depok,depok
+Indonesia,ID,West Java,west-java,Indramayu,indramayu
+Indonesia,ID,West Java,west-java,Jatibarang,jatibarang
+Indonesia,ID,West Java,west-java,Jatiwangi,jatiwangi
+Indonesia,ID,West Java,west-java,Kabupaten Bandung,kabupaten-bandung
+Indonesia,ID,West Java,west-java,Kabupaten Bandung Barat,kabupaten-bandung-barat
+Indonesia,ID,West Java,west-java,Kabupaten Bekasi,kabupaten-bekasi
+Indonesia,ID,West Java,west-java,Kabupaten Bogor,kabupaten-bogor
+Indonesia,ID,West Java,west-java,Kabupaten Ciamis,kabupaten-ciamis
+Indonesia,ID,West Java,west-java,Kabupaten Cianjur,kabupaten-cianjur
+Indonesia,ID,West Java,west-java,Kabupaten Cirebon,kabupaten-cirebon
+Indonesia,ID,West Java,west-java,Kabupaten Garut,kabupaten-garut
+Indonesia,ID,West Java,west-java,Kabupaten Indramayu,kabupaten-indramayu
+Indonesia,ID,West Java,west-java,Kabupaten Karawang,kabupaten-karawang
+Indonesia,ID,West Java,west-java,Kabupaten Kuningan,kabupaten-kuningan
+Indonesia,ID,West Java,west-java,Kabupaten Majalengka,kabupaten-majalengka
+Indonesia,ID,West Java,west-java,Kabupaten Pangandaran,kabupaten-pangandaran
+Indonesia,ID,West Java,west-java,Kabupaten Purwakarta,kabupaten-purwakarta
+Indonesia,ID,West Java,west-java,Kabupaten Subang,kabupaten-subang
+Indonesia,ID,West Java,west-java,Kabupaten Sukabumi,kabupaten-sukabumi
+Indonesia,ID,West Java,west-java,Kabupaten Sumedang,kabupaten-sumedang
+Indonesia,ID,West Java,west-java,Kabupaten Tasikmalaya,kabupaten-tasikmalaya
+Indonesia,ID,West Java,west-java,Karangampel,karangampel
+Indonesia,ID,West Java,west-java,Karangsembung,karangsembung
+Indonesia,ID,West Java,west-java,Kawalu,kawalu
+Indonesia,ID,West Java,west-java,Klangenan,klangenan
+Indonesia,ID,West Java,west-java,Kota Bandung,kota-bandung
+Indonesia,ID,West Java,west-java,Kota Banjar,kota-banjar
+Indonesia,ID,West Java,west-java,Kota Bekasi,kota-bekasi
+Indonesia,ID,West Java,west-java,Kota Bogor,kota-bogor
+Indonesia,ID,West Java,west-java,Kota Cimahi,kota-cimahi
+Indonesia,ID,West Java,west-java,Kota Cirebon,kota-cirebon
+Indonesia,ID,West Java,west-java,Kota Depok,kota-depok
+Indonesia,ID,West Java,west-java,Kota Sukabumi,kota-sukabumi
+Indonesia,ID,West Java,west-java,Kota Tasikmalaya,kota-tasikmalaya
+Indonesia,ID,West Java,west-java,Kresek,kresek
+Indonesia,ID,West Java,west-java,Kuningan,kuningan
+Indonesia,ID,West Java,west-java,Lembang,lembang
+Indonesia,ID,West Java,west-java,Majalengka,majalengka
+Indonesia,ID,West Java,west-java,Margahayukencana,margahayukencana
+Indonesia,ID,West Java,west-java,Ngawi,ngawi
+Indonesia,ID,West Java,west-java,Padalarang,padalarang
+Indonesia,ID,West Java,west-java,Palimanan,palimanan
+Indonesia,ID,West Java,west-java,Pamanukan,pamanukan
+Indonesia,ID,West Java,west-java,Pameungpeuk,pameungpeuk
+Indonesia,ID,West Java,west-java,Pamulang,pamulang
+Indonesia,ID,West Java,west-java,Parung,parung
+Indonesia,ID,West Java,west-java,Pasarkemis,pasarkemis
+Indonesia,ID,West Java,west-java,Paseh,paseh
+Indonesia,ID,West Java,west-java,Pelabuhanratu,pelabuhanratu
+Indonesia,ID,West Java,west-java,Plumbon,plumbon
+Indonesia,ID,West Java,west-java,Purwakarta,purwakarta
+Indonesia,ID,West Java,west-java,Rajapolah,rajapolah
+Indonesia,ID,West Java,west-java,Rengasdengklok,rengasdengklok
+Indonesia,ID,West Java,west-java,Sawangan,sawangan
+Indonesia,ID,West Java,west-java,Sepatan,sepatan
+Indonesia,ID,West Java,west-java,Serpong,serpong
+Indonesia,ID,West Java,west-java,Singaparna,singaparna
+Indonesia,ID,West Java,west-java,Soreang,soreang
+Indonesia,ID,West Java,west-java,Sukabumi,sukabumi
+Indonesia,ID,West Java,west-java,Sumber,sumber
+Indonesia,ID,West Java,west-java,Sumedang,sumedang
+Indonesia,ID,West Java,west-java,Sumedang Utara,sumedang-utara
+Indonesia,ID,West Java,west-java,Tasikmalaya,tasikmalaya
+Indonesia,ID,West Java,west-java,Teluknaga,teluknaga
+Indonesia,ID,West Java,west-java,Wanaraja,wanaraja
+Indonesia,ID,West Java,west-java,Weru,weru
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Bima,bima
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Dompu,dompu
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Gili Air,gili-air
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Kabupaten Bima,kabupaten-bima
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Kabupaten Dompu,kabupaten-dompu
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Kabupaten Lombok Barat,kabupaten-lombok-barat
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Kabupaten Lombok Tengah,kabupaten-lombok-tengah
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Kabupaten Lombok Timur,kabupaten-lombok-timur
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Kabupaten Lombok Utara,kabupaten-lombok-utara
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Kabupaten Sumbawa,kabupaten-sumbawa
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Kabupaten Sumbawa Barat,kabupaten-sumbawa-barat
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Kota Bima,kota-bima
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Kota Mataram,kota-mataram
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Labuan Lombok,labuan-lombok
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Lembar,lembar
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Mataram,mataram
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Pemenang,pemenang
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Pototano,pototano
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Praya,praya
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Senggigi,senggigi
+Indonesia,ID,West Nusa Tenggara,west-nusa-tenggara,Sumbawa Besar,sumbawa-besar
+Indonesia,ID,West Papua,west-papua,Kabupaten Fakfak,kabupaten-fakfak
+Indonesia,ID,West Papua,west-papua,Kabupaten Kaimana,kabupaten-kaimana
+Indonesia,ID,West Papua,west-papua,Kabupaten Manokwari,kabupaten-manokwari
+Indonesia,ID,West Papua,west-papua,Kabupaten Manokwari Selatan,kabupaten-manokwari-selatan
+Indonesia,ID,West Papua,west-papua,Kabupaten Maybrat,kabupaten-maybrat
+Indonesia,ID,West Papua,west-papua,Kabupaten Raja Ampat,kabupaten-raja-ampat
+Indonesia,ID,West Papua,west-papua,Kabupaten Sorong,kabupaten-sorong
+Indonesia,ID,West Papua,west-papua,Kabupaten Sorong Selatan,kabupaten-sorong-selatan
+Indonesia,ID,West Papua,west-papua,Kabupaten Tambrauw,kabupaten-tambrauw
+Indonesia,ID,West Papua,west-papua,Kabupaten Teluk Bintuni,kabupaten-teluk-bintuni
+Indonesia,ID,West Papua,west-papua,Kabupaten Teluk Wondama,kabupaten-teluk-wondama
+Indonesia,ID,West Papua,west-papua,Kota Sorong,kota-sorong
+Indonesia,ID,West Papua,west-papua,Manokwari,manokwari
+Indonesia,ID,West Papua,west-papua,Sorong,sorong
+Indonesia,ID,West Sulawesi,west-sulawesi,Kabupaten Majene,kabupaten-majene
+Indonesia,ID,West Sulawesi,west-sulawesi,Kabupaten Mamasa,kabupaten-mamasa
+Indonesia,ID,West Sulawesi,west-sulawesi,Kabupaten Mamuju,kabupaten-mamuju
+Indonesia,ID,West Sulawesi,west-sulawesi,Kabupaten Mamuju Tengah,kabupaten-mamuju-tengah
+Indonesia,ID,West Sulawesi,west-sulawesi,Kabupaten Mamuju Utara,kabupaten-mamuju-utara
+Indonesia,ID,West Sulawesi,west-sulawesi,Kabupaten Polewali Mandar,kabupaten-polewali-mandar
+Indonesia,ID,West Sulawesi,west-sulawesi,Majene,majene
+Indonesia,ID,West Sulawesi,west-sulawesi,Mamuju,mamuju
+Indonesia,ID,West Sulawesi,west-sulawesi,Polewali,polewali
+Indonesia,ID,West Sumatra,west-sumatra,Bukittinggi,bukittinggi
+Indonesia,ID,West Sumatra,west-sumatra,Kabupaten Agam,kabupaten-agam
+Indonesia,ID,West Sumatra,west-sumatra,Kabupaten Dharmasraya,kabupaten-dharmasraya
+Indonesia,ID,West Sumatra,west-sumatra,Kabupaten Kepulauan Mentawai,kabupaten-kepulauan-mentawai
+Indonesia,ID,West Sumatra,west-sumatra,Kabupaten Lima Puluh Kota,kabupaten-lima-puluh-kota
+Indonesia,ID,West Sumatra,west-sumatra,Kabupaten Padang Pariaman,kabupaten-padang-pariaman
+Indonesia,ID,West Sumatra,west-sumatra,Kabupaten Pasaman,kabupaten-pasaman
+Indonesia,ID,West Sumatra,west-sumatra,Kabupaten Pasaman Barat,kabupaten-pasaman-barat
+Indonesia,ID,West Sumatra,west-sumatra,Kabupaten Pesisir Selatan,kabupaten-pesisir-selatan
+Indonesia,ID,West Sumatra,west-sumatra,Kabupaten Sijunjung,kabupaten-sijunjung
+Indonesia,ID,West Sumatra,west-sumatra,Kabupaten Solok,kabupaten-solok
+Indonesia,ID,West Sumatra,west-sumatra,Kabupaten Solok Selatan,kabupaten-solok-selatan
+Indonesia,ID,West Sumatra,west-sumatra,Kabupaten Tanah Datar,kabupaten-tanah-datar
+Indonesia,ID,West Sumatra,west-sumatra,Kota Bukittinggi,kota-bukittinggi
+Indonesia,ID,West Sumatra,west-sumatra,Kota Padang,kota-padang
+Indonesia,ID,West Sumatra,west-sumatra,Kota Padang Panjang,kota-padang-panjang
+Indonesia,ID,West Sumatra,west-sumatra,Kota Pariaman,kota-pariaman
+Indonesia,ID,West Sumatra,west-sumatra,Kota Payakumbuh,kota-payakumbuh
+Indonesia,ID,West Sumatra,west-sumatra,Kota Sawah Lunto,kota-sawah-lunto
+Indonesia,ID,West Sumatra,west-sumatra,Kota Solok,kota-solok
+Indonesia,ID,West Sumatra,west-sumatra,Padang,padang
+Indonesia,ID,West Sumatra,west-sumatra,Pariaman,pariaman
+Indonesia,ID,West Sumatra,west-sumatra,Payakumbuh,payakumbuh
+Indonesia,ID,West Sumatra,west-sumatra,Sijunjung,sijunjung
+Indonesia,ID,West Sumatra,west-sumatra,Solok,solok

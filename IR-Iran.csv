@@ -1,0 +1,607 @@
+s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Iran,IR,Alborz Province,alborz-province,Fardis,fardis
+Iran,IR,Alborz Province,alborz-province,Karaj,karaj
+Iran,IR,Alborz Province,alborz-province,Nazarabad,nazarabad
+Iran,IR,Alborz Province,alborz-province,Shahrestan-e Eshtehard,shahrestan-e-eshtehard
+Iran,IR,Alborz Province,alborz-province,Shahrestan-e Nazarabad,shahrestan-e-nazarabad
+Iran,IR,Alborz Province,alborz-province,Shahrestan-e Savojbolagh,shahrestan-e-savojbolagh
+Iran,IR,Alborz Province,alborz-province,Shahrestan-e Taleqan,shahrestan-e-taleqan
+Iran,IR,Ardabil Province,ardabil-province,Ardabil,ardabil
+Iran,IR,Ardabil Province,ardabil-province,Bileh Savar,bileh-savar
+Iran,IR,Ardabil Province,ardabil-province,Khalkhal,khalkhal
+Iran,IR,Ardabil Province,ardabil-province,Omidcheh,omidcheh
+Iran,IR,Ardabil Province,ardabil-province,Parsabad,parsabad
+Iran,IR,Ardabil Province,ardabil-province,Shahrestan-e Ardabil,shahrestan-e-ardabil
+Iran,IR,Ardabil Province,ardabil-province,Shahrestan-e Bileh Savar,shahrestan-e-bileh-savar
+Iran,IR,Ardabil Province,ardabil-province,Shahrestan-e Germi,shahrestan-e-germi
+Iran,IR,Ardabil Province,ardabil-province,Shahrestan-e Khalkhal,shahrestan-e-khalkhal
+Iran,IR,Ardabil Province,ardabil-province,Shahrestan-e Kowsar,shahrestan-e-kowsar
+Iran,IR,Ardabil Province,ardabil-province,Shahrestan-e Meshgin Shahr,shahrestan-e-meshgin-shahr
+Iran,IR,Ardabil Province,ardabil-province,Shahrestan-e Namin,shahrestan-e-namin
+Iran,IR,Ardabil Province,ardabil-province,Shahrestan-e Nir,shahrestan-e-nir
+Iran,IR,Ardabil Province,ardabil-province,Shahrestan-e Parsabad,shahrestan-e-parsabad
+Iran,IR,Ardabil Province,ardabil-province,Shahrestan-e Sareyn,shahrestan-e-sareyn
+Iran,IR,Bushehr Province,bushehr-province,Ahram,ahram
+Iran,IR,Bushehr Province,bushehr-province,Bandar-e Genaveh,bandar-e-genaveh
+Iran,IR,Bushehr Province,bushehr-province,Borazjan,borazjan
+Iran,IR,Bushehr Province,bushehr-province,Bushehr,bushehr
+Iran,IR,Bushehr Province,bushehr-province,Deylam,deylam
+Iran,IR,Bushehr Province,bushehr-province,Khark,khark
+Iran,IR,Bushehr Province,bushehr-province,Shahrestan-e Asaluyeh,shahrestan-e-asaluyeh
+Iran,IR,Bushehr Province,bushehr-province,Shahrestan-e Bushehr,shahrestan-e-bushehr
+Iran,IR,Bushehr Province,bushehr-province,Shahrestan-e Dashtestan,shahrestan-e-dashtestan
+Iran,IR,Bushehr Province,bushehr-province,Shahrestan-e Dashti,shahrestan-e-dashti
+Iran,IR,Bushehr Province,bushehr-province,Shahrestan-e Genaveh,shahrestan-e-genaveh
+Iran,IR,Bushehr Province,bushehr-province,Shahrestan-e Kangan,shahrestan-e-kangan
+Iran,IR,Bushehr Province,bushehr-province,Shahrestan-e Tangestan,shahrestan-e-tangestan
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Ben,ben
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Borujen,borujen
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Chelgard,chelgard
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Farrokh Shahr,farrokh-shahr
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Farsan,farsan
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Saman,saman
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Shahr-e Kord,shahr-e-kord
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Shahrekord,shahrekord
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Shahrestan-e Borujen,shahrestan-e-borujen
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Shahrestan-e Farsan,shahrestan-e-farsan
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Shahrestan-e Kiar,shahrestan-e-kiar
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Shahrestan-e Kuhrang,shahrestan-e-kuhrang
+Iran,IR,Chaharmahal and Bakhtiari Province,chaharmahal-and-bakhtiari-province,Shahrestan-e Lordegan,shahrestan-e-lordegan
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Ajab Shir,ajab-shir
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Ahar,ahar
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Bonab,bonab
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Hashtrud,hashtrud
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Marand,marand
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Sarab,sarab
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Ajab Shir,shahrestan-e-ajab-shir
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Azarshahr,shahrestan-e-azarshahr
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Bonab,shahrestan-e-bonab
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Bostanabad,shahrestan-e-bostanabad
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Charavimaq,shahrestan-e-charavimaq
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Hashtrud,shahrestan-e-hashtrud
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Heris,shahrestan-e-heris
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Jolfa,shahrestan-e-jolfa
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Khoda Afarin,shahrestan-e-khoda-afarin
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Malekan,shahrestan-e-malekan
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Maragheh,shahrestan-e-maragheh
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Mianeh,shahrestan-e-mianeh
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Osku,shahrestan-e-osku
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Sarab,shahrestan-e-sarab
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Tabriz,shahrestan-e-tabriz
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Shahrestan-e Varzaqan,shahrestan-e-varzaqan
+Iran,IR,East Azerbaijan Province,east-azerbaijan-province,Tabriz,tabriz
+Iran,IR,Fars Province,fars-province,Abadeh,abadeh
+Iran,IR,Fars Province,fars-province,Akbarabad,akbarabad
+Iran,IR,Fars Province,fars-province,Darab,darab
+Iran,IR,Fars Province,fars-province,Fasa,fasa
+Iran,IR,Fars Province,fars-province,Firuzabad,firuzabad
+Iran,IR,Fars Province,fars-province,Gerash,gerash
+Iran,IR,Fars Province,fars-province,Kazerun,kazerun
+Iran,IR,Fars Province,fars-province,Mamasani,mamasani
+Iran,IR,Fars Province,fars-province,Marvdasht,marvdasht
+Iran,IR,Fars Province,fars-province,Mohr,mohr
+Iran,IR,Fars Province,fars-province,Neyriz,neyriz
+Iran,IR,Fars Province,fars-province,Nurabad,nurabad
+Iran,IR,Fars Province,fars-province,Pasargad,pasargad
+Iran,IR,Fars Province,fars-province,Rostam,rostam
+Iran,IR,Fars Province,fars-province,Shahr-e Qadim-e Lar,shahr-e-qadim-e-lar
+Iran,IR,Fars Province,fars-province,Shahrestan-e Abadeh,shahrestan-e-abadeh
+Iran,IR,Fars Province,fars-province,Shahrestan-e Arsanjan,shahrestan-e-arsanjan
+Iran,IR,Fars Province,fars-province,Shahrestan-e Bavanat,shahrestan-e-bavanat
+Iran,IR,Fars Province,fars-province,Shahrestan-e Darab,shahrestan-e-darab
+Iran,IR,Fars Province,fars-province,Shahrestan-e Eqlid,shahrestan-e-eqlid
+Iran,IR,Fars Province,fars-province,Shahrestan-e Estahban,shahrestan-e-estahban
+Iran,IR,Fars Province,fars-province,Shahrestan-e Farashband,shahrestan-e-farashband
+Iran,IR,Fars Province,fars-province,Shahrestan-e Fasa,shahrestan-e-fasa
+Iran,IR,Fars Province,fars-province,Shahrestan-e Firuzabad,shahrestan-e-firuzabad
+Iran,IR,Fars Province,fars-province,Shahrestan-e Gerash,shahrestan-e-gerash
+Iran,IR,Fars Province,fars-province,Shahrestan-e Kavar,shahrestan-e-kavar
+Iran,IR,Fars Province,fars-province,Shahrestan-e Kazerun,shahrestan-e-kazerun
+Iran,IR,Fars Province,fars-province,Shahrestan-e Kherameh,shahrestan-e-kherameh
+Iran,IR,Fars Province,fars-province,Shahrestan-e Khorrambid,shahrestan-e-khorrambid
+Iran,IR,Fars Province,fars-province,Shahrestan-e Lamerd,shahrestan-e-lamerd
+Iran,IR,Fars Province,fars-province,Shahrestan-e Larestan,shahrestan-e-larestan
+Iran,IR,Fars Province,fars-province,Shahrestan-e Neyriz,shahrestan-e-neyriz
+Iran,IR,Fars Province,fars-province,Shahrestan-e Pasargad,shahrestan-e-pasargad
+Iran,IR,Fars Province,fars-province,Shahrestan-e Qir va Karzin,shahrestan-e-qir-va-karzin
+Iran,IR,Fars Province,fars-province,Shahrestan-e Sarvestan,shahrestan-e-sarvestan
+Iran,IR,Fars Province,fars-province,Shahrestan-e Sepidan,shahrestan-e-sepidan
+Iran,IR,Fars Province,fars-province,Shahrestan-e Shiraz,shahrestan-e-shiraz
+Iran,IR,Fars Province,fars-province,Shahrestan-e Zarrin Dasht,shahrestan-e-zarrin-dasht
+Iran,IR,Fars Province,fars-province,Shiraz,shiraz
+Iran,IR,Gilan Province,gilan-province,Astaneh-ye Ashrafiyeh,astaneh-ye-ashrafiyeh
+Iran,IR,Gilan Province,gilan-province,Astara,astara
+Iran,IR,Gilan Province,gilan-province,Bandar-e Anzali,bandar-e-anzali
+Iran,IR,Gilan Province,gilan-province,Fuman,fuman
+Iran,IR,Gilan Province,gilan-province,Hashtpar,hashtpar
+Iran,IR,Gilan Province,gilan-province,Langarud,langarud
+Iran,IR,Gilan Province,gilan-province,Padegan-e Manjil,padegan-e-manjil
+Iran,IR,Gilan Province,gilan-province,Rasht,rasht
+Iran,IR,Gilan Province,gilan-province,Rezvanshahr,rezvanshahr
+Iran,IR,Gilan Province,gilan-province,Rudsar,rudsar
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Astaneh-ye Ashrafiyeh,shahrestan-e-astaneh-ye-ashrafiyeh
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Astara,shahrestan-e-astara
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Bandar-e Anzali,shahrestan-e-bandar-e-anzali
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Fuman,shahrestan-e-fuman
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Lahijan,shahrestan-e-lahijan
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Langarud,shahrestan-e-langarud
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Masal,shahrestan-e-masal
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Rezvanshahr,shahrestan-e-rezvanshahr
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Rudbar,shahrestan-e-rudbar
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Rudsar,shahrestan-e-rudsar
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Siahkal,shahrestan-e-siahkal
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Sowmeeh Sara,shahrestan-e-sowmeeh-sara
+Iran,IR,Gilan Province,gilan-province,Shahrestan-e Talesh,shahrestan-e-talesh
+Iran,IR,Gilan Province,gilan-province,Ziabar (Gaskar),ziabar-gaskar
+Iran,IR,Golestan Province,golestan-province,Aq Qayeh,aq-qayeh
+Iran,IR,Golestan Province,golestan-province,Azadshahr,azadshahr
+Iran,IR,Golestan Province,golestan-province,Gonbad-e Kavus,gonbad-e-kavus
+Iran,IR,Golestan Province,golestan-province,Gorgan,gorgan
+Iran,IR,Golestan Province,golestan-province,Kalaleh,kalaleh
+Iran,IR,Golestan Province,golestan-province,Qarnabad,qarnabad
+Iran,IR,Golestan Province,golestan-province,Shahrestan-e Aliabad,shahrestan-e-aliabad
+Iran,IR,Golestan Province,golestan-province,Shahrestan-e Aq Qala,shahrestan-e-aq-qala
+Iran,IR,Golestan Province,golestan-province,Shahrestan-e Azadshahr,shahrestan-e-azadshahr
+Iran,IR,Golestan Province,golestan-province,Shahrestan-e Galikesh,shahrestan-e-galikesh
+Iran,IR,Golestan Province,golestan-province,Shahrestan-e Gomishan,shahrestan-e-gomishan
+Iran,IR,Golestan Province,golestan-province,Shahrestan-e Gonbad-e Kavus,shahrestan-e-gonbad-e-kavus
+Iran,IR,Golestan Province,golestan-province,Shahrestan-e Gorgan,shahrestan-e-gorgan
+Iran,IR,Golestan Province,golestan-province,Shahrestan-e Kalaleh,shahrestan-e-kalaleh
+Iran,IR,Golestan Province,golestan-province,Shahrestan-e Kordkuy,shahrestan-e-kordkuy
+Iran,IR,Golestan Province,golestan-province,Shahrestan-e Maraveh Tappeh,shahrestan-e-maraveh-tappeh
+Iran,IR,Golestan Province,golestan-province,Shahrestan-e Minudasht,shahrestan-e-minudasht
+Iran,IR,Golestan Province,golestan-province,Shahrestan-e Ramian,shahrestan-e-ramian
+Iran,IR,Golestan Province,golestan-province,Torkaman,torkaman
+Iran,IR,Hormozgan Province,hormozgan-province,Bandar Abbas,bandar-abbas
+Iran,IR,Hormozgan Province,hormozgan-province,Bandar Lengeh,bandar-lengeh
+Iran,IR,Hormozgan Province,hormozgan-province,Bandar-e Lengeh,bandar-e-lengeh
+Iran,IR,Hormozgan Province,hormozgan-province,Bastak,bastak
+Iran,IR,Hormozgan Province,hormozgan-province,Kish,kish
+Iran,IR,Hormozgan Province,hormozgan-province,Minab,minab
+Iran,IR,Hormozgan Province,hormozgan-province,Qeshm,qeshm
+Iran,IR,Hormozgan Province,hormozgan-province,Shahrestan-e Abu Musa,shahrestan-e-abu-musa
+Iran,IR,Hormozgan Province,hormozgan-province,Shahrestan-e Bandar Abbas,shahrestan-e-bandar-abbas
+Iran,IR,Hormozgan Province,hormozgan-province,Shahrestan-e Bashagard,shahrestan-e-bashagard
+Iran,IR,Hormozgan Province,hormozgan-province,Shahrestan-e Hajjiabad,shahrestan-e-hajjiabad
+Iran,IR,Hormozgan Province,hormozgan-province,Shahrestan-e Jask,shahrestan-e-jask
+Iran,IR,Hormozgan Province,hormozgan-province,Shahrestan-e Khamir,shahrestan-e-khamir
+Iran,IR,Hormozgan Province,hormozgan-province,Shahrestan-e Minab,shahrestan-e-minab
+Iran,IR,Hormozgan Province,hormozgan-province,Shahrestan-e Parsian,shahrestan-e-parsian
+Iran,IR,Hormozgan Province,hormozgan-province,Shahrestan-e Rudan,shahrestan-e-rudan
+Iran,IR,Hormozgan Province,hormozgan-province,Shahrestan-e Sirik,shahrestan-e-sirik
+Iran,IR,Ilam Province,ilam-province,Abdanan,abdanan
+Iran,IR,Ilam Province,ilam-province,Badreh,badreh
+Iran,IR,Ilam Province,ilam-province,Chardavol County,chardavol-county
+Iran,IR,Ilam Province,ilam-province,Darreh Shahr,darreh-shahr
+Iran,IR,Ilam Province,ilam-province,Darrehshahr,darrehshahr
+Iran,IR,Ilam Province,ilam-province,Dehloran,dehloran
+Iran,IR,Ilam Province,ilam-province,Ilam,ilam
+Iran,IR,Ilam Province,ilam-province,Mehran,mehran
+Iran,IR,Ilam Province,ilam-province,Shahrestan-e Abdanan,shahrestan-e-abdanan
+Iran,IR,Ilam Province,ilam-province,Shahrestan-e Dehloran,shahrestan-e-dehloran
+Iran,IR,Ilam Province,ilam-province,Shahrestan-e Eyvan,shahrestan-e-eyvan
+Iran,IR,Ilam Province,ilam-province,Shahrestan-e Ilam,shahrestan-e-ilam
+Iran,IR,Ilam Province,ilam-province,Shahrestan-e Malekshahi,shahrestan-e-malekshahi
+Iran,IR,Ilam Province,ilam-province,Shahrestan-e Mehran,shahrestan-e-mehran
+Iran,IR,Ilam Province,ilam-province,Sirvan,sirvan
+Iran,IR,Isfahan Province,isfahan-province,Abrisham,abrisham
+Iran,IR,Isfahan Province,isfahan-province,Ardestan,ardestan
+Iran,IR,Isfahan Province,isfahan-province,Buin va Miandasht,buin-va-miandasht
+Iran,IR,Isfahan Province,isfahan-province,Chadegan,chadegan
+Iran,IR,Isfahan Province,isfahan-province,Daran,daran
+Iran,IR,Isfahan Province,isfahan-province,Dehaqan,dehaqan
+Iran,IR,Isfahan Province,isfahan-province,Dorcheh Piaz,dorcheh-piaz
+Iran,IR,Isfahan Province,isfahan-province,Dowlatabad,dowlatabad
+Iran,IR,Isfahan Province,isfahan-province,Falavarjan,falavarjan
+Iran,IR,Isfahan Province,isfahan-province,Fareydunshahr,fareydunshahr
+Iran,IR,Isfahan Province,isfahan-province,Fereydan,fereydan
+Iran,IR,Isfahan Province,isfahan-province,Golpayegan,golpayegan
+Iran,IR,Isfahan Province,isfahan-province,Isfahan,isfahan
+Iran,IR,Isfahan Province,isfahan-province,Kelishad va Sudarjan,kelishad-va-sudarjan
+Iran,IR,Isfahan Province,isfahan-province,Khomeyni Shahr,khomeyni-shahr
+Iran,IR,Isfahan Province,isfahan-province,Khur,khur
+Iran,IR,Isfahan Province,isfahan-province,Khvansar,khvansar
+Iran,IR,Isfahan Province,isfahan-province,Mobarakeh,mobarakeh
+Iran,IR,Isfahan Province,isfahan-province,Nain,nain
+Iran,IR,Isfahan Province,isfahan-province,Najafabad,najafabad
+Iran,IR,Isfahan Province,isfahan-province,Natanz,natanz
+Iran,IR,Isfahan Province,isfahan-province,Qahderijan,qahderijan
+Iran,IR,Isfahan Province,isfahan-province,Rehnan,rehnan
+Iran,IR,Isfahan Province,isfahan-province,Semirom,semirom
+Iran,IR,Isfahan Province,isfahan-province,Shahin Shahr,shahin-shahr
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Aran va Bidgol,shahrestan-e-aran-va-bidgol
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Ardestan,shahrestan-e-ardestan
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Borkhvar,shahrestan-e-borkhvar
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Chadegan,shahrestan-e-chadegan
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Dehaqan,shahrestan-e-dehaqan
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Esfahan,shahrestan-e-esfahan
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Falavarjan,shahrestan-e-falavarjan
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Fareydunshahr,shahrestan-e-fareydunshahr
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Golpayegan,shahrestan-e-golpayegan
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Kashan,shahrestan-e-kashan
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Khomeyni Shahr,shahrestan-e-khomeyni-shahr
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Khur va Biabanak,shahrestan-e-khur-va-biabanak
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Khvansar,shahrestan-e-khvansar
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Lenjan,shahrestan-e-lenjan
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Mobarakeh,shahrestan-e-mobarakeh
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Nain,shahrestan-e-nain
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Najafabad,shahrestan-e-najafabad
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Natanz,shahrestan-e-natanz
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Semirom,shahrestan-e-semirom
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Shahin Shahr va Meymeh,shahrestan-e-shahin-shahr-va-meymeh
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Shahreza,shahrestan-e-shahreza
+Iran,IR,Isfahan Province,isfahan-province,Shahrestan-e Tiran va Karvan,shahrestan-e-tiran-va-karvan
+Iran,IR,Isfahan Province,isfahan-province,Shahreza,shahreza
+Iran,IR,Isfahan Province,isfahan-province,Tiran,tiran
+Iran,IR,Isfahan Province,isfahan-province,Zarrin Shahr,zarrin-shahr
+Iran,IR,Kerman Province,kerman-province,Baft,baft
+Iran,IR,Kerman Province,kerman-province,Bam,bam
+Iran,IR,Kerman Province,kerman-province,Bardsir,bardsir
+Iran,IR,Kerman Province,kerman-province,Kerman,kerman
+Iran,IR,Kerman Province,kerman-province,Kuh Sefid,kuh-sefid
+Iran,IR,Kerman Province,kerman-province,Rafsanjan,rafsanjan
+Iran,IR,Kerman Province,kerman-province,Ravar,ravar
+Iran,IR,Kerman Province,kerman-province,Rigan,rigan
+Iran,IR,Kerman Province,kerman-province,Shahr-e Babak,shahr-e-babak
+Iran,IR,Kerman Province,kerman-province,Shahrak-e Pabedana,shahrak-e-pabedana
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Anbarabad,shahrestan-e-anbarabad
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Anar,shahrestan-e-anar
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Baft,shahrestan-e-baft
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Bardsir,shahrestan-e-bardsir
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Faryab,shahrestan-e-faryab
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Jiroft,shahrestan-e-jiroft
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Kahnuj,shahrestan-e-kahnuj
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Kerman,shahrestan-e-kerman
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Kuhbanan,shahrestan-e-kuhbanan
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Manujan,shahrestan-e-manujan
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Narmashir,shahrestan-e-narmashir
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Orzuiyeh,shahrestan-e-orzuiyeh
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Qaleh Ganj,shahrestan-e-qaleh-ganj
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Rabor,shahrestan-e-rabor
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Rafsanjan,shahrestan-e-rafsanjan
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Rudbar-e Jonubi,shahrestan-e-rudbar-e-jonubi
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Shahr-e Babak,shahrestan-e-shahr-e-babak
+Iran,IR,Kerman Province,kerman-province,Shahrestan-e Sirjan,shahrestan-e-sirjan
+Iran,IR,Kerman Province,kerman-province,Sirjan,sirjan
+Iran,IR,Kerman Province,kerman-province,Zarand,zarand
+Iran,IR,Kermanshah Province,kermanshah-province,Harsin,harsin
+Iran,IR,Kermanshah Province,kermanshah-province,Javanrud,javanrud
+Iran,IR,Kermanshah Province,kermanshah-province,Kahriz,kahriz
+Iran,IR,Kermanshah Province,kermanshah-province,Kangavar,kangavar
+Iran,IR,Kermanshah Province,kermanshah-province,Kermanshah,kermanshah
+Iran,IR,Kermanshah Province,kermanshah-province,Paveh,paveh
+Iran,IR,Kermanshah Province,kermanshah-province,Sarpol-e Zahab,sarpol-e-zahab
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Dalahu,shahrestan-e-dalahu
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Eslamabad-e Gharb,shahrestan-e-eslamabad-e-gharb
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Gilan-e Gharb,shahrestan-e-gilan-e-gharb
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Harsin,shahrestan-e-harsin
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Javanrud,shahrestan-e-javanrud
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Kangavar,shahrestan-e-kangavar
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Kermanshah,shahrestan-e-kermanshah
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Paveh,shahrestan-e-paveh
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Qasr-e Shirin,shahrestan-e-qasr-e-shirin
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Ravansar,shahrestan-e-ravansar
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Sahneh,shahrestan-e-sahneh
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Salas-e Baba Jani,shahrestan-e-salas-e-baba-jani
+Iran,IR,Kermanshah Province,kermanshah-province,Shahrestan-e Sarpol-e Zahab,shahrestan-e-sarpol-e-zahab
+Iran,IR,Kermanshah Province,kermanshah-province,Sonqor,sonqor
+Iran,IR,Khuzestan Province,khuzestan-province,Abadan,abadan
+Iran,IR,Khuzestan Province,khuzestan-province,Aghajari,aghajari
+Iran,IR,Khuzestan Province,khuzestan-province,Ahvaz,ahvaz
+Iran,IR,Khuzestan Province,khuzestan-province,Bagh Shahrestan-e Malek,bagh-shahrestan-e-malek
+Iran,IR,Khuzestan Province,khuzestan-province,Behbahan,behbahan
+Iran,IR,Khuzestan Province,khuzestan-province,Gotvand,gotvand
+Iran,IR,Khuzestan Province,khuzestan-province,Hamidiyeh,hamidiyeh
+Iran,IR,Khuzestan Province,khuzestan-province,Jongiyeh,jongiyeh
+Iran,IR,Khuzestan Province,khuzestan-province,Karun,karun
+Iran,IR,Khuzestan Province,khuzestan-province,Khorramshahr,khorramshahr
+Iran,IR,Khuzestan Province,khuzestan-province,Masjed Soleyman,masjed-soleyman
+Iran,IR,Khuzestan Province,khuzestan-province,Omidiyeh,omidiyeh
+Iran,IR,Khuzestan Province,khuzestan-province,Ramhormoz,ramhormoz
+Iran,IR,Khuzestan Province,khuzestan-province,Ramshir,ramshir
+Iran,IR,Khuzestan Province,khuzestan-province,sedeyen-e Yek,sedeyen-e-yek
+Iran,IR,Khuzestan Province,khuzestan-province,Shadegan,shadegan
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrak-e Kuluri,shahrak-e-kuluri
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Abadan,shahrestan-e-abadan
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Ahvaz,shahrestan-e-ahvaz
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Andika,shahrestan-e-andika
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Andimeshk,shahrestan-e-andimeshk
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Bandar-e Mahshahr,shahrestan-e-bandar-e-mahshahr
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Bavi,shahrestan-e-bavi
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Behbahan,shahrestan-e-behbahan
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Dasht-e Azadegan,shahrestan-e-dasht-e-azadegan
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Dezful,shahrestan-e-dezful
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Hendijan,shahrestan-e-hendijan
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Izeh,shahrestan-e-izeh
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Lali,shahrestan-e-lali
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Masjed Soleyman,shahrestan-e-masjed-soleyman
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Omidiyeh,shahrestan-e-omidiyeh
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Ramhormoz,shahrestan-e-ramhormoz
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Ramshir,shahrestan-e-ramshir
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Shadegan,shahrestan-e-shadegan
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Shush,shahrestan-e-shush
+Iran,IR,Khuzestan Province,khuzestan-province,Shahrestan-e Shushtar,shahrestan-e-shushtar
+Iran,IR,Khuzestan Province,khuzestan-province,Shush,shush
+Iran,IR,Khuzestan Province,khuzestan-province,Shushtar,shushtar
+Iran,IR,Khuzestan Province,khuzestan-province,Susangerd,susangerd
+Iran,IR,Kohgiluyeh and Boyer-Ahmad Province,kohgiluyeh-and-boyer-ahmad-province,Dehdasht,dehdasht
+Iran,IR,Kohgiluyeh and Boyer-Ahmad Province,kohgiluyeh-and-boyer-ahmad-province,Dogonbadan,dogonbadan
+Iran,IR,Kohgiluyeh and Boyer-Ahmad Province,kohgiluyeh-and-boyer-ahmad-province,Landeh,landeh
+Iran,IR,Kohgiluyeh and Boyer-Ahmad Province,kohgiluyeh-and-boyer-ahmad-province,Shahrestan-e Bahmai,shahrestan-e-bahmai
+Iran,IR,Kohgiluyeh and Boyer-Ahmad Province,kohgiluyeh-and-boyer-ahmad-province,Shahrestan-e Basht,shahrestan-e-basht
+Iran,IR,Kohgiluyeh and Boyer-Ahmad Province,kohgiluyeh-and-boyer-ahmad-province,Shahrestan-e Bowyer Ahmad,shahrestan-e-bowyer-ahmad
+Iran,IR,Kohgiluyeh and Boyer-Ahmad Province,kohgiluyeh-and-boyer-ahmad-province,Shahrestan-e Charam,shahrestan-e-charam
+Iran,IR,Kohgiluyeh and Boyer-Ahmad Province,kohgiluyeh-and-boyer-ahmad-province,Shahrestan-e Dana,shahrestan-e-dana
+Iran,IR,Kohgiluyeh and Boyer-Ahmad Province,kohgiluyeh-and-boyer-ahmad-province,Shahrestan-e Gachsaran,shahrestan-e-gachsaran
+Iran,IR,Kohgiluyeh and Boyer-Ahmad Province,kohgiluyeh-and-boyer-ahmad-province,Shahrestan-e Kohgiluyeh,shahrestan-e-kohgiluyeh
+Iran,IR,Kohgiluyeh and Boyer-Ahmad Province,kohgiluyeh-and-boyer-ahmad-province,Yasuj,yasuj
+Iran,IR,Kurdistan Province,kurdistan-province,Baneh,baneh
+Iran,IR,Kurdistan Province,kurdistan-province,Bijar,bijar
+Iran,IR,Kurdistan Province,kurdistan-province,Kamyaran,kamyaran
+Iran,IR,Kurdistan Province,kurdistan-province,Marivan,marivan
+Iran,IR,Kurdistan Province,kurdistan-province,Qorveh,qorveh
+Iran,IR,Kurdistan Province,kurdistan-province,Sanandaj,sanandaj
+Iran,IR,Kurdistan Province,kurdistan-province,Saqqez,saqqez
+Iran,IR,Kurdistan Province,kurdistan-province,Shahrestan-e Baneh,shahrestan-e-baneh
+Iran,IR,Kurdistan Province,kurdistan-province,Shahrestan-e Bijar,shahrestan-e-bijar
+Iran,IR,Kurdistan Province,kurdistan-province,Shahrestan-e Dehgolan,shahrestan-e-dehgolan
+Iran,IR,Kurdistan Province,kurdistan-province,Shahrestan-e Divandarreh,shahrestan-e-divandarreh
+Iran,IR,Kurdistan Province,kurdistan-province,Shahrestan-e Kamyaran,shahrestan-e-kamyaran
+Iran,IR,Kurdistan Province,kurdistan-province,Shahrestan-e Marivan,shahrestan-e-marivan
+Iran,IR,Kurdistan Province,kurdistan-province,Shahrestan-e Sarvabad,shahrestan-e-sarvabad
+Iran,IR,Lorestan Province,lorestan-province,Aleshtar,aleshtar
+Iran,IR,Lorestan Province,lorestan-province,Aligudarz,aligudarz
+Iran,IR,Lorestan Province,lorestan-province,Azna,azna
+Iran,IR,Lorestan Province,lorestan-province,Borujerd,borujerd
+Iran,IR,Lorestan Province,lorestan-province,Delfan,delfan
+Iran,IR,Lorestan Province,lorestan-province,Khorramabad,khorramabad
+Iran,IR,Lorestan Province,lorestan-province,Kuhdasht,kuhdasht
+Iran,IR,Lorestan Province,lorestan-province,Nurabad,nurabad
+Iran,IR,Lorestan Province,lorestan-province,Pol-e Dokhtar,pol-e-dokhtar
+Iran,IR,Lorestan Province,lorestan-province,Rumeshkhan County,rumeshkhan-county
+Iran,IR,Lorestan Province,lorestan-province,Selseleh,selseleh
+Iran,IR,Lorestan Province,lorestan-province,Shahrestan-e Aligudarz,shahrestan-e-aligudarz
+Iran,IR,Lorestan Province,lorestan-province,Shahrestan-e Azna,shahrestan-e-azna
+Iran,IR,Lorestan Province,lorestan-province,Shahrestan-e Borujerd,shahrestan-e-borujerd
+Iran,IR,Lorestan Province,lorestan-province,Shahrestan-e Dureh,shahrestan-e-dureh
+Iran,IR,Lorestan Province,lorestan-province,Shahrestan-e Khorramabad,shahrestan-e-khorramabad
+Iran,IR,Lorestan Province,lorestan-province,Shahrestan-e Kuhdasht,shahrestan-e-kuhdasht
+Iran,IR,Lorestan Province,lorestan-province,Vasian,vasian
+Iran,IR,Markazi Province,markazi-province,Abyek,abyek
+Iran,IR,Markazi Province,markazi-province,Arak,arak
+Iran,IR,Markazi Province,markazi-province,Delijan,delijan
+Iran,IR,Markazi Province,markazi-province,Khomeyn,khomeyn
+Iran,IR,Markazi Province,markazi-province,Komijan,komijan
+Iran,IR,Markazi Province,markazi-province,Saveh,saveh
+Iran,IR,Markazi Province,markazi-province,Shahrestan-e Arak,shahrestan-e-arak
+Iran,IR,Markazi Province,markazi-province,Shahrestan-e Ashtian,shahrestan-e-ashtian
+Iran,IR,Markazi Province,markazi-province,Shahrestan-e Delijan,shahrestan-e-delijan
+Iran,IR,Markazi Province,markazi-province,Shahrestan-e Farahan,shahrestan-e-farahan
+Iran,IR,Markazi Province,markazi-province,Shahrestan-e Khondab,shahrestan-e-khondab
+Iran,IR,Markazi Province,markazi-province,Shahrestan-e Komijan,shahrestan-e-komijan
+Iran,IR,Markazi Province,markazi-province,Shahrestan-e Mahallat,shahrestan-e-mahallat
+Iran,IR,Markazi Province,markazi-province,Shahrestan-e Saveh,shahrestan-e-saveh
+Iran,IR,Markazi Province,markazi-province,Shahrestan-e Shazand,shahrestan-e-shazand
+Iran,IR,Markazi Province,markazi-province,Shahrestan-e Zarandiyeh,shahrestan-e-zarandiyeh
+Iran,IR,Markazi Province,markazi-province,Tafresh,tafresh
+Iran,IR,Mazandaran Province,mazandaran-province,Amol,amol
+Iran,IR,Mazandaran Province,mazandaran-province,Babol,babol
+Iran,IR,Mazandaran Province,mazandaran-province,Babolsar,babolsar
+Iran,IR,Mazandaran Province,mazandaran-province,Behshahr,behshahr
+Iran,IR,Mazandaran Province,mazandaran-province,Chalus,chalus
+Iran,IR,Mazandaran Province,mazandaran-province,Fereydunkenar,fereydunkenar
+Iran,IR,Mazandaran Province,mazandaran-province,Juybar,juybar
+Iran,IR,Mazandaran Province,mazandaran-province,Nashtarud,nashtarud
+Iran,IR,Mazandaran Province,mazandaran-province,Neka,neka
+Iran,IR,Mazandaran Province,mazandaran-province,Nowshahr,nowshahr
+Iran,IR,Mazandaran Province,mazandaran-province,Sari,sari
+Iran,IR,Mazandaran Province,mazandaran-province,Savadkuh-e Shomali,savadkuh-e-shomali
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Abbasabad,shahrestan-e-abbasabad
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Amol,shahrestan-e-amol
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Babol,shahrestan-e-babol
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Babolsar,shahrestan-e-babolsar
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Chalus,shahrestan-e-chalus
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Fareydunkenar,shahrestan-e-fareydunkenar
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Galugah,shahrestan-e-galugah
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Juybar,shahrestan-e-juybar
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Kalar Dasht,shahrestan-e-kalar-dasht
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Mahmudabad,shahrestan-e-mahmudabad
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Miandorud,shahrestan-e-miandorud
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Neka,shahrestan-e-neka
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Nur,shahrestan-e-nur
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Qaem Shahr,shahrestan-e-qaem-shahr
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Ramsar,shahrestan-e-ramsar
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Sari,shahrestan-e-sari
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Savadkuh,shahrestan-e-savadkuh
+Iran,IR,Mazandaran Province,mazandaran-province,Shahrestan-e Tonekabon,shahrestan-e-tonekabon
+Iran,IR,Mazandaran Province,mazandaran-province,Simorgh County,simorgh-county
+Iran,IR,Mazandaran Province,mazandaran-province,Tonekabon,tonekabon
+Iran,IR,North Khorasan Province,north-khorasan-province,Bojnurd,bojnurd
+Iran,IR,North Khorasan Province,north-khorasan-province,Esfarayen,esfarayen
+Iran,IR,North Khorasan Province,north-khorasan-province,Raz and Jargalan,raz-and-jargalan
+Iran,IR,North Khorasan Province,north-khorasan-province,Shahrestan-e Bojnurd,shahrestan-e-bojnurd
+Iran,IR,North Khorasan Province,north-khorasan-province,Shahrestan-e Esfarayen,shahrestan-e-esfarayen
+Iran,IR,North Khorasan Province,north-khorasan-province,Shahrestan-e Faruj,shahrestan-e-faruj
+Iran,IR,North Khorasan Province,north-khorasan-province,Shahrestan-e Jajarm,shahrestan-e-jajarm
+Iran,IR,North Khorasan Province,north-khorasan-province,Shahrestan-e Maneh va Samalqan,shahrestan-e-maneh-va-samalqan
+Iran,IR,North Khorasan Province,north-khorasan-province,Shahrestan-e Shirvan,shahrestan-e-shirvan
+Iran,IR,North Khorasan Province,north-khorasan-province,Shirvan,shirvan
+Iran,IR,Qazvin Province,qazvin-province,Alborz,alborz
+Iran,IR,Qazvin Province,qazvin-province,Alvand,alvand
+Iran,IR,Qazvin Province,qazvin-province,Avaj,avaj
+Iran,IR,Qazvin Province,qazvin-province,Qazvin,qazvin
+Iran,IR,Qazvin Province,qazvin-province,Shahrestan-e Buin Zahra,shahrestan-e-buin-zahra
+Iran,IR,Qazvin Province,qazvin-province,Shahrestan-e Qazvin,shahrestan-e-qazvin
+Iran,IR,Qazvin Province,qazvin-province,Shahrestan-e Takestan,shahrestan-e-takestan
+Iran,IR,Qazvin Province,qazvin-province,Takestan,takestan
+Iran,IR,Qom Province,qom-province,Qom,qom
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Bardaskan,bardaskan
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Chenaran,chenaran
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Dargaz,dargaz
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Davarzan,davarzan
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Gonabad,gonabad
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Joveyn,joveyn
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Kashmar,kashmar
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Mashhad,mashhad
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Neyshabur,neyshabur
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Quchan,quchan
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Sabzevar,sabzevar
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Sarakhs,sarakhs
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Bajestan,shahrestan-e-bajestan
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Bakharz,shahrestan-e-bakharz
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Binalud,shahrestan-e-binalud
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Chenaran,shahrestan-e-chenaran
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Fariman,shahrestan-e-fariman
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Firuzeh,shahrestan-e-firuzeh
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Gonabad,shahrestan-e-gonabad
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Joghatay,shahrestan-e-joghatay
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Kalat,shahrestan-e-kalat
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Kashmar,shahrestan-e-kashmar
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Khalilabad,shahrestan-e-khalilabad
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Khowshab,shahrestan-e-khowshab
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Khvaf,shahrestan-e-khvaf
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Mah Velat,shahrestan-e-mah-velat
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Neyshabur,shahrestan-e-neyshabur
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Quchan,shahrestan-e-quchan
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Roshtkhvar,shahrestan-e-roshtkhvar
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Sabzevar,shahrestan-e-sabzevar
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Taybad,shahrestan-e-taybad
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Torbat-e Heydariyeh,shahrestan-e-torbat-e-heydariyeh
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Torbat-e Jam,shahrestan-e-torbat-e-jam
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Shahrestan-e Zaveh,shahrestan-e-zaveh
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Taybad,taybad
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Torbat-e Heydariyeh,torbat-e-heydariyeh
+Iran,IR,Razavi Khorasan Province,razavi-khorasan-province,Torbat-e Jam,torbat-e-jam
+Iran,IR,Semnan Province,semnan-province,Damghan,damghan
+Iran,IR,Semnan Province,semnan-province,Istgah-e Rah Ahan-e Garmsar,istgah-e-rah-ahan-e-garmsar
+Iran,IR,Semnan Province,semnan-province,Mahdishahr,mahdishahr
+Iran,IR,Semnan Province,semnan-province,Semnan,semnan
+Iran,IR,Semnan Province,semnan-province,Shahrestan-e Aradan,shahrestan-e-aradan
+Iran,IR,Semnan Province,semnan-province,Shahrestan-e Damghan,shahrestan-e-damghan
+Iran,IR,Semnan Province,semnan-province,Shahrestan-e Garmsar,shahrestan-e-garmsar
+Iran,IR,Semnan Province,semnan-province,Shahrestan-e Mayamey,shahrestan-e-mayamey
+Iran,IR,Semnan Province,semnan-province,Shahrestan-e Semnan,shahrestan-e-semnan
+Iran,IR,Semnan Province,semnan-province,Shahrestan-e Shahrud,shahrestan-e-shahrud
+Iran,IR,Semnan Province,semnan-province,Shahrud,shahrud
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Chabahar,chabahar
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Fannuj,fannuj
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Fanuj,fanuj
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Hamoon,hamoon
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Iranshahr,iranshahr
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Khash,khash
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Mirjaveh,mirjaveh
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Nikshahr,nikshahr
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Nimruz,nimruz
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Nosratabad,nosratabad
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Qaser-e Qand,qaser-e-qand
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Qasr-e Qand,qasr-e-qand
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Chabahar,shahrestan-e-chabahar
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Dalgan,shahrestan-e-dalgan
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Hirmand,shahrestan-e-hirmand
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Iranshahr,shahrestan-e-iranshahr
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Khash,shahrestan-e-khash
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Konarak,shahrestan-e-konarak
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Mehrestan,shahrestan-e-mehrestan
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Nikshahr,shahrestan-e-nikshahr
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Saravan,shahrestan-e-saravan
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Sarbaz,shahrestan-e-sarbaz
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Sib va Suran,shahrestan-e-sib-va-suran
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Zabol,shahrestan-e-zabol
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Shahrestan-e Zahedan,shahrestan-e-zahedan
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Zabol,zabol
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Zahedan,zahedan
+Iran,IR,Sistan and Baluchestan,sistan-and-baluchestan,Zehak,zehak
+Iran,IR,South Khorasan Province,south-khorasan-province,Birjand,birjand
+Iran,IR,South Khorasan Province,south-khorasan-province,Boshruyeh,boshruyeh
+Iran,IR,South Khorasan Province,south-khorasan-province,Qaen,qaen
+Iran,IR,South Khorasan Province,south-khorasan-province,Shahrestan-e Birjand,shahrestan-e-birjand
+Iran,IR,South Khorasan Province,south-khorasan-province,Shahrestan-e Darmian,shahrestan-e-darmian
+Iran,IR,South Khorasan Province,south-khorasan-province,Shahrestan-e Khusf,shahrestan-e-khusf
+Iran,IR,South Khorasan Province,south-khorasan-province,Shahrestan-e Nehbandan,shahrestan-e-nehbandan
+Iran,IR,South Khorasan Province,south-khorasan-province,Shahrestan-e Qaen,shahrestan-e-qaen
+Iran,IR,South Khorasan Province,south-khorasan-province,Shahrestan-e Sarayan,shahrestan-e-sarayan
+Iran,IR,South Khorasan Province,south-khorasan-province,Shahrestan-e Sarbisheh,shahrestan-e-sarbisheh
+Iran,IR,South Khorasan Province,south-khorasan-province,Shahrestan-e Zirkuh,shahrestan-e-zirkuh
+Iran,IR,South Khorasan Province,south-khorasan-province,Tabas,tabas
+Iran,IR,Tehran Province,tehran-province,Damavand,damavand
+Iran,IR,Tehran Province,tehran-province,Eqbaliyeh,eqbaliyeh
+Iran,IR,Tehran Province,tehran-province,Eslamshahr,eslamshahr
+Iran,IR,Tehran Province,tehran-province,Malard,malard
+Iran,IR,Tehran Province,tehran-province,Pardis,pardis
+Iran,IR,Tehran Province,tehran-province,Pishva,pishva
+Iran,IR,Tehran Province,tehran-province,Qarchak,qarchak
+Iran,IR,Tehran Province,tehran-province,Qods,qods
+Iran,IR,Tehran Province,tehran-province,Rey,rey
+Iran,IR,Tehran Province,tehran-province,Robat Karim,robat-karim
+Iran,IR,Tehran Province,tehran-province,Shahrak-e Emam Hasan,shahrak-e-emam-hasan
+Iran,IR,Tehran Province,tehran-province,Shahre Jadide Andisheh,shahre-jadide-andisheh
+Iran,IR,Tehran Province,tehran-province,Shahrestan-e Baharestan,shahrestan-e-baharestan
+Iran,IR,Tehran Province,tehran-province,Shahrestan-e Damavand,shahrestan-e-damavand
+Iran,IR,Tehran Province,tehran-province,Shahrestan-e Eslamshahr,shahrestan-e-eslamshahr
+Iran,IR,Tehran Province,tehran-province,Shahrestan-e Firuzkuh,shahrestan-e-firuzkuh
+Iran,IR,Tehran Province,tehran-province,Shahrestan-e Malard,shahrestan-e-malard
+Iran,IR,Tehran Province,tehran-province,Shahrestan-e Pakdasht,shahrestan-e-pakdasht
+Iran,IR,Tehran Province,tehran-province,Shahrestan-e Pishva,shahrestan-e-pishva
+Iran,IR,Tehran Province,tehran-province,Shahrestan-e Robat Karim,shahrestan-e-robat-karim
+Iran,IR,Tehran Province,tehran-province,Shahrestan-e Shahriar,shahrestan-e-shahriar
+Iran,IR,Tehran Province,tehran-province,Shahrestan-e Shemiranat,shahrestan-e-shemiranat
+Iran,IR,Tehran Province,tehran-province,Shahrestan-e Tehran,shahrestan-e-tehran
+Iran,IR,Tehran Province,tehran-province,Shahrestan-e Varamin,shahrestan-e-varamin
+Iran,IR,Tehran Province,tehran-province,Shahriar,shahriar
+Iran,IR,Tehran Province,tehran-province,Sharifabad,sharifabad
+Iran,IR,Tehran Province,tehran-province,Soleh Bon,soleh-bon
+Iran,IR,Tehran Province,tehran-province,Taleb abad,taleb-abad
+Iran,IR,Tehran Province,tehran-province,Tehran,tehran
+Iran,IR,Tehran Province,tehran-province,Varamin,varamin
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Bukan,bukan
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Chaypareh,chaypareh
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Khowy,khowy
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Mahabad,mahabad
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Miandoab,miandoab
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Naqadeh,naqadeh
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Orumiyeh,orumiyeh
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Oshnaviyeh,oshnaviyeh
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Piranshahr,piranshahr
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Poldasht,poldasht
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Qarah Zia od Din,qarah-zia-od-din
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Salmas,salmas
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Sardasht,sardasht
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Shahin Dezh,shahin-dezh
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Shahrestan-e Bukan,shahrestan-e-bukan
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Shahrestan-e Chaldoran,shahrestan-e-chaldoran
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Shahrestan-e Mahabad,shahrestan-e-mahabad
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Shahrestan-e Maku,shahrestan-e-maku
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Shahrestan-e Miandoab,shahrestan-e-miandoab
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Shahrestan-e Orumiyeh,shahrestan-e-orumiyeh
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Shahrestan-e Oshnaviyeh,shahrestan-e-oshnaviyeh
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Shahrestan-e Piranshahr,shahrestan-e-piranshahr
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Shahrestan-e Salmas,shahrestan-e-salmas
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Shahrestan-e Shahin Dezh,shahrestan-e-shahin-dezh
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Shahrestan-e Takab,shahrestan-e-takab
+Iran,IR,West Azarbaijan Province,west-azarbaijan-province,Takab,takab
+Iran,IR,Yazd Province,yazd-province,Ardakan,ardakan
+Iran,IR,Yazd Province,yazd-province,Bafq,bafq
+Iran,IR,Yazd Province,yazd-province,Khavas Kuh,khavas-kuh
+Iran,IR,Yazd Province,yazd-province,Mahriz,mahriz
+Iran,IR,Yazd Province,yazd-province,Meybod,meybod
+Iran,IR,Yazd Province,yazd-province,Shahrestan-e Abarkuh,shahrestan-e-abarkuh
+Iran,IR,Yazd Province,yazd-province,Shahrestan-e Ardakan,shahrestan-e-ardakan
+Iran,IR,Yazd Province,yazd-province,Shahrestan-e Ashkezar,shahrestan-e-ashkezar
+Iran,IR,Yazd Province,yazd-province,Shahrestan-e Bafq,shahrestan-e-bafq
+Iran,IR,Yazd Province,yazd-province,Shahrestan-e Behabad,shahrestan-e-behabad
+Iran,IR,Yazd Province,yazd-province,Shahrestan-e Khatam,shahrestan-e-khatam
+Iran,IR,Yazd Province,yazd-province,Shahrestan-e Mehriz,shahrestan-e-mehriz
+Iran,IR,Yazd Province,yazd-province,Shahrestan-e Yazd,shahrestan-e-yazd
+Iran,IR,Yazd Province,yazd-province,Tabas,tabas
+Iran,IR,Yazd Province,yazd-province,Taft,taft
+Iran,IR,Yazd Province,yazd-province,Yazd,yazd
+Iran,IR,Zanjan Province,zanjan-province,Abhar,abhar
+Iran,IR,Zanjan Province,zanjan-province,Alvand,alvand
+Iran,IR,Zanjan Province,zanjan-province,Khorramdarreh,khorramdarreh
+Iran,IR,Zanjan Province,zanjan-province,Shahrestan-e Ijrud,shahrestan-e-ijrud
+Iran,IR,Zanjan Province,zanjan-province,Shahrestan-e Khodabandeh,shahrestan-e-khodabandeh
+Iran,IR,Zanjan Province,zanjan-province,Shahrestan-e Mahneshan,shahrestan-e-mahneshan
+Iran,IR,Zanjan Province,zanjan-province,Shahrestan-e Tarom,shahrestan-e-tarom
+Iran,IR,Zanjan Province,zanjan-province,Shahrestan-e Zanjan,shahrestan-e-zanjan
+Iran,IR,Zanjan Province,zanjan-province,Soltaniyeh,soltaniyeh
+Iran,IR,Zanjan Province,zanjan-province,Zanjan,zanjan

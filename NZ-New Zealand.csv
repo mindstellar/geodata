@@ -1,0 +1,159 @@
+s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+New Zealand,NZ,Auckland Region,auckland-region,Auckland,auckland
+New Zealand,NZ,Auckland Region,auckland-region,Mangere,mangere
+New Zealand,NZ,Auckland Region,auckland-region,Manukau City,manukau-city
+New Zealand,NZ,Auckland Region,auckland-region,Muriwai Beach,muriwai-beach
+New Zealand,NZ,Auckland Region,auckland-region,Murrays Bay,murrays-bay
+New Zealand,NZ,Auckland Region,auckland-region,North Shore,north-shore
+New Zealand,NZ,Auckland Region,auckland-region,Pakuranga,pakuranga
+New Zealand,NZ,Auckland Region,auckland-region,Papakura,papakura
+New Zealand,NZ,Auckland Region,auckland-region,Parakai,parakai
+New Zealand,NZ,Auckland Region,auckland-region,Pukekohe East,pukekohe-east
+New Zealand,NZ,Auckland Region,auckland-region,Red Hill,red-hill
+New Zealand,NZ,Auckland Region,auckland-region,Rosebank,rosebank
+New Zealand,NZ,Auckland Region,auckland-region,Rothesay Bay,rothesay-bay
+New Zealand,NZ,Auckland Region,auckland-region,Takanini,takanini
+New Zealand,NZ,Auckland Region,auckland-region,Tamaki,tamaki
+New Zealand,NZ,Auckland Region,auckland-region,Titirangi,titirangi
+New Zealand,NZ,Auckland Region,auckland-region,Waitakere,waitakere
+New Zealand,NZ,Auckland Region,auckland-region,Waiuku,waiuku
+New Zealand,NZ,Auckland Region,auckland-region,Warkworth,warkworth
+New Zealand,NZ,Auckland Region,auckland-region,Wellsford,wellsford
+New Zealand,NZ,Auckland Region,auckland-region,Wiri,wiri
+New Zealand,NZ,Bay of Plenty Region,bay-of-plenty-region,Edgecumbe,edgecumbe
+New Zealand,NZ,Bay of Plenty Region,bay-of-plenty-region,Katikati,katikati
+New Zealand,NZ,Bay of Plenty Region,bay-of-plenty-region,Kawerau,kawerau
+New Zealand,NZ,Bay of Plenty Region,bay-of-plenty-region,Maketu,maketu
+New Zealand,NZ,Bay of Plenty Region,bay-of-plenty-region,Murupara,murupara
+New Zealand,NZ,Bay of Plenty Region,bay-of-plenty-region,Opotiki,opotiki
+New Zealand,NZ,Bay of Plenty Region,bay-of-plenty-region,Rotorua,rotorua
+New Zealand,NZ,Bay of Plenty Region,bay-of-plenty-region,Tauranga,tauranga
+New Zealand,NZ,Bay of Plenty Region,bay-of-plenty-region,Waihi Beach,waihi-beach
+New Zealand,NZ,Bay of Plenty Region,bay-of-plenty-region,Whakatane,whakatane
+New Zealand,NZ,Canterbury Region,canterbury-region,Amberley,amberley
+New Zealand,NZ,Canterbury Region,canterbury-region,Ashburton,ashburton
+New Zealand,NZ,Canterbury Region,canterbury-region,Ashburton District,ashburton-district
+New Zealand,NZ,Canterbury Region,canterbury-region,Burnham,burnham
+New Zealand,NZ,Canterbury Region,canterbury-region,Christchurch,christchurch
+New Zealand,NZ,Canterbury Region,canterbury-region,Christchurch City,christchurch-city
+New Zealand,NZ,Canterbury Region,canterbury-region,Darfield,darfield
+New Zealand,NZ,Canterbury Region,canterbury-region,Geraldine,geraldine
+New Zealand,NZ,Canterbury Region,canterbury-region,Kaiapoi,kaiapoi
+New Zealand,NZ,Canterbury Region,canterbury-region,Leeston,leeston
+New Zealand,NZ,Canterbury Region,canterbury-region,Lincoln,lincoln
+New Zealand,NZ,Canterbury Region,canterbury-region,Mackenzie District,mackenzie-district
+New Zealand,NZ,Canterbury Region,canterbury-region,Methven,methven
+New Zealand,NZ,Canterbury Region,canterbury-region,Oxford,oxford
+New Zealand,NZ,Canterbury Region,canterbury-region,Pleasant Point,pleasant-point
+New Zealand,NZ,Canterbury Region,canterbury-region,Prebbleton,prebbleton
+New Zealand,NZ,Canterbury Region,canterbury-region,Rakaia,rakaia
+New Zealand,NZ,Canterbury Region,canterbury-region,Rolleston,rolleston
+New Zealand,NZ,Canterbury Region,canterbury-region,Selwyn District,selwyn-district
+New Zealand,NZ,Canterbury Region,canterbury-region,Timaru,timaru
+New Zealand,NZ,Canterbury Region,canterbury-region,Timaru District,timaru-district
+New Zealand,NZ,Canterbury Region,canterbury-region,Tinwald,tinwald
+New Zealand,NZ,Canterbury Region,canterbury-region,Waimakariri District,waimakariri-district
+New Zealand,NZ,Canterbury Region,canterbury-region,Woodend,woodend
+New Zealand,NZ,Chatham Islands,chatham-islands,Waitangi,waitangi
+New Zealand,NZ,Gisborne District,gisborne-district,Gisborne,gisborne
+New Zealand,NZ,Hawke's Bay Region,hawkes-bay-region,Hastings,hastings
+New Zealand,NZ,Hawke's Bay Region,hawkes-bay-region,Napier,napier
+New Zealand,NZ,Hawke's Bay Region,hawkes-bay-region,Taradale,taradale
+New Zealand,NZ,Hawke's Bay Region,hawkes-bay-region,Wairoa,wairoa
+New Zealand,NZ,Manawatu-Wanganui Region,manawatu-wanganui-region,Bulls,bulls
+New Zealand,NZ,Manawatu-Wanganui Region,manawatu-wanganui-region,Foxton,foxton
+New Zealand,NZ,Manawatu-Wanganui Region,manawatu-wanganui-region,Horowhenua District,horowhenua-district
+New Zealand,NZ,Manawatu-Wanganui Region,manawatu-wanganui-region,Levin,levin
+New Zealand,NZ,Manawatu-Wanganui Region,manawatu-wanganui-region,Manawatu District,manawatu-district
+New Zealand,NZ,Manawatu-Wanganui Region,manawatu-wanganui-region,Palmerston North,palmerston-north
+New Zealand,NZ,Manawatu-Wanganui Region,manawatu-wanganui-region,Waiouru,waiouru
+New Zealand,NZ,Manawatu-Wanganui Region,manawatu-wanganui-region,Wanganui,wanganui
+New Zealand,NZ,Marlborough Region,marlborough-region,Blenheim,blenheim
+New Zealand,NZ,Marlborough Region,marlborough-region,Picton,picton
+New Zealand,NZ,Nelson Region,nelson-region,Nelson,nelson
+New Zealand,NZ,Northland Region,northland-region,Ahipara,ahipara
+New Zealand,NZ,Northland Region,northland-region,Dargaville,dargaville
+New Zealand,NZ,Northland Region,northland-region,Far North District,far-north-district
+New Zealand,NZ,Northland Region,northland-region,Kaipara District,kaipara-district
+New Zealand,NZ,Northland Region,northland-region,Kaitaia,kaitaia
+New Zealand,NZ,Northland Region,northland-region,Kawakawa,kawakawa
+New Zealand,NZ,Northland Region,northland-region,Kerikeri,kerikeri
+New Zealand,NZ,Northland Region,northland-region,Maungatapere,maungatapere
+New Zealand,NZ,Northland Region,northland-region,Moerewa,moerewa
+New Zealand,NZ,Northland Region,northland-region,Ngunguru,ngunguru
+New Zealand,NZ,Northland Region,northland-region,Paihia,paihia
+New Zealand,NZ,Northland Region,northland-region,Ruakaka,ruakaka
+New Zealand,NZ,Northland Region,northland-region,Taipa,taipa
+New Zealand,NZ,Northland Region,northland-region,Waimate North,waimate-north
+New Zealand,NZ,Northland Region,northland-region,Whangarei,whangarei
+New Zealand,NZ,Otago Region,otago-region,Arrowtown,arrowtown
+New Zealand,NZ,Otago Region,otago-region,Balclutha,balclutha
+New Zealand,NZ,Otago Region,otago-region,Clutha District,clutha-district
+New Zealand,NZ,Otago Region,otago-region,Cromwell,cromwell
+New Zealand,NZ,Otago Region,otago-region,Dunedin,dunedin
+New Zealand,NZ,Otago Region,otago-region,Kingston,kingston
+New Zealand,NZ,Otago Region,otago-region,Milton,milton
+New Zealand,NZ,Otago Region,otago-region,Oamaru,oamaru
+New Zealand,NZ,Otago Region,otago-region,Papatowai,papatowai
+New Zealand,NZ,Otago Region,otago-region,Portobello,portobello
+New Zealand,NZ,Otago Region,otago-region,Queenstown,queenstown
+New Zealand,NZ,Otago Region,otago-region,Wanaka,wanaka
+New Zealand,NZ,Southland Region,southland-region,Bluff,bluff
+New Zealand,NZ,Southland Region,southland-region,Gore,gore
+New Zealand,NZ,Southland Region,southland-region,Invercargill,invercargill
+New Zealand,NZ,Southland Region,southland-region,Riverton,riverton
+New Zealand,NZ,Southland Region,southland-region,Southland District,southland-district
+New Zealand,NZ,Southland Region,southland-region,Te Anau,te-anau
+New Zealand,NZ,Southland Region,southland-region,Winton,winton
+New Zealand,NZ,Taranaki Region,taranaki-region,Eltham,eltham
+New Zealand,NZ,Taranaki Region,taranaki-region,Hawera,hawera
+New Zealand,NZ,Taranaki Region,taranaki-region,New Plymouth,new-plymouth
+New Zealand,NZ,Taranaki Region,taranaki-region,New Plymouth District,new-plymouth-district
+New Zealand,NZ,Taranaki Region,taranaki-region,Opunake,opunake
+New Zealand,NZ,Taranaki Region,taranaki-region,Patea,patea
+New Zealand,NZ,Taranaki Region,taranaki-region,South Taranaki District,south-taranaki-district
+New Zealand,NZ,Taranaki Region,taranaki-region,Waitara,waitara
+New Zealand,NZ,Tasman District,tasman-district,Brightwater,brightwater
+New Zealand,NZ,Tasman District,tasman-district,Mapua,mapua
+New Zealand,NZ,Tasman District,tasman-district,Motueka,motueka
+New Zealand,NZ,Tasman District,tasman-district,Richmond,richmond
+New Zealand,NZ,Tasman District,tasman-district,Takaka,takaka
+New Zealand,NZ,Tasman District,tasman-district,Wakefield,wakefield
+New Zealand,NZ,Waikato Region,waikato-region,Cambridge,cambridge
+New Zealand,NZ,Waikato Region,waikato-region,Coromandel,coromandel
+New Zealand,NZ,Waikato Region,waikato-region,Hamilton,hamilton
+New Zealand,NZ,Waikato Region,waikato-region,Matamata,matamata
+New Zealand,NZ,Waikato Region,waikato-region,Ngaruawahia,ngaruawahia
+New Zealand,NZ,Waikato Region,waikato-region,Ngatea,ngatea
+New Zealand,NZ,Waikato Region,waikato-region,Otorohanga,otorohanga
+New Zealand,NZ,Waikato Region,waikato-region,Paeroa,paeroa
+New Zealand,NZ,Waikato Region,waikato-region,Raglan,raglan
+New Zealand,NZ,Waikato Region,waikato-region,South Waikato District,south-waikato-district
+New Zealand,NZ,Waikato Region,waikato-region,Tairua,tairua
+New Zealand,NZ,Waikato Region,waikato-region,Taupo,taupo
+New Zealand,NZ,Waikato Region,waikato-region,Te Kauwhata,te-kauwhata
+New Zealand,NZ,Waikato Region,waikato-region,Thames,thames
+New Zealand,NZ,Waikato Region,waikato-region,Tokoroa,tokoroa
+New Zealand,NZ,Waikato Region,waikato-region,Turangi,turangi
+New Zealand,NZ,Waikato Region,waikato-region,Waihi,waihi
+New Zealand,NZ,Waikato Region,waikato-region,Whangamata,whangamata
+New Zealand,NZ,Waikato Region,waikato-region,Whitianga,whitianga
+New Zealand,NZ,Wellington Region,wellington-region,Brooklyn,brooklyn
+New Zealand,NZ,Wellington Region,wellington-region,Castlepoint,castlepoint
+New Zealand,NZ,Wellington Region,wellington-region,Kapiti Coast District,kapiti-coast-district
+New Zealand,NZ,Wellington Region,wellington-region,Kelburn,kelburn
+New Zealand,NZ,Wellington Region,wellington-region,Khandallah,khandallah
+New Zealand,NZ,Wellington Region,wellington-region,Lower Hutt,lower-hutt
+New Zealand,NZ,Wellington Region,wellington-region,Masterton,masterton
+New Zealand,NZ,Wellington Region,wellington-region,Otaki,otaki
+New Zealand,NZ,Wellington Region,wellington-region,Paraparaumu,paraparaumu
+New Zealand,NZ,Wellington Region,wellington-region,Petone,petone
+New Zealand,NZ,Wellington Region,wellington-region,Porirua,porirua
+New Zealand,NZ,Wellington Region,wellington-region,South Wairarapa District,south-wairarapa-district
+New Zealand,NZ,Wellington Region,wellington-region,Upper Hutt,upper-hutt
+New Zealand,NZ,Wellington Region,wellington-region,Waipawa,waipawa
+New Zealand,NZ,Wellington Region,wellington-region,Wellington,wellington
+New Zealand,NZ,Wellington Region,wellington-region,Wellington City,wellington-city
+New Zealand,NZ,West Coast Region,west-coast-region,Greymouth,greymouth
+New Zealand,NZ,West Coast Region,west-coast-region,Hokitika,hokitika
+New Zealand,NZ,West Coast Region,west-coast-region,Westport,westport

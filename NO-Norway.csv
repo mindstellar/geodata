@@ -1,0 +1,673 @@
+s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Norway,NO,Akershus,akershus,Aneby,aneby
+Norway,NO,Akershus,akershus,Arnes,arnes
+Norway,NO,Akershus,akershus,As,as
+Norway,NO,Akershus,akershus,Ask,ask
+Norway,NO,Akershus,akershus,Asker,asker
+Norway,NO,Akershus,akershus,Auli,auli
+Norway,NO,Akershus,akershus,Aurskog-Hland,aurskog-hland
+Norway,NO,Akershus,akershus,Aursmoen,aursmoen
+Norway,NO,Akershus,akershus,Brum,brum
+Norway,NO,Akershus,akershus,Billingstad,billingstad
+Norway,NO,Akershus,akershus,Bjrkelangen,bjrkelangen
+Norway,NO,Akershus,akershus,Blakstad,blakstad
+Norway,NO,Akershus,akershus,Drbak,drbak
+Norway,NO,Akershus,akershus,Eidsvoll,eidsvoll
+Norway,NO,Akershus,akershus,Enebakk,enebakk
+Norway,NO,Akershus,akershus,Fagerstrand,fagerstrand
+Norway,NO,Akershus,akershus,Fet,fet
+Norway,NO,Akershus,akershus,Fetsund,fetsund
+Norway,NO,Akershus,akershus,Fjellfoten,fjellfoten
+Norway,NO,Akershus,akershus,Flateby,flateby
+Norway,NO,Akershus,akershus,Frogn,frogn
+Norway,NO,Akershus,akershus,Frogner,frogner
+Norway,NO,Akershus,akershus,Gjerdrum,gjerdrum
+Norway,NO,Akershus,akershus,Hurdal,hurdal
+Norway,NO,Akershus,akershus,Jessheim,jessheim
+Norway,NO,Akershus,akershus,Klfta,klfta
+Norway,NO,Akershus,akershus,Leirsund,leirsund
+Norway,NO,Akershus,akershus,Lillestrm,lillestrm
+Norway,NO,Akershus,akershus,Lrenskog,lrenskog
+Norway,NO,Akershus,akershus,Lysaker,lysaker
+Norway,NO,Akershus,akershus,Maura,maura
+Norway,NO,Akershus,akershus,Nannestad,nannestad
+Norway,NO,Akershus,akershus,Nes,nes
+Norway,NO,Akershus,akershus,Neskollen,neskollen
+Norway,NO,Akershus,akershus,Nesodden,nesodden
+Norway,NO,Akershus,akershus,Nesoddtangen,nesoddtangen
+Norway,NO,Akershus,akershus,Nittedal,nittedal
+Norway,NO,Akershus,akershus,Oppegard,oppegard
+Norway,NO,Akershus,akershus,Raholt,raholt
+Norway,NO,Akershus,akershus,Rlingen,rlingen
+Norway,NO,Akershus,akershus,Rotnes,rotnes
+Norway,NO,Akershus,akershus,Skedsmo,skedsmo
+Norway,NO,Akershus,akershus,Ski,ski
+Norway,NO,Akershus,akershus,Skui,skui
+Norway,NO,Akershus,akershus,Srum,srum
+Norway,NO,Akershus,akershus,Srumsand,srumsand
+Norway,NO,Akershus,akershus,Ullensaker,ullensaker
+Norway,NO,Akershus,akershus,Vestby,vestby
+Norway,NO,Buskerud,buskerud,Al,al
+Norway,NO,Buskerud,buskerud,Aros,aros
+Norway,NO,Buskerud,buskerud,Drammen,drammen
+Norway,NO,Buskerud,buskerud,Fla,fla
+Norway,NO,Buskerud,buskerud,Flesberg,flesberg
+Norway,NO,Buskerud,buskerud,Geilo,geilo
+Norway,NO,Buskerud,buskerud,Gol,gol
+Norway,NO,Buskerud,buskerud,Hemsedal,hemsedal
+Norway,NO,Buskerud,buskerud,Hol,hol
+Norway,NO,Buskerud,buskerud,Hole,hole
+Norway,NO,Buskerud,buskerud,Hnefoss,hnefoss
+Norway,NO,Buskerud,buskerud,Hurum,hurum
+Norway,NO,Buskerud,buskerud,Hvittingfoss,hvittingfoss
+Norway,NO,Buskerud,buskerud,Kongsberg,kongsberg
+Norway,NO,Buskerud,buskerud,Krdsherad,krdsherad
+Norway,NO,Buskerud,buskerud,Lier,lier
+Norway,NO,Buskerud,buskerud,Modum,modum
+Norway,NO,Buskerud,buskerud,Nedre Eiker,nedre-eiker
+Norway,NO,Buskerud,buskerud,Nes,nes
+Norway,NO,Buskerud,buskerud,Nesbyen,nesbyen
+Norway,NO,Buskerud,buskerud,Nore og Uvdal,nore-og-uvdal
+Norway,NO,Buskerud,buskerud,Noresund,noresund
+Norway,NO,Buskerud,buskerud,vre Eiker,vre-eiker
+Norway,NO,Buskerud,buskerud,Prestfoss,prestfoss
+Norway,NO,Buskerud,buskerud,Ringerike,ringerike
+Norway,NO,Buskerud,buskerud,Rollag,rollag
+Norway,NO,Buskerud,buskerud,Ryken,ryken
+Norway,NO,Buskerud,buskerud,Stre,stre
+Norway,NO,Buskerud,buskerud,Sigdal,sigdal
+Norway,NO,Buskerud,buskerud,Skoger,skoger
+Norway,NO,Buskerud,buskerud,Tofte,tofte
+Norway,NO,Buskerud,buskerud,Tranby,tranby
+Norway,NO,Buskerud,buskerud,Vikersund,vikersund
+Norway,NO,Finnmark,finnmark,Alta,alta
+Norway,NO,Finnmark,finnmark,Avanuorri,avanuorri
+Norway,NO,Finnmark,finnmark,Batsfjord,batsfjord
+Norway,NO,Finnmark,finnmark,Berlevag,berlevag
+Norway,NO,Finnmark,finnmark,Bjrnevatn,bjrnevatn
+Norway,NO,Finnmark,finnmark,Gamvik,gamvik
+Norway,NO,Finnmark,finnmark,Hammerfest,hammerfest
+Norway,NO,Finnmark,finnmark,Hasvik,hasvik
+Norway,NO,Finnmark,finnmark,Honningsvag,honningsvag
+Norway,NO,Finnmark,finnmark,Karasjohka,karasjohka
+Norway,NO,Finnmark,finnmark,Karasjok,karasjok
+Norway,NO,Finnmark,finnmark,Kautokeino,kautokeino
+Norway,NO,Finnmark,finnmark,Kirkenes,kirkenes
+Norway,NO,Finnmark,finnmark,Kjllefjord,kjllefjord
+Norway,NO,Finnmark,finnmark,Kvalsund,kvalsund
+Norway,NO,Finnmark,finnmark,Lakselv,lakselv
+Norway,NO,Finnmark,finnmark,Lebesby,lebesby
+Norway,NO,Finnmark,finnmark,Loppa,loppa
+Norway,NO,Finnmark,finnmark,Masy,masy
+Norway,NO,Finnmark,finnmark,Mehamn,mehamn
+Norway,NO,Finnmark,finnmark,Nesseby,nesseby
+Norway,NO,Finnmark,finnmark,Nordkapp,nordkapp
+Norway,NO,Finnmark,finnmark,ksfjord,ksfjord
+Norway,NO,Finnmark,finnmark,Porsanger,porsanger
+Norway,NO,Finnmark,finnmark,Rypefjord,rypefjord
+Norway,NO,Finnmark,finnmark,Sr-Varanger,sr-varanger
+Norway,NO,Finnmark,finnmark,Tana,tana
+Norway,NO,Finnmark,finnmark,Vads,vads
+Norway,NO,Finnmark,finnmark,Vard,vard
+Norway,NO,Hedmark,hedmark,Alvdal,alvdal
+Norway,NO,Hedmark,hedmark,Amot,amot
+Norway,NO,Hedmark,hedmark,Asnes,asnes
+Norway,NO,Hedmark,hedmark,Brumunddal,brumunddal
+Norway,NO,Hedmark,hedmark,Eidskog,eidskog
+Norway,NO,Hedmark,hedmark,Elverum,elverum
+Norway,NO,Hedmark,hedmark,Engerdal,engerdal
+Norway,NO,Hedmark,hedmark,Folldal,folldal
+Norway,NO,Hedmark,hedmark,Grue,grue
+Norway,NO,Hedmark,hedmark,Hamar,hamar
+Norway,NO,Hedmark,hedmark,Innbygda,innbygda
+Norway,NO,Hedmark,hedmark,Kirkenr,kirkenr
+Norway,NO,Hedmark,hedmark,Kongsvinger,kongsvinger
+Norway,NO,Hedmark,hedmark,Koppang,koppang
+Norway,NO,Hedmark,hedmark,Lten,lten
+Norway,NO,Hedmark,hedmark,Moelv,moelv
+Norway,NO,Hedmark,hedmark,Nord-Odal,nord-odal
+Norway,NO,Hedmark,hedmark,Os,os
+Norway,NO,Hedmark,hedmark,Rena,rena
+Norway,NO,Hedmark,hedmark,Rendalen,rendalen
+Norway,NO,Hedmark,hedmark,Ringsaker,ringsaker
+Norway,NO,Hedmark,hedmark,Sand,sand
+Norway,NO,Hedmark,hedmark,Skarnes,skarnes
+Norway,NO,Hedmark,hedmark,Skotterud,skotterud
+Norway,NO,Hedmark,hedmark,Sr-Odal,sr-odal
+Norway,NO,Hedmark,hedmark,Spetalen,spetalen
+Norway,NO,Hedmark,hedmark,Stange,stange
+Norway,NO,Hedmark,hedmark,Stor-Elvdal,stor-elvdal
+Norway,NO,Hedmark,hedmark,Tolga,tolga
+Norway,NO,Hedmark,hedmark,Trysil,trysil
+Norway,NO,Hedmark,hedmark,Tynset,tynset
+Norway,NO,Hedmark,hedmark,Valer,valer
+Norway,NO,Hordaland,hordaland,Agotnes,agotnes
+Norway,NO,Hordaland,hordaland,Asky,asky
+Norway,NO,Hordaland,hordaland,Austevoll,austevoll
+Norway,NO,Hordaland,hordaland,Austrheim,austrheim
+Norway,NO,Hordaland,hordaland,Bergen,bergen
+Norway,NO,Hordaland,hordaland,Bmlo,bmlo
+Norway,NO,Hordaland,hordaland,Dale,dale
+Norway,NO,Hordaland,hordaland,Eidfjord,eidfjord
+Norway,NO,Hordaland,hordaland,Eikelandsosen,eikelandsosen
+Norway,NO,Hordaland,hordaland,Espeland,espeland
+Norway,NO,Hordaland,hordaland,Etne,etne
+Norway,NO,Hordaland,hordaland,Fedje,fedje
+Norway,NO,Hordaland,hordaland,Fitjar,fitjar
+Norway,NO,Hordaland,hordaland,Fjell,fjell
+Norway,NO,Hordaland,hordaland,Frekhaug,frekhaug
+Norway,NO,Hordaland,hordaland,Fusa,fusa
+Norway,NO,Hordaland,hordaland,Granvin,granvin
+Norway,NO,Hordaland,hordaland,Hagavik,hagavik
+Norway,NO,Hordaland,hordaland,Hylkje,hylkje
+Norway,NO,Hordaland,hordaland,Indre Arna,indre-arna
+Norway,NO,Hordaland,hordaland,Jondal,jondal
+Norway,NO,Hordaland,hordaland,Kinsarvik,kinsarvik
+Norway,NO,Hordaland,hordaland,Knappskog,knappskog
+Norway,NO,Hordaland,hordaland,Knarvik,knarvik
+Norway,NO,Hordaland,hordaland,Kvam,kvam
+Norway,NO,Hordaland,hordaland,Kvinnherad,kvinnherad
+Norway,NO,Hordaland,hordaland,Leirvik,leirvik
+Norway,NO,Hordaland,hordaland,Lindas,lindas
+Norway,NO,Hordaland,hordaland,Lonevag,lonevag
+Norway,NO,Hordaland,hordaland,Manger,manger
+Norway,NO,Hordaland,hordaland,Masfjorden,masfjorden
+Norway,NO,Hordaland,hordaland,Meland,meland
+Norway,NO,Hordaland,hordaland,Modalen,modalen
+Norway,NO,Hordaland,hordaland,Mosterhamn,mosterhamn
+Norway,NO,Hordaland,hordaland,Norheimsund,norheimsund
+Norway,NO,Hordaland,hordaland,Odda,odda
+Norway,NO,Hordaland,hordaland,Os,os
+Norway,NO,Hordaland,hordaland,Ostery,ostery
+Norway,NO,Hordaland,hordaland,ygarden,ygarden
+Norway,NO,Hordaland,hordaland,ystese,ystese
+Norway,NO,Hordaland,hordaland,Rady,rady
+Norway,NO,Hordaland,hordaland,Rosendal,rosendal
+Norway,NO,Hordaland,hordaland,Rubbestadneset,rubbestadneset
+Norway,NO,Hordaland,hordaland,Sagvag,sagvag
+Norway,NO,Hordaland,hordaland,Samnanger,samnanger
+Norway,NO,Hordaland,hordaland,Sandsli,sandsli
+Norway,NO,Hordaland,hordaland,Skogsvagen,skogsvagen
+Norway,NO,Hordaland,hordaland,Stord,stord
+Norway,NO,Hordaland,hordaland,Storeb,storeb
+Norway,NO,Hordaland,hordaland,Straume,straume
+Norway,NO,Hordaland,hordaland,Sund,sund
+Norway,NO,Hordaland,hordaland,Sveio,sveio
+Norway,NO,Hordaland,hordaland,Syfteland,syfteland
+Norway,NO,Hordaland,hordaland,Tysnes,tysnes
+Norway,NO,Hordaland,hordaland,Ullensvang,ullensvang
+Norway,NO,Hordaland,hordaland,Ulvik,ulvik
+Norway,NO,Hordaland,hordaland,Vaksdal,vaksdal
+Norway,NO,Hordaland,hordaland,Voss,voss
+Norway,NO,Hordaland,hordaland,Ytre Arna,ytre-arna
+Norway,NO,Hordaland,hordaland,Ytrebygda,ytrebygda
+Norway,NO,Jan Mayen,jan-mayen,Jan Mayen,jan-mayen
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Alesund,alesund
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Andalsnes,andalsnes
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Aukra,aukra
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Aure,aure
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Avery,avery
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Batnfjordsra,batnfjordsra
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Brattvag,brattvag
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Eide,eide
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Eidsvag,eidsvag
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Elnesvagen,elnesvagen
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Frna,frna
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Giske,giske
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Gjemnes,gjemnes
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Halsa,halsa
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Haram,haram
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Hareid,hareid
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Hery,hery
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Hjelset,hjelset
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Hopen,hopen
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Kristiansund,kristiansund
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Larsnes,larsnes
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Midsund,midsund
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Molde,molde
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Nesset,nesset
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Norddal,norddal
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Nordstranda,nordstranda
+Norway,NO,Mre og Romsdal,mre-og-romsdal,rskog,rskog
+Norway,NO,Mre og Romsdal,mre-og-romsdal,rsta,rsta
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Rauma,rauma
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Rensvik,rensvik
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Sande,sande
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Sandy,sandy
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Sjholt,sjholt
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Skodje,skodje
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Smla,smla
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Steinshamn,steinshamn
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Stordal,stordal
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Stranda,stranda
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Sula,sula
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Sunndal,sunndal
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Sunndalsra,sunndalsra
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Surnadal,surnadal
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Sykkylven,sykkylven
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Tingvoll,tingvoll
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Tomra,tomra
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Ulstein,ulstein
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Ulsteinvik,ulsteinvik
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Ulsteinvik weather pws station,ulsteinvik-weather-pws-station
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Vanylven,vanylven
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Vatne,vatne
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Vestnes,vestnes
+Norway,NO,Mre og Romsdal,mre-og-romsdal,Volda,volda
+Norway,NO,Nord-Trndelag,nord-trndelag,Nord-Trndelag,nord-trndelag
+Norway,NO,Nordland,nordland,Alstahaug,alstahaug
+Norway,NO,Nordland,nordland,Andenes,andenes
+Norway,NO,Nordland,nordland,Andy,andy
+Norway,NO,Nordland,nordland,Ballangen,ballangen
+Norway,NO,Nordland,nordland,Beiarn,beiarn
+Norway,NO,Nordland,nordland,Bindal,bindal
+Norway,NO,Nordland,nordland,Bjerkvik,bjerkvik
+Norway,NO,Nordland,nordland,Bod,bod
+Norway,NO,Nordland,nordland,Bogen,bogen
+Norway,NO,Nordland,nordland,B,b
+Norway,NO,Nordland,nordland,Brnny,brnny
+Norway,NO,Nordland,nordland,Brnnysund,brnnysund
+Norway,NO,Nordland,nordland,Dnna,dnna
+Norway,NO,Nordland,nordland,Evenes,evenes
+Norway,NO,Nordland,nordland,Evjen,evjen
+Norway,NO,Nordland,nordland,Fauske,fauske
+Norway,NO,Nordland,nordland,Flakstad,flakstad
+Norway,NO,Nordland,nordland,Gildeskal,gildeskal
+Norway,NO,Nordland,nordland,Gladstad,gladstad
+Norway,NO,Nordland,nordland,Glomfjord,glomfjord
+Norway,NO,Nordland,nordland,Grane,grane
+Norway,NO,Nordland,nordland,Gravdal,gravdal
+Norway,NO,Nordland,nordland,Hadsel,hadsel
+Norway,NO,Nordland,nordland,Hamary,hamary
+Norway,NO,Nordland,nordland,Hattfjelldal,hattfjelldal
+Norway,NO,Nordland,nordland,Hauknes,hauknes
+Norway,NO,Nordland,nordland,Hemnes,hemnes
+Norway,NO,Nordland,nordland,Hemnesberget,hemnesberget
+Norway,NO,Nordland,nordland,Hery,hery
+Norway,NO,Nordland,nordland,Inndyr,inndyr
+Norway,NO,Nordland,nordland,Kabelvag,kabelvag
+Norway,NO,Nordland,nordland,Kjpsvik,kjpsvik
+Norway,NO,Nordland,nordland,Korgen,korgen
+Norway,NO,Nordland,nordland,Leirfjord,leirfjord
+Norway,NO,Nordland,nordland,Leknes,leknes
+Norway,NO,Nordland,nordland,Leland,leland
+Norway,NO,Nordland,nordland,Lding,lding
+Norway,NO,Nordland,nordland,Ldingen,ldingen
+Norway,NO,Nordland,nordland,Lpsmarka,lpsmarka
+Norway,NO,Nordland,nordland,Lury,lury
+Norway,NO,Nordland,nordland,Melbu,melbu
+Norway,NO,Nordland,nordland,Mely,mely
+Norway,NO,Nordland,nordland,Mo i Rana,mo-i-rana
+Norway,NO,Nordland,nordland,Mosjen,mosjen
+Norway,NO,Nordland,nordland,Moskenes,moskenes
+Norway,NO,Nordland,nordland,Myre,myre
+Norway,NO,Nordland,nordland,Narvik,narvik
+Norway,NO,Nordland,nordland,Nesna,nesna
+Norway,NO,Nordland,nordland,ksnes,ksnes
+Norway,NO,Nordland,nordland,rnes,rnes
+Norway,NO,Nordland,nordland,Rana,rana
+Norway,NO,Nordland,nordland,Reine,reine
+Norway,NO,Nordland,nordland,Rognan,rognan
+Norway,NO,Nordland,nordland,Rdy,rdy
+Norway,NO,Nordland,nordland,Rst,rst
+Norway,NO,Nordland,nordland,Saltdal,saltdal
+Norway,NO,Nordland,nordland,Sandnessjen,sandnessjen
+Norway,NO,Nordland,nordland,Sortland,sortland
+Norway,NO,Nordland,nordland,Smna,smna
+Norway,NO,Nordland,nordland,Srfold,srfold
+Norway,NO,Nordland,nordland,Srland,srland
+Norway,NO,Nordland,nordland,Steigen,steigen
+Norway,NO,Nordland,nordland,Stokmarknes,stokmarknes
+Norway,NO,Nordland,nordland,Straume,straume
+Norway,NO,Nordland,nordland,Straumen,straumen
+Norway,NO,Nordland,nordland,Svolvr,svolvr
+Norway,NO,Nordland,nordland,Terrak,terrak
+Norway,NO,Nordland,nordland,Tjeldsund,tjeldsund
+Norway,NO,Nordland,nordland,Trna,trna
+Norway,NO,Nordland,nordland,Trofors,trofors
+Norway,NO,Nordland,nordland,Tysfjord,tysfjord
+Norway,NO,Nordland,nordland,Vagan,vagan
+Norway,NO,Nordland,nordland,Vry,vry
+Norway,NO,Nordland,nordland,Vefsn,vefsn
+Norway,NO,Nordland,nordland,Vega,vega
+Norway,NO,Nordland,nordland,Vestvagy,vestvagy
+Norway,NO,Nordland,nordland,Vevelstad,vevelstad
+Norway,NO,Nordland,nordland,Vik,vik
+Norway,NO,Oppland,oppland,Bagn,bagn
+Norway,NO,Oppland,oppland,Dokka,dokka
+Norway,NO,Oppland,oppland,Dombas,dombas
+Norway,NO,Oppland,oppland,Dovre,dovre
+Norway,NO,Oppland,oppland,Etnedal,etnedal
+Norway,NO,Oppland,oppland,Fagernes,fagernes
+Norway,NO,Oppland,oppland,Fossbergom,fossbergom
+Norway,NO,Oppland,oppland,Gausdal,gausdal
+Norway,NO,Oppland,oppland,Gjvik,gjvik
+Norway,NO,Oppland,oppland,Gran,gran
+Norway,NO,Oppland,oppland,Grua,grua
+Norway,NO,Oppland,oppland,Hov,hov
+Norway,NO,Oppland,oppland,Hundorp,hundorp
+Norway,NO,Oppland,oppland,Jevnaker,jevnaker
+Norway,NO,Oppland,oppland,Lena,lena
+Norway,NO,Oppland,oppland,Lesja,lesja
+Norway,NO,Oppland,oppland,Lillehammer,lillehammer
+Norway,NO,Oppland,oppland,Lom,lom
+Norway,NO,Oppland,oppland,Lunner,lunner
+Norway,NO,Oppland,oppland,Nord-Aurdal,nord-aurdal
+Norway,NO,Oppland,oppland,Nord-Fron,nord-fron
+Norway,NO,Oppland,oppland,Nordre Land,nordre-land
+Norway,NO,Oppland,oppland,Otta,otta
+Norway,NO,Oppland,oppland,stre Toten,stre-toten
+Norway,NO,Oppland,oppland,yer,yer
+Norway,NO,Oppland,oppland,ystre Slidre,ystre-slidre
+Norway,NO,Oppland,oppland,Raufoss,raufoss
+Norway,NO,Oppland,oppland,Reinsvoll,reinsvoll
+Norway,NO,Oppland,oppland,Ringebu,ringebu
+Norway,NO,Oppland,oppland,Sel,sel
+Norway,NO,Oppland,oppland,Skjak,skjak
+Norway,NO,Oppland,oppland,Skreia,skreia
+Norway,NO,Oppland,oppland,Sndre Land,sndre-land
+Norway,NO,Oppland,oppland,Sr-Aurdal,sr-aurdal
+Norway,NO,Oppland,oppland,Sr-Fron,sr-fron
+Norway,NO,Oppland,oppland,Tretten,tretten
+Norway,NO,Oppland,oppland,Vaga,vaga
+Norway,NO,Oppland,oppland,Vagamo,vagamo
+Norway,NO,Oppland,oppland,Vang,vang
+Norway,NO,Oppland,oppland,Vestre Slidre,vestre-slidre
+Norway,NO,Oppland,oppland,Vestre Toten,vestre-toten
+Norway,NO,Oppland,oppland,Vinstra,vinstra
+Norway,NO,Oslo,oslo,Oslo,oslo
+Norway,NO,Oslo,oslo,Sjlyststranda,sjlyststranda
+Norway,NO,stfold,stfold,Aremark,aremark
+Norway,NO,stfold,stfold,Askim,askim
+Norway,NO,stfold,stfold,Eidsberg,eidsberg
+Norway,NO,stfold,stfold,Fossby,fossby
+Norway,NO,stfold,stfold,Fredrikstad,fredrikstad
+Norway,NO,stfold,stfold,Halden,halden
+Norway,NO,stfold,stfold,Hobl,hobl
+Norway,NO,stfold,stfold,Hvaler,hvaler
+Norway,NO,stfold,stfold,Karlshus,karlshus
+Norway,NO,stfold,stfold,Knappstad,knappstad
+Norway,NO,stfold,stfold,Larkollen,larkollen
+Norway,NO,stfold,stfold,Lervik,lervik
+Norway,NO,stfold,stfold,Marker,marker
+Norway,NO,stfold,stfold,Moss,moss
+Norway,NO,stfold,stfold,Mysen,mysen
+Norway,NO,stfold,stfold,rje,rje
+Norway,NO,stfold,stfold,Rade,rade
+Norway,NO,stfold,stfold,Rakkestad,rakkestad
+Norway,NO,stfold,stfold,Rmskog,rmskog
+Norway,NO,stfold,stfold,Rygge,rygge
+Norway,NO,stfold,stfold,Ryggebyen,ryggebyen
+Norway,NO,stfold,stfold,Sarpsborg,sarpsborg
+Norway,NO,stfold,stfold,Skiptvet,skiptvet
+Norway,NO,stfold,stfold,Skjrhalden,skjrhalden
+Norway,NO,stfold,stfold,Skjeberg,skjeberg
+Norway,NO,stfold,stfold,Spydeberg,spydeberg
+Norway,NO,stfold,stfold,Tomter,tomter
+Norway,NO,stfold,stfold,Trgstad,trgstad
+Norway,NO,stfold,stfold,Valer,valer
+Norway,NO,Rogaland,rogaland,Akrehamn,akrehamn
+Norway,NO,Rogaland,rogaland,Bjerkreim,bjerkreim
+Norway,NO,Rogaland,rogaland,Bokn,bokn
+Norway,NO,Rogaland,rogaland,Bryne,bryne
+Norway,NO,Rogaland,rogaland,Egersund,egersund
+Norway,NO,Rogaland,rogaland,Eigersund,eigersund
+Norway,NO,Rogaland,rogaland,Eike,eike
+Norway,NO,Rogaland,rogaland,Finny,finny
+Norway,NO,Rogaland,rogaland,Forsand,forsand
+Norway,NO,Rogaland,rogaland,Gjesdal,gjesdal
+Norway,NO,Rogaland,rogaland,Ha,ha
+Norway,NO,Rogaland,rogaland,Hauge i Dalane,hauge-i-dalane
+Norway,NO,Rogaland,rogaland,Haugesund,haugesund
+Norway,NO,Rogaland,rogaland,Hjelmeland,hjelmeland
+Norway,NO,Rogaland,rogaland,Hommersak,hommersak
+Norway,NO,Rogaland,rogaland,Jrpeland,jrpeland
+Norway,NO,Rogaland,rogaland,Judaberg,judaberg
+Norway,NO,Rogaland,rogaland,Karmy,karmy
+Norway,NO,Rogaland,rogaland,Klepp,klepp
+Norway,NO,Rogaland,rogaland,Kopervik,kopervik
+Norway,NO,Rogaland,rogaland,Kvitsy,kvitsy
+Norway,NO,Rogaland,rogaland,Lund,lund
+Norway,NO,Rogaland,rogaland,Lyefjell,lyefjell
+Norway,NO,Rogaland,rogaland,Moi,moi
+Norway,NO,Rogaland,rogaland,Nrb,nrb
+Norway,NO,Rogaland,rogaland,len,len
+Norway,NO,Rogaland,rogaland,Randaberg,randaberg
+Norway,NO,Rogaland,rogaland,Rennesy,rennesy
+Norway,NO,Rogaland,rogaland,Sandnes,sandnes
+Norway,NO,Rogaland,rogaland,Sauda,sauda
+Norway,NO,Rogaland,rogaland,Sveland,sveland
+Norway,NO,Rogaland,rogaland,Skudeneshavn,skudeneshavn
+Norway,NO,Rogaland,rogaland,Sokndal,sokndal
+Norway,NO,Rogaland,rogaland,Sola,sola
+Norway,NO,Rogaland,rogaland,Stavanger,stavanger
+Norway,NO,Rogaland,rogaland,Strand,strand
+Norway,NO,Rogaland,rogaland,Suldal,suldal
+Norway,NO,Rogaland,rogaland,Tananger,tananger
+Norway,NO,Rogaland,rogaland,Tau,tau
+Norway,NO,Rogaland,rogaland,Time,time
+Norway,NO,Rogaland,rogaland,Tysvr,tysvr
+Norway,NO,Rogaland,rogaland,Utsira,utsira
+Norway,NO,Rogaland,rogaland,Varhaug,varhaug
+Norway,NO,Rogaland,rogaland,Vedavagen,vedavagen
+Norway,NO,Rogaland,rogaland,Vigrestad,vigrestad
+Norway,NO,Rogaland,rogaland,Vikesa,vikesa
+Norway,NO,Rogaland,rogaland,Vikevag,vikevag
+Norway,NO,Rogaland,rogaland,Vindafjord,vindafjord
+Norway,NO,Rogaland,rogaland,Vormedal,vormedal
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Ardal,ardal
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Ardalstangen,ardalstangen
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Askvoll,askvoll
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Aurland,aurland
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Balestrand,balestrand
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Bremanger,bremanger
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Dale,dale
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Eid,eid
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Eivindvik,eivindvik
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Farnes,farnes
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Fjaler,fjaler
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Flora,flora
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Flor,flor
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Frde,frde
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Gaular,gaular
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Gaupne,gaupne
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Gloppen,gloppen
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Gulen,gulen
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Hardbakke,hardbakke
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Hermansverk,hermansverk
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Hornindal,hornindal
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Hyanger,hyanger
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Hyllestad,hyllestad
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Jlster,jlster
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Lrdal,lrdal
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Lrdalsyri,lrdalsyri
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Leikanger,leikanger
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Luster,luster
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Maly,maly
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Naustdal,naustdal
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Nordfjordeid,nordfjordeid
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Sandane,sandane
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Sande,sande
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Selje,selje
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Sogndal,sogndal
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Solund,solund
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Stryn,stryn
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Svelgen,svelgen
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Vagsy,vagsy
+Norway,NO,Sogn og Fjordane,sogn-og-fjordane,Vik,vik
+Norway,NO,Sr-Trndelag,sr-trndelag,Sr-Trndelag,sr-trndelag
+Norway,NO,Svalbard,svalbard,Svalbard,svalbard
+Norway,NO,Telemark,telemark,Bamble,bamble
+Norway,NO,Telemark,telemark,B,b
+Norway,NO,Telemark,telemark,Dalen,dalen
+Norway,NO,Telemark,telemark,Drangedal,drangedal
+Norway,NO,Telemark,telemark,Fyresdal,fyresdal
+Norway,NO,Telemark,telemark,Gvarv,gvarv
+Norway,NO,Telemark,telemark,Herre,herre
+Norway,NO,Telemark,telemark,Hjartdal,hjartdal
+Norway,NO,Telemark,telemark,Krager,krager
+Norway,NO,Telemark,telemark,Kviteseid,kviteseid
+Norway,NO,Telemark,telemark,Lunde,lunde
+Norway,NO,Telemark,telemark,Nissedal,nissedal
+Norway,NO,Telemark,telemark,Nome,nome
+Norway,NO,Telemark,telemark,Notodden,notodden
+Norway,NO,Telemark,telemark,Porsgrunn,porsgrunn
+Norway,NO,Telemark,telemark,Prestestranda,prestestranda
+Norway,NO,Telemark,telemark,Rjukan,rjukan
+Norway,NO,Telemark,telemark,Sauherad,sauherad
+Norway,NO,Telemark,telemark,Seljord,seljord
+Norway,NO,Telemark,telemark,Siljan,siljan
+Norway,NO,Telemark,telemark,Skien,skien
+Norway,NO,Telemark,telemark,Tinn,tinn
+Norway,NO,Telemark,telemark,Tokke,tokke
+Norway,NO,Telemark,telemark,Ulefoss,ulefoss
+Norway,NO,Telemark,telemark,Vinje,vinje
+Norway,NO,Troms,troms,Balsfjord,balsfjord
+Norway,NO,Troms,troms,Bardu,bardu
+Norway,NO,Troms,troms,Berg,berg
+Norway,NO,Troms,troms,Borkenes,borkenes
+Norway,NO,Troms,troms,Dyry,dyry
+Norway,NO,Troms,troms,Evenskjer,evenskjer
+Norway,NO,Troms,troms,Finnsnes,finnsnes
+Norway,NO,Troms,troms,Gratangen,gratangen
+Norway,NO,Troms,troms,Gryllefjord,gryllefjord
+Norway,NO,Troms,troms,Hansnes,hansnes
+Norway,NO,Troms,troms,Harstad,harstad
+Norway,NO,Troms,troms,Ibestad,ibestad
+Norway,NO,Troms,troms,Kafjord,kafjord
+Norway,NO,Troms,troms,Karlsy,karlsy
+Norway,NO,Troms,troms,Kvfjord,kvfjord
+Norway,NO,Troms,troms,Kvnangen,kvnangen
+Norway,NO,Troms,troms,Lavangen,lavangen
+Norway,NO,Troms,troms,Lenvik,lenvik
+Norway,NO,Troms,troms,Lyngen,lyngen
+Norway,NO,Troms,troms,Lyngseidet,lyngseidet
+Norway,NO,Troms,troms,Malselv,malselv
+Norway,NO,Troms,troms,Moen,moen
+Norway,NO,Troms,troms,Nordreisa,nordreisa
+Norway,NO,Troms,troms,Olderdalen,olderdalen
+Norway,NO,Troms,troms,Salangen,salangen
+Norway,NO,Troms,troms,Setermoen,setermoen
+Norway,NO,Troms,troms,Sjvegan,sjvegan
+Norway,NO,Troms,troms,Skanland,skanland
+Norway,NO,Troms,troms,Skjervy,skjervy
+Norway,NO,Troms,troms,Srreisa,srreisa
+Norway,NO,Troms,troms,Storfjord,storfjord
+Norway,NO,Troms,troms,Storslett,storslett
+Norway,NO,Troms,troms,Storsteinnes,storsteinnes
+Norway,NO,Troms,troms,Torsken,torsken
+Norway,NO,Troms,troms,Trany,trany
+Norway,NO,Troms,troms,Troms,troms
+Norway,NO,Trndelag,trndelag,A i Afjord,a-i-afjord
+Norway,NO,Trndelag,trndelag,Afjord,afjord
+Norway,NO,Trndelag,trndelag,Agdenes,agdenes
+Norway,NO,Trndelag,trndelag,Berkak,berkak
+Norway,NO,Trndelag,trndelag,Bjugn,bjugn
+Norway,NO,Trndelag,trndelag,Botngard,botngard
+Norway,NO,Trndelag,trndelag,Brekstad,brekstad
+Norway,NO,Trndelag,trndelag,Fillan,fillan
+Norway,NO,Trndelag,trndelag,Flatanger,flatanger
+Norway,NO,Trndelag,trndelag,Fosnes,fosnes
+Norway,NO,Trndelag,trndelag,Frosta,frosta
+Norway,NO,Trndelag,trndelag,Frya,frya
+Norway,NO,Trndelag,trndelag,Grong,grong
+Norway,NO,Trndelag,trndelag,Hemne,hemne
+Norway,NO,Trndelag,trndelag,Hitra,hitra
+Norway,NO,Trndelag,trndelag,Holtalen,holtalen
+Norway,NO,Trndelag,trndelag,Hommelvik,hommelvik
+Norway,NO,Trndelag,trndelag,Hylandet,hylandet
+Norway,NO,Trndelag,trndelag,Indery,indery
+Norway,NO,Trndelag,trndelag,Indre Fosen,indre-fosen
+Norway,NO,Trndelag,trndelag,Klbu,klbu
+Norway,NO,Trndelag,trndelag,Kolvereid,kolvereid
+Norway,NO,Trndelag,trndelag,Kyrksterra,kyrksterra
+Norway,NO,Trndelag,trndelag,Lauvsnes,lauvsnes
+Norway,NO,Trndelag,trndelag,Leka,leka
+Norway,NO,Trndelag,trndelag,Levanger,levanger
+Norway,NO,Trndelag,trndelag,Lierne,lierne
+Norway,NO,Trndelag,trndelag,Lundamo,lundamo
+Norway,NO,Trndelag,trndelag,Malm,malm
+Norway,NO,Trndelag,trndelag,Malvik,malvik
+Norway,NO,Trndelag,trndelag,Meldal,meldal
+Norway,NO,Trndelag,trndelag,Melhus,melhus
+Norway,NO,Trndelag,trndelag,Meraker,meraker
+Norway,NO,Trndelag,trndelag,Midtre Gauldal,midtre-gauldal
+Norway,NO,Trndelag,trndelag,Namdalseid,namdalseid
+Norway,NO,Trndelag,trndelag,Namsos,namsos
+Norway,NO,Trndelag,trndelag,Namsskogan,namsskogan
+Norway,NO,Trndelag,trndelag,Nry,nry
+Norway,NO,Trndelag,trndelag,Oppdal,oppdal
+Norway,NO,Trndelag,trndelag,Orkdal,orkdal
+Norway,NO,Trndelag,trndelag,Osen,osen
+Norway,NO,Trndelag,trndelag,Overhalla,overhalla
+Norway,NO,Trndelag,trndelag,rland,rland
+Norway,NO,Trndelag,trndelag,Raarvihke - Ryrvik,raarvihke-ryrvik
+Norway,NO,Trndelag,trndelag,Ranemsletta,ranemsletta
+Norway,NO,Trndelag,trndelag,Rennebu,rennebu
+Norway,NO,Trndelag,trndelag,Rindal,rindal
+Norway,NO,Trndelag,trndelag,Roan,roan
+Norway,NO,Trndelag,trndelag,Rros,rros
+Norway,NO,Trndelag,trndelag,Rrvik,rrvik
+Norway,NO,Trndelag,trndelag,Ryrvik,ryrvik
+Norway,NO,Trndelag,trndelag,Selbu,selbu
+Norway,NO,Trndelag,trndelag,Sistranda,sistranda
+Norway,NO,Trndelag,trndelag,Skaun,skaun
+Norway,NO,Trndelag,trndelag,Skogn,skogn
+Norway,NO,Trndelag,trndelag,Snaase,snaase
+Norway,NO,Trndelag,trndelag,Snaase - Snasa,snaase-snasa
+Norway,NO,Trndelag,trndelag,Snillfjord,snillfjord
+Norway,NO,Trndelag,trndelag,Steinkjer,steinkjer
+Norway,NO,Trndelag,trndelag,Stjrdal,stjrdal
+Norway,NO,Trndelag,trndelag,Stjrdalshalsen,stjrdalshalsen
+Norway,NO,Trndelag,trndelag,Straumen,straumen
+Norway,NO,Trndelag,trndelag,Trondheim,trondheim
+Norway,NO,Trndelag,trndelag,Tydal,tydal
+Norway,NO,Trndelag,trndelag,Verdal,verdal
+Norway,NO,Trndelag,trndelag,Verran,verran
+Norway,NO,Trndelag,trndelag,Vikna,vikna
+Norway,NO,Vest-Agder,vest-agder,Aseral,aseral
+Norway,NO,Vest-Agder,vest-agder,Audnedal,audnedal
+Norway,NO,Vest-Agder,vest-agder,Farsund,farsund
+Norway,NO,Vest-Agder,vest-agder,Flekkefjord,flekkefjord
+Norway,NO,Vest-Agder,vest-agder,Hgebostad,hgebostad
+Norway,NO,Vest-Agder,vest-agder,Justvik,justvik
+Norway,NO,Vest-Agder,vest-agder,Kristiansand,kristiansand
+Norway,NO,Vest-Agder,vest-agder,Kvinesdal,kvinesdal
+Norway,NO,Vest-Agder,vest-agder,Liknes,liknes
+Norway,NO,Vest-Agder,vest-agder,Lindesnes,lindesnes
+Norway,NO,Vest-Agder,vest-agder,Lyngdal,lyngdal
+Norway,NO,Vest-Agder,vest-agder,Mandal,mandal
+Norway,NO,Vest-Agder,vest-agder,Marnardal,marnardal
+Norway,NO,Vest-Agder,vest-agder,Nodeland,nodeland
+Norway,NO,Vest-Agder,vest-agder,Sirdal,sirdal
+Norway,NO,Vest-Agder,vest-agder,Skalevik,skalevik
+Norway,NO,Vest-Agder,vest-agder,Songdalen,songdalen
+Norway,NO,Vest-Agder,vest-agder,Sgne,sgne
+Norway,NO,Vest-Agder,vest-agder,Strai,strai
+Norway,NO,Vest-Agder,vest-agder,Tonstad,tonstad
+Norway,NO,Vest-Agder,vest-agder,Tveit,tveit
+Norway,NO,Vest-Agder,vest-agder,Vanse,vanse
+Norway,NO,Vest-Agder,vest-agder,Vennesla,vennesla
+Norway,NO,Vest-Agder,vest-agder,Vestbygd,vestbygd
+Norway,NO,Vest-Agder,vest-agder,Vigeland,vigeland
+Norway,NO,Vestfold,vestfold,Arysund,arysund
+Norway,NO,Vestfold,vestfold,Asgardstrand,asgardstrand
+Norway,NO,Vestfold,vestfold,Barkaker,barkaker
+Norway,NO,Vestfold,vestfold,Berger,berger
+Norway,NO,Vestfold,vestfold,Frder,frder
+Norway,NO,Vestfold,vestfold,Gullhaug,gullhaug
+Norway,NO,Vestfold,vestfold,Holmestrand,holmestrand
+Norway,NO,Vestfold,vestfold,Horten,horten
+Norway,NO,Vestfold,vestfold,Larvik,larvik
+Norway,NO,Vestfold,vestfold,Melsomvik,melsomvik
+Norway,NO,Vestfold,vestfold,Re,re
+Norway,NO,Vestfold,vestfold,Sande,sande
+Norway,NO,Vestfold,vestfold,Sandefjord,sandefjord
+Norway,NO,Vestfold,vestfold,Selvik,selvik
+Norway,NO,Vestfold,vestfold,Sem,sem
+Norway,NO,Vestfold,vestfold,Skoppum,skoppum
+Norway,NO,Vestfold,vestfold,Stavern,stavern
+Norway,NO,Vestfold,vestfold,Stokke,stokke
+Norway,NO,Vestfold,vestfold,Svelvik,svelvik
+Norway,NO,Vestfold,vestfold,Tjme,tjme
+Norway,NO,Vestfold,vestfold,Tnsberg,tnsberg

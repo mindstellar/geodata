@@ -1,0 +1,310 @@
+s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Korea South,KR,Busan,busan,Buk-gu,buk-gu
+Korea South,KR,Busan,busan,Busan,busan
+Korea South,KR,Busan,busan,Dongnae-gu,dongnae-gu
+Korea South,KR,Busan,busan,Gangseo-gu,gangseo-gu
+Korea South,KR,Busan,busan,Geumjeong-gu,geumjeong-gu
+Korea South,KR,Busan,busan,Gijang,gijang
+Korea South,KR,Busan,busan,Gijang-gun,gijang-gun
+Korea South,KR,Busan,busan,Haeundae-gu,haeundae-gu
+Korea South,KR,Busan,busan,Jung-gu,jung-gu
+Korea South,KR,Busan,busan,Nam-gu,nam-gu
+Korea South,KR,Busan,busan,Saha-gu,saha-gu
+Korea South,KR,Busan,busan,Sasang-gu,sasang-gu
+Korea South,KR,Busan,busan,Seo-gu,seo-gu
+Korea South,KR,Busan,busan,Suyeong-gu,suyeong-gu
+Korea South,KR,Busan,busan,Yeongdo-gu,yeongdo-gu
+Korea South,KR,Daegu,daegu,Daegu,daegu
+Korea South,KR,Daegu,daegu,Dalseo-gu,dalseo-gu
+Korea South,KR,Daegu,daegu,Dalseong-gun,dalseong-gun
+Korea South,KR,Daegu,daegu,Dong-gu,dong-gu
+Korea South,KR,Daegu,daegu,Hwawon,hwawon
+Korea South,KR,Daegu,daegu,Jung-gu,jung-gu
+Korea South,KR,Daegu,daegu,Seo-gu,seo-gu
+Korea South,KR,Daegu,daegu,Suseong-gu,suseong-gu
+Korea South,KR,Daejeon,daejeon,Daejeon,daejeon
+Korea South,KR,Daejeon,daejeon,Seo-gu,seo-gu
+Korea South,KR,Daejeon,daejeon,Sintansin,sintansin
+Korea South,KR,Daejeon,daejeon,Songgangdong,songgangdong
+Korea South,KR,Daejeon,daejeon,Yuseong-gu,yuseong-gu
+Korea South,KR,Gangwon Province,gangwon-province,Cheorwon-gun,cheorwon-gun
+Korea South,KR,Gangwon Province,gangwon-province,Chuncheon,chuncheon
+Korea South,KR,Gangwon Province,gangwon-province,Chuncheon-si,chuncheon-si
+Korea South,KR,Gangwon Province,gangwon-province,Donghae-si,donghae-si
+Korea South,KR,Gangwon Province,gangwon-province,Gangneung,gangneung
+Korea South,KR,Gangwon Province,gangwon-province,Gangneung-si,gangneung-si
+Korea South,KR,Gangwon Province,gangwon-province,Goseong-gun,goseong-gun
+Korea South,KR,Gangwon Province,gangwon-province,Hoengseong-gun,hoengseong-gun
+Korea South,KR,Gangwon Province,gangwon-province,Hongchon,hongchon
+Korea South,KR,Gangwon Province,gangwon-province,Hongcheon-gun,hongcheon-gun
+Korea South,KR,Gangwon Province,gangwon-province,Hwacheon,hwacheon
+Korea South,KR,Gangwon Province,gangwon-province,Hwacheon-gun,hwacheon-gun
+Korea South,KR,Gangwon Province,gangwon-province,Inje-gun,inje-gun
+Korea South,KR,Gangwon Province,gangwon-province,Jeongseon-gun,jeongseon-gun
+Korea South,KR,Gangwon Province,gangwon-province,Kosong,kosong
+Korea South,KR,Gangwon Province,gangwon-province,Neietsu,neietsu
+Korea South,KR,Gangwon Province,gangwon-province,Pyeongchang,pyeongchang
+Korea South,KR,Gangwon Province,gangwon-province,Pyeongchang-gun,pyeongchang-gun
+Korea South,KR,Gangwon Province,gangwon-province,Samcheok-si,samcheok-si
+Korea South,KR,Gangwon Province,gangwon-province,Santyoku,santyoku
+Korea South,KR,Gangwon Province,gangwon-province,Sokcho,sokcho
+Korea South,KR,Gangwon Province,gangwon-province,Sokcho-si,sokcho-si
+Korea South,KR,Gangwon Province,gangwon-province,Taebaek,taebaek
+Korea South,KR,Gangwon Province,gangwon-province,Taebaek-si,taebaek-si
+Korea South,KR,Gangwon Province,gangwon-province,Tonghae,tonghae
+Korea South,KR,Gangwon Province,gangwon-province,Wonju,wonju
+Korea South,KR,Gangwon Province,gangwon-province,Wonju-si,wonju-si
+Korea South,KR,Gangwon Province,gangwon-province,Yanggu,yanggu
+Korea South,KR,Gangwon Province,gangwon-province,Yanggu-gun,yanggu-gun
+Korea South,KR,Gangwon Province,gangwon-province,Yangyang-gun,yangyang-gun
+Korea South,KR,Gwangju,gwangju,Gwangju,gwangju
+Korea South,KR,Gwangju,gwangju,Gwangsan-gu,gwangsan-gu
+Korea South,KR,Gwangju,gwangju,Masan,masan
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Ansan-si,ansan-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Anseong,anseong
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Anyang-si,anyang-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Bucheon-si,bucheon-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Dongducheon,dongducheon
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Gapyeong,gapyeong
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Gapyeong-gun,gapyeong-gun
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Gimpo-si,gimpo-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Goyang-si,goyang-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Gunpo-si,gunpo-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Guri-si,guri-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Gwacheon-si,gwacheon-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Gwangju,gwangju
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Gwangju-si,gwangju-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Gwangmyeong-si,gwangmyeong-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Hanam,hanam
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Hanam-si,hanam-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Hwado,hwado
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Hwaseong-si,hwaseong-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Icheon-si,icheon-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Kwangmyong,kwangmyong
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Munsan,munsan
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Namyangju,namyangju
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Namyangju-si,namyangju-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Osan,osan
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Osan-si,osan-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Paju-si,paju-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Pocheon-si,pocheon-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Pubal,pubal
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Pyeongtaek,pyeongtaek
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Seongnam-si,seongnam-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Siheung,siheung
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Suwon,suwon
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Uijeongbu-si,uijeongbu-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Uiwang-si,uiwang-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Wabu,wabu
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Yangju,yangju
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Yangju-si,yangju-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Yangp'yong,yangpyong
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Yangpyeong-gun,yangpyeong-gun
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Yeoju-si,yeoju-si
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Yeoncheon-gun,yeoncheon-gun
+Korea South,KR,Gyeonggi Province,gyeonggi-province,Yongin-si,yongin-si
+Korea South,KR,Incheon,incheon,Bupyeong-gu,bupyeong-gu
+Korea South,KR,Incheon,incheon,Incheon,incheon
+Korea South,KR,Incheon,incheon,Michuhol,michuhol
+Korea South,KR,Incheon,incheon,Yeonsu-gu,yeonsu-gu
+Korea South,KR,Jeju,jeju,Gaigeturi,gaigeturi
+Korea South,KR,Jeju,jeju,Jeju City,jeju-city
+Korea South,KR,Jeju,jeju,Jeju-si,jeju-si
+Korea South,KR,Jeju,jeju,Seogwipo,seogwipo
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Boeun-gun,boeun-gun
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Cheongju-si,cheongju-si
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Chinch'on,chinchon
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Chungju-si,chungju-si
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Danyang-gun,danyang-gun
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Eumseong-gun,eumseong-gun
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Goesan-gun,goesan-gun
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Jecheon-si,jecheon-si
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Jeungpyeong-gun,jeungpyeong-gun
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Jincheon-gun,jincheon-gun
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Koesan,koesan
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Okcheon,okcheon
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Okcheon-gun,okcheon-gun
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Yeongdong,yeongdong
+Korea South,KR,North Chungcheong Province,north-chungcheong-province,Yeongdong-gun,yeongdong-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Andong,andong
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Andong-si,andong-si
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Bonghwa-gun,bonghwa-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Cheongdo-gun,cheongdo-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Cheongsong gun,cheongsong-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Cheongsong-gun,cheongsong-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Chilgok-gun,chilgok-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Eisen,eisen
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Gimcheon,gimcheon
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Gimcheon-si,gimcheon-si
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Goryeong-gun,goryeong-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Gumi-si,gumi-si
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Gunwi-gun,gunwi-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Gyeongju,gyeongju
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Gyeongsan-si,gyeongsan-si
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Hayang,hayang
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Heunghae,heunghae
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Jenzan,jenzan
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Kunwi,kunwi
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Mungyeong,mungyeong
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Mungyeong-si,mungyeong-si
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Pohang,pohang
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Pohang-si,pohang-si
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Sangju,sangju
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Seongju-gun,seongju-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Uiseong-gun,uiseong-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Uljin-gun,uljin-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Ulleung-gun,ulleung-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Waegwan,waegwan
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Yecheon-gun,yecheon-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Yeongcheon-si,yeongcheon-si
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Yeongdeok-gun,yeongdeok-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Yeongju-si,yeongju-si
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Yeongyang-gun,yeongyang-gun
+Korea South,KR,North Gyeongsang Province,north-gyeongsang-province,Yeonil,yeonil
+Korea South,KR,North Jeolla Province,north-jeolla-province,Buan-gun,buan-gun
+Korea South,KR,North Jeolla Province,north-jeolla-province,Changsu,changsu
+Korea South,KR,North Jeolla Province,north-jeolla-province,Gimje-si,gimje-si
+Korea South,KR,North Jeolla Province,north-jeolla-province,Gochang-gun,gochang-gun
+Korea South,KR,North Jeolla Province,north-jeolla-province,Gunsan,gunsan
+Korea South,KR,North Jeolla Province,north-jeolla-province,Gunsan-si,gunsan-si
+Korea South,KR,North Jeolla Province,north-jeolla-province,Iksan,iksan
+Korea South,KR,North Jeolla Province,north-jeolla-province,Iksan-si,iksan-si
+Korea South,KR,North Jeolla Province,north-jeolla-province,Imsil,imsil
+Korea South,KR,North Jeolla Province,north-jeolla-province,Imsil-gun,imsil-gun
+Korea South,KR,North Jeolla Province,north-jeolla-province,Jangsu-gun,jangsu-gun
+Korea South,KR,North Jeolla Province,north-jeolla-province,Jeongeup,jeongeup
+Korea South,KR,North Jeolla Province,north-jeolla-province,Jeongeup-si,jeongeup-si
+Korea South,KR,North Jeolla Province,north-jeolla-province,Jeonju,jeonju
+Korea South,KR,North Jeolla Province,north-jeolla-province,Jeonju-si,jeonju-si
+Korea South,KR,North Jeolla Province,north-jeolla-province,Jinan-gun,jinan-gun
+Korea South,KR,North Jeolla Province,north-jeolla-province,Kimje,kimje
+Korea South,KR,North Jeolla Province,north-jeolla-province,Koch'ang,kochang
+Korea South,KR,North Jeolla Province,north-jeolla-province,Muju-gun,muju-gun
+Korea South,KR,North Jeolla Province,north-jeolla-province,Namwon,namwon
+Korea South,KR,North Jeolla Province,north-jeolla-province,Nangen,nangen
+Korea South,KR,North Jeolla Province,north-jeolla-province,Puan,puan
+Korea South,KR,North Jeolla Province,north-jeolla-province,Sunchang-gun,sunchang-gun
+Korea South,KR,North Jeolla Province,north-jeolla-province,Wanju,wanju
+Korea South,KR,Sejong City,sejong-city,Sejong,sejong
+Korea South,KR,Seoul,seoul,Dobong-gu,dobong-gu
+Korea South,KR,Seoul,seoul,Dongdaemun-gu,dongdaemun-gu
+Korea South,KR,Seoul,seoul,Dongjak-gu,dongjak-gu
+Korea South,KR,Seoul,seoul,Eunpyeong-gu,eunpyeong-gu
+Korea South,KR,Seoul,seoul,Gangbuk-gu,gangbuk-gu
+Korea South,KR,Seoul,seoul,Gangdong-gu,gangdong-gu
+Korea South,KR,Seoul,seoul,Gangnam-gu,gangnam-gu
+Korea South,KR,Seoul,seoul,Gangseo-gu,gangseo-gu
+Korea South,KR,Seoul,seoul,Geumcheon-gu,geumcheon-gu
+Korea South,KR,Seoul,seoul,Guro-gu,guro-gu
+Korea South,KR,Seoul,seoul,Gwanak-gu,gwanak-gu
+Korea South,KR,Seoul,seoul,Gwangjin-gu,gwangjin-gu
+Korea South,KR,Seoul,seoul,Jongno-gu,jongno-gu
+Korea South,KR,Seoul,seoul,Jung-gu,jung-gu
+Korea South,KR,Seoul,seoul,Jungnang-gu,jungnang-gu
+Korea South,KR,Seoul,seoul,Mapo-gu,mapo-gu
+Korea South,KR,Seoul,seoul,Nowon-gu,nowon-gu
+Korea South,KR,Seoul,seoul,Seocho-gu,seocho-gu
+Korea South,KR,Seoul,seoul,Seodaemun-gu,seodaemun-gu
+Korea South,KR,Seoul,seoul,Seongbuk-gu,seongbuk-gu
+Korea South,KR,Seoul,seoul,Seongdong-gu,seongdong-gu
+Korea South,KR,Seoul,seoul,Seoul,seoul
+Korea South,KR,Seoul,seoul,Songpa-gu,songpa-gu
+Korea South,KR,Seoul,seoul,Yangcheon-gu,yangcheon-gu
+Korea South,KR,Seoul,seoul,Yeongdeungpo-gu,yeongdeungpo-gu
+Korea South,KR,Seoul,seoul,Yongsan-dong,yongsan-dong
+Korea South,KR,Seoul,seoul,Yongsan-gu,yongsan-gu
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Asan,asan
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Asan-si,asan-si
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Boryeong,boryeong
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Boryeong-si,boryeong-si
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Buyeo,buyeo
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Buyeo-gun,buyeo-gun
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Cheonan,cheonan
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Cheonan-si,cheonan-si
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Cheongyang-gun,cheongyang-gun
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Geumsan-gun,geumsan-gun
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Gongju,gongju
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Gongju-si,gongju-si
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Gyeryong-si,gyeryong-si
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Hongseong,hongseong
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Hongseong-gun,hongseong-gun
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Kinzan,kinzan
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Nonsan,nonsan
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Nonsan-si,nonsan-si
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Seocheon-gun,seocheon-gun
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Seonghwan,seonghwan
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Seosan,seosan
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Seosan-si,seosan-si
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Taean-gun,taean-gun
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Taesal-li,taesal-li
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Tangjin,tangjin
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Yesan,yesan
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Yesan-gun,yesan-gun
+Korea South,KR,South Chungcheong Province,south-chungcheong-province,Yonmu,yonmu
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Changnyeong,changnyeong
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Changnyeong-gun,changnyeong-gun
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Changwon,changwon
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Changwon-si,changwon-si
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Chinju,chinju
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Geochang-gun,geochang-gun
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Geoje-si,geoje-si
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Gimhae-si,gimhae-si
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Goseong,goseong
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Goseong-gun,goseong-gun
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Hadong-gun,hadong-gun
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Haman-gun,haman-gun
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Hapcheon-gun,hapcheon-gun
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Jinju-si,jinju-si
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Kimhae,kimhae
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Kyosai,kyosai
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Miryang,miryang
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Miryang-si,miryang-si
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Naeso,naeso
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Namhae-gun,namhae-gun
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Sacheon-si,sacheon-si
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Sancheong-gun,sancheong-gun
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Sinhyeon,sinhyeon
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Uiryeong-gun,uiryeong-gun
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Ungsang,ungsang
+Korea South,KR,South Gyeongsang Province,south-gyeongsang-province,Yangsan,yangsan
+Korea South,KR,South Jeolla Province,south-jeolla-province,Beolgyo,beolgyo
+Korea South,KR,South Jeolla Province,south-jeolla-province,Boseong-gun,boseong-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Damyang-gun,damyang-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Gangjin-gun,gangjin-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Goheung-gun,goheung-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Gokseong-gun,gokseong-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Gurye-gun,gurye-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Gwangyang,gwangyang
+Korea South,KR,South Jeolla Province,south-jeolla-province,Gwangyang-si,gwangyang-si
+Korea South,KR,South Jeolla Province,south-jeolla-province,Haenam,haenam
+Korea South,KR,South Jeolla Province,south-jeolla-province,Haenam-gun,haenam-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Hampyeong-gun,hampyeong-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Hwasun,hwasun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Hwasun-gun,hwasun-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Jangheung-gun,jangheung-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Jangseong-gun,jangseong-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Jindo-gun,jindo-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Kurye,kurye
+Korea South,KR,South Jeolla Province,south-jeolla-province,Kwangyang,kwangyang
+Korea South,KR,South Jeolla Province,south-jeolla-province,Mokpo,mokpo
+Korea South,KR,South Jeolla Province,south-jeolla-province,Mokpo-si,mokpo-si
+Korea South,KR,South Jeolla Province,south-jeolla-province,Muan,muan
+Korea South,KR,South Jeolla Province,south-jeolla-province,Muan-gun,muan-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Naju,naju
+Korea South,KR,South Jeolla Province,south-jeolla-province,Naju-si,naju-si
+Korea South,KR,South Jeolla Province,south-jeolla-province,Sinan,sinan
+Korea South,KR,South Jeolla Province,south-jeolla-province,Sinan-gun,sinan-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Suncheon,suncheon
+Korea South,KR,South Jeolla Province,south-jeolla-province,Suncheon-si,suncheon-si
+Korea South,KR,South Jeolla Province,south-jeolla-province,Wando-gun,wando-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Yeongam,yeongam
+Korea South,KR,South Jeolla Province,south-jeolla-province,Yeongam-gun,yeongam-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Yeonggwang,yeonggwang
+Korea South,KR,South Jeolla Province,south-jeolla-province,Yeonggwang-gun,yeonggwang-gun
+Korea South,KR,South Jeolla Province,south-jeolla-province,Yeosu,yeosu
+Korea South,KR,Ulsan,ulsan,Buk-gu,buk-gu
+Korea South,KR,Ulsan,ulsan,Dong-gu,dong-gu
+Korea South,KR,Ulsan,ulsan,Jung-gu,jung-gu
+Korea South,KR,Ulsan,ulsan,Nam-gu,nam-gu
+Korea South,KR,Ulsan,ulsan,Ulju-gun,ulju-gun
+Korea South,KR,Ulsan,ulsan,Ulsan,ulsan

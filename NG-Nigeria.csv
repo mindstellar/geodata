@@ -1,0 +1,411 @@
+s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Nigeria,NG,Abia State,abia-state,Aba,aba
+Nigeria,NG,Abia State,abia-state,Amaigbo,amaigbo
+Nigeria,NG,Abia State,abia-state,Arochukwu,arochukwu
+Nigeria,NG,Abia State,abia-state,Bende,bende
+Nigeria,NG,Abia State,abia-state,Ohafia-Ifigh,ohafia-ifigh
+Nigeria,NG,Abia State,abia-state,Umuahia,umuahia
+Nigeria,NG,Adamawa State,adamawa-state,Ganye,ganye
+Nigeria,NG,Adamawa State,adamawa-state,Gombi,gombi
+Nigeria,NG,Adamawa State,adamawa-state,Holma,holma
+Nigeria,NG,Adamawa State,adamawa-state,Jimeta,jimeta
+Nigeria,NG,Adamawa State,adamawa-state,Madagali,madagali
+Nigeria,NG,Adamawa State,adamawa-state,Mayo-Belwa,mayo-belwa
+Nigeria,NG,Adamawa State,adamawa-state,Mubi,mubi
+Nigeria,NG,Adamawa State,adamawa-state,Ngurore,ngurore
+Nigeria,NG,Adamawa State,adamawa-state,Numan,numan
+Nigeria,NG,Adamawa State,adamawa-state,Toungo,toungo
+Nigeria,NG,Adamawa State,adamawa-state,Yola,yola
+Nigeria,NG,Akwa Ibom State,akwa-ibom-state,Eket,eket
+Nigeria,NG,Akwa Ibom State,akwa-ibom-state,Esuk Oron,esuk-oron
+Nigeria,NG,Akwa Ibom State,akwa-ibom-state,Ikot Ekpene,ikot-ekpene
+Nigeria,NG,Akwa Ibom State,akwa-ibom-state,Itu,itu
+Nigeria,NG,Akwa Ibom State,akwa-ibom-state,Uyo,uyo
+Nigeria,NG,Anambra State,anambra-state,Agulu,agulu
+Nigeria,NG,Anambra State,anambra-state,Atani,atani
+Nigeria,NG,Anambra State,anambra-state,Awka,awka
+Nigeria,NG,Anambra State,anambra-state,Enugu-Ukwu,enugu-ukwu
+Nigeria,NG,Anambra State,anambra-state,Igbo-Ukwu,igbo-ukwu
+Nigeria,NG,Anambra State,anambra-state,Ihiala,ihiala
+Nigeria,NG,Anambra State,anambra-state,Nkpor,nkpor
+Nigeria,NG,Anambra State,anambra-state,Nnewi,nnewi
+Nigeria,NG,Anambra State,anambra-state,Onitsha,onitsha
+Nigeria,NG,Anambra State,anambra-state,Ozubulu,ozubulu
+Nigeria,NG,Anambra State,anambra-state,Uga,uga
+Nigeria,NG,Anambra State,anambra-state,Uruobo-Okija,uruobo-okija
+Nigeria,NG,Bauchi State,bauchi-state,Azare,azare
+Nigeria,NG,Bauchi State,bauchi-state,Bauchi,bauchi
+Nigeria,NG,Bauchi State,bauchi-state,Boi,boi
+Nigeria,NG,Bauchi State,bauchi-state,Bununu,bununu
+Nigeria,NG,Bauchi State,bauchi-state,Darazo,darazo
+Nigeria,NG,Bauchi State,bauchi-state,Dass,dass
+Nigeria,NG,Bauchi State,bauchi-state,Dindima,dindima
+Nigeria,NG,Bauchi State,bauchi-state,Disina,disina
+Nigeria,NG,Bauchi State,bauchi-state,Gabarin,gabarin
+Nigeria,NG,Bauchi State,bauchi-state,Gwaram,gwaram
+Nigeria,NG,Bauchi State,bauchi-state,Kari,kari
+Nigeria,NG,Bauchi State,bauchi-state,Lame,lame
+Nigeria,NG,Bauchi State,bauchi-state,Lere,lere
+Nigeria,NG,Bauchi State,bauchi-state,Madara,madara
+Nigeria,NG,Bauchi State,bauchi-state,Misau,misau
+Nigeria,NG,Bauchi State,bauchi-state,Sade,sade
+Nigeria,NG,Bauchi State,bauchi-state,Yamrat,yamrat
+Nigeria,NG,Bauchi State,bauchi-state,Yanda Bayo,yanda-bayo
+Nigeria,NG,Bauchi State,bauchi-state,Yuli,yuli
+Nigeria,NG,Bauchi State,bauchi-state,Zadawa,zadawa
+Nigeria,NG,Bauchi State,bauchi-state,Zalanga,zalanga
+Nigeria,NG,Bayelsa State,bayelsa-state,Amassoma,amassoma
+Nigeria,NG,Bayelsa State,bayelsa-state,Twon-Brass,twon-brass
+Nigeria,NG,Bayelsa State,bayelsa-state,Yenagoa,yenagoa
+Nigeria,NG,Benue State,benue-state,Aliade,aliade
+Nigeria,NG,Benue State,benue-state,Boju,boju
+Nigeria,NG,Benue State,benue-state,Igbor,igbor
+Nigeria,NG,Benue State,benue-state,Makurdi,makurdi
+Nigeria,NG,Benue State,benue-state,Ochobo,ochobo
+Nigeria,NG,Benue State,benue-state,Otukpa,otukpa
+Nigeria,NG,Benue State,benue-state,Takum,takum
+Nigeria,NG,Benue State,benue-state,Ugbokpo,ugbokpo
+Nigeria,NG,Benue State,benue-state,Yandev,yandev
+Nigeria,NG,Benue State,benue-state,Zaki Biam,zaki-biam
+Nigeria,NG,Borno State,borno-state,Bama,bama
+Nigeria,NG,Borno State,borno-state,Benisheikh,benisheikh
+Nigeria,NG,Borno State,borno-state,Biu,biu
+Nigeria,NG,Borno State,borno-state,Bornu Yassu,bornu-yassu
+Nigeria,NG,Borno State,borno-state,Damasak,damasak
+Nigeria,NG,Borno State,borno-state,Damboa,damboa
+Nigeria,NG,Borno State,borno-state,Dikwa,dikwa
+Nigeria,NG,Borno State,borno-state,Gamboru,gamboru
+Nigeria,NG,Borno State,borno-state,Gwoza,gwoza
+Nigeria,NG,Borno State,borno-state,Kukawa,kukawa
+Nigeria,NG,Borno State,borno-state,Magumeri,magumeri
+Nigeria,NG,Borno State,borno-state,Maiduguri,maiduguri
+Nigeria,NG,Borno State,borno-state,Marte,marte
+Nigeria,NG,Borno State,borno-state,Miringa,miringa
+Nigeria,NG,Borno State,borno-state,Monguno,monguno
+Nigeria,NG,Borno State,borno-state,Ngala,ngala
+Nigeria,NG,Borno State,borno-state,Shaffa,shaffa
+Nigeria,NG,Borno State,borno-state,Shani,shani
+Nigeria,NG,Borno State,borno-state,Tokombere,tokombere
+Nigeria,NG,Borno State,borno-state,Uba,uba
+Nigeria,NG,Borno State,borno-state,Wuyo,wuyo
+Nigeria,NG,Borno State,borno-state,Yajiwa,yajiwa
+Nigeria,NG,Cross River State,cross-river-state,Akankpa,akankpa
+Nigeria,NG,Cross River State,cross-river-state,Calabar,calabar
+Nigeria,NG,Cross River State,cross-river-state,Gakem,gakem
+Nigeria,NG,Cross River State,cross-river-state,Ikang,ikang
+Nigeria,NG,Cross River State,cross-river-state,Ugep,ugep
+Nigeria,NG,Delta State,delta-state,Abraka,abraka
+Nigeria,NG,Delta State,delta-state,Agbor,agbor
+Nigeria,NG,Delta State,delta-state,Asaba,asaba
+Nigeria,NG,Delta State,delta-state,Bomadi,bomadi
+Nigeria,NG,Delta State,delta-state,Burutu,burutu
+Nigeria,NG,Delta State,delta-state,Kwale,kwale
+Nigeria,NG,Delta State,delta-state,Obiaruku,obiaruku
+Nigeria,NG,Delta State,delta-state,Ogwashi-Uku,ogwashi-uku
+Nigeria,NG,Delta State,delta-state,Orerokpe,orerokpe
+Nigeria,NG,Delta State,delta-state,Patani,patani
+Nigeria,NG,Delta State,delta-state,Sapele,sapele
+Nigeria,NG,Delta State,delta-state,Ughelli,ughelli
+Nigeria,NG,Delta State,delta-state,Umunede,umunede
+Nigeria,NG,Delta State,delta-state,Warri,warri
+Nigeria,NG,Ebonyi State,ebonyi-state,Abakaliki,abakaliki
+Nigeria,NG,Ebonyi State,ebonyi-state,Afikpo,afikpo
+Nigeria,NG,Ebonyi State,ebonyi-state,Effium,effium
+Nigeria,NG,Ebonyi State,ebonyi-state,Ezza-Ohu,ezza-ohu
+Nigeria,NG,Ebonyi State,ebonyi-state,Isieke,isieke
+Nigeria,NG,Edo State,edo-state,Agenebode,agenebode
+Nigeria,NG,Edo State,edo-state,Auchi,auchi
+Nigeria,NG,Edo State,edo-state,Benin City,benin-city
+Nigeria,NG,Edo State,edo-state,Ekpoma,ekpoma
+Nigeria,NG,Edo State,edo-state,Igarra,igarra
+Nigeria,NG,Edo State,edo-state,Illushi,illushi
+Nigeria,NG,Edo State,edo-state,Siluko,siluko
+Nigeria,NG,Edo State,edo-state,Ubiaja,ubiaja
+Nigeria,NG,Edo State,edo-state,Uromi,uromi
+Nigeria,NG,Ekiti State,ekiti-state,Ado-Ekiti,ado-ekiti
+Nigeria,NG,Ekiti State,ekiti-state,Aramoko-Ekiti,aramoko-ekiti
+Nigeria,NG,Ekiti State,ekiti-state,Efon-Alaaye,efon-alaaye
+Nigeria,NG,Ekiti State,ekiti-state,Emure-Ekiti,emure-ekiti
+Nigeria,NG,Ekiti State,ekiti-state,Ifaki,ifaki
+Nigeria,NG,Ekiti State,ekiti-state,Igbara-Odo,igbara-odo
+Nigeria,NG,Ekiti State,ekiti-state,Igede-Ekiti,igede-ekiti
+Nigeria,NG,Ekiti State,ekiti-state,Ijero-Ekiti,ijero-ekiti
+Nigeria,NG,Ekiti State,ekiti-state,Ikere-Ekiti,ikere-ekiti
+Nigeria,NG,Ekiti State,ekiti-state,Ipoti,ipoti
+Nigeria,NG,Ekiti State,ekiti-state,Ise-Ekiti,ise-ekiti
+Nigeria,NG,Ekiti State,ekiti-state,Oke Ila,oke-ila
+Nigeria,NG,Ekiti State,ekiti-state,Omuo-Ekiti,omuo-ekiti
+Nigeria,NG,Enugu State,enugu-state,Adani,adani
+Nigeria,NG,Enugu State,enugu-state,Ake-Eze,ake-eze
+Nigeria,NG,Enugu State,enugu-state,Aku,aku
+Nigeria,NG,Enugu State,enugu-state,Amagunze,amagunze
+Nigeria,NG,Enugu State,enugu-state,Awgu,awgu
+Nigeria,NG,Enugu State,enugu-state,Eha Amufu,eha-amufu
+Nigeria,NG,Enugu State,enugu-state,Enugu,enugu
+Nigeria,NG,Enugu State,enugu-state,Enugu-Ezike,enugu-ezike
+Nigeria,NG,Enugu State,enugu-state,Ete,ete
+Nigeria,NG,Enugu State,enugu-state,Ikem,ikem
+Nigeria,NG,Enugu State,enugu-state,Mberubu,mberubu
+Nigeria,NG,Enugu State,enugu-state,Nsukka,nsukka
+Nigeria,NG,Enugu State,enugu-state,Obolo-Eke (1),obolo-eke-1
+Nigeria,NG,Enugu State,enugu-state,Opi,opi
+Nigeria,NG,Enugu State,enugu-state,Udi,udi
+Nigeria,NG,Federal Capital Territory,federal-capital-territory,Abuja,abuja
+Nigeria,NG,Federal Capital Territory,federal-capital-territory,Kuje,kuje
+Nigeria,NG,Federal Capital Territory,federal-capital-territory,Kwali,kwali
+Nigeria,NG,Federal Capital Territory,federal-capital-territory,Madala,madala
+Nigeria,NG,Gombe State,gombe-state,Akko,akko
+Nigeria,NG,Gombe State,gombe-state,Bara,bara
+Nigeria,NG,Gombe State,gombe-state,Billiri,billiri
+Nigeria,NG,Gombe State,gombe-state,Dadiya,dadiya
+Nigeria,NG,Gombe State,gombe-state,Deba,deba
+Nigeria,NG,Gombe State,gombe-state,Dukku,dukku
+Nigeria,NG,Gombe State,gombe-state,Garko,garko
+Nigeria,NG,Gombe State,gombe-state,Gombe,gombe
+Nigeria,NG,Gombe State,gombe-state,Hinna,hinna
+Nigeria,NG,Gombe State,gombe-state,Kafarati,kafarati
+Nigeria,NG,Gombe State,gombe-state,Kaltungo,kaltungo
+Nigeria,NG,Gombe State,gombe-state,Kumo,kumo
+Nigeria,NG,Gombe State,gombe-state,Nafada,nafada
+Nigeria,NG,Gombe State,gombe-state,Pindiga,pindiga
+Nigeria,NG,Imo State,imo-state,Iho,iho
+Nigeria,NG,Imo State,imo-state,Oguta,oguta
+Nigeria,NG,Imo State,imo-state,Okigwe,okigwe
+Nigeria,NG,Imo State,imo-state,Orlu,orlu
+Nigeria,NG,Imo State,imo-state,Orodo,orodo
+Nigeria,NG,Imo State,imo-state,Owerri,owerri
+Nigeria,NG,Jigawa State,jigawa-state,Babura,babura
+Nigeria,NG,Jigawa State,jigawa-state,Birnin Kudu,birnin-kudu
+Nigeria,NG,Jigawa State,jigawa-state,Birniwa,birniwa
+Nigeria,NG,Jigawa State,jigawa-state,Dutse,dutse
+Nigeria,NG,Jigawa State,jigawa-state,Gagarawa,gagarawa
+Nigeria,NG,Jigawa State,jigawa-state,Gumel,gumel
+Nigeria,NG,Jigawa State,jigawa-state,Gwaram,gwaram
+Nigeria,NG,Jigawa State,jigawa-state,Hadejia,hadejia
+Nigeria,NG,Jigawa State,jigawa-state,Kafin Hausa,kafin-hausa
+Nigeria,NG,Jigawa State,jigawa-state,Kazaure,kazaure
+Nigeria,NG,Jigawa State,jigawa-state,Kiyawa,kiyawa
+Nigeria,NG,Jigawa State,jigawa-state,Mallammaduri,mallammaduri
+Nigeria,NG,Jigawa State,jigawa-state,Ringim,ringim
+Nigeria,NG,Jigawa State,jigawa-state,Samamiya,samamiya
+Nigeria,NG,Kaduna State,kaduna-state,Anchau,anchau
+Nigeria,NG,Kaduna State,kaduna-state,Burumburum,burumburum
+Nigeria,NG,Kaduna State,kaduna-state,Dutsen Wai,dutsen-wai
+Nigeria,NG,Kaduna State,kaduna-state,Hunkuyi,hunkuyi
+Nigeria,NG,Kaduna State,kaduna-state,Kachia,kachia
+Nigeria,NG,Kaduna State,kaduna-state,Kaduna,kaduna
+Nigeria,NG,Kaduna State,kaduna-state,Kafanchan,kafanchan
+Nigeria,NG,Kaduna State,kaduna-state,Kagoro,kagoro
+Nigeria,NG,Kaduna State,kaduna-state,Kajuru,kajuru
+Nigeria,NG,Kaduna State,kaduna-state,Kujama,kujama
+Nigeria,NG,Kaduna State,kaduna-state,Lere,lere
+Nigeria,NG,Kaduna State,kaduna-state,Mando,mando
+Nigeria,NG,Kaduna State,kaduna-state,Saminaka,saminaka
+Nigeria,NG,Kaduna State,kaduna-state,Soba,soba
+Nigeria,NG,Kaduna State,kaduna-state,Sofo-Birnin-Gwari,sofo-birnin-gwari
+Nigeria,NG,Kaduna State,kaduna-state,Zaria,zaria
+Nigeria,NG,Kano State,kano-state,Dan Gora,dan-gora
+Nigeria,NG,Kano State,kano-state,Gaya,gaya
+Nigeria,NG,Kano State,kano-state,Kano,kano
+Nigeria,NG,Katsina State,katsina-state,Danja,danja
+Nigeria,NG,Katsina State,katsina-state,Dankama,dankama
+Nigeria,NG,Katsina State,katsina-state,Daura,daura
+Nigeria,NG,Katsina State,katsina-state,Dutsin-Ma,dutsin-ma
+Nigeria,NG,Katsina State,katsina-state,Funtua,funtua
+Nigeria,NG,Katsina State,katsina-state,Gora,gora
+Nigeria,NG,Katsina State,katsina-state,Jibia,jibia
+Nigeria,NG,Katsina State,katsina-state,Jikamshi,jikamshi
+Nigeria,NG,Katsina State,katsina-state,Kankara,kankara
+Nigeria,NG,Katsina State,katsina-state,Katsina,katsina
+Nigeria,NG,Katsina State,katsina-state,Mashi,mashi
+Nigeria,NG,Katsina State,katsina-state,Ruma,ruma
+Nigeria,NG,Katsina State,katsina-state,Runka,runka
+Nigeria,NG,Katsina State,katsina-state,Wagini,wagini
+Nigeria,NG,Kebbi State,kebbi-state,Argungu,argungu
+Nigeria,NG,Kebbi State,kebbi-state,Bagudo,bagudo
+Nigeria,NG,Kebbi State,kebbi-state,Bena,bena
+Nigeria,NG,Kebbi State,kebbi-state,Bin Yauri,bin-yauri
+Nigeria,NG,Kebbi State,kebbi-state,Birnin Kebbi,birnin-kebbi
+Nigeria,NG,Kebbi State,kebbi-state,Dabai,dabai
+Nigeria,NG,Kebbi State,kebbi-state,Dakingari,dakingari
+Nigeria,NG,Kebbi State,kebbi-state,Gulma,gulma
+Nigeria,NG,Kebbi State,kebbi-state,Gwandu,gwandu
+Nigeria,NG,Kebbi State,kebbi-state,Jega,jega
+Nigeria,NG,Kebbi State,kebbi-state,Kamba,kamba
+Nigeria,NG,Kebbi State,kebbi-state,Kangiwa,kangiwa
+Nigeria,NG,Kebbi State,kebbi-state,Kende,kende
+Nigeria,NG,Kebbi State,kebbi-state,Mahuta,mahuta
+Nigeria,NG,Kebbi State,kebbi-state,Maiyama,maiyama
+Nigeria,NG,Kebbi State,kebbi-state,Shanga,shanga
+Nigeria,NG,Kebbi State,kebbi-state,Wasagu,wasagu
+Nigeria,NG,Kebbi State,kebbi-state,Zuru,zuru
+Nigeria,NG,Kogi State,kogi-state,Abocho,abocho
+Nigeria,NG,Kogi State,kogi-state,Adoru,adoru
+Nigeria,NG,Kogi State,kogi-state,Ankpa,ankpa
+Nigeria,NG,Kogi State,kogi-state,Bugana,bugana
+Nigeria,NG,Kogi State,kogi-state,Dekina,dekina
+Nigeria,NG,Kogi State,kogi-state,Egbe,egbe
+Nigeria,NG,Kogi State,kogi-state,Icheu,icheu
+Nigeria,NG,Kogi State,kogi-state,Idah,idah
+Nigeria,NG,Kogi State,kogi-state,Isanlu-Itedoijowa,isanlu-itedoijowa
+Nigeria,NG,Kogi State,kogi-state,Kabba,kabba
+Nigeria,NG,Kogi State,kogi-state,Koton-Karfe,koton-karfe
+Nigeria,NG,Kogi State,kogi-state,Lokoja,lokoja
+Nigeria,NG,Kogi State,kogi-state,Ogaminana,ogaminana
+Nigeria,NG,Kogi State,kogi-state,Ogurugu,ogurugu
+Nigeria,NG,Kogi State,kogi-state,Okene,okene
+Nigeria,NG,Kwara State,kwara-state,Ajasse Ipo,ajasse-ipo
+Nigeria,NG,Kwara State,kwara-state,Bode Saadu,bode-saadu
+Nigeria,NG,Kwara State,kwara-state,Gwasero,gwasero
+Nigeria,NG,Kwara State,kwara-state,Ilorin,ilorin
+Nigeria,NG,Kwara State,kwara-state,Jebba,jebba
+Nigeria,NG,Kwara State,kwara-state,Kaiama,kaiama
+Nigeria,NG,Kwara State,kwara-state,Lafiagi,lafiagi
+Nigeria,NG,Kwara State,kwara-state,Offa,offa
+Nigeria,NG,Kwara State,kwara-state,Okuta,okuta
+Nigeria,NG,Kwara State,kwara-state,Omu-Aran,omu-aran
+Nigeria,NG,Kwara State,kwara-state,Patigi,patigi
+Nigeria,NG,Kwara State,kwara-state,Suya,suya
+Nigeria,NG,Kwara State,kwara-state,Yashikera,yashikera
+Nigeria,NG,Lagos,lagos,Apapa,apapa
+Nigeria,NG,Lagos,lagos,Badagry,badagry
+Nigeria,NG,Lagos,lagos,Ebute Ikorodu,ebute-ikorodu
+Nigeria,NG,Lagos,lagos,Ejirin,ejirin
+Nigeria,NG,Lagos,lagos,Epe,epe
+Nigeria,NG,Lagos,lagos,Ikeja,ikeja
+Nigeria,NG,Lagos,lagos,Lagos,lagos
+Nigeria,NG,Lagos,lagos,Makoko,makoko
+Nigeria,NG,Nasarawa State,nasarawa-state,Buga,buga
+Nigeria,NG,Nasarawa State,nasarawa-state,Doma,doma
+Nigeria,NG,Nasarawa State,nasarawa-state,Keffi,keffi
+Nigeria,NG,Nasarawa State,nasarawa-state,Lafia,lafia
+Nigeria,NG,Nasarawa State,nasarawa-state,Nasarawa,nasarawa
+Nigeria,NG,Nasarawa State,nasarawa-state,Wamba,wamba
+Nigeria,NG,Niger State,niger-state,Auna,auna
+Nigeria,NG,Niger State,niger-state,Babana,babana
+Nigeria,NG,Niger State,niger-state,Badeggi,badeggi
+Nigeria,NG,Niger State,niger-state,Baro,baro
+Nigeria,NG,Niger State,niger-state,Bokani,bokani
+Nigeria,NG,Niger State,niger-state,Duku,duku
+Nigeria,NG,Niger State,niger-state,Ibeto,ibeto
+Nigeria,NG,Niger State,niger-state,Konkwesso,konkwesso
+Nigeria,NG,Niger State,niger-state,Kontagora,kontagora
+Nigeria,NG,Niger State,niger-state,Kusheriki,kusheriki
+Nigeria,NG,Niger State,niger-state,Kuta,kuta
+Nigeria,NG,Niger State,niger-state,Lapai,lapai
+Nigeria,NG,Niger State,niger-state,Minna,minna
+Nigeria,NG,Niger State,niger-state,New Shagunnu,new-shagunnu
+Nigeria,NG,Niger State,niger-state,Suleja,suleja
+Nigeria,NG,Niger State,niger-state,Tegina,tegina
+Nigeria,NG,Niger State,niger-state,Ukata,ukata
+Nigeria,NG,Niger State,niger-state,Wawa,wawa
+Nigeria,NG,Niger State,niger-state,Zungeru,zungeru
+Nigeria,NG,Ogun State,ogun-state,Abeokuta,abeokuta
+Nigeria,NG,Ogun State,ogun-state,Ado Odo,ado-odo
+Nigeria,NG,Ogun State,ogun-state,Idi Iroko,idi-iroko
+Nigeria,NG,Ogun State,ogun-state,Ifo,ifo
+Nigeria,NG,Ogun State,ogun-state,Ijebu-Ife,ijebu-ife
+Nigeria,NG,Ogun State,ogun-state,Ijebu-Igbo,ijebu-igbo
+Nigeria,NG,Ogun State,ogun-state,Ijebu-Ode,ijebu-ode
+Nigeria,NG,Ogun State,ogun-state,Ilaro,ilaro
+Nigeria,NG,Ogun State,ogun-state,Imeko,imeko
+Nigeria,NG,Ogun State,ogun-state,Iperu,iperu
+Nigeria,NG,Ogun State,ogun-state,Isara,isara
+Nigeria,NG,Ogun State,ogun-state,Owode,owode
+Nigeria,NG,Ondo State,ondo-state,Agbabu,agbabu
+Nigeria,NG,Ondo State,ondo-state,Akure,akure
+Nigeria,NG,Ondo State,ondo-state,Idanre,idanre
+Nigeria,NG,Ondo State,ondo-state,Ifon,ifon
+Nigeria,NG,Ondo State,ondo-state,Ilare,ilare
+Nigeria,NG,Ondo State,ondo-state,Ode,ode
+Nigeria,NG,Ondo State,ondo-state,Ondo,ondo
+Nigeria,NG,Ondo State,ondo-state,Ore,ore
+Nigeria,NG,Ondo State,ondo-state,Owo,owo
+Nigeria,NG,Osun State,osun-state,Apomu,apomu
+Nigeria,NG,Osun State,osun-state,Ejigbo,ejigbo
+Nigeria,NG,Osun State,osun-state,Gbongan,gbongan
+Nigeria,NG,Osun State,osun-state,Ijebu-Jesa,ijebu-jesa
+Nigeria,NG,Osun State,osun-state,Ikire,ikire
+Nigeria,NG,Osun State,osun-state,Ikirun,ikirun
+Nigeria,NG,Osun State,osun-state,Ila Orangun,ila-orangun
+Nigeria,NG,Osun State,osun-state,Ile-Ife,ile-ife
+Nigeria,NG,Osun State,osun-state,Ilesa,ilesa
+Nigeria,NG,Osun State,osun-state,Ilobu,ilobu
+Nigeria,NG,Osun State,osun-state,Inisa,inisa
+Nigeria,NG,Osun State,osun-state,Iwo,iwo
+Nigeria,NG,Osun State,osun-state,Modakeke,modakeke
+Nigeria,NG,Osun State,osun-state,Oke Mesi,oke-mesi
+Nigeria,NG,Osun State,osun-state,Olupona,olupona
+Nigeria,NG,Osun State,osun-state,Osogbo,osogbo
+Nigeria,NG,Osun State,osun-state,Otan Ayegbaju,otan-ayegbaju
+Nigeria,NG,Osun State,osun-state,Oyan,oyan
+Nigeria,NG,Oyo State,oyo-state,Ago Are,ago-are
+Nigeria,NG,Oyo State,oyo-state,Alapa,alapa
+Nigeria,NG,Oyo State,oyo-state,Fiditi,fiditi
+Nigeria,NG,Oyo State,oyo-state,Ibadan,ibadan
+Nigeria,NG,Oyo State,oyo-state,Igbeti,igbeti
+Nigeria,NG,Oyo State,oyo-state,Igbo-Ora,igbo-ora
+Nigeria,NG,Oyo State,oyo-state,Igboho,igboho
+Nigeria,NG,Oyo State,oyo-state,Kisi,kisi
+Nigeria,NG,Oyo State,oyo-state,Lalupon,lalupon
+Nigeria,NG,Oyo State,oyo-state,Ogbomoso,ogbomoso
+Nigeria,NG,Oyo State,oyo-state,Okeho,okeho
+Nigeria,NG,Oyo State,oyo-state,Orita Eruwa,orita-eruwa
+Nigeria,NG,Oyo State,oyo-state,Oyo,oyo
+Nigeria,NG,Oyo State,oyo-state,Saki,saki
+Nigeria,NG,Plateau State,plateau-state,Amper,amper
+Nigeria,NG,Plateau State,plateau-state,Bukuru,bukuru
+Nigeria,NG,Plateau State,plateau-state,Dengi,dengi
+Nigeria,NG,Plateau State,plateau-state,Jos,jos
+Nigeria,NG,Plateau State,plateau-state,Kwolla,kwolla
+Nigeria,NG,Plateau State,plateau-state,Langtang,langtang
+Nigeria,NG,Plateau State,plateau-state,Pankshin,pankshin
+Nigeria,NG,Plateau State,plateau-state,Panyam,panyam
+Nigeria,NG,Plateau State,plateau-state,Vom,vom
+Nigeria,NG,Plateau State,plateau-state,Yelwa,yelwa
+Nigeria,NG,Sokoto State,sokoto-state,Binji,binji
+Nigeria,NG,Sokoto State,sokoto-state,Dange,dange
+Nigeria,NG,Sokoto State,sokoto-state,Gandi,gandi
+Nigeria,NG,Sokoto State,sokoto-state,Goronyo,goronyo
+Nigeria,NG,Sokoto State,sokoto-state,Gwadabawa,gwadabawa
+Nigeria,NG,Sokoto State,sokoto-state,Illela,illela
+Nigeria,NG,Sokoto State,sokoto-state,Rabah,rabah
+Nigeria,NG,Sokoto State,sokoto-state,Sokoto,sokoto
+Nigeria,NG,Sokoto State,sokoto-state,Tambuwal,tambuwal
+Nigeria,NG,Sokoto State,sokoto-state,Wurno,wurno
+Nigeria,NG,Taraba State,taraba-state,Baissa,baissa
+Nigeria,NG,Taraba State,taraba-state,Beli,beli
+Nigeria,NG,Taraba State,taraba-state,Gassol,gassol
+Nigeria,NG,Taraba State,taraba-state,Gembu,gembu
+Nigeria,NG,Taraba State,taraba-state,Ibi,ibi
+Nigeria,NG,Taraba State,taraba-state,Jalingo,jalingo
+Nigeria,NG,Taraba State,taraba-state,Lau,lau
+Nigeria,NG,Taraba State,taraba-state,Mutum Biyu,mutum-biyu
+Nigeria,NG,Taraba State,taraba-state,Riti,riti
+Nigeria,NG,Taraba State,taraba-state,Wukari,wukari
+Nigeria,NG,Yobe State,yobe-state,Damaturu,damaturu
+Nigeria,NG,Yobe State,yobe-state,Dankalwa,dankalwa
+Nigeria,NG,Yobe State,yobe-state,Dapchi,dapchi
+Nigeria,NG,Yobe State,yobe-state,Daura,daura
+Nigeria,NG,Yobe State,yobe-state,Fika,fika
+Nigeria,NG,Yobe State,yobe-state,Gashua,gashua
+Nigeria,NG,Yobe State,yobe-state,Geidam,geidam
+Nigeria,NG,Yobe State,yobe-state,Goniri,goniri
+Nigeria,NG,Yobe State,yobe-state,Gorgoram,gorgoram
+Nigeria,NG,Yobe State,yobe-state,Gujba,gujba
+Nigeria,NG,Yobe State,yobe-state,Gwio Kura,gwio-kura
+Nigeria,NG,Yobe State,yobe-state,Kumagunnam,kumagunnam
+Nigeria,NG,Yobe State,yobe-state,Lajere,lajere
+Nigeria,NG,Yobe State,yobe-state,Machina,machina
+Nigeria,NG,Yobe State,yobe-state,Nguru,nguru
+Nigeria,NG,Yobe State,yobe-state,Potiskum,potiskum
+Nigeria,NG,Zamfara State,zamfara-state,Anka,anka
+Nigeria,NG,Zamfara State,zamfara-state,Dan Sadau,dan-sadau
+Nigeria,NG,Zamfara State,zamfara-state,Gummi,gummi
+Nigeria,NG,Zamfara State,zamfara-state,Gusau,gusau
+Nigeria,NG,Zamfara State,zamfara-state,Kaura Namoda,kaura-namoda
+Nigeria,NG,Zamfara State,zamfara-state,Kwatarkwashi,kwatarkwashi
+Nigeria,NG,Zamfara State,zamfara-state,Maru,maru
+Nigeria,NG,Zamfara State,zamfara-state,Moriki,moriki
+Nigeria,NG,Zamfara State,zamfara-state,Sauri,sauri
+Nigeria,NG,Zamfara State,zamfara-state,Tsafe,tsafe
