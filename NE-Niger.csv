@@ -1,0 +1,71 @@
+s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Niger,NE,Agadez Region,agadez-region,Agadez,agadez
+Niger,NE,Agadez Region,agadez-region,Alaghsas,alaghsas
+Niger,NE,Agadez Region,agadez-region,Arlit,arlit
+Niger,NE,Agadez Region,agadez-region,Bilma,bilma
+Niger,NE,Agadez Region,agadez-region,Departement de Bilma,departement-de-bilma
+Niger,NE,Agadez Region,agadez-region,Departement de Tchirozerine,departement-de-tchirozerine
+Niger,NE,Diffa Region,diffa-region,Departement de Diffa,departement-de-diffa
+Niger,NE,Diffa Region,diffa-region,Departement de Maine-Soroa,departement-de-maine-soroa
+Niger,NE,Diffa Region,diffa-region,Departement de Nguigmi,departement-de-nguigmi
+Niger,NE,Diffa Region,diffa-region,Diffa,diffa
+Niger,NE,Diffa Region,diffa-region,Maine Soroa,maine-soroa
+Niger,NE,Diffa Region,diffa-region,Nguigmi,nguigmi
+Niger,NE,Dosso Region,dosso-region,Boboye Department,boboye-department
+Niger,NE,Dosso Region,dosso-region,Departement de Dogondoutchi,departement-de-dogondoutchi
+Niger,NE,Dosso Region,dosso-region,Departement de Dosso,departement-de-dosso
+Niger,NE,Dosso Region,dosso-region,Departement de Gaya,departement-de-gaya
+Niger,NE,Dosso Region,dosso-region,Departement de Loga,departement-de-loga
+Niger,NE,Dosso Region,dosso-region,Dogondoutchi,dogondoutchi
+Niger,NE,Dosso Region,dosso-region,Dosso,dosso
+Niger,NE,Dosso Region,dosso-region,Gaya,gaya
+Niger,NE,Maradi Region,maradi-region,Aguie,aguie
+Niger,NE,Maradi Region,maradi-region,Dakoro,dakoro
+Niger,NE,Maradi Region,maradi-region,Departement dAguie,departement-daguie
+Niger,NE,Maradi Region,maradi-region,Departement de Dakoro,departement-de-dakoro
+Niger,NE,Maradi Region,maradi-region,Departement de Mayahi,departement-de-mayahi
+Niger,NE,Maradi Region,maradi-region,Departement de Tessaoua,departement-de-tessaoua
+Niger,NE,Maradi Region,maradi-region,Guidan Roumdji Department,guidan-roumdji-department
+Niger,NE,Maradi Region,maradi-region,Madarounfa,madarounfa
+Niger,NE,Maradi Region,maradi-region,Maradi,maradi
+Niger,NE,Maradi Region,maradi-region,Mayahi,mayahi
+Niger,NE,Maradi Region,maradi-region,Tessaoua,tessaoua
+Niger,NE,Maradi Region,maradi-region,Tibiri,tibiri
+Niger,NE,Tahoua Region,tahoua-region,Abalak,abalak
+Niger,NE,Tahoua Region,tahoua-region,Birni N Konni,birni-n-konni
+Niger,NE,Tahoua Region,tahoua-region,Bouza,bouza
+Niger,NE,Tahoua Region,tahoua-region,Departement d' Illela,departement-d-illela
+Niger,NE,Tahoua Region,tahoua-region,Departement de Birni Nkonni,departement-de-birni-nkonni
+Niger,NE,Tahoua Region,tahoua-region,Departement de Bouza,departement-de-bouza
+Niger,NE,Tahoua Region,tahoua-region,Departement de Keita,departement-de-keita
+Niger,NE,Tahoua Region,tahoua-region,Departement de Madaoua,departement-de-madaoua
+Niger,NE,Tahoua Region,tahoua-region,Departement de Tahoua,departement-de-tahoua
+Niger,NE,Tahoua Region,tahoua-region,Departement de Tchin-Tabaraden,departement-de-tchin-tabaraden
+Niger,NE,Tahoua Region,tahoua-region,Illela,illela
+Niger,NE,Tahoua Region,tahoua-region,Keita,keita
+Niger,NE,Tahoua Region,tahoua-region,Madaoua,madaoua
+Niger,NE,Tahoua Region,tahoua-region,Tahoua,tahoua
+Niger,NE,Tahoua Region,tahoua-region,Tchintabaraden,tchintabaraden
+Niger,NE,Tillaberi Region,tillaberi-region,Ayorou,ayorou
+Niger,NE,Tillaberi Region,tillaberi-region,Balleyara,balleyara
+Niger,NE,Tillaberi Region,tillaberi-region,Departement de Filingue,departement-de-filingue
+Niger,NE,Tillaberi Region,tillaberi-region,Departement de Ouallam,departement-de-ouallam
+Niger,NE,Tillaberi Region,tillaberi-region,Departement de Say,departement-de-say
+Niger,NE,Tillaberi Region,tillaberi-region,Filingue,filingue
+Niger,NE,Tillaberi Region,tillaberi-region,Kollo,kollo
+Niger,NE,Tillaberi Region,tillaberi-region,Kollo Department,kollo-department
+Niger,NE,Tillaberi Region,tillaberi-region,Ouallam,ouallam
+Niger,NE,Tillaberi Region,tillaberi-region,Say,say
+Niger,NE,Tillaberi Region,tillaberi-region,Tera,tera
+Niger,NE,Tillaberi Region,tillaberi-region,Tera Department,tera-department
+Niger,NE,Tillaberi Region,tillaberi-region,Tillaberi,tillaberi
+Niger,NE,Tillaberi Region,tillaberi-region,Tillaberi Department,tillaberi-department
+Niger,NE,Zinder Region,zinder-region,Departement de Goure,departement-de-goure
+Niger,NE,Zinder Region,zinder-region,Departement de Kantche,departement-de-kantche
+Niger,NE,Zinder Region,zinder-region,Departement de Tanout,departement-de-tanout
+Niger,NE,Zinder Region,zinder-region,Goure,goure
+Niger,NE,Zinder Region,zinder-region,Magaria,magaria
+Niger,NE,Zinder Region,zinder-region,Matamey,matamey
+Niger,NE,Zinder Region,zinder-region,Mirriah,mirriah
+Niger,NE,Zinder Region,zinder-region,Tanout,tanout
+Niger,NE,Zinder Region,zinder-region,Zinder,zinder
