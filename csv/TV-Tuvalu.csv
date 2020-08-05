@@ -1,12 +1,12 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Tuvalu,TV,Funafuti,funafuti,Alapi Village,alapi-village
-Tuvalu,TV,Funafuti,funafuti,Fakaifou Village,fakaifou-village
-Tuvalu,TV,Funafuti,funafuti,Funafuti,funafuti
-Tuvalu,TV,Nanumanga,nanumanga,Toga Village,toga-village
-Tuvalu,TV,Nanumea,nanumea,Nanumea,nanumea
-Tuvalu,TV,Niutao Island Council,niutao-island-council,Kulia Village,kulia-village
-Tuvalu,TV,Niutao Island Council,niutao-island-council,Niulakita,niulakita
-Tuvalu,TV,Nui,nui,Tanrake Village,tanrake-village
-Tuvalu,TV,Nukufetau,nukufetau,Savave Village,savave-village
-Tuvalu,TV,Nukulaelae,nukulaelae,Nukulaelae,nukulaelae
-Tuvalu,TV,Vaitupu,vaitupu,Asau Village,asau-village
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Tuvalu,tuvalu,TV,Funafuti,funafuti,Alapi Village,alapi-village
+Tuvalu,tuvalu,TV,Funafuti,funafuti,Fakaifou Village,fakaifou-village
+Tuvalu,tuvalu,TV,Funafuti,funafuti,Funafuti,funafuti
+Tuvalu,tuvalu,TV,Nanumanga,nanumanga,Toga Village,toga-village
+Tuvalu,tuvalu,TV,Nanumea,nanumea,Nanumea,nanumea
+Tuvalu,tuvalu,TV,Niutao Island Council,niutao-island-council,Kulia Village,kulia-village
+Tuvalu,tuvalu,TV,Niutao Island Council,niutao-island-council,Niulakita,niulakita
+Tuvalu,tuvalu,TV,Nui,nui,Tanrake Village,tanrake-village
+Tuvalu,tuvalu,TV,Nukufetau,nukufetau,Savave Village,savave-village
+Tuvalu,tuvalu,TV,Nukulaelae,nukulaelae,Nukulaelae,nukulaelae
+Tuvalu,tuvalu,TV,Vaitupu,vaitupu,Asau Village,asau-village

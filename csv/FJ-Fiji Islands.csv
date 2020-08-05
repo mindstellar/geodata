@@ -1,36 +1,36 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Fiji Islands,FJ,Ba,ba,Ba,ba
-Fiji Islands,FJ,Bua,bua,Bua,bua
-Fiji Islands,FJ,Cakaudrove,cakaudrove,Cakaudrove,cakaudrove
-Fiji Islands,FJ,Central Division,central-division,Naitasiri Province,naitasiri-province
-Fiji Islands,FJ,Central Division,central-division,Namosi Province,namosi-province
-Fiji Islands,FJ,Central Division,central-division,Rewa Province,rewa-province
-Fiji Islands,FJ,Central Division,central-division,Serua Province,serua-province
-Fiji Islands,FJ,Central Division,central-division,Suva,suva
-Fiji Islands,FJ,Central Division,central-division,Tailevu Province,tailevu-province
-Fiji Islands,FJ,Eastern Division,eastern-division,Kadavu Province,kadavu-province
-Fiji Islands,FJ,Eastern Division,eastern-division,Lau Province,lau-province
-Fiji Islands,FJ,Eastern Division,eastern-division,Levuka,levuka
-Fiji Islands,FJ,Eastern Division,eastern-division,Lomaiviti Province,lomaiviti-province
-Fiji Islands,FJ,Kadavu,kadavu,Kadavu,kadavu
-Fiji Islands,FJ,Lau,lau,Lau,lau
-Fiji Islands,FJ,Lomaiviti,lomaiviti,Lomaiviti,lomaiviti
-Fiji Islands,FJ,Macuata,macuata,Macuata,macuata
-Fiji Islands,FJ,Nadroga-Navosa,nadroga-navosa,Nadroga-Navosa,nadroga-navosa
-Fiji Islands,FJ,Naitasiri,naitasiri,Naitasiri,naitasiri
-Fiji Islands,FJ,Namosi,namosi,Namosi,namosi
-Fiji Islands,FJ,Northern Division,northern-division,Bua Province,bua-province
-Fiji Islands,FJ,Northern Division,northern-division,Cakaudrove Province,cakaudrove-province
-Fiji Islands,FJ,Northern Division,northern-division,Labasa,labasa
-Fiji Islands,FJ,Northern Division,northern-division,Macuata Province,macuata-province
-Fiji Islands,FJ,Ra,ra,Ra,ra
-Fiji Islands,FJ,Rewa,rewa,Rewa,rewa
-Fiji Islands,FJ,Rotuma,rotuma,Rotuma,rotuma
-Fiji Islands,FJ,Serua,serua,Serua,serua
-Fiji Islands,FJ,Tailevu,tailevu,Tailevu,tailevu
-Fiji Islands,FJ,Western Division,western-division,Ba,ba
-Fiji Islands,FJ,Western Division,western-division,Ba Province,ba-province
-Fiji Islands,FJ,Western Division,western-division,Lautoka,lautoka
-Fiji Islands,FJ,Western Division,western-division,Nadi,nadi
-Fiji Islands,FJ,Western Division,western-division,Nandronga and Navosa Province,nandronga-and-navosa-province
-Fiji Islands,FJ,Western Division,western-division,Ra Province,ra-province
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Fiji Islands,fiji-islands,FJ,Ba,ba,Ba,ba
+Fiji Islands,fiji-islands,FJ,Bua,bua,Bua,bua
+Fiji Islands,fiji-islands,FJ,Cakaudrove,cakaudrove,Cakaudrove,cakaudrove
+Fiji Islands,fiji-islands,FJ,Central Division,central-division,Naitasiri Province,naitasiri-province
+Fiji Islands,fiji-islands,FJ,Central Division,central-division,Namosi Province,namosi-province
+Fiji Islands,fiji-islands,FJ,Central Division,central-division,Rewa Province,rewa-province
+Fiji Islands,fiji-islands,FJ,Central Division,central-division,Serua Province,serua-province
+Fiji Islands,fiji-islands,FJ,Central Division,central-division,Suva,suva
+Fiji Islands,fiji-islands,FJ,Central Division,central-division,Tailevu Province,tailevu-province
+Fiji Islands,fiji-islands,FJ,Eastern Division,eastern-division,Kadavu Province,kadavu-province
+Fiji Islands,fiji-islands,FJ,Eastern Division,eastern-division,Lau Province,lau-province
+Fiji Islands,fiji-islands,FJ,Eastern Division,eastern-division,Levuka,levuka
+Fiji Islands,fiji-islands,FJ,Eastern Division,eastern-division,Lomaiviti Province,lomaiviti-province
+Fiji Islands,fiji-islands,FJ,Kadavu,kadavu,Kadavu,kadavu
+Fiji Islands,fiji-islands,FJ,Lau,lau,Lau,lau
+Fiji Islands,fiji-islands,FJ,Lomaiviti,lomaiviti,Lomaiviti,lomaiviti
+Fiji Islands,fiji-islands,FJ,Macuata,macuata,Macuata,macuata
+Fiji Islands,fiji-islands,FJ,Nadroga-Navosa,nadroga-navosa,Nadroga-Navosa,nadroga-navosa
+Fiji Islands,fiji-islands,FJ,Naitasiri,naitasiri,Naitasiri,naitasiri
+Fiji Islands,fiji-islands,FJ,Namosi,namosi,Namosi,namosi
+Fiji Islands,fiji-islands,FJ,Northern Division,northern-division,Bua Province,bua-province
+Fiji Islands,fiji-islands,FJ,Northern Division,northern-division,Cakaudrove Province,cakaudrove-province
+Fiji Islands,fiji-islands,FJ,Northern Division,northern-division,Labasa,labasa
+Fiji Islands,fiji-islands,FJ,Northern Division,northern-division,Macuata Province,macuata-province
+Fiji Islands,fiji-islands,FJ,Ra,ra,Ra,ra
+Fiji Islands,fiji-islands,FJ,Rewa,rewa,Rewa,rewa
+Fiji Islands,fiji-islands,FJ,Rotuma,rotuma,Rotuma,rotuma
+Fiji Islands,fiji-islands,FJ,Serua,serua,Serua,serua
+Fiji Islands,fiji-islands,FJ,Tailevu,tailevu,Tailevu,tailevu
+Fiji Islands,fiji-islands,FJ,Western Division,western-division,Ba,ba
+Fiji Islands,fiji-islands,FJ,Western Division,western-division,Ba Province,ba-province
+Fiji Islands,fiji-islands,FJ,Western Division,western-division,Lautoka,lautoka
+Fiji Islands,fiji-islands,FJ,Western Division,western-division,Nadi,nadi
+Fiji Islands,fiji-islands,FJ,Western Division,western-division,Nandronga and Navosa Province,nandronga-and-navosa-province
+Fiji Islands,fiji-islands,FJ,Western Division,western-division,Ra Province,ra-province

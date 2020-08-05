@@ -1,0 +1,96 @@
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Saudi Arabia,saudi-arabia,SA,'Asir Region,asir-region,Abha,abha
+Saudi Arabia,saudi-arabia,SA,'Asir Region,asir-region,Al Majaridah,al-majaridah
+Saudi Arabia,saudi-arabia,SA,'Asir Region,asir-region,An Nimas,an-nimas
+Saudi Arabia,saudi-arabia,SA,'Asir Region,asir-region,Khamis Mushait,khamis-mushait
+Saudi Arabia,saudi-arabia,SA,'Asir Region,asir-region,Qalat Bishah,qalat-bishah
+Saudi Arabia,saudi-arabia,SA,'Asir Region,asir-region,Sabt Al Alayah,sabt-al-alayah
+Saudi Arabia,saudi-arabia,SA,'Asir Region,asir-region,Tabalah,tabalah
+Saudi Arabia,saudi-arabia,SA,Al Bahah Region,al-bahah-region,Al Bahah,al-bahah
+Saudi Arabia,saudi-arabia,SA,Al Bahah Region,al-bahah-region,Al Mindak,al-mindak
+Saudi Arabia,saudi-arabia,SA,Al Jawf Region,al-jawf-region,Qurayyat,qurayyat
+Saudi Arabia,saudi-arabia,SA,Al Jawf Region,al-jawf-region,Sakakah,sakakah
+Saudi Arabia,saudi-arabia,SA,Al Jawf Region,al-jawf-region,Suwayr,suwayr
+Saudi Arabia,saudi-arabia,SA,Al Jawf Region,al-jawf-region,Tubarjal,tubarjal
+Saudi Arabia,saudi-arabia,SA,Al Madinah Region,al-madinah-region,Al-`Ula,al-ula
+Saudi Arabia,saudi-arabia,SA,Al Madinah Region,al-madinah-region,Badr Hunayn,badr-hunayn
+Saudi Arabia,saudi-arabia,SA,Al Madinah Region,al-madinah-region,Medina,medina
+Saudi Arabia,saudi-arabia,SA,Al Madinah Region,al-madinah-region,Sultanah,sultanah
+Saudi Arabia,saudi-arabia,SA,Al Madinah Region,al-madinah-region,Yanbu,yanbu
+Saudi Arabia,saudi-arabia,SA,Al-Qassim Region,al-qassim-region,Adh Dhibiyah,adh-dhibiyah
+Saudi Arabia,saudi-arabia,SA,Al-Qassim Region,al-qassim-region,Al Bukayriyah,al-bukayriyah
+Saudi Arabia,saudi-arabia,SA,Al-Qassim Region,al-qassim-region,Al Fuwayliq,al-fuwayliq
+Saudi Arabia,saudi-arabia,SA,Al-Qassim Region,al-qassim-region,Al Mithnab,al-mithnab
+Saudi Arabia,saudi-arabia,SA,Al-Qassim Region,al-qassim-region,Ar Rass,ar-rass
+Saudi Arabia,saudi-arabia,SA,Al-Qassim Region,al-qassim-region,Buraydah,buraydah
+Saudi Arabia,saudi-arabia,SA,Al-Qassim Region,al-qassim-region,Tanumah,tanumah
+Saudi Arabia,saudi-arabia,SA,Al-Qassim Region,al-qassim-region,Wed Alnkil,wed-alnkil
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Abqaiq,abqaiq
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Awjam,al-awjam
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Battaliyah,al-battaliyah
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Hufuf,al-hufuf
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Jafr,al-jafr
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Jubayl,al-jubayl
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Khafji,al-khafji
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Markaz,al-markaz
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Mubarraz,al-mubarraz
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Munayzilah,al-munayzilah
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Mutayrifi,al-mutayrifi
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Qarah,al-qarah
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Qatif,al-qatif
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Al Qurayn,al-qurayn
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,As Saffaniyah,as-saffaniyah
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,At Taraf,at-taraf
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,At Tubi,at-tubi
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Dammam,dammam
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Dhahran,dhahran
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Hafar Al-Batin,hafar-al-batin
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Julayjilah,julayjilah
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Khobar,khobar
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Mulayjah,mulayjah
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Qaisumah,qaisumah
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Rahimah,rahimah
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Safwa,safwa
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Sayhat,sayhat
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Tarut,tarut
+Saudi Arabia,saudi-arabia,SA,Eastern Province,eastern-province,Umm as Sahik,umm-as-sahik
+Saudi Arabia,saudi-arabia,SA,Ha'il Region,hail-region,Ha'il,hail
+Saudi Arabia,saudi-arabia,SA,Jizan Region,jizan-region,Abu Arish,abu-arish
+Saudi Arabia,saudi-arabia,SA,Jizan Region,jizan-region,Ad Darb,ad-darb
+Saudi Arabia,saudi-arabia,SA,Jizan Region,jizan-region,Al Jaradiyah,al-jaradiyah
+Saudi Arabia,saudi-arabia,SA,Jizan Region,jizan-region,Farasan,farasan
+Saudi Arabia,saudi-arabia,SA,Jizan Region,jizan-region,Jizan,jizan
+Saudi Arabia,saudi-arabia,SA,Jizan Region,jizan-region,Misliyah,misliyah
+Saudi Arabia,saudi-arabia,SA,Jizan Region,jizan-region,Mizhirah,mizhirah
+Saudi Arabia,saudi-arabia,SA,Jizan Region,jizan-region,Sabya,sabya
+Saudi Arabia,saudi-arabia,SA,Jizan Region,jizan-region,Samitah,samitah
+Saudi Arabia,saudi-arabia,SA,Makkah Region,makkah-region,Al Hada,al-hada
+Saudi Arabia,saudi-arabia,SA,Makkah Region,makkah-region,Al Jumum,al-jumum
+Saudi Arabia,saudi-arabia,SA,Makkah Region,makkah-region,Al Muwayh,al-muwayh
+Saudi Arabia,saudi-arabia,SA,Makkah Region,makkah-region,Ash Shafa,ash-shafa
+Saudi Arabia,saudi-arabia,SA,Makkah Region,makkah-region,Ghran,ghran
+Saudi Arabia,saudi-arabia,SA,Makkah Region,makkah-region,Jeddah,jeddah
+Saudi Arabia,saudi-arabia,SA,Makkah Region,makkah-region,Mecca,mecca
+Saudi Arabia,saudi-arabia,SA,Makkah Region,makkah-region,Rabigh,rabigh
+Saudi Arabia,saudi-arabia,SA,Makkah Region,makkah-region,Taif,taif
+Saudi Arabia,saudi-arabia,SA,Makkah Region,makkah-region,Turabah,turabah
+Saudi Arabia,saudi-arabia,SA,Najran Region,najran-region,Najran,najran
+Saudi Arabia,saudi-arabia,SA,Northern Borders Region,northern-borders-region,Arar,arar
+Saudi Arabia,saudi-arabia,SA,Northern Borders Region,northern-borders-region,Turaif,turaif
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,Ad Dawadimi,ad-dawadimi
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,Ad Dilam,ad-dilam
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,Afif,afif
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,Ain AlBaraha,ain-albaraha
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,Al Artawiyah,al-artawiyah
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,Al Kharj,al-kharj
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,As Sulayyil,as-sulayyil
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,Az Zulfi,az-zulfi
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,Marat,marat
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,Riyadh,riyadh
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,Sajir,sajir
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,shokhaib,shokhaib
+Saudi Arabia,saudi-arabia,SA,Riyadh Region,riyadh-region,Tumayr,tumayr
+Saudi Arabia,saudi-arabia,SA,Tabuk Region,tabuk-region,Al Wajh,al-wajh
+Saudi Arabia,saudi-arabia,SA,Tabuk Region,tabuk-region,Duba,duba
+Saudi Arabia,saudi-arabia,SA,Tabuk Region,tabuk-region,Tabuk,tabuk
+Saudi Arabia,saudi-arabia,SA,Tabuk Region,tabuk-region,Umm Lajj,umm-lajj

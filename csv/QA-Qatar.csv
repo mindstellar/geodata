@@ -1,17 +1,17 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Qatar,QA,Al Daayen,al-daayen,Al Daayen,al-daayen
-Qatar,QA,Al Khor,al-khor,Al Ghuwayriyah,al-ghuwayriyah
-Qatar,QA,Al Khor,al-khor,Al Khawr,al-khawr
-Qatar,QA,Al Rayyan Municipality,al-rayyan-municipality,Ar Rayyan,ar-rayyan
-Qatar,QA,Al Rayyan Municipality,al-rayyan-municipality,Umm Bab,umm-bab
-Qatar,QA,Al Wakrah,al-wakrah,Al Wakrah,al-wakrah
-Qatar,QA,Al Wakrah,al-wakrah,Al Wukayr,al-wukayr
-Qatar,QA,Al Wakrah,al-wakrah,Musayid,musayid
-Qatar,QA,Al-Shahaniya,al-shahaniya,Al Jumayliyah,al-jumayliyah
-Qatar,QA,Al-Shahaniya,al-shahaniya,Ash Shihaniyah,ash-shihaniyah
-Qatar,QA,Al-Shahaniya,al-shahaniya,Dukhan,dukhan
-Qatar,QA,Doha,doha,Doha,doha
-Qatar,QA,Madinat ash Shamal,madinat-ash-shamal,Ar Ruways,ar-ruways
-Qatar,QA,Madinat ash Shamal,madinat-ash-shamal,Fuwayrit,fuwayrit
-Qatar,QA,Madinat ash Shamal,madinat-ash-shamal,Madinat ash Shamal,madinat-ash-shamal
-Qatar,QA,Umm Salal Municipality,umm-salal-municipality,Umm Salal Muhammad,umm-salal-muhammad
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Qatar,qatar,QA,Al Daayen,al-daayen,Al Daayen,al-daayen
+Qatar,qatar,QA,Al Khor,al-khor,Al Ghuwayriyah,al-ghuwayriyah
+Qatar,qatar,QA,Al Khor,al-khor,Al Khawr,al-khawr
+Qatar,qatar,QA,Al Rayyan Municipality,al-rayyan-municipality,Ar Rayyan,ar-rayyan
+Qatar,qatar,QA,Al Rayyan Municipality,al-rayyan-municipality,Umm Bab,umm-bab
+Qatar,qatar,QA,Al Wakrah,al-wakrah,Al Wakrah,al-wakrah
+Qatar,qatar,QA,Al Wakrah,al-wakrah,Al Wukayr,al-wukayr
+Qatar,qatar,QA,Al Wakrah,al-wakrah,Musayid,musayid
+Qatar,qatar,QA,Al-Shahaniya,al-shahaniya,Al Jumayliyah,al-jumayliyah
+Qatar,qatar,QA,Al-Shahaniya,al-shahaniya,Ash Shihaniyah,ash-shihaniyah
+Qatar,qatar,QA,Al-Shahaniya,al-shahaniya,Dukhan,dukhan
+Qatar,qatar,QA,Doha,doha,Doha,doha
+Qatar,qatar,QA,Madinat ash Shamal,madinat-ash-shamal,Ar Ruways,ar-ruways
+Qatar,qatar,QA,Madinat ash Shamal,madinat-ash-shamal,Fuwayrit,fuwayrit
+Qatar,qatar,QA,Madinat ash Shamal,madinat-ash-shamal,Madinat ash Shamal,madinat-ash-shamal
+Qatar,qatar,QA,Umm Salal Municipality,umm-salal-municipality,Umm Salal Muhammad,umm-salal-muhammad

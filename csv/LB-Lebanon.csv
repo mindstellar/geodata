@@ -1,27 +1,27 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Lebanon,LB,Akkar Governorate,akkar-governorate,Caza de Aakkar,caza-de-aakkar
-Lebanon,LB,Baalbek-Hermel Governorate,baalbek-hermel-governorate,Baalbek,baalbek
-Lebanon,LB,Baalbek-Hermel Governorate,baalbek-hermel-governorate,Caza de Baalbek,caza-de-baalbek
-Lebanon,LB,Beirut Governorate,beirut-governorate,Beirut,beirut
-Lebanon,LB,Beirut Governorate,beirut-governorate,Ras Bayrut,ras-bayrut
-Lebanon,LB,Beqaa Governorate,beqaa-governorate,Aanjar,aanjar
-Lebanon,LB,Beqaa Governorate,beqaa-governorate,Zahle,zahle
-Lebanon,LB,Mount Lebanon Governorate,mount-lebanon-governorate,Baabda,baabda
-Lebanon,LB,Mount Lebanon Governorate,mount-lebanon-governorate,Bhamdoun,bhamdoun
-Lebanon,LB,Mount Lebanon Governorate,mount-lebanon-governorate,Bhamdoun el Mhatta,bhamdoun-el-mhatta
-Lebanon,LB,Mount Lebanon Governorate,mount-lebanon-governorate,Caza de Baabda,caza-de-baabda
-Lebanon,LB,Mount Lebanon Governorate,mount-lebanon-governorate,Jbail,jbail
-Lebanon,LB,Mount Lebanon Governorate,mount-lebanon-governorate,Jounieh,jounieh
-Lebanon,LB,Nabatieh Governorate,nabatieh-governorate,Ain Ebel,ain-ebel
-Lebanon,LB,Nabatieh Governorate,nabatieh-governorate,Caza de Bent Jbail,caza-de-bent-jbail
-Lebanon,LB,Nabatieh Governorate,nabatieh-governorate,Caza de Nabatiye,caza-de-nabatiye
-Lebanon,LB,Nabatieh Governorate,nabatieh-governorate,Habbouch,habbouch
-Lebanon,LB,Nabatieh Governorate,nabatieh-governorate,Marjayoun,marjayoun
-Lebanon,LB,Nabatieh Governorate,nabatieh-governorate,Nabatiye et Tahta,nabatiye-et-tahta
-Lebanon,LB,North Governorate,north-governorate,Batroun,batroun
-Lebanon,LB,North Governorate,north-governorate,Bcharre,bcharre
-Lebanon,LB,North Governorate,north-governorate,Tripoli,tripoli
-Lebanon,LB,South Governorate,south-governorate,En Naqoura,en-naqoura
-Lebanon,LB,South Governorate,south-governorate,Ghazieh,ghazieh
-Lebanon,LB,South Governorate,south-governorate,Sidon,sidon
-Lebanon,LB,South Governorate,south-governorate,Tyre,tyre
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Lebanon,lebanon,LB,Akkar Governorate,akkar-governorate,Caza de Aakkar,caza-de-aakkar
+Lebanon,lebanon,LB,Baalbek-Hermel Governorate,baalbek-hermel-governorate,Baalbek,baalbek
+Lebanon,lebanon,LB,Baalbek-Hermel Governorate,baalbek-hermel-governorate,Caza de Baalbek,caza-de-baalbek
+Lebanon,lebanon,LB,Beirut Governorate,beirut-governorate,Beirut,beirut
+Lebanon,lebanon,LB,Beirut Governorate,beirut-governorate,Ras Bayrut,ras-bayrut
+Lebanon,lebanon,LB,Beqaa Governorate,beqaa-governorate,Aanjar,aanjar
+Lebanon,lebanon,LB,Beqaa Governorate,beqaa-governorate,Zahle,zahle
+Lebanon,lebanon,LB,Mount Lebanon Governorate,mount-lebanon-governorate,Baabda,baabda
+Lebanon,lebanon,LB,Mount Lebanon Governorate,mount-lebanon-governorate,Bhamdoun,bhamdoun
+Lebanon,lebanon,LB,Mount Lebanon Governorate,mount-lebanon-governorate,Bhamdoun el Mhatta,bhamdoun-el-mhatta
+Lebanon,lebanon,LB,Mount Lebanon Governorate,mount-lebanon-governorate,Caza de Baabda,caza-de-baabda
+Lebanon,lebanon,LB,Mount Lebanon Governorate,mount-lebanon-governorate,Jbail,jbail
+Lebanon,lebanon,LB,Mount Lebanon Governorate,mount-lebanon-governorate,Jounieh,jounieh
+Lebanon,lebanon,LB,Nabatieh Governorate,nabatieh-governorate,Ain Ebel,ain-ebel
+Lebanon,lebanon,LB,Nabatieh Governorate,nabatieh-governorate,Caza de Bent Jbail,caza-de-bent-jbail
+Lebanon,lebanon,LB,Nabatieh Governorate,nabatieh-governorate,Caza de Nabatiye,caza-de-nabatiye
+Lebanon,lebanon,LB,Nabatieh Governorate,nabatieh-governorate,Habbouch,habbouch
+Lebanon,lebanon,LB,Nabatieh Governorate,nabatieh-governorate,Marjayoun,marjayoun
+Lebanon,lebanon,LB,Nabatieh Governorate,nabatieh-governorate,Nabatiye et Tahta,nabatiye-et-tahta
+Lebanon,lebanon,LB,North Governorate,north-governorate,Batroun,batroun
+Lebanon,lebanon,LB,North Governorate,north-governorate,Bcharre,bcharre
+Lebanon,lebanon,LB,North Governorate,north-governorate,Tripoli,tripoli
+Lebanon,lebanon,LB,South Governorate,south-governorate,En Naqoura,en-naqoura
+Lebanon,lebanon,LB,South Governorate,south-governorate,Ghazieh,ghazieh
+Lebanon,lebanon,LB,South Governorate,south-governorate,Sidon,sidon
+Lebanon,lebanon,LB,South Governorate,south-governorate,Tyre,tyre

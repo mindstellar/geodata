@@ -1,13 +1,13 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Rwanda,RW,Eastern Province,eastern-province,Kibungo,kibungo
-Rwanda,RW,Eastern Province,eastern-province,Rwamagana,rwamagana
-Rwanda,RW,Kigali district,kigali-district,Kigali,kigali
-Rwanda,RW,Northern Province,northern-province,Byumba,byumba
-Rwanda,RW,Northern Province,northern-province,Musanze,musanze
-Rwanda,RW,Southern Province,southern-province,Butare,butare
-Rwanda,RW,Southern Province,southern-province,"Eglise Catholique, Centrale GIKO",eglise-catholique-centrale-giko
-Rwanda,RW,Southern Province,southern-province,Gitarama,gitarama
-Rwanda,RW,Southern Province,southern-province,Nzega,nzega
-Rwanda,RW,Western Province,western-province,Cyangugu,cyangugu
-Rwanda,RW,Western Province,western-province,Gisenyi,gisenyi
-Rwanda,RW,Western Province,western-province,Kibuye,kibuye
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Rwanda,rwanda,RW,Eastern Province,eastern-province,Kibungo,kibungo
+Rwanda,rwanda,RW,Eastern Province,eastern-province,Rwamagana,rwamagana
+Rwanda,rwanda,RW,Kigali district,kigali-district,Kigali,kigali
+Rwanda,rwanda,RW,Northern Province,northern-province,Byumba,byumba
+Rwanda,rwanda,RW,Northern Province,northern-province,Musanze,musanze
+Rwanda,rwanda,RW,Southern Province,southern-province,Butare,butare
+Rwanda,rwanda,RW,Southern Province,southern-province,"Eglise Catholique, Centrale GIKO",eglise-catholique-centrale-giko
+Rwanda,rwanda,RW,Southern Province,southern-province,Gitarama,gitarama
+Rwanda,rwanda,RW,Southern Province,southern-province,Nzega,nzega
+Rwanda,rwanda,RW,Western Province,western-province,Cyangugu,cyangugu
+Rwanda,rwanda,RW,Western Province,western-province,Gisenyi,gisenyi
+Rwanda,rwanda,RW,Western Province,western-province,Kibuye,kibuye

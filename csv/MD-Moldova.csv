@@ -1,73 +1,73 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Moldova,MD,Anenii Noi District,anenii-noi-district,Anenii Noi,anenii-noi
-Moldova,MD,Anenii Noi District,anenii-noi-district,Varnita,varnita
-Moldova,MD,Balti Municipality,balti-municipality,Balti,balti
-Moldova,MD,Basarabeasca District,basarabeasca-district,Basarabeasca,basarabeasca
-Moldova,MD,Bender Municipality,bender-municipality,Bender,bender
-Moldova,MD,Briceni District,briceni-district,Briceni,briceni
-Moldova,MD,Cahul District,cahul-district,Cahul,cahul
-Moldova,MD,Cahul District,cahul-district,Giurgiulesti,giurgiulesti
-Moldova,MD,Calarasi District,calarasi-district,Calarasi,calarasi
-Moldova,MD,Cantemir District,cantemir-district,Cantemir,cantemir
-Moldova,MD,Cantemir District,cantemir-district,Iargara,iargara
-Moldova,MD,Cantemir District,cantemir-district,Visniovca,visniovca
-Moldova,MD,Causeni District,causeni-district,Causeni,causeni
-Moldova,MD,Causeni District,causeni-district,Chitcani,chitcani
-Moldova,MD,Chisinau Municipality,chisinau-municipality,Chisinau,chisinau
-Moldova,MD,Chisinau Municipality,chisinau-municipality,Ciorescu,ciorescu
-Moldova,MD,Chisinau Municipality,chisinau-municipality,Cricova,cricova
-Moldova,MD,Chisinau Municipality,chisinau-municipality,Singera,singera
-Moldova,MD,Chisinau Municipality,chisinau-municipality,Stauceni,stauceni
-Moldova,MD,Chisinau Municipality,chisinau-municipality,Vadul lui Voda,vadul-lui-voda
-Moldova,MD,Chisinau Municipality,chisinau-municipality,Vatra,vatra
-Moldova,MD,Cimislia District,cimislia-district,Cimislia,cimislia
-Moldova,MD,Criuleni District,criuleni-district,Criuleni,criuleni
-Moldova,MD,Donduseni District,donduseni-district,Briceni,briceni
-Moldova,MD,Donduseni District,donduseni-district,Donduseni,donduseni
-Moldova,MD,Drochia District,drochia-district,Drochia,drochia
-Moldova,MD,Dubasari District,dubasari-district,Cocieri,cocieri
-Moldova,MD,Dubasari District,dubasari-district,Ustia,ustia
-Moldova,MD,Edinet District,edinet-district,Edinet,edinet
-Moldova,MD,Falesti District,falesti-district,Falesti,falesti
-Moldova,MD,Floresti District,floresti-district,Floresti,floresti
-Moldova,MD,Floresti District,floresti-district,Ghindesti,ghindesti
-Moldova,MD,Floresti District,floresti-district,Marculesti,marculesti
-Moldova,MD,Gagauzia,gagauzia,Bugeac,bugeac
-Moldova,MD,Gagauzia,gagauzia,Ceadir-Lunga,ceadir-lunga
-Moldova,MD,Gagauzia,gagauzia,Comrat,comrat
-Moldova,MD,Gagauzia,gagauzia,Vulcanesti,vulcanesti
-Moldova,MD,Glodeni District,glodeni-district,Glodeni,glodeni
-Moldova,MD,Hincesti District,hincesti-district,Dancu,dancu
-Moldova,MD,Hincesti District,hincesti-district,Hincesti,hincesti
-Moldova,MD,Ialoveni District,ialoveni-district,Ialoveni,ialoveni
-Moldova,MD,Nisporeni District,nisporeni-district,Nisporeni,nisporeni
-Moldova,MD,Ocnita District,ocnita-district,Ocnita,ocnita
-Moldova,MD,Ocnita District,ocnita-district,Otaci,otaci
-Moldova,MD,Orhei District,orhei-district,Orhei,orhei
-Moldova,MD,Rezina District,rezina-district,Rezina,rezina
-Moldova,MD,Rezina District,rezina-district,Saharna,saharna
-Moldova,MD,Riscani District,riscani-district,Riscani,riscani
-Moldova,MD,Singerei District,singerei-district,Bilicenii Vechi,bilicenii-vechi
-Moldova,MD,Singerei District,singerei-district,Biruinta,biruinta
-Moldova,MD,Singerei District,singerei-district,Singerei,singerei
-Moldova,MD,Soldanesti District,soldanesti-district,Soldanesti,soldanesti
-Moldova,MD,Soroca District,soroca-district,Soroca,soroca
-Moldova,MD,Stefan Voda District,stefan-voda-district,Stefan Voda,stefan-voda
-Moldova,MD,Straseni District,straseni-district,Bucovat,bucovat
-Moldova,MD,Straseni District,straseni-district,Straseni,straseni
-Moldova,MD,Taraclia District,taraclia-district,Taraclia,taraclia
-Moldova,MD,Taraclia District,taraclia-district,Tvardita,tvardita
-Moldova,MD,Telenesti District,telenesti-district,Mindresti,mindresti
-Moldova,MD,Telenesti District,telenesti-district,Telenesti,telenesti
-Moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Camenca,camenca
-Moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Crasnoe,crasnoe
-Moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Dnestrovsc,dnestrovsc
-Moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Dubasari,dubasari
-Moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Hryhoriopol,hryhoriopol
-Moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Maiac,maiac
-Moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Pervomaisc,pervomaisc
-Moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Ribnita,ribnita
-Moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Slobozia,slobozia
-Moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Tiraspol,tiraspol
-Moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Tiraspolul Nou,tiraspolul-nou
-Moldova,MD,Ungheni District,ungheni-district,Ungheni,ungheni
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Moldova,moldova,MD,Anenii Noi District,anenii-noi-district,Anenii Noi,anenii-noi
+Moldova,moldova,MD,Anenii Noi District,anenii-noi-district,Varnita,varnita
+Moldova,moldova,MD,Balti Municipality,balti-municipality,Balti,balti
+Moldova,moldova,MD,Basarabeasca District,basarabeasca-district,Basarabeasca,basarabeasca
+Moldova,moldova,MD,Bender Municipality,bender-municipality,Bender,bender
+Moldova,moldova,MD,Briceni District,briceni-district,Briceni,briceni
+Moldova,moldova,MD,Cahul District,cahul-district,Cahul,cahul
+Moldova,moldova,MD,Cahul District,cahul-district,Giurgiulesti,giurgiulesti
+Moldova,moldova,MD,Calarasi District,calarasi-district,Calarasi,calarasi
+Moldova,moldova,MD,Cantemir District,cantemir-district,Cantemir,cantemir
+Moldova,moldova,MD,Cantemir District,cantemir-district,Iargara,iargara
+Moldova,moldova,MD,Cantemir District,cantemir-district,Visniovca,visniovca
+Moldova,moldova,MD,Causeni District,causeni-district,Causeni,causeni
+Moldova,moldova,MD,Causeni District,causeni-district,Chitcani,chitcani
+Moldova,moldova,MD,Chisinau Municipality,chisinau-municipality,Chisinau,chisinau
+Moldova,moldova,MD,Chisinau Municipality,chisinau-municipality,Ciorescu,ciorescu
+Moldova,moldova,MD,Chisinau Municipality,chisinau-municipality,Cricova,cricova
+Moldova,moldova,MD,Chisinau Municipality,chisinau-municipality,Singera,singera
+Moldova,moldova,MD,Chisinau Municipality,chisinau-municipality,Stauceni,stauceni
+Moldova,moldova,MD,Chisinau Municipality,chisinau-municipality,Vadul lui Voda,vadul-lui-voda
+Moldova,moldova,MD,Chisinau Municipality,chisinau-municipality,Vatra,vatra
+Moldova,moldova,MD,Cimislia District,cimislia-district,Cimislia,cimislia
+Moldova,moldova,MD,Criuleni District,criuleni-district,Criuleni,criuleni
+Moldova,moldova,MD,Donduseni District,donduseni-district,Briceni,briceni
+Moldova,moldova,MD,Donduseni District,donduseni-district,Donduseni,donduseni
+Moldova,moldova,MD,Drochia District,drochia-district,Drochia,drochia
+Moldova,moldova,MD,Dubasari District,dubasari-district,Cocieri,cocieri
+Moldova,moldova,MD,Dubasari District,dubasari-district,Ustia,ustia
+Moldova,moldova,MD,Edinet District,edinet-district,Edinet,edinet
+Moldova,moldova,MD,Falesti District,falesti-district,Falesti,falesti
+Moldova,moldova,MD,Floresti District,floresti-district,Floresti,floresti
+Moldova,moldova,MD,Floresti District,floresti-district,Ghindesti,ghindesti
+Moldova,moldova,MD,Floresti District,floresti-district,Marculesti,marculesti
+Moldova,moldova,MD,Gagauzia,gagauzia,Bugeac,bugeac
+Moldova,moldova,MD,Gagauzia,gagauzia,Ceadir-Lunga,ceadir-lunga
+Moldova,moldova,MD,Gagauzia,gagauzia,Comrat,comrat
+Moldova,moldova,MD,Gagauzia,gagauzia,Vulcanesti,vulcanesti
+Moldova,moldova,MD,Glodeni District,glodeni-district,Glodeni,glodeni
+Moldova,moldova,MD,Hincesti District,hincesti-district,Dancu,dancu
+Moldova,moldova,MD,Hincesti District,hincesti-district,Hincesti,hincesti
+Moldova,moldova,MD,Ialoveni District,ialoveni-district,Ialoveni,ialoveni
+Moldova,moldova,MD,Nisporeni District,nisporeni-district,Nisporeni,nisporeni
+Moldova,moldova,MD,Ocnita District,ocnita-district,Ocnita,ocnita
+Moldova,moldova,MD,Ocnita District,ocnita-district,Otaci,otaci
+Moldova,moldova,MD,Orhei District,orhei-district,Orhei,orhei
+Moldova,moldova,MD,Rezina District,rezina-district,Rezina,rezina
+Moldova,moldova,MD,Rezina District,rezina-district,Saharna,saharna
+Moldova,moldova,MD,Riscani District,riscani-district,Riscani,riscani
+Moldova,moldova,MD,Singerei District,singerei-district,Bilicenii Vechi,bilicenii-vechi
+Moldova,moldova,MD,Singerei District,singerei-district,Biruinta,biruinta
+Moldova,moldova,MD,Singerei District,singerei-district,Singerei,singerei
+Moldova,moldova,MD,Soldanesti District,soldanesti-district,Soldanesti,soldanesti
+Moldova,moldova,MD,Soroca District,soroca-district,Soroca,soroca
+Moldova,moldova,MD,Stefan Voda District,stefan-voda-district,Stefan Voda,stefan-voda
+Moldova,moldova,MD,Straseni District,straseni-district,Bucovat,bucovat
+Moldova,moldova,MD,Straseni District,straseni-district,Straseni,straseni
+Moldova,moldova,MD,Taraclia District,taraclia-district,Taraclia,taraclia
+Moldova,moldova,MD,Taraclia District,taraclia-district,Tvardita,tvardita
+Moldova,moldova,MD,Telenesti District,telenesti-district,Mindresti,mindresti
+Moldova,moldova,MD,Telenesti District,telenesti-district,Telenesti,telenesti
+Moldova,moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Camenca,camenca
+Moldova,moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Crasnoe,crasnoe
+Moldova,moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Dnestrovsc,dnestrovsc
+Moldova,moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Dubasari,dubasari
+Moldova,moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Hryhoriopol,hryhoriopol
+Moldova,moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Maiac,maiac
+Moldova,moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Pervomaisc,pervomaisc
+Moldova,moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Ribnita,ribnita
+Moldova,moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Slobozia,slobozia
+Moldova,moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Tiraspol,tiraspol
+Moldova,moldova,MD,Transnistria autonomous territorial unit,transnistria-autonomous-territorial-unit,Tiraspolul Nou,tiraspolul-nou
+Moldova,moldova,MD,Ungheni District,ungheni-district,Ungheni,ungheni

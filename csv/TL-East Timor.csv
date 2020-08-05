@@ -1,51 +1,51 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-East Timor,TL,Aileu municipality,aileu-municipality,Aileu,aileu
-East Timor,TL,Aileu municipality,aileu-municipality,Lequidoe,lequidoe
-East Timor,TL,Aileu municipality,aileu-municipality,Remexio,remexio
-East Timor,TL,Ainaro Municipality,ainaro-municipality,Ainaro,ainaro
-East Timor,TL,Ainaro Municipality,ainaro-municipality,Hato-Udo,hato-udo
-East Timor,TL,Baucau Municipality,baucau-municipality,Baguia,baguia
-East Timor,TL,Baucau Municipality,baucau-municipality,Baucau,baucau
-East Timor,TL,Baucau Municipality,baucau-municipality,Baukau,baukau
-East Timor,TL,Baucau Municipality,baucau-municipality,Laga,laga
-East Timor,TL,Baucau Municipality,baucau-municipality,Quelicai,quelicai
-East Timor,TL,Baucau Municipality,baucau-municipality,Vemasse,vemasse
-East Timor,TL,Baucau Municipality,baucau-municipality,Venilale,venilale
-East Timor,TL,Bobonaro Municipality,bobonaro-municipality,Maliana,maliana
-East Timor,TL,Cova Lima Municipality,cova-lima-municipality,Fatumean,fatumean
-East Timor,TL,Cova Lima Municipality,cova-lima-municipality,Fohorem,fohorem
-East Timor,TL,Cova Lima Municipality,cova-lima-municipality,Maucatar,maucatar
-East Timor,TL,Cova Lima Municipality,cova-lima-municipality,Suai,suai
-East Timor,TL,Cova Lima Municipality,cova-lima-municipality,Tilomar,tilomar
-East Timor,TL,Dili municipality,dili-municipality,Atauro Island,atauro-island
-East Timor,TL,Dili municipality,dili-municipality,Cristo Rei,cristo-rei
-East Timor,TL,Dili municipality,dili-municipality,Dili,dili
-East Timor,TL,Dili municipality,dili-municipality,Metinaro,metinaro
-East Timor,TL,Ermera District,ermera-district,Ermera Villa,ermera-villa
-East Timor,TL,Ermera District,ermera-district,Gleno,gleno
-East Timor,TL,Ermera District,ermera-district,Hatulia,hatulia
-East Timor,TL,Ermera District,ermera-district,Letefoho,letefoho
-East Timor,TL,Ermera District,ermera-district,Railaco,railaco
-East Timor,TL,Lautem Municipality,lautem-municipality,Iliomar,iliomar
-East Timor,TL,Lautem Municipality,lautem-municipality,Lautem,lautem
-East Timor,TL,Lautem Municipality,lautem-municipality,Lospalos,lospalos
-East Timor,TL,Lautem Municipality,lautem-municipality,Luro,luro
-East Timor,TL,Lautem Municipality,lautem-municipality,Tutuala,tutuala
-East Timor,TL,Liquica Municipality,liquica-municipality,Bazartete,bazartete
-East Timor,TL,Liquica Municipality,liquica-municipality,Likisa,likisa
-East Timor,TL,Liquica Municipality,liquica-municipality,Maubara,maubara
-East Timor,TL,Manatuto District,manatuto-district,Barique,barique
-East Timor,TL,Manatuto District,manatuto-district,Laclo,laclo
-East Timor,TL,Manatuto District,manatuto-district,Laclubar,laclubar
-East Timor,TL,Manatuto District,manatuto-district,Manatuto,manatuto
-East Timor,TL,Manatuto District,manatuto-district,Manatutu,manatutu
-East Timor,TL,Manatuto District,manatuto-district,Soibada,soibada
-East Timor,TL,Manufahi Municipality,manufahi-municipality,Alas,alas
-East Timor,TL,Manufahi Municipality,manufahi-municipality,Fatuberliu,fatuberliu
-East Timor,TL,Manufahi Municipality,manufahi-municipality,Same,same
-East Timor,TL,Manufahi Municipality,manufahi-municipality,Turiscai,turiscai
-East Timor,TL,Viqueque Municipality,viqueque-municipality,Lacluta,lacluta
-East Timor,TL,Viqueque Municipality,viqueque-municipality,Ossu,ossu
-East Timor,TL,Viqueque Municipality,viqueque-municipality,Uatocarabau,uatocarabau
-East Timor,TL,Viqueque Municipality,viqueque-municipality,Uatolari,uatolari
-East Timor,TL,Viqueque Municipality,viqueque-municipality,Viqueque,viqueque
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+East Timor,east-timor,TL,Aileu municipality,aileu-municipality,Aileu,aileu
+East Timor,east-timor,TL,Aileu municipality,aileu-municipality,Lequidoe,lequidoe
+East Timor,east-timor,TL,Aileu municipality,aileu-municipality,Remexio,remexio
+East Timor,east-timor,TL,Ainaro Municipality,ainaro-municipality,Ainaro,ainaro
+East Timor,east-timor,TL,Ainaro Municipality,ainaro-municipality,Hato-Udo,hato-udo
+East Timor,east-timor,TL,Baucau Municipality,baucau-municipality,Baguia,baguia
+East Timor,east-timor,TL,Baucau Municipality,baucau-municipality,Baucau,baucau
+East Timor,east-timor,TL,Baucau Municipality,baucau-municipality,Baukau,baukau
+East Timor,east-timor,TL,Baucau Municipality,baucau-municipality,Laga,laga
+East Timor,east-timor,TL,Baucau Municipality,baucau-municipality,Quelicai,quelicai
+East Timor,east-timor,TL,Baucau Municipality,baucau-municipality,Vemasse,vemasse
+East Timor,east-timor,TL,Baucau Municipality,baucau-municipality,Venilale,venilale
+East Timor,east-timor,TL,Bobonaro Municipality,bobonaro-municipality,Maliana,maliana
+East Timor,east-timor,TL,Cova Lima Municipality,cova-lima-municipality,Fatumean,fatumean
+East Timor,east-timor,TL,Cova Lima Municipality,cova-lima-municipality,Fohorem,fohorem
+East Timor,east-timor,TL,Cova Lima Municipality,cova-lima-municipality,Maucatar,maucatar
+East Timor,east-timor,TL,Cova Lima Municipality,cova-lima-municipality,Suai,suai
+East Timor,east-timor,TL,Cova Lima Municipality,cova-lima-municipality,Tilomar,tilomar
+East Timor,east-timor,TL,Dili municipality,dili-municipality,Atauro Island,atauro-island
+East Timor,east-timor,TL,Dili municipality,dili-municipality,Cristo Rei,cristo-rei
+East Timor,east-timor,TL,Dili municipality,dili-municipality,Dili,dili
+East Timor,east-timor,TL,Dili municipality,dili-municipality,Metinaro,metinaro
+East Timor,east-timor,TL,Ermera District,ermera-district,Ermera Villa,ermera-villa
+East Timor,east-timor,TL,Ermera District,ermera-district,Gleno,gleno
+East Timor,east-timor,TL,Ermera District,ermera-district,Hatulia,hatulia
+East Timor,east-timor,TL,Ermera District,ermera-district,Letefoho,letefoho
+East Timor,east-timor,TL,Ermera District,ermera-district,Railaco,railaco
+East Timor,east-timor,TL,Lautem Municipality,lautem-municipality,Iliomar,iliomar
+East Timor,east-timor,TL,Lautem Municipality,lautem-municipality,Lautem,lautem
+East Timor,east-timor,TL,Lautem Municipality,lautem-municipality,Lospalos,lospalos
+East Timor,east-timor,TL,Lautem Municipality,lautem-municipality,Luro,luro
+East Timor,east-timor,TL,Lautem Municipality,lautem-municipality,Tutuala,tutuala
+East Timor,east-timor,TL,Liquica Municipality,liquica-municipality,Bazartete,bazartete
+East Timor,east-timor,TL,Liquica Municipality,liquica-municipality,Likisa,likisa
+East Timor,east-timor,TL,Liquica Municipality,liquica-municipality,Maubara,maubara
+East Timor,east-timor,TL,Manatuto District,manatuto-district,Barique,barique
+East Timor,east-timor,TL,Manatuto District,manatuto-district,Laclo,laclo
+East Timor,east-timor,TL,Manatuto District,manatuto-district,Laclubar,laclubar
+East Timor,east-timor,TL,Manatuto District,manatuto-district,Manatuto,manatuto
+East Timor,east-timor,TL,Manatuto District,manatuto-district,Manatutu,manatutu
+East Timor,east-timor,TL,Manatuto District,manatuto-district,Soibada,soibada
+East Timor,east-timor,TL,Manufahi Municipality,manufahi-municipality,Alas,alas
+East Timor,east-timor,TL,Manufahi Municipality,manufahi-municipality,Fatuberliu,fatuberliu
+East Timor,east-timor,TL,Manufahi Municipality,manufahi-municipality,Same,same
+East Timor,east-timor,TL,Manufahi Municipality,manufahi-municipality,Turiscai,turiscai
+East Timor,east-timor,TL,Viqueque Municipality,viqueque-municipality,Lacluta,lacluta
+East Timor,east-timor,TL,Viqueque Municipality,viqueque-municipality,Ossu,ossu
+East Timor,east-timor,TL,Viqueque Municipality,viqueque-municipality,Uatocarabau,uatocarabau
+East Timor,east-timor,TL,Viqueque Municipality,viqueque-municipality,Uatolari,uatolari
+East Timor,east-timor,TL,Viqueque Municipality,viqueque-municipality,Viqueque,viqueque

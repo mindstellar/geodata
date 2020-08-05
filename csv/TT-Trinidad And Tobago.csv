@@ -1,27 +1,27 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Trinidad And Tobago,TT,Arima,arima,Arima,arima
-Trinidad And Tobago,TT,Chaguanas,chaguanas,Chaguanas,chaguanas
-Trinidad And Tobago,TT,Chaguanas,chaguanas,Ward of Chaguanas,ward-of-chaguanas
-Trinidad And Tobago,TT,Couva-Tabaquite-Talparo Regional Corporation,couva-tabaquite-talparo-regional-corporation,Couva,couva
-Trinidad And Tobago,TT,Couva-Tabaquite-Talparo Regional Corporation,couva-tabaquite-talparo-regional-corporation,Tabaquite,tabaquite
-Trinidad And Tobago,TT,Diego Martin Regional Corporation,diego-martin-regional-corporation,Petit Valley,petit-valley
-Trinidad And Tobago,TT,Diego Martin Regional Corporation,diego-martin-regional-corporation,Ward of Diego Martin,ward-of-diego-martin
-Trinidad And Tobago,TT,Eastern Tobago,eastern-tobago,Scarborough,scarborough
-Trinidad And Tobago,TT,Penal-Debe Regional Corporation,penal-debe-regional-corporation,Debe,debe
-Trinidad And Tobago,TT,Penal-Debe Regional Corporation,penal-debe-regional-corporation,Penal,penal
-Trinidad And Tobago,TT,Point Fortin,point-fortin,Point Fortin,point-fortin
-Trinidad And Tobago,TT,Port of Spain,port-of-spain,Mucurapo,mucurapo
-Trinidad And Tobago,TT,Port of Spain,port-of-spain,Port of Spain,port-of-spain
-Trinidad And Tobago,TT,Princes Town Regional Corporation,princes-town-regional-corporation,Princes Town,princes-town
-Trinidad And Tobago,TT,Rio Claro-Mayaro Regional Corporation,rio-claro-mayaro-regional-corporation,Rio Claro-Mayaro Regional Corporation,rio-claro-mayaro-regional-corporation
-Trinidad And Tobago,TT,San Fernando,san-fernando,Marabella,marabella
-Trinidad And Tobago,TT,San Fernando,san-fernando,Mon Repos,mon-repos
-Trinidad And Tobago,TT,San Fernando,san-fernando,San Fernando,san-fernando
-Trinidad And Tobago,TT,San Juan-Laventille Regional Corporation,san-juan-laventille-regional-corporation,Laventille,laventille
-Trinidad And Tobago,TT,Sangre Grande Regional Corporation,sangre-grande-regional-corporation,Sangre Grande,sangre-grande
-Trinidad And Tobago,TT,Siparia Regional Corporation,siparia-regional-corporation,Siparia,siparia
-Trinidad And Tobago,TT,Siparia Regional Corporation,siparia-regional-corporation,Ward of Siparia,ward-of-siparia
-Trinidad And Tobago,TT,Tunapuna-Piarco Regional Corporation,tunapuna-piarco-regional-corporation,Arouca,arouca
-Trinidad And Tobago,TT,Tunapuna-Piarco Regional Corporation,tunapuna-piarco-regional-corporation,Paradise,paradise
-Trinidad And Tobago,TT,Tunapuna-Piarco Regional Corporation,tunapuna-piarco-regional-corporation,Tunapuna,tunapuna
-Trinidad And Tobago,TT,Western Tobago,western-tobago,Rio Claro,rio-claro
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Trinidad And Tobago,trinidad-and-tobago,TT,Arima,arima,Arima,arima
+Trinidad And Tobago,trinidad-and-tobago,TT,Chaguanas,chaguanas,Chaguanas,chaguanas
+Trinidad And Tobago,trinidad-and-tobago,TT,Chaguanas,chaguanas,Ward of Chaguanas,ward-of-chaguanas
+Trinidad And Tobago,trinidad-and-tobago,TT,Couva-Tabaquite-Talparo Regional Corporation,couva-tabaquite-talparo-regional-corporation,Couva,couva
+Trinidad And Tobago,trinidad-and-tobago,TT,Couva-Tabaquite-Talparo Regional Corporation,couva-tabaquite-talparo-regional-corporation,Tabaquite,tabaquite
+Trinidad And Tobago,trinidad-and-tobago,TT,Diego Martin Regional Corporation,diego-martin-regional-corporation,Petit Valley,petit-valley
+Trinidad And Tobago,trinidad-and-tobago,TT,Diego Martin Regional Corporation,diego-martin-regional-corporation,Ward of Diego Martin,ward-of-diego-martin
+Trinidad And Tobago,trinidad-and-tobago,TT,Eastern Tobago,eastern-tobago,Scarborough,scarborough
+Trinidad And Tobago,trinidad-and-tobago,TT,Penal-Debe Regional Corporation,penal-debe-regional-corporation,Debe,debe
+Trinidad And Tobago,trinidad-and-tobago,TT,Penal-Debe Regional Corporation,penal-debe-regional-corporation,Penal,penal
+Trinidad And Tobago,trinidad-and-tobago,TT,Point Fortin,point-fortin,Point Fortin,point-fortin
+Trinidad And Tobago,trinidad-and-tobago,TT,Port of Spain,port-of-spain,Mucurapo,mucurapo
+Trinidad And Tobago,trinidad-and-tobago,TT,Port of Spain,port-of-spain,Port of Spain,port-of-spain
+Trinidad And Tobago,trinidad-and-tobago,TT,Princes Town Regional Corporation,princes-town-regional-corporation,Princes Town,princes-town
+Trinidad And Tobago,trinidad-and-tobago,TT,Rio Claro-Mayaro Regional Corporation,rio-claro-mayaro-regional-corporation,Rio Claro-Mayaro Regional Corporation,rio-claro-mayaro-regional-corporation
+Trinidad And Tobago,trinidad-and-tobago,TT,San Fernando,san-fernando,Marabella,marabella
+Trinidad And Tobago,trinidad-and-tobago,TT,San Fernando,san-fernando,Mon Repos,mon-repos
+Trinidad And Tobago,trinidad-and-tobago,TT,San Fernando,san-fernando,San Fernando,san-fernando
+Trinidad And Tobago,trinidad-and-tobago,TT,San Juan-Laventille Regional Corporation,san-juan-laventille-regional-corporation,Laventille,laventille
+Trinidad And Tobago,trinidad-and-tobago,TT,Sangre Grande Regional Corporation,sangre-grande-regional-corporation,Sangre Grande,sangre-grande
+Trinidad And Tobago,trinidad-and-tobago,TT,Siparia Regional Corporation,siparia-regional-corporation,Siparia,siparia
+Trinidad And Tobago,trinidad-and-tobago,TT,Siparia Regional Corporation,siparia-regional-corporation,Ward of Siparia,ward-of-siparia
+Trinidad And Tobago,trinidad-and-tobago,TT,Tunapuna-Piarco Regional Corporation,tunapuna-piarco-regional-corporation,Arouca,arouca
+Trinidad And Tobago,trinidad-and-tobago,TT,Tunapuna-Piarco Regional Corporation,tunapuna-piarco-regional-corporation,Paradise,paradise
+Trinidad And Tobago,trinidad-and-tobago,TT,Tunapuna-Piarco Regional Corporation,tunapuna-piarco-regional-corporation,Tunapuna,tunapuna
+Trinidad And Tobago,trinidad-and-tobago,TT,Western Tobago,western-tobago,Rio Claro,rio-claro

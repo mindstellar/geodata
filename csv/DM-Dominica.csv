@@ -1,18 +1,18 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Dominica,DM,Saint Andrew Parish,saint-andrew-parish,Calibishie,calibishie
-Dominica,DM,Saint Andrew Parish,saint-andrew-parish,Marigot,marigot
-Dominica,DM,Saint Andrew Parish,saint-andrew-parish,Wesley,wesley
-Dominica,DM,Saint Andrew Parish,saint-andrew-parish,Woodford Hill,woodford-hill
-Dominica,DM,Saint David Parish,saint-david-parish,Castle Bruce,castle-bruce
-Dominica,DM,Saint David Parish,saint-david-parish,Rosalie,rosalie
-Dominica,DM,Saint George Parish,saint-george-parish,Roseau,roseau
-Dominica,DM,Saint John Parish,saint-john-parish,Portsmouth,portsmouth
-Dominica,DM,Saint Joseph Parish,saint-joseph-parish,Saint Joseph,saint-joseph
-Dominica,DM,Saint Joseph Parish,saint-joseph-parish,Salisbury,salisbury
-Dominica,DM,Saint Luke Parish,saint-luke-parish,Pointe Michel,pointe-michel
-Dominica,DM,Saint Mark Parish,saint-mark-parish,Soufriere,soufriere
-Dominica,DM,Saint Patrick Parish,saint-patrick-parish,Berekua,berekua
-Dominica,DM,Saint Patrick Parish,saint-patrick-parish,La Plaine,la-plaine
-Dominica,DM,Saint Paul Parish,saint-paul-parish,Mahaut,mahaut
-Dominica,DM,Saint Paul Parish,saint-paul-parish,Pont Casse,pont-casse
-Dominica,DM,Saint Peter Parish,saint-peter-parish,Colihaut,colihaut
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Dominica,dominica,DM,Saint Andrew Parish,saint-andrew-parish,Calibishie,calibishie
+Dominica,dominica,DM,Saint Andrew Parish,saint-andrew-parish,Marigot,marigot
+Dominica,dominica,DM,Saint Andrew Parish,saint-andrew-parish,Wesley,wesley
+Dominica,dominica,DM,Saint Andrew Parish,saint-andrew-parish,Woodford Hill,woodford-hill
+Dominica,dominica,DM,Saint David Parish,saint-david-parish,Castle Bruce,castle-bruce
+Dominica,dominica,DM,Saint David Parish,saint-david-parish,Rosalie,rosalie
+Dominica,dominica,DM,Saint George Parish,saint-george-parish,Roseau,roseau
+Dominica,dominica,DM,Saint John Parish,saint-john-parish,Portsmouth,portsmouth
+Dominica,dominica,DM,Saint Joseph Parish,saint-joseph-parish,Saint Joseph,saint-joseph
+Dominica,dominica,DM,Saint Joseph Parish,saint-joseph-parish,Salisbury,salisbury
+Dominica,dominica,DM,Saint Luke Parish,saint-luke-parish,Pointe Michel,pointe-michel
+Dominica,dominica,DM,Saint Mark Parish,saint-mark-parish,Soufriere,soufriere
+Dominica,dominica,DM,Saint Patrick Parish,saint-patrick-parish,Berekua,berekua
+Dominica,dominica,DM,Saint Patrick Parish,saint-patrick-parish,La Plaine,la-plaine
+Dominica,dominica,DM,Saint Paul Parish,saint-paul-parish,Mahaut,mahaut
+Dominica,dominica,DM,Saint Paul Parish,saint-paul-parish,Pont Casse,pont-casse
+Dominica,dominica,DM,Saint Peter Parish,saint-peter-parish,Colihaut,colihaut

@@ -1,48 +1,48 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Somalia,SO,Awdal Region,awdal-region,Awdal Region,awdal-region
-Somalia,SO,Bakool,bakool,Tayeeglow,tayeeglow
-Somalia,SO,Bakool,bakool,Waajid,waajid
-Somalia,SO,Bakool,bakool,Xuddur,xuddur
-Somalia,SO,Bakool,bakool,Yeed,yeed
-Somalia,SO,Banaadir,banaadir,Mogadishu,mogadishu
-Somalia,SO,Bari,bari,Bandarbeyla,bandarbeyla
-Somalia,SO,Bari,bari,Bargaal,bargaal
-Somalia,SO,Bari,bari,Bereeda,bereeda
-Somalia,SO,Bari,bari,Bosaso,bosaso
-Somalia,SO,Bari,bari,Caluula,caluula
-Somalia,SO,Bari,bari,Iskushuban,iskushuban
-Somalia,SO,Bari,bari,Qandala,qandala
-Somalia,SO,Bay,bay,Baidoa,baidoa
-Somalia,SO,Bay,bay,Buurhakaba,buurhakaba
-Somalia,SO,Galguduud,galguduud,Ceelbuur,ceelbuur
-Somalia,SO,Galguduud,galguduud,Ceeldheer,ceeldheer
-Somalia,SO,Galguduud,galguduud,Dhuusamarreeb,dhuusamarreeb
-Somalia,SO,Gedo,gedo,Baardheere,baardheere
-Somalia,SO,Gedo,gedo,Garbahaarrey,garbahaarrey
-Somalia,SO,Gedo,gedo,Luuq,luuq
-Somalia,SO,Hiran,hiran,Beledweyne,beledweyne
-Somalia,SO,Hiran,hiran,Buulobarde,buulobarde
-Somalia,SO,Hiran,hiran,Jalalaqsi,jalalaqsi
-Somalia,SO,Lower Juba,lower-juba,Buur Gaabo,buur-gaabo
-Somalia,SO,Lower Juba,lower-juba,Jamaame,jamaame
-Somalia,SO,Lower Juba,lower-juba,Kismayo,kismayo
-Somalia,SO,Lower Shebelle,lower-shebelle,Afgooye,afgooye
-Somalia,SO,Lower Shebelle,lower-shebelle,Marka,marka
-Somalia,SO,Lower Shebelle,lower-shebelle,Qoryooley,qoryooley
-Somalia,SO,Lower Shebelle,lower-shebelle,Wanlaweyn,wanlaweyn
-Somalia,SO,Middle Juba,middle-juba,Dujuuma,dujuuma
-Somalia,SO,Middle Juba,middle-juba,Jilib,jilib
-Somalia,SO,Middle Juba,middle-juba,Saacow,saacow
-Somalia,SO,Middle Shebelle,middle-shebelle,Cadale,cadale
-Somalia,SO,Middle Shebelle,middle-shebelle,Jawhar,jawhar
-Somalia,SO,Middle Shebelle,middle-shebelle,Mahaddayweyne,mahaddayweyne
-Somalia,SO,Mudug,mudug,Gaalkacyo,gaalkacyo
-Somalia,SO,Mudug,mudug,Hobyo,hobyo
-Somalia,SO,Mudug,mudug,Xarardheere,xarardheere
-Somalia,SO,Nugal,nugal,Eyl,eyl
-Somalia,SO,Nugal,nugal,Garoowe,garoowe
-Somalia,SO,Sanaag Region,sanaag-region,Ceerigaabo,ceerigaabo
-Somalia,SO,Sanaag Region,sanaag-region,Las Khorey,las-khorey
-Somalia,SO,Togdheer Region,togdheer-region,Burao,burao
-Somalia,SO,Togdheer Region,togdheer-region,Ceek,ceek
-Somalia,SO,Togdheer Region,togdheer-region,Oodweyne,oodweyne
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Somalia,somalia,SO,Awdal Region,awdal-region,Awdal Region,awdal-region
+Somalia,somalia,SO,Bakool,bakool,Tayeeglow,tayeeglow
+Somalia,somalia,SO,Bakool,bakool,Waajid,waajid
+Somalia,somalia,SO,Bakool,bakool,Xuddur,xuddur
+Somalia,somalia,SO,Bakool,bakool,Yeed,yeed
+Somalia,somalia,SO,Banaadir,banaadir,Mogadishu,mogadishu
+Somalia,somalia,SO,Bari,bari,Bandarbeyla,bandarbeyla
+Somalia,somalia,SO,Bari,bari,Bargaal,bargaal
+Somalia,somalia,SO,Bari,bari,Bereeda,bereeda
+Somalia,somalia,SO,Bari,bari,Bosaso,bosaso
+Somalia,somalia,SO,Bari,bari,Caluula,caluula
+Somalia,somalia,SO,Bari,bari,Iskushuban,iskushuban
+Somalia,somalia,SO,Bari,bari,Qandala,qandala
+Somalia,somalia,SO,Bay,bay,Baidoa,baidoa
+Somalia,somalia,SO,Bay,bay,Buurhakaba,buurhakaba
+Somalia,somalia,SO,Galguduud,galguduud,Ceelbuur,ceelbuur
+Somalia,somalia,SO,Galguduud,galguduud,Ceeldheer,ceeldheer
+Somalia,somalia,SO,Galguduud,galguduud,Dhuusamarreeb,dhuusamarreeb
+Somalia,somalia,SO,Gedo,gedo,Baardheere,baardheere
+Somalia,somalia,SO,Gedo,gedo,Garbahaarrey,garbahaarrey
+Somalia,somalia,SO,Gedo,gedo,Luuq,luuq
+Somalia,somalia,SO,Hiran,hiran,Beledweyne,beledweyne
+Somalia,somalia,SO,Hiran,hiran,Buulobarde,buulobarde
+Somalia,somalia,SO,Hiran,hiran,Jalalaqsi,jalalaqsi
+Somalia,somalia,SO,Lower Juba,lower-juba,Buur Gaabo,buur-gaabo
+Somalia,somalia,SO,Lower Juba,lower-juba,Jamaame,jamaame
+Somalia,somalia,SO,Lower Juba,lower-juba,Kismayo,kismayo
+Somalia,somalia,SO,Lower Shebelle,lower-shebelle,Afgooye,afgooye
+Somalia,somalia,SO,Lower Shebelle,lower-shebelle,Marka,marka
+Somalia,somalia,SO,Lower Shebelle,lower-shebelle,Qoryooley,qoryooley
+Somalia,somalia,SO,Lower Shebelle,lower-shebelle,Wanlaweyn,wanlaweyn
+Somalia,somalia,SO,Middle Juba,middle-juba,Dujuuma,dujuuma
+Somalia,somalia,SO,Middle Juba,middle-juba,Jilib,jilib
+Somalia,somalia,SO,Middle Juba,middle-juba,Saacow,saacow
+Somalia,somalia,SO,Middle Shebelle,middle-shebelle,Cadale,cadale
+Somalia,somalia,SO,Middle Shebelle,middle-shebelle,Jawhar,jawhar
+Somalia,somalia,SO,Middle Shebelle,middle-shebelle,Mahaddayweyne,mahaddayweyne
+Somalia,somalia,SO,Mudug,mudug,Gaalkacyo,gaalkacyo
+Somalia,somalia,SO,Mudug,mudug,Hobyo,hobyo
+Somalia,somalia,SO,Mudug,mudug,Xarardheere,xarardheere
+Somalia,somalia,SO,Nugal,nugal,Eyl,eyl
+Somalia,somalia,SO,Nugal,nugal,Garoowe,garoowe
+Somalia,somalia,SO,Sanaag Region,sanaag-region,Ceerigaabo,ceerigaabo
+Somalia,somalia,SO,Sanaag Region,sanaag-region,Las Khorey,las-khorey
+Somalia,somalia,SO,Togdheer Region,togdheer-region,Burao,burao
+Somalia,somalia,SO,Togdheer Region,togdheer-region,Ceek,ceek
+Somalia,somalia,SO,Togdheer Region,togdheer-region,Oodweyne,oodweyne

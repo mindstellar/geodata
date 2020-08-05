@@ -1,546 +1,546 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Honduras,HN,Atlantida Department,atlantida-department,Arizona,arizona
-Honduras,HN,Atlantida Department,atlantida-department,Atenas de San Cristobal,atenas-de-san-cristobal
-Honduras,HN,Atlantida Department,atlantida-department,Corozal,corozal
-Honduras,HN,Atlantida Department,atlantida-department,El Pino,el-pino
-Honduras,HN,Atlantida Department,atlantida-department,El Porvenir,el-porvenir
-Honduras,HN,Atlantida Department,atlantida-department,El Triunfo de la Cruz,el-triunfo-de-la-cruz
-Honduras,HN,Atlantida Department,atlantida-department,Esparta,esparta
-Honduras,HN,Atlantida Department,atlantida-department,Jutiapa,jutiapa
-Honduras,HN,Atlantida Department,atlantida-department,La Ceiba,la-ceiba
-Honduras,HN,Atlantida Department,atlantida-department,La Masica,la-masica
-Honduras,HN,Atlantida Department,atlantida-department,La Union,la-union
-Honduras,HN,Atlantida Department,atlantida-department,Mezapa,mezapa
-Honduras,HN,Atlantida Department,atlantida-department,Nueva Armenia,nueva-armenia
-Honduras,HN,Atlantida Department,atlantida-department,Sambo Creek,sambo-creek
-Honduras,HN,Atlantida Department,atlantida-department,San Antonio,san-antonio
-Honduras,HN,Atlantida Department,atlantida-department,San Francisco,san-francisco
-Honduras,HN,Atlantida Department,atlantida-department,San Juan Pueblo,san-juan-pueblo
-Honduras,HN,Atlantida Department,atlantida-department,Santa Ana,santa-ana
-Honduras,HN,Atlantida Department,atlantida-department,Tela,tela
-Honduras,HN,Atlantida Department,atlantida-department,Tornabe,tornabe
-Honduras,HN,Bay Islands Department,bay-islands-department,Coxen Hole,coxen-hole
-Honduras,HN,Bay Islands Department,bay-islands-department,French Harbor,french-harbor
-Honduras,HN,Bay Islands Department,bay-islands-department,Guanaja,guanaja
-Honduras,HN,Bay Islands Department,bay-islands-department,Jose Santos Guardiola,jose-santos-guardiola
-Honduras,HN,Bay Islands Department,bay-islands-department,Roatan,roatan
-Honduras,HN,Bay Islands Department,bay-islands-department,Sandy Bay,sandy-bay
-Honduras,HN,Bay Islands Department,bay-islands-department,Savannah Bight,savannah-bight
-Honduras,HN,Bay Islands Department,bay-islands-department,Utila,utila
-Honduras,HN,Choluteca Department,choluteca-department,Apacilagua,apacilagua
-Honduras,HN,Choluteca Department,choluteca-department,Choluteca,choluteca
-Honduras,HN,Choluteca Department,choluteca-department,Ciudad Choluteca,ciudad-choluteca
-Honduras,HN,Choluteca Department,choluteca-department,Concepcion de Maria,concepcion-de-maria
-Honduras,HN,Choluteca Department,choluteca-department,Corpus,corpus
-Honduras,HN,Choluteca Department,choluteca-department,Duyure,duyure
-Honduras,HN,Choluteca Department,choluteca-department,El Corpus,el-corpus
-Honduras,HN,Choluteca Department,choluteca-department,El Obraje,el-obraje
-Honduras,HN,Choluteca Department,choluteca-department,El Puente,el-puente
-Honduras,HN,Choluteca Department,choluteca-department,El Triunfo,el-triunfo
-Honduras,HN,Choluteca Department,choluteca-department,Los Llanitos,los-llanitos
-Honduras,HN,Choluteca Department,choluteca-department,Marcovia,marcovia
-Honduras,HN,Choluteca Department,choluteca-department,Monjaras,monjaras
-Honduras,HN,Choluteca Department,choluteca-department,Morolica,morolica
-Honduras,HN,Choluteca Department,choluteca-department,Namasigue,namasigue
-Honduras,HN,Choluteca Department,choluteca-department,Orocuina,orocuina
-Honduras,HN,Choluteca Department,choluteca-department,Pespire,pespire
-Honduras,HN,Choluteca Department,choluteca-department,San Antonio de Flores,san-antonio-de-flores
-Honduras,HN,Choluteca Department,choluteca-department,San Isidro,san-isidro
-Honduras,HN,Choluteca Department,choluteca-department,San Jeronimo,san-jeronimo
-Honduras,HN,Choluteca Department,choluteca-department,San Jose,san-jose
-Honduras,HN,Choluteca Department,choluteca-department,San Jose de Las Conchas,san-jose-de-las-conchas
-Honduras,HN,Choluteca Department,choluteca-department,San Marcos de Colon,san-marcos-de-colon
-Honduras,HN,Choluteca Department,choluteca-department,Santa Ana de Yusguare,santa-ana-de-yusguare
-Honduras,HN,Choluteca Department,choluteca-department,Santa Cruz,santa-cruz
-Honduras,HN,Colon Department,colon-department,Balfate,balfate
-Honduras,HN,Colon Department,colon-department,Bonito Oriental,bonito-oriental
-Honduras,HN,Colon Department,colon-department,Corocito,corocito
-Honduras,HN,Colon Department,colon-department,Cusuna,cusuna
-Honduras,HN,Colon Department,colon-department,Elixir,elixir
-Honduras,HN,Colon Department,colon-department,Francia,francia
-Honduras,HN,Colon Department,colon-department,Iriona,iriona
-Honduras,HN,Colon Department,colon-department,Jerico,jerico
-Honduras,HN,Colon Department,colon-department,La Brea,la-brea
-Honduras,HN,Colon Department,colon-department,La Esperanza,la-esperanza
-Honduras,HN,Colon Department,colon-department,Limon,limon
-Honduras,HN,Colon Department,colon-department,Municipio de Saba,municipio-de-saba
-Honduras,HN,Colon Department,colon-department,Prieta,prieta
-Honduras,HN,Colon Department,colon-department,Puerto Castilla,puerto-castilla
-Honduras,HN,Colon Department,colon-department,Punta Piedra,punta-piedra
-Honduras,HN,Colon Department,colon-department,Quebrada de Arena,quebrada-de-arena
-Honduras,HN,Colon Department,colon-department,Rio Esteban,rio-esteban
-Honduras,HN,Colon Department,colon-department,Saba,saba
-Honduras,HN,Colon Department,colon-department,Salama,salama
-Honduras,HN,Colon Department,colon-department,Santa Fe,santa-fe
-Honduras,HN,Colon Department,colon-department,Santa Rosa de Aguan,santa-rosa-de-aguan
-Honduras,HN,Colon Department,colon-department,Sonaguera,sonaguera
-Honduras,HN,Colon Department,colon-department,Taujica,taujica
-Honduras,HN,Colon Department,colon-department,Tocoa,tocoa
-Honduras,HN,Colon Department,colon-department,Trujillo,trujillo
-Honduras,HN,Colon Department,colon-department,Zamora,zamora
-Honduras,HN,Comayagua Department,comayagua-department,Aguas del Padre,aguas-del-padre
-Honduras,HN,Comayagua Department,comayagua-department,Ajuterique,ajuterique
-Honduras,HN,Comayagua Department,comayagua-department,Cerro Blanco,cerro-blanco
-Honduras,HN,Comayagua Department,comayagua-department,Comayagua,comayagua
-Honduras,HN,Comayagua Department,comayagua-department,Concepcion de Guasistagua,concepcion-de-guasistagua
-Honduras,HN,Comayagua Department,comayagua-department,El Agua Dulcita,el-agua-dulcita
-Honduras,HN,Comayagua Department,comayagua-department,El Porvenir,el-porvenir
-Honduras,HN,Comayagua Department,comayagua-department,El Rancho,el-rancho
-Honduras,HN,Comayagua Department,comayagua-department,El Rincon,el-rincon
-Honduras,HN,Comayagua Department,comayagua-department,El Rosario,el-rosario
-Honduras,HN,Comayagua Department,comayagua-department,El Sauce,el-sauce
-Honduras,HN,Comayagua Department,comayagua-department,El Socorro,el-socorro
-Honduras,HN,Comayagua Department,comayagua-department,Esquias,esquias
-Honduras,HN,Comayagua Department,comayagua-department,Flores,flores
-Honduras,HN,Comayagua Department,comayagua-department,Humuya,humuya
-Honduras,HN,Comayagua Department,comayagua-department,Jamalteca,jamalteca
-Honduras,HN,Comayagua Department,comayagua-department,La Libertad,la-libertad
-Honduras,HN,Comayagua Department,comayagua-department,La Trinidad,la-trinidad
-Honduras,HN,Comayagua Department,comayagua-department,Lamani,lamani
-Honduras,HN,Comayagua Department,comayagua-department,Las Lajas,las-lajas
-Honduras,HN,Comayagua Department,comayagua-department,Lejamani,lejamani
-Honduras,HN,Comayagua Department,comayagua-department,Meambar,meambar
-Honduras,HN,Comayagua Department,comayagua-department,Minas de Oro,minas-de-oro
-Honduras,HN,Comayagua Department,comayagua-department,Ojos de Agua,ojos-de-agua
-Honduras,HN,Comayagua Department,comayagua-department,Potrerillos,potrerillos
-Honduras,HN,Comayagua Department,comayagua-department,Rio Bonito,rio-bonito
-Honduras,HN,Comayagua Department,comayagua-department,San Antonio de la Cuesta,san-antonio-de-la-cuesta
-Honduras,HN,Comayagua Department,comayagua-department,San Jeronimo,san-jeronimo
-Honduras,HN,Comayagua Department,comayagua-department,San Jose de Comayagua,san-jose-de-comayagua
-Honduras,HN,Comayagua Department,comayagua-department,San Jose del Potrero,san-jose-del-potrero
-Honduras,HN,Comayagua Department,comayagua-department,San Luis,san-luis
-Honduras,HN,Comayagua Department,comayagua-department,San Sebastian,san-sebastian
-Honduras,HN,Comayagua Department,comayagua-department,Siguatepeque,siguatepeque
-Honduras,HN,Comayagua Department,comayagua-department,Taulabe,taulabe
-Honduras,HN,Comayagua Department,comayagua-department,Valle de Angeles,valle-de-angeles
-Honduras,HN,Comayagua Department,comayagua-department,Villa de San Antonio,villa-de-san-antonio
-Honduras,HN,Copan Department,copan-department,Agua Caliente,agua-caliente
-Honduras,HN,Copan Department,copan-department,Buenos Aires,buenos-aires
-Honduras,HN,Copan Department,copan-department,Cabanas,cabanas
-Honduras,HN,Copan Department,copan-department,Chalmeca,chalmeca
-Honduras,HN,Copan Department,copan-department,Concepcion,concepcion
-Honduras,HN,Copan Department,copan-department,Concepcion de la Barranca,concepcion-de-la-barranca
-Honduras,HN,Copan Department,copan-department,Copan,copan
-Honduras,HN,Copan Department,copan-department,Copan Ruinas,copan-ruinas
-Honduras,HN,Copan Department,copan-department,Corquin,corquin
-Honduras,HN,Copan Department,copan-department,Cucuyagua,cucuyagua
-Honduras,HN,Copan Department,copan-department,Dolores,dolores
-Honduras,HN,Copan Department,copan-department,Dulce Nombre,dulce-nombre
-Honduras,HN,Copan Department,copan-department,El Corpus,el-corpus
-Honduras,HN,Copan Department,copan-department,El Ocoton,el-ocoton
-Honduras,HN,Copan Department,copan-department,El Paraiso,el-paraiso
-Honduras,HN,Copan Department,copan-department,Florida,florida
-Honduras,HN,Copan Department,copan-department,La Entrada,la-entrada
-Honduras,HN,Copan Department,copan-department,La Jigua,la-jigua
-Honduras,HN,Copan Department,copan-department,La Playona,la-playona
-Honduras,HN,Copan Department,copan-department,La Union,la-union
-Honduras,HN,Copan Department,copan-department,La Zumbadora,la-zumbadora
-Honduras,HN,Copan Department,copan-department,Los Tangos,los-tangos
-Honduras,HN,Copan Department,copan-department,Nueva Arcadia,nueva-arcadia
-Honduras,HN,Copan Department,copan-department,Ojos de Agua,ojos-de-agua
-Honduras,HN,Copan Department,copan-department,Pueblo Nuevo,pueblo-nuevo
-Honduras,HN,Copan Department,copan-department,Quezailica,quezailica
-Honduras,HN,Copan Department,copan-department,San Agustin,san-agustin
-Honduras,HN,Copan Department,copan-department,San Antonio,san-antonio
-Honduras,HN,Copan Department,copan-department,San Jeronimo,san-jeronimo
-Honduras,HN,Copan Department,copan-department,San Joaquin,san-joaquin
-Honduras,HN,Copan Department,copan-department,San Jose,san-jose
-Honduras,HN,Copan Department,copan-department,San Jose de Copan,san-jose-de-copan
-Honduras,HN,Copan Department,copan-department,San Juan de Opoa,san-juan-de-opoa
-Honduras,HN,Copan Department,copan-department,San Juan de Planes,san-juan-de-planes
-Honduras,HN,Copan Department,copan-department,San Nicolas,san-nicolas
-Honduras,HN,Copan Department,copan-department,San Pedro de Copan,san-pedro-de-copan
-Honduras,HN,Copan Department,copan-department,Santa Rita,santa-rita
-Honduras,HN,Copan Department,copan-department,"Santa Rita, Copan",santa-rita-copan
-Honduras,HN,Copan Department,copan-department,Santa Rosa de Copan,santa-rosa-de-copan
-Honduras,HN,Copan Department,copan-department,Trinidad de Copan,trinidad-de-copan
-Honduras,HN,Copan Department,copan-department,Veracruz,veracruz
-Honduras,HN,Cortes Department,cortes-department,Agua Azul,agua-azul
-Honduras,HN,Cortes Department,cortes-department,Agua Azul Rancho,agua-azul-rancho
-Honduras,HN,Cortes Department,cortes-department,Armenta,armenta
-Honduras,HN,Cortes Department,cortes-department,Baja Mar,baja-mar
-Honduras,HN,Cortes Department,cortes-department,Baracoa,baracoa
-Honduras,HN,Cortes Department,cortes-department,Bejuco,bejuco
-Honduras,HN,Cortes Department,cortes-department,Canaveral,canaveral
-Honduras,HN,Cortes Department,cortes-department,Casa Quemada,casa-quemada
-Honduras,HN,Cortes Department,cortes-department,Chivana,chivana
-Honduras,HN,Cortes Department,cortes-department,Choloma,choloma
-Honduras,HN,Cortes Department,cortes-department,Chotepe,chotepe
-Honduras,HN,Cortes Department,cortes-department,Cofradia,cofradia
-Honduras,HN,Cortes Department,cortes-department,Cuyamel,cuyamel
-Honduras,HN,Cortes Department,cortes-department,El Llano,el-llano
-Honduras,HN,Cortes Department,cortes-department,El Maranon,el-maranon
-Honduras,HN,Cortes Department,cortes-department,El Milagro,el-milagro
-Honduras,HN,Cortes Department,cortes-department,El Olivar,el-olivar
-Honduras,HN,Cortes Department,cortes-department,El Perico,el-perico
-Honduras,HN,Cortes Department,cortes-department,El Plan,el-plan
-Honduras,HN,Cortes Department,cortes-department,El Porvenir,el-porvenir
-Honduras,HN,Cortes Department,cortes-department,El Rancho,el-rancho
-Honduras,HN,Cortes Department,cortes-department,El Tigre,el-tigre
-Honduras,HN,Cortes Department,cortes-department,El Zapotal del Norte,el-zapotal-del-norte
-Honduras,HN,Cortes Department,cortes-department,La Guama,la-guama
-Honduras,HN,Cortes Department,cortes-department,La Huesa,la-huesa
-Honduras,HN,Cortes Department,cortes-department,La Jutosa,la-jutosa
-Honduras,HN,Cortes Department,cortes-department,La Lima,la-lima
-Honduras,HN,Cortes Department,cortes-department,La Sabana,la-sabana
-Honduras,HN,Cortes Department,cortes-department,Los Caminos,los-caminos
-Honduras,HN,Cortes Department,cortes-department,Los Naranjos,los-naranjos
-Honduras,HN,Cortes Department,cortes-department,Monterrey,monterrey
-Honduras,HN,Cortes Department,cortes-department,Nuevo Chamelecon,nuevo-chamelecon
-Honduras,HN,Cortes Department,cortes-department,Omoa,omoa
-Honduras,HN,Cortes Department,cortes-department,Oropendolas,oropendolas
-Honduras,HN,Cortes Department,cortes-department,Pena Blanca,pena-blanca
-Honduras,HN,Cortes Department,cortes-department,Pimienta,pimienta
-Honduras,HN,Cortes Department,cortes-department,Pimienta Vieja,pimienta-vieja
-Honduras,HN,Cortes Department,cortes-department,Potrerillos,potrerillos
-Honduras,HN,Cortes Department,cortes-department,Pueblo Nuevo,pueblo-nuevo
-Honduras,HN,Cortes Department,cortes-department,Puerto Alto,puerto-alto
-Honduras,HN,Cortes Department,cortes-department,Puerto Cortes,puerto-cortes
-Honduras,HN,Cortes Department,cortes-department,Puerto Cortez,puerto-cortez
-Honduras,HN,Cortes Department,cortes-department,Quebrada Seca,quebrada-seca
-Honduras,HN,Cortes Department,cortes-department,Rio Blanquito,rio-blanquito
-Honduras,HN,Cortes Department,cortes-department,Rio Chiquito,rio-chiquito
-Honduras,HN,Cortes Department,cortes-department,Rio Lindo,rio-lindo
-Honduras,HN,Cortes Department,cortes-department,San Antonio de Cortes,san-antonio-de-cortes
-Honduras,HN,Cortes Department,cortes-department,San Buenaventura,san-buenaventura
-Honduras,HN,Cortes Department,cortes-department,San Francisco de Yojoa,san-francisco-de-yojoa
-Honduras,HN,Cortes Department,cortes-department,San Jose del Boqueron,san-jose-del-boqueron
-Honduras,HN,Cortes Department,cortes-department,San Manuel,san-manuel
-Honduras,HN,Cortes Department,cortes-department,San Pedro Sula,san-pedro-sula
-Honduras,HN,Cortes Department,cortes-department,Santa Cruz de Yojoa,santa-cruz-de-yojoa
-Honduras,HN,Cortes Department,cortes-department,Santa Elena,santa-elena
-Honduras,HN,Cortes Department,cortes-department,Travesia,travesia
-Honduras,HN,Cortes Department,cortes-department,Villanueva,villanueva
-Honduras,HN,El Paraiso Department,el-paraiso-department,Alauca,alauca
-Honduras,HN,El Paraiso Department,el-paraiso-department,Arauli,arauli
-Honduras,HN,El Paraiso Department,el-paraiso-department,Cuyali,cuyali
-Honduras,HN,El Paraiso Department,el-paraiso-department,Danli,danli
-Honduras,HN,El Paraiso Department,el-paraiso-department,El Benque,el-benque
-Honduras,HN,El Paraiso Department,el-paraiso-department,El Chichicaste,el-chichicaste
-Honduras,HN,El Paraiso Department,el-paraiso-department,El Obraje,el-obraje
-Honduras,HN,El Paraiso Department,el-paraiso-department,El Paraiso,el-paraiso
-Honduras,HN,El Paraiso Department,el-paraiso-department,Guinope,guinope
-Honduras,HN,El Paraiso Department,el-paraiso-department,Jacaleapa,jacaleapa
-Honduras,HN,El Paraiso Department,el-paraiso-department,Jutiapa,jutiapa
-Honduras,HN,El Paraiso Department,el-paraiso-department,Las Animas,las-animas
-Honduras,HN,El Paraiso Department,el-paraiso-department,Las Trojes,las-trojes
-Honduras,HN,El Paraiso Department,el-paraiso-department,Liure,liure
-Honduras,HN,El Paraiso Department,el-paraiso-department,Moroceli,moroceli
-Honduras,HN,El Paraiso Department,el-paraiso-department,Municipio de Texiguat,municipio-de-texiguat
-Honduras,HN,El Paraiso Department,el-paraiso-department,Ojo de Agua,ojo-de-agua
-Honduras,HN,El Paraiso Department,el-paraiso-department,Oropoli,oropoli
-Honduras,HN,El Paraiso Department,el-paraiso-department,Potrerillos,potrerillos
-Honduras,HN,El Paraiso Department,el-paraiso-department,Quebrada Larga,quebrada-larga
-Honduras,HN,El Paraiso Department,el-paraiso-department,San Antonio de Flores,san-antonio-de-flores
-Honduras,HN,El Paraiso Department,el-paraiso-department,San Diego,san-diego
-Honduras,HN,El Paraiso Department,el-paraiso-department,San Lucas,san-lucas
-Honduras,HN,El Paraiso Department,el-paraiso-department,San Matias,san-matias
-Honduras,HN,El Paraiso Department,el-paraiso-department,Santa Cruz,santa-cruz
-Honduras,HN,El Paraiso Department,el-paraiso-department,Soledad,soledad
-Honduras,HN,El Paraiso Department,el-paraiso-department,Teupasenti,teupasenti
-Honduras,HN,El Paraiso Department,el-paraiso-department,Texiguat,texiguat
-Honduras,HN,El Paraiso Department,el-paraiso-department,Trojes,trojes
-Honduras,HN,El Paraiso Department,el-paraiso-department,Vado Ancho,vado-ancho
-Honduras,HN,El Paraiso Department,el-paraiso-department,Yauyupe,yauyupe
-Honduras,HN,El Paraiso Department,el-paraiso-department,Yuscaran,yuscaran
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Agalteca,agalteca
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Alubaren,alubaren
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Cedros,cedros
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Cerro Grande,cerro-grande
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Cofradia,cofradia
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Curaren,curaren
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Distrito Central,distrito-central
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Chimbo,el-chimbo
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Escanito,el-escanito
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Escano de Tepale,el-escano-de-tepale
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Guante,el-guante
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Guantillo,el-guantillo
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Guapinol,el-guapinol
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Lolo,el-lolo
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Pedernal,el-pedernal
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Porvenir,el-porvenir
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Suyatal,el-suyatal
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Tablon,el-tablon
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Terrero,el-terrero
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Guaimaca,guaimaca
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,La Ermita,la-ermita
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,La Libertad,la-libertad
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,La Venta,la-venta
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Lepaterique,lepaterique
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Maraita,maraita
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Marale,marale
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Mata de Platano,mata-de-platano
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Mateo,mateo
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Nueva Armenia,nueva-armenia
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Ojojona,ojojona
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Orica,orica
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Quebradas,quebradas
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Reitoca,reitoca
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Rio Abajo,rio-abajo
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Sabanagrande,sabanagrande
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,San Antonio de Oriente,san-antonio-de-oriente
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,San Buenaventura,san-buenaventura
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,San Ignacio,san-ignacio
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,San Juan de Flores,san-juan-de-flores
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,San Miguelito,san-miguelito
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Santa Ana,santa-ana
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Santa Lucia,santa-lucia
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Talanga,talanga
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Tamara,tamara
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Tatumbla,tatumbla
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Tegucigalpa,tegucigalpa
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Valle de Angeles,valle-de-angeles
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Vallecillo,vallecillo
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Villa de San Francisco,villa-de-san-francisco
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Villa Nueva,villa-nueva
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Yaguacire,yaguacire
-Honduras,HN,Francisco Morazan Department,francisco-morazan-department,Zambrano,zambrano
-Honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Ahuas,ahuas
-Honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Auas,auas
-Honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Auka,auka
-Honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Barra Patuca,barra-patuca
-Honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Brus Laguna,brus-laguna
-Honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Iralaya,iralaya
-Honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Juan Francisco Bulnes,juan-francisco-bulnes
-Honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Paptalaya,paptalaya
-Honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Puerto Lempira,puerto-lempira
-Honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Villeda Morales,villeda-morales
-Honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Wampusirpi,wampusirpi
-Honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Wawina,wawina
-Honduras,HN,Intibuca Department,intibuca-department,Camasca,camasca
-Honduras,HN,Intibuca Department,intibuca-department,Colomoncagua,colomoncagua
-Honduras,HN,Intibuca Department,intibuca-department,Concepcion,concepcion
-Honduras,HN,Intibuca Department,intibuca-department,Dolores,dolores
-Honduras,HN,Intibuca Department,intibuca-department,Intibuca,intibuca
-Honduras,HN,Intibuca Department,intibuca-department,Jesus de Otoro,jesus-de-otoro
-Honduras,HN,Intibuca Department,intibuca-department,Jiquinlaca,jiquinlaca
-Honduras,HN,Intibuca Department,intibuca-department,La Esperanza,la-esperanza
-Honduras,HN,Intibuca Department,intibuca-department,Magdalena,magdalena
-Honduras,HN,Intibuca Department,intibuca-department,Masaguara,masaguara
-Honduras,HN,Intibuca Department,intibuca-department,San Antonio,san-antonio
-Honduras,HN,Intibuca Department,intibuca-department,San Francisco de Opalaca,san-francisco-de-opalaca
-Honduras,HN,Intibuca Department,intibuca-department,San Isidro,san-isidro
-Honduras,HN,Intibuca Department,intibuca-department,San Juan,san-juan
-Honduras,HN,Intibuca Department,intibuca-department,San Marcos de la Sierra,san-marcos-de-la-sierra
-Honduras,HN,Intibuca Department,intibuca-department,San Miguelito,san-miguelito
-Honduras,HN,Intibuca Department,intibuca-department,Santa Lucia,santa-lucia
-Honduras,HN,Intibuca Department,intibuca-department,Yamaranguila,yamaranguila
-Honduras,HN,La Paz Department,la-paz-department,Aguanqueterique,aguanqueterique
-Honduras,HN,La Paz Department,la-paz-department,Cabanas,cabanas
-Honduras,HN,La Paz Department,la-paz-department,Cane,cane
-Honduras,HN,La Paz Department,la-paz-department,Chinacla,chinacla
-Honduras,HN,La Paz Department,la-paz-department,Guajiquiro,guajiquiro
-Honduras,HN,La Paz Department,la-paz-department,La Paz,la-paz
-Honduras,HN,La Paz Department,la-paz-department,Lauterique,lauterique
-Honduras,HN,La Paz Department,la-paz-department,Los Planes,los-planes
-Honduras,HN,La Paz Department,la-paz-department,Marcala,marcala
-Honduras,HN,La Paz Department,la-paz-department,Mercedes de Oriente,mercedes-de-oriente
-Honduras,HN,La Paz Department,la-paz-department,Opatoro,opatoro
-Honduras,HN,La Paz Department,la-paz-department,San Antonio del Norte,san-antonio-del-norte
-Honduras,HN,La Paz Department,la-paz-department,San Jose,san-jose
-Honduras,HN,La Paz Department,la-paz-department,San Juan,san-juan
-Honduras,HN,La Paz Department,la-paz-department,San Pedro de Tutule,san-pedro-de-tutule
-Honduras,HN,La Paz Department,la-paz-department,Santa Ana,santa-ana
-Honduras,HN,La Paz Department,la-paz-department,Santa Elena,santa-elena
-Honduras,HN,La Paz Department,la-paz-department,Santa Maria,santa-maria
-Honduras,HN,La Paz Department,la-paz-department,Santiago Puringla,santiago-puringla
-Honduras,HN,La Paz Department,la-paz-department,Tepanguare,tepanguare
-Honduras,HN,La Paz Department,la-paz-department,Yarula,yarula
-Honduras,HN,La Paz Department,la-paz-department,Yarumela,yarumela
-Honduras,HN,Lempira Department,lempira-department,Belen,belen
-Honduras,HN,Lempira Department,lempira-department,Candelaria,candelaria
-Honduras,HN,Lempira Department,lempira-department,Cololaca,cololaca
-Honduras,HN,Lempira Department,lempira-department,El Achiotal,el-achiotal
-Honduras,HN,Lempira Department,lempira-department,Erandique,erandique
-Honduras,HN,Lempira Department,lempira-department,Gracias,gracias
-Honduras,HN,Lempira Department,lempira-department,Gualcince,gualcince
-Honduras,HN,Lempira Department,lempira-department,Guarita,guarita
-Honduras,HN,Lempira Department,lempira-department,La Campa,la-campa
-Honduras,HN,Lempira Department,lempira-department,La Iguala,la-iguala
-Honduras,HN,Lempira Department,lempira-department,La Libertad,la-libertad
-Honduras,HN,Lempira Department,lempira-department,La Union,la-union
-Honduras,HN,Lempira Department,lempira-department,La Virtud,la-virtud
-Honduras,HN,Lempira Department,lempira-department,Las Flores,las-flores
-Honduras,HN,Lempira Department,lempira-department,Las Tejeras,las-tejeras
-Honduras,HN,Lempira Department,lempira-department,Lepaera,lepaera
-Honduras,HN,Lempira Department,lempira-department,Mapulaca,mapulaca
-Honduras,HN,Lempira Department,lempira-department,Piraera,piraera
-Honduras,HN,Lempira Department,lempira-department,San Andres,san-andres
-Honduras,HN,Lempira Department,lempira-department,San Francisco,san-francisco
-Honduras,HN,Lempira Department,lempira-department,San Juan Guarita,san-juan-guarita
-Honduras,HN,Lempira Department,lempira-department,San Manuel Colohete,san-manuel-colohete
-Honduras,HN,Lempira Department,lempira-department,San Marcos de Caiquin,san-marcos-de-caiquin
-Honduras,HN,Lempira Department,lempira-department,San Rafael,san-rafael
-Honduras,HN,Lempira Department,lempira-department,San Sebastian,san-sebastian
-Honduras,HN,Lempira Department,lempira-department,Santa Cruz,santa-cruz
-Honduras,HN,Lempira Department,lempira-department,Talgua,talgua
-Honduras,HN,Lempira Department,lempira-department,Tambla,tambla
-Honduras,HN,Lempira Department,lempira-department,Taragual,taragual
-Honduras,HN,Lempira Department,lempira-department,Tomala,tomala
-Honduras,HN,Lempira Department,lempira-department,Valladolid,valladolid
-Honduras,HN,Lempira Department,lempira-department,Virginia,virginia
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Antigua Ocotepeque,antigua-ocotepeque
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Belen Gualcho,belen-gualcho
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Concepcion,concepcion
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Dolores Merendon,dolores-merendon
-Honduras,HN,Ocotepeque Department,ocotepeque-department,El Transito,el-transito
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Fraternidad,fraternidad
-Honduras,HN,Ocotepeque Department,ocotepeque-department,La Encarnacion,la-encarnacion
-Honduras,HN,Ocotepeque Department,ocotepeque-department,La Labor,la-labor
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Lucerna,lucerna
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Mercedes,mercedes
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Nueva Ocotepeque,nueva-ocotepeque
-Honduras,HN,Ocotepeque Department,ocotepeque-department,San Fernando,san-fernando
-Honduras,HN,Ocotepeque Department,ocotepeque-department,San Francisco de Cones,san-francisco-de-cones
-Honduras,HN,Ocotepeque Department,ocotepeque-department,San Francisco del Valle,san-francisco-del-valle
-Honduras,HN,Ocotepeque Department,ocotepeque-department,San Jorge,san-jorge
-Honduras,HN,Ocotepeque Department,ocotepeque-department,San Marcos,san-marcos
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Santa Fe,santa-fe
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Santa Lucia,santa-lucia
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Sensenti,sensenti
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Sinuapa,sinuapa
-Honduras,HN,Ocotepeque Department,ocotepeque-department,Yaruchel,yaruchel
-Honduras,HN,Olancho Department,olancho-department,Arimis,arimis
-Honduras,HN,Olancho Department,olancho-department,Campamento,campamento
-Honduras,HN,Olancho Department,olancho-department,Catacamas,catacamas
-Honduras,HN,Olancho Department,olancho-department,Concordia,concordia
-Honduras,HN,Olancho Department,olancho-department,Dulce Nombre de Culmi,dulce-nombre-de-culmi
-Honduras,HN,Olancho Department,olancho-department,El Guayabito,el-guayabito
-Honduras,HN,Olancho Department,olancho-department,El Rosario,el-rosario
-Honduras,HN,Olancho Department,olancho-department,El Rusio,el-rusio
-Honduras,HN,Olancho Department,olancho-department,Esquipulas del Norte,esquipulas-del-norte
-Honduras,HN,Olancho Department,olancho-department,Gualaco,gualaco
-Honduras,HN,Olancho Department,olancho-department,Guarizama,guarizama
-Honduras,HN,Olancho Department,olancho-department,Guata,guata
-Honduras,HN,Olancho Department,olancho-department,Guayape,guayape
-Honduras,HN,Olancho Department,olancho-department,Jano,jano
-Honduras,HN,Olancho Department,olancho-department,Juticalpa,juticalpa
-Honduras,HN,Olancho Department,olancho-department,Jutiquile,jutiquile
-Honduras,HN,Olancho Department,olancho-department,La Concepcion,la-concepcion
-Honduras,HN,Olancho Department,olancho-department,La Estancia,la-estancia
-Honduras,HN,Olancho Department,olancho-department,La Guata,la-guata
-Honduras,HN,Olancho Department,olancho-department,La Union,la-union
-Honduras,HN,Olancho Department,olancho-department,Laguna Seca,laguna-seca
-Honduras,HN,Olancho Department,olancho-department,Mangulile,mangulile
-Honduras,HN,Olancho Department,olancho-department,Manto,manto
-Honduras,HN,Olancho Department,olancho-department,Municipio de San Francisco de La Paz,municipio-de-san-francisco-de-la-paz
-Honduras,HN,Olancho Department,olancho-department,Patuca,patuca
-Honduras,HN,Olancho Department,olancho-department,Punuare,punuare
-Honduras,HN,Olancho Department,olancho-department,Salama,salama
-Honduras,HN,Olancho Department,olancho-department,San Esteban,san-esteban
-Honduras,HN,Olancho Department,olancho-department,San Francisco de Becerra,san-francisco-de-becerra
-Honduras,HN,Olancho Department,olancho-department,San Francisco de la Paz,san-francisco-de-la-paz
-Honduras,HN,Olancho Department,olancho-department,San Jose de Rio Tinto,san-jose-de-rio-tinto
-Honduras,HN,Olancho Department,olancho-department,San Nicolas,san-nicolas
-Honduras,HN,Olancho Department,olancho-department,Santa Maria del Real,santa-maria-del-real
-Honduras,HN,Olancho Department,olancho-department,Silca,silca
-Honduras,HN,Olancho Department,olancho-department,Yocon,yocon
-Honduras,HN,Olancho Department,olancho-department,Zopilotepe,zopilotepe
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Agualote,agualote
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Arada,arada
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Atima,atima
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Azacualpa,azacualpa
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Berlin,berlin
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Callejones,callejones
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Camalote,camalote
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Casa Quemada,casa-quemada
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Ceguaca,ceguaca
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Chinda,chinda
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Concepcion del Norte,concepcion-del-norte
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Concepcion del Sur,concepcion-del-sur
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Correderos,correderos
-Honduras,HN,Santa Barbara Department,santa-barbara-department,El Ciruelo,el-ciruelo
-Honduras,HN,Santa Barbara Department,santa-barbara-department,El Corozal,el-corozal
-Honduras,HN,Santa Barbara Department,santa-barbara-department,El Mochito,el-mochito
-Honduras,HN,Santa Barbara Department,santa-barbara-department,El Nispero,el-nispero
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Guacamaya,guacamaya
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Gualala,gualala
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Gualjoco,gualjoco
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Ilama,ilama
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Joconal,joconal
-Honduras,HN,Santa Barbara Department,santa-barbara-department,La Flecha,la-flecha
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Laguna Verde,laguna-verde
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Las Vegas,las-vegas
-Honduras,HN,Santa Barbara Department,santa-barbara-department,"Las Vegas, Santa Barbara",las-vegas-santa-barbara
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Loma Alta,loma-alta
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Macuelizo,macuelizo
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Naco,naco
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Naranjito,naranjito
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Nueva Frontera,nueva-frontera
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Nueva Jalapa,nueva-jalapa
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Nuevo Celilac,nuevo-celilac
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Petoa,petoa
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Pinalejo,pinalejo
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Proteccion,proteccion
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Quimistan,quimistan
-Honduras,HN,Santa Barbara Department,santa-barbara-department,San Francisco de Ojuera,san-francisco-de-ojuera
-Honduras,HN,Santa Barbara Department,santa-barbara-department,San Jose de Colinas,san-jose-de-colinas
-Honduras,HN,Santa Barbara Department,santa-barbara-department,San Jose de Tarros,san-jose-de-tarros
-Honduras,HN,Santa Barbara Department,santa-barbara-department,San Luis,san-luis
-Honduras,HN,Santa Barbara Department,santa-barbara-department,San Luis de Planes,san-luis-de-planes
-Honduras,HN,Santa Barbara Department,santa-barbara-department,San Marcos,san-marcos
-Honduras,HN,Santa Barbara Department,santa-barbara-department,San Nicolas,san-nicolas
-Honduras,HN,Santa Barbara Department,santa-barbara-department,San Pedro Zacapa,san-pedro-zacapa
-Honduras,HN,Santa Barbara Department,santa-barbara-department,San Vicente Centenario,san-vicente-centenario
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Santa Barbara,santa-barbara
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Santa Rita,santa-rita
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Sula,sula
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Tras Cerros,tras-cerros
-Honduras,HN,Santa Barbara Department,santa-barbara-department,Trinidad,trinidad
-Honduras,HN,Valle Department,valle-department,Agua Fria,agua-fria
-Honduras,HN,Valle Department,valle-department,Alianza,alianza
-Honduras,HN,Valle Department,valle-department,Amapala,amapala
-Honduras,HN,Valle Department,valle-department,Aramecina,aramecina
-Honduras,HN,Valle Department,valle-department,Caridad,caridad
-Honduras,HN,Valle Department,valle-department,El Cubolero,el-cubolero
-Honduras,HN,Valle Department,valle-department,El Tular,el-tular
-Honduras,HN,Valle Department,valle-department,Goascoran,goascoran
-Honduras,HN,Valle Department,valle-department,Jicaro Galan,jicaro-galan
-Honduras,HN,Valle Department,valle-department,La Alianza,la-alianza
-Honduras,HN,Valle Department,valle-department,La Criba,la-criba
-Honduras,HN,Valle Department,valle-department,Langue,langue
-Honduras,HN,Valle Department,valle-department,Nacaome,nacaome
-Honduras,HN,Valle Department,valle-department,San Francisco de Coray,san-francisco-de-coray
-Honduras,HN,Valle Department,valle-department,San Lorenzo,san-lorenzo
-Honduras,HN,Yoro Department,yoro-department,Agua Blanca Sur,agua-blanca-sur
-Honduras,HN,Yoro Department,yoro-department,Arenal,arenal
-Honduras,HN,Yoro Department,yoro-department,Armenia,armenia
-Honduras,HN,Yoro Department,yoro-department,Ayapa,ayapa
-Honduras,HN,Yoro Department,yoro-department,Balsamo Oriental,balsamo-oriental
-Honduras,HN,Yoro Department,yoro-department,Carbajales,carbajales
-Honduras,HN,Yoro Department,yoro-department,Coyoles Central,coyoles-central
-Honduras,HN,Yoro Department,yoro-department,El Balsamo,el-balsamo
-Honduras,HN,Yoro Department,yoro-department,El Juncal,el-juncal
-Honduras,HN,Yoro Department,yoro-department,El Negrito,el-negrito
-Honduras,HN,Yoro Department,yoro-department,El Ocote,el-ocote
-Honduras,HN,Yoro Department,yoro-department,El Progreso,el-progreso
-Honduras,HN,Yoro Department,yoro-department,Guaimitas,guaimitas
-Honduras,HN,Yoro Department,yoro-department,Jocon,jocon
-Honduras,HN,Yoro Department,yoro-department,La Estancia,la-estancia
-Honduras,HN,Yoro Department,yoro-department,La Guacamaya,la-guacamaya
-Honduras,HN,Yoro Department,yoro-department,La Mina,la-mina
-Honduras,HN,Yoro Department,yoro-department,La Rosa,la-rosa
-Honduras,HN,Yoro Department,yoro-department,La Sarrosa,la-sarrosa
-Honduras,HN,Yoro Department,yoro-department,La Trinidad,la-trinidad
-Honduras,HN,Yoro Department,yoro-department,Las Vegas,las-vegas
-Honduras,HN,Yoro Department,yoro-department,Lomitas,lomitas
-Honduras,HN,Yoro Department,yoro-department,Mojiman,mojiman
-Honduras,HN,Yoro Department,yoro-department,Morazan,morazan
-Honduras,HN,Yoro Department,yoro-department,Nombre de Jesus,nombre-de-jesus
-Honduras,HN,Yoro Department,yoro-department,Nueva Esperanza,nueva-esperanza
-Honduras,HN,Yoro Department,yoro-department,Ocote Paulino,ocote-paulino
-Honduras,HN,Yoro Department,yoro-department,Olanchito,olanchito
-Honduras,HN,Yoro Department,yoro-department,Paujiles,paujiles
-Honduras,HN,Yoro Department,yoro-department,Punta Ocote,punta-ocote
-Honduras,HN,Yoro Department,yoro-department,San Antonio,san-antonio
-Honduras,HN,Yoro Department,yoro-department,San Jose,san-jose
-Honduras,HN,Yoro Department,yoro-department,Santa Rita,santa-rita
-Honduras,HN,Yoro Department,yoro-department,Subirana,subirana
-Honduras,HN,Yoro Department,yoro-department,Sulaco,sulaco
-Honduras,HN,Yoro Department,yoro-department,Teguajinal,teguajinal
-Honduras,HN,Yoro Department,yoro-department,Tepusteca,tepusteca
-Honduras,HN,Yoro Department,yoro-department,Toyos,toyos
-Honduras,HN,Yoro Department,yoro-department,Trojas,trojas
-Honduras,HN,Yoro Department,yoro-department,Victoria,victoria
-Honduras,HN,Yoro Department,yoro-department,Yorito,yorito
-Honduras,HN,Yoro Department,yoro-department,Yoro,yoro
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Honduras,honduras,HN,Atlantida Department,atlantida-department,Arizona,arizona
+Honduras,honduras,HN,Atlantida Department,atlantida-department,Atenas de San Cristobal,atenas-de-san-cristobal
+Honduras,honduras,HN,Atlantida Department,atlantida-department,Corozal,corozal
+Honduras,honduras,HN,Atlantida Department,atlantida-department,El Pino,el-pino
+Honduras,honduras,HN,Atlantida Department,atlantida-department,El Porvenir,el-porvenir
+Honduras,honduras,HN,Atlantida Department,atlantida-department,El Triunfo de la Cruz,el-triunfo-de-la-cruz
+Honduras,honduras,HN,Atlantida Department,atlantida-department,Esparta,esparta
+Honduras,honduras,HN,Atlantida Department,atlantida-department,Jutiapa,jutiapa
+Honduras,honduras,HN,Atlantida Department,atlantida-department,La Ceiba,la-ceiba
+Honduras,honduras,HN,Atlantida Department,atlantida-department,La Masica,la-masica
+Honduras,honduras,HN,Atlantida Department,atlantida-department,La Union,la-union
+Honduras,honduras,HN,Atlantida Department,atlantida-department,Mezapa,mezapa
+Honduras,honduras,HN,Atlantida Department,atlantida-department,Nueva Armenia,nueva-armenia
+Honduras,honduras,HN,Atlantida Department,atlantida-department,Sambo Creek,sambo-creek
+Honduras,honduras,HN,Atlantida Department,atlantida-department,San Antonio,san-antonio
+Honduras,honduras,HN,Atlantida Department,atlantida-department,San Francisco,san-francisco
+Honduras,honduras,HN,Atlantida Department,atlantida-department,San Juan Pueblo,san-juan-pueblo
+Honduras,honduras,HN,Atlantida Department,atlantida-department,Santa Ana,santa-ana
+Honduras,honduras,HN,Atlantida Department,atlantida-department,Tela,tela
+Honduras,honduras,HN,Atlantida Department,atlantida-department,Tornabe,tornabe
+Honduras,honduras,HN,Bay Islands Department,bay-islands-department,Coxen Hole,coxen-hole
+Honduras,honduras,HN,Bay Islands Department,bay-islands-department,French Harbor,french-harbor
+Honduras,honduras,HN,Bay Islands Department,bay-islands-department,Guanaja,guanaja
+Honduras,honduras,HN,Bay Islands Department,bay-islands-department,Jose Santos Guardiola,jose-santos-guardiola
+Honduras,honduras,HN,Bay Islands Department,bay-islands-department,Roatan,roatan
+Honduras,honduras,HN,Bay Islands Department,bay-islands-department,Sandy Bay,sandy-bay
+Honduras,honduras,HN,Bay Islands Department,bay-islands-department,Savannah Bight,savannah-bight
+Honduras,honduras,HN,Bay Islands Department,bay-islands-department,Utila,utila
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Apacilagua,apacilagua
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Choluteca,choluteca
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Ciudad Choluteca,ciudad-choluteca
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Concepcion de Maria,concepcion-de-maria
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Corpus,corpus
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Duyure,duyure
+Honduras,honduras,HN,Choluteca Department,choluteca-department,El Corpus,el-corpus
+Honduras,honduras,HN,Choluteca Department,choluteca-department,El Obraje,el-obraje
+Honduras,honduras,HN,Choluteca Department,choluteca-department,El Puente,el-puente
+Honduras,honduras,HN,Choluteca Department,choluteca-department,El Triunfo,el-triunfo
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Los Llanitos,los-llanitos
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Marcovia,marcovia
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Monjaras,monjaras
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Morolica,morolica
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Namasigue,namasigue
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Orocuina,orocuina
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Pespire,pespire
+Honduras,honduras,HN,Choluteca Department,choluteca-department,San Antonio de Flores,san-antonio-de-flores
+Honduras,honduras,HN,Choluteca Department,choluteca-department,San Isidro,san-isidro
+Honduras,honduras,HN,Choluteca Department,choluteca-department,San Jeronimo,san-jeronimo
+Honduras,honduras,HN,Choluteca Department,choluteca-department,San Jose,san-jose
+Honduras,honduras,HN,Choluteca Department,choluteca-department,San Jose de Las Conchas,san-jose-de-las-conchas
+Honduras,honduras,HN,Choluteca Department,choluteca-department,San Marcos de Colon,san-marcos-de-colon
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Santa Ana de Yusguare,santa-ana-de-yusguare
+Honduras,honduras,HN,Choluteca Department,choluteca-department,Santa Cruz,santa-cruz
+Honduras,honduras,HN,Colon Department,colon-department,Balfate,balfate
+Honduras,honduras,HN,Colon Department,colon-department,Bonito Oriental,bonito-oriental
+Honduras,honduras,HN,Colon Department,colon-department,Corocito,corocito
+Honduras,honduras,HN,Colon Department,colon-department,Cusuna,cusuna
+Honduras,honduras,HN,Colon Department,colon-department,Elixir,elixir
+Honduras,honduras,HN,Colon Department,colon-department,Francia,francia
+Honduras,honduras,HN,Colon Department,colon-department,Iriona,iriona
+Honduras,honduras,HN,Colon Department,colon-department,Jerico,jerico
+Honduras,honduras,HN,Colon Department,colon-department,La Brea,la-brea
+Honduras,honduras,HN,Colon Department,colon-department,La Esperanza,la-esperanza
+Honduras,honduras,HN,Colon Department,colon-department,Limon,limon
+Honduras,honduras,HN,Colon Department,colon-department,Municipio de Saba,municipio-de-saba
+Honduras,honduras,HN,Colon Department,colon-department,Prieta,prieta
+Honduras,honduras,HN,Colon Department,colon-department,Puerto Castilla,puerto-castilla
+Honduras,honduras,HN,Colon Department,colon-department,Punta Piedra,punta-piedra
+Honduras,honduras,HN,Colon Department,colon-department,Quebrada de Arena,quebrada-de-arena
+Honduras,honduras,HN,Colon Department,colon-department,Rio Esteban,rio-esteban
+Honduras,honduras,HN,Colon Department,colon-department,Saba,saba
+Honduras,honduras,HN,Colon Department,colon-department,Salama,salama
+Honduras,honduras,HN,Colon Department,colon-department,Santa Fe,santa-fe
+Honduras,honduras,HN,Colon Department,colon-department,Santa Rosa de Aguan,santa-rosa-de-aguan
+Honduras,honduras,HN,Colon Department,colon-department,Sonaguera,sonaguera
+Honduras,honduras,HN,Colon Department,colon-department,Taujica,taujica
+Honduras,honduras,HN,Colon Department,colon-department,Tocoa,tocoa
+Honduras,honduras,HN,Colon Department,colon-department,Trujillo,trujillo
+Honduras,honduras,HN,Colon Department,colon-department,Zamora,zamora
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Aguas del Padre,aguas-del-padre
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Ajuterique,ajuterique
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Cerro Blanco,cerro-blanco
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Comayagua,comayagua
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Concepcion de Guasistagua,concepcion-de-guasistagua
+Honduras,honduras,HN,Comayagua Department,comayagua-department,El Agua Dulcita,el-agua-dulcita
+Honduras,honduras,HN,Comayagua Department,comayagua-department,El Porvenir,el-porvenir
+Honduras,honduras,HN,Comayagua Department,comayagua-department,El Rancho,el-rancho
+Honduras,honduras,HN,Comayagua Department,comayagua-department,El Rincon,el-rincon
+Honduras,honduras,HN,Comayagua Department,comayagua-department,El Rosario,el-rosario
+Honduras,honduras,HN,Comayagua Department,comayagua-department,El Sauce,el-sauce
+Honduras,honduras,HN,Comayagua Department,comayagua-department,El Socorro,el-socorro
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Esquias,esquias
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Flores,flores
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Humuya,humuya
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Jamalteca,jamalteca
+Honduras,honduras,HN,Comayagua Department,comayagua-department,La Libertad,la-libertad
+Honduras,honduras,HN,Comayagua Department,comayagua-department,La Trinidad,la-trinidad
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Lamani,lamani
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Las Lajas,las-lajas
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Lejamani,lejamani
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Meambar,meambar
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Minas de Oro,minas-de-oro
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Ojos de Agua,ojos-de-agua
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Potrerillos,potrerillos
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Rio Bonito,rio-bonito
+Honduras,honduras,HN,Comayagua Department,comayagua-department,San Antonio de la Cuesta,san-antonio-de-la-cuesta
+Honduras,honduras,HN,Comayagua Department,comayagua-department,San Jeronimo,san-jeronimo
+Honduras,honduras,HN,Comayagua Department,comayagua-department,San Jose de Comayagua,san-jose-de-comayagua
+Honduras,honduras,HN,Comayagua Department,comayagua-department,San Jose del Potrero,san-jose-del-potrero
+Honduras,honduras,HN,Comayagua Department,comayagua-department,San Luis,san-luis
+Honduras,honduras,HN,Comayagua Department,comayagua-department,San Sebastian,san-sebastian
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Siguatepeque,siguatepeque
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Taulabe,taulabe
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Valle de Angeles,valle-de-angeles
+Honduras,honduras,HN,Comayagua Department,comayagua-department,Villa de San Antonio,villa-de-san-antonio
+Honduras,honduras,HN,Copan Department,copan-department,Agua Caliente,agua-caliente
+Honduras,honduras,HN,Copan Department,copan-department,Buenos Aires,buenos-aires
+Honduras,honduras,HN,Copan Department,copan-department,Cabanas,cabanas
+Honduras,honduras,HN,Copan Department,copan-department,Chalmeca,chalmeca
+Honduras,honduras,HN,Copan Department,copan-department,Concepcion,concepcion
+Honduras,honduras,HN,Copan Department,copan-department,Concepcion de la Barranca,concepcion-de-la-barranca
+Honduras,honduras,HN,Copan Department,copan-department,Copan,copan
+Honduras,honduras,HN,Copan Department,copan-department,Copan Ruinas,copan-ruinas
+Honduras,honduras,HN,Copan Department,copan-department,Corquin,corquin
+Honduras,honduras,HN,Copan Department,copan-department,Cucuyagua,cucuyagua
+Honduras,honduras,HN,Copan Department,copan-department,Dolores,dolores
+Honduras,honduras,HN,Copan Department,copan-department,Dulce Nombre,dulce-nombre
+Honduras,honduras,HN,Copan Department,copan-department,El Corpus,el-corpus
+Honduras,honduras,HN,Copan Department,copan-department,El Ocoton,el-ocoton
+Honduras,honduras,HN,Copan Department,copan-department,El Paraiso,el-paraiso
+Honduras,honduras,HN,Copan Department,copan-department,Florida,florida
+Honduras,honduras,HN,Copan Department,copan-department,La Entrada,la-entrada
+Honduras,honduras,HN,Copan Department,copan-department,La Jigua,la-jigua
+Honduras,honduras,HN,Copan Department,copan-department,La Playona,la-playona
+Honduras,honduras,HN,Copan Department,copan-department,La Union,la-union
+Honduras,honduras,HN,Copan Department,copan-department,La Zumbadora,la-zumbadora
+Honduras,honduras,HN,Copan Department,copan-department,Los Tangos,los-tangos
+Honduras,honduras,HN,Copan Department,copan-department,Nueva Arcadia,nueva-arcadia
+Honduras,honduras,HN,Copan Department,copan-department,Ojos de Agua,ojos-de-agua
+Honduras,honduras,HN,Copan Department,copan-department,Pueblo Nuevo,pueblo-nuevo
+Honduras,honduras,HN,Copan Department,copan-department,Quezailica,quezailica
+Honduras,honduras,HN,Copan Department,copan-department,San Agustin,san-agustin
+Honduras,honduras,HN,Copan Department,copan-department,San Antonio,san-antonio
+Honduras,honduras,HN,Copan Department,copan-department,San Jeronimo,san-jeronimo
+Honduras,honduras,HN,Copan Department,copan-department,San Joaquin,san-joaquin
+Honduras,honduras,HN,Copan Department,copan-department,San Jose,san-jose
+Honduras,honduras,HN,Copan Department,copan-department,San Jose de Copan,san-jose-de-copan
+Honduras,honduras,HN,Copan Department,copan-department,San Juan de Opoa,san-juan-de-opoa
+Honduras,honduras,HN,Copan Department,copan-department,San Juan de Planes,san-juan-de-planes
+Honduras,honduras,HN,Copan Department,copan-department,San Nicolas,san-nicolas
+Honduras,honduras,HN,Copan Department,copan-department,San Pedro de Copan,san-pedro-de-copan
+Honduras,honduras,HN,Copan Department,copan-department,Santa Rita,santa-rita
+Honduras,honduras,HN,Copan Department,copan-department,"Santa Rita, Copan",santa-rita-copan
+Honduras,honduras,HN,Copan Department,copan-department,Santa Rosa de Copan,santa-rosa-de-copan
+Honduras,honduras,HN,Copan Department,copan-department,Trinidad de Copan,trinidad-de-copan
+Honduras,honduras,HN,Copan Department,copan-department,Veracruz,veracruz
+Honduras,honduras,HN,Cortes Department,cortes-department,Agua Azul,agua-azul
+Honduras,honduras,HN,Cortes Department,cortes-department,Agua Azul Rancho,agua-azul-rancho
+Honduras,honduras,HN,Cortes Department,cortes-department,Armenta,armenta
+Honduras,honduras,HN,Cortes Department,cortes-department,Baja Mar,baja-mar
+Honduras,honduras,HN,Cortes Department,cortes-department,Baracoa,baracoa
+Honduras,honduras,HN,Cortes Department,cortes-department,Bejuco,bejuco
+Honduras,honduras,HN,Cortes Department,cortes-department,Canaveral,canaveral
+Honduras,honduras,HN,Cortes Department,cortes-department,Casa Quemada,casa-quemada
+Honduras,honduras,HN,Cortes Department,cortes-department,Chivana,chivana
+Honduras,honduras,HN,Cortes Department,cortes-department,Choloma,choloma
+Honduras,honduras,HN,Cortes Department,cortes-department,Chotepe,chotepe
+Honduras,honduras,HN,Cortes Department,cortes-department,Cofradia,cofradia
+Honduras,honduras,HN,Cortes Department,cortes-department,Cuyamel,cuyamel
+Honduras,honduras,HN,Cortes Department,cortes-department,El Llano,el-llano
+Honduras,honduras,HN,Cortes Department,cortes-department,El Maranon,el-maranon
+Honduras,honduras,HN,Cortes Department,cortes-department,El Milagro,el-milagro
+Honduras,honduras,HN,Cortes Department,cortes-department,El Olivar,el-olivar
+Honduras,honduras,HN,Cortes Department,cortes-department,El Perico,el-perico
+Honduras,honduras,HN,Cortes Department,cortes-department,El Plan,el-plan
+Honduras,honduras,HN,Cortes Department,cortes-department,El Porvenir,el-porvenir
+Honduras,honduras,HN,Cortes Department,cortes-department,El Rancho,el-rancho
+Honduras,honduras,HN,Cortes Department,cortes-department,El Tigre,el-tigre
+Honduras,honduras,HN,Cortes Department,cortes-department,El Zapotal del Norte,el-zapotal-del-norte
+Honduras,honduras,HN,Cortes Department,cortes-department,La Guama,la-guama
+Honduras,honduras,HN,Cortes Department,cortes-department,La Huesa,la-huesa
+Honduras,honduras,HN,Cortes Department,cortes-department,La Jutosa,la-jutosa
+Honduras,honduras,HN,Cortes Department,cortes-department,La Lima,la-lima
+Honduras,honduras,HN,Cortes Department,cortes-department,La Sabana,la-sabana
+Honduras,honduras,HN,Cortes Department,cortes-department,Los Caminos,los-caminos
+Honduras,honduras,HN,Cortes Department,cortes-department,Los Naranjos,los-naranjos
+Honduras,honduras,HN,Cortes Department,cortes-department,Monterrey,monterrey
+Honduras,honduras,HN,Cortes Department,cortes-department,Nuevo Chamelecon,nuevo-chamelecon
+Honduras,honduras,HN,Cortes Department,cortes-department,Omoa,omoa
+Honduras,honduras,HN,Cortes Department,cortes-department,Oropendolas,oropendolas
+Honduras,honduras,HN,Cortes Department,cortes-department,Pena Blanca,pena-blanca
+Honduras,honduras,HN,Cortes Department,cortes-department,Pimienta,pimienta
+Honduras,honduras,HN,Cortes Department,cortes-department,Pimienta Vieja,pimienta-vieja
+Honduras,honduras,HN,Cortes Department,cortes-department,Potrerillos,potrerillos
+Honduras,honduras,HN,Cortes Department,cortes-department,Pueblo Nuevo,pueblo-nuevo
+Honduras,honduras,HN,Cortes Department,cortes-department,Puerto Alto,puerto-alto
+Honduras,honduras,HN,Cortes Department,cortes-department,Puerto Cortes,puerto-cortes
+Honduras,honduras,HN,Cortes Department,cortes-department,Puerto Cortez,puerto-cortez
+Honduras,honduras,HN,Cortes Department,cortes-department,Quebrada Seca,quebrada-seca
+Honduras,honduras,HN,Cortes Department,cortes-department,Rio Blanquito,rio-blanquito
+Honduras,honduras,HN,Cortes Department,cortes-department,Rio Chiquito,rio-chiquito
+Honduras,honduras,HN,Cortes Department,cortes-department,Rio Lindo,rio-lindo
+Honduras,honduras,HN,Cortes Department,cortes-department,San Antonio de Cortes,san-antonio-de-cortes
+Honduras,honduras,HN,Cortes Department,cortes-department,San Buenaventura,san-buenaventura
+Honduras,honduras,HN,Cortes Department,cortes-department,San Francisco de Yojoa,san-francisco-de-yojoa
+Honduras,honduras,HN,Cortes Department,cortes-department,San Jose del Boqueron,san-jose-del-boqueron
+Honduras,honduras,HN,Cortes Department,cortes-department,San Manuel,san-manuel
+Honduras,honduras,HN,Cortes Department,cortes-department,San Pedro Sula,san-pedro-sula
+Honduras,honduras,HN,Cortes Department,cortes-department,Santa Cruz de Yojoa,santa-cruz-de-yojoa
+Honduras,honduras,HN,Cortes Department,cortes-department,Santa Elena,santa-elena
+Honduras,honduras,HN,Cortes Department,cortes-department,Travesia,travesia
+Honduras,honduras,HN,Cortes Department,cortes-department,Villanueva,villanueva
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Alauca,alauca
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Arauli,arauli
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Cuyali,cuyali
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Danli,danli
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,El Benque,el-benque
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,El Chichicaste,el-chichicaste
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,El Obraje,el-obraje
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,El Paraiso,el-paraiso
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Guinope,guinope
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Jacaleapa,jacaleapa
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Jutiapa,jutiapa
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Las Animas,las-animas
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Las Trojes,las-trojes
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Liure,liure
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Moroceli,moroceli
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Municipio de Texiguat,municipio-de-texiguat
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Ojo de Agua,ojo-de-agua
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Oropoli,oropoli
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Potrerillos,potrerillos
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Quebrada Larga,quebrada-larga
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,San Antonio de Flores,san-antonio-de-flores
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,San Diego,san-diego
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,San Lucas,san-lucas
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,San Matias,san-matias
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Santa Cruz,santa-cruz
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Soledad,soledad
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Teupasenti,teupasenti
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Texiguat,texiguat
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Trojes,trojes
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Vado Ancho,vado-ancho
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Yauyupe,yauyupe
+Honduras,honduras,HN,El Paraiso Department,el-paraiso-department,Yuscaran,yuscaran
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Agalteca,agalteca
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Alubaren,alubaren
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Cedros,cedros
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Cerro Grande,cerro-grande
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Cofradia,cofradia
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Curaren,curaren
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Distrito Central,distrito-central
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Chimbo,el-chimbo
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Escanito,el-escanito
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Escano de Tepale,el-escano-de-tepale
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Guante,el-guante
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Guantillo,el-guantillo
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Guapinol,el-guapinol
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Lolo,el-lolo
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Pedernal,el-pedernal
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Porvenir,el-porvenir
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Suyatal,el-suyatal
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Tablon,el-tablon
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,El Terrero,el-terrero
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Guaimaca,guaimaca
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,La Ermita,la-ermita
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,La Libertad,la-libertad
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,La Venta,la-venta
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Lepaterique,lepaterique
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Maraita,maraita
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Marale,marale
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Mata de Platano,mata-de-platano
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Mateo,mateo
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Nueva Armenia,nueva-armenia
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Ojojona,ojojona
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Orica,orica
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Quebradas,quebradas
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Reitoca,reitoca
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Rio Abajo,rio-abajo
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Sabanagrande,sabanagrande
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,San Antonio de Oriente,san-antonio-de-oriente
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,San Buenaventura,san-buenaventura
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,San Ignacio,san-ignacio
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,San Juan de Flores,san-juan-de-flores
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,San Miguelito,san-miguelito
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Santa Ana,santa-ana
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Santa Lucia,santa-lucia
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Talanga,talanga
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Tamara,tamara
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Tatumbla,tatumbla
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Tegucigalpa,tegucigalpa
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Valle de Angeles,valle-de-angeles
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Vallecillo,vallecillo
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Villa de San Francisco,villa-de-san-francisco
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Villa Nueva,villa-nueva
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Yaguacire,yaguacire
+Honduras,honduras,HN,Francisco Morazan Department,francisco-morazan-department,Zambrano,zambrano
+Honduras,honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Ahuas,ahuas
+Honduras,honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Auas,auas
+Honduras,honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Auka,auka
+Honduras,honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Barra Patuca,barra-patuca
+Honduras,honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Brus Laguna,brus-laguna
+Honduras,honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Iralaya,iralaya
+Honduras,honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Juan Francisco Bulnes,juan-francisco-bulnes
+Honduras,honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Paptalaya,paptalaya
+Honduras,honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Puerto Lempira,puerto-lempira
+Honduras,honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Villeda Morales,villeda-morales
+Honduras,honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Wampusirpi,wampusirpi
+Honduras,honduras,HN,Gracias a Dios Department,gracias-a-dios-department,Wawina,wawina
+Honduras,honduras,HN,Intibuca Department,intibuca-department,Camasca,camasca
+Honduras,honduras,HN,Intibuca Department,intibuca-department,Colomoncagua,colomoncagua
+Honduras,honduras,HN,Intibuca Department,intibuca-department,Concepcion,concepcion
+Honduras,honduras,HN,Intibuca Department,intibuca-department,Dolores,dolores
+Honduras,honduras,HN,Intibuca Department,intibuca-department,Intibuca,intibuca
+Honduras,honduras,HN,Intibuca Department,intibuca-department,Jesus de Otoro,jesus-de-otoro
+Honduras,honduras,HN,Intibuca Department,intibuca-department,Jiquinlaca,jiquinlaca
+Honduras,honduras,HN,Intibuca Department,intibuca-department,La Esperanza,la-esperanza
+Honduras,honduras,HN,Intibuca Department,intibuca-department,Magdalena,magdalena
+Honduras,honduras,HN,Intibuca Department,intibuca-department,Masaguara,masaguara
+Honduras,honduras,HN,Intibuca Department,intibuca-department,San Antonio,san-antonio
+Honduras,honduras,HN,Intibuca Department,intibuca-department,San Francisco de Opalaca,san-francisco-de-opalaca
+Honduras,honduras,HN,Intibuca Department,intibuca-department,San Isidro,san-isidro
+Honduras,honduras,HN,Intibuca Department,intibuca-department,San Juan,san-juan
+Honduras,honduras,HN,Intibuca Department,intibuca-department,San Marcos de la Sierra,san-marcos-de-la-sierra
+Honduras,honduras,HN,Intibuca Department,intibuca-department,San Miguelito,san-miguelito
+Honduras,honduras,HN,Intibuca Department,intibuca-department,Santa Lucia,santa-lucia
+Honduras,honduras,HN,Intibuca Department,intibuca-department,Yamaranguila,yamaranguila
+Honduras,honduras,HN,La Paz Department,la-paz-department,Aguanqueterique,aguanqueterique
+Honduras,honduras,HN,La Paz Department,la-paz-department,Cabanas,cabanas
+Honduras,honduras,HN,La Paz Department,la-paz-department,Cane,cane
+Honduras,honduras,HN,La Paz Department,la-paz-department,Chinacla,chinacla
+Honduras,honduras,HN,La Paz Department,la-paz-department,Guajiquiro,guajiquiro
+Honduras,honduras,HN,La Paz Department,la-paz-department,La Paz,la-paz
+Honduras,honduras,HN,La Paz Department,la-paz-department,Lauterique,lauterique
+Honduras,honduras,HN,La Paz Department,la-paz-department,Los Planes,los-planes
+Honduras,honduras,HN,La Paz Department,la-paz-department,Marcala,marcala
+Honduras,honduras,HN,La Paz Department,la-paz-department,Mercedes de Oriente,mercedes-de-oriente
+Honduras,honduras,HN,La Paz Department,la-paz-department,Opatoro,opatoro
+Honduras,honduras,HN,La Paz Department,la-paz-department,San Antonio del Norte,san-antonio-del-norte
+Honduras,honduras,HN,La Paz Department,la-paz-department,San Jose,san-jose
+Honduras,honduras,HN,La Paz Department,la-paz-department,San Juan,san-juan
+Honduras,honduras,HN,La Paz Department,la-paz-department,San Pedro de Tutule,san-pedro-de-tutule
+Honduras,honduras,HN,La Paz Department,la-paz-department,Santa Ana,santa-ana
+Honduras,honduras,HN,La Paz Department,la-paz-department,Santa Elena,santa-elena
+Honduras,honduras,HN,La Paz Department,la-paz-department,Santa Maria,santa-maria
+Honduras,honduras,HN,La Paz Department,la-paz-department,Santiago Puringla,santiago-puringla
+Honduras,honduras,HN,La Paz Department,la-paz-department,Tepanguare,tepanguare
+Honduras,honduras,HN,La Paz Department,la-paz-department,Yarula,yarula
+Honduras,honduras,HN,La Paz Department,la-paz-department,Yarumela,yarumela
+Honduras,honduras,HN,Lempira Department,lempira-department,Belen,belen
+Honduras,honduras,HN,Lempira Department,lempira-department,Candelaria,candelaria
+Honduras,honduras,HN,Lempira Department,lempira-department,Cololaca,cololaca
+Honduras,honduras,HN,Lempira Department,lempira-department,El Achiotal,el-achiotal
+Honduras,honduras,HN,Lempira Department,lempira-department,Erandique,erandique
+Honduras,honduras,HN,Lempira Department,lempira-department,Gracias,gracias
+Honduras,honduras,HN,Lempira Department,lempira-department,Gualcince,gualcince
+Honduras,honduras,HN,Lempira Department,lempira-department,Guarita,guarita
+Honduras,honduras,HN,Lempira Department,lempira-department,La Campa,la-campa
+Honduras,honduras,HN,Lempira Department,lempira-department,La Iguala,la-iguala
+Honduras,honduras,HN,Lempira Department,lempira-department,La Libertad,la-libertad
+Honduras,honduras,HN,Lempira Department,lempira-department,La Union,la-union
+Honduras,honduras,HN,Lempira Department,lempira-department,La Virtud,la-virtud
+Honduras,honduras,HN,Lempira Department,lempira-department,Las Flores,las-flores
+Honduras,honduras,HN,Lempira Department,lempira-department,Las Tejeras,las-tejeras
+Honduras,honduras,HN,Lempira Department,lempira-department,Lepaera,lepaera
+Honduras,honduras,HN,Lempira Department,lempira-department,Mapulaca,mapulaca
+Honduras,honduras,HN,Lempira Department,lempira-department,Piraera,piraera
+Honduras,honduras,HN,Lempira Department,lempira-department,San Andres,san-andres
+Honduras,honduras,HN,Lempira Department,lempira-department,San Francisco,san-francisco
+Honduras,honduras,HN,Lempira Department,lempira-department,San Juan Guarita,san-juan-guarita
+Honduras,honduras,HN,Lempira Department,lempira-department,San Manuel Colohete,san-manuel-colohete
+Honduras,honduras,HN,Lempira Department,lempira-department,San Marcos de Caiquin,san-marcos-de-caiquin
+Honduras,honduras,HN,Lempira Department,lempira-department,San Rafael,san-rafael
+Honduras,honduras,HN,Lempira Department,lempira-department,San Sebastian,san-sebastian
+Honduras,honduras,HN,Lempira Department,lempira-department,Santa Cruz,santa-cruz
+Honduras,honduras,HN,Lempira Department,lempira-department,Talgua,talgua
+Honduras,honduras,HN,Lempira Department,lempira-department,Tambla,tambla
+Honduras,honduras,HN,Lempira Department,lempira-department,Taragual,taragual
+Honduras,honduras,HN,Lempira Department,lempira-department,Tomala,tomala
+Honduras,honduras,HN,Lempira Department,lempira-department,Valladolid,valladolid
+Honduras,honduras,HN,Lempira Department,lempira-department,Virginia,virginia
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Antigua Ocotepeque,antigua-ocotepeque
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Belen Gualcho,belen-gualcho
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Concepcion,concepcion
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Dolores Merendon,dolores-merendon
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,El Transito,el-transito
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Fraternidad,fraternidad
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,La Encarnacion,la-encarnacion
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,La Labor,la-labor
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Lucerna,lucerna
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Mercedes,mercedes
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Nueva Ocotepeque,nueva-ocotepeque
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,San Fernando,san-fernando
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,San Francisco de Cones,san-francisco-de-cones
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,San Francisco del Valle,san-francisco-del-valle
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,San Jorge,san-jorge
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,San Marcos,san-marcos
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Santa Fe,santa-fe
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Santa Lucia,santa-lucia
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Sensenti,sensenti
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Sinuapa,sinuapa
+Honduras,honduras,HN,Ocotepeque Department,ocotepeque-department,Yaruchel,yaruchel
+Honduras,honduras,HN,Olancho Department,olancho-department,Arimis,arimis
+Honduras,honduras,HN,Olancho Department,olancho-department,Campamento,campamento
+Honduras,honduras,HN,Olancho Department,olancho-department,Catacamas,catacamas
+Honduras,honduras,HN,Olancho Department,olancho-department,Concordia,concordia
+Honduras,honduras,HN,Olancho Department,olancho-department,Dulce Nombre de Culmi,dulce-nombre-de-culmi
+Honduras,honduras,HN,Olancho Department,olancho-department,El Guayabito,el-guayabito
+Honduras,honduras,HN,Olancho Department,olancho-department,El Rosario,el-rosario
+Honduras,honduras,HN,Olancho Department,olancho-department,El Rusio,el-rusio
+Honduras,honduras,HN,Olancho Department,olancho-department,Esquipulas del Norte,esquipulas-del-norte
+Honduras,honduras,HN,Olancho Department,olancho-department,Gualaco,gualaco
+Honduras,honduras,HN,Olancho Department,olancho-department,Guarizama,guarizama
+Honduras,honduras,HN,Olancho Department,olancho-department,Guata,guata
+Honduras,honduras,HN,Olancho Department,olancho-department,Guayape,guayape
+Honduras,honduras,HN,Olancho Department,olancho-department,Jano,jano
+Honduras,honduras,HN,Olancho Department,olancho-department,Juticalpa,juticalpa
+Honduras,honduras,HN,Olancho Department,olancho-department,Jutiquile,jutiquile
+Honduras,honduras,HN,Olancho Department,olancho-department,La Concepcion,la-concepcion
+Honduras,honduras,HN,Olancho Department,olancho-department,La Estancia,la-estancia
+Honduras,honduras,HN,Olancho Department,olancho-department,La Guata,la-guata
+Honduras,honduras,HN,Olancho Department,olancho-department,La Union,la-union
+Honduras,honduras,HN,Olancho Department,olancho-department,Laguna Seca,laguna-seca
+Honduras,honduras,HN,Olancho Department,olancho-department,Mangulile,mangulile
+Honduras,honduras,HN,Olancho Department,olancho-department,Manto,manto
+Honduras,honduras,HN,Olancho Department,olancho-department,Municipio de San Francisco de La Paz,municipio-de-san-francisco-de-la-paz
+Honduras,honduras,HN,Olancho Department,olancho-department,Patuca,patuca
+Honduras,honduras,HN,Olancho Department,olancho-department,Punuare,punuare
+Honduras,honduras,HN,Olancho Department,olancho-department,Salama,salama
+Honduras,honduras,HN,Olancho Department,olancho-department,San Esteban,san-esteban
+Honduras,honduras,HN,Olancho Department,olancho-department,San Francisco de Becerra,san-francisco-de-becerra
+Honduras,honduras,HN,Olancho Department,olancho-department,San Francisco de la Paz,san-francisco-de-la-paz
+Honduras,honduras,HN,Olancho Department,olancho-department,San Jose de Rio Tinto,san-jose-de-rio-tinto
+Honduras,honduras,HN,Olancho Department,olancho-department,San Nicolas,san-nicolas
+Honduras,honduras,HN,Olancho Department,olancho-department,Santa Maria del Real,santa-maria-del-real
+Honduras,honduras,HN,Olancho Department,olancho-department,Silca,silca
+Honduras,honduras,HN,Olancho Department,olancho-department,Yocon,yocon
+Honduras,honduras,HN,Olancho Department,olancho-department,Zopilotepe,zopilotepe
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Agualote,agualote
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Arada,arada
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Atima,atima
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Azacualpa,azacualpa
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Berlin,berlin
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Callejones,callejones
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Camalote,camalote
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Casa Quemada,casa-quemada
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Ceguaca,ceguaca
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Chinda,chinda
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Concepcion del Norte,concepcion-del-norte
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Concepcion del Sur,concepcion-del-sur
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Correderos,correderos
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,El Ciruelo,el-ciruelo
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,El Corozal,el-corozal
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,El Mochito,el-mochito
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,El Nispero,el-nispero
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Guacamaya,guacamaya
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Gualala,gualala
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Gualjoco,gualjoco
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Ilama,ilama
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Joconal,joconal
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,La Flecha,la-flecha
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Laguna Verde,laguna-verde
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Las Vegas,las-vegas
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,"Las Vegas, Santa Barbara",las-vegas-santa-barbara
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Loma Alta,loma-alta
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Macuelizo,macuelizo
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Naco,naco
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Naranjito,naranjito
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Nueva Frontera,nueva-frontera
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Nueva Jalapa,nueva-jalapa
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Nuevo Celilac,nuevo-celilac
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Petoa,petoa
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Pinalejo,pinalejo
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Proteccion,proteccion
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Quimistan,quimistan
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,San Francisco de Ojuera,san-francisco-de-ojuera
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,San Jose de Colinas,san-jose-de-colinas
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,San Jose de Tarros,san-jose-de-tarros
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,San Luis,san-luis
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,San Luis de Planes,san-luis-de-planes
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,San Marcos,san-marcos
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,San Nicolas,san-nicolas
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,San Pedro Zacapa,san-pedro-zacapa
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,San Vicente Centenario,san-vicente-centenario
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Santa Barbara,santa-barbara
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Santa Rita,santa-rita
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Sula,sula
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Tras Cerros,tras-cerros
+Honduras,honduras,HN,Santa Barbara Department,santa-barbara-department,Trinidad,trinidad
+Honduras,honduras,HN,Valle Department,valle-department,Agua Fria,agua-fria
+Honduras,honduras,HN,Valle Department,valle-department,Alianza,alianza
+Honduras,honduras,HN,Valle Department,valle-department,Amapala,amapala
+Honduras,honduras,HN,Valle Department,valle-department,Aramecina,aramecina
+Honduras,honduras,HN,Valle Department,valle-department,Caridad,caridad
+Honduras,honduras,HN,Valle Department,valle-department,El Cubolero,el-cubolero
+Honduras,honduras,HN,Valle Department,valle-department,El Tular,el-tular
+Honduras,honduras,HN,Valle Department,valle-department,Goascoran,goascoran
+Honduras,honduras,HN,Valle Department,valle-department,Jicaro Galan,jicaro-galan
+Honduras,honduras,HN,Valle Department,valle-department,La Alianza,la-alianza
+Honduras,honduras,HN,Valle Department,valle-department,La Criba,la-criba
+Honduras,honduras,HN,Valle Department,valle-department,Langue,langue
+Honduras,honduras,HN,Valle Department,valle-department,Nacaome,nacaome
+Honduras,honduras,HN,Valle Department,valle-department,San Francisco de Coray,san-francisco-de-coray
+Honduras,honduras,HN,Valle Department,valle-department,San Lorenzo,san-lorenzo
+Honduras,honduras,HN,Yoro Department,yoro-department,Agua Blanca Sur,agua-blanca-sur
+Honduras,honduras,HN,Yoro Department,yoro-department,Arenal,arenal
+Honduras,honduras,HN,Yoro Department,yoro-department,Armenia,armenia
+Honduras,honduras,HN,Yoro Department,yoro-department,Ayapa,ayapa
+Honduras,honduras,HN,Yoro Department,yoro-department,Balsamo Oriental,balsamo-oriental
+Honduras,honduras,HN,Yoro Department,yoro-department,Carbajales,carbajales
+Honduras,honduras,HN,Yoro Department,yoro-department,Coyoles Central,coyoles-central
+Honduras,honduras,HN,Yoro Department,yoro-department,El Balsamo,el-balsamo
+Honduras,honduras,HN,Yoro Department,yoro-department,El Juncal,el-juncal
+Honduras,honduras,HN,Yoro Department,yoro-department,El Negrito,el-negrito
+Honduras,honduras,HN,Yoro Department,yoro-department,El Ocote,el-ocote
+Honduras,honduras,HN,Yoro Department,yoro-department,El Progreso,el-progreso
+Honduras,honduras,HN,Yoro Department,yoro-department,Guaimitas,guaimitas
+Honduras,honduras,HN,Yoro Department,yoro-department,Jocon,jocon
+Honduras,honduras,HN,Yoro Department,yoro-department,La Estancia,la-estancia
+Honduras,honduras,HN,Yoro Department,yoro-department,La Guacamaya,la-guacamaya
+Honduras,honduras,HN,Yoro Department,yoro-department,La Mina,la-mina
+Honduras,honduras,HN,Yoro Department,yoro-department,La Rosa,la-rosa
+Honduras,honduras,HN,Yoro Department,yoro-department,La Sarrosa,la-sarrosa
+Honduras,honduras,HN,Yoro Department,yoro-department,La Trinidad,la-trinidad
+Honduras,honduras,HN,Yoro Department,yoro-department,Las Vegas,las-vegas
+Honduras,honduras,HN,Yoro Department,yoro-department,Lomitas,lomitas
+Honduras,honduras,HN,Yoro Department,yoro-department,Mojiman,mojiman
+Honduras,honduras,HN,Yoro Department,yoro-department,Morazan,morazan
+Honduras,honduras,HN,Yoro Department,yoro-department,Nombre de Jesus,nombre-de-jesus
+Honduras,honduras,HN,Yoro Department,yoro-department,Nueva Esperanza,nueva-esperanza
+Honduras,honduras,HN,Yoro Department,yoro-department,Ocote Paulino,ocote-paulino
+Honduras,honduras,HN,Yoro Department,yoro-department,Olanchito,olanchito
+Honduras,honduras,HN,Yoro Department,yoro-department,Paujiles,paujiles
+Honduras,honduras,HN,Yoro Department,yoro-department,Punta Ocote,punta-ocote
+Honduras,honduras,HN,Yoro Department,yoro-department,San Antonio,san-antonio
+Honduras,honduras,HN,Yoro Department,yoro-department,San Jose,san-jose
+Honduras,honduras,HN,Yoro Department,yoro-department,Santa Rita,santa-rita
+Honduras,honduras,HN,Yoro Department,yoro-department,Subirana,subirana
+Honduras,honduras,HN,Yoro Department,yoro-department,Sulaco,sulaco
+Honduras,honduras,HN,Yoro Department,yoro-department,Teguajinal,teguajinal
+Honduras,honduras,HN,Yoro Department,yoro-department,Tepusteca,tepusteca
+Honduras,honduras,HN,Yoro Department,yoro-department,Toyos,toyos
+Honduras,honduras,HN,Yoro Department,yoro-department,Trojas,trojas
+Honduras,honduras,HN,Yoro Department,yoro-department,Victoria,victoria
+Honduras,honduras,HN,Yoro Department,yoro-department,Yorito,yorito
+Honduras,honduras,HN,Yoro Department,yoro-department,Yoro,yoro

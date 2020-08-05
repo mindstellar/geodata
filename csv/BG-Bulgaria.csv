@@ -1,504 +1,504 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Bansko,bansko
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Belitsa,belitsa
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Blagoevgrad,blagoevgrad
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Garmen,garmen
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Gotse Delchev,gotse-delchev
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Hadzhidimovo,hadzhidimovo
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Kolarovo,kolarovo
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Kresna,kresna
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Bansko,obshtina-bansko
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Belitsa,obshtina-belitsa
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Blagoevgrad,obshtina-blagoevgrad
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Garmen,obshtina-garmen
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Gotse Delchev,obshtina-gotse-delchev
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Kresna,obshtina-kresna
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Petrich,obshtina-petrich
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Razlog,obshtina-razlog
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Sandanski,obshtina-sandanski
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Satovcha,obshtina-satovcha
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Simitli,obshtina-simitli
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Strumyani,obshtina-strumyani
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Yakoruda,obshtina-yakoruda
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Petrich,petrich
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Razlog,razlog
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Sandanski,sandanski
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Satovcha,satovcha
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Simitli,simitli
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Stara Kresna,stara-kresna
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Strumyani,strumyani
-Bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Yakoruda,yakoruda
-Bulgaria,BG,Burgas Province,burgas-province,Aheloy,aheloy
-Bulgaria,BG,Burgas Province,burgas-province,Ahtopol,ahtopol
-Bulgaria,BG,Burgas Province,burgas-province,Aytos,aytos
-Bulgaria,BG,Burgas Province,burgas-province,Bata,bata
-Bulgaria,BG,Burgas Province,burgas-province,Burgas,burgas
-Bulgaria,BG,Burgas Province,burgas-province,Chernomorets,chernomorets
-Bulgaria,BG,Burgas Province,burgas-province,Kameno,kameno
-Bulgaria,BG,Burgas Province,burgas-province,Karnobat,karnobat
-Bulgaria,BG,Burgas Province,burgas-province,Kiten,kiten
-Bulgaria,BG,Burgas Province,burgas-province,Malko Tarnovo,malko-tarnovo
-Bulgaria,BG,Burgas Province,burgas-province,Nesebar,nesebar
-Bulgaria,BG,Burgas Province,burgas-province,Obshtina Aytos,obshtina-aytos
-Bulgaria,BG,Burgas Province,burgas-province,Obshtina Burgas,obshtina-burgas
-Bulgaria,BG,Burgas Province,burgas-province,Obshtina Kameno,obshtina-kameno
-Bulgaria,BG,Burgas Province,burgas-province,Obshtina Karnobat,obshtina-karnobat
-Bulgaria,BG,Burgas Province,burgas-province,Obshtina Malko Tarnovo,obshtina-malko-tarnovo
-Bulgaria,BG,Burgas Province,burgas-province,Obshtina Nesebar,obshtina-nesebar
-Bulgaria,BG,Burgas Province,burgas-province,Obshtina Pomorie,obshtina-pomorie
-Bulgaria,BG,Burgas Province,burgas-province,Obshtina Primorsko,obshtina-primorsko
-Bulgaria,BG,Burgas Province,burgas-province,Obshtina Sozopol,obshtina-sozopol
-Bulgaria,BG,Burgas Province,burgas-province,Obshtina Sungurlare,obshtina-sungurlare
-Bulgaria,BG,Burgas Province,burgas-province,Obzor,obzor
-Bulgaria,BG,Burgas Province,burgas-province,Pomorie,pomorie
-Bulgaria,BG,Burgas Province,burgas-province,Primorsko,primorsko
-Bulgaria,BG,Burgas Province,burgas-province,Ravda,ravda
-Bulgaria,BG,Burgas Province,burgas-province,Ruen,ruen
-Bulgaria,BG,Burgas Province,burgas-province,Sarafovo,sarafovo
-Bulgaria,BG,Burgas Province,burgas-province,Sozopol,sozopol
-Bulgaria,BG,Burgas Province,burgas-province,Sredets,sredets
-Bulgaria,BG,Burgas Province,burgas-province,Sungurlare,sungurlare
-Bulgaria,BG,Burgas Province,burgas-province,Sveti Vlas,sveti-vlas
-Bulgaria,BG,Burgas Province,burgas-province,Tsarevo,tsarevo
-Bulgaria,BG,Dobrich Province,dobrich-province,Balchik,balchik
-Bulgaria,BG,Dobrich Province,dobrich-province,Dobrich,dobrich
-Bulgaria,BG,Dobrich Province,dobrich-province,General Toshevo,general-toshevo
-Bulgaria,BG,Dobrich Province,dobrich-province,Kavarna,kavarna
-Bulgaria,BG,Dobrich Province,dobrich-province,Krushari,krushari
-Bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Balchik,obshtina-balchik
-Bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Dobrich,obshtina-dobrich
-Bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Dobrich-Selska,obshtina-dobrich-selska
-Bulgaria,BG,Dobrich Province,dobrich-province,Obshtina General Toshevo,obshtina-general-toshevo
-Bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Kavarna,obshtina-kavarna
-Bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Krushari,obshtina-krushari
-Bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Shabla,obshtina-shabla
-Bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Tervel,obshtina-tervel
-Bulgaria,BG,Dobrich Province,dobrich-province,Shabla,shabla
-Bulgaria,BG,Dobrich Province,dobrich-province,Tervel,tervel
-Bulgaria,BG,Gabrovo Province,gabrovo-province,Dryanovo,dryanovo
-Bulgaria,BG,Gabrovo Province,gabrovo-province,Gabrovo,gabrovo
-Bulgaria,BG,Gabrovo Province,gabrovo-province,Obshtina Dryanovo,obshtina-dryanovo
-Bulgaria,BG,Gabrovo Province,gabrovo-province,Obshtina Gabrovo,obshtina-gabrovo
-Bulgaria,BG,Gabrovo Province,gabrovo-province,Obshtina Sevlievo,obshtina-sevlievo
-Bulgaria,BG,Gabrovo Province,gabrovo-province,Obshtina Tryavna,obshtina-tryavna
-Bulgaria,BG,Gabrovo Province,gabrovo-province,Sevlievo,sevlievo
-Bulgaria,BG,Gabrovo Province,gabrovo-province,Tryavna,tryavna
-Bulgaria,BG,Haskovo Province,haskovo-province,Dimitrovgrad,dimitrovgrad
-Bulgaria,BG,Haskovo Province,haskovo-province,Harmanli,harmanli
-Bulgaria,BG,Haskovo Province,haskovo-province,Haskovo,haskovo
-Bulgaria,BG,Haskovo Province,haskovo-province,Ivaylovgrad,ivaylovgrad
-Bulgaria,BG,Haskovo Province,haskovo-province,Lyubimets,lyubimets
-Bulgaria,BG,Haskovo Province,haskovo-province,Madzharovo,madzharovo
-Bulgaria,BG,Haskovo Province,haskovo-province,Mineralni Bani,mineralni-bani
-Bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Dimitrovgrad,obshtina-dimitrovgrad
-Bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Harmanli,obshtina-harmanli
-Bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Haskovo,obshtina-haskovo
-Bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Ivaylovgrad,obshtina-ivaylovgrad
-Bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Madzharovo,obshtina-madzharovo
-Bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Mineralni Bani,obshtina-mineralni-bani
-Bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Stambolovo,obshtina-stambolovo
-Bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Svilengrad,obshtina-svilengrad
-Bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Topolovgrad,obshtina-topolovgrad
-Bulgaria,BG,Haskovo Province,haskovo-province,Simeonovgrad,simeonovgrad
-Bulgaria,BG,Haskovo Province,haskovo-province,Svilengrad,svilengrad
-Bulgaria,BG,Haskovo Province,haskovo-province,Topolovgrad,topolovgrad
-Bulgaria,BG,Kardzhali Province,kardzhali-province,Ardino,ardino
-Bulgaria,BG,Kardzhali Province,kardzhali-province,Dzhebel,dzhebel
-Bulgaria,BG,Kardzhali Province,kardzhali-province,Kardzhali,kardzhali
-Bulgaria,BG,Kardzhali Province,kardzhali-province,Kirkovo,kirkovo
-Bulgaria,BG,Kardzhali Province,kardzhali-province,Krumovgrad,krumovgrad
-Bulgaria,BG,Kardzhali Province,kardzhali-province,Obshtina Ardino,obshtina-ardino
-Bulgaria,BG,Kardzhali Province,kardzhali-province,Obshtina Chernoochene,obshtina-chernoochene
-Bulgaria,BG,Kardzhali Province,kardzhali-province,Obshtina Dzhebel,obshtina-dzhebel
-Bulgaria,BG,Kardzhali Province,kardzhali-province,Obshtina Kardzhali,obshtina-kardzhali
-Bulgaria,BG,Kardzhali Province,kardzhali-province,Obshtina Kirkovo,obshtina-kirkovo
-Bulgaria,BG,Kardzhali Province,kardzhali-province,Obshtina Momchilgrad,obshtina-momchilgrad
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Boboshevo,boboshevo
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Bobov Dol,bobov-dol
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Dupnitsa,dupnitsa
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Kocherinovo,kocherinovo
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Kyustendil,kyustendil
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Nevestino,nevestino
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Boboshevo,obshtina-boboshevo
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Bobov Dol,obshtina-bobov-dol
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Dupnitsa,obshtina-dupnitsa
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Kocherinovo,obshtina-kocherinovo
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Kyustendil,obshtina-kyustendil
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Nevestino,obshtina-nevestino
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Rila,obshtina-rila
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Sapareva Banya,obshtina-sapareva-banya
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Treklyano,obshtina-treklyano
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Rila,rila
-Bulgaria,BG,Kyustendil Province,kyustendil-province,Sapareva Banya,sapareva-banya
-Bulgaria,BG,Lovech Province,lovech-province,Apriltsi,apriltsi
-Bulgaria,BG,Lovech Province,lovech-province,Letnitsa,letnitsa
-Bulgaria,BG,Lovech Province,lovech-province,Lovech,lovech
-Bulgaria,BG,Lovech Province,lovech-province,Lukovit,lukovit
-Bulgaria,BG,Lovech Province,lovech-province,Obshtina Lovech,obshtina-lovech
-Bulgaria,BG,Lovech Province,lovech-province,Obshtina Teteven,obshtina-teteven
-Bulgaria,BG,Lovech Province,lovech-province,Obshtina Ugarchin,obshtina-ugarchin
-Bulgaria,BG,Lovech Province,lovech-province,Teteven,teteven
-Bulgaria,BG,Lovech Province,lovech-province,Troyan,troyan
-Bulgaria,BG,Lovech Province,lovech-province,Ugarchin,ugarchin
-Bulgaria,BG,Lovech Province,lovech-province,Yablanitsa,yablanitsa
-Bulgaria,BG,Montana Province,montana-province,Berkovitsa,berkovitsa
-Bulgaria,BG,Montana Province,montana-province,Boychinovtsi,boychinovtsi
-Bulgaria,BG,Montana Province,montana-province,Brusartsi,brusartsi
-Bulgaria,BG,Montana Province,montana-province,Chiprovtsi,chiprovtsi
-Bulgaria,BG,Montana Province,montana-province,Lom,lom
-Bulgaria,BG,Montana Province,montana-province,Medkovets,medkovets
-Bulgaria,BG,Montana Province,montana-province,Montana,montana
-Bulgaria,BG,Montana Province,montana-province,Obshtina Boychinovtsi,obshtina-boychinovtsi
-Bulgaria,BG,Montana Province,montana-province,Obshtina Chiprovtsi,obshtina-chiprovtsi
-Bulgaria,BG,Montana Province,montana-province,Obshtina Georgi Damyanovo,obshtina-georgi-damyanovo
-Bulgaria,BG,Montana Province,montana-province,Obshtina Lom,obshtina-lom
-Bulgaria,BG,Montana Province,montana-province,Obshtina Montana,obshtina-montana
-Bulgaria,BG,Montana Province,montana-province,Obshtina Valchedram,obshtina-valchedram
-Bulgaria,BG,Montana Province,montana-province,Obshtina Varshets,obshtina-varshets
-Bulgaria,BG,Montana Province,montana-province,Obshtina Yakimovo,obshtina-yakimovo
-Bulgaria,BG,Montana Province,montana-province,Valchedram,valchedram
-Bulgaria,BG,Montana Province,montana-province,Varshets,varshets
-Bulgaria,BG,Montana Province,montana-province,Yakimovo,yakimovo
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Batak,batak
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Belovo,belovo
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Bratsigovo,bratsigovo
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Lesichovo,lesichovo
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Batak,obshtina-batak
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Belovo,obshtina-belovo
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Bratsigovo,obshtina-bratsigovo
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Lesichovo,obshtina-lesichovo
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Panagyurishte,obshtina-panagyurishte
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Pazardzhik,obshtina-pazardzhik
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Peshtera,obshtina-peshtera
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Rakitovo,obshtina-rakitovo
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Septemvri,obshtina-septemvri
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Strelcha,obshtina-strelcha
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Velingrad,obshtina-velingrad
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Panagyurishte,panagyurishte
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Pazardzhik,pazardzhik
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Peshtera,peshtera
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Rakitovo,rakitovo
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Sarnitsa,sarnitsa
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Sarnitsa Obshtina,sarnitsa-obshtina
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Septemvri,septemvri
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Strelcha,strelcha
-Bulgaria,BG,Pazardzhik Province,pazardzhik-province,Velingrad,velingrad
-Bulgaria,BG,Pernik Province,pernik-province,Batanovtsi,batanovtsi
-Bulgaria,BG,Pernik Province,pernik-province,Breznik,breznik
-Bulgaria,BG,Pernik Province,pernik-province,Obshtina Kovachevtsi,obshtina-kovachevtsi
-Bulgaria,BG,Pernik Province,pernik-province,Obshtina Pernik,obshtina-pernik
-Bulgaria,BG,Pernik Province,pernik-province,Obshtina Radomir,obshtina-radomir
-Bulgaria,BG,Pernik Province,pernik-province,Obshtina Zemen,obshtina-zemen
-Bulgaria,BG,Pernik Province,pernik-province,Pernik,pernik
-Bulgaria,BG,Pernik Province,pernik-province,Radomir,radomir
-Bulgaria,BG,Pernik Province,pernik-province,Tran,tran
-Bulgaria,BG,Pernik Province,pernik-province,Zemen,zemen
-Bulgaria,BG,Pleven Province,pleven-province,Belene,belene
-Bulgaria,BG,Pleven Province,pleven-province,Cherven Bryag,cherven-bryag
-Bulgaria,BG,Pleven Province,pleven-province,Dolna Mitropolia,dolna-mitropolia
-Bulgaria,BG,Pleven Province,pleven-province,Dolni Dabnik,dolni-dabnik
-Bulgaria,BG,Pleven Province,pleven-province,Gulyantsi,gulyantsi
-Bulgaria,BG,Pleven Province,pleven-province,Iskar,iskar
-Bulgaria,BG,Pleven Province,pleven-province,Knezha,knezha
-Bulgaria,BG,Pleven Province,pleven-province,Koynare,koynare
-Bulgaria,BG,Pleven Province,pleven-province,Levski,levski
-Bulgaria,BG,Pleven Province,pleven-province,Nikopol,nikopol
-Bulgaria,BG,Pleven Province,pleven-province,Obshtina Belene,obshtina-belene
-Bulgaria,BG,Pleven Province,pleven-province,Obshtina Cherven Bryag,obshtina-cherven-bryag
-Bulgaria,BG,Pleven Province,pleven-province,Obshtina Dolna Mitropolia,obshtina-dolna-mitropolia
-Bulgaria,BG,Pleven Province,pleven-province,Obshtina Dolni Dabnik,obshtina-dolni-dabnik
-Bulgaria,BG,Pleven Province,pleven-province,Obshtina Gulyantsi,obshtina-gulyantsi
-Bulgaria,BG,Pleven Province,pleven-province,Obshtina Iskar,obshtina-iskar
-Bulgaria,BG,Pleven Province,pleven-province,Obshtina Knezha,obshtina-knezha
-Bulgaria,BG,Pleven Province,pleven-province,Obshtina Levski,obshtina-levski
-Bulgaria,BG,Pleven Province,pleven-province,Obshtina Nikopol,obshtina-nikopol
-Bulgaria,BG,Pleven Province,pleven-province,Obshtina Pleven,obshtina-pleven
-Bulgaria,BG,Pleven Province,pleven-province,Obshtina Pordim,obshtina-pordim
-Bulgaria,BG,Pleven Province,pleven-province,Pleven,pleven
-Bulgaria,BG,Pleven Province,pleven-province,Pordim,pordim
-Bulgaria,BG,Pleven Province,pleven-province,Slavyanovo,slavyanovo
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Asenovgrad,asenovgrad
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Brezovo,brezovo
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Hisarya,hisarya
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Kalofer,kalofer
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Kaloyanovo,kaloyanovo
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Karlovo,karlovo
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Klisura,klisura
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Krichim,krichim
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Laki,laki
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Asenovgrad,obshtina-asenovgrad
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Hisarya,obshtina-hisarya
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Kaloyanovo,obshtina-kaloyanovo
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Karlovo,obshtina-karlovo
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Krichim,obshtina-krichim
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Kuklen,obshtina-kuklen
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Laki,obshtina-laki
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Maritsa,obshtina-maritsa
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Parvomay,obshtina-parvomay
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Perushtitsa,obshtina-perushtitsa
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Plovdiv,obshtina-plovdiv
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Rakovski,obshtina-rakovski
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Rodopi,obshtina-rodopi
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Sadovo,obshtina-sadovo
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Saedinenie,obshtina-saedinenie
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Sopot,obshtina-sopot
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Stamboliyski,obshtina-stamboliyski
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Parvomay,parvomay
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Perushtitsa,perushtitsa
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Plovdiv,plovdiv
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Rakovski,rakovski
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Sadovo,sadovo
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Saedinenie,saedinenie
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Stamboliyski,stamboliyski
-Bulgaria,BG,Plovdiv Province,plovdiv-province,Topolovo,topolovo
-Bulgaria,BG,Razgrad Province,razgrad-province,Isperih,isperih
-Bulgaria,BG,Razgrad Province,razgrad-province,Kubrat,kubrat
-Bulgaria,BG,Razgrad Province,razgrad-province,Loznitsa,loznitsa
-Bulgaria,BG,Razgrad Province,razgrad-province,Medovene,medovene
-Bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Isperih,obshtina-isperih
-Bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Kubrat,obshtina-kubrat
-Bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Loznitsa,obshtina-loznitsa
-Bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Razgrad,obshtina-razgrad
-Bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Samuil,obshtina-samuil
-Bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Tsar Kaloyan,obshtina-tsar-kaloyan
-Bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Zavet,obshtina-zavet
-Bulgaria,BG,Razgrad Province,razgrad-province,Razgrad,razgrad
-Bulgaria,BG,Razgrad Province,razgrad-province,Samuil,samuil
-Bulgaria,BG,Razgrad Province,razgrad-province,Tsar Kaloyan,tsar-kaloyan
-Bulgaria,BG,Razgrad Province,razgrad-province,Zavet,zavet
-Bulgaria,BG,Ruse Province,ruse-province,Borovo,borovo
-Bulgaria,BG,Ruse Province,ruse-province,Dve Mogili,dve-mogili
-Bulgaria,BG,Ruse Province,ruse-province,Ivanovo,ivanovo
-Bulgaria,BG,Ruse Province,ruse-province,Obshtina Borovo,obshtina-borovo
-Bulgaria,BG,Ruse Province,ruse-province,Obshtina Byala,obshtina-byala
-Bulgaria,BG,Ruse Province,ruse-province,Obshtina Dve Mogili,obshtina-dve-mogili
-Bulgaria,BG,Ruse Province,ruse-province,Obshtina Ivanovo,obshtina-ivanovo
-Bulgaria,BG,Ruse Province,ruse-province,Obshtina Ruse,obshtina-ruse
-Bulgaria,BG,Ruse Province,ruse-province,Obshtina Slivo Pole,obshtina-slivo-pole
-Bulgaria,BG,Ruse Province,ruse-province,Obshtina Tsenovo,obshtina-tsenovo
-Bulgaria,BG,Ruse Province,ruse-province,Obshtina Vetovo,obshtina-vetovo
-Bulgaria,BG,Ruse Province,ruse-province,Ruse,ruse
-Bulgaria,BG,Ruse Province,ruse-province,Senovo,senovo
-Bulgaria,BG,Ruse Province,ruse-province,Slivo Pole,slivo-pole
-Bulgaria,BG,Ruse Province,ruse-province,Tsenovo,tsenovo
-Bulgaria,BG,Ruse Province,ruse-province,Vetovo,vetovo
-Bulgaria,BG,Silistra Province,silistra-province,Alfatar,alfatar
-Bulgaria,BG,Silistra Province,silistra-province,Dulovo,dulovo
-Bulgaria,BG,Silistra Province,silistra-province,Glavinitsa,glavinitsa
-Bulgaria,BG,Silistra Province,silistra-province,Kaynardzha,kaynardzha
-Bulgaria,BG,Silistra Province,silistra-province,Obshtina Alfatar,obshtina-alfatar
-Bulgaria,BG,Silistra Province,silistra-province,Obshtina Dulovo,obshtina-dulovo
-Bulgaria,BG,Silistra Province,silistra-province,Obshtina Glavinitsa,obshtina-glavinitsa
-Bulgaria,BG,Silistra Province,silistra-province,Obshtina Kaynardzha,obshtina-kaynardzha
-Bulgaria,BG,Silistra Province,silistra-province,Obshtina Silistra,obshtina-silistra
-Bulgaria,BG,Silistra Province,silistra-province,Obshtina Sitovo,obshtina-sitovo
-Bulgaria,BG,Silistra Province,silistra-province,Obshtina Tutrakan,obshtina-tutrakan
-Bulgaria,BG,Silistra Province,silistra-province,Silistra,silistra
-Bulgaria,BG,Silistra Province,silistra-province,Sitovo,sitovo
-Bulgaria,BG,Silistra Province,silistra-province,Tutrakan,tutrakan
-Bulgaria,BG,Sliven Province,sliven-province,Kermen,kermen
-Bulgaria,BG,Sliven Province,sliven-province,Kotel,kotel
-Bulgaria,BG,Sliven Province,sliven-province,Nova Zagora,nova-zagora
-Bulgaria,BG,Sliven Province,sliven-province,Obshtina Kotel,obshtina-kotel
-Bulgaria,BG,Sliven Province,sliven-province,Obshtina Nova Zagora,obshtina-nova-zagora
-Bulgaria,BG,Sliven Province,sliven-province,Obshtina Sliven,obshtina-sliven
-Bulgaria,BG,Sliven Province,sliven-province,Obshtina Tvarditsa,obshtina-tvarditsa
-Bulgaria,BG,Sliven Province,sliven-province,Sliven,sliven
-Bulgaria,BG,Sliven Province,sliven-province,Tvarditsa,tvarditsa
-Bulgaria,BG,Smolyan Province,smolyan-province,Banite,banite
-Bulgaria,BG,Smolyan Province,smolyan-province,Borino,borino
-Bulgaria,BG,Smolyan Province,smolyan-province,Chepelare,chepelare
-Bulgaria,BG,Smolyan Province,smolyan-province,Devin,devin
-Bulgaria,BG,Smolyan Province,smolyan-province,Dospat,dospat
-Bulgaria,BG,Smolyan Province,smolyan-province,Gyovren,gyovren
-Bulgaria,BG,Smolyan Province,smolyan-province,Madan,madan
-Bulgaria,BG,Smolyan Province,smolyan-province,Nedelino,nedelino
-Bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Banite,obshtina-banite
-Bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Borino,obshtina-borino
-Bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Chepelare,obshtina-chepelare
-Bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Devin,obshtina-devin
-Bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Dospat,obshtina-dospat
-Bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Madan,obshtina-madan
-Bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Nedelino,obshtina-nedelino
-Bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Rudozem,obshtina-rudozem
-Bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Smolyan,obshtina-smolyan
-Bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Zlatograd,obshtina-zlatograd
-Bulgaria,BG,Smolyan Province,smolyan-province,Rudozem,rudozem
-Bulgaria,BG,Smolyan Province,smolyan-province,Smolyan,smolyan
-Bulgaria,BG,Smolyan Province,smolyan-province,Zlatograd,zlatograd
-Bulgaria,BG,Sofia City Province,sofia-city-province,Buhovo,buhovo
-Bulgaria,BG,Sofia City Province,sofia-city-province,Sofia,sofia
-Bulgaria,BG,Sofia City Province,sofia-city-province,Stolichna Obshtina,stolichna-obshtina
-Bulgaria,BG,Sofia Province,sofia-province,Anton,anton
-Bulgaria,BG,Sofia Province,sofia-province,Botevgrad,botevgrad
-Bulgaria,BG,Sofia Province,sofia-province,Bozhurishte,bozhurishte
-Bulgaria,BG,Sofia Province,sofia-province,Chavdar,chavdar
-Bulgaria,BG,Sofia Province,sofia-province,Chelopech,chelopech
-Bulgaria,BG,Sofia Province,sofia-province,Dolna Banya,dolna-banya
-Bulgaria,BG,Sofia Province,sofia-province,Dragoman,dragoman
-Bulgaria,BG,Sofia Province,sofia-province,Elin Pelin,elin-pelin
-Bulgaria,BG,Sofia Province,sofia-province,Etropole,etropole
-Bulgaria,BG,Sofia Province,sofia-province,Godech,godech
-Bulgaria,BG,Sofia Province,sofia-province,Gorna Malina,gorna-malina
-Bulgaria,BG,Sofia Province,sofia-province,Ihtiman,ihtiman
-Bulgaria,BG,Sofia Province,sofia-province,Koprivshtitsa,koprivshtitsa
-Bulgaria,BG,Sofia Province,sofia-province,Kostinbrod,kostinbrod
-Bulgaria,BG,Sofia Province,sofia-province,Lakatnik,lakatnik
-Bulgaria,BG,Sofia Province,sofia-province,Mirkovo,mirkovo
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Anton,obshtina-anton
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Botevgrad,obshtina-botevgrad
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Bozhurishte,obshtina-bozhurishte
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Chavdar,obshtina-chavdar
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Chelopech,obshtina-chelopech
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Dolna Banya,obshtina-dolna-banya
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Dragoman,obshtina-dragoman
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Elin Pelin,obshtina-elin-pelin
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Etropole,obshtina-etropole
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Gorna Malina,obshtina-gorna-malina
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Koprivshtitsa,obshtina-koprivshtitsa
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Kostenets,obshtina-kostenets
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Kostinbrod,obshtina-kostinbrod
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Mirkovo,obshtina-mirkovo
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Pirdop,obshtina-pirdop
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Pravets,obshtina-pravets
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Samokov,obshtina-samokov
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Slivnitsa,obshtina-slivnitsa
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Svoge,obshtina-svoge
-Bulgaria,BG,Sofia Province,sofia-province,Obshtina Zlatitsa,obshtina-zlatitsa
-Bulgaria,BG,Sofia Province,sofia-province,Pirdop,pirdop
-Bulgaria,BG,Sofia Province,sofia-province,Pravets,pravets
-Bulgaria,BG,Sofia Province,sofia-province,Samokov,samokov
-Bulgaria,BG,Sofia Province,sofia-province,Slivnitsa,slivnitsa
-Bulgaria,BG,Sofia Province,sofia-province,Svoge,svoge
-Bulgaria,BG,Sofia Province,sofia-province,Zlatitsa,zlatitsa
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Asen,asen
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Chirpan,chirpan
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Gulubovo,gulubovo
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Gurkovo,gurkovo
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Kazanlak,kazanlak
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Maglizh,maglizh
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Nikolaevo,nikolaevo
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Bratya Daskalovi,obshtina-bratya-daskalovi
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Chirpan,obshtina-chirpan
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Galabovo,obshtina-galabovo
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Gurkovo,obshtina-gurkovo
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Kazanluk,obshtina-kazanluk
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Maglizh,obshtina-maglizh
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Nikolaevo,obshtina-nikolaevo
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Opan,obshtina-opan
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Pavel Banya,obshtina-pavel-banya
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Radnevo,obshtina-radnevo
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Stara Zagora,obshtina-stara-zagora
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Pavel Banya,pavel-banya
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Radnevo,radnevo
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Shipka,shipka
-Bulgaria,BG,Stara Zagora Province,stara-zagora-province,Stara Zagora,stara-zagora
-Bulgaria,BG,Targovishte Province,targovishte-province,Antonovo,antonovo
-Bulgaria,BG,Targovishte Province,targovishte-province,Obshtina Antonovo,obshtina-antonovo
-Bulgaria,BG,Targovishte Province,targovishte-province,Obshtina Omurtag,obshtina-omurtag
-Bulgaria,BG,Targovishte Province,targovishte-province,Obshtina Opaka,obshtina-opaka
-Bulgaria,BG,Targovishte Province,targovishte-province,Obshtina Popovo,obshtina-popovo
-Bulgaria,BG,Targovishte Province,targovishte-province,Obshtina Targovishte,obshtina-targovishte
-Bulgaria,BG,Targovishte Province,targovishte-province,Omurtag,omurtag
-Bulgaria,BG,Targovishte Province,targovishte-province,Opaka,opaka
-Bulgaria,BG,Targovishte Province,targovishte-province,Popovo,popovo
-Bulgaria,BG,Targovishte Province,targovishte-province,Targovishte,targovishte
-Bulgaria,BG,Varna Province,varna-province,Aksakovo,aksakovo
-Bulgaria,BG,Varna Province,varna-province,Asparuhovo,asparuhovo
-Bulgaria,BG,Varna Province,varna-province,Balgarevo,balgarevo
-Bulgaria,BG,Varna Province,varna-province,Beloslav,beloslav
-Bulgaria,BG,Varna Province,varna-province,Byala,byala
-Bulgaria,BG,Varna Province,varna-province,Dalgopol,dalgopol
-Bulgaria,BG,Varna Province,varna-province,Devnya,devnya
-Bulgaria,BG,Varna Province,varna-province,Dolni Chiflik,dolni-chiflik
-Bulgaria,BG,Varna Province,varna-province,Kiten,kiten
-Bulgaria,BG,Varna Province,varna-province,Obshtina Aksakovo,obshtina-aksakovo
-Bulgaria,BG,Varna Province,varna-province,Obshtina Avren,obshtina-avren
-Bulgaria,BG,Varna Province,varna-province,Obshtina Beloslav,obshtina-beloslav
-Bulgaria,BG,Varna Province,varna-province,Obshtina Byala,obshtina-byala
-Bulgaria,BG,Varna Province,varna-province,Obshtina Dalgopol,obshtina-dalgopol
-Bulgaria,BG,Varna Province,varna-province,Obshtina Devnya,obshtina-devnya
-Bulgaria,BG,Varna Province,varna-province,Obshtina Dolni Chiflik,obshtina-dolni-chiflik
-Bulgaria,BG,Varna Province,varna-province,Obshtina Provadia,obshtina-provadia
-Bulgaria,BG,Varna Province,varna-province,Obshtina Suvorovo,obshtina-suvorovo
-Bulgaria,BG,Varna Province,varna-province,Obshtina Valchidol,obshtina-valchidol
-Bulgaria,BG,Varna Province,varna-province,Obshtina Varna,obshtina-varna
-Bulgaria,BG,Varna Province,varna-province,Obshtina Vetrino,obshtina-vetrino
-Bulgaria,BG,Varna Province,varna-province,Provadia,provadia
-Bulgaria,BG,Varna Province,varna-province,Suvorovo,suvorovo
-Bulgaria,BG,Varna Province,varna-province,Valchidol,valchidol
-Bulgaria,BG,Varna Province,varna-province,Varna,varna
-Bulgaria,BG,Varna Province,varna-province,Vetrino,vetrino
-Bulgaria,BG,Varna Province,varna-province,Zlatni Pyasatsi,zlatni-pyasatsi
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Byala Cherkva,byala-cherkva
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Debelets,debelets
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Elena,elena
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Gorna Oryahovitsa,gorna-oryahovitsa
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Kilifarevo,kilifarevo
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Lyaskovets,lyaskovets
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Elena,obshtina-elena
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Gorna Oryahovitsa,obshtina-gorna-oryahovitsa
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Lyaskovets,obshtina-lyaskovets
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Pavlikeni,obshtina-pavlikeni
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Polski Trambesh,obshtina-polski-trambesh
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Strazhitsa,obshtina-strazhitsa
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Suhindol,obshtina-suhindol
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Svishtov,obshtina-svishtov
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Veliko Turnovo,obshtina-veliko-turnovo
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Zlataritsa,obshtina-zlataritsa
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Parvomaytsi,parvomaytsi
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Pavlikeni,pavlikeni
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Polski Trambesh,polski-trambesh
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Strazhitsa,strazhitsa
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Suhindol,suhindol
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Svishtov,svishtov
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Veliko Turnovo,veliko-turnovo
-Bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Zlataritsa,zlataritsa
-Bulgaria,BG,Vidin Province,vidin-province,Belogradchik,belogradchik
-Bulgaria,BG,Vidin Province,vidin-province,Boynitsa,boynitsa
-Bulgaria,BG,Vidin Province,vidin-province,Bregovo,bregovo
-Bulgaria,BG,Vidin Province,vidin-province,Chuprene,chuprene
-Bulgaria,BG,Vidin Province,vidin-province,Dimovo,dimovo
-Bulgaria,BG,Vidin Province,vidin-province,Drenovets,drenovets
-Bulgaria,BG,Vidin Province,vidin-province,Dunavtsi,dunavtsi
-Bulgaria,BG,Vidin Province,vidin-province,Gramada,gramada
-Bulgaria,BG,Vidin Province,vidin-province,Kula,kula
-Bulgaria,BG,Vidin Province,vidin-province,Makresh,makresh
-Bulgaria,BG,Vidin Province,vidin-province,Novo Selo,novo-selo
-Bulgaria,BG,Vidin Province,vidin-province,Obshtina Belogradchik,obshtina-belogradchik
-Bulgaria,BG,Vidin Province,vidin-province,Obshtina Boynitsa,obshtina-boynitsa
-Bulgaria,BG,Vidin Province,vidin-province,Obshtina Dimovo,obshtina-dimovo
-Bulgaria,BG,Vidin Province,vidin-province,Obshtina Gramada,obshtina-gramada
-Bulgaria,BG,Vidin Province,vidin-province,Obshtina Kula,obshtina-kula
-Bulgaria,BG,Vidin Province,vidin-province,Obshtina Ruzhintsi,obshtina-ruzhintsi
-Bulgaria,BG,Vidin Province,vidin-province,Obshtina Vidin,obshtina-vidin
-Bulgaria,BG,Vidin Province,vidin-province,Ruzhintsi,ruzhintsi
-Bulgaria,BG,Vidin Province,vidin-province,Vidin,vidin
-Bulgaria,BG,Vratsa Province,vratsa-province,Borovan,borovan
-Bulgaria,BG,Vratsa Province,vratsa-province,Byala Slatina,byala-slatina
-Bulgaria,BG,Vratsa Province,vratsa-province,Hayredin,hayredin
-Bulgaria,BG,Vratsa Province,vratsa-province,Kozloduy,kozloduy
-Bulgaria,BG,Vratsa Province,vratsa-province,Krivodol,krivodol
-Bulgaria,BG,Vratsa Province,vratsa-province,Mezdra,mezdra
-Bulgaria,BG,Vratsa Province,vratsa-province,Mizia,mizia
-Bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Borovan,obshtina-borovan
-Bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Hayredin,obshtina-hayredin
-Bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Kozloduy,obshtina-kozloduy
-Bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Krivodol,obshtina-krivodol
-Bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Mezdra,obshtina-mezdra
-Bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Mizia,obshtina-mizia
-Bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Oryahovo,obshtina-oryahovo
-Bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Roman,obshtina-roman
-Bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Vratsa,obshtina-vratsa
-Bulgaria,BG,Vratsa Province,vratsa-province,Oryahovo,oryahovo
-Bulgaria,BG,Vratsa Province,vratsa-province,Roman,roman
-Bulgaria,BG,Vratsa Province,vratsa-province,Vratsa,vratsa
-Bulgaria,BG,Yambol Province,yambol-province,Bolyarovo,bolyarovo
-Bulgaria,BG,Yambol Province,yambol-province,Elhovo,elhovo
-Bulgaria,BG,Yambol Province,yambol-province,Obshtina Bolyarovo,obshtina-bolyarovo
-Bulgaria,BG,Yambol Province,yambol-province,Obshtina Elhovo,obshtina-elhovo
-Bulgaria,BG,Yambol Province,yambol-province,Obshtina Straldzha,obshtina-straldzha
-Bulgaria,BG,Yambol Province,yambol-province,Obshtina Tundzha,obshtina-tundzha
-Bulgaria,BG,Yambol Province,yambol-province,Obshtina Yambol,obshtina-yambol
-Bulgaria,BG,Yambol Province,yambol-province,Straldzha,straldzha
-Bulgaria,BG,Yambol Province,yambol-province,Yambol,yambol
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Bansko,bansko
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Belitsa,belitsa
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Blagoevgrad,blagoevgrad
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Garmen,garmen
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Gotse Delchev,gotse-delchev
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Hadzhidimovo,hadzhidimovo
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Kolarovo,kolarovo
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Kresna,kresna
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Bansko,obshtina-bansko
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Belitsa,obshtina-belitsa
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Blagoevgrad,obshtina-blagoevgrad
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Garmen,obshtina-garmen
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Gotse Delchev,obshtina-gotse-delchev
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Kresna,obshtina-kresna
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Petrich,obshtina-petrich
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Razlog,obshtina-razlog
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Sandanski,obshtina-sandanski
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Satovcha,obshtina-satovcha
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Simitli,obshtina-simitli
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Strumyani,obshtina-strumyani
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Obshtina Yakoruda,obshtina-yakoruda
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Petrich,petrich
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Razlog,razlog
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Sandanski,sandanski
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Satovcha,satovcha
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Simitli,simitli
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Stara Kresna,stara-kresna
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Strumyani,strumyani
+Bulgaria,bulgaria,BG,Blagoevgrad Province,blagoevgrad-province,Yakoruda,yakoruda
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Aheloy,aheloy
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Ahtopol,ahtopol
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Aytos,aytos
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Bata,bata
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Burgas,burgas
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Chernomorets,chernomorets
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Kameno,kameno
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Karnobat,karnobat
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Kiten,kiten
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Malko Tarnovo,malko-tarnovo
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Nesebar,nesebar
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Obshtina Aytos,obshtina-aytos
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Obshtina Burgas,obshtina-burgas
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Obshtina Kameno,obshtina-kameno
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Obshtina Karnobat,obshtina-karnobat
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Obshtina Malko Tarnovo,obshtina-malko-tarnovo
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Obshtina Nesebar,obshtina-nesebar
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Obshtina Pomorie,obshtina-pomorie
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Obshtina Primorsko,obshtina-primorsko
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Obshtina Sozopol,obshtina-sozopol
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Obshtina Sungurlare,obshtina-sungurlare
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Obzor,obzor
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Pomorie,pomorie
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Primorsko,primorsko
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Ravda,ravda
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Ruen,ruen
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Sarafovo,sarafovo
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Sozopol,sozopol
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Sredets,sredets
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Sungurlare,sungurlare
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Sveti Vlas,sveti-vlas
+Bulgaria,bulgaria,BG,Burgas Province,burgas-province,Tsarevo,tsarevo
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Balchik,balchik
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Dobrich,dobrich
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,General Toshevo,general-toshevo
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Kavarna,kavarna
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Krushari,krushari
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Balchik,obshtina-balchik
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Dobrich,obshtina-dobrich
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Dobrich-Selska,obshtina-dobrich-selska
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Obshtina General Toshevo,obshtina-general-toshevo
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Kavarna,obshtina-kavarna
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Krushari,obshtina-krushari
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Shabla,obshtina-shabla
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Obshtina Tervel,obshtina-tervel
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Shabla,shabla
+Bulgaria,bulgaria,BG,Dobrich Province,dobrich-province,Tervel,tervel
+Bulgaria,bulgaria,BG,Gabrovo Province,gabrovo-province,Dryanovo,dryanovo
+Bulgaria,bulgaria,BG,Gabrovo Province,gabrovo-province,Gabrovo,gabrovo
+Bulgaria,bulgaria,BG,Gabrovo Province,gabrovo-province,Obshtina Dryanovo,obshtina-dryanovo
+Bulgaria,bulgaria,BG,Gabrovo Province,gabrovo-province,Obshtina Gabrovo,obshtina-gabrovo
+Bulgaria,bulgaria,BG,Gabrovo Province,gabrovo-province,Obshtina Sevlievo,obshtina-sevlievo
+Bulgaria,bulgaria,BG,Gabrovo Province,gabrovo-province,Obshtina Tryavna,obshtina-tryavna
+Bulgaria,bulgaria,BG,Gabrovo Province,gabrovo-province,Sevlievo,sevlievo
+Bulgaria,bulgaria,BG,Gabrovo Province,gabrovo-province,Tryavna,tryavna
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Dimitrovgrad,dimitrovgrad
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Harmanli,harmanli
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Haskovo,haskovo
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Ivaylovgrad,ivaylovgrad
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Lyubimets,lyubimets
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Madzharovo,madzharovo
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Mineralni Bani,mineralni-bani
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Dimitrovgrad,obshtina-dimitrovgrad
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Harmanli,obshtina-harmanli
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Haskovo,obshtina-haskovo
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Ivaylovgrad,obshtina-ivaylovgrad
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Madzharovo,obshtina-madzharovo
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Mineralni Bani,obshtina-mineralni-bani
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Stambolovo,obshtina-stambolovo
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Svilengrad,obshtina-svilengrad
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Obshtina Topolovgrad,obshtina-topolovgrad
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Simeonovgrad,simeonovgrad
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Svilengrad,svilengrad
+Bulgaria,bulgaria,BG,Haskovo Province,haskovo-province,Topolovgrad,topolovgrad
+Bulgaria,bulgaria,BG,Kardzhali Province,kardzhali-province,Ardino,ardino
+Bulgaria,bulgaria,BG,Kardzhali Province,kardzhali-province,Dzhebel,dzhebel
+Bulgaria,bulgaria,BG,Kardzhali Province,kardzhali-province,Kardzhali,kardzhali
+Bulgaria,bulgaria,BG,Kardzhali Province,kardzhali-province,Kirkovo,kirkovo
+Bulgaria,bulgaria,BG,Kardzhali Province,kardzhali-province,Krumovgrad,krumovgrad
+Bulgaria,bulgaria,BG,Kardzhali Province,kardzhali-province,Obshtina Ardino,obshtina-ardino
+Bulgaria,bulgaria,BG,Kardzhali Province,kardzhali-province,Obshtina Chernoochene,obshtina-chernoochene
+Bulgaria,bulgaria,BG,Kardzhali Province,kardzhali-province,Obshtina Dzhebel,obshtina-dzhebel
+Bulgaria,bulgaria,BG,Kardzhali Province,kardzhali-province,Obshtina Kardzhali,obshtina-kardzhali
+Bulgaria,bulgaria,BG,Kardzhali Province,kardzhali-province,Obshtina Kirkovo,obshtina-kirkovo
+Bulgaria,bulgaria,BG,Kardzhali Province,kardzhali-province,Obshtina Momchilgrad,obshtina-momchilgrad
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Boboshevo,boboshevo
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Bobov Dol,bobov-dol
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Dupnitsa,dupnitsa
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Kocherinovo,kocherinovo
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Kyustendil,kyustendil
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Nevestino,nevestino
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Boboshevo,obshtina-boboshevo
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Bobov Dol,obshtina-bobov-dol
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Dupnitsa,obshtina-dupnitsa
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Kocherinovo,obshtina-kocherinovo
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Kyustendil,obshtina-kyustendil
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Nevestino,obshtina-nevestino
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Rila,obshtina-rila
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Sapareva Banya,obshtina-sapareva-banya
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Obshtina Treklyano,obshtina-treklyano
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Rila,rila
+Bulgaria,bulgaria,BG,Kyustendil Province,kyustendil-province,Sapareva Banya,sapareva-banya
+Bulgaria,bulgaria,BG,Lovech Province,lovech-province,Apriltsi,apriltsi
+Bulgaria,bulgaria,BG,Lovech Province,lovech-province,Letnitsa,letnitsa
+Bulgaria,bulgaria,BG,Lovech Province,lovech-province,Lovech,lovech
+Bulgaria,bulgaria,BG,Lovech Province,lovech-province,Lukovit,lukovit
+Bulgaria,bulgaria,BG,Lovech Province,lovech-province,Obshtina Lovech,obshtina-lovech
+Bulgaria,bulgaria,BG,Lovech Province,lovech-province,Obshtina Teteven,obshtina-teteven
+Bulgaria,bulgaria,BG,Lovech Province,lovech-province,Obshtina Ugarchin,obshtina-ugarchin
+Bulgaria,bulgaria,BG,Lovech Province,lovech-province,Teteven,teteven
+Bulgaria,bulgaria,BG,Lovech Province,lovech-province,Troyan,troyan
+Bulgaria,bulgaria,BG,Lovech Province,lovech-province,Ugarchin,ugarchin
+Bulgaria,bulgaria,BG,Lovech Province,lovech-province,Yablanitsa,yablanitsa
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Berkovitsa,berkovitsa
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Boychinovtsi,boychinovtsi
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Brusartsi,brusartsi
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Chiprovtsi,chiprovtsi
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Lom,lom
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Medkovets,medkovets
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Montana,montana
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Obshtina Boychinovtsi,obshtina-boychinovtsi
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Obshtina Chiprovtsi,obshtina-chiprovtsi
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Obshtina Georgi Damyanovo,obshtina-georgi-damyanovo
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Obshtina Lom,obshtina-lom
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Obshtina Montana,obshtina-montana
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Obshtina Valchedram,obshtina-valchedram
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Obshtina Varshets,obshtina-varshets
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Obshtina Yakimovo,obshtina-yakimovo
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Valchedram,valchedram
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Varshets,varshets
+Bulgaria,bulgaria,BG,Montana Province,montana-province,Yakimovo,yakimovo
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Batak,batak
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Belovo,belovo
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Bratsigovo,bratsigovo
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Lesichovo,lesichovo
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Batak,obshtina-batak
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Belovo,obshtina-belovo
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Bratsigovo,obshtina-bratsigovo
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Lesichovo,obshtina-lesichovo
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Panagyurishte,obshtina-panagyurishte
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Pazardzhik,obshtina-pazardzhik
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Peshtera,obshtina-peshtera
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Rakitovo,obshtina-rakitovo
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Septemvri,obshtina-septemvri
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Strelcha,obshtina-strelcha
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Obshtina Velingrad,obshtina-velingrad
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Panagyurishte,panagyurishte
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Pazardzhik,pazardzhik
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Peshtera,peshtera
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Rakitovo,rakitovo
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Sarnitsa,sarnitsa
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Sarnitsa Obshtina,sarnitsa-obshtina
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Septemvri,septemvri
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Strelcha,strelcha
+Bulgaria,bulgaria,BG,Pazardzhik Province,pazardzhik-province,Velingrad,velingrad
+Bulgaria,bulgaria,BG,Pernik Province,pernik-province,Batanovtsi,batanovtsi
+Bulgaria,bulgaria,BG,Pernik Province,pernik-province,Breznik,breznik
+Bulgaria,bulgaria,BG,Pernik Province,pernik-province,Obshtina Kovachevtsi,obshtina-kovachevtsi
+Bulgaria,bulgaria,BG,Pernik Province,pernik-province,Obshtina Pernik,obshtina-pernik
+Bulgaria,bulgaria,BG,Pernik Province,pernik-province,Obshtina Radomir,obshtina-radomir
+Bulgaria,bulgaria,BG,Pernik Province,pernik-province,Obshtina Zemen,obshtina-zemen
+Bulgaria,bulgaria,BG,Pernik Province,pernik-province,Pernik,pernik
+Bulgaria,bulgaria,BG,Pernik Province,pernik-province,Radomir,radomir
+Bulgaria,bulgaria,BG,Pernik Province,pernik-province,Tran,tran
+Bulgaria,bulgaria,BG,Pernik Province,pernik-province,Zemen,zemen
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Belene,belene
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Cherven Bryag,cherven-bryag
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Dolna Mitropolia,dolna-mitropolia
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Dolni Dabnik,dolni-dabnik
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Gulyantsi,gulyantsi
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Iskar,iskar
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Knezha,knezha
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Koynare,koynare
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Levski,levski
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Nikopol,nikopol
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Obshtina Belene,obshtina-belene
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Obshtina Cherven Bryag,obshtina-cherven-bryag
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Obshtina Dolna Mitropolia,obshtina-dolna-mitropolia
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Obshtina Dolni Dabnik,obshtina-dolni-dabnik
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Obshtina Gulyantsi,obshtina-gulyantsi
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Obshtina Iskar,obshtina-iskar
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Obshtina Knezha,obshtina-knezha
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Obshtina Levski,obshtina-levski
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Obshtina Nikopol,obshtina-nikopol
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Obshtina Pleven,obshtina-pleven
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Obshtina Pordim,obshtina-pordim
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Pleven,pleven
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Pordim,pordim
+Bulgaria,bulgaria,BG,Pleven Province,pleven-province,Slavyanovo,slavyanovo
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Asenovgrad,asenovgrad
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Brezovo,brezovo
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Hisarya,hisarya
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Kalofer,kalofer
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Kaloyanovo,kaloyanovo
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Karlovo,karlovo
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Klisura,klisura
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Krichim,krichim
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Laki,laki
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Asenovgrad,obshtina-asenovgrad
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Hisarya,obshtina-hisarya
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Kaloyanovo,obshtina-kaloyanovo
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Karlovo,obshtina-karlovo
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Krichim,obshtina-krichim
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Kuklen,obshtina-kuklen
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Laki,obshtina-laki
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Maritsa,obshtina-maritsa
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Parvomay,obshtina-parvomay
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Perushtitsa,obshtina-perushtitsa
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Plovdiv,obshtina-plovdiv
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Rakovski,obshtina-rakovski
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Rodopi,obshtina-rodopi
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Sadovo,obshtina-sadovo
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Saedinenie,obshtina-saedinenie
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Sopot,obshtina-sopot
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Obshtina Stamboliyski,obshtina-stamboliyski
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Parvomay,parvomay
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Perushtitsa,perushtitsa
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Plovdiv,plovdiv
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Rakovski,rakovski
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Sadovo,sadovo
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Saedinenie,saedinenie
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Stamboliyski,stamboliyski
+Bulgaria,bulgaria,BG,Plovdiv Province,plovdiv-province,Topolovo,topolovo
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Isperih,isperih
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Kubrat,kubrat
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Loznitsa,loznitsa
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Medovene,medovene
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Isperih,obshtina-isperih
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Kubrat,obshtina-kubrat
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Loznitsa,obshtina-loznitsa
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Razgrad,obshtina-razgrad
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Samuil,obshtina-samuil
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Tsar Kaloyan,obshtina-tsar-kaloyan
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Obshtina Zavet,obshtina-zavet
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Razgrad,razgrad
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Samuil,samuil
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Tsar Kaloyan,tsar-kaloyan
+Bulgaria,bulgaria,BG,Razgrad Province,razgrad-province,Zavet,zavet
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Borovo,borovo
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Dve Mogili,dve-mogili
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Ivanovo,ivanovo
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Obshtina Borovo,obshtina-borovo
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Obshtina Byala,obshtina-byala
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Obshtina Dve Mogili,obshtina-dve-mogili
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Obshtina Ivanovo,obshtina-ivanovo
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Obshtina Ruse,obshtina-ruse
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Obshtina Slivo Pole,obshtina-slivo-pole
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Obshtina Tsenovo,obshtina-tsenovo
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Obshtina Vetovo,obshtina-vetovo
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Ruse,ruse
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Senovo,senovo
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Slivo Pole,slivo-pole
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Tsenovo,tsenovo
+Bulgaria,bulgaria,BG,Ruse Province,ruse-province,Vetovo,vetovo
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Alfatar,alfatar
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Dulovo,dulovo
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Glavinitsa,glavinitsa
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Kaynardzha,kaynardzha
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Obshtina Alfatar,obshtina-alfatar
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Obshtina Dulovo,obshtina-dulovo
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Obshtina Glavinitsa,obshtina-glavinitsa
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Obshtina Kaynardzha,obshtina-kaynardzha
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Obshtina Silistra,obshtina-silistra
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Obshtina Sitovo,obshtina-sitovo
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Obshtina Tutrakan,obshtina-tutrakan
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Silistra,silistra
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Sitovo,sitovo
+Bulgaria,bulgaria,BG,Silistra Province,silistra-province,Tutrakan,tutrakan
+Bulgaria,bulgaria,BG,Sliven Province,sliven-province,Kermen,kermen
+Bulgaria,bulgaria,BG,Sliven Province,sliven-province,Kotel,kotel
+Bulgaria,bulgaria,BG,Sliven Province,sliven-province,Nova Zagora,nova-zagora
+Bulgaria,bulgaria,BG,Sliven Province,sliven-province,Obshtina Kotel,obshtina-kotel
+Bulgaria,bulgaria,BG,Sliven Province,sliven-province,Obshtina Nova Zagora,obshtina-nova-zagora
+Bulgaria,bulgaria,BG,Sliven Province,sliven-province,Obshtina Sliven,obshtina-sliven
+Bulgaria,bulgaria,BG,Sliven Province,sliven-province,Obshtina Tvarditsa,obshtina-tvarditsa
+Bulgaria,bulgaria,BG,Sliven Province,sliven-province,Sliven,sliven
+Bulgaria,bulgaria,BG,Sliven Province,sliven-province,Tvarditsa,tvarditsa
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Banite,banite
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Borino,borino
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Chepelare,chepelare
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Devin,devin
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Dospat,dospat
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Gyovren,gyovren
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Madan,madan
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Nedelino,nedelino
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Banite,obshtina-banite
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Borino,obshtina-borino
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Chepelare,obshtina-chepelare
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Devin,obshtina-devin
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Dospat,obshtina-dospat
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Madan,obshtina-madan
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Nedelino,obshtina-nedelino
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Rudozem,obshtina-rudozem
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Smolyan,obshtina-smolyan
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Obshtina Zlatograd,obshtina-zlatograd
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Rudozem,rudozem
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Smolyan,smolyan
+Bulgaria,bulgaria,BG,Smolyan Province,smolyan-province,Zlatograd,zlatograd
+Bulgaria,bulgaria,BG,Sofia City Province,sofia-city-province,Buhovo,buhovo
+Bulgaria,bulgaria,BG,Sofia City Province,sofia-city-province,Sofia,sofia
+Bulgaria,bulgaria,BG,Sofia City Province,sofia-city-province,Stolichna Obshtina,stolichna-obshtina
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Anton,anton
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Botevgrad,botevgrad
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Bozhurishte,bozhurishte
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Chavdar,chavdar
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Chelopech,chelopech
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Dolna Banya,dolna-banya
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Dragoman,dragoman
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Elin Pelin,elin-pelin
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Etropole,etropole
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Godech,godech
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Gorna Malina,gorna-malina
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Ihtiman,ihtiman
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Koprivshtitsa,koprivshtitsa
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Kostinbrod,kostinbrod
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Lakatnik,lakatnik
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Mirkovo,mirkovo
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Anton,obshtina-anton
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Botevgrad,obshtina-botevgrad
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Bozhurishte,obshtina-bozhurishte
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Chavdar,obshtina-chavdar
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Chelopech,obshtina-chelopech
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Dolna Banya,obshtina-dolna-banya
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Dragoman,obshtina-dragoman
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Elin Pelin,obshtina-elin-pelin
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Etropole,obshtina-etropole
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Gorna Malina,obshtina-gorna-malina
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Koprivshtitsa,obshtina-koprivshtitsa
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Kostenets,obshtina-kostenets
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Kostinbrod,obshtina-kostinbrod
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Mirkovo,obshtina-mirkovo
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Pirdop,obshtina-pirdop
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Pravets,obshtina-pravets
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Samokov,obshtina-samokov
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Slivnitsa,obshtina-slivnitsa
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Svoge,obshtina-svoge
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Obshtina Zlatitsa,obshtina-zlatitsa
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Pirdop,pirdop
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Pravets,pravets
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Samokov,samokov
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Slivnitsa,slivnitsa
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Svoge,svoge
+Bulgaria,bulgaria,BG,Sofia Province,sofia-province,Zlatitsa,zlatitsa
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Asen,asen
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Chirpan,chirpan
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Gulubovo,gulubovo
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Gurkovo,gurkovo
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Kazanlak,kazanlak
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Maglizh,maglizh
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Nikolaevo,nikolaevo
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Bratya Daskalovi,obshtina-bratya-daskalovi
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Chirpan,obshtina-chirpan
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Galabovo,obshtina-galabovo
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Gurkovo,obshtina-gurkovo
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Kazanluk,obshtina-kazanluk
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Maglizh,obshtina-maglizh
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Nikolaevo,obshtina-nikolaevo
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Opan,obshtina-opan
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Pavel Banya,obshtina-pavel-banya
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Radnevo,obshtina-radnevo
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Obshtina Stara Zagora,obshtina-stara-zagora
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Pavel Banya,pavel-banya
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Radnevo,radnevo
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Shipka,shipka
+Bulgaria,bulgaria,BG,Stara Zagora Province,stara-zagora-province,Stara Zagora,stara-zagora
+Bulgaria,bulgaria,BG,Targovishte Province,targovishte-province,Antonovo,antonovo
+Bulgaria,bulgaria,BG,Targovishte Province,targovishte-province,Obshtina Antonovo,obshtina-antonovo
+Bulgaria,bulgaria,BG,Targovishte Province,targovishte-province,Obshtina Omurtag,obshtina-omurtag
+Bulgaria,bulgaria,BG,Targovishte Province,targovishte-province,Obshtina Opaka,obshtina-opaka
+Bulgaria,bulgaria,BG,Targovishte Province,targovishte-province,Obshtina Popovo,obshtina-popovo
+Bulgaria,bulgaria,BG,Targovishte Province,targovishte-province,Obshtina Targovishte,obshtina-targovishte
+Bulgaria,bulgaria,BG,Targovishte Province,targovishte-province,Omurtag,omurtag
+Bulgaria,bulgaria,BG,Targovishte Province,targovishte-province,Opaka,opaka
+Bulgaria,bulgaria,BG,Targovishte Province,targovishte-province,Popovo,popovo
+Bulgaria,bulgaria,BG,Targovishte Province,targovishte-province,Targovishte,targovishte
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Aksakovo,aksakovo
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Asparuhovo,asparuhovo
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Balgarevo,balgarevo
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Beloslav,beloslav
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Byala,byala
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Dalgopol,dalgopol
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Devnya,devnya
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Dolni Chiflik,dolni-chiflik
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Kiten,kiten
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Obshtina Aksakovo,obshtina-aksakovo
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Obshtina Avren,obshtina-avren
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Obshtina Beloslav,obshtina-beloslav
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Obshtina Byala,obshtina-byala
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Obshtina Dalgopol,obshtina-dalgopol
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Obshtina Devnya,obshtina-devnya
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Obshtina Dolni Chiflik,obshtina-dolni-chiflik
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Obshtina Provadia,obshtina-provadia
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Obshtina Suvorovo,obshtina-suvorovo
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Obshtina Valchidol,obshtina-valchidol
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Obshtina Varna,obshtina-varna
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Obshtina Vetrino,obshtina-vetrino
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Provadia,provadia
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Suvorovo,suvorovo
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Valchidol,valchidol
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Varna,varna
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Vetrino,vetrino
+Bulgaria,bulgaria,BG,Varna Province,varna-province,Zlatni Pyasatsi,zlatni-pyasatsi
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Byala Cherkva,byala-cherkva
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Debelets,debelets
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Elena,elena
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Gorna Oryahovitsa,gorna-oryahovitsa
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Kilifarevo,kilifarevo
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Lyaskovets,lyaskovets
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Elena,obshtina-elena
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Gorna Oryahovitsa,obshtina-gorna-oryahovitsa
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Lyaskovets,obshtina-lyaskovets
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Pavlikeni,obshtina-pavlikeni
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Polski Trambesh,obshtina-polski-trambesh
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Strazhitsa,obshtina-strazhitsa
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Suhindol,obshtina-suhindol
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Svishtov,obshtina-svishtov
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Veliko Turnovo,obshtina-veliko-turnovo
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Obshtina Zlataritsa,obshtina-zlataritsa
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Parvomaytsi,parvomaytsi
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Pavlikeni,pavlikeni
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Polski Trambesh,polski-trambesh
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Strazhitsa,strazhitsa
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Suhindol,suhindol
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Svishtov,svishtov
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Veliko Turnovo,veliko-turnovo
+Bulgaria,bulgaria,BG,Veliko Tarnovo Province,veliko-tarnovo-province,Zlataritsa,zlataritsa
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Belogradchik,belogradchik
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Boynitsa,boynitsa
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Bregovo,bregovo
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Chuprene,chuprene
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Dimovo,dimovo
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Drenovets,drenovets
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Dunavtsi,dunavtsi
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Gramada,gramada
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Kula,kula
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Makresh,makresh
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Novo Selo,novo-selo
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Obshtina Belogradchik,obshtina-belogradchik
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Obshtina Boynitsa,obshtina-boynitsa
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Obshtina Dimovo,obshtina-dimovo
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Obshtina Gramada,obshtina-gramada
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Obshtina Kula,obshtina-kula
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Obshtina Ruzhintsi,obshtina-ruzhintsi
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Obshtina Vidin,obshtina-vidin
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Ruzhintsi,ruzhintsi
+Bulgaria,bulgaria,BG,Vidin Province,vidin-province,Vidin,vidin
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Borovan,borovan
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Byala Slatina,byala-slatina
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Hayredin,hayredin
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Kozloduy,kozloduy
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Krivodol,krivodol
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Mezdra,mezdra
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Mizia,mizia
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Borovan,obshtina-borovan
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Hayredin,obshtina-hayredin
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Kozloduy,obshtina-kozloduy
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Krivodol,obshtina-krivodol
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Mezdra,obshtina-mezdra
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Mizia,obshtina-mizia
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Oryahovo,obshtina-oryahovo
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Roman,obshtina-roman
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Obshtina Vratsa,obshtina-vratsa
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Oryahovo,oryahovo
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Roman,roman
+Bulgaria,bulgaria,BG,Vratsa Province,vratsa-province,Vratsa,vratsa
+Bulgaria,bulgaria,BG,Yambol Province,yambol-province,Bolyarovo,bolyarovo
+Bulgaria,bulgaria,BG,Yambol Province,yambol-province,Elhovo,elhovo
+Bulgaria,bulgaria,BG,Yambol Province,yambol-province,Obshtina Bolyarovo,obshtina-bolyarovo
+Bulgaria,bulgaria,BG,Yambol Province,yambol-province,Obshtina Elhovo,obshtina-elhovo
+Bulgaria,bulgaria,BG,Yambol Province,yambol-province,Obshtina Straldzha,obshtina-straldzha
+Bulgaria,bulgaria,BG,Yambol Province,yambol-province,Obshtina Tundzha,obshtina-tundzha
+Bulgaria,bulgaria,BG,Yambol Province,yambol-province,Obshtina Yambol,obshtina-yambol
+Bulgaria,bulgaria,BG,Yambol Province,yambol-province,Straldzha,straldzha
+Bulgaria,bulgaria,BG,Yambol Province,yambol-province,Yambol,yambol

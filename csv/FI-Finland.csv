@@ -1,408 +1,408 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Finland,FI,Aland Islands,aland-islands,Aland Islands,aland-islands
-Finland,FI,Central Finland,central-finland,Aanekoski,aanekoski
-Finland,FI,Central Finland,central-finland,Hankasalmi,hankasalmi
-Finland,FI,Central Finland,central-finland,Jamsa,jamsa
-Finland,FI,Central Finland,central-finland,Jamsankoski,jamsankoski
-Finland,FI,Central Finland,central-finland,Joutsa,joutsa
-Finland,FI,Central Finland,central-finland,Jyvaskyla,jyvaskyla
-Finland,FI,Central Finland,central-finland,Kannonkoski,kannonkoski
-Finland,FI,Central Finland,central-finland,Karstula,karstula
-Finland,FI,Central Finland,central-finland,Keuruu,keuruu
-Finland,FI,Central Finland,central-finland,Kinnula,kinnula
-Finland,FI,Central Finland,central-finland,Kivijarvi,kivijarvi
-Finland,FI,Central Finland,central-finland,Konnevesi,konnevesi
-Finland,FI,Central Finland,central-finland,Korpilahti,korpilahti
-Finland,FI,Central Finland,central-finland,Kuhmoinen,kuhmoinen
-Finland,FI,Central Finland,central-finland,Kyyjarvi,kyyjarvi
-Finland,FI,Central Finland,central-finland,Laukaa,laukaa
-Finland,FI,Central Finland,central-finland,Leivonmaki,leivonmaki
-Finland,FI,Central Finland,central-finland,Luhanka,luhanka
-Finland,FI,Central Finland,central-finland,Multia,multia
-Finland,FI,Central Finland,central-finland,Muurame,muurame
-Finland,FI,Central Finland,central-finland,Petajavesi,petajavesi
-Finland,FI,Central Finland,central-finland,Pihtipudas,pihtipudas
-Finland,FI,Central Finland,central-finland,Pylkonmaki,pylkonmaki
-Finland,FI,Central Finland,central-finland,Saarijarvi,saarijarvi
-Finland,FI,Central Finland,central-finland,Saynatsalo,saynatsalo
-Finland,FI,Central Finland,central-finland,Sumiainen,sumiainen
-Finland,FI,Central Finland,central-finland,Suolahti,suolahti
-Finland,FI,Central Finland,central-finland,Toivakka,toivakka
-Finland,FI,Central Finland,central-finland,Uurainen,uurainen
-Finland,FI,Central Finland,central-finland,Viitasaari,viitasaari
-Finland,FI,Central Ostrobothnia,central-ostrobothnia,Halsua,halsua
-Finland,FI,Central Ostrobothnia,central-ostrobothnia,Kalvia,kalvia
-Finland,FI,Central Ostrobothnia,central-ostrobothnia,Kannus,kannus
-Finland,FI,Central Ostrobothnia,central-ostrobothnia,Kaustinen,kaustinen
-Finland,FI,Central Ostrobothnia,central-ostrobothnia,Kokkola,kokkola
-Finland,FI,Central Ostrobothnia,central-ostrobothnia,Lestijarvi,lestijarvi
-Finland,FI,Central Ostrobothnia,central-ostrobothnia,Lohtaja,lohtaja
-Finland,FI,Central Ostrobothnia,central-ostrobothnia,Perho,perho
-Finland,FI,Central Ostrobothnia,central-ostrobothnia,Toholampi,toholampi
-Finland,FI,Central Ostrobothnia,central-ostrobothnia,Ullava,ullava
-Finland,FI,Central Ostrobothnia,central-ostrobothnia,Veteli,veteli
-Finland,FI,Eastern Finland Province,eastern-finland-province,Eastern Finland Province,eastern-finland-province
-Finland,FI,Finland Proper,finland-proper,Alastaro,alastaro
-Finland,FI,Finland Proper,finland-proper,Askainen,askainen
-Finland,FI,Finland Proper,finland-proper,Aura,aura
-Finland,FI,Finland Proper,finland-proper,Dragsfjard,dragsfjard
-Finland,FI,Finland Proper,finland-proper,Halikko,halikko
-Finland,FI,Finland Proper,finland-proper,Houtskar,houtskar
-Finland,FI,Finland Proper,finland-proper,Inio,inio
-Finland,FI,Finland Proper,finland-proper,Kaarina,kaarina
-Finland,FI,Finland Proper,finland-proper,Karinainen,karinainen
-Finland,FI,Finland Proper,finland-proper,Kiikala,kiikala
-Finland,FI,Finland Proper,finland-proper,Kimito,kimito
-Finland,FI,Finland Proper,finland-proper,Kisko,kisko
-Finland,FI,Finland Proper,finland-proper,Kustavi,kustavi
-Finland,FI,Finland Proper,finland-proper,Kuusjoki,kuusjoki
-Finland,FI,Finland Proper,finland-proper,Laitila,laitila
-Finland,FI,Finland Proper,finland-proper,Lemu,lemu
-Finland,FI,Finland Proper,finland-proper,Lieto,lieto
-Finland,FI,Finland Proper,finland-proper,Marttila,marttila
-Finland,FI,Finland Proper,finland-proper,Masku,masku
-Finland,FI,Finland Proper,finland-proper,Mellila,mellila
-Finland,FI,Finland Proper,finland-proper,Merimasku,merimasku
-Finland,FI,Finland Proper,finland-proper,Mietoinen,mietoinen
-Finland,FI,Finland Proper,finland-proper,Muurla,muurla
-Finland,FI,Finland Proper,finland-proper,Mynamaki,mynamaki
-Finland,FI,Finland Proper,finland-proper,Naantali,naantali
-Finland,FI,Finland Proper,finland-proper,Nagu,nagu
-Finland,FI,Finland Proper,finland-proper,Nousiainen,nousiainen
-Finland,FI,Finland Proper,finland-proper,Oripaa,oripaa
-Finland,FI,Finland Proper,finland-proper,Paimio,paimio
-Finland,FI,Finland Proper,finland-proper,Pargas,pargas
-Finland,FI,Finland Proper,finland-proper,Pernio,pernio
-Finland,FI,Finland Proper,finland-proper,Pertteli,pertteli
-Finland,FI,Finland Proper,finland-proper,Piikkio,piikkio
-Finland,FI,Finland Proper,finland-proper,Poytya,poytya
-Finland,FI,Finland Proper,finland-proper,Pyharanta,pyharanta
-Finland,FI,Finland Proper,finland-proper,Raisio,raisio
-Finland,FI,Finland Proper,finland-proper,Rusko,rusko
-Finland,FI,Finland Proper,finland-proper,Rymattyla,rymattyla
-Finland,FI,Finland Proper,finland-proper,Salo,salo
-Finland,FI,Finland Proper,finland-proper,Sarkisalo,sarkisalo
-Finland,FI,Finland Proper,finland-proper,Sauvo,sauvo
-Finland,FI,Finland Proper,finland-proper,Somero,somero
-Finland,FI,Finland Proper,finland-proper,Suomusjarvi,suomusjarvi
-Finland,FI,Finland Proper,finland-proper,Taivassalo,taivassalo
-Finland,FI,Finland Proper,finland-proper,Tarvasjoki,tarvasjoki
-Finland,FI,Finland Proper,finland-proper,Turku,turku
-Finland,FI,Finland Proper,finland-proper,Uusikaupunki,uusikaupunki
-Finland,FI,Finland Proper,finland-proper,Vahto,vahto
-Finland,FI,Finland Proper,finland-proper,Vastaboland,vastaboland
-Finland,FI,Finland Proper,finland-proper,Vastanfjard,vastanfjard
-Finland,FI,Finland Proper,finland-proper,Vehmaa,vehmaa
-Finland,FI,Finland Proper,finland-proper,Velkua,velkua
-Finland,FI,Finland Proper,finland-proper,Ylane,ylane
-Finland,FI,Kainuu,kainuu,Hyrynsalmi,hyrynsalmi
-Finland,FI,Kainuu,kainuu,Kajaani,kajaani
-Finland,FI,Kainuu,kainuu,Kuhmo,kuhmo
-Finland,FI,Kainuu,kainuu,Paltamo,paltamo
-Finland,FI,Kainuu,kainuu,Puolanka,puolanka
-Finland,FI,Kainuu,kainuu,Ristijarvi,ristijarvi
-Finland,FI,Kainuu,kainuu,Sotkamo,sotkamo
-Finland,FI,Kainuu,kainuu,Suomussalmi,suomussalmi
-Finland,FI,Kainuu,kainuu,Vaala,vaala
-Finland,FI,Kainuu,kainuu,Vuokatti,vuokatti
-Finland,FI,Kainuu,kainuu,Vuolijoki,vuolijoki
-Finland,FI,Kymenlaakso,kymenlaakso,Anjala,anjala
-Finland,FI,Kymenlaakso,kymenlaakso,Elimaki,elimaki
-Finland,FI,Kymenlaakso,kymenlaakso,Hamina,hamina
-Finland,FI,Kymenlaakso,kymenlaakso,Iitti,iitti
-Finland,FI,Kymenlaakso,kymenlaakso,Jaala,jaala
-Finland,FI,Kymenlaakso,kymenlaakso,Karhula,karhula
-Finland,FI,Kymenlaakso,kymenlaakso,Kotka,kotka
-Finland,FI,Kymenlaakso,kymenlaakso,Kouvola,kouvola
-Finland,FI,Kymenlaakso,kymenlaakso,Miehikkala,miehikkala
-Finland,FI,Kymenlaakso,kymenlaakso,Pyhtaa,pyhtaa
-Finland,FI,Kymenlaakso,kymenlaakso,Virojoki,virojoki
-Finland,FI,Lapland,lapland,Enontekio,enontekio
-Finland,FI,Lapland,lapland,Inari,inari
-Finland,FI,Lapland,lapland,Ivalo,ivalo
-Finland,FI,Lapland,lapland,Kemi,kemi
-Finland,FI,Lapland,lapland,Kemijarvi,kemijarvi
-Finland,FI,Lapland,lapland,Keminmaa,keminmaa
-Finland,FI,Lapland,lapland,Kittila,kittila
-Finland,FI,Lapland,lapland,Kolari,kolari
-Finland,FI,Lapland,lapland,Muonio,muonio
-Finland,FI,Lapland,lapland,Pelkosenniemi,pelkosenniemi
-Finland,FI,Lapland,lapland,Pello,pello
-Finland,FI,Lapland,lapland,Posio,posio
-Finland,FI,Lapland,lapland,Pyhajarvi,pyhajarvi
-Finland,FI,Lapland,lapland,Ranua,ranua
-Finland,FI,Lapland,lapland,Rovaniemi,rovaniemi
-Finland,FI,Lapland,lapland,Salla,salla
-Finland,FI,Lapland,lapland,Savukoski,savukoski
-Finland,FI,Lapland,lapland,Simo,simo
-Finland,FI,Lapland,lapland,Sodankyla,sodankyla
-Finland,FI,Lapland,lapland,Tervola,tervola
-Finland,FI,Lapland,lapland,Tornio,tornio
-Finland,FI,Lapland,lapland,Utsjoki,utsjoki
-Finland,FI,Lapland,lapland,Ylitornio,ylitornio
-Finland,FI,North Karelia,north-karelia,Eno,eno
-Finland,FI,North Karelia,north-karelia,Ilomantsi,ilomantsi
-Finland,FI,North Karelia,north-karelia,Joensuu,joensuu
-Finland,FI,North Karelia,north-karelia,Juuka,juuka
-Finland,FI,North Karelia,north-karelia,Kesalahti,kesalahti
-Finland,FI,North Karelia,north-karelia,Kiihtelysvaara,kiihtelysvaara
-Finland,FI,North Karelia,north-karelia,Kitee,kitee
-Finland,FI,North Karelia,north-karelia,Kontiolahti,kontiolahti
-Finland,FI,North Karelia,north-karelia,Lieksa,lieksa
-Finland,FI,North Karelia,north-karelia,Liperi,liperi
-Finland,FI,North Karelia,north-karelia,Nurmes,nurmes
-Finland,FI,North Karelia,north-karelia,Outokumpu,outokumpu
-Finland,FI,North Karelia,north-karelia,Polvijarvi,polvijarvi
-Finland,FI,North Karelia,north-karelia,Pyhaselka,pyhaselka
-Finland,FI,North Karelia,north-karelia,Raakkyla,raakkyla
-Finland,FI,North Karelia,north-karelia,Tohmajarvi,tohmajarvi
-Finland,FI,North Karelia,north-karelia,Tuupovaara,tuupovaara
-Finland,FI,North Karelia,north-karelia,Valtimo,valtimo
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Alavieska,alavieska
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Haapajarvi,haapajarvi
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Haapavesi,haapavesi
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Hailuoto,hailuoto
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Haukipudas,haukipudas
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Himanka,himanka
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Ii,ii
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Kalajoki,kalajoki
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Karsamaki,karsamaki
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Kempele,kempele
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Kestila,kestila
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Kiiminki,kiiminki
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Kuivaniemi,kuivaniemi
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Kuusamo,kuusamo
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Liminka,liminka
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Lumijoki,lumijoki
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Merijarvi,merijarvi
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Muhos,muhos
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Nivala,nivala
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Oulainen,oulainen
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Oulu,oulu
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Oulunsalo,oulunsalo
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Piippola,piippola
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Pudasjarvi,pudasjarvi
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Pulkkila,pulkkila
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Pyhajarvi,pyhajarvi
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Pyhajoki,pyhajoki
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Pyhanta,pyhanta
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Raahe,raahe
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Rantsila,rantsila
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Reisjarvi,reisjarvi
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Ruukki,ruukki
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Sievi,sievi
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Siikajoki,siikajoki
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Taivalkoski,taivalkoski
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Tyrnava,tyrnava
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Utajarvi,utajarvi
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Vihanti,vihanti
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Yli-Ii,yli-ii
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Ylikiiminki,ylikiiminki
-Finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Ylivieska,ylivieska
-Finland,FI,Northern Savonia,northern-savonia,Northern Savonia,northern-savonia
-Finland,FI,Ostrobothnia,ostrobothnia,Hietalahti,hietalahti
-Finland,FI,Ostrobothnia,ostrobothnia,Isokyro,isokyro
-Finland,FI,Ostrobothnia,ostrobothnia,Jakobstad,jakobstad
-Finland,FI,Ostrobothnia,ostrobothnia,Kaskinen,kaskinen
-Finland,FI,Ostrobothnia,ostrobothnia,Korsholm,korsholm
-Finland,FI,Ostrobothnia,ostrobothnia,Korsnas,korsnas
-Finland,FI,Ostrobothnia,ostrobothnia,Kristinestad,kristinestad
-Finland,FI,Ostrobothnia,ostrobothnia,Kronoby,kronoby
-Finland,FI,Ostrobothnia,ostrobothnia,Laihia,laihia
-Finland,FI,Ostrobothnia,ostrobothnia,Larsmo,larsmo
-Finland,FI,Ostrobothnia,ostrobothnia,Malax,malax
-Finland,FI,Ostrobothnia,ostrobothnia,Nykarleby,nykarleby
-Finland,FI,Ostrobothnia,ostrobothnia,Oravais,oravais
-Finland,FI,Ostrobothnia,ostrobothnia,Pedersore,pedersore
-Finland,FI,Ostrobothnia,ostrobothnia,Replot,replot
-Finland,FI,Ostrobothnia,ostrobothnia,Ristinummi,ristinummi
-Finland,FI,Ostrobothnia,ostrobothnia,Teeriniemi,teeriniemi
-Finland,FI,Ostrobothnia,ostrobothnia,Vaasa,vaasa
-Finland,FI,Ostrobothnia,ostrobothnia,Vahakyro,vahakyro
-Finland,FI,Ostrobothnia,ostrobothnia,Vora,vora
-Finland,FI,Oulu Province,oulu-province,Oulu Province,oulu-province
-Finland,FI,Paijanne Tavastia,paijanne-tavastia,Artjarvi,artjarvi
-Finland,FI,Paijanne Tavastia,paijanne-tavastia,Asikkala,asikkala
-Finland,FI,Paijanne Tavastia,paijanne-tavastia,Auttoinen,auttoinen
-Finland,FI,Paijanne Tavastia,paijanne-tavastia,Hameenkoski,hameenkoski
-Finland,FI,Paijanne Tavastia,paijanne-tavastia,Hartola,hartola
-Finland,FI,Paijanne Tavastia,paijanne-tavastia,Heinola,heinola
-Finland,FI,Paijanne Tavastia,paijanne-tavastia,Hollola,hollola
-Finland,FI,Paijanne Tavastia,paijanne-tavastia,Lahti,lahti
-Finland,FI,Paijanne Tavastia,paijanne-tavastia,Nastola,nastola
-Finland,FI,Paijanne Tavastia,paijanne-tavastia,Orimattila,orimattila
-Finland,FI,Paijanne Tavastia,paijanne-tavastia,Padasjoki,padasjoki
-Finland,FI,Paijanne Tavastia,paijanne-tavastia,Sysma,sysma
-Finland,FI,Pirkanmaa,pirkanmaa,Iisalmi,iisalmi
-Finland,FI,Pirkanmaa,pirkanmaa,Juankoski,juankoski
-Finland,FI,Pirkanmaa,pirkanmaa,Kaavi,kaavi
-Finland,FI,Pirkanmaa,pirkanmaa,Kangaslampi,kangaslampi
-Finland,FI,Pirkanmaa,pirkanmaa,Karttula,karttula
-Finland,FI,Pirkanmaa,pirkanmaa,Keitele,keitele
-Finland,FI,Pirkanmaa,pirkanmaa,Kiuruvesi,kiuruvesi
-Finland,FI,Pirkanmaa,pirkanmaa,Kuopio,kuopio
-Finland,FI,Pirkanmaa,pirkanmaa,Lapinlahti,lapinlahti
-Finland,FI,Pirkanmaa,pirkanmaa,Leppavirta,leppavirta
-Finland,FI,Pirkanmaa,pirkanmaa,Maaninka,maaninka
-Finland,FI,Pirkanmaa,pirkanmaa,Nilsia,nilsia
-Finland,FI,Pirkanmaa,pirkanmaa,Pielavesi,pielavesi
-Finland,FI,Pirkanmaa,pirkanmaa,Rautalampi,rautalampi
-Finland,FI,Pirkanmaa,pirkanmaa,Rautavaara,rautavaara
-Finland,FI,Pirkanmaa,pirkanmaa,Siilinjarvi,siilinjarvi
-Finland,FI,Pirkanmaa,pirkanmaa,Sonkajarvi,sonkajarvi
-Finland,FI,Pirkanmaa,pirkanmaa,Suonenjoki,suonenjoki
-Finland,FI,Pirkanmaa,pirkanmaa,Tervo,tervo
-Finland,FI,Pirkanmaa,pirkanmaa,Tuusniemi,tuusniemi
-Finland,FI,Pirkanmaa,pirkanmaa,Varkaus,varkaus
-Finland,FI,Pirkanmaa,pirkanmaa,Varpaisjarvi,varpaisjarvi
-Finland,FI,Pirkanmaa,pirkanmaa,Vehmersalmi,vehmersalmi
-Finland,FI,Pirkanmaa,pirkanmaa,Vesanto,vesanto
-Finland,FI,Pirkanmaa,pirkanmaa,Vierema,vierema
-Finland,FI,Satakunta,satakunta,Eura,eura
-Finland,FI,Satakunta,satakunta,Eurajoki,eurajoki
-Finland,FI,Satakunta,satakunta,Harjavalta,harjavalta
-Finland,FI,Satakunta,satakunta,Huittinen,huittinen
-Finland,FI,Satakunta,satakunta,Jamijarvi,jamijarvi
-Finland,FI,Satakunta,satakunta,Kankaanpaa,kankaanpaa
-Finland,FI,Satakunta,satakunta,Karvia,karvia
-Finland,FI,Satakunta,satakunta,Kiukainen,kiukainen
-Finland,FI,Satakunta,satakunta,Kokemaki,kokemaki
-Finland,FI,Satakunta,satakunta,Koylio,koylio
-Finland,FI,Satakunta,satakunta,Kullaa,kullaa
-Finland,FI,Satakunta,satakunta,Langelmaki,langelmaki
-Finland,FI,Satakunta,satakunta,Lappi,lappi
-Finland,FI,Satakunta,satakunta,Lavia,lavia
-Finland,FI,Satakunta,satakunta,Luvia,luvia
-Finland,FI,Satakunta,satakunta,Merikarvia,merikarvia
-Finland,FI,Satakunta,satakunta,Nakkila,nakkila
-Finland,FI,Satakunta,satakunta,Noormarkku,noormarkku
-Finland,FI,Satakunta,satakunta,Pomarkku,pomarkku
-Finland,FI,Satakunta,satakunta,Pori,pori
-Finland,FI,Satakunta,satakunta,Rauma,rauma
-Finland,FI,Satakunta,satakunta,Sakyla,sakyla
-Finland,FI,Satakunta,satakunta,Siikainen,siikainen
-Finland,FI,Satakunta,satakunta,Ulvila,ulvila
-Finland,FI,Satakunta,satakunta,Vampula,vampula
-Finland,FI,South Karelia,south-karelia,Imatra,imatra
-Finland,FI,South Karelia,south-karelia,Joutseno,joutseno
-Finland,FI,South Karelia,south-karelia,Lappeenranta,lappeenranta
-Finland,FI,South Karelia,south-karelia,Lemi,lemi
-Finland,FI,South Karelia,south-karelia,Luumaki,luumaki
-Finland,FI,South Karelia,south-karelia,Nuijamaa,nuijamaa
-Finland,FI,South Karelia,south-karelia,Parikkala,parikkala
-Finland,FI,South Karelia,south-karelia,Rautjarvi,rautjarvi
-Finland,FI,South Karelia,south-karelia,Ruokolahti,ruokolahti
-Finland,FI,South Karelia,south-karelia,Saari,saari
-Finland,FI,South Karelia,south-karelia,Savitaipale,savitaipale
-Finland,FI,South Karelia,south-karelia,Taipalsaari,taipalsaari
-Finland,FI,South Karelia,south-karelia,Ylamaa,ylamaa
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Ahtari,ahtari
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Alaharma,alaharma
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Alajarvi,alajarvi
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Alajarvi,alajarvi
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Alavus,alavus
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Evijarvi,evijarvi
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Ilmajoki,ilmajoki
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Isojoki,isojoki
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Jalasjarvi,jalasjarvi
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Jurva,jurva
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Karijoki,karijoki
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Kauhajoki,kauhajoki
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Kauhava,kauhava
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Kortesjarvi,kortesjarvi
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Kuortane,kuortane
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Kurikka,kurikka
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Lappajarvi,lappajarvi
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Lapua,lapua
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Lehtimaki,lehtimaki
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Nurmo,nurmo
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Seinajoki,seinajoki
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Soini,soini
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Teuva,teuva
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Toysa,toysa
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Vimpeli,vimpeli
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Yliharma,yliharma
-Finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Ylistaro,ylistaro
-Finland,FI,Southern Savonia,southern-savonia,Enonkoski,enonkoski
-Finland,FI,Southern Savonia,southern-savonia,Haukivuori,haukivuori
-Finland,FI,Southern Savonia,southern-savonia,Heinavesi,heinavesi
-Finland,FI,Southern Savonia,southern-savonia,Hirvensalmi,hirvensalmi
-Finland,FI,Southern Savonia,southern-savonia,Jappila,jappila
-Finland,FI,Southern Savonia,southern-savonia,Joroinen,joroinen
-Finland,FI,Southern Savonia,southern-savonia,Juva,juva
-Finland,FI,Southern Savonia,southern-savonia,Kangasniemi,kangasniemi
-Finland,FI,Southern Savonia,southern-savonia,Kerimaki,kerimaki
-Finland,FI,Southern Savonia,southern-savonia,Mantyharju,mantyharju
-Finland,FI,Southern Savonia,southern-savonia,Mikkeli,mikkeli
-Finland,FI,Southern Savonia,southern-savonia,Pertunmaa,pertunmaa
-Finland,FI,Southern Savonia,southern-savonia,Pieksamaki,pieksamaki
-Finland,FI,Southern Savonia,southern-savonia,Punkaharju,punkaharju
-Finland,FI,Southern Savonia,southern-savonia,Puumala,puumala
-Finland,FI,Southern Savonia,southern-savonia,Rantasalmi,rantasalmi
-Finland,FI,Southern Savonia,southern-savonia,Ristiina,ristiina
-Finland,FI,Southern Savonia,southern-savonia,Savonlinna,savonlinna
-Finland,FI,Southern Savonia,southern-savonia,Savonranta,savonranta
-Finland,FI,Southern Savonia,southern-savonia,Sulkava,sulkava
-Finland,FI,Southern Savonia,southern-savonia,Virtasalmi,virtasalmi
-Finland,FI,Tavastia Proper,tavastia-proper,Forssa,forssa
-Finland,FI,Tavastia Proper,tavastia-proper,Hameenlinna,hameenlinna
-Finland,FI,Tavastia Proper,tavastia-proper,Hauho,hauho
-Finland,FI,Tavastia Proper,tavastia-proper,Hausjarvi,hausjarvi
-Finland,FI,Tavastia Proper,tavastia-proper,Humppila,humppila
-Finland,FI,Tavastia Proper,tavastia-proper,Janakkala,janakkala
-Finland,FI,Tavastia Proper,tavastia-proper,Jokioinen,jokioinen
-Finland,FI,Tavastia Proper,tavastia-proper,Kalvola,kalvola
-Finland,FI,Tavastia Proper,tavastia-proper,Lammi,lammi
-Finland,FI,Tavastia Proper,tavastia-proper,Loppi,loppi
-Finland,FI,Tavastia Proper,tavastia-proper,Renko,renko
-Finland,FI,Tavastia Proper,tavastia-proper,Riihimaki,riihimaki
-Finland,FI,Tavastia Proper,tavastia-proper,Tammela,tammela
-Finland,FI,Tavastia Proper,tavastia-proper,Tervakoski,tervakoski
-Finland,FI,Tavastia Proper,tavastia-proper,Tuulos,tuulos
-Finland,FI,Tavastia Proper,tavastia-proper,Ypaja,ypaja
-Finland,FI,Uusimaa,uusimaa,Askola,askola
-Finland,FI,Uusimaa,uusimaa,Ekenas,ekenas
-Finland,FI,Uusimaa,uusimaa,Espoo,espoo
-Finland,FI,Uusimaa,uusimaa,Gumbole,gumbole
-Finland,FI,Uusimaa,uusimaa,Hanko,hanko
-Finland,FI,Uusimaa,uusimaa,Helsinki,helsinki
-Finland,FI,Uusimaa,uusimaa,Hyvinge,hyvinge
-Finland,FI,Uusimaa,uusimaa,Inga,inga
-Finland,FI,Uusimaa,uusimaa,Jarvenpaa,jarvenpaa
-Finland,FI,Uusimaa,uusimaa,Kaarela,kaarela
-Finland,FI,Uusimaa,uusimaa,Kallio,kallio
-Finland,FI,Uusimaa,uusimaa,Karis,karis
-Finland,FI,Uusimaa,uusimaa,Karjalohja,karjalohja
-Finland,FI,Uusimaa,uusimaa,Karkkila,karkkila
-Finland,FI,Uusimaa,uusimaa,Karkola,karkola
-Finland,FI,Uusimaa,uusimaa,Kauniainen,kauniainen
-Finland,FI,Uusimaa,uusimaa,Kellokoski,kellokoski
-Finland,FI,Uusimaa,uusimaa,Kerava,kerava
-Finland,FI,Uusimaa,uusimaa,Kilo,kilo
-Finland,FI,Uusimaa,uusimaa,Kirkkonummi,kirkkonummi
-Finland,FI,Uusimaa,uusimaa,Koukkuniemi,koukkuniemi
-Finland,FI,Uusimaa,uusimaa,Lapinjarvi,lapinjarvi
-Finland,FI,Uusimaa,uusimaa,Lauttasaari,lauttasaari
-Finland,FI,Uusimaa,uusimaa,Liljendal,liljendal
-Finland,FI,Uusimaa,uusimaa,Lohja,lohja
-Finland,FI,Uusimaa,uusimaa,Lovisa,lovisa
-Finland,FI,Uusimaa,uusimaa,Mantsala,mantsala
-Finland,FI,Uusimaa,uusimaa,Mellunkyla,mellunkyla
-Finland,FI,Uusimaa,uusimaa,Munkkiniemi,munkkiniemi
-Finland,FI,Uusimaa,uusimaa,Myrskyla,myrskyla
-Finland,FI,Uusimaa,uusimaa,Nurmijarvi,nurmijarvi
-Finland,FI,Uusimaa,uusimaa,Otaniemi,otaniemi
-Finland,FI,Uusimaa,uusimaa,Perna,perna
-Finland,FI,Uusimaa,uusimaa,Pohja,pohja
-Finland,FI,Uusimaa,uusimaa,Pornainen,pornainen
-Finland,FI,Uusimaa,uusimaa,Porvoo,porvoo
-Finland,FI,Uusimaa,uusimaa,Pukkila,pukkila
-Finland,FI,Uusimaa,uusimaa,Raaseporin,raaseporin
-Finland,FI,Uusimaa,uusimaa,Ruotsinpyhtaa,ruotsinpyhtaa
-Finland,FI,Uusimaa,uusimaa,Sammatti,sammatti
-Finland,FI,Uusimaa,uusimaa,Sibbo,sibbo
-Finland,FI,Uusimaa,uusimaa,Siuntio,siuntio
-Finland,FI,Uusimaa,uusimaa,Tuusula,tuusula
-Finland,FI,Uusimaa,uusimaa,Vantaa,vantaa
-Finland,FI,Uusimaa,uusimaa,Vihti,vihti
-Finland,FI,Uusimaa,uusimaa,Vuosaari,vuosaari
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Finland,finland,FI,Aland Islands,aland-islands,Aland Islands,aland-islands
+Finland,finland,FI,Central Finland,central-finland,Aanekoski,aanekoski
+Finland,finland,FI,Central Finland,central-finland,Hankasalmi,hankasalmi
+Finland,finland,FI,Central Finland,central-finland,Jamsa,jamsa
+Finland,finland,FI,Central Finland,central-finland,Jamsankoski,jamsankoski
+Finland,finland,FI,Central Finland,central-finland,Joutsa,joutsa
+Finland,finland,FI,Central Finland,central-finland,Jyvaskyla,jyvaskyla
+Finland,finland,FI,Central Finland,central-finland,Kannonkoski,kannonkoski
+Finland,finland,FI,Central Finland,central-finland,Karstula,karstula
+Finland,finland,FI,Central Finland,central-finland,Keuruu,keuruu
+Finland,finland,FI,Central Finland,central-finland,Kinnula,kinnula
+Finland,finland,FI,Central Finland,central-finland,Kivijarvi,kivijarvi
+Finland,finland,FI,Central Finland,central-finland,Konnevesi,konnevesi
+Finland,finland,FI,Central Finland,central-finland,Korpilahti,korpilahti
+Finland,finland,FI,Central Finland,central-finland,Kuhmoinen,kuhmoinen
+Finland,finland,FI,Central Finland,central-finland,Kyyjarvi,kyyjarvi
+Finland,finland,FI,Central Finland,central-finland,Laukaa,laukaa
+Finland,finland,FI,Central Finland,central-finland,Leivonmaki,leivonmaki
+Finland,finland,FI,Central Finland,central-finland,Luhanka,luhanka
+Finland,finland,FI,Central Finland,central-finland,Multia,multia
+Finland,finland,FI,Central Finland,central-finland,Muurame,muurame
+Finland,finland,FI,Central Finland,central-finland,Petajavesi,petajavesi
+Finland,finland,FI,Central Finland,central-finland,Pihtipudas,pihtipudas
+Finland,finland,FI,Central Finland,central-finland,Pylkonmaki,pylkonmaki
+Finland,finland,FI,Central Finland,central-finland,Saarijarvi,saarijarvi
+Finland,finland,FI,Central Finland,central-finland,Saynatsalo,saynatsalo
+Finland,finland,FI,Central Finland,central-finland,Sumiainen,sumiainen
+Finland,finland,FI,Central Finland,central-finland,Suolahti,suolahti
+Finland,finland,FI,Central Finland,central-finland,Toivakka,toivakka
+Finland,finland,FI,Central Finland,central-finland,Uurainen,uurainen
+Finland,finland,FI,Central Finland,central-finland,Viitasaari,viitasaari
+Finland,finland,FI,Central Ostrobothnia,central-ostrobothnia,Halsua,halsua
+Finland,finland,FI,Central Ostrobothnia,central-ostrobothnia,Kalvia,kalvia
+Finland,finland,FI,Central Ostrobothnia,central-ostrobothnia,Kannus,kannus
+Finland,finland,FI,Central Ostrobothnia,central-ostrobothnia,Kaustinen,kaustinen
+Finland,finland,FI,Central Ostrobothnia,central-ostrobothnia,Kokkola,kokkola
+Finland,finland,FI,Central Ostrobothnia,central-ostrobothnia,Lestijarvi,lestijarvi
+Finland,finland,FI,Central Ostrobothnia,central-ostrobothnia,Lohtaja,lohtaja
+Finland,finland,FI,Central Ostrobothnia,central-ostrobothnia,Perho,perho
+Finland,finland,FI,Central Ostrobothnia,central-ostrobothnia,Toholampi,toholampi
+Finland,finland,FI,Central Ostrobothnia,central-ostrobothnia,Ullava,ullava
+Finland,finland,FI,Central Ostrobothnia,central-ostrobothnia,Veteli,veteli
+Finland,finland,FI,Eastern Finland Province,eastern-finland-province,Eastern Finland Province,eastern-finland-province
+Finland,finland,FI,Finland Proper,finland-proper,Alastaro,alastaro
+Finland,finland,FI,Finland Proper,finland-proper,Askainen,askainen
+Finland,finland,FI,Finland Proper,finland-proper,Aura,aura
+Finland,finland,FI,Finland Proper,finland-proper,Dragsfjard,dragsfjard
+Finland,finland,FI,Finland Proper,finland-proper,Halikko,halikko
+Finland,finland,FI,Finland Proper,finland-proper,Houtskar,houtskar
+Finland,finland,FI,Finland Proper,finland-proper,Inio,inio
+Finland,finland,FI,Finland Proper,finland-proper,Kaarina,kaarina
+Finland,finland,FI,Finland Proper,finland-proper,Karinainen,karinainen
+Finland,finland,FI,Finland Proper,finland-proper,Kiikala,kiikala
+Finland,finland,FI,Finland Proper,finland-proper,Kimito,kimito
+Finland,finland,FI,Finland Proper,finland-proper,Kisko,kisko
+Finland,finland,FI,Finland Proper,finland-proper,Kustavi,kustavi
+Finland,finland,FI,Finland Proper,finland-proper,Kuusjoki,kuusjoki
+Finland,finland,FI,Finland Proper,finland-proper,Laitila,laitila
+Finland,finland,FI,Finland Proper,finland-proper,Lemu,lemu
+Finland,finland,FI,Finland Proper,finland-proper,Lieto,lieto
+Finland,finland,FI,Finland Proper,finland-proper,Marttila,marttila
+Finland,finland,FI,Finland Proper,finland-proper,Masku,masku
+Finland,finland,FI,Finland Proper,finland-proper,Mellila,mellila
+Finland,finland,FI,Finland Proper,finland-proper,Merimasku,merimasku
+Finland,finland,FI,Finland Proper,finland-proper,Mietoinen,mietoinen
+Finland,finland,FI,Finland Proper,finland-proper,Muurla,muurla
+Finland,finland,FI,Finland Proper,finland-proper,Mynamaki,mynamaki
+Finland,finland,FI,Finland Proper,finland-proper,Naantali,naantali
+Finland,finland,FI,Finland Proper,finland-proper,Nagu,nagu
+Finland,finland,FI,Finland Proper,finland-proper,Nousiainen,nousiainen
+Finland,finland,FI,Finland Proper,finland-proper,Oripaa,oripaa
+Finland,finland,FI,Finland Proper,finland-proper,Paimio,paimio
+Finland,finland,FI,Finland Proper,finland-proper,Pargas,pargas
+Finland,finland,FI,Finland Proper,finland-proper,Pernio,pernio
+Finland,finland,FI,Finland Proper,finland-proper,Pertteli,pertteli
+Finland,finland,FI,Finland Proper,finland-proper,Piikkio,piikkio
+Finland,finland,FI,Finland Proper,finland-proper,Poytya,poytya
+Finland,finland,FI,Finland Proper,finland-proper,Pyharanta,pyharanta
+Finland,finland,FI,Finland Proper,finland-proper,Raisio,raisio
+Finland,finland,FI,Finland Proper,finland-proper,Rusko,rusko
+Finland,finland,FI,Finland Proper,finland-proper,Rymattyla,rymattyla
+Finland,finland,FI,Finland Proper,finland-proper,Salo,salo
+Finland,finland,FI,Finland Proper,finland-proper,Sarkisalo,sarkisalo
+Finland,finland,FI,Finland Proper,finland-proper,Sauvo,sauvo
+Finland,finland,FI,Finland Proper,finland-proper,Somero,somero
+Finland,finland,FI,Finland Proper,finland-proper,Suomusjarvi,suomusjarvi
+Finland,finland,FI,Finland Proper,finland-proper,Taivassalo,taivassalo
+Finland,finland,FI,Finland Proper,finland-proper,Tarvasjoki,tarvasjoki
+Finland,finland,FI,Finland Proper,finland-proper,Turku,turku
+Finland,finland,FI,Finland Proper,finland-proper,Uusikaupunki,uusikaupunki
+Finland,finland,FI,Finland Proper,finland-proper,Vahto,vahto
+Finland,finland,FI,Finland Proper,finland-proper,Vastaboland,vastaboland
+Finland,finland,FI,Finland Proper,finland-proper,Vastanfjard,vastanfjard
+Finland,finland,FI,Finland Proper,finland-proper,Vehmaa,vehmaa
+Finland,finland,FI,Finland Proper,finland-proper,Velkua,velkua
+Finland,finland,FI,Finland Proper,finland-proper,Ylane,ylane
+Finland,finland,FI,Kainuu,kainuu,Hyrynsalmi,hyrynsalmi
+Finland,finland,FI,Kainuu,kainuu,Kajaani,kajaani
+Finland,finland,FI,Kainuu,kainuu,Kuhmo,kuhmo
+Finland,finland,FI,Kainuu,kainuu,Paltamo,paltamo
+Finland,finland,FI,Kainuu,kainuu,Puolanka,puolanka
+Finland,finland,FI,Kainuu,kainuu,Ristijarvi,ristijarvi
+Finland,finland,FI,Kainuu,kainuu,Sotkamo,sotkamo
+Finland,finland,FI,Kainuu,kainuu,Suomussalmi,suomussalmi
+Finland,finland,FI,Kainuu,kainuu,Vaala,vaala
+Finland,finland,FI,Kainuu,kainuu,Vuokatti,vuokatti
+Finland,finland,FI,Kainuu,kainuu,Vuolijoki,vuolijoki
+Finland,finland,FI,Kymenlaakso,kymenlaakso,Anjala,anjala
+Finland,finland,FI,Kymenlaakso,kymenlaakso,Elimaki,elimaki
+Finland,finland,FI,Kymenlaakso,kymenlaakso,Hamina,hamina
+Finland,finland,FI,Kymenlaakso,kymenlaakso,Iitti,iitti
+Finland,finland,FI,Kymenlaakso,kymenlaakso,Jaala,jaala
+Finland,finland,FI,Kymenlaakso,kymenlaakso,Karhula,karhula
+Finland,finland,FI,Kymenlaakso,kymenlaakso,Kotka,kotka
+Finland,finland,FI,Kymenlaakso,kymenlaakso,Kouvola,kouvola
+Finland,finland,FI,Kymenlaakso,kymenlaakso,Miehikkala,miehikkala
+Finland,finland,FI,Kymenlaakso,kymenlaakso,Pyhtaa,pyhtaa
+Finland,finland,FI,Kymenlaakso,kymenlaakso,Virojoki,virojoki
+Finland,finland,FI,Lapland,lapland,Enontekio,enontekio
+Finland,finland,FI,Lapland,lapland,Inari,inari
+Finland,finland,FI,Lapland,lapland,Ivalo,ivalo
+Finland,finland,FI,Lapland,lapland,Kemi,kemi
+Finland,finland,FI,Lapland,lapland,Kemijarvi,kemijarvi
+Finland,finland,FI,Lapland,lapland,Keminmaa,keminmaa
+Finland,finland,FI,Lapland,lapland,Kittila,kittila
+Finland,finland,FI,Lapland,lapland,Kolari,kolari
+Finland,finland,FI,Lapland,lapland,Muonio,muonio
+Finland,finland,FI,Lapland,lapland,Pelkosenniemi,pelkosenniemi
+Finland,finland,FI,Lapland,lapland,Pello,pello
+Finland,finland,FI,Lapland,lapland,Posio,posio
+Finland,finland,FI,Lapland,lapland,Pyhajarvi,pyhajarvi
+Finland,finland,FI,Lapland,lapland,Ranua,ranua
+Finland,finland,FI,Lapland,lapland,Rovaniemi,rovaniemi
+Finland,finland,FI,Lapland,lapland,Salla,salla
+Finland,finland,FI,Lapland,lapland,Savukoski,savukoski
+Finland,finland,FI,Lapland,lapland,Simo,simo
+Finland,finland,FI,Lapland,lapland,Sodankyla,sodankyla
+Finland,finland,FI,Lapland,lapland,Tervola,tervola
+Finland,finland,FI,Lapland,lapland,Tornio,tornio
+Finland,finland,FI,Lapland,lapland,Utsjoki,utsjoki
+Finland,finland,FI,Lapland,lapland,Ylitornio,ylitornio
+Finland,finland,FI,North Karelia,north-karelia,Eno,eno
+Finland,finland,FI,North Karelia,north-karelia,Ilomantsi,ilomantsi
+Finland,finland,FI,North Karelia,north-karelia,Joensuu,joensuu
+Finland,finland,FI,North Karelia,north-karelia,Juuka,juuka
+Finland,finland,FI,North Karelia,north-karelia,Kesalahti,kesalahti
+Finland,finland,FI,North Karelia,north-karelia,Kiihtelysvaara,kiihtelysvaara
+Finland,finland,FI,North Karelia,north-karelia,Kitee,kitee
+Finland,finland,FI,North Karelia,north-karelia,Kontiolahti,kontiolahti
+Finland,finland,FI,North Karelia,north-karelia,Lieksa,lieksa
+Finland,finland,FI,North Karelia,north-karelia,Liperi,liperi
+Finland,finland,FI,North Karelia,north-karelia,Nurmes,nurmes
+Finland,finland,FI,North Karelia,north-karelia,Outokumpu,outokumpu
+Finland,finland,FI,North Karelia,north-karelia,Polvijarvi,polvijarvi
+Finland,finland,FI,North Karelia,north-karelia,Pyhaselka,pyhaselka
+Finland,finland,FI,North Karelia,north-karelia,Raakkyla,raakkyla
+Finland,finland,FI,North Karelia,north-karelia,Tohmajarvi,tohmajarvi
+Finland,finland,FI,North Karelia,north-karelia,Tuupovaara,tuupovaara
+Finland,finland,FI,North Karelia,north-karelia,Valtimo,valtimo
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Alavieska,alavieska
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Haapajarvi,haapajarvi
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Haapavesi,haapavesi
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Hailuoto,hailuoto
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Haukipudas,haukipudas
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Himanka,himanka
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Ii,ii
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Kalajoki,kalajoki
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Karsamaki,karsamaki
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Kempele,kempele
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Kestila,kestila
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Kiiminki,kiiminki
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Kuivaniemi,kuivaniemi
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Kuusamo,kuusamo
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Liminka,liminka
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Lumijoki,lumijoki
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Merijarvi,merijarvi
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Muhos,muhos
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Nivala,nivala
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Oulainen,oulainen
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Oulu,oulu
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Oulunsalo,oulunsalo
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Piippola,piippola
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Pudasjarvi,pudasjarvi
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Pulkkila,pulkkila
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Pyhajarvi,pyhajarvi
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Pyhajoki,pyhajoki
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Pyhanta,pyhanta
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Raahe,raahe
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Rantsila,rantsila
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Reisjarvi,reisjarvi
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Ruukki,ruukki
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Sievi,sievi
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Siikajoki,siikajoki
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Taivalkoski,taivalkoski
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Tyrnava,tyrnava
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Utajarvi,utajarvi
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Vihanti,vihanti
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Yli-Ii,yli-ii
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Ylikiiminki,ylikiiminki
+Finland,finland,FI,Northern Ostrobothnia,northern-ostrobothnia,Ylivieska,ylivieska
+Finland,finland,FI,Northern Savonia,northern-savonia,Northern Savonia,northern-savonia
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Hietalahti,hietalahti
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Isokyro,isokyro
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Jakobstad,jakobstad
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Kaskinen,kaskinen
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Korsholm,korsholm
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Korsnas,korsnas
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Kristinestad,kristinestad
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Kronoby,kronoby
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Laihia,laihia
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Larsmo,larsmo
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Malax,malax
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Nykarleby,nykarleby
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Oravais,oravais
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Pedersore,pedersore
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Replot,replot
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Ristinummi,ristinummi
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Teeriniemi,teeriniemi
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Vaasa,vaasa
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Vahakyro,vahakyro
+Finland,finland,FI,Ostrobothnia,ostrobothnia,Vora,vora
+Finland,finland,FI,Oulu Province,oulu-province,Oulu Province,oulu-province
+Finland,finland,FI,Paijanne Tavastia,paijanne-tavastia,Artjarvi,artjarvi
+Finland,finland,FI,Paijanne Tavastia,paijanne-tavastia,Asikkala,asikkala
+Finland,finland,FI,Paijanne Tavastia,paijanne-tavastia,Auttoinen,auttoinen
+Finland,finland,FI,Paijanne Tavastia,paijanne-tavastia,Hameenkoski,hameenkoski
+Finland,finland,FI,Paijanne Tavastia,paijanne-tavastia,Hartola,hartola
+Finland,finland,FI,Paijanne Tavastia,paijanne-tavastia,Heinola,heinola
+Finland,finland,FI,Paijanne Tavastia,paijanne-tavastia,Hollola,hollola
+Finland,finland,FI,Paijanne Tavastia,paijanne-tavastia,Lahti,lahti
+Finland,finland,FI,Paijanne Tavastia,paijanne-tavastia,Nastola,nastola
+Finland,finland,FI,Paijanne Tavastia,paijanne-tavastia,Orimattila,orimattila
+Finland,finland,FI,Paijanne Tavastia,paijanne-tavastia,Padasjoki,padasjoki
+Finland,finland,FI,Paijanne Tavastia,paijanne-tavastia,Sysma,sysma
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Iisalmi,iisalmi
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Juankoski,juankoski
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Kaavi,kaavi
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Kangaslampi,kangaslampi
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Karttula,karttula
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Keitele,keitele
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Kiuruvesi,kiuruvesi
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Kuopio,kuopio
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Lapinlahti,lapinlahti
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Leppavirta,leppavirta
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Maaninka,maaninka
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Nilsia,nilsia
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Pielavesi,pielavesi
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Rautalampi,rautalampi
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Rautavaara,rautavaara
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Siilinjarvi,siilinjarvi
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Sonkajarvi,sonkajarvi
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Suonenjoki,suonenjoki
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Tervo,tervo
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Tuusniemi,tuusniemi
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Varkaus,varkaus
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Varpaisjarvi,varpaisjarvi
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Vehmersalmi,vehmersalmi
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Vesanto,vesanto
+Finland,finland,FI,Pirkanmaa,pirkanmaa,Vierema,vierema
+Finland,finland,FI,Satakunta,satakunta,Eura,eura
+Finland,finland,FI,Satakunta,satakunta,Eurajoki,eurajoki
+Finland,finland,FI,Satakunta,satakunta,Harjavalta,harjavalta
+Finland,finland,FI,Satakunta,satakunta,Huittinen,huittinen
+Finland,finland,FI,Satakunta,satakunta,Jamijarvi,jamijarvi
+Finland,finland,FI,Satakunta,satakunta,Kankaanpaa,kankaanpaa
+Finland,finland,FI,Satakunta,satakunta,Karvia,karvia
+Finland,finland,FI,Satakunta,satakunta,Kiukainen,kiukainen
+Finland,finland,FI,Satakunta,satakunta,Kokemaki,kokemaki
+Finland,finland,FI,Satakunta,satakunta,Koylio,koylio
+Finland,finland,FI,Satakunta,satakunta,Kullaa,kullaa
+Finland,finland,FI,Satakunta,satakunta,Langelmaki,langelmaki
+Finland,finland,FI,Satakunta,satakunta,Lappi,lappi
+Finland,finland,FI,Satakunta,satakunta,Lavia,lavia
+Finland,finland,FI,Satakunta,satakunta,Luvia,luvia
+Finland,finland,FI,Satakunta,satakunta,Merikarvia,merikarvia
+Finland,finland,FI,Satakunta,satakunta,Nakkila,nakkila
+Finland,finland,FI,Satakunta,satakunta,Noormarkku,noormarkku
+Finland,finland,FI,Satakunta,satakunta,Pomarkku,pomarkku
+Finland,finland,FI,Satakunta,satakunta,Pori,pori
+Finland,finland,FI,Satakunta,satakunta,Rauma,rauma
+Finland,finland,FI,Satakunta,satakunta,Sakyla,sakyla
+Finland,finland,FI,Satakunta,satakunta,Siikainen,siikainen
+Finland,finland,FI,Satakunta,satakunta,Ulvila,ulvila
+Finland,finland,FI,Satakunta,satakunta,Vampula,vampula
+Finland,finland,FI,South Karelia,south-karelia,Imatra,imatra
+Finland,finland,FI,South Karelia,south-karelia,Joutseno,joutseno
+Finland,finland,FI,South Karelia,south-karelia,Lappeenranta,lappeenranta
+Finland,finland,FI,South Karelia,south-karelia,Lemi,lemi
+Finland,finland,FI,South Karelia,south-karelia,Luumaki,luumaki
+Finland,finland,FI,South Karelia,south-karelia,Nuijamaa,nuijamaa
+Finland,finland,FI,South Karelia,south-karelia,Parikkala,parikkala
+Finland,finland,FI,South Karelia,south-karelia,Rautjarvi,rautjarvi
+Finland,finland,FI,South Karelia,south-karelia,Ruokolahti,ruokolahti
+Finland,finland,FI,South Karelia,south-karelia,Saari,saari
+Finland,finland,FI,South Karelia,south-karelia,Savitaipale,savitaipale
+Finland,finland,FI,South Karelia,south-karelia,Taipalsaari,taipalsaari
+Finland,finland,FI,South Karelia,south-karelia,Ylamaa,ylamaa
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Ahtari,ahtari
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Alaharma,alaharma
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Alajarvi,alajarvi
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Alajarvi,alajarvi
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Alavus,alavus
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Evijarvi,evijarvi
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Ilmajoki,ilmajoki
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Isojoki,isojoki
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Jalasjarvi,jalasjarvi
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Jurva,jurva
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Karijoki,karijoki
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Kauhajoki,kauhajoki
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Kauhava,kauhava
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Kortesjarvi,kortesjarvi
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Kuortane,kuortane
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Kurikka,kurikka
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Lappajarvi,lappajarvi
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Lapua,lapua
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Lehtimaki,lehtimaki
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Nurmo,nurmo
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Seinajoki,seinajoki
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Soini,soini
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Teuva,teuva
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Toysa,toysa
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Vimpeli,vimpeli
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Yliharma,yliharma
+Finland,finland,FI,Southern Ostrobothnia,southern-ostrobothnia,Ylistaro,ylistaro
+Finland,finland,FI,Southern Savonia,southern-savonia,Enonkoski,enonkoski
+Finland,finland,FI,Southern Savonia,southern-savonia,Haukivuori,haukivuori
+Finland,finland,FI,Southern Savonia,southern-savonia,Heinavesi,heinavesi
+Finland,finland,FI,Southern Savonia,southern-savonia,Hirvensalmi,hirvensalmi
+Finland,finland,FI,Southern Savonia,southern-savonia,Jappila,jappila
+Finland,finland,FI,Southern Savonia,southern-savonia,Joroinen,joroinen
+Finland,finland,FI,Southern Savonia,southern-savonia,Juva,juva
+Finland,finland,FI,Southern Savonia,southern-savonia,Kangasniemi,kangasniemi
+Finland,finland,FI,Southern Savonia,southern-savonia,Kerimaki,kerimaki
+Finland,finland,FI,Southern Savonia,southern-savonia,Mantyharju,mantyharju
+Finland,finland,FI,Southern Savonia,southern-savonia,Mikkeli,mikkeli
+Finland,finland,FI,Southern Savonia,southern-savonia,Pertunmaa,pertunmaa
+Finland,finland,FI,Southern Savonia,southern-savonia,Pieksamaki,pieksamaki
+Finland,finland,FI,Southern Savonia,southern-savonia,Punkaharju,punkaharju
+Finland,finland,FI,Southern Savonia,southern-savonia,Puumala,puumala
+Finland,finland,FI,Southern Savonia,southern-savonia,Rantasalmi,rantasalmi
+Finland,finland,FI,Southern Savonia,southern-savonia,Ristiina,ristiina
+Finland,finland,FI,Southern Savonia,southern-savonia,Savonlinna,savonlinna
+Finland,finland,FI,Southern Savonia,southern-savonia,Savonranta,savonranta
+Finland,finland,FI,Southern Savonia,southern-savonia,Sulkava,sulkava
+Finland,finland,FI,Southern Savonia,southern-savonia,Virtasalmi,virtasalmi
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Forssa,forssa
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Hameenlinna,hameenlinna
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Hauho,hauho
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Hausjarvi,hausjarvi
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Humppila,humppila
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Janakkala,janakkala
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Jokioinen,jokioinen
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Kalvola,kalvola
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Lammi,lammi
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Loppi,loppi
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Renko,renko
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Riihimaki,riihimaki
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Tammela,tammela
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Tervakoski,tervakoski
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Tuulos,tuulos
+Finland,finland,FI,Tavastia Proper,tavastia-proper,Ypaja,ypaja
+Finland,finland,FI,Uusimaa,uusimaa,Askola,askola
+Finland,finland,FI,Uusimaa,uusimaa,Ekenas,ekenas
+Finland,finland,FI,Uusimaa,uusimaa,Espoo,espoo
+Finland,finland,FI,Uusimaa,uusimaa,Gumbole,gumbole
+Finland,finland,FI,Uusimaa,uusimaa,Hanko,hanko
+Finland,finland,FI,Uusimaa,uusimaa,Helsinki,helsinki
+Finland,finland,FI,Uusimaa,uusimaa,Hyvinge,hyvinge
+Finland,finland,FI,Uusimaa,uusimaa,Inga,inga
+Finland,finland,FI,Uusimaa,uusimaa,Jarvenpaa,jarvenpaa
+Finland,finland,FI,Uusimaa,uusimaa,Kaarela,kaarela
+Finland,finland,FI,Uusimaa,uusimaa,Kallio,kallio
+Finland,finland,FI,Uusimaa,uusimaa,Karis,karis
+Finland,finland,FI,Uusimaa,uusimaa,Karjalohja,karjalohja
+Finland,finland,FI,Uusimaa,uusimaa,Karkkila,karkkila
+Finland,finland,FI,Uusimaa,uusimaa,Karkola,karkola
+Finland,finland,FI,Uusimaa,uusimaa,Kauniainen,kauniainen
+Finland,finland,FI,Uusimaa,uusimaa,Kellokoski,kellokoski
+Finland,finland,FI,Uusimaa,uusimaa,Kerava,kerava
+Finland,finland,FI,Uusimaa,uusimaa,Kilo,kilo
+Finland,finland,FI,Uusimaa,uusimaa,Kirkkonummi,kirkkonummi
+Finland,finland,FI,Uusimaa,uusimaa,Koukkuniemi,koukkuniemi
+Finland,finland,FI,Uusimaa,uusimaa,Lapinjarvi,lapinjarvi
+Finland,finland,FI,Uusimaa,uusimaa,Lauttasaari,lauttasaari
+Finland,finland,FI,Uusimaa,uusimaa,Liljendal,liljendal
+Finland,finland,FI,Uusimaa,uusimaa,Lohja,lohja
+Finland,finland,FI,Uusimaa,uusimaa,Lovisa,lovisa
+Finland,finland,FI,Uusimaa,uusimaa,Mantsala,mantsala
+Finland,finland,FI,Uusimaa,uusimaa,Mellunkyla,mellunkyla
+Finland,finland,FI,Uusimaa,uusimaa,Munkkiniemi,munkkiniemi
+Finland,finland,FI,Uusimaa,uusimaa,Myrskyla,myrskyla
+Finland,finland,FI,Uusimaa,uusimaa,Nurmijarvi,nurmijarvi
+Finland,finland,FI,Uusimaa,uusimaa,Otaniemi,otaniemi
+Finland,finland,FI,Uusimaa,uusimaa,Perna,perna
+Finland,finland,FI,Uusimaa,uusimaa,Pohja,pohja
+Finland,finland,FI,Uusimaa,uusimaa,Pornainen,pornainen
+Finland,finland,FI,Uusimaa,uusimaa,Porvoo,porvoo
+Finland,finland,FI,Uusimaa,uusimaa,Pukkila,pukkila
+Finland,finland,FI,Uusimaa,uusimaa,Raaseporin,raaseporin
+Finland,finland,FI,Uusimaa,uusimaa,Ruotsinpyhtaa,ruotsinpyhtaa
+Finland,finland,FI,Uusimaa,uusimaa,Sammatti,sammatti
+Finland,finland,FI,Uusimaa,uusimaa,Sibbo,sibbo
+Finland,finland,FI,Uusimaa,uusimaa,Siuntio,siuntio
+Finland,finland,FI,Uusimaa,uusimaa,Tuusula,tuusula
+Finland,finland,FI,Uusimaa,uusimaa,Vantaa,vantaa
+Finland,finland,FI,Uusimaa,uusimaa,Vihti,vihti
+Finland,finland,FI,Uusimaa,uusimaa,Vuosaari,vuosaari

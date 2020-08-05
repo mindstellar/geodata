@@ -1,1080 +1,1080 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Canada,CA,Alberta,alberta,Airdrie,airdrie
-Canada,CA,Alberta,alberta,Athabasca,athabasca
-Canada,CA,Alberta,alberta,Banff,banff
-Canada,CA,Alberta,alberta,Barrhead,barrhead
-Canada,CA,Alberta,alberta,Bassano,bassano
-Canada,CA,Alberta,alberta,Beaumont,beaumont
-Canada,CA,Alberta,alberta,Beaverlodge,beaverlodge
-Canada,CA,Alberta,alberta,Black Diamond,black-diamond
-Canada,CA,Alberta,alberta,Blackfalds,blackfalds
-Canada,CA,Alberta,alberta,Bon Accord,bon-accord
-Canada,CA,Alberta,alberta,Bonnyville,bonnyville
-Canada,CA,Alberta,alberta,Bow Island,bow-island
-Canada,CA,Alberta,alberta,Brooks,brooks
-Canada,CA,Alberta,alberta,Calgary,calgary
-Canada,CA,Alberta,alberta,Calmar,calmar
-Canada,CA,Alberta,alberta,Camrose,camrose
-Canada,CA,Alberta,alberta,Canmore,canmore
-Canada,CA,Alberta,alberta,Cardston,cardston
-Canada,CA,Alberta,alberta,Carstairs,carstairs
-Canada,CA,Alberta,alberta,Chestermere,chestermere
-Canada,CA,Alberta,alberta,Claresholm,claresholm
-Canada,CA,Alberta,alberta,Coaldale,coaldale
-Canada,CA,Alberta,alberta,Coalhurst,coalhurst
-Canada,CA,Alberta,alberta,Cochrane,cochrane
-Canada,CA,Alberta,alberta,Cold Lake,cold-lake
-Canada,CA,Alberta,alberta,Crossfield,crossfield
-Canada,CA,Alberta,alberta,Devon,devon
-Canada,CA,Alberta,alberta,Didsbury,didsbury
-Canada,CA,Alberta,alberta,Drayton Valley,drayton-valley
-Canada,CA,Alberta,alberta,Edmonton,edmonton
-Canada,CA,Alberta,alberta,Edson,edson
-Canada,CA,Alberta,alberta,Elk Point,elk-point
-Canada,CA,Alberta,alberta,Fairview,fairview
-Canada,CA,Alberta,alberta,Falher,falher
-Canada,CA,Alberta,alberta,Fort Macleod,fort-macleod
-Canada,CA,Alberta,alberta,Fort McMurray,fort-mcmurray
-Canada,CA,Alberta,alberta,Fort Saskatchewan,fort-saskatchewan
-Canada,CA,Alberta,alberta,Fox Creek,fox-creek
-Canada,CA,Alberta,alberta,Gibbons,gibbons
-Canada,CA,Alberta,alberta,Grand Centre,grand-centre
-Canada,CA,Alberta,alberta,Grande Cache,grande-cache
-Canada,CA,Alberta,alberta,Grande Prairie,grande-prairie
-Canada,CA,Alberta,alberta,Grimshaw,grimshaw
-Canada,CA,Alberta,alberta,Hanna,hanna
-Canada,CA,Alberta,alberta,Heritage Pointe,heritage-pointe
-Canada,CA,Alberta,alberta,High Level,high-level
-Canada,CA,Alberta,alberta,High Prairie,high-prairie
-Canada,CA,Alberta,alberta,High River,high-river
-Canada,CA,Alberta,alberta,Hinton,hinton
-Canada,CA,Alberta,alberta,Irricana,irricana
-Canada,CA,Alberta,alberta,Jasper Park Lodge,jasper-park-lodge
-Canada,CA,Alberta,alberta,Killam,killam
-Canada,CA,Alberta,alberta,Lac La Biche,lac-la-biche
-Canada,CA,Alberta,alberta,Lacombe,lacombe
-Canada,CA,Alberta,alberta,Lamont,lamont
-Canada,CA,Alberta,alberta,Larkspur,larkspur
-Canada,CA,Alberta,alberta,Laurel,laurel
-Canada,CA,Alberta,alberta,Leduc,leduc
-Canada,CA,Alberta,alberta,Lethbridge,lethbridge
-Canada,CA,Alberta,alberta,Lloydminster,lloydminster
-Canada,CA,Alberta,alberta,Magrath,magrath
-Canada,CA,Alberta,alberta,Manning,manning
-Canada,CA,Alberta,alberta,Mannville,mannville
-Canada,CA,Alberta,alberta,Maple Ridge,maple-ridge
-Canada,CA,Alberta,alberta,Mayerthorpe,mayerthorpe
-Canada,CA,Alberta,alberta,Medicine Hat,medicine-hat
-Canada,CA,Alberta,alberta,Mill Woods Town Centre,mill-woods-town-centre
-Canada,CA,Alberta,alberta,Millet,millet
-Canada,CA,Alberta,alberta,Morinville,morinville
-Canada,CA,Alberta,alberta,Nanton,nanton
-Canada,CA,Alberta,alberta,Okotoks,okotoks
-Canada,CA,Alberta,alberta,Olds,olds
-Canada,CA,Alberta,alberta,Peace River,peace-river
-Canada,CA,Alberta,alberta,Penhold,penhold
-Canada,CA,Alberta,alberta,Picture Butte,picture-butte
-Canada,CA,Alberta,alberta,Pincher Creek,pincher-creek
-Canada,CA,Alberta,alberta,Ponoka,ponoka
-Canada,CA,Alberta,alberta,Provost,provost
-Canada,CA,Alberta,alberta,Raymond,raymond
-Canada,CA,Alberta,alberta,Red Deer,red-deer
-Canada,CA,Alberta,alberta,Rideau Park,rideau-park
-Canada,CA,Alberta,alberta,Rimbey,rimbey
-Canada,CA,Alberta,alberta,Rocky Mountain House,rocky-mountain-house
-Canada,CA,Alberta,alberta,Sexsmith,sexsmith
-Canada,CA,Alberta,alberta,Sherwood Park,sherwood-park
-Canada,CA,Alberta,alberta,Silver Berry,silver-berry
-Canada,CA,Alberta,alberta,Slave Lake,slave-lake
-Canada,CA,Alberta,alberta,Smoky Lake,smoky-lake
-Canada,CA,Alberta,alberta,Spirit River,spirit-river
-Canada,CA,Alberta,alberta,Springbrook,springbrook
-Canada,CA,Alberta,alberta,Spruce Grove,spruce-grove
-Canada,CA,Alberta,alberta,St. Albert,st-albert
-Canada,CA,Alberta,alberta,Stettler,stettler
-Canada,CA,Alberta,alberta,Stony Plain,stony-plain
-Canada,CA,Alberta,alberta,Strathmore,strathmore
-Canada,CA,Alberta,alberta,Sundre,sundre
-Canada,CA,Alberta,alberta,Swan Hills,swan-hills
-Canada,CA,Alberta,alberta,Sylvan Lake,sylvan-lake
-Canada,CA,Alberta,alberta,Taber,taber
-Canada,CA,Alberta,alberta,Tamarack,tamarack
-Canada,CA,Alberta,alberta,Three Hills,three-hills
-Canada,CA,Alberta,alberta,Tofield,tofield
-Canada,CA,Alberta,alberta,Two Hills,two-hills
-Canada,CA,Alberta,alberta,Valleyview,valleyview
-Canada,CA,Alberta,alberta,Vegreville,vegreville
-Canada,CA,Alberta,alberta,Vermilion,vermilion
-Canada,CA,Alberta,alberta,Viking,viking
-Canada,CA,Alberta,alberta,Vulcan,vulcan
-Canada,CA,Alberta,alberta,Wainwright,wainwright
-Canada,CA,Alberta,alberta,Wembley,wembley
-Canada,CA,Alberta,alberta,Westlake,westlake
-Canada,CA,Alberta,alberta,Westlock,westlock
-Canada,CA,Alberta,alberta,Wetaskiwin,wetaskiwin
-Canada,CA,Alberta,alberta,Whitecourt,whitecourt
-Canada,CA,Alberta,alberta,Wild Rose,wild-rose
-Canada,CA,British Columbia,british-columbia,Abbotsford,abbotsford
-Canada,CA,British Columbia,british-columbia,Agassiz,agassiz
-Canada,CA,British Columbia,british-columbia,Aldergrove,aldergrove
-Canada,CA,British Columbia,british-columbia,Aldergrove East,aldergrove-east
-Canada,CA,British Columbia,british-columbia,Anmore,anmore
-Canada,CA,British Columbia,british-columbia,Arbutus Ridge,arbutus-ridge
-Canada,CA,British Columbia,british-columbia,Armstrong,armstrong
-Canada,CA,British Columbia,british-columbia,Ashcroft,ashcroft
-Canada,CA,British Columbia,british-columbia,Barriere,barriere
-Canada,CA,British Columbia,british-columbia,Bowen Island,bowen-island
-Canada,CA,British Columbia,british-columbia,Burnaby,burnaby
-Canada,CA,British Columbia,british-columbia,Burns Lake,burns-lake
-Canada,CA,British Columbia,british-columbia,Cache Creek,cache-creek
-Canada,CA,British Columbia,british-columbia,Campbell River,campbell-river
-Canada,CA,British Columbia,british-columbia,Castlegar,castlegar
-Canada,CA,British Columbia,british-columbia,Cedar,cedar
-Canada,CA,British Columbia,british-columbia,Central Coast Regional District,central-coast-regional-district
-Canada,CA,British Columbia,british-columbia,Chase,chase
-Canada,CA,British Columbia,british-columbia,Chemainus,chemainus
-Canada,CA,British Columbia,british-columbia,Chetwynd,chetwynd
-Canada,CA,British Columbia,british-columbia,Chilliwack,chilliwack
-Canada,CA,British Columbia,british-columbia,Colwood,colwood
-Canada,CA,British Columbia,british-columbia,Coombs,coombs
-Canada,CA,British Columbia,british-columbia,Coquitlam,coquitlam
-Canada,CA,British Columbia,british-columbia,Courtenay,courtenay
-Canada,CA,British Columbia,british-columbia,Cowichan Bay,cowichan-bay
-Canada,CA,British Columbia,british-columbia,Cranbrook,cranbrook
-Canada,CA,British Columbia,british-columbia,Creston,creston
-Canada,CA,British Columbia,british-columbia,Cumberland,cumberland
-Canada,CA,British Columbia,british-columbia,Dawson Creek,dawson-creek
-Canada,CA,British Columbia,british-columbia,Delta,delta
-Canada,CA,British Columbia,british-columbia,Denman Island,denman-island
-Canada,CA,British Columbia,british-columbia,Denman Island Trust Area,denman-island-trust-area
-Canada,CA,British Columbia,british-columbia,Duck Lake,duck-lake
-Canada,CA,British Columbia,british-columbia,Duncan,duncan
-Canada,CA,British Columbia,british-columbia,East Wellington,east-wellington
-Canada,CA,British Columbia,british-columbia,Elkford,elkford
-Canada,CA,British Columbia,british-columbia,Ellison,ellison
-Canada,CA,British Columbia,british-columbia,Enderby,enderby
-Canada,CA,British Columbia,british-columbia,Fairwinds,fairwinds
-Canada,CA,British Columbia,british-columbia,Fernie,fernie
-Canada,CA,British Columbia,british-columbia,Fort Nelson,fort-nelson
-Canada,CA,British Columbia,british-columbia,Fort St. John,fort-st-john
-Canada,CA,British Columbia,british-columbia,Fraser Valley Regional District,fraser-valley-regional-district
-Canada,CA,British Columbia,british-columbia,French Creek,french-creek
-Canada,CA,British Columbia,british-columbia,Fruitvale,fruitvale
-Canada,CA,British Columbia,british-columbia,Gibsons,gibsons
-Canada,CA,British Columbia,british-columbia,Golden,golden
-Canada,CA,British Columbia,british-columbia,Grand Forks,grand-forks
-Canada,CA,British Columbia,british-columbia,Hanceville,hanceville
-Canada,CA,British Columbia,british-columbia,Hope,hope
-Canada,CA,British Columbia,british-columbia,Hornby Island,hornby-island
-Canada,CA,British Columbia,british-columbia,Houston,houston
-Canada,CA,British Columbia,british-columbia,Invermere,invermere
-Canada,CA,British Columbia,british-columbia,Kamloops,kamloops
-Canada,CA,British Columbia,british-columbia,Kelowna,kelowna
-Canada,CA,British Columbia,british-columbia,Kimberley,kimberley
-Canada,CA,British Columbia,british-columbia,Kitimat,kitimat
-Canada,CA,British Columbia,british-columbia,Ladner,ladner
-Canada,CA,British Columbia,british-columbia,Ladysmith,ladysmith
-Canada,CA,British Columbia,british-columbia,Lake Cowichan,lake-cowichan
-Canada,CA,British Columbia,british-columbia,Langford,langford
-Canada,CA,British Columbia,british-columbia,Langley,langley
-Canada,CA,British Columbia,british-columbia,Lillooet,lillooet
-Canada,CA,British Columbia,british-columbia,Lions Bay,lions-bay
-Canada,CA,British Columbia,british-columbia,Logan Lake,logan-lake
-Canada,CA,British Columbia,british-columbia,Lumby,lumby
-Canada,CA,British Columbia,british-columbia,Mackenzie,mackenzie
-Canada,CA,British Columbia,british-columbia,Maple Ridge,maple-ridge
-Canada,CA,British Columbia,british-columbia,Merritt,merritt
-Canada,CA,British Columbia,british-columbia,Metchosin,metchosin
-Canada,CA,British Columbia,british-columbia,Metro Vancouver Regional District,metro-vancouver-regional-district
-Canada,CA,British Columbia,british-columbia,Mission,mission
-Canada,CA,British Columbia,british-columbia,Nakusp,nakusp
-Canada,CA,British Columbia,british-columbia,Nanaimo,nanaimo
-Canada,CA,British Columbia,british-columbia,Nelson,nelson
-Canada,CA,British Columbia,british-columbia,New Westminster,new-westminster
-Canada,CA,British Columbia,british-columbia,North Cowichan,north-cowichan
-Canada,CA,British Columbia,british-columbia,North Oyster/Yellow Point,north-oysteryellow-point
-Canada,CA,British Columbia,british-columbia,North Saanich,north-saanich
-Canada,CA,British Columbia,british-columbia,North Vancouver,north-vancouver
-Canada,CA,British Columbia,british-columbia,Oak Bay,oak-bay
-Canada,CA,British Columbia,british-columbia,Okanagan,okanagan
-Canada,CA,British Columbia,british-columbia,Okanagan Falls,okanagan-falls
-Canada,CA,British Columbia,british-columbia,Oliver,oliver
-Canada,CA,British Columbia,british-columbia,Osoyoos,osoyoos
-Canada,CA,British Columbia,british-columbia,Parksville,parksville
-Canada,CA,British Columbia,british-columbia,Peace River Regional District,peace-river-regional-district
-Canada,CA,British Columbia,british-columbia,Peachland,peachland
-Canada,CA,British Columbia,british-columbia,Pemberton,pemberton
-Canada,CA,British Columbia,british-columbia,Penticton,penticton
-Canada,CA,British Columbia,british-columbia,Pitt Meadows,pitt-meadows
-Canada,CA,British Columbia,british-columbia,Port Alberni,port-alberni
-Canada,CA,British Columbia,british-columbia,Port Coquitlam,port-coquitlam
-Canada,CA,British Columbia,british-columbia,Port McNeill,port-mcneill
-Canada,CA,British Columbia,british-columbia,Port Moody,port-moody
-Canada,CA,British Columbia,british-columbia,Powell River,powell-river
-Canada,CA,British Columbia,british-columbia,Prince George,prince-george
-Canada,CA,British Columbia,british-columbia,Prince Rupert,prince-rupert
-Canada,CA,British Columbia,british-columbia,Princeton,princeton
-Canada,CA,British Columbia,british-columbia,Puntledge,puntledge
-Canada,CA,British Columbia,british-columbia,Quesnel,quesnel
-Canada,CA,British Columbia,british-columbia,Regional District of Alberni-Clayoquot,regional-district-of-alberni-clayoquot
-Canada,CA,British Columbia,british-columbia,Regional District of Central Okanagan,regional-district-of-central-okanagan
-Canada,CA,British Columbia,british-columbia,Revelstoke,revelstoke
-Canada,CA,British Columbia,british-columbia,Richmond,richmond
-Canada,CA,British Columbia,british-columbia,Rossland,rossland
-Canada,CA,British Columbia,british-columbia,Royston,royston
-Canada,CA,British Columbia,british-columbia,Salmo,salmo
-Canada,CA,British Columbia,british-columbia,Salmon Arm,salmon-arm
-Canada,CA,British Columbia,british-columbia,Salt Spring Island,salt-spring-island
-Canada,CA,British Columbia,british-columbia,Saltair,saltair
-Canada,CA,British Columbia,british-columbia,Sechelt,sechelt
-Canada,CA,British Columbia,british-columbia,Sicamous,sicamous
-Canada,CA,British Columbia,british-columbia,Six Mile,six-mile
-Canada,CA,British Columbia,british-columbia,Smithers,smithers
-Canada,CA,British Columbia,british-columbia,Sooke,sooke
-Canada,CA,British Columbia,british-columbia,South Pender Harbour,south-pender-harbour
-Canada,CA,British Columbia,british-columbia,Sparwood,sparwood
-Canada,CA,British Columbia,british-columbia,Summerland,summerland
-Canada,CA,British Columbia,british-columbia,Surrey,surrey
-Canada,CA,British Columbia,british-columbia,Terrace,terrace
-Canada,CA,British Columbia,british-columbia,Tofino,tofino
-Canada,CA,British Columbia,british-columbia,Trail,trail
-Canada,CA,British Columbia,british-columbia,Tsawwassen,tsawwassen
-Canada,CA,British Columbia,british-columbia,Tumbler Ridge,tumbler-ridge
-Canada,CA,British Columbia,british-columbia,Ucluelet,ucluelet
-Canada,CA,British Columbia,british-columbia,Vancouver,vancouver
-Canada,CA,British Columbia,british-columbia,Vanderhoof,vanderhoof
-Canada,CA,British Columbia,british-columbia,Vernon,vernon
-Canada,CA,British Columbia,british-columbia,Victoria,victoria
-Canada,CA,British Columbia,british-columbia,Walnut Grove,walnut-grove
-Canada,CA,British Columbia,british-columbia,Welcome Beach,welcome-beach
-Canada,CA,British Columbia,british-columbia,West End,west-end
-Canada,CA,British Columbia,british-columbia,West Kelowna,west-kelowna
-Canada,CA,British Columbia,british-columbia,West Vancouver,west-vancouver
-Canada,CA,British Columbia,british-columbia,Whistler,whistler
-Canada,CA,British Columbia,british-columbia,White Rock,white-rock
-Canada,CA,British Columbia,british-columbia,Williams Lake,williams-lake
-Canada,CA,Manitoba,manitoba,Altona,altona
-Canada,CA,Manitoba,manitoba,Beausejour,beausejour
-Canada,CA,Manitoba,manitoba,Boissevain,boissevain
-Canada,CA,Manitoba,manitoba,Brandon,brandon
-Canada,CA,Manitoba,manitoba,Carberry,carberry
-Canada,CA,Manitoba,manitoba,Carman,carman
-Canada,CA,Manitoba,manitoba,Cross Lake 19A,cross-lake-19a
-Canada,CA,Manitoba,manitoba,Dauphin,dauphin
-Canada,CA,Manitoba,manitoba,De Salaberry,de-salaberry
-Canada,CA,Manitoba,manitoba,Deloraine,deloraine
-Canada,CA,Manitoba,manitoba,Flin Flon,flin-flon
-Canada,CA,Manitoba,manitoba,Gimli,gimli
-Canada,CA,Manitoba,manitoba,Grunthal,grunthal
-Canada,CA,Manitoba,manitoba,Headingley,headingley
-Canada,CA,Manitoba,manitoba,Ile des Chenes,ile-des-chenes
-Canada,CA,Manitoba,manitoba,Killarney,killarney
-Canada,CA,Manitoba,manitoba,La Broquerie,la-broquerie
-Canada,CA,Manitoba,manitoba,Lac du Bonnet,lac-du-bonnet
-Canada,CA,Manitoba,manitoba,Landmark,landmark
-Canada,CA,Manitoba,manitoba,Lorette,lorette
-Canada,CA,Manitoba,manitoba,Melita,melita
-Canada,CA,Manitoba,manitoba,Minnedosa,minnedosa
-Canada,CA,Manitoba,manitoba,Moose Lake,moose-lake
-Canada,CA,Manitoba,manitoba,Morden,morden
-Canada,CA,Manitoba,manitoba,Morris,morris
-Canada,CA,Manitoba,manitoba,Neepawa,neepawa
-Canada,CA,Manitoba,manitoba,Niverville,niverville
-Canada,CA,Manitoba,manitoba,Portage la Prairie,portage-la-prairie
-Canada,CA,Manitoba,manitoba,Rivers,rivers
-Canada,CA,Manitoba,manitoba,Roblin,roblin
-Canada,CA,Manitoba,manitoba,Selkirk,selkirk
-Canada,CA,Manitoba,manitoba,Shilo,shilo
-Canada,CA,Manitoba,manitoba,Souris,souris
-Canada,CA,Manitoba,manitoba,St. Adolphe,st-adolphe
-Canada,CA,Manitoba,manitoba,Steinbach,steinbach
-Canada,CA,Manitoba,manitoba,Stonewall,stonewall
-Canada,CA,Manitoba,manitoba,Swan River,swan-river
-Canada,CA,Manitoba,manitoba,The Pas,the-pas
-Canada,CA,Manitoba,manitoba,Thompson,thompson
-Canada,CA,Manitoba,manitoba,Virden,virden
-Canada,CA,Manitoba,manitoba,West St. Paul,west-st-paul
-Canada,CA,Manitoba,manitoba,Winkler,winkler
-Canada,CA,Manitoba,manitoba,Winnipeg,winnipeg
-Canada,CA,New Brunswick,new-brunswick,Baie Ste. Anne,baie-ste-anne
-Canada,CA,New Brunswick,new-brunswick,Bathurst,bathurst
-Canada,CA,New Brunswick,new-brunswick,Bouctouche,bouctouche
-Canada,CA,New Brunswick,new-brunswick,Campbellton,campbellton
-Canada,CA,New Brunswick,new-brunswick,Dieppe,dieppe
-Canada,CA,New Brunswick,new-brunswick,Edmundston,edmundston
-Canada,CA,New Brunswick,new-brunswick,Florenceville-Bristol,florenceville-bristol
-Canada,CA,New Brunswick,new-brunswick,Fredericton,fredericton
-Canada,CA,New Brunswick,new-brunswick,Fundy Bay,fundy-bay
-Canada,CA,New Brunswick,new-brunswick,Grande-Digue,grande-digue
-Canada,CA,New Brunswick,new-brunswick,Greater Lakeburn,greater-lakeburn
-Canada,CA,New Brunswick,new-brunswick,Hampton,hampton
-Canada,CA,New Brunswick,new-brunswick,Harrison Brook,harrison-brook
-Canada,CA,New Brunswick,new-brunswick,Keswick Ridge,keswick-ridge
-Canada,CA,New Brunswick,new-brunswick,Lincoln,lincoln
-Canada,CA,New Brunswick,new-brunswick,Lutes Mountain,lutes-mountain
-Canada,CA,New Brunswick,new-brunswick,McEwen,mcewen
-Canada,CA,New Brunswick,new-brunswick,Miramichi,miramichi
-Canada,CA,New Brunswick,new-brunswick,Moncton,moncton
-Canada,CA,New Brunswick,new-brunswick,Nackawic,nackawic
-Canada,CA,New Brunswick,new-brunswick,New Maryland,new-maryland
-Canada,CA,New Brunswick,new-brunswick,Noonan,noonan
-Canada,CA,New Brunswick,new-brunswick,Oromocto,oromocto
-Canada,CA,New Brunswick,new-brunswick,Richibucto,richibucto
-Canada,CA,New Brunswick,new-brunswick,Sackville,sackville
-Canada,CA,New Brunswick,new-brunswick,Saint Andrews,saint-andrews
-Canada,CA,New Brunswick,new-brunswick,Saint John,saint-john
-Canada,CA,New Brunswick,new-brunswick,Saint-Antoine,saint-antoine
-Canada,CA,New Brunswick,new-brunswick,Saint-Leonard,saint-leonard
-Canada,CA,New Brunswick,new-brunswick,Salisbury,salisbury
-Canada,CA,New Brunswick,new-brunswick,Shediac,shediac
-Canada,CA,New Brunswick,new-brunswick,Shediac Bridge-Shediac River,shediac-bridge-shediac-river
-Canada,CA,New Brunswick,new-brunswick,Shippagan,shippagan
-Canada,CA,New Brunswick,new-brunswick,Starlight Village,starlight-village
-Canada,CA,New Brunswick,new-brunswick,Sussex,sussex
-Canada,CA,New Brunswick,new-brunswick,Tracadie-Sheila,tracadie-sheila
-Canada,CA,New Brunswick,new-brunswick,Wells,wells
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Bay Roberts,bay-roberts
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Bay St. George South,bay-st-george-south
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Bonavista,bonavista
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Botwood,botwood
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Burgeo,burgeo
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Carbonear,carbonear
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Catalina,catalina
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Channel-Port aux Basques,channel-port-aux-basques
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Clarenville-Shoal Harbour,clarenville-shoal-harbour
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Conception Bay South,conception-bay-south
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Corner Brook,corner-brook
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Deer Lake,deer-lake
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Fogo Island,fogo-island
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Gambo,gambo
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Goulds,goulds
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Grand Bank,grand-bank
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Grand Falls-Windsor,grand-falls-windsor
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Happy Valley-Goose Bay,happy-valley-goose-bay
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Harbour Breton,harbour-breton
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Labrador City,labrador-city
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Lewisporte,lewisporte
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Marystown,marystown
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Mount Pearl,mount-pearl
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Pasadena,pasadena
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Springdale,springdale
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,St. Anthony,st-anthony
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,St. John's,st-johns
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Stephenville,stephenville
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Stephenville Crossing,stephenville-crossing
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Torbay,torbay
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Upper Island Cove,upper-island-cove
-Canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Wabana,wabana
-Canada,CA,Northwest Territories,northwest-territories,Behchoko,behchoko
-Canada,CA,Northwest Territories,northwest-territories,Fort McPherson,fort-mcpherson
-Canada,CA,Northwest Territories,northwest-territories,Fort Smith,fort-smith
-Canada,CA,Northwest Territories,northwest-territories,Hay River,hay-river
-Canada,CA,Northwest Territories,northwest-territories,Inuvik,inuvik
-Canada,CA,Northwest Territories,northwest-territories,Norman Wells,norman-wells
-Canada,CA,Northwest Territories,northwest-territories,Yellowknife,yellowknife
-Canada,CA,Nova Scotia,nova-scotia,Amherst,amherst
-Canada,CA,Nova Scotia,nova-scotia,Annapolis County,annapolis-county
-Canada,CA,Nova Scotia,nova-scotia,Antigonish,antigonish
-Canada,CA,Nova Scotia,nova-scotia,Berwick,berwick
-Canada,CA,Nova Scotia,nova-scotia,Bridgewater,bridgewater
-Canada,CA,Nova Scotia,nova-scotia,Cape Breton County,cape-breton-county
-Canada,CA,Nova Scotia,nova-scotia,Chester,chester
-Canada,CA,Nova Scotia,nova-scotia,Colchester,colchester
-Canada,CA,Nova Scotia,nova-scotia,Cole Harbour,cole-harbour
-Canada,CA,Nova Scotia,nova-scotia,Cow Bay,cow-bay
-Canada,CA,Nova Scotia,nova-scotia,Dartmouth,dartmouth
-Canada,CA,Nova Scotia,nova-scotia,Digby,digby
-Canada,CA,Nova Scotia,nova-scotia,Digby County,digby-county
-Canada,CA,Nova Scotia,nova-scotia,English Corner,english-corner
-Canada,CA,Nova Scotia,nova-scotia,Eskasoni 3,eskasoni-3
-Canada,CA,Nova Scotia,nova-scotia,Fall River,fall-river
-Canada,CA,Nova Scotia,nova-scotia,Glace Bay,glace-bay
-Canada,CA,Nova Scotia,nova-scotia,Greenwood,greenwood
-Canada,CA,Nova Scotia,nova-scotia,Halifax,halifax
-Canada,CA,Nova Scotia,nova-scotia,Hantsport,hantsport
-Canada,CA,Nova Scotia,nova-scotia,Hayes Subdivision,hayes-subdivision
-Canada,CA,Nova Scotia,nova-scotia,Kentville,kentville
-Canada,CA,Nova Scotia,nova-scotia,Lake Echo,lake-echo
-Canada,CA,Nova Scotia,nova-scotia,Lantz,lantz
-Canada,CA,Nova Scotia,nova-scotia,Lower Sackville,lower-sackville
-Canada,CA,Nova Scotia,nova-scotia,Lunenburg,lunenburg
-Canada,CA,Nova Scotia,nova-scotia,Middleton,middleton
-Canada,CA,Nova Scotia,nova-scotia,New Glasgow,new-glasgow
-Canada,CA,Nova Scotia,nova-scotia,Oxford,oxford
-Canada,CA,Nova Scotia,nova-scotia,Parrsboro,parrsboro
-Canada,CA,Nova Scotia,nova-scotia,Pictou,pictou
-Canada,CA,Nova Scotia,nova-scotia,Pictou County,pictou-county
-Canada,CA,Nova Scotia,nova-scotia,Port Hawkesbury,port-hawkesbury
-Canada,CA,Nova Scotia,nova-scotia,Port Williams,port-williams
-Canada,CA,Nova Scotia,nova-scotia,Princeville,princeville
-Canada,CA,Nova Scotia,nova-scotia,Shelburne,shelburne
-Canada,CA,Nova Scotia,nova-scotia,Springhill,springhill
-Canada,CA,Nova Scotia,nova-scotia,Sydney,sydney
-Canada,CA,Nova Scotia,nova-scotia,Sydney Mines,sydney-mines
-Canada,CA,Nova Scotia,nova-scotia,Truro,truro
-Canada,CA,Nova Scotia,nova-scotia,Windsor,windsor
-Canada,CA,Nova Scotia,nova-scotia,Wolfville,wolfville
-Canada,CA,Nova Scotia,nova-scotia,Yarmouth,yarmouth
-Canada,CA,Nunavut,nunavut,Clyde River,clyde-river
-Canada,CA,Nunavut,nunavut,Gjoa Haven,gjoa-haven
-Canada,CA,Nunavut,nunavut,Iqaluit,iqaluit
-Canada,CA,Nunavut,nunavut,Kugluktuk,kugluktuk
-Canada,CA,Nunavut,nunavut,Pangnirtung,pangnirtung
-Canada,CA,Nunavut,nunavut,Rankin Inlet,rankin-inlet
-Canada,CA,Ontario,ontario,Ajax,ajax
-Canada,CA,Ontario,ontario,Algoma,algoma
-Canada,CA,Ontario,ontario,Alliston,alliston
-Canada,CA,Ontario,ontario,Amherstburg,amherstburg
-Canada,CA,Ontario,ontario,Amigo Beach,amigo-beach
-Canada,CA,Ontario,ontario,Ancaster,ancaster
-Canada,CA,Ontario,ontario,Angus,angus
-Canada,CA,Ontario,ontario,Arnprior,arnprior
-Canada,CA,Ontario,ontario,Atikokan,atikokan
-Canada,CA,Ontario,ontario,Attawapiskat,attawapiskat
-Canada,CA,Ontario,ontario,Aurora,aurora
-Canada,CA,Ontario,ontario,Aylmer,aylmer
-Canada,CA,Ontario,ontario,Azilda,azilda
-Canada,CA,Ontario,ontario,Ballantrae,ballantrae
-Canada,CA,Ontario,ontario,Bancroft,bancroft
-Canada,CA,Ontario,ontario,Barrie,barrie
-Canada,CA,Ontario,ontario,Bath,bath
-Canada,CA,Ontario,ontario,Belleville,belleville
-Canada,CA,Ontario,ontario,Bells Corners,bells-corners
-Canada,CA,Ontario,ontario,Belmont,belmont
-Canada,CA,Ontario,ontario,Binbrook,binbrook
-Canada,CA,Ontario,ontario,Bluewater,bluewater
-Canada,CA,Ontario,ontario,Bourget,bourget
-Canada,CA,Ontario,ontario,Bracebridge,bracebridge
-Canada,CA,Ontario,ontario,Brampton,brampton
-Canada,CA,Ontario,ontario,Brant,brant
-Canada,CA,Ontario,ontario,Brantford,brantford
-Canada,CA,Ontario,ontario,Brockville,brockville
-Canada,CA,Ontario,ontario,Brussels,brussels
-Canada,CA,Ontario,ontario,Burford,burford
-Canada,CA,Ontario,ontario,Burlington,burlington
-Canada,CA,Ontario,ontario,Cambridge,cambridge
-Canada,CA,Ontario,ontario,Camlachie,camlachie
-Canada,CA,Ontario,ontario,Capreol,capreol
-Canada,CA,Ontario,ontario,Carleton Place,carleton-place
-Canada,CA,Ontario,ontario,Casselman,casselman
-Canada,CA,Ontario,ontario,Chatham,chatham
-Canada,CA,Ontario,ontario,Chatham-Kent,chatham-kent
-Canada,CA,Ontario,ontario,Clarence-Rockland,clarence-rockland
-Canada,CA,Ontario,ontario,Cobourg,cobourg
-Canada,CA,Ontario,ontario,Cochrane District,cochrane-district
-Canada,CA,Ontario,ontario,Collingwood,collingwood
-Canada,CA,Ontario,ontario,Concord,concord
-Canada,CA,Ontario,ontario,Constance Bay,constance-bay
-Canada,CA,Ontario,ontario,Cookstown,cookstown
-Canada,CA,Ontario,ontario,Cornwall,cornwall
-Canada,CA,Ontario,ontario,Corunna,corunna
-Canada,CA,Ontario,ontario,Deep River,deep-river
-Canada,CA,Ontario,ontario,Delaware,delaware
-Canada,CA,Ontario,ontario,Deseronto,deseronto
-Canada,CA,Ontario,ontario,Dorchester,dorchester
-Canada,CA,Ontario,ontario,Dowling,dowling
-Canada,CA,Ontario,ontario,Dryden,dryden
-Canada,CA,Ontario,ontario,Durham,durham
-Canada,CA,Ontario,ontario,Ear Falls,ear-falls
-Canada,CA,Ontario,ontario,East Gwillimbury,east-gwillimbury
-Canada,CA,Ontario,ontario,East York,east-york
-Canada,CA,Ontario,ontario,Elliot Lake,elliot-lake
-Canada,CA,Ontario,ontario,Elmvale,elmvale
-Canada,CA,Ontario,ontario,Englehart,englehart
-Canada,CA,Ontario,ontario,Espanola,espanola
-Canada,CA,Ontario,ontario,Essex,essex
-Canada,CA,Ontario,ontario,Etobicoke,etobicoke
-Canada,CA,Ontario,ontario,Fort Erie,fort-erie
-Canada,CA,Ontario,ontario,Fort Frances,fort-frances
-Canada,CA,Ontario,ontario,Gananoque,gananoque
-Canada,CA,Ontario,ontario,Glencoe,glencoe
-Canada,CA,Ontario,ontario,Goderich,goderich
-Canada,CA,Ontario,ontario,Golden,golden
-Canada,CA,Ontario,ontario,Gravenhurst,gravenhurst
-Canada,CA,Ontario,ontario,Greater Napanee,greater-napanee
-Canada,CA,Ontario,ontario,Greater Sudbury,greater-sudbury
-Canada,CA,Ontario,ontario,Greenstone,greenstone
-Canada,CA,Ontario,ontario,Guelph,guelph
-Canada,CA,Ontario,ontario,Haldimand County,haldimand-county
-Canada,CA,Ontario,ontario,Haliburton Village,haliburton-village
-Canada,CA,Ontario,ontario,Halton,halton
-Canada,CA,Ontario,ontario,Hamilton,hamilton
-Canada,CA,Ontario,ontario,Hanover,hanover
-Canada,CA,Ontario,ontario,Harriston,harriston
-Canada,CA,Ontario,ontario,Hawkesbury,hawkesbury
-Canada,CA,Ontario,ontario,Hearst,hearst
-Canada,CA,Ontario,ontario,Hornepayne,hornepayne
-Canada,CA,Ontario,ontario,Huntsville,huntsville
-Canada,CA,Ontario,ontario,Huron East,huron-east
-Canada,CA,Ontario,ontario,Ingersoll,ingersoll
-Canada,CA,Ontario,ontario,Innisfil,innisfil
-Canada,CA,Ontario,ontario,Iroquois Falls,iroquois-falls
-Canada,CA,Ontario,ontario,Jarvis,jarvis
-Canada,CA,Ontario,ontario,Kanata,kanata
-Canada,CA,Ontario,ontario,Kapuskasing,kapuskasing
-Canada,CA,Ontario,ontario,Kawartha Lakes,kawartha-lakes
-Canada,CA,Ontario,ontario,Kenora,kenora
-Canada,CA,Ontario,ontario,Keswick,keswick
-Canada,CA,Ontario,ontario,Kincardine,kincardine
-Canada,CA,Ontario,ontario,King,king
-Canada,CA,Ontario,ontario,Kingston,kingston
-Canada,CA,Ontario,ontario,Kirkland Lake,kirkland-lake
-Canada,CA,Ontario,ontario,Kitchener,kitchener
-Canada,CA,Ontario,ontario,L'Orignal,lorignal
-Canada,CA,Ontario,ontario,Lakefield,lakefield
-Canada,CA,Ontario,ontario,Lambton Shores,lambton-shores
-Canada,CA,Ontario,ontario,Lappe,lappe
-Canada,CA,Ontario,ontario,Leamington,leamington
-Canada,CA,Ontario,ontario,Limoges,limoges
-Canada,CA,Ontario,ontario,Lindsay,lindsay
-Canada,CA,Ontario,ontario,Listowel,listowel
-Canada,CA,Ontario,ontario,Little Current,little-current
-Canada,CA,Ontario,ontario,Lively,lively
-Canada,CA,Ontario,ontario,London,london
-Canada,CA,Ontario,ontario,Lucan,lucan
-Canada,CA,Ontario,ontario,Madoc,madoc
-Canada,CA,Ontario,ontario,Manitoulin District,manitoulin-district
-Canada,CA,Ontario,ontario,Manitouwadge,manitouwadge
-Canada,CA,Ontario,ontario,Marathon,marathon
-Canada,CA,Ontario,ontario,Markdale,markdale
-Canada,CA,Ontario,ontario,Markham,markham
-Canada,CA,Ontario,ontario,Mattawa,mattawa
-Canada,CA,Ontario,ontario,Meaford,meaford
-Canada,CA,Ontario,ontario,Metcalfe,metcalfe
-Canada,CA,Ontario,ontario,Midland,midland
-Canada,CA,Ontario,ontario,Mildmay,mildmay
-Canada,CA,Ontario,ontario,Millbrook,millbrook
-Canada,CA,Ontario,ontario,Milton,milton
-Canada,CA,Ontario,ontario,Mississauga,mississauga
-Canada,CA,Ontario,ontario,Mississauga Beach,mississauga-beach
-Canada,CA,Ontario,ontario,Moose Factory,moose-factory
-Canada,CA,Ontario,ontario,Moosonee,moosonee
-Canada,CA,Ontario,ontario,Morrisburg,morrisburg
-Canada,CA,Ontario,ontario,Mount Albert,mount-albert
-Canada,CA,Ontario,ontario,Mount Brydges,mount-brydges
-Canada,CA,Ontario,ontario,Napanee,napanee
-Canada,CA,Ontario,ontario,Napanee Downtown,napanee-downtown
-Canada,CA,Ontario,ontario,Neebing,neebing
-Canada,CA,Ontario,ontario,Nepean,nepean
-Canada,CA,Ontario,ontario,New Hamburg,new-hamburg
-Canada,CA,Ontario,ontario,Newmarket,newmarket
-Canada,CA,Ontario,ontario,Niagara Falls,niagara-falls
-Canada,CA,Ontario,ontario,Nipissing District,nipissing-district
-Canada,CA,Ontario,ontario,Norfolk County,norfolk-county
-Canada,CA,Ontario,ontario,North Bay,north-bay
-Canada,CA,Ontario,ontario,North Perth,north-perth
-Canada,CA,Ontario,ontario,North York,north-york
-Canada,CA,Ontario,ontario,Norwood,norwood
-Canada,CA,Ontario,ontario,Oakville,oakville
-Canada,CA,Ontario,ontario,Omemee,omemee
-Canada,CA,Ontario,ontario,Orangeville,orangeville
-Canada,CA,Ontario,ontario,Orillia,orillia
-Canada,CA,Ontario,ontario,Osgoode,osgoode
-Canada,CA,Ontario,ontario,Oshawa,oshawa
-Canada,CA,Ontario,ontario,Ottawa,ottawa
-Canada,CA,Ontario,ontario,Owen Sound,owen-sound
-Canada,CA,Ontario,ontario,Paisley,paisley
-Canada,CA,Ontario,ontario,Paris,paris
-Canada,CA,Ontario,ontario,Parkhill,parkhill
-Canada,CA,Ontario,ontario,Parry Sound,parry-sound
-Canada,CA,Ontario,ontario,Parry Sound District,parry-sound-district
-Canada,CA,Ontario,ontario,Peel,peel
-Canada,CA,Ontario,ontario,Pembroke,pembroke
-Canada,CA,Ontario,ontario,Perth,perth
-Canada,CA,Ontario,ontario,Petawawa,petawawa
-Canada,CA,Ontario,ontario,Peterborough,peterborough
-Canada,CA,Ontario,ontario,Petrolia,petrolia
-Canada,CA,Ontario,ontario,Pickering,pickering
-Canada,CA,Ontario,ontario,Picton,picton
-Canada,CA,Ontario,ontario,Plantagenet,plantagenet
-Canada,CA,Ontario,ontario,Plattsville,plattsville
-Canada,CA,Ontario,ontario,Port Colborne,port-colborne
-Canada,CA,Ontario,ontario,Port Hope,port-hope
-Canada,CA,Ontario,ontario,Port Rowan,port-rowan
-Canada,CA,Ontario,ontario,Port Stanley,port-stanley
-Canada,CA,Ontario,ontario,Powassan,powassan
-Canada,CA,Ontario,ontario,Prescott,prescott
-Canada,CA,Ontario,ontario,Prince Edward,prince-edward
-Canada,CA,Ontario,ontario,Queenswood Heights,queenswood-heights
-Canada,CA,Ontario,ontario,Quinte West,quinte-west
-Canada,CA,Ontario,ontario,Rainy River District,rainy-river-district
-Canada,CA,Ontario,ontario,Rayside-Balfour,rayside-balfour
-Canada,CA,Ontario,ontario,Red Lake,red-lake
-Canada,CA,Ontario,ontario,Regional Municipality of Waterloo,regional-municipality-of-waterloo
-Canada,CA,Ontario,ontario,Renfrew,renfrew
-Canada,CA,Ontario,ontario,Richmond,richmond
-Canada,CA,Ontario,ontario,Richmond Hill,richmond-hill
-Canada,CA,Ontario,ontario,Ridgetown,ridgetown
-Canada,CA,Ontario,ontario,Rockwood,rockwood
-Canada,CA,Ontario,ontario,Russell,russell
-Canada,CA,Ontario,ontario,Sarnia,sarnia
-Canada,CA,Ontario,ontario,Sault Ste. Marie,sault-ste-marie
-Canada,CA,Ontario,ontario,Scarborough,scarborough
-Canada,CA,Ontario,ontario,Seaforth,seaforth
-Canada,CA,Ontario,ontario,Shelburne,shelburne
-Canada,CA,Ontario,ontario,Simcoe,simcoe
-Canada,CA,Ontario,ontario,Sioux Lookout,sioux-lookout
-Canada,CA,Ontario,ontario,Skatepark,skatepark
-Canada,CA,Ontario,ontario,Smiths Falls,smiths-falls
-Canada,CA,Ontario,ontario,South Huron,south-huron
-Canada,CA,Ontario,ontario,South River,south-river
-Canada,CA,Ontario,ontario,St. Catharines,st-catharines
-Canada,CA,Ontario,ontario,St. George,st-george
-Canada,CA,Ontario,ontario,St. Thomas,st-thomas
-Canada,CA,Ontario,ontario,Stirling,stirling
-Canada,CA,Ontario,ontario,Stoney Point,stoney-point
-Canada,CA,Ontario,ontario,Stratford,stratford
-Canada,CA,Ontario,ontario,Sudbury,sudbury
-Canada,CA,Ontario,ontario,Tavistock,tavistock
-Canada,CA,Ontario,ontario,Temiskaming Shores,temiskaming-shores
-Canada,CA,Ontario,ontario,Thessalon,thessalon
-Canada,CA,Ontario,ontario,Thorold,thorold
-Canada,CA,Ontario,ontario,Thunder Bay,thunder-bay
-Canada,CA,Ontario,ontario,Thunder Bay District,thunder-bay-district
-Canada,CA,Ontario,ontario,Timiskaming District,timiskaming-district
-Canada,CA,Ontario,ontario,Timmins,timmins
-Canada,CA,Ontario,ontario,Tobermory,tobermory
-Canada,CA,Ontario,ontario,Toronto,toronto
-Canada,CA,Ontario,ontario,Toronto county,toronto-county
-Canada,CA,Ontario,ontario,Tottenham,tottenham
-Canada,CA,Ontario,ontario,Tweed,tweed
-Canada,CA,Ontario,ontario,Uxbridge,uxbridge
-Canada,CA,Ontario,ontario,Valley East,valley-east
-Canada,CA,Ontario,ontario,Vanier,vanier
-Canada,CA,Ontario,ontario,Vaughan,vaughan
-Canada,CA,Ontario,ontario,Vineland,vineland
-Canada,CA,Ontario,ontario,Virgil,virgil
-Canada,CA,Ontario,ontario,Walpole Island,walpole-island
-Canada,CA,Ontario,ontario,Wasaga Beach,wasaga-beach
-Canada,CA,Ontario,ontario,Waterford,waterford
-Canada,CA,Ontario,ontario,Waterloo,waterloo
-Canada,CA,Ontario,ontario,Watford,watford
-Canada,CA,Ontario,ontario,Wawa,wawa
-Canada,CA,Ontario,ontario,Welland,welland
-Canada,CA,Ontario,ontario,Wellesley,wellesley
-Canada,CA,Ontario,ontario,Wendover,wendover
-Canada,CA,Ontario,ontario,West Lorne,west-lorne
-Canada,CA,Ontario,ontario,Willowdale,willowdale
-Canada,CA,Ontario,ontario,Winchester,winchester
-Canada,CA,Ontario,ontario,Windsor,windsor
-Canada,CA,Ontario,ontario,Wingham,wingham
-Canada,CA,Ontario,ontario,Woodstock,woodstock
-Canada,CA,Ontario,ontario,York,york
-Canada,CA,Prince Edward Island,prince-edward-island,Alberton,alberton
-Canada,CA,Prince Edward Island,prince-edward-island,Belfast,belfast
-Canada,CA,Prince Edward Island,prince-edward-island,Charlottetown,charlottetown
-Canada,CA,Prince Edward Island,prince-edward-island,Cornwall,cornwall
-Canada,CA,Prince Edward Island,prince-edward-island,Fallingbrook,fallingbrook
-Canada,CA,Prince Edward Island,prince-edward-island,Kensington,kensington
-Canada,CA,Prince Edward Island,prince-edward-island,Montague,montague
-Canada,CA,Prince Edward Island,prince-edward-island,Souris,souris
-Canada,CA,Prince Edward Island,prince-edward-island,Summerside,summerside
-Canada,CA,Quebec,quebec,Abitibi-Temiscamingue,abitibi-temiscamingue
-Canada,CA,Quebec,quebec,Acton Vale,acton-vale
-Canada,CA,Quebec,quebec,Adstock,adstock
-Canada,CA,Quebec,quebec,Albanel,albanel
-Canada,CA,Quebec,quebec,Alma,alma
-Canada,CA,Quebec,quebec,Amos,amos
-Canada,CA,Quebec,quebec,Amqui,amqui
-Canada,CA,Quebec,quebec,Ange-Gardien,ange-gardien
-Canada,CA,Quebec,quebec,Asbestos,asbestos
-Canada,CA,Quebec,quebec,Baie-Comeau,baie-comeau
-Canada,CA,Quebec,quebec,Baie-D'Urfe,baie-durfe
-Canada,CA,Quebec,quebec,Baie-Saint-Paul,baie-saint-paul
-Canada,CA,Quebec,quebec,Barraute,barraute
-Canada,CA,Quebec,quebec,Bas-Saint-Laurent,bas-saint-laurent
-Canada,CA,Quebec,quebec,Beaconsfield,beaconsfield
-Canada,CA,Quebec,quebec,Beauceville,beauceville
-Canada,CA,Quebec,quebec,Beauharnois,beauharnois
-Canada,CA,Quebec,quebec,Beaupre,beaupre
-Canada,CA,Quebec,quebec,Becancour,becancour
-Canada,CA,Quebec,quebec,Bedford,bedford
-Canada,CA,Quebec,quebec,Beloeil,beloeil
-Canada,CA,Quebec,quebec,Berthierville,berthierville
-Canada,CA,Quebec,quebec,Blainville,blainville
-Canada,CA,Quebec,quebec,Bois-des-Filion,bois-des-filion
-Canada,CA,Quebec,quebec,Boisbriand,boisbriand
-Canada,CA,Quebec,quebec,Bonaventure,bonaventure
-Canada,CA,Quebec,quebec,Boucherville,boucherville
-Canada,CA,Quebec,quebec,Breakeyville,breakeyville
-Canada,CA,Quebec,quebec,Bromont,bromont
-Canada,CA,Quebec,quebec,Brossard,brossard
-Canada,CA,Quebec,quebec,Brownsburg-Chatham,brownsburg-chatham
-Canada,CA,Quebec,quebec,Buckingham,buckingham
-Canada,CA,Quebec,quebec,Cabano,cabano
-Canada,CA,Quebec,quebec,Cacouna,cacouna
-Canada,CA,Quebec,quebec,Candiac,candiac
-Canada,CA,Quebec,quebec,Cantley,cantley
-Canada,CA,Quebec,quebec,Cap-Chat,cap-chat
-Canada,CA,Quebec,quebec,Cap-Sante,cap-sante
-Canada,CA,Quebec,quebec,Capitale-Nationale,capitale-nationale
-Canada,CA,Quebec,quebec,Carignan,carignan
-Canada,CA,Quebec,quebec,Carleton,carleton
-Canada,CA,Quebec,quebec,Carleton-sur-Mer,carleton-sur-mer
-Canada,CA,Quebec,quebec,Centre-du-Quebec,centre-du-quebec
-Canada,CA,Quebec,quebec,Chambly,chambly
-Canada,CA,Quebec,quebec,Chambord,chambord
-Canada,CA,Quebec,quebec,Chandler,chandler
-Canada,CA,Quebec,quebec,Chapais,chapais
-Canada,CA,Quebec,quebec,Charlemagne,charlemagne
-Canada,CA,Quebec,quebec,Chateau-Richer,chateau-richer
-Canada,CA,Quebec,quebec,Chateauguay,chateauguay
-Canada,CA,Quebec,quebec,Chaudiere-Appalaches,chaudiere-appalaches
-Canada,CA,Quebec,quebec,Chertsey,chertsey
-Canada,CA,Quebec,quebec,Chibougamau,chibougamau
-Canada,CA,Quebec,quebec,Chute-aux-Outardes,chute-aux-outardes
-Canada,CA,Quebec,quebec,Coaticook,coaticook
-Canada,CA,Quebec,quebec,Contrecoeur,contrecoeur
-Canada,CA,Quebec,quebec,Cookshire,cookshire
-Canada,CA,Quebec,quebec,Cookshire-Eaton,cookshire-eaton
-Canada,CA,Quebec,quebec,Cote-Nord,cote-nord
-Canada,CA,Quebec,quebec,Cote-Saint-Luc,cote-saint-luc
-Canada,CA,Quebec,quebec,Coteau-du-Lac,coteau-du-lac
-Canada,CA,Quebec,quebec,Cowansville,cowansville
-Canada,CA,Quebec,quebec,Crabtree,crabtree
-Canada,CA,Quebec,quebec,Danville,danville
-Canada,CA,Quebec,quebec,Daveluyville,daveluyville
-Canada,CA,Quebec,quebec,Delson,delson
-Canada,CA,Quebec,quebec,Deux-Montagnes,deux-montagnes
-Canada,CA,Quebec,quebec,Disraeli,disraeli
-Canada,CA,Quebec,quebec,Dolbeau-Mistassini,dolbeau-mistassini
-Canada,CA,Quebec,quebec,Dollard-Des Ormeaux,dollard-des-ormeaux
-Canada,CA,Quebec,quebec,Donnacona,donnacona
-Canada,CA,Quebec,quebec,Dorval,dorval
-Canada,CA,Quebec,quebec,Drummondville,drummondville
-Canada,CA,Quebec,quebec,Dunham,dunham
-Canada,CA,Quebec,quebec,East Angus,east-angus
-Canada,CA,Quebec,quebec,East Broughton,east-broughton
-Canada,CA,Quebec,quebec,Farnham,farnham
-Canada,CA,Quebec,quebec,Ferme-Neuve,ferme-neuve
-Canada,CA,Quebec,quebec,Fermont,fermont
-Canada,CA,Quebec,quebec,Forestville,forestville
-Canada,CA,Quebec,quebec,Fort-Coulonge,fort-coulonge
-Canada,CA,Quebec,quebec,Fossambault-sur-le-Lac,fossambault-sur-le-lac
-Canada,CA,Quebec,quebec,Franklin,franklin
-Canada,CA,Quebec,quebec,Gaspe,gaspe
-Canada,CA,Quebec,quebec,Gaspesie-Iles-de-la-Madeleine,gaspesie-iles-de-la-madeleine
-Canada,CA,Quebec,quebec,Gatineau,gatineau
-Canada,CA,Quebec,quebec,Godefroy,godefroy
-Canada,CA,Quebec,quebec,Granby,granby
-Canada,CA,Quebec,quebec,Hampstead,hampstead
-Canada,CA,Quebec,quebec,Hauterive,hauterive
-Canada,CA,Quebec,quebec,Havre-Saint-Pierre,havre-saint-pierre
-Canada,CA,Quebec,quebec,Herouxville,herouxville
-Canada,CA,Quebec,quebec,Hudson,hudson
-Canada,CA,Quebec,quebec,Huntingdon,huntingdon
-Canada,CA,Quebec,quebec,Joliette,joliette
-Canada,CA,Quebec,quebec,Jonquiere,jonquiere
-Canada,CA,Quebec,quebec,Kingsey Falls,kingsey-falls
-Canada,CA,Quebec,quebec,Kirkland,kirkland
-Canada,CA,Quebec,quebec,L'Ancienne-Lorette,lancienne-lorette
-Canada,CA,Quebec,quebec,L'Ange-Gardien,lange-gardien
-Canada,CA,Quebec,quebec,L'Ascension-de-Notre-Seigneur,lascension-de-notre-seigneur
-Canada,CA,Quebec,quebec,L'Assomption,lassomption
-Canada,CA,Quebec,quebec,L'Epiphanie,lepiphanie
-Canada,CA,Quebec,quebec,L'Ile-Perrot,lile-perrot
-Canada,CA,Quebec,quebec,La Conception,la-conception
-Canada,CA,Quebec,quebec,La Haute-Saint-Charles,la-haute-saint-charles
-Canada,CA,Quebec,quebec,La Malbaie,la-malbaie
-Canada,CA,Quebec,quebec,La Minerve,la-minerve
-Canada,CA,Quebec,quebec,La Pocatiere,la-pocatiere
-Canada,CA,Quebec,quebec,La Prairie,la-prairie
-Canada,CA,Quebec,quebec,La Sarre,la-sarre
-Canada,CA,Quebec,quebec,La Tuque,la-tuque
-Canada,CA,Quebec,quebec,Labelle,labelle
-Canada,CA,Quebec,quebec,Lac-Alouette,lac-alouette
-Canada,CA,Quebec,quebec,Lac-Brome,lac-brome
-Canada,CA,Quebec,quebec,Lac-Connelly,lac-connelly
-Canada,CA,Quebec,quebec,Lac-Lapierre,lac-lapierre
-Canada,CA,Quebec,quebec,Lac-Megantic,lac-megantic
-Canada,CA,Quebec,quebec,Lac-Simon,lac-simon
-Canada,CA,Quebec,quebec,Lachute,lachute
-Canada,CA,Quebec,quebec,Lacolle,lacolle
-Canada,CA,Quebec,quebec,Lanoraie,lanoraie
-Canada,CA,Quebec,quebec,Laval,laval
-Canada,CA,Quebec,quebec,Lavaltrie,lavaltrie
-Canada,CA,Quebec,quebec,Le Bic,le-bic
-Canada,CA,Quebec,quebec,le Plateau,le-plateau
-Canada,CA,Quebec,quebec,Lebel-sur-Quevillon,lebel-sur-quevillon
-Canada,CA,Quebec,quebec,Leblanc,leblanc
-Canada,CA,Quebec,quebec,Les Cedres,les-cedres
-Canada,CA,Quebec,quebec,Les Coteaux,les-coteaux
-Canada,CA,Quebec,quebec,Les Escoumins,les-escoumins
-Canada,CA,Quebec,quebec,Levis,levis
-Canada,CA,Quebec,quebec,Liniere,liniere
-Canada,CA,Quebec,quebec,Longueuil,longueuil
-Canada,CA,Quebec,quebec,Lorraine,lorraine
-Canada,CA,Quebec,quebec,Louiseville,louiseville
-Canada,CA,Quebec,quebec,Luceville,luceville
-Canada,CA,Quebec,quebec,Macamic,macamic
-Canada,CA,Quebec,quebec,Magog,magog
-Canada,CA,Quebec,quebec,Malartic,malartic
-Canada,CA,Quebec,quebec,Maliotenam,maliotenam
-Canada,CA,Quebec,quebec,Manawan,manawan
-Canada,CA,Quebec,quebec,Mandeville,mandeville
-Canada,CA,Quebec,quebec,Maniwaki,maniwaki
-Canada,CA,Quebec,quebec,Maria,maria
-Canada,CA,Quebec,quebec,Marieville,marieville
-Canada,CA,Quebec,quebec,Mascouche,mascouche
-Canada,CA,Quebec,quebec,Maskinonge,maskinonge
-Canada,CA,Quebec,quebec,Matagami,matagami
-Canada,CA,Quebec,quebec,Matane,matane
-Canada,CA,Quebec,quebec,Mauricie,mauricie
-Canada,CA,Quebec,quebec,Melocheville,melocheville
-Canada,CA,Quebec,quebec,Mercier,mercier
-Canada,CA,Quebec,quebec,Metabetchouan,metabetchouan
-Canada,CA,Quebec,quebec,Metabetchouan-Lac-a-la-Croix,metabetchouan-lac-a-la-croix
-Canada,CA,Quebec,quebec,Mirabel,mirabel
-Canada,CA,Quebec,quebec,Mistissini,mistissini
-Canada,CA,Quebec,quebec,Mont-Joli,mont-joli
-Canada,CA,Quebec,quebec,Mont-Laurier,mont-laurier
-Canada,CA,Quebec,quebec,Mont-Royal,mont-royal
-Canada,CA,Quebec,quebec,Mont-Saint-Gregoire,mont-saint-gregoire
-Canada,CA,Quebec,quebec,Mont-Saint-Hilaire,mont-saint-hilaire
-Canada,CA,Quebec,quebec,Mont-Tremblant,mont-tremblant
-Canada,CA,Quebec,quebec,Montmagny,montmagny
-Canada,CA,Quebec,quebec,Montreal,montreal
-Canada,CA,Quebec,quebec,Montreal-Est,montreal-est
-Canada,CA,Quebec,quebec,Montreal-Ouest,montreal-ouest
-Canada,CA,Quebec,quebec,Morin-Heights,morin-heights
-Canada,CA,Quebec,quebec,Napierville,napierville
-Canada,CA,Quebec,quebec,Neuville,neuville
-Canada,CA,Quebec,quebec,New Carlisle,new-carlisle
-Canada,CA,Quebec,quebec,New-Richmond,new-richmond
-Canada,CA,Quebec,quebec,Nicolet,nicolet
-Canada,CA,Quebec,quebec,Nord-du-Quebec,nord-du-quebec
-Canada,CA,Quebec,quebec,Normandin,normandin
-Canada,CA,Quebec,quebec,Notre-Dame-de-Grace,notre-dame-de-grace
-Canada,CA,Quebec,quebec,Notre-Dame-de-l'Ile-Perrot,notre-dame-de-lile-perrot
-Canada,CA,Quebec,quebec,Notre-Dame-des-Prairies,notre-dame-des-prairies
-Canada,CA,Quebec,quebec,Notre-Dame-du-Lac,notre-dame-du-lac
-Canada,CA,Quebec,quebec,Notre-Dame-du-Mont-Carmel,notre-dame-du-mont-carmel
-Canada,CA,Quebec,quebec,Oka,oka
-Canada,CA,Quebec,quebec,Ormstown,ormstown
-Canada,CA,Quebec,quebec,Otterburn Park,otterburn-park
-Canada,CA,Quebec,quebec,Outaouais,outaouais
-Canada,CA,Quebec,quebec,Papineauville,papineauville
-Canada,CA,Quebec,quebec,Parc-Boutin,parc-boutin
-Canada,CA,Quebec,quebec,Piedmont,piedmont
-Canada,CA,Quebec,quebec,Pierreville,pierreville
-Canada,CA,Quebec,quebec,Pincourt,pincourt
-Canada,CA,Quebec,quebec,Plessisville,plessisville
-Canada,CA,Quebec,quebec,Pohenegamook,pohenegamook
-Canada,CA,Quebec,quebec,Pointe-Calumet,pointe-calumet
-Canada,CA,Quebec,quebec,Pointe-Claire,pointe-claire
-Canada,CA,Quebec,quebec,Pointe-du-Lac,pointe-du-lac
-Canada,CA,Quebec,quebec,Pont Rouge,pont-rouge
-Canada,CA,Quebec,quebec,Pont-Rouge,pont-rouge
-Canada,CA,Quebec,quebec,Port-Cartier,port-cartier
-Canada,CA,Quebec,quebec,Portneuf,portneuf
-Canada,CA,Quebec,quebec,Prevost,prevost
-Canada,CA,Quebec,quebec,Princeville,princeville
-Canada,CA,Quebec,quebec,Quebec,quebec
-Canada,CA,Quebec,quebec,Rawdon,rawdon
-Canada,CA,Quebec,quebec,Repentigny,repentigny
-Canada,CA,Quebec,quebec,Richelieu,richelieu
-Canada,CA,Quebec,quebec,Richmond,richmond
-Canada,CA,Quebec,quebec,Rigaud,rigaud
-Canada,CA,Quebec,quebec,Rimouski,rimouski
-Canada,CA,Quebec,quebec,Riviere-du-Loup,riviere-du-loup
-Canada,CA,Quebec,quebec,Riviere-Rouge,riviere-rouge
-Canada,CA,Quebec,quebec,Roberval,roberval
-Canada,CA,Quebec,quebec,Rock Forest,rock-forest
-Canada,CA,Quebec,quebec,Rosemere,rosemere
-Canada,CA,Quebec,quebec,Rougemont,rougemont
-Canada,CA,Quebec,quebec,Rouyn-Noranda,rouyn-noranda
-Canada,CA,Quebec,quebec,Sacre-Coeur,sacre-coeur
-Canada,CA,Quebec,quebec,Saguenay,saguenay
-Canada,CA,Quebec,quebec,Saint-Adolphe-d'Howard,saint-adolphe-dhoward
-Canada,CA,Quebec,quebec,Saint-Alexandre,saint-alexandre
-Canada,CA,Quebec,quebec,Saint-Amable,saint-amable
-Canada,CA,Quebec,quebec,Saint-Ambroise,saint-ambroise
-Canada,CA,Quebec,quebec,Saint-Andre-Avellin,saint-andre-avellin
-Canada,CA,Quebec,quebec,Saint-Anselme,saint-anselme
-Canada,CA,Quebec,quebec,Saint-Antoine-de-Tilly,saint-antoine-de-tilly
-Canada,CA,Quebec,quebec,Saint-Augustin,saint-augustin
-Canada,CA,Quebec,quebec,Saint-Augustin-de-Desmaures,saint-augustin-de-desmaures
-Canada,CA,Quebec,quebec,Saint-Barnabe-Sud,saint-barnabe-sud
-Canada,CA,Quebec,quebec,Saint-Basile-le-Grand,saint-basile-le-grand
-Canada,CA,Quebec,quebec,Saint-Boniface,saint-boniface
-Canada,CA,Quebec,quebec,Saint-Bruno,saint-bruno
-Canada,CA,Quebec,quebec,Saint-Bruno-de-Guigues,saint-bruno-de-guigues
-Canada,CA,Quebec,quebec,Saint-Bruno-de-Montarville,saint-bruno-de-montarville
-Canada,CA,Quebec,quebec,Saint-Canut,saint-canut
-Canada,CA,Quebec,quebec,Saint-Cesaire,saint-cesaire
-Canada,CA,Quebec,quebec,Saint-Charles,saint-charles
-Canada,CA,Quebec,quebec,Saint-Come--Liniere,saint-come-liniere
-Canada,CA,Quebec,quebec,Saint-Constant,saint-constant
-Canada,CA,Quebec,quebec,Saint-Cyrille-de-Wendover,saint-cyrille-de-wendover
-Canada,CA,Quebec,quebec,Saint-Damase,saint-damase
-Canada,CA,Quebec,quebec,Saint-Denis-sur-Richelieu,saint-denis-sur-richelieu
-Canada,CA,Quebec,quebec,Saint-Donat-de-Montcalm,saint-donat-de-montcalm
-Canada,CA,Quebec,quebec,Saint-Edouard,saint-edouard
-Canada,CA,Quebec,quebec,Saint-Elzear,saint-elzear
-Canada,CA,Quebec,quebec,Saint-Ephrem-de-Beauce,saint-ephrem-de-beauce
-Canada,CA,Quebec,quebec,Saint-Eustache,saint-eustache
-Canada,CA,Quebec,quebec,Saint-Felicien,saint-felicien
-Canada,CA,Quebec,quebec,Saint-Felix-de-Valois,saint-felix-de-valois
-Canada,CA,Quebec,quebec,Saint-Gabriel,saint-gabriel
-Canada,CA,Quebec,quebec,Saint-Gedeon,saint-gedeon
-Canada,CA,Quebec,quebec,Saint-Georges,saint-georges
-Canada,CA,Quebec,quebec,Saint-Germain-de-Grantham,saint-germain-de-grantham
-Canada,CA,Quebec,quebec,Saint-Henri,saint-henri
-Canada,CA,Quebec,quebec,Saint-Hippolyte,saint-hippolyte
-Canada,CA,Quebec,quebec,Saint-Honore,saint-honore
-Canada,CA,Quebec,quebec,Saint-Hyacinthe,saint-hyacinthe
-Canada,CA,Quebec,quebec,Saint-Isidore,saint-isidore
-Canada,CA,Quebec,quebec,Saint-Jacques-le-Mineur,saint-jacques-le-mineur
-Canada,CA,Quebec,quebec,Saint-Jean-Baptiste,saint-jean-baptiste
-Canada,CA,Quebec,quebec,Saint-Jean-sur-Richelieu,saint-jean-sur-richelieu
-Canada,CA,Quebec,quebec,Saint-Jerome,saint-jerome
-Canada,CA,Quebec,quebec,Saint-Joseph,saint-joseph
-Canada,CA,Quebec,quebec,Saint-Joseph-de-Beauce,saint-joseph-de-beauce
-Canada,CA,Quebec,quebec,Saint-Joseph-de-Coleraine,saint-joseph-de-coleraine
-Canada,CA,Quebec,quebec,Saint-Joseph-du-Lac,saint-joseph-du-lac
-Canada,CA,Quebec,quebec,Saint-Lambert-de-Lauzon,saint-lambert-de-lauzon
-Canada,CA,Quebec,quebec,Saint-Laurent,saint-laurent
-Canada,CA,Quebec,quebec,Saint-Lazare,saint-lazare
-Canada,CA,Quebec,quebec,Saint-Leonard,saint-leonard
-Canada,CA,Quebec,quebec,Saint-Leonard-d'Aston,saint-leonard-daston
-Canada,CA,Quebec,quebec,Saint-Liboire,saint-liboire
-Canada,CA,Quebec,quebec,Saint-Lin-Laurentides,saint-lin-laurentides
-Canada,CA,Quebec,quebec,Saint-Marc-des-Carrieres,saint-marc-des-carrieres
-Canada,CA,Quebec,quebec,Saint-Mathieu,saint-mathieu
-Canada,CA,Quebec,quebec,Saint-Michel,saint-michel
-Canada,CA,Quebec,quebec,Saint-Michel-des-Saints,saint-michel-des-saints
-Canada,CA,Quebec,quebec,Saint-Nazaire,saint-nazaire
-Canada,CA,Quebec,quebec,Saint-Norbert,saint-norbert
-Canada,CA,Quebec,quebec,Saint-Pacome,saint-pacome
-Canada,CA,Quebec,quebec,Saint-Pascal,saint-pascal
-Canada,CA,Quebec,quebec,Saint-Philippe-de-La Prairie,saint-philippe-de-la-prairie
-Canada,CA,Quebec,quebec,Saint-Pie,saint-pie
-Canada,CA,Quebec,quebec,Saint-Pierre-les-Becquets,saint-pierre-les-becquets
-Canada,CA,Quebec,quebec,Saint-Prime,saint-prime
-Canada,CA,Quebec,quebec,Saint-Raphael,saint-raphael
-Canada,CA,Quebec,quebec,Saint-Raymond,saint-raymond
-Canada,CA,Quebec,quebec,Saint-Remi,saint-remi
-Canada,CA,Quebec,quebec,Saint-Remi-de-Tingwick,saint-remi-de-tingwick
-Canada,CA,Quebec,quebec,Saint-Sauveur,saint-sauveur
-Canada,CA,Quebec,quebec,Saint-Sauveur-des-Monts,saint-sauveur-des-monts
-Canada,CA,Quebec,quebec,Saint-Simeon,saint-simeon
-Canada,CA,Quebec,quebec,Saint-Thomas,saint-thomas
-Canada,CA,Quebec,quebec,Saint-Tite,saint-tite
-Canada,CA,Quebec,quebec,Saint-Victor,saint-victor
-Canada,CA,Quebec,quebec,Saint-Zotique,saint-zotique
-Canada,CA,Quebec,quebec,Sainte Catherine de la Jacques Cartier,sainte-catherine-de-la-jacques-cartier
-Canada,CA,Quebec,quebec,Sainte-Adele,sainte-adele
-Canada,CA,Quebec,quebec,Sainte-Agathe-des-Monts,sainte-agathe-des-monts
-Canada,CA,Quebec,quebec,Sainte-Anne-de-Bellevue,sainte-anne-de-bellevue
-Canada,CA,Quebec,quebec,Sainte-Anne-des-Monts,sainte-anne-des-monts
-Canada,CA,Quebec,quebec,Sainte-Anne-des-Plaines,sainte-anne-des-plaines
-Canada,CA,Quebec,quebec,Sainte-Beatrix,sainte-beatrix
-Canada,CA,Quebec,quebec,Sainte-Catherine,sainte-catherine
-Canada,CA,Quebec,quebec,Sainte-Croix,sainte-croix
-Canada,CA,Quebec,quebec,Sainte-Elisabeth,sainte-elisabeth
-Canada,CA,Quebec,quebec,Sainte-Julie,sainte-julie
-Canada,CA,Quebec,quebec,Sainte-Julienne,sainte-julienne
-Canada,CA,Quebec,quebec,Sainte-Madeleine,sainte-madeleine
-Canada,CA,Quebec,quebec,Sainte-Marie,sainte-marie
-Canada,CA,Quebec,quebec,Sainte-Marthe-sur-le-Lac,sainte-marthe-sur-le-lac
-Canada,CA,Quebec,quebec,Sainte-Martine,sainte-martine
-Canada,CA,Quebec,quebec,Sainte-Sophie,sainte-sophie
-Canada,CA,Quebec,quebec,Sainte-Thecle,sainte-thecle
-Canada,CA,Quebec,quebec,Sainte-Therese,sainte-therese
-Canada,CA,Quebec,quebec,Salaberry-de-Valleyfield,salaberry-de-valleyfield
-Canada,CA,Quebec,quebec,Salluit,salluit
-Canada,CA,Quebec,quebec,Senneterre,senneterre
-Canada,CA,Quebec,quebec,Sept-Iles,sept-iles
-Canada,CA,Quebec,quebec,Shannon,shannon
-Canada,CA,Quebec,quebec,Shawinigan,shawinigan
-Canada,CA,Quebec,quebec,Shawville,shawville
-Canada,CA,Quebec,quebec,Sherbrooke,sherbrooke
-Canada,CA,Quebec,quebec,Sorel-Tracy,sorel-tracy
-Canada,CA,Quebec,quebec,St-Jean-Port-Joli,st-jean-port-joli
-Canada,CA,Quebec,quebec,Sutton,sutton
-Canada,CA,Quebec,quebec,Temiscaming,temiscaming
-Canada,CA,Quebec,quebec,Terrasse-des-Pins,terrasse-des-pins
-Canada,CA,Quebec,quebec,Terrebonne,terrebonne
-Canada,CA,Quebec,quebec,Thetford-Mines,thetford-mines
-Canada,CA,Quebec,quebec,Thurso,thurso
-Canada,CA,Quebec,quebec,Trois-Rivieres,trois-rivieres
-Canada,CA,Quebec,quebec,Val-d'Or,val-dor
-Canada,CA,Quebec,quebec,Val-David,val-david
-Canada,CA,Quebec,quebec,Val-des-Monts,val-des-monts
-Canada,CA,Quebec,quebec,Val-Morin,val-morin
-Canada,CA,Quebec,quebec,Valcourt,valcourt
-Canada,CA,Quebec,quebec,Vallee-Jonction,vallee-jonction
-Canada,CA,Quebec,quebec,Varennes,varennes
-Canada,CA,Quebec,quebec,Vaudreuil-Dorion,vaudreuil-dorion
-Canada,CA,Quebec,quebec,Venise-en-Quebec,venise-en-quebec
-Canada,CA,Quebec,quebec,Vercheres,vercheres
-Canada,CA,Quebec,quebec,Victoriaville,victoriaville
-Canada,CA,Quebec,quebec,Ville-Marie,ville-marie
-Canada,CA,Quebec,quebec,Wakefield,wakefield
-Canada,CA,Quebec,quebec,Warwick,warwick
-Canada,CA,Quebec,quebec,Waskaganish,waskaganish
-Canada,CA,Quebec,quebec,Waswanipi,waswanipi
-Canada,CA,Quebec,quebec,Waterloo,waterloo
-Canada,CA,Quebec,quebec,Weedon Centre,weedon-centre
-Canada,CA,Quebec,quebec,Westmount,westmount
-Canada,CA,Quebec,quebec,Weymontachie,weymontachie
-Canada,CA,Quebec,quebec,Windsor,windsor
-Canada,CA,Quebec,quebec,Yamachiche,yamachiche
-Canada,CA,Saskatchewan,saskatchewan,Assiniboia,assiniboia
-Canada,CA,Saskatchewan,saskatchewan,Biggar,biggar
-Canada,CA,Saskatchewan,saskatchewan,Canora,canora
-Canada,CA,Saskatchewan,saskatchewan,Carlyle,carlyle
-Canada,CA,Saskatchewan,saskatchewan,Dalmeny,dalmeny
-Canada,CA,Saskatchewan,saskatchewan,Esterhazy,esterhazy
-Canada,CA,Saskatchewan,saskatchewan,Estevan,estevan
-Canada,CA,Saskatchewan,saskatchewan,Foam Lake,foam-lake
-Canada,CA,Saskatchewan,saskatchewan,Gravelbourg,gravelbourg
-Canada,CA,Saskatchewan,saskatchewan,Hudson Bay,hudson-bay
-Canada,CA,Saskatchewan,saskatchewan,Humboldt,humboldt
-Canada,CA,Saskatchewan,saskatchewan,Indian Head,indian-head
-Canada,CA,Saskatchewan,saskatchewan,Kamsack,kamsack
-Canada,CA,Saskatchewan,saskatchewan,Kerrobert,kerrobert
-Canada,CA,Saskatchewan,saskatchewan,Kindersley,kindersley
-Canada,CA,Saskatchewan,saskatchewan,La Ronge,la-ronge
-Canada,CA,Saskatchewan,saskatchewan,Langenburg,langenburg
-Canada,CA,Saskatchewan,saskatchewan,Langham,langham
-Canada,CA,Saskatchewan,saskatchewan,Lanigan,lanigan
-Canada,CA,Saskatchewan,saskatchewan,Lumsden,lumsden
-Canada,CA,Saskatchewan,saskatchewan,Macklin,macklin
-Canada,CA,Saskatchewan,saskatchewan,Maple Creek,maple-creek
-Canada,CA,Saskatchewan,saskatchewan,Martensville,martensville
-Canada,CA,Saskatchewan,saskatchewan,Meadow Lake,meadow-lake
-Canada,CA,Saskatchewan,saskatchewan,Melfort,melfort
-Canada,CA,Saskatchewan,saskatchewan,Melville,melville
-Canada,CA,Saskatchewan,saskatchewan,Moose Jaw,moose-jaw
-Canada,CA,Saskatchewan,saskatchewan,Moosomin,moosomin
-Canada,CA,Saskatchewan,saskatchewan,Nipawin,nipawin
-Canada,CA,Saskatchewan,saskatchewan,North Battleford,north-battleford
-Canada,CA,Saskatchewan,saskatchewan,Outlook,outlook
-Canada,CA,Saskatchewan,saskatchewan,Oxbow,oxbow
-Canada,CA,Saskatchewan,saskatchewan,Pelican Narrows,pelican-narrows
-Canada,CA,Saskatchewan,saskatchewan,Pilot Butte,pilot-butte
-Canada,CA,Saskatchewan,saskatchewan,Preeceville,preeceville
-Canada,CA,Saskatchewan,saskatchewan,Prince Albert,prince-albert
-Canada,CA,Saskatchewan,saskatchewan,Regina,regina
-Canada,CA,Saskatchewan,saskatchewan,Regina Beach,regina-beach
-Canada,CA,Saskatchewan,saskatchewan,Rosetown,rosetown
-Canada,CA,Saskatchewan,saskatchewan,Rosthern,rosthern
-Canada,CA,Saskatchewan,saskatchewan,Saskatoon,saskatoon
-Canada,CA,Saskatchewan,saskatchewan,Shaunavon,shaunavon
-Canada,CA,Saskatchewan,saskatchewan,Shellbrook,shellbrook
-Canada,CA,Saskatchewan,saskatchewan,Swift Current,swift-current
-Canada,CA,Saskatchewan,saskatchewan,Tisdale,tisdale
-Canada,CA,Saskatchewan,saskatchewan,Unity,unity
-Canada,CA,Saskatchewan,saskatchewan,Wadena,wadena
-Canada,CA,Saskatchewan,saskatchewan,Warman,warman
-Canada,CA,Saskatchewan,saskatchewan,Watrous,watrous
-Canada,CA,Saskatchewan,saskatchewan,Weyburn,weyburn
-Canada,CA,Saskatchewan,saskatchewan,White City,white-city
-Canada,CA,Saskatchewan,saskatchewan,Wilkie,wilkie
-Canada,CA,Saskatchewan,saskatchewan,Wynyard,wynyard
-Canada,CA,Saskatchewan,saskatchewan,Yorkton,yorkton
-Canada,CA,Yukon,yukon,Dawson City,dawson-city
-Canada,CA,Yukon,yukon,Haines Junction,haines-junction
-Canada,CA,Yukon,yukon,Watson Lake,watson-lake
-Canada,CA,Yukon,yukon,Whitehorse,whitehorse
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Canada,canada,CA,Alberta,alberta,Airdrie,airdrie
+Canada,canada,CA,Alberta,alberta,Athabasca,athabasca
+Canada,canada,CA,Alberta,alberta,Banff,banff
+Canada,canada,CA,Alberta,alberta,Barrhead,barrhead
+Canada,canada,CA,Alberta,alberta,Bassano,bassano
+Canada,canada,CA,Alberta,alberta,Beaumont,beaumont
+Canada,canada,CA,Alberta,alberta,Beaverlodge,beaverlodge
+Canada,canada,CA,Alberta,alberta,Black Diamond,black-diamond
+Canada,canada,CA,Alberta,alberta,Blackfalds,blackfalds
+Canada,canada,CA,Alberta,alberta,Bon Accord,bon-accord
+Canada,canada,CA,Alberta,alberta,Bonnyville,bonnyville
+Canada,canada,CA,Alberta,alberta,Bow Island,bow-island
+Canada,canada,CA,Alberta,alberta,Brooks,brooks
+Canada,canada,CA,Alberta,alberta,Calgary,calgary
+Canada,canada,CA,Alberta,alberta,Calmar,calmar
+Canada,canada,CA,Alberta,alberta,Camrose,camrose
+Canada,canada,CA,Alberta,alberta,Canmore,canmore
+Canada,canada,CA,Alberta,alberta,Cardston,cardston
+Canada,canada,CA,Alberta,alberta,Carstairs,carstairs
+Canada,canada,CA,Alberta,alberta,Chestermere,chestermere
+Canada,canada,CA,Alberta,alberta,Claresholm,claresholm
+Canada,canada,CA,Alberta,alberta,Coaldale,coaldale
+Canada,canada,CA,Alberta,alberta,Coalhurst,coalhurst
+Canada,canada,CA,Alberta,alberta,Cochrane,cochrane
+Canada,canada,CA,Alberta,alberta,Cold Lake,cold-lake
+Canada,canada,CA,Alberta,alberta,Crossfield,crossfield
+Canada,canada,CA,Alberta,alberta,Devon,devon
+Canada,canada,CA,Alberta,alberta,Didsbury,didsbury
+Canada,canada,CA,Alberta,alberta,Drayton Valley,drayton-valley
+Canada,canada,CA,Alberta,alberta,Edmonton,edmonton
+Canada,canada,CA,Alberta,alberta,Edson,edson
+Canada,canada,CA,Alberta,alberta,Elk Point,elk-point
+Canada,canada,CA,Alberta,alberta,Fairview,fairview
+Canada,canada,CA,Alberta,alberta,Falher,falher
+Canada,canada,CA,Alberta,alberta,Fort Macleod,fort-macleod
+Canada,canada,CA,Alberta,alberta,Fort McMurray,fort-mcmurray
+Canada,canada,CA,Alberta,alberta,Fort Saskatchewan,fort-saskatchewan
+Canada,canada,CA,Alberta,alberta,Fox Creek,fox-creek
+Canada,canada,CA,Alberta,alberta,Gibbons,gibbons
+Canada,canada,CA,Alberta,alberta,Grand Centre,grand-centre
+Canada,canada,CA,Alberta,alberta,Grande Cache,grande-cache
+Canada,canada,CA,Alberta,alberta,Grande Prairie,grande-prairie
+Canada,canada,CA,Alberta,alberta,Grimshaw,grimshaw
+Canada,canada,CA,Alberta,alberta,Hanna,hanna
+Canada,canada,CA,Alberta,alberta,Heritage Pointe,heritage-pointe
+Canada,canada,CA,Alberta,alberta,High Level,high-level
+Canada,canada,CA,Alberta,alberta,High Prairie,high-prairie
+Canada,canada,CA,Alberta,alberta,High River,high-river
+Canada,canada,CA,Alberta,alberta,Hinton,hinton
+Canada,canada,CA,Alberta,alberta,Irricana,irricana
+Canada,canada,CA,Alberta,alberta,Jasper Park Lodge,jasper-park-lodge
+Canada,canada,CA,Alberta,alberta,Killam,killam
+Canada,canada,CA,Alberta,alberta,Lac La Biche,lac-la-biche
+Canada,canada,CA,Alberta,alberta,Lacombe,lacombe
+Canada,canada,CA,Alberta,alberta,Lamont,lamont
+Canada,canada,CA,Alberta,alberta,Larkspur,larkspur
+Canada,canada,CA,Alberta,alberta,Laurel,laurel
+Canada,canada,CA,Alberta,alberta,Leduc,leduc
+Canada,canada,CA,Alberta,alberta,Lethbridge,lethbridge
+Canada,canada,CA,Alberta,alberta,Lloydminster,lloydminster
+Canada,canada,CA,Alberta,alberta,Magrath,magrath
+Canada,canada,CA,Alberta,alberta,Manning,manning
+Canada,canada,CA,Alberta,alberta,Mannville,mannville
+Canada,canada,CA,Alberta,alberta,Maple Ridge,maple-ridge
+Canada,canada,CA,Alberta,alberta,Mayerthorpe,mayerthorpe
+Canada,canada,CA,Alberta,alberta,Medicine Hat,medicine-hat
+Canada,canada,CA,Alberta,alberta,Mill Woods Town Centre,mill-woods-town-centre
+Canada,canada,CA,Alberta,alberta,Millet,millet
+Canada,canada,CA,Alberta,alberta,Morinville,morinville
+Canada,canada,CA,Alberta,alberta,Nanton,nanton
+Canada,canada,CA,Alberta,alberta,Okotoks,okotoks
+Canada,canada,CA,Alberta,alberta,Olds,olds
+Canada,canada,CA,Alberta,alberta,Peace River,peace-river
+Canada,canada,CA,Alberta,alberta,Penhold,penhold
+Canada,canada,CA,Alberta,alberta,Picture Butte,picture-butte
+Canada,canada,CA,Alberta,alberta,Pincher Creek,pincher-creek
+Canada,canada,CA,Alberta,alberta,Ponoka,ponoka
+Canada,canada,CA,Alberta,alberta,Provost,provost
+Canada,canada,CA,Alberta,alberta,Raymond,raymond
+Canada,canada,CA,Alberta,alberta,Red Deer,red-deer
+Canada,canada,CA,Alberta,alberta,Rideau Park,rideau-park
+Canada,canada,CA,Alberta,alberta,Rimbey,rimbey
+Canada,canada,CA,Alberta,alberta,Rocky Mountain House,rocky-mountain-house
+Canada,canada,CA,Alberta,alberta,Sexsmith,sexsmith
+Canada,canada,CA,Alberta,alberta,Sherwood Park,sherwood-park
+Canada,canada,CA,Alberta,alberta,Silver Berry,silver-berry
+Canada,canada,CA,Alberta,alberta,Slave Lake,slave-lake
+Canada,canada,CA,Alberta,alberta,Smoky Lake,smoky-lake
+Canada,canada,CA,Alberta,alberta,Spirit River,spirit-river
+Canada,canada,CA,Alberta,alberta,Springbrook,springbrook
+Canada,canada,CA,Alberta,alberta,Spruce Grove,spruce-grove
+Canada,canada,CA,Alberta,alberta,St. Albert,st-albert
+Canada,canada,CA,Alberta,alberta,Stettler,stettler
+Canada,canada,CA,Alberta,alberta,Stony Plain,stony-plain
+Canada,canada,CA,Alberta,alberta,Strathmore,strathmore
+Canada,canada,CA,Alberta,alberta,Sundre,sundre
+Canada,canada,CA,Alberta,alberta,Swan Hills,swan-hills
+Canada,canada,CA,Alberta,alberta,Sylvan Lake,sylvan-lake
+Canada,canada,CA,Alberta,alberta,Taber,taber
+Canada,canada,CA,Alberta,alberta,Tamarack,tamarack
+Canada,canada,CA,Alberta,alberta,Three Hills,three-hills
+Canada,canada,CA,Alberta,alberta,Tofield,tofield
+Canada,canada,CA,Alberta,alberta,Two Hills,two-hills
+Canada,canada,CA,Alberta,alberta,Valleyview,valleyview
+Canada,canada,CA,Alberta,alberta,Vegreville,vegreville
+Canada,canada,CA,Alberta,alberta,Vermilion,vermilion
+Canada,canada,CA,Alberta,alberta,Viking,viking
+Canada,canada,CA,Alberta,alberta,Vulcan,vulcan
+Canada,canada,CA,Alberta,alberta,Wainwright,wainwright
+Canada,canada,CA,Alberta,alberta,Wembley,wembley
+Canada,canada,CA,Alberta,alberta,Westlake,westlake
+Canada,canada,CA,Alberta,alberta,Westlock,westlock
+Canada,canada,CA,Alberta,alberta,Wetaskiwin,wetaskiwin
+Canada,canada,CA,Alberta,alberta,Whitecourt,whitecourt
+Canada,canada,CA,Alberta,alberta,Wild Rose,wild-rose
+Canada,canada,CA,British Columbia,british-columbia,Abbotsford,abbotsford
+Canada,canada,CA,British Columbia,british-columbia,Agassiz,agassiz
+Canada,canada,CA,British Columbia,british-columbia,Aldergrove,aldergrove
+Canada,canada,CA,British Columbia,british-columbia,Aldergrove East,aldergrove-east
+Canada,canada,CA,British Columbia,british-columbia,Anmore,anmore
+Canada,canada,CA,British Columbia,british-columbia,Arbutus Ridge,arbutus-ridge
+Canada,canada,CA,British Columbia,british-columbia,Armstrong,armstrong
+Canada,canada,CA,British Columbia,british-columbia,Ashcroft,ashcroft
+Canada,canada,CA,British Columbia,british-columbia,Barriere,barriere
+Canada,canada,CA,British Columbia,british-columbia,Bowen Island,bowen-island
+Canada,canada,CA,British Columbia,british-columbia,Burnaby,burnaby
+Canada,canada,CA,British Columbia,british-columbia,Burns Lake,burns-lake
+Canada,canada,CA,British Columbia,british-columbia,Cache Creek,cache-creek
+Canada,canada,CA,British Columbia,british-columbia,Campbell River,campbell-river
+Canada,canada,CA,British Columbia,british-columbia,Castlegar,castlegar
+Canada,canada,CA,British Columbia,british-columbia,Cedar,cedar
+Canada,canada,CA,British Columbia,british-columbia,Central Coast Regional District,central-coast-regional-district
+Canada,canada,CA,British Columbia,british-columbia,Chase,chase
+Canada,canada,CA,British Columbia,british-columbia,Chemainus,chemainus
+Canada,canada,CA,British Columbia,british-columbia,Chetwynd,chetwynd
+Canada,canada,CA,British Columbia,british-columbia,Chilliwack,chilliwack
+Canada,canada,CA,British Columbia,british-columbia,Colwood,colwood
+Canada,canada,CA,British Columbia,british-columbia,Coombs,coombs
+Canada,canada,CA,British Columbia,british-columbia,Coquitlam,coquitlam
+Canada,canada,CA,British Columbia,british-columbia,Courtenay,courtenay
+Canada,canada,CA,British Columbia,british-columbia,Cowichan Bay,cowichan-bay
+Canada,canada,CA,British Columbia,british-columbia,Cranbrook,cranbrook
+Canada,canada,CA,British Columbia,british-columbia,Creston,creston
+Canada,canada,CA,British Columbia,british-columbia,Cumberland,cumberland
+Canada,canada,CA,British Columbia,british-columbia,Dawson Creek,dawson-creek
+Canada,canada,CA,British Columbia,british-columbia,Delta,delta
+Canada,canada,CA,British Columbia,british-columbia,Denman Island,denman-island
+Canada,canada,CA,British Columbia,british-columbia,Denman Island Trust Area,denman-island-trust-area
+Canada,canada,CA,British Columbia,british-columbia,Duck Lake,duck-lake
+Canada,canada,CA,British Columbia,british-columbia,Duncan,duncan
+Canada,canada,CA,British Columbia,british-columbia,East Wellington,east-wellington
+Canada,canada,CA,British Columbia,british-columbia,Elkford,elkford
+Canada,canada,CA,British Columbia,british-columbia,Ellison,ellison
+Canada,canada,CA,British Columbia,british-columbia,Enderby,enderby
+Canada,canada,CA,British Columbia,british-columbia,Fairwinds,fairwinds
+Canada,canada,CA,British Columbia,british-columbia,Fernie,fernie
+Canada,canada,CA,British Columbia,british-columbia,Fort Nelson,fort-nelson
+Canada,canada,CA,British Columbia,british-columbia,Fort St. John,fort-st-john
+Canada,canada,CA,British Columbia,british-columbia,Fraser Valley Regional District,fraser-valley-regional-district
+Canada,canada,CA,British Columbia,british-columbia,French Creek,french-creek
+Canada,canada,CA,British Columbia,british-columbia,Fruitvale,fruitvale
+Canada,canada,CA,British Columbia,british-columbia,Gibsons,gibsons
+Canada,canada,CA,British Columbia,british-columbia,Golden,golden
+Canada,canada,CA,British Columbia,british-columbia,Grand Forks,grand-forks
+Canada,canada,CA,British Columbia,british-columbia,Hanceville,hanceville
+Canada,canada,CA,British Columbia,british-columbia,Hope,hope
+Canada,canada,CA,British Columbia,british-columbia,Hornby Island,hornby-island
+Canada,canada,CA,British Columbia,british-columbia,Houston,houston
+Canada,canada,CA,British Columbia,british-columbia,Invermere,invermere
+Canada,canada,CA,British Columbia,british-columbia,Kamloops,kamloops
+Canada,canada,CA,British Columbia,british-columbia,Kelowna,kelowna
+Canada,canada,CA,British Columbia,british-columbia,Kimberley,kimberley
+Canada,canada,CA,British Columbia,british-columbia,Kitimat,kitimat
+Canada,canada,CA,British Columbia,british-columbia,Ladner,ladner
+Canada,canada,CA,British Columbia,british-columbia,Ladysmith,ladysmith
+Canada,canada,CA,British Columbia,british-columbia,Lake Cowichan,lake-cowichan
+Canada,canada,CA,British Columbia,british-columbia,Langford,langford
+Canada,canada,CA,British Columbia,british-columbia,Langley,langley
+Canada,canada,CA,British Columbia,british-columbia,Lillooet,lillooet
+Canada,canada,CA,British Columbia,british-columbia,Lions Bay,lions-bay
+Canada,canada,CA,British Columbia,british-columbia,Logan Lake,logan-lake
+Canada,canada,CA,British Columbia,british-columbia,Lumby,lumby
+Canada,canada,CA,British Columbia,british-columbia,Mackenzie,mackenzie
+Canada,canada,CA,British Columbia,british-columbia,Maple Ridge,maple-ridge
+Canada,canada,CA,British Columbia,british-columbia,Merritt,merritt
+Canada,canada,CA,British Columbia,british-columbia,Metchosin,metchosin
+Canada,canada,CA,British Columbia,british-columbia,Metro Vancouver Regional District,metro-vancouver-regional-district
+Canada,canada,CA,British Columbia,british-columbia,Mission,mission
+Canada,canada,CA,British Columbia,british-columbia,Nakusp,nakusp
+Canada,canada,CA,British Columbia,british-columbia,Nanaimo,nanaimo
+Canada,canada,CA,British Columbia,british-columbia,Nelson,nelson
+Canada,canada,CA,British Columbia,british-columbia,New Westminster,new-westminster
+Canada,canada,CA,British Columbia,british-columbia,North Cowichan,north-cowichan
+Canada,canada,CA,British Columbia,british-columbia,North Oyster/Yellow Point,north-oysteryellow-point
+Canada,canada,CA,British Columbia,british-columbia,North Saanich,north-saanich
+Canada,canada,CA,British Columbia,british-columbia,North Vancouver,north-vancouver
+Canada,canada,CA,British Columbia,british-columbia,Oak Bay,oak-bay
+Canada,canada,CA,British Columbia,british-columbia,Okanagan,okanagan
+Canada,canada,CA,British Columbia,british-columbia,Okanagan Falls,okanagan-falls
+Canada,canada,CA,British Columbia,british-columbia,Oliver,oliver
+Canada,canada,CA,British Columbia,british-columbia,Osoyoos,osoyoos
+Canada,canada,CA,British Columbia,british-columbia,Parksville,parksville
+Canada,canada,CA,British Columbia,british-columbia,Peace River Regional District,peace-river-regional-district
+Canada,canada,CA,British Columbia,british-columbia,Peachland,peachland
+Canada,canada,CA,British Columbia,british-columbia,Pemberton,pemberton
+Canada,canada,CA,British Columbia,british-columbia,Penticton,penticton
+Canada,canada,CA,British Columbia,british-columbia,Pitt Meadows,pitt-meadows
+Canada,canada,CA,British Columbia,british-columbia,Port Alberni,port-alberni
+Canada,canada,CA,British Columbia,british-columbia,Port Coquitlam,port-coquitlam
+Canada,canada,CA,British Columbia,british-columbia,Port McNeill,port-mcneill
+Canada,canada,CA,British Columbia,british-columbia,Port Moody,port-moody
+Canada,canada,CA,British Columbia,british-columbia,Powell River,powell-river
+Canada,canada,CA,British Columbia,british-columbia,Prince George,prince-george
+Canada,canada,CA,British Columbia,british-columbia,Prince Rupert,prince-rupert
+Canada,canada,CA,British Columbia,british-columbia,Princeton,princeton
+Canada,canada,CA,British Columbia,british-columbia,Puntledge,puntledge
+Canada,canada,CA,British Columbia,british-columbia,Quesnel,quesnel
+Canada,canada,CA,British Columbia,british-columbia,Regional District of Alberni-Clayoquot,regional-district-of-alberni-clayoquot
+Canada,canada,CA,British Columbia,british-columbia,Regional District of Central Okanagan,regional-district-of-central-okanagan
+Canada,canada,CA,British Columbia,british-columbia,Revelstoke,revelstoke
+Canada,canada,CA,British Columbia,british-columbia,Richmond,richmond
+Canada,canada,CA,British Columbia,british-columbia,Rossland,rossland
+Canada,canada,CA,British Columbia,british-columbia,Royston,royston
+Canada,canada,CA,British Columbia,british-columbia,Salmo,salmo
+Canada,canada,CA,British Columbia,british-columbia,Salmon Arm,salmon-arm
+Canada,canada,CA,British Columbia,british-columbia,Salt Spring Island,salt-spring-island
+Canada,canada,CA,British Columbia,british-columbia,Saltair,saltair
+Canada,canada,CA,British Columbia,british-columbia,Sechelt,sechelt
+Canada,canada,CA,British Columbia,british-columbia,Sicamous,sicamous
+Canada,canada,CA,British Columbia,british-columbia,Six Mile,six-mile
+Canada,canada,CA,British Columbia,british-columbia,Smithers,smithers
+Canada,canada,CA,British Columbia,british-columbia,Sooke,sooke
+Canada,canada,CA,British Columbia,british-columbia,South Pender Harbour,south-pender-harbour
+Canada,canada,CA,British Columbia,british-columbia,Sparwood,sparwood
+Canada,canada,CA,British Columbia,british-columbia,Summerland,summerland
+Canada,canada,CA,British Columbia,british-columbia,Surrey,surrey
+Canada,canada,CA,British Columbia,british-columbia,Terrace,terrace
+Canada,canada,CA,British Columbia,british-columbia,Tofino,tofino
+Canada,canada,CA,British Columbia,british-columbia,Trail,trail
+Canada,canada,CA,British Columbia,british-columbia,Tsawwassen,tsawwassen
+Canada,canada,CA,British Columbia,british-columbia,Tumbler Ridge,tumbler-ridge
+Canada,canada,CA,British Columbia,british-columbia,Ucluelet,ucluelet
+Canada,canada,CA,British Columbia,british-columbia,Vancouver,vancouver
+Canada,canada,CA,British Columbia,british-columbia,Vanderhoof,vanderhoof
+Canada,canada,CA,British Columbia,british-columbia,Vernon,vernon
+Canada,canada,CA,British Columbia,british-columbia,Victoria,victoria
+Canada,canada,CA,British Columbia,british-columbia,Walnut Grove,walnut-grove
+Canada,canada,CA,British Columbia,british-columbia,Welcome Beach,welcome-beach
+Canada,canada,CA,British Columbia,british-columbia,West End,west-end
+Canada,canada,CA,British Columbia,british-columbia,West Kelowna,west-kelowna
+Canada,canada,CA,British Columbia,british-columbia,West Vancouver,west-vancouver
+Canada,canada,CA,British Columbia,british-columbia,Whistler,whistler
+Canada,canada,CA,British Columbia,british-columbia,White Rock,white-rock
+Canada,canada,CA,British Columbia,british-columbia,Williams Lake,williams-lake
+Canada,canada,CA,Manitoba,manitoba,Altona,altona
+Canada,canada,CA,Manitoba,manitoba,Beausejour,beausejour
+Canada,canada,CA,Manitoba,manitoba,Boissevain,boissevain
+Canada,canada,CA,Manitoba,manitoba,Brandon,brandon
+Canada,canada,CA,Manitoba,manitoba,Carberry,carberry
+Canada,canada,CA,Manitoba,manitoba,Carman,carman
+Canada,canada,CA,Manitoba,manitoba,Cross Lake 19A,cross-lake-19a
+Canada,canada,CA,Manitoba,manitoba,Dauphin,dauphin
+Canada,canada,CA,Manitoba,manitoba,De Salaberry,de-salaberry
+Canada,canada,CA,Manitoba,manitoba,Deloraine,deloraine
+Canada,canada,CA,Manitoba,manitoba,Flin Flon,flin-flon
+Canada,canada,CA,Manitoba,manitoba,Gimli,gimli
+Canada,canada,CA,Manitoba,manitoba,Grunthal,grunthal
+Canada,canada,CA,Manitoba,manitoba,Headingley,headingley
+Canada,canada,CA,Manitoba,manitoba,Ile des Chenes,ile-des-chenes
+Canada,canada,CA,Manitoba,manitoba,Killarney,killarney
+Canada,canada,CA,Manitoba,manitoba,La Broquerie,la-broquerie
+Canada,canada,CA,Manitoba,manitoba,Lac du Bonnet,lac-du-bonnet
+Canada,canada,CA,Manitoba,manitoba,Landmark,landmark
+Canada,canada,CA,Manitoba,manitoba,Lorette,lorette
+Canada,canada,CA,Manitoba,manitoba,Melita,melita
+Canada,canada,CA,Manitoba,manitoba,Minnedosa,minnedosa
+Canada,canada,CA,Manitoba,manitoba,Moose Lake,moose-lake
+Canada,canada,CA,Manitoba,manitoba,Morden,morden
+Canada,canada,CA,Manitoba,manitoba,Morris,morris
+Canada,canada,CA,Manitoba,manitoba,Neepawa,neepawa
+Canada,canada,CA,Manitoba,manitoba,Niverville,niverville
+Canada,canada,CA,Manitoba,manitoba,Portage la Prairie,portage-la-prairie
+Canada,canada,CA,Manitoba,manitoba,Rivers,rivers
+Canada,canada,CA,Manitoba,manitoba,Roblin,roblin
+Canada,canada,CA,Manitoba,manitoba,Selkirk,selkirk
+Canada,canada,CA,Manitoba,manitoba,Shilo,shilo
+Canada,canada,CA,Manitoba,manitoba,Souris,souris
+Canada,canada,CA,Manitoba,manitoba,St. Adolphe,st-adolphe
+Canada,canada,CA,Manitoba,manitoba,Steinbach,steinbach
+Canada,canada,CA,Manitoba,manitoba,Stonewall,stonewall
+Canada,canada,CA,Manitoba,manitoba,Swan River,swan-river
+Canada,canada,CA,Manitoba,manitoba,The Pas,the-pas
+Canada,canada,CA,Manitoba,manitoba,Thompson,thompson
+Canada,canada,CA,Manitoba,manitoba,Virden,virden
+Canada,canada,CA,Manitoba,manitoba,West St. Paul,west-st-paul
+Canada,canada,CA,Manitoba,manitoba,Winkler,winkler
+Canada,canada,CA,Manitoba,manitoba,Winnipeg,winnipeg
+Canada,canada,CA,New Brunswick,new-brunswick,Baie Ste. Anne,baie-ste-anne
+Canada,canada,CA,New Brunswick,new-brunswick,Bathurst,bathurst
+Canada,canada,CA,New Brunswick,new-brunswick,Bouctouche,bouctouche
+Canada,canada,CA,New Brunswick,new-brunswick,Campbellton,campbellton
+Canada,canada,CA,New Brunswick,new-brunswick,Dieppe,dieppe
+Canada,canada,CA,New Brunswick,new-brunswick,Edmundston,edmundston
+Canada,canada,CA,New Brunswick,new-brunswick,Florenceville-Bristol,florenceville-bristol
+Canada,canada,CA,New Brunswick,new-brunswick,Fredericton,fredericton
+Canada,canada,CA,New Brunswick,new-brunswick,Fundy Bay,fundy-bay
+Canada,canada,CA,New Brunswick,new-brunswick,Grande-Digue,grande-digue
+Canada,canada,CA,New Brunswick,new-brunswick,Greater Lakeburn,greater-lakeburn
+Canada,canada,CA,New Brunswick,new-brunswick,Hampton,hampton
+Canada,canada,CA,New Brunswick,new-brunswick,Harrison Brook,harrison-brook
+Canada,canada,CA,New Brunswick,new-brunswick,Keswick Ridge,keswick-ridge
+Canada,canada,CA,New Brunswick,new-brunswick,Lincoln,lincoln
+Canada,canada,CA,New Brunswick,new-brunswick,Lutes Mountain,lutes-mountain
+Canada,canada,CA,New Brunswick,new-brunswick,McEwen,mcewen
+Canada,canada,CA,New Brunswick,new-brunswick,Miramichi,miramichi
+Canada,canada,CA,New Brunswick,new-brunswick,Moncton,moncton
+Canada,canada,CA,New Brunswick,new-brunswick,Nackawic,nackawic
+Canada,canada,CA,New Brunswick,new-brunswick,New Maryland,new-maryland
+Canada,canada,CA,New Brunswick,new-brunswick,Noonan,noonan
+Canada,canada,CA,New Brunswick,new-brunswick,Oromocto,oromocto
+Canada,canada,CA,New Brunswick,new-brunswick,Richibucto,richibucto
+Canada,canada,CA,New Brunswick,new-brunswick,Sackville,sackville
+Canada,canada,CA,New Brunswick,new-brunswick,Saint Andrews,saint-andrews
+Canada,canada,CA,New Brunswick,new-brunswick,Saint John,saint-john
+Canada,canada,CA,New Brunswick,new-brunswick,Saint-Antoine,saint-antoine
+Canada,canada,CA,New Brunswick,new-brunswick,Saint-Leonard,saint-leonard
+Canada,canada,CA,New Brunswick,new-brunswick,Salisbury,salisbury
+Canada,canada,CA,New Brunswick,new-brunswick,Shediac,shediac
+Canada,canada,CA,New Brunswick,new-brunswick,Shediac Bridge-Shediac River,shediac-bridge-shediac-river
+Canada,canada,CA,New Brunswick,new-brunswick,Shippagan,shippagan
+Canada,canada,CA,New Brunswick,new-brunswick,Starlight Village,starlight-village
+Canada,canada,CA,New Brunswick,new-brunswick,Sussex,sussex
+Canada,canada,CA,New Brunswick,new-brunswick,Tracadie-Sheila,tracadie-sheila
+Canada,canada,CA,New Brunswick,new-brunswick,Wells,wells
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Bay Roberts,bay-roberts
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Bay St. George South,bay-st-george-south
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Bonavista,bonavista
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Botwood,botwood
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Burgeo,burgeo
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Carbonear,carbonear
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Catalina,catalina
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Channel-Port aux Basques,channel-port-aux-basques
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Clarenville-Shoal Harbour,clarenville-shoal-harbour
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Conception Bay South,conception-bay-south
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Corner Brook,corner-brook
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Deer Lake,deer-lake
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Fogo Island,fogo-island
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Gambo,gambo
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Goulds,goulds
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Grand Bank,grand-bank
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Grand Falls-Windsor,grand-falls-windsor
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Happy Valley-Goose Bay,happy-valley-goose-bay
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Harbour Breton,harbour-breton
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Labrador City,labrador-city
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Lewisporte,lewisporte
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Marystown,marystown
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Mount Pearl,mount-pearl
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Pasadena,pasadena
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Springdale,springdale
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,St. Anthony,st-anthony
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,St. John's,st-johns
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Stephenville,stephenville
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Stephenville Crossing,stephenville-crossing
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Torbay,torbay
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Upper Island Cove,upper-island-cove
+Canada,canada,CA,Newfoundland and Labrador,newfoundland-and-labrador,Wabana,wabana
+Canada,canada,CA,Northwest Territories,northwest-territories,Behchoko,behchoko
+Canada,canada,CA,Northwest Territories,northwest-territories,Fort McPherson,fort-mcpherson
+Canada,canada,CA,Northwest Territories,northwest-territories,Fort Smith,fort-smith
+Canada,canada,CA,Northwest Territories,northwest-territories,Hay River,hay-river
+Canada,canada,CA,Northwest Territories,northwest-territories,Inuvik,inuvik
+Canada,canada,CA,Northwest Territories,northwest-territories,Norman Wells,norman-wells
+Canada,canada,CA,Northwest Territories,northwest-territories,Yellowknife,yellowknife
+Canada,canada,CA,Nova Scotia,nova-scotia,Amherst,amherst
+Canada,canada,CA,Nova Scotia,nova-scotia,Annapolis County,annapolis-county
+Canada,canada,CA,Nova Scotia,nova-scotia,Antigonish,antigonish
+Canada,canada,CA,Nova Scotia,nova-scotia,Berwick,berwick
+Canada,canada,CA,Nova Scotia,nova-scotia,Bridgewater,bridgewater
+Canada,canada,CA,Nova Scotia,nova-scotia,Cape Breton County,cape-breton-county
+Canada,canada,CA,Nova Scotia,nova-scotia,Chester,chester
+Canada,canada,CA,Nova Scotia,nova-scotia,Colchester,colchester
+Canada,canada,CA,Nova Scotia,nova-scotia,Cole Harbour,cole-harbour
+Canada,canada,CA,Nova Scotia,nova-scotia,Cow Bay,cow-bay
+Canada,canada,CA,Nova Scotia,nova-scotia,Dartmouth,dartmouth
+Canada,canada,CA,Nova Scotia,nova-scotia,Digby,digby
+Canada,canada,CA,Nova Scotia,nova-scotia,Digby County,digby-county
+Canada,canada,CA,Nova Scotia,nova-scotia,English Corner,english-corner
+Canada,canada,CA,Nova Scotia,nova-scotia,Eskasoni 3,eskasoni-3
+Canada,canada,CA,Nova Scotia,nova-scotia,Fall River,fall-river
+Canada,canada,CA,Nova Scotia,nova-scotia,Glace Bay,glace-bay
+Canada,canada,CA,Nova Scotia,nova-scotia,Greenwood,greenwood
+Canada,canada,CA,Nova Scotia,nova-scotia,Halifax,halifax
+Canada,canada,CA,Nova Scotia,nova-scotia,Hantsport,hantsport
+Canada,canada,CA,Nova Scotia,nova-scotia,Hayes Subdivision,hayes-subdivision
+Canada,canada,CA,Nova Scotia,nova-scotia,Kentville,kentville
+Canada,canada,CA,Nova Scotia,nova-scotia,Lake Echo,lake-echo
+Canada,canada,CA,Nova Scotia,nova-scotia,Lantz,lantz
+Canada,canada,CA,Nova Scotia,nova-scotia,Lower Sackville,lower-sackville
+Canada,canada,CA,Nova Scotia,nova-scotia,Lunenburg,lunenburg
+Canada,canada,CA,Nova Scotia,nova-scotia,Middleton,middleton
+Canada,canada,CA,Nova Scotia,nova-scotia,New Glasgow,new-glasgow
+Canada,canada,CA,Nova Scotia,nova-scotia,Oxford,oxford
+Canada,canada,CA,Nova Scotia,nova-scotia,Parrsboro,parrsboro
+Canada,canada,CA,Nova Scotia,nova-scotia,Pictou,pictou
+Canada,canada,CA,Nova Scotia,nova-scotia,Pictou County,pictou-county
+Canada,canada,CA,Nova Scotia,nova-scotia,Port Hawkesbury,port-hawkesbury
+Canada,canada,CA,Nova Scotia,nova-scotia,Port Williams,port-williams
+Canada,canada,CA,Nova Scotia,nova-scotia,Princeville,princeville
+Canada,canada,CA,Nova Scotia,nova-scotia,Shelburne,shelburne
+Canada,canada,CA,Nova Scotia,nova-scotia,Springhill,springhill
+Canada,canada,CA,Nova Scotia,nova-scotia,Sydney,sydney
+Canada,canada,CA,Nova Scotia,nova-scotia,Sydney Mines,sydney-mines
+Canada,canada,CA,Nova Scotia,nova-scotia,Truro,truro
+Canada,canada,CA,Nova Scotia,nova-scotia,Windsor,windsor
+Canada,canada,CA,Nova Scotia,nova-scotia,Wolfville,wolfville
+Canada,canada,CA,Nova Scotia,nova-scotia,Yarmouth,yarmouth
+Canada,canada,CA,Nunavut,nunavut,Clyde River,clyde-river
+Canada,canada,CA,Nunavut,nunavut,Gjoa Haven,gjoa-haven
+Canada,canada,CA,Nunavut,nunavut,Iqaluit,iqaluit
+Canada,canada,CA,Nunavut,nunavut,Kugluktuk,kugluktuk
+Canada,canada,CA,Nunavut,nunavut,Pangnirtung,pangnirtung
+Canada,canada,CA,Nunavut,nunavut,Rankin Inlet,rankin-inlet
+Canada,canada,CA,Ontario,ontario,Ajax,ajax
+Canada,canada,CA,Ontario,ontario,Algoma,algoma
+Canada,canada,CA,Ontario,ontario,Alliston,alliston
+Canada,canada,CA,Ontario,ontario,Amherstburg,amherstburg
+Canada,canada,CA,Ontario,ontario,Amigo Beach,amigo-beach
+Canada,canada,CA,Ontario,ontario,Ancaster,ancaster
+Canada,canada,CA,Ontario,ontario,Angus,angus
+Canada,canada,CA,Ontario,ontario,Arnprior,arnprior
+Canada,canada,CA,Ontario,ontario,Atikokan,atikokan
+Canada,canada,CA,Ontario,ontario,Attawapiskat,attawapiskat
+Canada,canada,CA,Ontario,ontario,Aurora,aurora
+Canada,canada,CA,Ontario,ontario,Aylmer,aylmer
+Canada,canada,CA,Ontario,ontario,Azilda,azilda
+Canada,canada,CA,Ontario,ontario,Ballantrae,ballantrae
+Canada,canada,CA,Ontario,ontario,Bancroft,bancroft
+Canada,canada,CA,Ontario,ontario,Barrie,barrie
+Canada,canada,CA,Ontario,ontario,Bath,bath
+Canada,canada,CA,Ontario,ontario,Belleville,belleville
+Canada,canada,CA,Ontario,ontario,Bells Corners,bells-corners
+Canada,canada,CA,Ontario,ontario,Belmont,belmont
+Canada,canada,CA,Ontario,ontario,Binbrook,binbrook
+Canada,canada,CA,Ontario,ontario,Bluewater,bluewater
+Canada,canada,CA,Ontario,ontario,Bourget,bourget
+Canada,canada,CA,Ontario,ontario,Bracebridge,bracebridge
+Canada,canada,CA,Ontario,ontario,Brampton,brampton
+Canada,canada,CA,Ontario,ontario,Brant,brant
+Canada,canada,CA,Ontario,ontario,Brantford,brantford
+Canada,canada,CA,Ontario,ontario,Brockville,brockville
+Canada,canada,CA,Ontario,ontario,Brussels,brussels
+Canada,canada,CA,Ontario,ontario,Burford,burford
+Canada,canada,CA,Ontario,ontario,Burlington,burlington
+Canada,canada,CA,Ontario,ontario,Cambridge,cambridge
+Canada,canada,CA,Ontario,ontario,Camlachie,camlachie
+Canada,canada,CA,Ontario,ontario,Capreol,capreol
+Canada,canada,CA,Ontario,ontario,Carleton Place,carleton-place
+Canada,canada,CA,Ontario,ontario,Casselman,casselman
+Canada,canada,CA,Ontario,ontario,Chatham,chatham
+Canada,canada,CA,Ontario,ontario,Chatham-Kent,chatham-kent
+Canada,canada,CA,Ontario,ontario,Clarence-Rockland,clarence-rockland
+Canada,canada,CA,Ontario,ontario,Cobourg,cobourg
+Canada,canada,CA,Ontario,ontario,Cochrane District,cochrane-district
+Canada,canada,CA,Ontario,ontario,Collingwood,collingwood
+Canada,canada,CA,Ontario,ontario,Concord,concord
+Canada,canada,CA,Ontario,ontario,Constance Bay,constance-bay
+Canada,canada,CA,Ontario,ontario,Cookstown,cookstown
+Canada,canada,CA,Ontario,ontario,Cornwall,cornwall
+Canada,canada,CA,Ontario,ontario,Corunna,corunna
+Canada,canada,CA,Ontario,ontario,Deep River,deep-river
+Canada,canada,CA,Ontario,ontario,Delaware,delaware
+Canada,canada,CA,Ontario,ontario,Deseronto,deseronto
+Canada,canada,CA,Ontario,ontario,Dorchester,dorchester
+Canada,canada,CA,Ontario,ontario,Dowling,dowling
+Canada,canada,CA,Ontario,ontario,Dryden,dryden
+Canada,canada,CA,Ontario,ontario,Durham,durham
+Canada,canada,CA,Ontario,ontario,Ear Falls,ear-falls
+Canada,canada,CA,Ontario,ontario,East Gwillimbury,east-gwillimbury
+Canada,canada,CA,Ontario,ontario,East York,east-york
+Canada,canada,CA,Ontario,ontario,Elliot Lake,elliot-lake
+Canada,canada,CA,Ontario,ontario,Elmvale,elmvale
+Canada,canada,CA,Ontario,ontario,Englehart,englehart
+Canada,canada,CA,Ontario,ontario,Espanola,espanola
+Canada,canada,CA,Ontario,ontario,Essex,essex
+Canada,canada,CA,Ontario,ontario,Etobicoke,etobicoke
+Canada,canada,CA,Ontario,ontario,Fort Erie,fort-erie
+Canada,canada,CA,Ontario,ontario,Fort Frances,fort-frances
+Canada,canada,CA,Ontario,ontario,Gananoque,gananoque
+Canada,canada,CA,Ontario,ontario,Glencoe,glencoe
+Canada,canada,CA,Ontario,ontario,Goderich,goderich
+Canada,canada,CA,Ontario,ontario,Golden,golden
+Canada,canada,CA,Ontario,ontario,Gravenhurst,gravenhurst
+Canada,canada,CA,Ontario,ontario,Greater Napanee,greater-napanee
+Canada,canada,CA,Ontario,ontario,Greater Sudbury,greater-sudbury
+Canada,canada,CA,Ontario,ontario,Greenstone,greenstone
+Canada,canada,CA,Ontario,ontario,Guelph,guelph
+Canada,canada,CA,Ontario,ontario,Haldimand County,haldimand-county
+Canada,canada,CA,Ontario,ontario,Haliburton Village,haliburton-village
+Canada,canada,CA,Ontario,ontario,Halton,halton
+Canada,canada,CA,Ontario,ontario,Hamilton,hamilton
+Canada,canada,CA,Ontario,ontario,Hanover,hanover
+Canada,canada,CA,Ontario,ontario,Harriston,harriston
+Canada,canada,CA,Ontario,ontario,Hawkesbury,hawkesbury
+Canada,canada,CA,Ontario,ontario,Hearst,hearst
+Canada,canada,CA,Ontario,ontario,Hornepayne,hornepayne
+Canada,canada,CA,Ontario,ontario,Huntsville,huntsville
+Canada,canada,CA,Ontario,ontario,Huron East,huron-east
+Canada,canada,CA,Ontario,ontario,Ingersoll,ingersoll
+Canada,canada,CA,Ontario,ontario,Innisfil,innisfil
+Canada,canada,CA,Ontario,ontario,Iroquois Falls,iroquois-falls
+Canada,canada,CA,Ontario,ontario,Jarvis,jarvis
+Canada,canada,CA,Ontario,ontario,Kanata,kanata
+Canada,canada,CA,Ontario,ontario,Kapuskasing,kapuskasing
+Canada,canada,CA,Ontario,ontario,Kawartha Lakes,kawartha-lakes
+Canada,canada,CA,Ontario,ontario,Kenora,kenora
+Canada,canada,CA,Ontario,ontario,Keswick,keswick
+Canada,canada,CA,Ontario,ontario,Kincardine,kincardine
+Canada,canada,CA,Ontario,ontario,King,king
+Canada,canada,CA,Ontario,ontario,Kingston,kingston
+Canada,canada,CA,Ontario,ontario,Kirkland Lake,kirkland-lake
+Canada,canada,CA,Ontario,ontario,Kitchener,kitchener
+Canada,canada,CA,Ontario,ontario,L'Orignal,lorignal
+Canada,canada,CA,Ontario,ontario,Lakefield,lakefield
+Canada,canada,CA,Ontario,ontario,Lambton Shores,lambton-shores
+Canada,canada,CA,Ontario,ontario,Lappe,lappe
+Canada,canada,CA,Ontario,ontario,Leamington,leamington
+Canada,canada,CA,Ontario,ontario,Limoges,limoges
+Canada,canada,CA,Ontario,ontario,Lindsay,lindsay
+Canada,canada,CA,Ontario,ontario,Listowel,listowel
+Canada,canada,CA,Ontario,ontario,Little Current,little-current
+Canada,canada,CA,Ontario,ontario,Lively,lively
+Canada,canada,CA,Ontario,ontario,London,london
+Canada,canada,CA,Ontario,ontario,Lucan,lucan
+Canada,canada,CA,Ontario,ontario,Madoc,madoc
+Canada,canada,CA,Ontario,ontario,Manitoulin District,manitoulin-district
+Canada,canada,CA,Ontario,ontario,Manitouwadge,manitouwadge
+Canada,canada,CA,Ontario,ontario,Marathon,marathon
+Canada,canada,CA,Ontario,ontario,Markdale,markdale
+Canada,canada,CA,Ontario,ontario,Markham,markham
+Canada,canada,CA,Ontario,ontario,Mattawa,mattawa
+Canada,canada,CA,Ontario,ontario,Meaford,meaford
+Canada,canada,CA,Ontario,ontario,Metcalfe,metcalfe
+Canada,canada,CA,Ontario,ontario,Midland,midland
+Canada,canada,CA,Ontario,ontario,Mildmay,mildmay
+Canada,canada,CA,Ontario,ontario,Millbrook,millbrook
+Canada,canada,CA,Ontario,ontario,Milton,milton
+Canada,canada,CA,Ontario,ontario,Mississauga,mississauga
+Canada,canada,CA,Ontario,ontario,Mississauga Beach,mississauga-beach
+Canada,canada,CA,Ontario,ontario,Moose Factory,moose-factory
+Canada,canada,CA,Ontario,ontario,Moosonee,moosonee
+Canada,canada,CA,Ontario,ontario,Morrisburg,morrisburg
+Canada,canada,CA,Ontario,ontario,Mount Albert,mount-albert
+Canada,canada,CA,Ontario,ontario,Mount Brydges,mount-brydges
+Canada,canada,CA,Ontario,ontario,Napanee,napanee
+Canada,canada,CA,Ontario,ontario,Napanee Downtown,napanee-downtown
+Canada,canada,CA,Ontario,ontario,Neebing,neebing
+Canada,canada,CA,Ontario,ontario,Nepean,nepean
+Canada,canada,CA,Ontario,ontario,New Hamburg,new-hamburg
+Canada,canada,CA,Ontario,ontario,Newmarket,newmarket
+Canada,canada,CA,Ontario,ontario,Niagara Falls,niagara-falls
+Canada,canada,CA,Ontario,ontario,Nipissing District,nipissing-district
+Canada,canada,CA,Ontario,ontario,Norfolk County,norfolk-county
+Canada,canada,CA,Ontario,ontario,North Bay,north-bay
+Canada,canada,CA,Ontario,ontario,North Perth,north-perth
+Canada,canada,CA,Ontario,ontario,North York,north-york
+Canada,canada,CA,Ontario,ontario,Norwood,norwood
+Canada,canada,CA,Ontario,ontario,Oakville,oakville
+Canada,canada,CA,Ontario,ontario,Omemee,omemee
+Canada,canada,CA,Ontario,ontario,Orangeville,orangeville
+Canada,canada,CA,Ontario,ontario,Orillia,orillia
+Canada,canada,CA,Ontario,ontario,Osgoode,osgoode
+Canada,canada,CA,Ontario,ontario,Oshawa,oshawa
+Canada,canada,CA,Ontario,ontario,Ottawa,ottawa
+Canada,canada,CA,Ontario,ontario,Owen Sound,owen-sound
+Canada,canada,CA,Ontario,ontario,Paisley,paisley
+Canada,canada,CA,Ontario,ontario,Paris,paris
+Canada,canada,CA,Ontario,ontario,Parkhill,parkhill
+Canada,canada,CA,Ontario,ontario,Parry Sound,parry-sound
+Canada,canada,CA,Ontario,ontario,Parry Sound District,parry-sound-district
+Canada,canada,CA,Ontario,ontario,Peel,peel
+Canada,canada,CA,Ontario,ontario,Pembroke,pembroke
+Canada,canada,CA,Ontario,ontario,Perth,perth
+Canada,canada,CA,Ontario,ontario,Petawawa,petawawa
+Canada,canada,CA,Ontario,ontario,Peterborough,peterborough
+Canada,canada,CA,Ontario,ontario,Petrolia,petrolia
+Canada,canada,CA,Ontario,ontario,Pickering,pickering
+Canada,canada,CA,Ontario,ontario,Picton,picton
+Canada,canada,CA,Ontario,ontario,Plantagenet,plantagenet
+Canada,canada,CA,Ontario,ontario,Plattsville,plattsville
+Canada,canada,CA,Ontario,ontario,Port Colborne,port-colborne
+Canada,canada,CA,Ontario,ontario,Port Hope,port-hope
+Canada,canada,CA,Ontario,ontario,Port Rowan,port-rowan
+Canada,canada,CA,Ontario,ontario,Port Stanley,port-stanley
+Canada,canada,CA,Ontario,ontario,Powassan,powassan
+Canada,canada,CA,Ontario,ontario,Prescott,prescott
+Canada,canada,CA,Ontario,ontario,Prince Edward,prince-edward
+Canada,canada,CA,Ontario,ontario,Queenswood Heights,queenswood-heights
+Canada,canada,CA,Ontario,ontario,Quinte West,quinte-west
+Canada,canada,CA,Ontario,ontario,Rainy River District,rainy-river-district
+Canada,canada,CA,Ontario,ontario,Rayside-Balfour,rayside-balfour
+Canada,canada,CA,Ontario,ontario,Red Lake,red-lake
+Canada,canada,CA,Ontario,ontario,Regional Municipality of Waterloo,regional-municipality-of-waterloo
+Canada,canada,CA,Ontario,ontario,Renfrew,renfrew
+Canada,canada,CA,Ontario,ontario,Richmond,richmond
+Canada,canada,CA,Ontario,ontario,Richmond Hill,richmond-hill
+Canada,canada,CA,Ontario,ontario,Ridgetown,ridgetown
+Canada,canada,CA,Ontario,ontario,Rockwood,rockwood
+Canada,canada,CA,Ontario,ontario,Russell,russell
+Canada,canada,CA,Ontario,ontario,Sarnia,sarnia
+Canada,canada,CA,Ontario,ontario,Sault Ste. Marie,sault-ste-marie
+Canada,canada,CA,Ontario,ontario,Scarborough,scarborough
+Canada,canada,CA,Ontario,ontario,Seaforth,seaforth
+Canada,canada,CA,Ontario,ontario,Shelburne,shelburne
+Canada,canada,CA,Ontario,ontario,Simcoe,simcoe
+Canada,canada,CA,Ontario,ontario,Sioux Lookout,sioux-lookout
+Canada,canada,CA,Ontario,ontario,Skatepark,skatepark
+Canada,canada,CA,Ontario,ontario,Smiths Falls,smiths-falls
+Canada,canada,CA,Ontario,ontario,South Huron,south-huron
+Canada,canada,CA,Ontario,ontario,South River,south-river
+Canada,canada,CA,Ontario,ontario,St. Catharines,st-catharines
+Canada,canada,CA,Ontario,ontario,St. George,st-george
+Canada,canada,CA,Ontario,ontario,St. Thomas,st-thomas
+Canada,canada,CA,Ontario,ontario,Stirling,stirling
+Canada,canada,CA,Ontario,ontario,Stoney Point,stoney-point
+Canada,canada,CA,Ontario,ontario,Stratford,stratford
+Canada,canada,CA,Ontario,ontario,Sudbury,sudbury
+Canada,canada,CA,Ontario,ontario,Tavistock,tavistock
+Canada,canada,CA,Ontario,ontario,Temiskaming Shores,temiskaming-shores
+Canada,canada,CA,Ontario,ontario,Thessalon,thessalon
+Canada,canada,CA,Ontario,ontario,Thorold,thorold
+Canada,canada,CA,Ontario,ontario,Thunder Bay,thunder-bay
+Canada,canada,CA,Ontario,ontario,Thunder Bay District,thunder-bay-district
+Canada,canada,CA,Ontario,ontario,Timiskaming District,timiskaming-district
+Canada,canada,CA,Ontario,ontario,Timmins,timmins
+Canada,canada,CA,Ontario,ontario,Tobermory,tobermory
+Canada,canada,CA,Ontario,ontario,Toronto,toronto
+Canada,canada,CA,Ontario,ontario,Toronto county,toronto-county
+Canada,canada,CA,Ontario,ontario,Tottenham,tottenham
+Canada,canada,CA,Ontario,ontario,Tweed,tweed
+Canada,canada,CA,Ontario,ontario,Uxbridge,uxbridge
+Canada,canada,CA,Ontario,ontario,Valley East,valley-east
+Canada,canada,CA,Ontario,ontario,Vanier,vanier
+Canada,canada,CA,Ontario,ontario,Vaughan,vaughan
+Canada,canada,CA,Ontario,ontario,Vineland,vineland
+Canada,canada,CA,Ontario,ontario,Virgil,virgil
+Canada,canada,CA,Ontario,ontario,Walpole Island,walpole-island
+Canada,canada,CA,Ontario,ontario,Wasaga Beach,wasaga-beach
+Canada,canada,CA,Ontario,ontario,Waterford,waterford
+Canada,canada,CA,Ontario,ontario,Waterloo,waterloo
+Canada,canada,CA,Ontario,ontario,Watford,watford
+Canada,canada,CA,Ontario,ontario,Wawa,wawa
+Canada,canada,CA,Ontario,ontario,Welland,welland
+Canada,canada,CA,Ontario,ontario,Wellesley,wellesley
+Canada,canada,CA,Ontario,ontario,Wendover,wendover
+Canada,canada,CA,Ontario,ontario,West Lorne,west-lorne
+Canada,canada,CA,Ontario,ontario,Willowdale,willowdale
+Canada,canada,CA,Ontario,ontario,Winchester,winchester
+Canada,canada,CA,Ontario,ontario,Windsor,windsor
+Canada,canada,CA,Ontario,ontario,Wingham,wingham
+Canada,canada,CA,Ontario,ontario,Woodstock,woodstock
+Canada,canada,CA,Ontario,ontario,York,york
+Canada,canada,CA,Prince Edward Island,prince-edward-island,Alberton,alberton
+Canada,canada,CA,Prince Edward Island,prince-edward-island,Belfast,belfast
+Canada,canada,CA,Prince Edward Island,prince-edward-island,Charlottetown,charlottetown
+Canada,canada,CA,Prince Edward Island,prince-edward-island,Cornwall,cornwall
+Canada,canada,CA,Prince Edward Island,prince-edward-island,Fallingbrook,fallingbrook
+Canada,canada,CA,Prince Edward Island,prince-edward-island,Kensington,kensington
+Canada,canada,CA,Prince Edward Island,prince-edward-island,Montague,montague
+Canada,canada,CA,Prince Edward Island,prince-edward-island,Souris,souris
+Canada,canada,CA,Prince Edward Island,prince-edward-island,Summerside,summerside
+Canada,canada,CA,Quebec,quebec,Abitibi-Temiscamingue,abitibi-temiscamingue
+Canada,canada,CA,Quebec,quebec,Acton Vale,acton-vale
+Canada,canada,CA,Quebec,quebec,Adstock,adstock
+Canada,canada,CA,Quebec,quebec,Albanel,albanel
+Canada,canada,CA,Quebec,quebec,Alma,alma
+Canada,canada,CA,Quebec,quebec,Amos,amos
+Canada,canada,CA,Quebec,quebec,Amqui,amqui
+Canada,canada,CA,Quebec,quebec,Ange-Gardien,ange-gardien
+Canada,canada,CA,Quebec,quebec,Asbestos,asbestos
+Canada,canada,CA,Quebec,quebec,Baie-Comeau,baie-comeau
+Canada,canada,CA,Quebec,quebec,Baie-D'Urfe,baie-durfe
+Canada,canada,CA,Quebec,quebec,Baie-Saint-Paul,baie-saint-paul
+Canada,canada,CA,Quebec,quebec,Barraute,barraute
+Canada,canada,CA,Quebec,quebec,Bas-Saint-Laurent,bas-saint-laurent
+Canada,canada,CA,Quebec,quebec,Beaconsfield,beaconsfield
+Canada,canada,CA,Quebec,quebec,Beauceville,beauceville
+Canada,canada,CA,Quebec,quebec,Beauharnois,beauharnois
+Canada,canada,CA,Quebec,quebec,Beaupre,beaupre
+Canada,canada,CA,Quebec,quebec,Becancour,becancour
+Canada,canada,CA,Quebec,quebec,Bedford,bedford
+Canada,canada,CA,Quebec,quebec,Beloeil,beloeil
+Canada,canada,CA,Quebec,quebec,Berthierville,berthierville
+Canada,canada,CA,Quebec,quebec,Blainville,blainville
+Canada,canada,CA,Quebec,quebec,Bois-des-Filion,bois-des-filion
+Canada,canada,CA,Quebec,quebec,Boisbriand,boisbriand
+Canada,canada,CA,Quebec,quebec,Bonaventure,bonaventure
+Canada,canada,CA,Quebec,quebec,Boucherville,boucherville
+Canada,canada,CA,Quebec,quebec,Breakeyville,breakeyville
+Canada,canada,CA,Quebec,quebec,Bromont,bromont
+Canada,canada,CA,Quebec,quebec,Brossard,brossard
+Canada,canada,CA,Quebec,quebec,Brownsburg-Chatham,brownsburg-chatham
+Canada,canada,CA,Quebec,quebec,Buckingham,buckingham
+Canada,canada,CA,Quebec,quebec,Cabano,cabano
+Canada,canada,CA,Quebec,quebec,Cacouna,cacouna
+Canada,canada,CA,Quebec,quebec,Candiac,candiac
+Canada,canada,CA,Quebec,quebec,Cantley,cantley
+Canada,canada,CA,Quebec,quebec,Cap-Chat,cap-chat
+Canada,canada,CA,Quebec,quebec,Cap-Sante,cap-sante
+Canada,canada,CA,Quebec,quebec,Capitale-Nationale,capitale-nationale
+Canada,canada,CA,Quebec,quebec,Carignan,carignan
+Canada,canada,CA,Quebec,quebec,Carleton,carleton
+Canada,canada,CA,Quebec,quebec,Carleton-sur-Mer,carleton-sur-mer
+Canada,canada,CA,Quebec,quebec,Centre-du-Quebec,centre-du-quebec
+Canada,canada,CA,Quebec,quebec,Chambly,chambly
+Canada,canada,CA,Quebec,quebec,Chambord,chambord
+Canada,canada,CA,Quebec,quebec,Chandler,chandler
+Canada,canada,CA,Quebec,quebec,Chapais,chapais
+Canada,canada,CA,Quebec,quebec,Charlemagne,charlemagne
+Canada,canada,CA,Quebec,quebec,Chateau-Richer,chateau-richer
+Canada,canada,CA,Quebec,quebec,Chateauguay,chateauguay
+Canada,canada,CA,Quebec,quebec,Chaudiere-Appalaches,chaudiere-appalaches
+Canada,canada,CA,Quebec,quebec,Chertsey,chertsey
+Canada,canada,CA,Quebec,quebec,Chibougamau,chibougamau
+Canada,canada,CA,Quebec,quebec,Chute-aux-Outardes,chute-aux-outardes
+Canada,canada,CA,Quebec,quebec,Coaticook,coaticook
+Canada,canada,CA,Quebec,quebec,Contrecoeur,contrecoeur
+Canada,canada,CA,Quebec,quebec,Cookshire,cookshire
+Canada,canada,CA,Quebec,quebec,Cookshire-Eaton,cookshire-eaton
+Canada,canada,CA,Quebec,quebec,Cote-Nord,cote-nord
+Canada,canada,CA,Quebec,quebec,Cote-Saint-Luc,cote-saint-luc
+Canada,canada,CA,Quebec,quebec,Coteau-du-Lac,coteau-du-lac
+Canada,canada,CA,Quebec,quebec,Cowansville,cowansville
+Canada,canada,CA,Quebec,quebec,Crabtree,crabtree
+Canada,canada,CA,Quebec,quebec,Danville,danville
+Canada,canada,CA,Quebec,quebec,Daveluyville,daveluyville
+Canada,canada,CA,Quebec,quebec,Delson,delson
+Canada,canada,CA,Quebec,quebec,Deux-Montagnes,deux-montagnes
+Canada,canada,CA,Quebec,quebec,Disraeli,disraeli
+Canada,canada,CA,Quebec,quebec,Dolbeau-Mistassini,dolbeau-mistassini
+Canada,canada,CA,Quebec,quebec,Dollard-Des Ormeaux,dollard-des-ormeaux
+Canada,canada,CA,Quebec,quebec,Donnacona,donnacona
+Canada,canada,CA,Quebec,quebec,Dorval,dorval
+Canada,canada,CA,Quebec,quebec,Drummondville,drummondville
+Canada,canada,CA,Quebec,quebec,Dunham,dunham
+Canada,canada,CA,Quebec,quebec,East Angus,east-angus
+Canada,canada,CA,Quebec,quebec,East Broughton,east-broughton
+Canada,canada,CA,Quebec,quebec,Farnham,farnham
+Canada,canada,CA,Quebec,quebec,Ferme-Neuve,ferme-neuve
+Canada,canada,CA,Quebec,quebec,Fermont,fermont
+Canada,canada,CA,Quebec,quebec,Forestville,forestville
+Canada,canada,CA,Quebec,quebec,Fort-Coulonge,fort-coulonge
+Canada,canada,CA,Quebec,quebec,Fossambault-sur-le-Lac,fossambault-sur-le-lac
+Canada,canada,CA,Quebec,quebec,Franklin,franklin
+Canada,canada,CA,Quebec,quebec,Gaspe,gaspe
+Canada,canada,CA,Quebec,quebec,Gaspesie-Iles-de-la-Madeleine,gaspesie-iles-de-la-madeleine
+Canada,canada,CA,Quebec,quebec,Gatineau,gatineau
+Canada,canada,CA,Quebec,quebec,Godefroy,godefroy
+Canada,canada,CA,Quebec,quebec,Granby,granby
+Canada,canada,CA,Quebec,quebec,Hampstead,hampstead
+Canada,canada,CA,Quebec,quebec,Hauterive,hauterive
+Canada,canada,CA,Quebec,quebec,Havre-Saint-Pierre,havre-saint-pierre
+Canada,canada,CA,Quebec,quebec,Herouxville,herouxville
+Canada,canada,CA,Quebec,quebec,Hudson,hudson
+Canada,canada,CA,Quebec,quebec,Huntingdon,huntingdon
+Canada,canada,CA,Quebec,quebec,Joliette,joliette
+Canada,canada,CA,Quebec,quebec,Jonquiere,jonquiere
+Canada,canada,CA,Quebec,quebec,Kingsey Falls,kingsey-falls
+Canada,canada,CA,Quebec,quebec,Kirkland,kirkland
+Canada,canada,CA,Quebec,quebec,L'Ancienne-Lorette,lancienne-lorette
+Canada,canada,CA,Quebec,quebec,L'Ange-Gardien,lange-gardien
+Canada,canada,CA,Quebec,quebec,L'Ascension-de-Notre-Seigneur,lascension-de-notre-seigneur
+Canada,canada,CA,Quebec,quebec,L'Assomption,lassomption
+Canada,canada,CA,Quebec,quebec,L'Epiphanie,lepiphanie
+Canada,canada,CA,Quebec,quebec,L'Ile-Perrot,lile-perrot
+Canada,canada,CA,Quebec,quebec,La Conception,la-conception
+Canada,canada,CA,Quebec,quebec,La Haute-Saint-Charles,la-haute-saint-charles
+Canada,canada,CA,Quebec,quebec,La Malbaie,la-malbaie
+Canada,canada,CA,Quebec,quebec,La Minerve,la-minerve
+Canada,canada,CA,Quebec,quebec,La Pocatiere,la-pocatiere
+Canada,canada,CA,Quebec,quebec,La Prairie,la-prairie
+Canada,canada,CA,Quebec,quebec,La Sarre,la-sarre
+Canada,canada,CA,Quebec,quebec,La Tuque,la-tuque
+Canada,canada,CA,Quebec,quebec,Labelle,labelle
+Canada,canada,CA,Quebec,quebec,Lac-Alouette,lac-alouette
+Canada,canada,CA,Quebec,quebec,Lac-Brome,lac-brome
+Canada,canada,CA,Quebec,quebec,Lac-Connelly,lac-connelly
+Canada,canada,CA,Quebec,quebec,Lac-Lapierre,lac-lapierre
+Canada,canada,CA,Quebec,quebec,Lac-Megantic,lac-megantic
+Canada,canada,CA,Quebec,quebec,Lac-Simon,lac-simon
+Canada,canada,CA,Quebec,quebec,Lachute,lachute
+Canada,canada,CA,Quebec,quebec,Lacolle,lacolle
+Canada,canada,CA,Quebec,quebec,Lanoraie,lanoraie
+Canada,canada,CA,Quebec,quebec,Laval,laval
+Canada,canada,CA,Quebec,quebec,Lavaltrie,lavaltrie
+Canada,canada,CA,Quebec,quebec,Le Bic,le-bic
+Canada,canada,CA,Quebec,quebec,le Plateau,le-plateau
+Canada,canada,CA,Quebec,quebec,Lebel-sur-Quevillon,lebel-sur-quevillon
+Canada,canada,CA,Quebec,quebec,Leblanc,leblanc
+Canada,canada,CA,Quebec,quebec,Les Cedres,les-cedres
+Canada,canada,CA,Quebec,quebec,Les Coteaux,les-coteaux
+Canada,canada,CA,Quebec,quebec,Les Escoumins,les-escoumins
+Canada,canada,CA,Quebec,quebec,Levis,levis
+Canada,canada,CA,Quebec,quebec,Liniere,liniere
+Canada,canada,CA,Quebec,quebec,Longueuil,longueuil
+Canada,canada,CA,Quebec,quebec,Lorraine,lorraine
+Canada,canada,CA,Quebec,quebec,Louiseville,louiseville
+Canada,canada,CA,Quebec,quebec,Luceville,luceville
+Canada,canada,CA,Quebec,quebec,Macamic,macamic
+Canada,canada,CA,Quebec,quebec,Magog,magog
+Canada,canada,CA,Quebec,quebec,Malartic,malartic
+Canada,canada,CA,Quebec,quebec,Maliotenam,maliotenam
+Canada,canada,CA,Quebec,quebec,Manawan,manawan
+Canada,canada,CA,Quebec,quebec,Mandeville,mandeville
+Canada,canada,CA,Quebec,quebec,Maniwaki,maniwaki
+Canada,canada,CA,Quebec,quebec,Maria,maria
+Canada,canada,CA,Quebec,quebec,Marieville,marieville
+Canada,canada,CA,Quebec,quebec,Mascouche,mascouche
+Canada,canada,CA,Quebec,quebec,Maskinonge,maskinonge
+Canada,canada,CA,Quebec,quebec,Matagami,matagami
+Canada,canada,CA,Quebec,quebec,Matane,matane
+Canada,canada,CA,Quebec,quebec,Mauricie,mauricie
+Canada,canada,CA,Quebec,quebec,Melocheville,melocheville
+Canada,canada,CA,Quebec,quebec,Mercier,mercier
+Canada,canada,CA,Quebec,quebec,Metabetchouan,metabetchouan
+Canada,canada,CA,Quebec,quebec,Metabetchouan-Lac-a-la-Croix,metabetchouan-lac-a-la-croix
+Canada,canada,CA,Quebec,quebec,Mirabel,mirabel
+Canada,canada,CA,Quebec,quebec,Mistissini,mistissini
+Canada,canada,CA,Quebec,quebec,Mont-Joli,mont-joli
+Canada,canada,CA,Quebec,quebec,Mont-Laurier,mont-laurier
+Canada,canada,CA,Quebec,quebec,Mont-Royal,mont-royal
+Canada,canada,CA,Quebec,quebec,Mont-Saint-Gregoire,mont-saint-gregoire
+Canada,canada,CA,Quebec,quebec,Mont-Saint-Hilaire,mont-saint-hilaire
+Canada,canada,CA,Quebec,quebec,Mont-Tremblant,mont-tremblant
+Canada,canada,CA,Quebec,quebec,Montmagny,montmagny
+Canada,canada,CA,Quebec,quebec,Montreal,montreal
+Canada,canada,CA,Quebec,quebec,Montreal-Est,montreal-est
+Canada,canada,CA,Quebec,quebec,Montreal-Ouest,montreal-ouest
+Canada,canada,CA,Quebec,quebec,Morin-Heights,morin-heights
+Canada,canada,CA,Quebec,quebec,Napierville,napierville
+Canada,canada,CA,Quebec,quebec,Neuville,neuville
+Canada,canada,CA,Quebec,quebec,New Carlisle,new-carlisle
+Canada,canada,CA,Quebec,quebec,New-Richmond,new-richmond
+Canada,canada,CA,Quebec,quebec,Nicolet,nicolet
+Canada,canada,CA,Quebec,quebec,Nord-du-Quebec,nord-du-quebec
+Canada,canada,CA,Quebec,quebec,Normandin,normandin
+Canada,canada,CA,Quebec,quebec,Notre-Dame-de-Grace,notre-dame-de-grace
+Canada,canada,CA,Quebec,quebec,Notre-Dame-de-l'Ile-Perrot,notre-dame-de-lile-perrot
+Canada,canada,CA,Quebec,quebec,Notre-Dame-des-Prairies,notre-dame-des-prairies
+Canada,canada,CA,Quebec,quebec,Notre-Dame-du-Lac,notre-dame-du-lac
+Canada,canada,CA,Quebec,quebec,Notre-Dame-du-Mont-Carmel,notre-dame-du-mont-carmel
+Canada,canada,CA,Quebec,quebec,Oka,oka
+Canada,canada,CA,Quebec,quebec,Ormstown,ormstown
+Canada,canada,CA,Quebec,quebec,Otterburn Park,otterburn-park
+Canada,canada,CA,Quebec,quebec,Outaouais,outaouais
+Canada,canada,CA,Quebec,quebec,Papineauville,papineauville
+Canada,canada,CA,Quebec,quebec,Parc-Boutin,parc-boutin
+Canada,canada,CA,Quebec,quebec,Piedmont,piedmont
+Canada,canada,CA,Quebec,quebec,Pierreville,pierreville
+Canada,canada,CA,Quebec,quebec,Pincourt,pincourt
+Canada,canada,CA,Quebec,quebec,Plessisville,plessisville
+Canada,canada,CA,Quebec,quebec,Pohenegamook,pohenegamook
+Canada,canada,CA,Quebec,quebec,Pointe-Calumet,pointe-calumet
+Canada,canada,CA,Quebec,quebec,Pointe-Claire,pointe-claire
+Canada,canada,CA,Quebec,quebec,Pointe-du-Lac,pointe-du-lac
+Canada,canada,CA,Quebec,quebec,Pont Rouge,pont-rouge
+Canada,canada,CA,Quebec,quebec,Pont-Rouge,pont-rouge
+Canada,canada,CA,Quebec,quebec,Port-Cartier,port-cartier
+Canada,canada,CA,Quebec,quebec,Portneuf,portneuf
+Canada,canada,CA,Quebec,quebec,Prevost,prevost
+Canada,canada,CA,Quebec,quebec,Princeville,princeville
+Canada,canada,CA,Quebec,quebec,Quebec,quebec
+Canada,canada,CA,Quebec,quebec,Rawdon,rawdon
+Canada,canada,CA,Quebec,quebec,Repentigny,repentigny
+Canada,canada,CA,Quebec,quebec,Richelieu,richelieu
+Canada,canada,CA,Quebec,quebec,Richmond,richmond
+Canada,canada,CA,Quebec,quebec,Rigaud,rigaud
+Canada,canada,CA,Quebec,quebec,Rimouski,rimouski
+Canada,canada,CA,Quebec,quebec,Riviere-du-Loup,riviere-du-loup
+Canada,canada,CA,Quebec,quebec,Riviere-Rouge,riviere-rouge
+Canada,canada,CA,Quebec,quebec,Roberval,roberval
+Canada,canada,CA,Quebec,quebec,Rock Forest,rock-forest
+Canada,canada,CA,Quebec,quebec,Rosemere,rosemere
+Canada,canada,CA,Quebec,quebec,Rougemont,rougemont
+Canada,canada,CA,Quebec,quebec,Rouyn-Noranda,rouyn-noranda
+Canada,canada,CA,Quebec,quebec,Sacre-Coeur,sacre-coeur
+Canada,canada,CA,Quebec,quebec,Saguenay,saguenay
+Canada,canada,CA,Quebec,quebec,Saint-Adolphe-d'Howard,saint-adolphe-dhoward
+Canada,canada,CA,Quebec,quebec,Saint-Alexandre,saint-alexandre
+Canada,canada,CA,Quebec,quebec,Saint-Amable,saint-amable
+Canada,canada,CA,Quebec,quebec,Saint-Ambroise,saint-ambroise
+Canada,canada,CA,Quebec,quebec,Saint-Andre-Avellin,saint-andre-avellin
+Canada,canada,CA,Quebec,quebec,Saint-Anselme,saint-anselme
+Canada,canada,CA,Quebec,quebec,Saint-Antoine-de-Tilly,saint-antoine-de-tilly
+Canada,canada,CA,Quebec,quebec,Saint-Augustin,saint-augustin
+Canada,canada,CA,Quebec,quebec,Saint-Augustin-de-Desmaures,saint-augustin-de-desmaures
+Canada,canada,CA,Quebec,quebec,Saint-Barnabe-Sud,saint-barnabe-sud
+Canada,canada,CA,Quebec,quebec,Saint-Basile-le-Grand,saint-basile-le-grand
+Canada,canada,CA,Quebec,quebec,Saint-Boniface,saint-boniface
+Canada,canada,CA,Quebec,quebec,Saint-Bruno,saint-bruno
+Canada,canada,CA,Quebec,quebec,Saint-Bruno-de-Guigues,saint-bruno-de-guigues
+Canada,canada,CA,Quebec,quebec,Saint-Bruno-de-Montarville,saint-bruno-de-montarville
+Canada,canada,CA,Quebec,quebec,Saint-Canut,saint-canut
+Canada,canada,CA,Quebec,quebec,Saint-Cesaire,saint-cesaire
+Canada,canada,CA,Quebec,quebec,Saint-Charles,saint-charles
+Canada,canada,CA,Quebec,quebec,Saint-Come--Liniere,saint-come-liniere
+Canada,canada,CA,Quebec,quebec,Saint-Constant,saint-constant
+Canada,canada,CA,Quebec,quebec,Saint-Cyrille-de-Wendover,saint-cyrille-de-wendover
+Canada,canada,CA,Quebec,quebec,Saint-Damase,saint-damase
+Canada,canada,CA,Quebec,quebec,Saint-Denis-sur-Richelieu,saint-denis-sur-richelieu
+Canada,canada,CA,Quebec,quebec,Saint-Donat-de-Montcalm,saint-donat-de-montcalm
+Canada,canada,CA,Quebec,quebec,Saint-Edouard,saint-edouard
+Canada,canada,CA,Quebec,quebec,Saint-Elzear,saint-elzear
+Canada,canada,CA,Quebec,quebec,Saint-Ephrem-de-Beauce,saint-ephrem-de-beauce
+Canada,canada,CA,Quebec,quebec,Saint-Eustache,saint-eustache
+Canada,canada,CA,Quebec,quebec,Saint-Felicien,saint-felicien
+Canada,canada,CA,Quebec,quebec,Saint-Felix-de-Valois,saint-felix-de-valois
+Canada,canada,CA,Quebec,quebec,Saint-Gabriel,saint-gabriel
+Canada,canada,CA,Quebec,quebec,Saint-Gedeon,saint-gedeon
+Canada,canada,CA,Quebec,quebec,Saint-Georges,saint-georges
+Canada,canada,CA,Quebec,quebec,Saint-Germain-de-Grantham,saint-germain-de-grantham
+Canada,canada,CA,Quebec,quebec,Saint-Henri,saint-henri
+Canada,canada,CA,Quebec,quebec,Saint-Hippolyte,saint-hippolyte
+Canada,canada,CA,Quebec,quebec,Saint-Honore,saint-honore
+Canada,canada,CA,Quebec,quebec,Saint-Hyacinthe,saint-hyacinthe
+Canada,canada,CA,Quebec,quebec,Saint-Isidore,saint-isidore
+Canada,canada,CA,Quebec,quebec,Saint-Jacques-le-Mineur,saint-jacques-le-mineur
+Canada,canada,CA,Quebec,quebec,Saint-Jean-Baptiste,saint-jean-baptiste
+Canada,canada,CA,Quebec,quebec,Saint-Jean-sur-Richelieu,saint-jean-sur-richelieu
+Canada,canada,CA,Quebec,quebec,Saint-Jerome,saint-jerome
+Canada,canada,CA,Quebec,quebec,Saint-Joseph,saint-joseph
+Canada,canada,CA,Quebec,quebec,Saint-Joseph-de-Beauce,saint-joseph-de-beauce
+Canada,canada,CA,Quebec,quebec,Saint-Joseph-de-Coleraine,saint-joseph-de-coleraine
+Canada,canada,CA,Quebec,quebec,Saint-Joseph-du-Lac,saint-joseph-du-lac
+Canada,canada,CA,Quebec,quebec,Saint-Lambert-de-Lauzon,saint-lambert-de-lauzon
+Canada,canada,CA,Quebec,quebec,Saint-Laurent,saint-laurent
+Canada,canada,CA,Quebec,quebec,Saint-Lazare,saint-lazare
+Canada,canada,CA,Quebec,quebec,Saint-Leonard,saint-leonard
+Canada,canada,CA,Quebec,quebec,Saint-Leonard-d'Aston,saint-leonard-daston
+Canada,canada,CA,Quebec,quebec,Saint-Liboire,saint-liboire
+Canada,canada,CA,Quebec,quebec,Saint-Lin-Laurentides,saint-lin-laurentides
+Canada,canada,CA,Quebec,quebec,Saint-Marc-des-Carrieres,saint-marc-des-carrieres
+Canada,canada,CA,Quebec,quebec,Saint-Mathieu,saint-mathieu
+Canada,canada,CA,Quebec,quebec,Saint-Michel,saint-michel
+Canada,canada,CA,Quebec,quebec,Saint-Michel-des-Saints,saint-michel-des-saints
+Canada,canada,CA,Quebec,quebec,Saint-Nazaire,saint-nazaire
+Canada,canada,CA,Quebec,quebec,Saint-Norbert,saint-norbert
+Canada,canada,CA,Quebec,quebec,Saint-Pacome,saint-pacome
+Canada,canada,CA,Quebec,quebec,Saint-Pascal,saint-pascal
+Canada,canada,CA,Quebec,quebec,Saint-Philippe-de-La Prairie,saint-philippe-de-la-prairie
+Canada,canada,CA,Quebec,quebec,Saint-Pie,saint-pie
+Canada,canada,CA,Quebec,quebec,Saint-Pierre-les-Becquets,saint-pierre-les-becquets
+Canada,canada,CA,Quebec,quebec,Saint-Prime,saint-prime
+Canada,canada,CA,Quebec,quebec,Saint-Raphael,saint-raphael
+Canada,canada,CA,Quebec,quebec,Saint-Raymond,saint-raymond
+Canada,canada,CA,Quebec,quebec,Saint-Remi,saint-remi
+Canada,canada,CA,Quebec,quebec,Saint-Remi-de-Tingwick,saint-remi-de-tingwick
+Canada,canada,CA,Quebec,quebec,Saint-Sauveur,saint-sauveur
+Canada,canada,CA,Quebec,quebec,Saint-Sauveur-des-Monts,saint-sauveur-des-monts
+Canada,canada,CA,Quebec,quebec,Saint-Simeon,saint-simeon
+Canada,canada,CA,Quebec,quebec,Saint-Thomas,saint-thomas
+Canada,canada,CA,Quebec,quebec,Saint-Tite,saint-tite
+Canada,canada,CA,Quebec,quebec,Saint-Victor,saint-victor
+Canada,canada,CA,Quebec,quebec,Saint-Zotique,saint-zotique
+Canada,canada,CA,Quebec,quebec,Sainte Catherine de la Jacques Cartier,sainte-catherine-de-la-jacques-cartier
+Canada,canada,CA,Quebec,quebec,Sainte-Adele,sainte-adele
+Canada,canada,CA,Quebec,quebec,Sainte-Agathe-des-Monts,sainte-agathe-des-monts
+Canada,canada,CA,Quebec,quebec,Sainte-Anne-de-Bellevue,sainte-anne-de-bellevue
+Canada,canada,CA,Quebec,quebec,Sainte-Anne-des-Monts,sainte-anne-des-monts
+Canada,canada,CA,Quebec,quebec,Sainte-Anne-des-Plaines,sainte-anne-des-plaines
+Canada,canada,CA,Quebec,quebec,Sainte-Beatrix,sainte-beatrix
+Canada,canada,CA,Quebec,quebec,Sainte-Catherine,sainte-catherine
+Canada,canada,CA,Quebec,quebec,Sainte-Croix,sainte-croix
+Canada,canada,CA,Quebec,quebec,Sainte-Elisabeth,sainte-elisabeth
+Canada,canada,CA,Quebec,quebec,Sainte-Julie,sainte-julie
+Canada,canada,CA,Quebec,quebec,Sainte-Julienne,sainte-julienne
+Canada,canada,CA,Quebec,quebec,Sainte-Madeleine,sainte-madeleine
+Canada,canada,CA,Quebec,quebec,Sainte-Marie,sainte-marie
+Canada,canada,CA,Quebec,quebec,Sainte-Marthe-sur-le-Lac,sainte-marthe-sur-le-lac
+Canada,canada,CA,Quebec,quebec,Sainte-Martine,sainte-martine
+Canada,canada,CA,Quebec,quebec,Sainte-Sophie,sainte-sophie
+Canada,canada,CA,Quebec,quebec,Sainte-Thecle,sainte-thecle
+Canada,canada,CA,Quebec,quebec,Sainte-Therese,sainte-therese
+Canada,canada,CA,Quebec,quebec,Salaberry-de-Valleyfield,salaberry-de-valleyfield
+Canada,canada,CA,Quebec,quebec,Salluit,salluit
+Canada,canada,CA,Quebec,quebec,Senneterre,senneterre
+Canada,canada,CA,Quebec,quebec,Sept-Iles,sept-iles
+Canada,canada,CA,Quebec,quebec,Shannon,shannon
+Canada,canada,CA,Quebec,quebec,Shawinigan,shawinigan
+Canada,canada,CA,Quebec,quebec,Shawville,shawville
+Canada,canada,CA,Quebec,quebec,Sherbrooke,sherbrooke
+Canada,canada,CA,Quebec,quebec,Sorel-Tracy,sorel-tracy
+Canada,canada,CA,Quebec,quebec,St-Jean-Port-Joli,st-jean-port-joli
+Canada,canada,CA,Quebec,quebec,Sutton,sutton
+Canada,canada,CA,Quebec,quebec,Temiscaming,temiscaming
+Canada,canada,CA,Quebec,quebec,Terrasse-des-Pins,terrasse-des-pins
+Canada,canada,CA,Quebec,quebec,Terrebonne,terrebonne
+Canada,canada,CA,Quebec,quebec,Thetford-Mines,thetford-mines
+Canada,canada,CA,Quebec,quebec,Thurso,thurso
+Canada,canada,CA,Quebec,quebec,Trois-Rivieres,trois-rivieres
+Canada,canada,CA,Quebec,quebec,Val-d'Or,val-dor
+Canada,canada,CA,Quebec,quebec,Val-David,val-david
+Canada,canada,CA,Quebec,quebec,Val-des-Monts,val-des-monts
+Canada,canada,CA,Quebec,quebec,Val-Morin,val-morin
+Canada,canada,CA,Quebec,quebec,Valcourt,valcourt
+Canada,canada,CA,Quebec,quebec,Vallee-Jonction,vallee-jonction
+Canada,canada,CA,Quebec,quebec,Varennes,varennes
+Canada,canada,CA,Quebec,quebec,Vaudreuil-Dorion,vaudreuil-dorion
+Canada,canada,CA,Quebec,quebec,Venise-en-Quebec,venise-en-quebec
+Canada,canada,CA,Quebec,quebec,Vercheres,vercheres
+Canada,canada,CA,Quebec,quebec,Victoriaville,victoriaville
+Canada,canada,CA,Quebec,quebec,Ville-Marie,ville-marie
+Canada,canada,CA,Quebec,quebec,Wakefield,wakefield
+Canada,canada,CA,Quebec,quebec,Warwick,warwick
+Canada,canada,CA,Quebec,quebec,Waskaganish,waskaganish
+Canada,canada,CA,Quebec,quebec,Waswanipi,waswanipi
+Canada,canada,CA,Quebec,quebec,Waterloo,waterloo
+Canada,canada,CA,Quebec,quebec,Weedon Centre,weedon-centre
+Canada,canada,CA,Quebec,quebec,Westmount,westmount
+Canada,canada,CA,Quebec,quebec,Weymontachie,weymontachie
+Canada,canada,CA,Quebec,quebec,Windsor,windsor
+Canada,canada,CA,Quebec,quebec,Yamachiche,yamachiche
+Canada,canada,CA,Saskatchewan,saskatchewan,Assiniboia,assiniboia
+Canada,canada,CA,Saskatchewan,saskatchewan,Biggar,biggar
+Canada,canada,CA,Saskatchewan,saskatchewan,Canora,canora
+Canada,canada,CA,Saskatchewan,saskatchewan,Carlyle,carlyle
+Canada,canada,CA,Saskatchewan,saskatchewan,Dalmeny,dalmeny
+Canada,canada,CA,Saskatchewan,saskatchewan,Esterhazy,esterhazy
+Canada,canada,CA,Saskatchewan,saskatchewan,Estevan,estevan
+Canada,canada,CA,Saskatchewan,saskatchewan,Foam Lake,foam-lake
+Canada,canada,CA,Saskatchewan,saskatchewan,Gravelbourg,gravelbourg
+Canada,canada,CA,Saskatchewan,saskatchewan,Hudson Bay,hudson-bay
+Canada,canada,CA,Saskatchewan,saskatchewan,Humboldt,humboldt
+Canada,canada,CA,Saskatchewan,saskatchewan,Indian Head,indian-head
+Canada,canada,CA,Saskatchewan,saskatchewan,Kamsack,kamsack
+Canada,canada,CA,Saskatchewan,saskatchewan,Kerrobert,kerrobert
+Canada,canada,CA,Saskatchewan,saskatchewan,Kindersley,kindersley
+Canada,canada,CA,Saskatchewan,saskatchewan,La Ronge,la-ronge
+Canada,canada,CA,Saskatchewan,saskatchewan,Langenburg,langenburg
+Canada,canada,CA,Saskatchewan,saskatchewan,Langham,langham
+Canada,canada,CA,Saskatchewan,saskatchewan,Lanigan,lanigan
+Canada,canada,CA,Saskatchewan,saskatchewan,Lumsden,lumsden
+Canada,canada,CA,Saskatchewan,saskatchewan,Macklin,macklin
+Canada,canada,CA,Saskatchewan,saskatchewan,Maple Creek,maple-creek
+Canada,canada,CA,Saskatchewan,saskatchewan,Martensville,martensville
+Canada,canada,CA,Saskatchewan,saskatchewan,Meadow Lake,meadow-lake
+Canada,canada,CA,Saskatchewan,saskatchewan,Melfort,melfort
+Canada,canada,CA,Saskatchewan,saskatchewan,Melville,melville
+Canada,canada,CA,Saskatchewan,saskatchewan,Moose Jaw,moose-jaw
+Canada,canada,CA,Saskatchewan,saskatchewan,Moosomin,moosomin
+Canada,canada,CA,Saskatchewan,saskatchewan,Nipawin,nipawin
+Canada,canada,CA,Saskatchewan,saskatchewan,North Battleford,north-battleford
+Canada,canada,CA,Saskatchewan,saskatchewan,Outlook,outlook
+Canada,canada,CA,Saskatchewan,saskatchewan,Oxbow,oxbow
+Canada,canada,CA,Saskatchewan,saskatchewan,Pelican Narrows,pelican-narrows
+Canada,canada,CA,Saskatchewan,saskatchewan,Pilot Butte,pilot-butte
+Canada,canada,CA,Saskatchewan,saskatchewan,Preeceville,preeceville
+Canada,canada,CA,Saskatchewan,saskatchewan,Prince Albert,prince-albert
+Canada,canada,CA,Saskatchewan,saskatchewan,Regina,regina
+Canada,canada,CA,Saskatchewan,saskatchewan,Regina Beach,regina-beach
+Canada,canada,CA,Saskatchewan,saskatchewan,Rosetown,rosetown
+Canada,canada,CA,Saskatchewan,saskatchewan,Rosthern,rosthern
+Canada,canada,CA,Saskatchewan,saskatchewan,Saskatoon,saskatoon
+Canada,canada,CA,Saskatchewan,saskatchewan,Shaunavon,shaunavon
+Canada,canada,CA,Saskatchewan,saskatchewan,Shellbrook,shellbrook
+Canada,canada,CA,Saskatchewan,saskatchewan,Swift Current,swift-current
+Canada,canada,CA,Saskatchewan,saskatchewan,Tisdale,tisdale
+Canada,canada,CA,Saskatchewan,saskatchewan,Unity,unity
+Canada,canada,CA,Saskatchewan,saskatchewan,Wadena,wadena
+Canada,canada,CA,Saskatchewan,saskatchewan,Warman,warman
+Canada,canada,CA,Saskatchewan,saskatchewan,Watrous,watrous
+Canada,canada,CA,Saskatchewan,saskatchewan,Weyburn,weyburn
+Canada,canada,CA,Saskatchewan,saskatchewan,White City,white-city
+Canada,canada,CA,Saskatchewan,saskatchewan,Wilkie,wilkie
+Canada,canada,CA,Saskatchewan,saskatchewan,Wynyard,wynyard
+Canada,canada,CA,Saskatchewan,saskatchewan,Yorkton,yorkton
+Canada,canada,CA,Yukon,yukon,Dawson City,dawson-city
+Canada,canada,CA,Yukon,yukon,Haines Junction,haines-junction
+Canada,canada,CA,Yukon,yukon,Watson Lake,watson-lake
+Canada,canada,CA,Yukon,yukon,Whitehorse,whitehorse

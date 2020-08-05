@@ -1,72 +1,72 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Sudan,SD,Al Jazirah,al-jazirah,Al Hasaheisa,al-hasaheisa
-Sudan,SD,Al Jazirah,al-jazirah,Al Hilaliyya,al-hilaliyya
-Sudan,SD,Al Jazirah,al-jazirah,Al Kiremit al Arakiyyin,al-kiremit-al-arakiyyin
-Sudan,SD,Al Jazirah,al-jazirah,Al Manaqil,al-manaqil
-Sudan,SD,Al Jazirah,al-jazirah,Al Masallamiyya,al-masallamiyya
-Sudan,SD,Al Jazirah,al-jazirah,Wad Medani,wad-medani
-Sudan,SD,Al Jazirah,al-jazirah,Wad Rawah,wad-rawah
-Sudan,SD,Al Qadarif,al-qadarif,Al Hawatah,al-hawatah
-Sudan,SD,Al Qadarif,al-qadarif,Al Qadarif,al-qadarif
-Sudan,SD,Al Qadarif,al-qadarif,Doka,doka
-Sudan,SD,Blue Nile,blue-nile,Ad-Damazin,ad-damazin
-Sudan,SD,Blue Nile,blue-nile,Ar Ruseris,ar-ruseris
-Sudan,SD,Blue Nile,blue-nile,Kurmuk,kurmuk
-Sudan,SD,Central Darfur,central-darfur,Zalingei,zalingei
-Sudan,SD,East Darfur,east-darfur,El Daein,el-daein
-Sudan,SD,Kassala,kassala,Aroma,aroma
-Sudan,SD,Kassala,kassala,Kassala,kassala
-Sudan,SD,Kassala,kassala,Wagar,wagar
-Sudan,SD,Khartoum,khartoum,Khartoum,khartoum
-Sudan,SD,Khartoum,khartoum,Omdurman,omdurman
-Sudan,SD,North Darfur,north-darfur,El Fasher,el-fasher
-Sudan,SD,North Darfur,north-darfur,Kutum,kutum
-Sudan,SD,North Darfur,north-darfur,Umm Kaddadah,umm-kaddadah
-Sudan,SD,North Kordofan,north-kordofan,Ar Rahad,ar-rahad
-Sudan,SD,North Kordofan,north-kordofan,Barah,barah
-Sudan,SD,North Kordofan,north-kordofan,El Obeid,el-obeid
-Sudan,SD,North Kordofan,north-kordofan,Umm Ruwaba,umm-ruwaba
-Sudan,SD,Northern,northern,Ad Dabbah,ad-dabbah
-Sudan,SD,Northern,northern,Argo,argo
-Sudan,SD,Northern,northern,Dongola,dongola
-Sudan,SD,Northern,northern,Karmah an Nuzul,karmah-an-nuzul
-Sudan,SD,Northern,northern,Kuraymah,kuraymah
-Sudan,SD,Northern,northern,Merowe,merowe
-Sudan,SD,Red Sea,red-sea,Gebeit,gebeit
-Sudan,SD,Red Sea,red-sea,Port Sudan,port-sudan
-Sudan,SD,Red Sea,red-sea,Sawakin,sawakin
-Sudan,SD,Red Sea,red-sea,Tokar,tokar
-Sudan,SD,River Nile,river-nile,Atbara,atbara
-Sudan,SD,River Nile,river-nile,Berber,berber
-Sudan,SD,River Nile,river-nile,Ed Damer,ed-damer
-Sudan,SD,River Nile,river-nile,El Bauga,el-bauga
-Sudan,SD,River Nile,river-nile,El Matama,el-matama
-Sudan,SD,River Nile,river-nile,Shendi,shendi
-Sudan,SD,Sennar,sennar,Ad Dindar,ad-dindar
-Sudan,SD,Sennar,sennar,As Suki,as-suki
-Sudan,SD,Sennar,sennar,Jalqani,jalqani
-Sudan,SD,Sennar,sennar,Kinana,kinana
-Sudan,SD,Sennar,sennar,Maiurno,maiurno
-Sudan,SD,Sennar,sennar,Singa,singa
-Sudan,SD,Sennar,sennar,Sinnar,sinnar
-Sudan,SD,South Darfur,south-darfur,Gereida,gereida
-Sudan,SD,South Darfur,south-darfur,Nyala,nyala
-Sudan,SD,South Kordofan,south-kordofan,Abu Jibeha,abu-jibeha
-Sudan,SD,South Kordofan,south-kordofan,Al Fulah,al-fulah
-Sudan,SD,South Kordofan,south-kordofan,Dilling,dilling
-Sudan,SD,South Kordofan,south-kordofan,Kadugli,kadugli
-Sudan,SD,South Kordofan,south-kordofan,Talodi,talodi
-Sudan,SD,West Darfur,west-darfur,Geneina,geneina
-Sudan,SD,West Kordofan,west-kordofan,Abu Zabad,abu-zabad
-Sudan,SD,West Kordofan,west-kordofan,Al Lagowa,al-lagowa
-Sudan,SD,West Kordofan,west-kordofan,Al Mijlad,al-mijlad
-Sudan,SD,West Kordofan,west-kordofan,An Nuhud,an-nuhud
-Sudan,SD,White Nile,white-nile,Ad Douiem,ad-douiem
-Sudan,SD,White Nile,white-nile,Al Kawa,al-kawa
-Sudan,SD,White Nile,white-nile,Al Qitena,al-qitena
-Sudan,SD,White Nile,white-nile,Kosti,kosti
-Sudan,SD,White Nile,white-nile,Marabba,marabba
-Sudan,SD,White Nile,white-nile,Rabak,rabak
-Sudan,SD,White Nile,white-nile,Tandalti,tandalti
-Sudan,SD,White Nile,white-nile,Um Jar Al Gharbiyya,um-jar-al-gharbiyya
-Sudan,SD,White Nile,white-nile,Wad az Zaki,wad-az-zaki
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Sudan,sudan,SD,Al Jazirah,al-jazirah,Al Hasaheisa,al-hasaheisa
+Sudan,sudan,SD,Al Jazirah,al-jazirah,Al Hilaliyya,al-hilaliyya
+Sudan,sudan,SD,Al Jazirah,al-jazirah,Al Kiremit al Arakiyyin,al-kiremit-al-arakiyyin
+Sudan,sudan,SD,Al Jazirah,al-jazirah,Al Manaqil,al-manaqil
+Sudan,sudan,SD,Al Jazirah,al-jazirah,Al Masallamiyya,al-masallamiyya
+Sudan,sudan,SD,Al Jazirah,al-jazirah,Wad Medani,wad-medani
+Sudan,sudan,SD,Al Jazirah,al-jazirah,Wad Rawah,wad-rawah
+Sudan,sudan,SD,Al Qadarif,al-qadarif,Al Hawatah,al-hawatah
+Sudan,sudan,SD,Al Qadarif,al-qadarif,Al Qadarif,al-qadarif
+Sudan,sudan,SD,Al Qadarif,al-qadarif,Doka,doka
+Sudan,sudan,SD,Blue Nile,blue-nile,Ad-Damazin,ad-damazin
+Sudan,sudan,SD,Blue Nile,blue-nile,Ar Ruseris,ar-ruseris
+Sudan,sudan,SD,Blue Nile,blue-nile,Kurmuk,kurmuk
+Sudan,sudan,SD,Central Darfur,central-darfur,Zalingei,zalingei
+Sudan,sudan,SD,East Darfur,east-darfur,El Daein,el-daein
+Sudan,sudan,SD,Kassala,kassala,Aroma,aroma
+Sudan,sudan,SD,Kassala,kassala,Kassala,kassala
+Sudan,sudan,SD,Kassala,kassala,Wagar,wagar
+Sudan,sudan,SD,Khartoum,khartoum,Khartoum,khartoum
+Sudan,sudan,SD,Khartoum,khartoum,Omdurman,omdurman
+Sudan,sudan,SD,North Darfur,north-darfur,El Fasher,el-fasher
+Sudan,sudan,SD,North Darfur,north-darfur,Kutum,kutum
+Sudan,sudan,SD,North Darfur,north-darfur,Umm Kaddadah,umm-kaddadah
+Sudan,sudan,SD,North Kordofan,north-kordofan,Ar Rahad,ar-rahad
+Sudan,sudan,SD,North Kordofan,north-kordofan,Barah,barah
+Sudan,sudan,SD,North Kordofan,north-kordofan,El Obeid,el-obeid
+Sudan,sudan,SD,North Kordofan,north-kordofan,Umm Ruwaba,umm-ruwaba
+Sudan,sudan,SD,Northern,northern,Ad Dabbah,ad-dabbah
+Sudan,sudan,SD,Northern,northern,Argo,argo
+Sudan,sudan,SD,Northern,northern,Dongola,dongola
+Sudan,sudan,SD,Northern,northern,Karmah an Nuzul,karmah-an-nuzul
+Sudan,sudan,SD,Northern,northern,Kuraymah,kuraymah
+Sudan,sudan,SD,Northern,northern,Merowe,merowe
+Sudan,sudan,SD,Red Sea,red-sea,Gebeit,gebeit
+Sudan,sudan,SD,Red Sea,red-sea,Port Sudan,port-sudan
+Sudan,sudan,SD,Red Sea,red-sea,Sawakin,sawakin
+Sudan,sudan,SD,Red Sea,red-sea,Tokar,tokar
+Sudan,sudan,SD,River Nile,river-nile,Atbara,atbara
+Sudan,sudan,SD,River Nile,river-nile,Berber,berber
+Sudan,sudan,SD,River Nile,river-nile,Ed Damer,ed-damer
+Sudan,sudan,SD,River Nile,river-nile,El Bauga,el-bauga
+Sudan,sudan,SD,River Nile,river-nile,El Matama,el-matama
+Sudan,sudan,SD,River Nile,river-nile,Shendi,shendi
+Sudan,sudan,SD,Sennar,sennar,Ad Dindar,ad-dindar
+Sudan,sudan,SD,Sennar,sennar,As Suki,as-suki
+Sudan,sudan,SD,Sennar,sennar,Jalqani,jalqani
+Sudan,sudan,SD,Sennar,sennar,Kinana,kinana
+Sudan,sudan,SD,Sennar,sennar,Maiurno,maiurno
+Sudan,sudan,SD,Sennar,sennar,Singa,singa
+Sudan,sudan,SD,Sennar,sennar,Sinnar,sinnar
+Sudan,sudan,SD,South Darfur,south-darfur,Gereida,gereida
+Sudan,sudan,SD,South Darfur,south-darfur,Nyala,nyala
+Sudan,sudan,SD,South Kordofan,south-kordofan,Abu Jibeha,abu-jibeha
+Sudan,sudan,SD,South Kordofan,south-kordofan,Al Fulah,al-fulah
+Sudan,sudan,SD,South Kordofan,south-kordofan,Dilling,dilling
+Sudan,sudan,SD,South Kordofan,south-kordofan,Kadugli,kadugli
+Sudan,sudan,SD,South Kordofan,south-kordofan,Talodi,talodi
+Sudan,sudan,SD,West Darfur,west-darfur,Geneina,geneina
+Sudan,sudan,SD,West Kordofan,west-kordofan,Abu Zabad,abu-zabad
+Sudan,sudan,SD,West Kordofan,west-kordofan,Al Lagowa,al-lagowa
+Sudan,sudan,SD,West Kordofan,west-kordofan,Al Mijlad,al-mijlad
+Sudan,sudan,SD,West Kordofan,west-kordofan,An Nuhud,an-nuhud
+Sudan,sudan,SD,White Nile,white-nile,Ad Douiem,ad-douiem
+Sudan,sudan,SD,White Nile,white-nile,Al Kawa,al-kawa
+Sudan,sudan,SD,White Nile,white-nile,Al Qitena,al-qitena
+Sudan,sudan,SD,White Nile,white-nile,Kosti,kosti
+Sudan,sudan,SD,White Nile,white-nile,Marabba,marabba
+Sudan,sudan,SD,White Nile,white-nile,Rabak,rabak
+Sudan,sudan,SD,White Nile,white-nile,Tandalti,tandalti
+Sudan,sudan,SD,White Nile,white-nile,Um Jar Al Gharbiyya,um-jar-al-gharbiyya
+Sudan,sudan,SD,White Nile,white-nile,Wad az Zaki,wad-az-zaki

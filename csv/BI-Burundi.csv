@@ -1,19 +1,19 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Burundi,BI,Bubanza Province,bubanza-province,Bubanza,bubanza
-Burundi,BI,Bujumbura Mairie Province,bujumbura-mairie-province,Bujumbura,bujumbura
-Burundi,BI,Bujumbura Rural Province,bujumbura-rural-province,Bujumbura Rural Province,bujumbura-rural-province
-Burundi,BI,Bururi Province,bururi-province,Bururi,bururi
-Burundi,BI,Cankuzo Province,cankuzo-province,Cankuzo,cankuzo
-Burundi,BI,Cibitoke Province,cibitoke-province,Cibitoke,cibitoke
-Burundi,BI,Gitega Province,gitega-province,Gitega,gitega
-Burundi,BI,Karuzi Province,karuzi-province,Karuzi,karuzi
-Burundi,BI,Kayanza Province,kayanza-province,Kayanza,kayanza
-Burundi,BI,Kirundo Province,kirundo-province,Kirundo,kirundo
-Burundi,BI,Makamba Province,makamba-province,Makamba,makamba
-Burundi,BI,Muramvya Province,muramvya-province,Muramvya,muramvya
-Burundi,BI,Muyinga Province,muyinga-province,Muyinga,muyinga
-Burundi,BI,Mwaro Province,mwaro-province,Mwaro,mwaro
-Burundi,BI,Ngozi Province,ngozi-province,Ngozi,ngozi
-Burundi,BI,Rumonge Province,rumonge-province,Rumonge,rumonge
-Burundi,BI,Rutana Province,rutana-province,Rutana,rutana
-Burundi,BI,Ruyigi Province,ruyigi-province,Ruyigi,ruyigi
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Burundi,burundi,BI,Bubanza Province,bubanza-province,Bubanza,bubanza
+Burundi,burundi,BI,Bujumbura Mairie Province,bujumbura-mairie-province,Bujumbura,bujumbura
+Burundi,burundi,BI,Bujumbura Rural Province,bujumbura-rural-province,Bujumbura Rural Province,bujumbura-rural-province
+Burundi,burundi,BI,Bururi Province,bururi-province,Bururi,bururi
+Burundi,burundi,BI,Cankuzo Province,cankuzo-province,Cankuzo,cankuzo
+Burundi,burundi,BI,Cibitoke Province,cibitoke-province,Cibitoke,cibitoke
+Burundi,burundi,BI,Gitega Province,gitega-province,Gitega,gitega
+Burundi,burundi,BI,Karuzi Province,karuzi-province,Karuzi,karuzi
+Burundi,burundi,BI,Kayanza Province,kayanza-province,Kayanza,kayanza
+Burundi,burundi,BI,Kirundo Province,kirundo-province,Kirundo,kirundo
+Burundi,burundi,BI,Makamba Province,makamba-province,Makamba,makamba
+Burundi,burundi,BI,Muramvya Province,muramvya-province,Muramvya,muramvya
+Burundi,burundi,BI,Muyinga Province,muyinga-province,Muyinga,muyinga
+Burundi,burundi,BI,Mwaro Province,mwaro-province,Mwaro,mwaro
+Burundi,burundi,BI,Ngozi Province,ngozi-province,Ngozi,ngozi
+Burundi,burundi,BI,Rumonge Province,rumonge-province,Rumonge,rumonge
+Burundi,burundi,BI,Rutana Province,rutana-province,Rutana,rutana
+Burundi,burundi,BI,Ruyigi Province,ruyigi-province,Ruyigi,ruyigi

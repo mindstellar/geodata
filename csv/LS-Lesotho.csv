@@ -1,13 +1,13 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Lesotho,LS,Berea District,berea-district,Teyateyaneng,teyateyaneng
-Lesotho,LS,Butha-Buthe District,butha-buthe-district,Butha-Buthe,butha-buthe
-Lesotho,LS,Leribe District,leribe-district,Leribe,leribe
-Lesotho,LS,Leribe District,leribe-district,Maputsoe,maputsoe
-Lesotho,LS,Mafeteng District,mafeteng-district,Mafeteng,mafeteng
-Lesotho,LS,Maseru District,maseru-district,Maseru,maseru
-Lesotho,LS,Maseru District,maseru-district,Nako,nako
-Lesotho,LS,Mohale's Hoek District,mohales-hoek-district,Mohales Hoek,mohales-hoek
-Lesotho,LS,Mokhotlong District,mokhotlong-district,Mokhotlong,mokhotlong
-Lesotho,LS,Qacha's Nek District,qachas-nek-district,Qachas Nek,qachas-nek
-Lesotho,LS,Quthing District,quthing-district,Quthing,quthing
-Lesotho,LS,Thaba-Tseka District,thaba-tseka-district,Thaba-Tseka,thaba-tseka
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Lesotho,lesotho,LS,Berea District,berea-district,Teyateyaneng,teyateyaneng
+Lesotho,lesotho,LS,Butha-Buthe District,butha-buthe-district,Butha-Buthe,butha-buthe
+Lesotho,lesotho,LS,Leribe District,leribe-district,Leribe,leribe
+Lesotho,lesotho,LS,Leribe District,leribe-district,Maputsoe,maputsoe
+Lesotho,lesotho,LS,Mafeteng District,mafeteng-district,Mafeteng,mafeteng
+Lesotho,lesotho,LS,Maseru District,maseru-district,Maseru,maseru
+Lesotho,lesotho,LS,Maseru District,maseru-district,Nako,nako
+Lesotho,lesotho,LS,Mohale's Hoek District,mohales-hoek-district,Mohales Hoek,mohales-hoek
+Lesotho,lesotho,LS,Mokhotlong District,mokhotlong-district,Mokhotlong,mokhotlong
+Lesotho,lesotho,LS,Qacha's Nek District,qachas-nek-district,Qachas Nek,qachas-nek
+Lesotho,lesotho,LS,Quthing District,quthing-district,Quthing,quthing
+Lesotho,lesotho,LS,Thaba-Tseka District,thaba-tseka-district,Thaba-Tseka,thaba-tseka

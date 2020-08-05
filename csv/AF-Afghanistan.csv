@@ -1,93 +1,93 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Afghanistan,AF,Badakhshan,badakhshan,Ashkasham,ashkasham
-Afghanistan,AF,Badakhshan,badakhshan,Fayzabad,fayzabad
-Afghanistan,AF,Badakhshan,badakhshan,Jurm,jurm
-Afghanistan,AF,Badakhshan,badakhshan,Khandud,khandud
-Afghanistan,AF,Badakhshan,badakhshan,Raghistan,raghistan
-Afghanistan,AF,Badakhshan,badakhshan,Wakhan,wakhan
-Afghanistan,AF,Badghis,badghis,Ghormach,ghormach
-Afghanistan,AF,Badghis,badghis,Qala i Naw,qala-i-naw
-Afghanistan,AF,Baghlan,baghlan,Baghlan,baghlan
-Afghanistan,AF,Baghlan,baghlan,Hukumati Dahanah-ye Ghori,hukumati-dahanah-ye-ghori
-Afghanistan,AF,Baghlan,baghlan,Nahrin,nahrin
-Afghanistan,AF,Baghlan,baghlan,Pul-e Khumri,pul-e-khumri
-Afghanistan,AF,Balkh,balkh,Balkh,balkh
-Afghanistan,AF,Balkh,balkh,Dowlatabad,dowlatabad
-Afghanistan,AF,Balkh,balkh,Khulm,khulm
-Afghanistan,AF,Balkh,balkh,Lab-Sar,lab-sar
-Afghanistan,AF,Balkh,balkh,Mazar-e Sharif,mazar-e-sharif
-Afghanistan,AF,Balkh,balkh,Qarchi Gak,qarchi-gak
-Afghanistan,AF,Bamyan,bamyan,Bamyan,bamyan
-Afghanistan,AF,Bamyan,bamyan,Panjab,panjab
-Afghanistan,AF,Daykundi,daykundi,Nili,nili
-Afghanistan,AF,Farah,farah,Farah,farah
-Afghanistan,AF,Faryab,faryab,Andkhoy,andkhoy
-Afghanistan,AF,Faryab,faryab,Maymana,maymana
-Afghanistan,AF,Ghazni,ghazni,Ghazni,ghazni
-Afghanistan,AF,Ghor,ghor,Fayroz Koh,fayroz-koh
-Afghanistan,AF,Ghor,ghor,Shahrak,shahrak
-Afghanistan,AF,Helmand,helmand,Alaqahdari Dishu,alaqahdari-dishu
-Afghanistan,AF,Helmand,helmand,Gereshk,gereshk
-Afghanistan,AF,Helmand,helmand,Lashkar Gah,lashkar-gah
-Afghanistan,AF,Helmand,helmand,Markaz-e Hukumat-e Darweshan,markaz-e-hukumat-e-darweshan
-Afghanistan,AF,Helmand,helmand,Sangin,sangin
-Afghanistan,AF,Herat,herat,Chahar Burj,chahar-burj
-Afghanistan,AF,Herat,herat,Ghoriyan,ghoriyan
-Afghanistan,AF,Herat,herat,Herat,herat
-Afghanistan,AF,Herat,herat,Kafir Qala,kafir-qala
-Afghanistan,AF,Herat,herat,Karukh,karukh
-Afghanistan,AF,Herat,herat,Kuhsan,kuhsan
-Afghanistan,AF,Herat,herat,Kushk,kushk
-Afghanistan,AF,Herat,herat,Qarah Bagh,qarah-bagh
-Afghanistan,AF,Herat,herat,Shindand,shindand
-Afghanistan,AF,Herat,herat,Tir Pul,tir-pul
-Afghanistan,AF,Herat,herat,Zindah Jan,zindah-jan
-Afghanistan,AF,Jowzjan,jowzjan,Aqchah,aqchah
-Afghanistan,AF,Jowzjan,jowzjan,Darzab,darzab
-Afghanistan,AF,Jowzjan,jowzjan,Qarqin,qarqin
-Afghanistan,AF,Jowzjan,jowzjan,Shibirghan,shibirghan
-Afghanistan,AF,Kabul,kabul,Kabul,kabul
-Afghanistan,AF,Kabul,kabul,Mir Bachah Kot,mir-bachah-kot
-Afghanistan,AF,Kabul,kabul,Paghman,paghman
-Afghanistan,AF,Kandahar,kandahar,Kandahar,kandahar
-Afghanistan,AF,Kapisa,kapisa,Sidqabad,sidqabad
-Afghanistan,AF,Khost,khost,Khost,khost
-Afghanistan,AF,Kunar,kunar,Asadabad,asadabad
-Afghanistan,AF,Kunar,kunar,Asmar,asmar
-Afghanistan,AF,Kunduz Province,kunduz-province,Dasht-e Archi,dasht-e-archi
-Afghanistan,AF,Kunduz Province,kunduz-province,Imam Sahib,imam-sahib
-Afghanistan,AF,Kunduz Province,kunduz-province,Khanabad,khanabad
-Afghanistan,AF,Kunduz Province,kunduz-province,Kunduz,kunduz
-Afghanistan,AF,Kunduz Province,kunduz-province,Qarawul,qarawul
-Afghanistan,AF,Laghman,laghman,Mehtar Lam,mehtar-lam
-Afghanistan,AF,Logar,logar,Baraki Barak,baraki-barak
-Afghanistan,AF,Logar,logar,Hukumati Azrah,hukumati-azrah
-Afghanistan,AF,Logar,logar,Pul-e Alam,pul-e-alam
-Afghanistan,AF,Nangarhar,nangarhar,Basawul,basawul
-Afghanistan,AF,Nangarhar,nangarhar,Jalalabad,jalalabad
-Afghanistan,AF,Nangarhar,nangarhar,Markaz-e Woluswali-ye Achin,markaz-e-woluswali-ye-achin
-Afghanistan,AF,Nimruz,nimruz,Khash,khash
-Afghanistan,AF,Nimruz,nimruz,Mirabad,mirabad
-Afghanistan,AF,Nimruz,nimruz,Rudbar,rudbar
-Afghanistan,AF,Nimruz,nimruz,Zaranj,zaranj
-Afghanistan,AF,Nuristan,nuristan,Parun,parun
-Afghanistan,AF,Paktia,paktia,Gardez,gardez
-Afghanistan,AF,Paktika,paktika,Sarobi,sarobi
-Afghanistan,AF,Paktika,paktika,Zarah Sharan,zarah-sharan
-Afghanistan,AF,Paktika,paktika,Zarghun Shahr,zarghun-shahr
-Afghanistan,AF,Panjshir,panjshir,Bazarak,bazarak
-Afghanistan,AF,Parwan,parwan,Charikar,charikar
-Afghanistan,AF,Parwan,parwan,Jabal os Saraj,jabal-os-saraj
-Afghanistan,AF,Samangan,samangan,Aibak,aibak
-Afghanistan,AF,Sar-e Pol,sar-e-pol,Chiras,chiras
-Afghanistan,AF,Sar-e Pol,sar-e-pol,Larkird,larkird
-Afghanistan,AF,Sar-e Pol,sar-e-pol,Qalah-ye Shahr,qalah-ye-shahr
-Afghanistan,AF,Sar-e Pol,sar-e-pol,Sang-e Charak,sang-e-charak
-Afghanistan,AF,Sar-e Pol,sar-e-pol,Sar-e Pul,sar-e-pul
-Afghanistan,AF,Sar-e Pol,sar-e-pol,Tagaw-Bay,tagaw-bay
-Afghanistan,AF,Sar-e Pol,sar-e-pol,Tukzar,tukzar
-Afghanistan,AF,Takhar,takhar,Art Khwajah,art-khwajah
-Afghanistan,AF,Takhar,takhar,Taloqan,taloqan
-Afghanistan,AF,Urozgan,urozgan,Tarinkot,tarinkot
-Afghanistan,AF,Urozgan,urozgan,Uruzgan,uruzgan
-Afghanistan,AF,Zabul,zabul,Qalat,qalat
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Afghanistan,afghanistan,AF,Badakhshan,badakhshan,Ashkasham,ashkasham
+Afghanistan,afghanistan,AF,Badakhshan,badakhshan,Fayzabad,fayzabad
+Afghanistan,afghanistan,AF,Badakhshan,badakhshan,Jurm,jurm
+Afghanistan,afghanistan,AF,Badakhshan,badakhshan,Khandud,khandud
+Afghanistan,afghanistan,AF,Badakhshan,badakhshan,Raghistan,raghistan
+Afghanistan,afghanistan,AF,Badakhshan,badakhshan,Wakhan,wakhan
+Afghanistan,afghanistan,AF,Badghis,badghis,Ghormach,ghormach
+Afghanistan,afghanistan,AF,Badghis,badghis,Qala i Naw,qala-i-naw
+Afghanistan,afghanistan,AF,Baghlan,baghlan,Baghlan,baghlan
+Afghanistan,afghanistan,AF,Baghlan,baghlan,Hukumati Dahanah-ye Ghori,hukumati-dahanah-ye-ghori
+Afghanistan,afghanistan,AF,Baghlan,baghlan,Nahrin,nahrin
+Afghanistan,afghanistan,AF,Baghlan,baghlan,Pul-e Khumri,pul-e-khumri
+Afghanistan,afghanistan,AF,Balkh,balkh,Balkh,balkh
+Afghanistan,afghanistan,AF,Balkh,balkh,Dowlatabad,dowlatabad
+Afghanistan,afghanistan,AF,Balkh,balkh,Khulm,khulm
+Afghanistan,afghanistan,AF,Balkh,balkh,Lab-Sar,lab-sar
+Afghanistan,afghanistan,AF,Balkh,balkh,Mazar-e Sharif,mazar-e-sharif
+Afghanistan,afghanistan,AF,Balkh,balkh,Qarchi Gak,qarchi-gak
+Afghanistan,afghanistan,AF,Bamyan,bamyan,Bamyan,bamyan
+Afghanistan,afghanistan,AF,Bamyan,bamyan,Panjab,panjab
+Afghanistan,afghanistan,AF,Daykundi,daykundi,Nili,nili
+Afghanistan,afghanistan,AF,Farah,farah,Farah,farah
+Afghanistan,afghanistan,AF,Faryab,faryab,Andkhoy,andkhoy
+Afghanistan,afghanistan,AF,Faryab,faryab,Maymana,maymana
+Afghanistan,afghanistan,AF,Ghazni,ghazni,Ghazni,ghazni
+Afghanistan,afghanistan,AF,Ghor,ghor,Fayroz Koh,fayroz-koh
+Afghanistan,afghanistan,AF,Ghor,ghor,Shahrak,shahrak
+Afghanistan,afghanistan,AF,Helmand,helmand,Alaqahdari Dishu,alaqahdari-dishu
+Afghanistan,afghanistan,AF,Helmand,helmand,Gereshk,gereshk
+Afghanistan,afghanistan,AF,Helmand,helmand,Lashkar Gah,lashkar-gah
+Afghanistan,afghanistan,AF,Helmand,helmand,Markaz-e Hukumat-e Darweshan,markaz-e-hukumat-e-darweshan
+Afghanistan,afghanistan,AF,Helmand,helmand,Sangin,sangin
+Afghanistan,afghanistan,AF,Herat,herat,Chahar Burj,chahar-burj
+Afghanistan,afghanistan,AF,Herat,herat,Ghoriyan,ghoriyan
+Afghanistan,afghanistan,AF,Herat,herat,Herat,herat
+Afghanistan,afghanistan,AF,Herat,herat,Kafir Qala,kafir-qala
+Afghanistan,afghanistan,AF,Herat,herat,Karukh,karukh
+Afghanistan,afghanistan,AF,Herat,herat,Kuhsan,kuhsan
+Afghanistan,afghanistan,AF,Herat,herat,Kushk,kushk
+Afghanistan,afghanistan,AF,Herat,herat,Qarah Bagh,qarah-bagh
+Afghanistan,afghanistan,AF,Herat,herat,Shindand,shindand
+Afghanistan,afghanistan,AF,Herat,herat,Tir Pul,tir-pul
+Afghanistan,afghanistan,AF,Herat,herat,Zindah Jan,zindah-jan
+Afghanistan,afghanistan,AF,Jowzjan,jowzjan,Aqchah,aqchah
+Afghanistan,afghanistan,AF,Jowzjan,jowzjan,Darzab,darzab
+Afghanistan,afghanistan,AF,Jowzjan,jowzjan,Qarqin,qarqin
+Afghanistan,afghanistan,AF,Jowzjan,jowzjan,Shibirghan,shibirghan
+Afghanistan,afghanistan,AF,Kabul,kabul,Kabul,kabul
+Afghanistan,afghanistan,AF,Kabul,kabul,Mir Bachah Kot,mir-bachah-kot
+Afghanistan,afghanistan,AF,Kabul,kabul,Paghman,paghman
+Afghanistan,afghanistan,AF,Kandahar,kandahar,Kandahar,kandahar
+Afghanistan,afghanistan,AF,Kapisa,kapisa,Sidqabad,sidqabad
+Afghanistan,afghanistan,AF,Khost,khost,Khost,khost
+Afghanistan,afghanistan,AF,Kunar,kunar,Asadabad,asadabad
+Afghanistan,afghanistan,AF,Kunar,kunar,Asmar,asmar
+Afghanistan,afghanistan,AF,Kunduz Province,kunduz-province,Dasht-e Archi,dasht-e-archi
+Afghanistan,afghanistan,AF,Kunduz Province,kunduz-province,Imam Sahib,imam-sahib
+Afghanistan,afghanistan,AF,Kunduz Province,kunduz-province,Khanabad,khanabad
+Afghanistan,afghanistan,AF,Kunduz Province,kunduz-province,Kunduz,kunduz
+Afghanistan,afghanistan,AF,Kunduz Province,kunduz-province,Qarawul,qarawul
+Afghanistan,afghanistan,AF,Laghman,laghman,Mehtar Lam,mehtar-lam
+Afghanistan,afghanistan,AF,Logar,logar,Baraki Barak,baraki-barak
+Afghanistan,afghanistan,AF,Logar,logar,Hukumati Azrah,hukumati-azrah
+Afghanistan,afghanistan,AF,Logar,logar,Pul-e Alam,pul-e-alam
+Afghanistan,afghanistan,AF,Nangarhar,nangarhar,Basawul,basawul
+Afghanistan,afghanistan,AF,Nangarhar,nangarhar,Jalalabad,jalalabad
+Afghanistan,afghanistan,AF,Nangarhar,nangarhar,Markaz-e Woluswali-ye Achin,markaz-e-woluswali-ye-achin
+Afghanistan,afghanistan,AF,Nimruz,nimruz,Khash,khash
+Afghanistan,afghanistan,AF,Nimruz,nimruz,Mirabad,mirabad
+Afghanistan,afghanistan,AF,Nimruz,nimruz,Rudbar,rudbar
+Afghanistan,afghanistan,AF,Nimruz,nimruz,Zaranj,zaranj
+Afghanistan,afghanistan,AF,Nuristan,nuristan,Parun,parun
+Afghanistan,afghanistan,AF,Paktia,paktia,Gardez,gardez
+Afghanistan,afghanistan,AF,Paktika,paktika,Sarobi,sarobi
+Afghanistan,afghanistan,AF,Paktika,paktika,Zarah Sharan,zarah-sharan
+Afghanistan,afghanistan,AF,Paktika,paktika,Zarghun Shahr,zarghun-shahr
+Afghanistan,afghanistan,AF,Panjshir,panjshir,Bazarak,bazarak
+Afghanistan,afghanistan,AF,Parwan,parwan,Charikar,charikar
+Afghanistan,afghanistan,AF,Parwan,parwan,Jabal os Saraj,jabal-os-saraj
+Afghanistan,afghanistan,AF,Samangan,samangan,Aibak,aibak
+Afghanistan,afghanistan,AF,Sar-e Pol,sar-e-pol,Chiras,chiras
+Afghanistan,afghanistan,AF,Sar-e Pol,sar-e-pol,Larkird,larkird
+Afghanistan,afghanistan,AF,Sar-e Pol,sar-e-pol,Qalah-ye Shahr,qalah-ye-shahr
+Afghanistan,afghanistan,AF,Sar-e Pol,sar-e-pol,Sang-e Charak,sang-e-charak
+Afghanistan,afghanistan,AF,Sar-e Pol,sar-e-pol,Sar-e Pul,sar-e-pul
+Afghanistan,afghanistan,AF,Sar-e Pol,sar-e-pol,Tagaw-Bay,tagaw-bay
+Afghanistan,afghanistan,AF,Sar-e Pol,sar-e-pol,Tukzar,tukzar
+Afghanistan,afghanistan,AF,Takhar,takhar,Art Khwajah,art-khwajah
+Afghanistan,afghanistan,AF,Takhar,takhar,Taloqan,taloqan
+Afghanistan,afghanistan,AF,Urozgan,urozgan,Tarinkot,tarinkot
+Afghanistan,afghanistan,AF,Urozgan,urozgan,Uruzgan,uruzgan
+Afghanistan,afghanistan,AF,Zabul,zabul,Qalat,qalat

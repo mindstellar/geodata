@@ -1,36 +1,36 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Montenegro,ME,Andrijevica Municipality,andrijevica-municipality,Andrijevica,andrijevica
-Montenegro,ME,Bar Municipality,bar-municipality,Bar,bar
-Montenegro,ME,Bar Municipality,bar-municipality,Stari Bar,stari-bar
-Montenegro,ME,Bar Municipality,bar-municipality,Susanj,susanj
-Montenegro,ME,Bar Municipality,bar-municipality,Sutomore,sutomore
-Montenegro,ME,Berane Municipality,berane-municipality,Berane,berane
-Montenegro,ME,Bijelo Polje Municipality,bijelo-polje-municipality,Bijelo Polje,bijelo-polje
-Montenegro,ME,Budva Municipality,budva-municipality,Budva,budva
-Montenegro,ME,Budva Municipality,budva-municipality,Petrovac na Moru,petrovac-na-moru
-Montenegro,ME,Danilovgrad Municipality,danilovgrad-municipality,Danilovgrad,danilovgrad
-Montenegro,ME,Danilovgrad Municipality,danilovgrad-municipality,Spuz,spuz
-Montenegro,ME,Gusinje Municipality,gusinje-municipality,Gusinje,gusinje
-Montenegro,ME,Kolasin Municipality,kolasin-municipality,Kolasin,kolasin
-Montenegro,ME,Kotor Municipality,kotor-municipality,Dobrota,dobrota
-Montenegro,ME,Kotor Municipality,kotor-municipality,Kotor,kotor
-Montenegro,ME,Kotor Municipality,kotor-municipality,Prcanj,prcanj
-Montenegro,ME,Kotor Municipality,kotor-municipality,Risan,risan
-Montenegro,ME,Mojkovac Municipality,mojkovac-municipality,Mojkovac,mojkovac
-Montenegro,ME,Niksic Municipality,niksic-municipality,Niksic,niksic
-Montenegro,ME,Old Royal Capital Cetinje,old-royal-capital-cetinje,Cetinje,cetinje
-Montenegro,ME,Petnjica Municipality,petnjica-municipality,Petnjica Municipality,petnjica-municipality
-Montenegro,ME,Plav Municipality,plav-municipality,Plav,plav
-Montenegro,ME,Pljevlja Municipality,pljevlja-municipality,Pljevlja,pljevlja
-Montenegro,ME,Pluzine Municipality,pluzine-municipality,Pluzine,pluzine
-Montenegro,ME,Podgorica Municipality,podgorica-municipality,Golubovci,golubovci
-Montenegro,ME,Podgorica Municipality,podgorica-municipality,Goricani,goricani
-Montenegro,ME,Podgorica Municipality,podgorica-municipality,Mataguzi,mataguzi
-Montenegro,ME,Podgorica Municipality,podgorica-municipality,Mojanovici,mojanovici
-Montenegro,ME,Podgorica Municipality,podgorica-municipality,Podgorica,podgorica
-Montenegro,ME,Podgorica Municipality,podgorica-municipality,Tuzi,tuzi
-Montenegro,ME,Rozaje Municipality,rozaje-municipality,Rozaje,rozaje
-Montenegro,ME,Savnik Municipality,savnik-municipality,Savnik,savnik
-Montenegro,ME,Tivat Municipality,tivat-municipality,Tivat,tivat
-Montenegro,ME,Ulcinj Municipality,ulcinj-municipality,Ulcinj,ulcinj
-Montenegro,ME,Zabljak Municipality,zabljak-municipality,Zabljak,zabljak
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Montenegro,montenegro,ME,Andrijevica Municipality,andrijevica-municipality,Andrijevica,andrijevica
+Montenegro,montenegro,ME,Bar Municipality,bar-municipality,Bar,bar
+Montenegro,montenegro,ME,Bar Municipality,bar-municipality,Stari Bar,stari-bar
+Montenegro,montenegro,ME,Bar Municipality,bar-municipality,Susanj,susanj
+Montenegro,montenegro,ME,Bar Municipality,bar-municipality,Sutomore,sutomore
+Montenegro,montenegro,ME,Berane Municipality,berane-municipality,Berane,berane
+Montenegro,montenegro,ME,Bijelo Polje Municipality,bijelo-polje-municipality,Bijelo Polje,bijelo-polje
+Montenegro,montenegro,ME,Budva Municipality,budva-municipality,Budva,budva
+Montenegro,montenegro,ME,Budva Municipality,budva-municipality,Petrovac na Moru,petrovac-na-moru
+Montenegro,montenegro,ME,Danilovgrad Municipality,danilovgrad-municipality,Danilovgrad,danilovgrad
+Montenegro,montenegro,ME,Danilovgrad Municipality,danilovgrad-municipality,Spuz,spuz
+Montenegro,montenegro,ME,Gusinje Municipality,gusinje-municipality,Gusinje,gusinje
+Montenegro,montenegro,ME,Kolasin Municipality,kolasin-municipality,Kolasin,kolasin
+Montenegro,montenegro,ME,Kotor Municipality,kotor-municipality,Dobrota,dobrota
+Montenegro,montenegro,ME,Kotor Municipality,kotor-municipality,Kotor,kotor
+Montenegro,montenegro,ME,Kotor Municipality,kotor-municipality,Prcanj,prcanj
+Montenegro,montenegro,ME,Kotor Municipality,kotor-municipality,Risan,risan
+Montenegro,montenegro,ME,Mojkovac Municipality,mojkovac-municipality,Mojkovac,mojkovac
+Montenegro,montenegro,ME,Niksic Municipality,niksic-municipality,Niksic,niksic
+Montenegro,montenegro,ME,Old Royal Capital Cetinje,old-royal-capital-cetinje,Cetinje,cetinje
+Montenegro,montenegro,ME,Petnjica Municipality,petnjica-municipality,Petnjica Municipality,petnjica-municipality
+Montenegro,montenegro,ME,Plav Municipality,plav-municipality,Plav,plav
+Montenegro,montenegro,ME,Pljevlja Municipality,pljevlja-municipality,Pljevlja,pljevlja
+Montenegro,montenegro,ME,Pluzine Municipality,pluzine-municipality,Pluzine,pluzine
+Montenegro,montenegro,ME,Podgorica Municipality,podgorica-municipality,Golubovci,golubovci
+Montenegro,montenegro,ME,Podgorica Municipality,podgorica-municipality,Goricani,goricani
+Montenegro,montenegro,ME,Podgorica Municipality,podgorica-municipality,Mataguzi,mataguzi
+Montenegro,montenegro,ME,Podgorica Municipality,podgorica-municipality,Mojanovici,mojanovici
+Montenegro,montenegro,ME,Podgorica Municipality,podgorica-municipality,Podgorica,podgorica
+Montenegro,montenegro,ME,Podgorica Municipality,podgorica-municipality,Tuzi,tuzi
+Montenegro,montenegro,ME,Rozaje Municipality,rozaje-municipality,Rozaje,rozaje
+Montenegro,montenegro,ME,Savnik Municipality,savnik-municipality,Savnik,savnik
+Montenegro,montenegro,ME,Tivat Municipality,tivat-municipality,Tivat,tivat
+Montenegro,montenegro,ME,Ulcinj Municipality,ulcinj-municipality,Ulcinj,ulcinj
+Montenegro,montenegro,ME,Zabljak Municipality,zabljak-municipality,Zabljak,zabljak

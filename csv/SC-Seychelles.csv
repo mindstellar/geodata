@@ -1,25 +1,25 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Seychelles,SC,Anse Boileau,anse-boileau,Anse Boileau,anse-boileau
-Seychelles,SC,Anse Royale,anse-royale,Anse Royale,anse-royale
-Seychelles,SC,Anse-aux-Pins,anse-aux-pins,Anse-aux-Pins,anse-aux-pins
-Seychelles,SC,Au Cap,au-cap,Au Cap,au-cap
-Seychelles,SC,Baie Lazare,baie-lazare,Baie Lazare,baie-lazare
-Seychelles,SC,Baie Sainte Anne,baie-sainte-anne,Baie Sainte Anne,baie-sainte-anne
-Seychelles,SC,Beau Vallon,beau-vallon,Beau Vallon,beau-vallon
-Seychelles,SC,Bel Air,bel-air,Bel Air,bel-air
-Seychelles,SC,Bel Ombre,bel-ombre,Bel Ombre,bel-ombre
-Seychelles,SC,Cascade,cascade,Cascade,cascade
-Seychelles,SC,Glacis,glacis,Glacis,glacis
-Seychelles,SC,Grand'Anse Mahe,grandanse-mahe,Grand'Anse Mahe,grandanse-mahe
-Seychelles,SC,Grand'Anse Praslin,grandanse-praslin,Grand'Anse Praslin,grandanse-praslin
-Seychelles,SC,La Digue,la-digue,La Digue,la-digue
-Seychelles,SC,La Riviere Anglaise,la-riviere-anglaise,Victoria,victoria
-Seychelles,SC,Les Mamelles,les-mamelles,Les Mamelles,les-mamelles
-Seychelles,SC,Mont Buxton,mont-buxton,Mont Buxton,mont-buxton
-Seychelles,SC,Mont Fleuri,mont-fleuri,Mont Fleuri,mont-fleuri
-Seychelles,SC,Plaisance,plaisance,Plaisance,plaisance
-Seychelles,SC,Pointe La Rue,pointe-la-rue,Pointe La Rue,pointe-la-rue
-Seychelles,SC,Port Glaud,port-glaud,Port Glaud,port-glaud
-Seychelles,SC,Roche Caiman,roche-caiman,Roche Caiman,roche-caiman
-Seychelles,SC,Saint Louis,saint-louis,Saint Louis,saint-louis
-Seychelles,SC,Takamaka,takamaka,Takamaka,takamaka
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Seychelles,seychelles,SC,Anse Boileau,anse-boileau,Anse Boileau,anse-boileau
+Seychelles,seychelles,SC,Anse Royale,anse-royale,Anse Royale,anse-royale
+Seychelles,seychelles,SC,Anse-aux-Pins,anse-aux-pins,Anse-aux-Pins,anse-aux-pins
+Seychelles,seychelles,SC,Au Cap,au-cap,Au Cap,au-cap
+Seychelles,seychelles,SC,Baie Lazare,baie-lazare,Baie Lazare,baie-lazare
+Seychelles,seychelles,SC,Baie Sainte Anne,baie-sainte-anne,Baie Sainte Anne,baie-sainte-anne
+Seychelles,seychelles,SC,Beau Vallon,beau-vallon,Beau Vallon,beau-vallon
+Seychelles,seychelles,SC,Bel Air,bel-air,Bel Air,bel-air
+Seychelles,seychelles,SC,Bel Ombre,bel-ombre,Bel Ombre,bel-ombre
+Seychelles,seychelles,SC,Cascade,cascade,Cascade,cascade
+Seychelles,seychelles,SC,Glacis,glacis,Glacis,glacis
+Seychelles,seychelles,SC,Grand'Anse Mahe,grandanse-mahe,Grand'Anse Mahe,grandanse-mahe
+Seychelles,seychelles,SC,Grand'Anse Praslin,grandanse-praslin,Grand'Anse Praslin,grandanse-praslin
+Seychelles,seychelles,SC,La Digue,la-digue,La Digue,la-digue
+Seychelles,seychelles,SC,La Riviere Anglaise,la-riviere-anglaise,Victoria,victoria
+Seychelles,seychelles,SC,Les Mamelles,les-mamelles,Les Mamelles,les-mamelles
+Seychelles,seychelles,SC,Mont Buxton,mont-buxton,Mont Buxton,mont-buxton
+Seychelles,seychelles,SC,Mont Fleuri,mont-fleuri,Mont Fleuri,mont-fleuri
+Seychelles,seychelles,SC,Plaisance,plaisance,Plaisance,plaisance
+Seychelles,seychelles,SC,Pointe La Rue,pointe-la-rue,Pointe La Rue,pointe-la-rue
+Seychelles,seychelles,SC,Port Glaud,port-glaud,Port Glaud,port-glaud
+Seychelles,seychelles,SC,Roche Caiman,roche-caiman,Roche Caiman,roche-caiman
+Seychelles,seychelles,SC,Saint Louis,saint-louis,Saint Louis,saint-louis
+Seychelles,seychelles,SC,Takamaka,takamaka,Takamaka,takamaka

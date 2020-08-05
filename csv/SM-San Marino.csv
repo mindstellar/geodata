@@ -1,10 +1,10 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-San Marino,SM,Acquaviva,acquaviva,Acquaviva,acquaviva
-San Marino,SM,Borgo Maggiore,borgo-maggiore,Borgo Maggiore,borgo-maggiore
-San Marino,SM,Chiesanuova,chiesanuova,Poggio di Chiesanuova,poggio-di-chiesanuova
-San Marino,SM,Domagnano,domagnano,Domagnano,domagnano
-San Marino,SM,Faetano,faetano,Faetano,faetano
-San Marino,SM,Fiorentino,fiorentino,Fiorentino,fiorentino
-San Marino,SM,Montegiardino,montegiardino,Monte Giardino,monte-giardino
-San Marino,SM,San Marino,san-marino,San Marino,san-marino
-San Marino,SM,Serravalle,serravalle,Serravalle,serravalle
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+San Marino,san-marino,SM,Acquaviva,acquaviva,Acquaviva,acquaviva
+San Marino,san-marino,SM,Borgo Maggiore,borgo-maggiore,Borgo Maggiore,borgo-maggiore
+San Marino,san-marino,SM,Chiesanuova,chiesanuova,Poggio di Chiesanuova,poggio-di-chiesanuova
+San Marino,san-marino,SM,Domagnano,domagnano,Domagnano,domagnano
+San Marino,san-marino,SM,Faetano,faetano,Faetano,faetano
+San Marino,san-marino,SM,Fiorentino,fiorentino,Fiorentino,fiorentino
+San Marino,san-marino,SM,Montegiardino,montegiardino,Monte Giardino,monte-giardino
+San Marino,san-marino,SM,San Marino,san-marino,San Marino,san-marino
+San Marino,san-marino,SM,Serravalle,serravalle,Serravalle,serravalle

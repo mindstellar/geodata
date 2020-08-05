@@ -1,471 +1,471 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Peru,PE,Amazonas,amazonas,Bagua Grande,bagua-grande
-Peru,PE,Amazonas,amazonas,Cajaruro,cajaruro
-Peru,PE,Amazonas,amazonas,Chachapoyas,chachapoyas
-Peru,PE,Amazonas,amazonas,Condorcanqui,condorcanqui
-Peru,PE,Amazonas,amazonas,La Peca,la-peca
-Peru,PE,Amazonas,amazonas,Provincia de Bagua,provincia-de-bagua
-Peru,PE,Amazonas,amazonas,Provincia de Bongara,provincia-de-bongara
-Peru,PE,Amazonas,amazonas,Provincia de Chachapoyas,provincia-de-chachapoyas
-Peru,PE,Amazonas,amazonas,Provincia de Luya,provincia-de-luya
-Peru,PE,Amazonas,amazonas,Provincia de Rodriguez de Mendoza,provincia-de-rodriguez-de-mendoza
-Peru,PE,Amazonas,amazonas,Utcubamba,utcubamba
-Peru,PE,Ancash,ancash,Asuncion,asuncion
-Peru,PE,Ancash,ancash,Caras,caras
-Peru,PE,Ancash,ancash,Carhuaz,carhuaz
-Peru,PE,Ancash,ancash,Carlos Fermin Fitzcarrald,carlos-fermin-fitzcarrald
-Peru,PE,Ancash,ancash,Chimbote,chimbote
-Peru,PE,Ancash,ancash,Coishco,coishco
-Peru,PE,Ancash,ancash,Huaraz,huaraz
-Peru,PE,Ancash,ancash,Huarmey,huarmey
-Peru,PE,Ancash,ancash,Pomabamba,pomabamba
-Peru,PE,Ancash,ancash,Provincia de Aija,provincia-de-aija
-Peru,PE,Ancash,ancash,Provincia de Antonio Raymondi,provincia-de-antonio-raymondi
-Peru,PE,Ancash,ancash,Provincia de Bolognesi,provincia-de-bolognesi
-Peru,PE,Ancash,ancash,Provincia de Carhuaz,provincia-de-carhuaz
-Peru,PE,Ancash,ancash,Provincia de Casma,provincia-de-casma
-Peru,PE,Ancash,ancash,Provincia de Corongo,provincia-de-corongo
-Peru,PE,Ancash,ancash,Provincia de Huaraz,provincia-de-huaraz
-Peru,PE,Ancash,ancash,Provincia de Huari,provincia-de-huari
-Peru,PE,Ancash,ancash,Provincia de Huarmey,provincia-de-huarmey
-Peru,PE,Ancash,ancash,Provincia de Huaylas,provincia-de-huaylas
-Peru,PE,Ancash,ancash,Provincia de Mariscal Luzuriaga,provincia-de-mariscal-luzuriaga
-Peru,PE,Ancash,ancash,Provincia de Pallasca,provincia-de-pallasca
-Peru,PE,Ancash,ancash,Provincia de Pomabamba,provincia-de-pomabamba
-Peru,PE,Ancash,ancash,Provincia de Recuay,provincia-de-recuay
-Peru,PE,Ancash,ancash,Provincia de Santa,provincia-de-santa
-Peru,PE,Ancash,ancash,Provincia de Sihuas,provincia-de-sihuas
-Peru,PE,Ancash,ancash,Provincia de Yungay,provincia-de-yungay
-Peru,PE,Ancash,ancash,Puerto Santa,puerto-santa
-Peru,PE,Ancash,ancash,Yauya,yauya
-Peru,PE,Ancash,ancash,Yungay,yungay
-Peru,PE,Apurimac,apurimac,Abancay,abancay
-Peru,PE,Apurimac,apurimac,Andahuaylas,andahuaylas
-Peru,PE,Apurimac,apurimac,Provincia de Abancay,provincia-de-abancay
-Peru,PE,Apurimac,apurimac,Provincia de Andahuaylas,provincia-de-andahuaylas
-Peru,PE,Apurimac,apurimac,Provincia de Antabamba,provincia-de-antabamba
-Peru,PE,Apurimac,apurimac,Provincia de Aymaraes,provincia-de-aymaraes
-Peru,PE,Apurimac,apurimac,Provincia de Cotabambas,provincia-de-cotabambas
-Peru,PE,Apurimac,apurimac,Provincia de Grau,provincia-de-grau
-Peru,PE,Apurimac,apurimac,San Jeronimo,san-jeronimo
-Peru,PE,Apurimac,apurimac,Talavera,talavera
-Peru,PE,Arequipa,arequipa,Acari,acari
-Peru,PE,Arequipa,arequipa,Arequipa,arequipa
-Peru,PE,Arequipa,arequipa,Camana,camana
-Peru,PE,Arequipa,arequipa,Ccolo,ccolo
-Peru,PE,Arequipa,arequipa,Chivay,chivay
-Peru,PE,Arequipa,arequipa,Cocachacra,cocachacra
-Peru,PE,Arequipa,arequipa,Cotahuasi,cotahuasi
-Peru,PE,Arequipa,arequipa,Huarancante,huarancante
-Peru,PE,Arequipa,arequipa,Huarichancara,huarichancara
-Peru,PE,Arequipa,arequipa,Jatun Orcochiri,jatun-orcochiri
-Peru,PE,Arequipa,arequipa,Jayune,jayune
-Peru,PE,Arequipa,arequipa,Llongasora,llongasora
-Peru,PE,Arequipa,arequipa,Lluta,lluta
-Peru,PE,Arequipa,arequipa,Mollendo,mollendo
-Peru,PE,Arequipa,arequipa,Orcopampa,orcopampa
-Peru,PE,Arequipa,arequipa,Provincia de Arequipa,provincia-de-arequipa
-Peru,PE,Arequipa,arequipa,Provincia de Camana,provincia-de-camana
-Peru,PE,Arequipa,arequipa,Provincia de Caraveli,provincia-de-caraveli
-Peru,PE,Arequipa,arequipa,Provincia de Castilla,provincia-de-castilla
-Peru,PE,Arequipa,arequipa,Provincia de Caylloma,provincia-de-caylloma
-Peru,PE,Arequipa,arequipa,Provincia de Condesuyos,provincia-de-condesuyos
-Peru,PE,Arequipa,arequipa,Provincia de Islay,provincia-de-islay
-Peru,PE,Arequipa,arequipa,Provincia de La Union,provincia-de-la-union
-Peru,PE,Arequipa,arequipa,Pucara,pucara
-Peru,PE,Arequipa,arequipa,Punta de Bombon,punta-de-bombon
-Peru,PE,Arequipa,arequipa,Vizcachane,vizcachane
-Peru,PE,Arequipa,arequipa,Yura,yura
-Peru,PE,Ayacucho,ayacucho,Ayacucho,ayacucho
-Peru,PE,Ayacucho,ayacucho,Ayna,ayna
-Peru,PE,Ayacucho,ayacucho,Coracora,coracora
-Peru,PE,Ayacucho,ayacucho,Huanta,huanta
-Peru,PE,Ayacucho,ayacucho,Paucar Del Sara Sara,paucar-del-sara-sara
-Peru,PE,Ayacucho,ayacucho,Provincia de Cangallo,provincia-de-cangallo
-Peru,PE,Ayacucho,ayacucho,Provincia de Huamanga,provincia-de-huamanga
-Peru,PE,Ayacucho,ayacucho,Provincia de Huanca Sancos,provincia-de-huanca-sancos
-Peru,PE,Ayacucho,ayacucho,Provincia de Huanta,provincia-de-huanta
-Peru,PE,Ayacucho,ayacucho,Provincia de La Mar,provincia-de-la-mar
-Peru,PE,Ayacucho,ayacucho,Provincia de Lucanas,provincia-de-lucanas
-Peru,PE,Ayacucho,ayacucho,Provincia de Parinacochas,provincia-de-parinacochas
-Peru,PE,Ayacucho,ayacucho,Provincia de Sucre,provincia-de-sucre
-Peru,PE,Ayacucho,ayacucho,Provincia de Victor Fajardo,provincia-de-victor-fajardo
-Peru,PE,Ayacucho,ayacucho,Provincia de Vilcas Huaman,provincia-de-vilcas-huaman
-Peru,PE,Ayacucho,ayacucho,Puquio,puquio
-Peru,PE,Ayacucho,ayacucho,San Miguel,san-miguel
-Peru,PE,Ayacucho,ayacucho,Tambo,tambo
-Peru,PE,Cajamarca,cajamarca,Bambamarca,bambamarca
-Peru,PE,Cajamarca,cajamarca,Bellavista,bellavista
-Peru,PE,Cajamarca,cajamarca,Cajabamba,cajabamba
-Peru,PE,Cajamarca,cajamarca,Cajamarca,cajamarca
-Peru,PE,Cajamarca,cajamarca,Celendin,celendin
-Peru,PE,Cajamarca,cajamarca,Chota,chota
-Peru,PE,Cajamarca,cajamarca,Jaen,jaen
-Peru,PE,Cajamarca,cajamarca,Provincia de Cajabamba,provincia-de-cajabamba
-Peru,PE,Cajamarca,cajamarca,Provincia de Cajamarca,provincia-de-cajamarca
-Peru,PE,Cajamarca,cajamarca,Provincia de Celendin,provincia-de-celendin
-Peru,PE,Cajamarca,cajamarca,Provincia de Chota,provincia-de-chota
-Peru,PE,Cajamarca,cajamarca,Provincia de Contumaza,provincia-de-contumaza
-Peru,PE,Cajamarca,cajamarca,Provincia de Cutervo,provincia-de-cutervo
-Peru,PE,Cajamarca,cajamarca,Provincia de Hualgayoc,provincia-de-hualgayoc
-Peru,PE,Cajamarca,cajamarca,Provincia de Jaen,provincia-de-jaen
-Peru,PE,Cajamarca,cajamarca,Provincia de San Ignacio,provincia-de-san-ignacio
-Peru,PE,Cajamarca,cajamarca,Provincia de San Miguel,provincia-de-san-miguel
-Peru,PE,Cajamarca,cajamarca,Provincia de Santa Cruz,provincia-de-santa-cruz
-Peru,PE,Cajamarca,cajamarca,San Ignacio,san-ignacio
-Peru,PE,Callao,callao,Callao,callao
-Peru,PE,Cusco,cusco,Anta,anta
-Peru,PE,Cusco,cusco,Cahuanuyo,cahuanuyo
-Peru,PE,Cusco,cusco,Calca,calca
-Peru,PE,Cusco,cusco,Callanca,callanca
-Peru,PE,Cusco,cusco,Ccaquiracunca,ccaquiracunca
-Peru,PE,Cusco,cusco,Ccuntuma,ccuntuma
-Peru,PE,Cusco,cusco,Checacupe,checacupe
-Peru,PE,Cusco,cusco,Checca,checca
-Peru,PE,Cusco,cusco,Chignayhua,chignayhua
-Peru,PE,Cusco,cusco,Chinchero,chinchero
-Peru,PE,Cusco,cusco,Combapata,combapata
-Peru,PE,Cusco,cusco,Conchopata,conchopata
-Peru,PE,Cusco,cusco,Cullcuyre,cullcuyre
-Peru,PE,Cusco,cusco,Cusco,cusco
-Peru,PE,Cusco,cusco,Huayna Alcalde,huayna-alcalde
-Peru,PE,Cusco,cusco,Jayobamba,jayobamba
-Peru,PE,Cusco,cusco,Langui,langui
-Peru,PE,Cusco,cusco,Layo,layo
-Peru,PE,Cusco,cusco,Lima Pampa,lima-pampa
-Peru,PE,Cusco,cusco,Marangani,marangani
-Peru,PE,Cusco,cusco,Maras,maras
-Peru,PE,Cusco,cusco,Mosoc Cancha,mosoc-cancha
-Peru,PE,Cusco,cusco,Mosoc Llacta,mosoc-llacta
-Peru,PE,Cusco,cusco,Ollantaytambo,ollantaytambo
-Peru,PE,Cusco,cusco,Oropesa,oropesa
-Peru,PE,Cusco,cusco,Pampamarca,pampamarca
-Peru,PE,Cusco,cusco,Pangoa,pangoa
-Peru,PE,Cusco,cusco,Paucartambo,paucartambo
-Peru,PE,Cusco,cusco,Pisac,pisac
-Peru,PE,Cusco,cusco,Provincia de Acomayo,provincia-de-acomayo
-Peru,PE,Cusco,cusco,Provincia de Anta,provincia-de-anta
-Peru,PE,Cusco,cusco,Provincia de Calca,provincia-de-calca
-Peru,PE,Cusco,cusco,Provincia de Canas,provincia-de-canas
-Peru,PE,Cusco,cusco,Provincia de Canchis,provincia-de-canchis
-Peru,PE,Cusco,cusco,Provincia de Chumbivilcas,provincia-de-chumbivilcas
-Peru,PE,Cusco,cusco,Provincia de Cusco,provincia-de-cusco
-Peru,PE,Cusco,cusco,Provincia de Espinar,provincia-de-espinar
-Peru,PE,Cusco,cusco,Provincia de La Convencion,provincia-de-la-convencion
-Peru,PE,Cusco,cusco,Provincia de Paruro,provincia-de-paruro
-Peru,PE,Cusco,cusco,Provincia de Paucartambo,provincia-de-paucartambo
-Peru,PE,Cusco,cusco,Provincia de Quispicanchis,provincia-de-quispicanchis
-Peru,PE,Cusco,cusco,Provincia de Urubamba,provincia-de-urubamba
-Peru,PE,Cusco,cusco,Qquea,qquea
-Peru,PE,Cusco,cusco,Queromarca,queromarca
-Peru,PE,Cusco,cusco,San Pablo,san-pablo
-Peru,PE,Cusco,cusco,Santa Ana,santa-ana
-Peru,PE,Cusco,cusco,Santo Tomas,santo-tomas
-Peru,PE,Cusco,cusco,Sicuani,sicuani
-Peru,PE,Cusco,cusco,Tinta,tinta
-Peru,PE,Cusco,cusco,Tungasuca,tungasuca
-Peru,PE,Cusco,cusco,Urcos,urcos
-Peru,PE,Cusco,cusco,Urubamba,urubamba
-Peru,PE,Cusco,cusco,Yanaoca,yanaoca
-Peru,PE,Huancavelica,huancavelica,Huancavelica,huancavelica
-Peru,PE,Huancavelica,huancavelica,Huaytara,huaytara
-Peru,PE,Huancavelica,huancavelica,Pampas,pampas
-Peru,PE,Huancavelica,huancavelica,Provincia de Acobamba,provincia-de-acobamba
-Peru,PE,Huancavelica,huancavelica,Provincia de Angaraes,provincia-de-angaraes
-Peru,PE,Huancavelica,huancavelica,Provincia de Castrovirreyna,provincia-de-castrovirreyna
-Peru,PE,Huancavelica,huancavelica,Provincia de Churcampa,provincia-de-churcampa
-Peru,PE,Huancavelica,huancavelica,Provincia de Huancavelica,provincia-de-huancavelica
-Peru,PE,Huancavelica,huancavelica,Provincia de Tayacaja,provincia-de-tayacaja
-Peru,PE,Huanuco,huanuco,Ambo,ambo
-Peru,PE,Huanuco,huanuco,Huacaybamba,huacaybamba
-Peru,PE,Huanuco,huanuco,Huanuco,huanuco
-Peru,PE,Huanuco,huanuco,La Union,la-union
-Peru,PE,Huanuco,huanuco,Lauricocha,lauricocha
-Peru,PE,Huanuco,huanuco,Llata,llata
-Peru,PE,Huanuco,huanuco,Provincia de Ambo,provincia-de-ambo
-Peru,PE,Huanuco,huanuco,Provincia de Dos de Mayo,provincia-de-dos-de-mayo
-Peru,PE,Huanuco,huanuco,Provincia de Huamalies,provincia-de-huamalies
-Peru,PE,Huanuco,huanuco,Provincia de Huanuco,provincia-de-huanuco
-Peru,PE,Huanuco,huanuco,Provincia de Leoncio Prado,provincia-de-leoncio-prado
-Peru,PE,Huanuco,huanuco,Provincia de Maranon,provincia-de-maranon
-Peru,PE,Huanuco,huanuco,Provincia de Pachitea,provincia-de-pachitea
-Peru,PE,Huanuco,huanuco,Puerto Inca,puerto-inca
-Peru,PE,Huanuco,huanuco,San Miguel de Cauri,san-miguel-de-cauri
-Peru,PE,Huanuco,huanuco,Tingo Maria,tingo-maria
-Peru,PE,Huanuco,huanuco,Yanacancha,yanacancha
-Peru,PE,Huanuco,huanuco,Yarowilca,yarowilca
-Peru,PE,Ica,ica,Chincha Alta,chincha-alta
-Peru,PE,Ica,ica,Ica,ica
-Peru,PE,Ica,ica,Los Aquijes,los-aquijes
-Peru,PE,Ica,ica,Minas de Marcona,minas-de-marcona
-Peru,PE,Ica,ica,Nazca,nazca
-Peru,PE,Ica,ica,Palpa,palpa
-Peru,PE,Ica,ica,Paracas,paracas
-Peru,PE,Ica,ica,Pisco,pisco
-Peru,PE,Ica,ica,Provincia de Chincha,provincia-de-chincha
-Peru,PE,Ica,ica,Provincia de Ica,provincia-de-ica
-Peru,PE,Ica,ica,Provincia de Nazca,provincia-de-nazca
-Peru,PE,Ica,ica,Provincia de Palpa,provincia-de-palpa
-Peru,PE,Ica,ica,Provincia de Pisco,provincia-de-pisco
-Peru,PE,Ica,ica,Rio Grande,rio-grande
-Peru,PE,Ica,ica,San Clemente,san-clemente
-Peru,PE,Ica,ica,San Juan Bautista,san-juan-bautista
-Peru,PE,Ica,ica,Santiago,santiago
-Peru,PE,Ica,ica,Subtanjalla,subtanjalla
-Peru,PE,Ica,ica,Villa Tupac Amaru,villa-tupac-amaru
-Peru,PE,Junin,junin,Acolla,acolla
-Peru,PE,Junin,junin,Carhuamayo,carhuamayo
-Peru,PE,Junin,junin,Chanchamayo,chanchamayo
-Peru,PE,Junin,junin,Chupaca,chupaca
-Peru,PE,Junin,junin,Concepcion,concepcion
-Peru,PE,Junin,junin,Huancayo,huancayo
-Peru,PE,Junin,junin,Huasahuasi,huasahuasi
-Peru,PE,Junin,junin,Huayucachi,huayucachi
-Peru,PE,Junin,junin,Jauja,jauja
-Peru,PE,Junin,junin,Junin,junin
-Peru,PE,Junin,junin,La Oroya,la-oroya
-Peru,PE,Junin,junin,Mazamari,mazamari
-Peru,PE,Junin,junin,Morococha,morococha
-Peru,PE,Junin,junin,Orcotuna,orcotuna
-Peru,PE,Junin,junin,Perene,perene
-Peru,PE,Junin,junin,Pilcomay,pilcomay
-Peru,PE,Junin,junin,Provincia de Chupaca,provincia-de-chupaca
-Peru,PE,Junin,junin,Provincia de Concepcion,provincia-de-concepcion
-Peru,PE,Junin,junin,Provincia de Huancayo,provincia-de-huancayo
-Peru,PE,Junin,junin,Provincia de Jauja,provincia-de-jauja
-Peru,PE,Junin,junin,Provincia de Junin,provincia-de-junin
-Peru,PE,Junin,junin,Provincia de Satipo,provincia-de-satipo
-Peru,PE,Junin,junin,Provincia de Tarma,provincia-de-tarma
-Peru,PE,Junin,junin,Provincia de Yauli,provincia-de-yauli
-Peru,PE,Junin,junin,San Agustin,san-agustin
-Peru,PE,Junin,junin,San Jeronimo,san-jeronimo
-Peru,PE,Junin,junin,San Pedro de Cajas,san-pedro-de-cajas
-Peru,PE,Junin,junin,San Ramon,san-ramon
-Peru,PE,Junin,junin,Satipo,satipo
-Peru,PE,Junin,junin,Sicaya,sicaya
-Peru,PE,Junin,junin,Tarma,tarma
-Peru,PE,La Libertad,la-libertad,Ascope,ascope
-Peru,PE,La Libertad,la-libertad,Cascas,cascas
-Peru,PE,La Libertad,la-libertad,Chepen,chepen
-Peru,PE,La Libertad,la-libertad,Chepen,chepen
-Peru,PE,La Libertad,la-libertad,Chicama,chicama
-Peru,PE,La Libertad,la-libertad,Chocope,chocope
-Peru,PE,La Libertad,la-libertad,Gran Chimu,gran-chimu
-Peru,PE,La Libertad,la-libertad,Guadalupe,guadalupe
-Peru,PE,La Libertad,la-libertad,Huamachuco,huamachuco
-Peru,PE,La Libertad,la-libertad,Julcan,julcan
-Peru,PE,La Libertad,la-libertad,Laredo,laredo
-Peru,PE,La Libertad,la-libertad,Moche,moche
-Peru,PE,La Libertad,la-libertad,Otuzco,otuzco
-Peru,PE,La Libertad,la-libertad,Pacanga,pacanga
-Peru,PE,La Libertad,la-libertad,Pacasmayo,pacasmayo
-Peru,PE,La Libertad,la-libertad,Paijan,paijan
-Peru,PE,La Libertad,la-libertad,Provincia de Bolivar,provincia-de-bolivar
-Peru,PE,La Libertad,la-libertad,Provincia de Otuzco,provincia-de-otuzco
-Peru,PE,La Libertad,la-libertad,Provincia de Pacasmayo,provincia-de-pacasmayo
-Peru,PE,La Libertad,la-libertad,Provincia de Pataz,provincia-de-pataz
-Peru,PE,La Libertad,la-libertad,Provincia de Santiago de Chuco,provincia-de-santiago-de-chuco
-Peru,PE,La Libertad,la-libertad,Provincia de Trujillo,provincia-de-trujillo
-Peru,PE,La Libertad,la-libertad,Pueblo Nuevo,pueblo-nuevo
-Peru,PE,La Libertad,la-libertad,Quiruvilca,quiruvilca
-Peru,PE,La Libertad,la-libertad,Salaverry,salaverry
-Peru,PE,La Libertad,la-libertad,San Pedro de Lloc,san-pedro-de-lloc
-Peru,PE,La Libertad,la-libertad,Sanchez Carrion,sanchez-carrion
-Peru,PE,La Libertad,la-libertad,Santiago de Cao,santiago-de-cao
-Peru,PE,La Libertad,la-libertad,Santiago de Chuco,santiago-de-chuco
-Peru,PE,La Libertad,la-libertad,Trujillo,trujillo
-Peru,PE,La Libertad,la-libertad,Viru,viru
-Peru,PE,La Libertad,la-libertad,Viru,viru
-Peru,PE,Lambayeque,lambayeque,Chiclayo,chiclayo
-Peru,PE,Lambayeque,lambayeque,Chongoyape,chongoyape
-Peru,PE,Lambayeque,lambayeque,Eten,eten
-Peru,PE,Lambayeque,lambayeque,Ferrenafe,ferrenafe
-Peru,PE,Lambayeque,lambayeque,Jayanca,jayanca
-Peru,PE,Lambayeque,lambayeque,Lambayeque,lambayeque
-Peru,PE,Lambayeque,lambayeque,Mochumi,mochumi
-Peru,PE,Lambayeque,lambayeque,Monsefu,monsefu
-Peru,PE,Lambayeque,lambayeque,Morrope,morrope
-Peru,PE,Lambayeque,lambayeque,Motupe,motupe
-Peru,PE,Lambayeque,lambayeque,Olmos,olmos
-Peru,PE,Lambayeque,lambayeque,Oyotun,oyotun
-Peru,PE,Lambayeque,lambayeque,Picsi,picsi
-Peru,PE,Lambayeque,lambayeque,Pimentel,pimentel
-Peru,PE,Lambayeque,lambayeque,Provincia de Chiclayo,provincia-de-chiclayo
-Peru,PE,Lambayeque,lambayeque,Provincia de Ferrenafe,provincia-de-ferrenafe
-Peru,PE,Lambayeque,lambayeque,Provincia de Lambayeque,provincia-de-lambayeque
-Peru,PE,Lambayeque,lambayeque,Pueblo Nuevo,pueblo-nuevo
-Peru,PE,Lambayeque,lambayeque,Reque,reque
-Peru,PE,Lambayeque,lambayeque,San Jose,san-jose
-Peru,PE,Lambayeque,lambayeque,Sana,sana
-Peru,PE,Lambayeque,lambayeque,Santa Rosa,santa-rosa
-Peru,PE,Lambayeque,lambayeque,Tucume,tucume
-Peru,PE,Lima,lima,Asentamiento Humano Nicolas de Pierola,asentamiento-humano-nicolas-de-pierola
-Peru,PE,Lima,lima,Barranca,barranca
-Peru,PE,Lima,lima,Caleta de Carquin,caleta-de-carquin
-Peru,PE,Lima,lima,Chancay,chancay
-Peru,PE,Lima,lima,Chilca,chilca
-Peru,PE,Lima,lima,Chosica,chosica
-Peru,PE,Lima,lima,Huacho,huacho
-Peru,PE,Lima,lima,Hualmay,hualmay
-Peru,PE,Lima,lima,Huaral,huaral
-Peru,PE,Lima,lima,Huaura,huaura
-Peru,PE,Lima,lima,Imperial,imperial
-Peru,PE,Lima,lima,Independencia,independencia
-Peru,PE,Lima,lima,Mala,mala
-Peru,PE,Lima,lima,Matucana,matucana
-Peru,PE,Lima,lima,Nuevo Imperial,nuevo-imperial
-Peru,PE,Lima,lima,Oyon,oyon
-Peru,PE,Lima,lima,Oyon,oyon
-Peru,PE,Lima,lima,Paramonga,paramonga
-Peru,PE,Lima,lima,Pativilca,pativilca
-Peru,PE,Lima,lima,Provincia de Cajatambo,provincia-de-cajatambo
-Peru,PE,Lima,lima,Provincia de Canete,provincia-de-canete
-Peru,PE,Lima,lima,Provincia de Canta,provincia-de-canta
-Peru,PE,Lima,lima,Provincia de Huaral,provincia-de-huaral
-Peru,PE,Lima,lima,Provincia de Huarochiri,provincia-de-huarochiri
-Peru,PE,Lima,lima,Provincia de Yauyos,provincia-de-yauyos
-Peru,PE,Lima,lima,Puerto Supe,puerto-supe
-Peru,PE,Lima,lima,Quilmana,quilmana
-Peru,PE,Lima,lima,Ricardo Palma,ricardo-palma
-Peru,PE,Lima,lima,San Bartolo,san-bartolo
-Peru,PE,Lima,lima,San Isidro,san-isidro
-Peru,PE,Lima,lima,San Luis,san-luis
-Peru,PE,Lima,lima,San Vicente de Canete,san-vicente-de-canete
-Peru,PE,Lima,lima,Santa Maria,santa-maria
-Peru,PE,Lima,lima,Santiago de Surco,santiago-de-surco
-Peru,PE,Lima,lima,Sayan,sayan
-Peru,PE,Lima,lima,Supe,supe
-Peru,PE,Lima,lima,Urb. Santo Domingo,urb-santo-domingo
-Peru,PE,Lima,lima,Vegueta,vegueta
-Peru,PE,Lima Province,lima-province,Lima,lima
-Peru,PE,Madre de Dios,madre-de-dios,Iberia,iberia
-Peru,PE,Madre de Dios,madre-de-dios,Provincia de Manu,provincia-de-manu
-Peru,PE,Madre de Dios,madre-de-dios,Provincia de Tahuamanu,provincia-de-tahuamanu
-Peru,PE,Madre de Dios,madre-de-dios,Provincia de Tambopata,provincia-de-tambopata
-Peru,PE,Madre de Dios,madre-de-dios,Puerto Maldonado,puerto-maldonado
-Peru,PE,Madre de Dios,madre-de-dios,Salvacion,salvacion
-Peru,PE,Madre de Dios,madre-de-dios,Tambopata,tambopata
-Peru,PE,Moquegua,moquegua,Ilo,ilo
-Peru,PE,Moquegua,moquegua,Moquegua,moquegua
-Peru,PE,Moquegua,moquegua,Pacocha,pacocha
-Peru,PE,Moquegua,moquegua,Provincia de General Sanchez Cerro,provincia-de-general-sanchez-cerro
-Peru,PE,Moquegua,moquegua,Provincia de Ilo,provincia-de-ilo
-Peru,PE,Moquegua,moquegua,Provincia de Mariscal Nieto,provincia-de-mariscal-nieto
-Peru,PE,Moquegua,moquegua,Torata,torata
-Peru,PE,Pasco,pasco,Cerro de Pasco,cerro-de-pasco
-Peru,PE,Pasco,pasco,Chaupimarca,chaupimarca
-Peru,PE,Pasco,pasco,Oxapampa,oxapampa
-Peru,PE,Pasco,pasco,Paucartambo,paucartambo
-Peru,PE,Pasco,pasco,Provincia de Daniel Carrion,provincia-de-daniel-carrion
-Peru,PE,Pasco,pasco,Provincia de Oxapampa,provincia-de-oxapampa
-Peru,PE,Pasco,pasco,Provincia de Pasco,provincia-de-pasco
-Peru,PE,Pasco,pasco,Tinyahuarco,tinyahuarco
-Peru,PE,Pasco,pasco,Villa Rica,villa-rica
-Peru,PE,Piura,piura,Ayabaca,ayabaca
-Peru,PE,Piura,piura,Bernal,bernal
-Peru,PE,Piura,piura,Buenos Aires,buenos-aires
-Peru,PE,Piura,piura,Catacaos,catacaos
-Peru,PE,Piura,piura,Chulucanas,chulucanas
-Peru,PE,Piura,piura,El Alto,el-alto
-Peru,PE,Piura,piura,Huancabamba,huancabamba
-Peru,PE,Piura,piura,La Breita,la-breita
-Peru,PE,Piura,piura,La Huaca,la-huaca
-Peru,PE,Piura,piura,La Union,la-union
-Peru,PE,Piura,piura,Las Lomas,las-lomas
-Peru,PE,Piura,piura,Mancora,mancora
-Peru,PE,Piura,piura,Marcavelica,marcavelica
-Peru,PE,Piura,piura,Morropon,morropon
-Peru,PE,Piura,piura,Morropon,morropon
-Peru,PE,Piura,piura,Paita,paita
-Peru,PE,Piura,piura,Piura,piura
-Peru,PE,Piura,piura,Provincia de Ayabaca,provincia-de-ayabaca
-Peru,PE,Piura,piura,Provincia de Huancabamba,provincia-de-huancabamba
-Peru,PE,Piura,piura,Provincia de Paita,provincia-de-paita
-Peru,PE,Piura,piura,Provincia de Piura,provincia-de-piura
-Peru,PE,Piura,piura,Provincia de Sullana,provincia-de-sullana
-Peru,PE,Piura,piura,Provincia de Talara,provincia-de-talara
-Peru,PE,Piura,piura,Querecotillo,querecotillo
-Peru,PE,Piura,piura,Salinera Colan,salinera-colan
-Peru,PE,Piura,piura,Salitral,salitral
-Peru,PE,Piura,piura,Sechura,sechura
-Peru,PE,Piura,piura,Sullana,sullana
-Peru,PE,Piura,piura,Talara,talara
-Peru,PE,Piura,piura,Tambo Grande,tambo-grande
-Peru,PE,Piura,piura,Vice,vice
-Peru,PE,Puno,puno,Atuncolla,atuncolla
-Peru,PE,Puno,puno,Ayaviri,ayaviri
-Peru,PE,Puno,puno,Azangaro,azangaro
-Peru,PE,Puno,puno,Desaguadero,desaguadero
-Peru,PE,Puno,puno,El Collao,el-collao
-Peru,PE,Puno,puno,Hacienda Huancane,hacienda-huancane
-Peru,PE,Puno,puno,Ilave,ilave
-Peru,PE,Puno,puno,Juli,juli
-Peru,PE,Puno,puno,Juliaca,juliaca
-Peru,PE,Puno,puno,La Rinconada,la-rinconada
-Peru,PE,Puno,puno,Lampa,lampa
-Peru,PE,Puno,puno,Macusani,macusani
-Peru,PE,Puno,puno,Nunoa,nunoa
-Peru,PE,Puno,puno,Provincia de Azangaro,provincia-de-azangaro
-Peru,PE,Puno,puno,Provincia de Carabaya,provincia-de-carabaya
-Peru,PE,Puno,puno,Provincia de Chucuito,provincia-de-chucuito
-Peru,PE,Puno,puno,Provincia de Huancane,provincia-de-huancane
-Peru,PE,Puno,puno,Provincia de Lampa,provincia-de-lampa
-Peru,PE,Puno,puno,Provincia de Melgar,provincia-de-melgar
-Peru,PE,Puno,puno,Provincia de Puno,provincia-de-puno
-Peru,PE,Puno,puno,Provincia de Sandia,provincia-de-sandia
-Peru,PE,Puno,puno,Puno,puno
-Peru,PE,Puno,puno,San Antonio De Putina,san-antonio-de-putina
-Peru,PE,Puno,puno,San Roman,san-roman
-Peru,PE,Puno,puno,Santa Lucia,santa-lucia
-Peru,PE,Puno,puno,Taquile,taquile
-Peru,PE,Puno,puno,Yunguyo,yunguyo
-Peru,PE,San Martin,san-martin,Bellavista,bellavista
-Peru,PE,San Martin,san-martin,Chazuta,chazuta
-Peru,PE,San Martin,san-martin,El Dorado,el-dorado
-Peru,PE,San Martin,san-martin,Huicungo,huicungo
-Peru,PE,San Martin,san-martin,Jepelacio,jepelacio
-Peru,PE,San Martin,san-martin,Juanjui,juanjui
-Peru,PE,San Martin,san-martin,Lamas,lamas
-Peru,PE,San Martin,san-martin,Moyobamba,moyobamba
-Peru,PE,San Martin,san-martin,Picota,picota
-Peru,PE,San Martin,san-martin,Provincia de Huallaga,provincia-de-huallaga
-Peru,PE,San Martin,san-martin,Provincia de Lamas,provincia-de-lamas
-Peru,PE,San Martin,san-martin,Provincia de Mariscal Caceres,provincia-de-mariscal-caceres
-Peru,PE,San Martin,san-martin,Provincia de Moyobamba,provincia-de-moyobamba
-Peru,PE,San Martin,san-martin,Provincia de Rioja,provincia-de-rioja
-Peru,PE,San Martin,san-martin,Provincia de San Martin,provincia-de-san-martin
-Peru,PE,San Martin,san-martin,Rioja,rioja
-Peru,PE,San Martin,san-martin,Saposoa,saposoa
-Peru,PE,San Martin,san-martin,Sisa,sisa
-Peru,PE,San Martin,san-martin,Soritor,soritor
-Peru,PE,San Martin,san-martin,Tabalosos,tabalosos
-Peru,PE,San Martin,san-martin,Tarapoto,tarapoto
-Peru,PE,San Martin,san-martin,Tocache,tocache
-Peru,PE,San Martin,san-martin,Uchiza,uchiza
-Peru,PE,Tacna,tacna,Calana,calana
-Peru,PE,Tacna,tacna,Candarave,candarave
-Peru,PE,Tacna,tacna,Chipispaya,chipispaya
-Peru,PE,Tacna,tacna,Chuquitira,chuquitira
-Peru,PE,Tacna,tacna,Ilabaya,ilabaya
-Peru,PE,Tacna,tacna,Jorge Basadre,jorge-basadre
-Peru,PE,Tacna,tacna,Provincia de Tacna,provincia-de-tacna
-Peru,PE,Tacna,tacna,Provincia de Tarata,provincia-de-tarata
-Peru,PE,Tacna,tacna,Pujocucho,pujocucho
-Peru,PE,Tacna,tacna,Quilahuani,quilahuani
-Peru,PE,Tacna,tacna,Tacna,tacna
-Peru,PE,Tacna,tacna,Tarata,tarata
-Peru,PE,Tacna,tacna,Totoral,totoral
-Peru,PE,Tumbes,tumbes,Aguas Verdes,aguas-verdes
-Peru,PE,Tumbes,tumbes,Papayal,papayal
-Peru,PE,Tumbes,tumbes,Provincia de Contralmirante Villar,provincia-de-contralmirante-villar
-Peru,PE,Tumbes,tumbes,Provincia de Tumbes,provincia-de-tumbes
-Peru,PE,Tumbes,tumbes,Provincia de Zarumilla,provincia-de-zarumilla
-Peru,PE,Tumbes,tumbes,Tumbes,tumbes
-Peru,PE,Tumbes,tumbes,Zarumilla,zarumilla
-Peru,PE,Tumbes,tumbes,Zorritos,zorritos
-Peru,PE,Ucayali,ucayali,Atalaya,atalaya
-Peru,PE,Ucayali,ucayali,Campoverde,campoverde
-Peru,PE,Ucayali,ucayali,Padre Abad,padre-abad
-Peru,PE,Ucayali,ucayali,Provincia de Coronel Portillo,provincia-de-coronel-portillo
-Peru,PE,Ucayali,ucayali,Pucallpa,pucallpa
-Peru,PE,Ucayali,ucayali,Purus,purus
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Peru,peru,PE,Amazonas,amazonas,Bagua Grande,bagua-grande
+Peru,peru,PE,Amazonas,amazonas,Cajaruro,cajaruro
+Peru,peru,PE,Amazonas,amazonas,Chachapoyas,chachapoyas
+Peru,peru,PE,Amazonas,amazonas,Condorcanqui,condorcanqui
+Peru,peru,PE,Amazonas,amazonas,La Peca,la-peca
+Peru,peru,PE,Amazonas,amazonas,Provincia de Bagua,provincia-de-bagua
+Peru,peru,PE,Amazonas,amazonas,Provincia de Bongara,provincia-de-bongara
+Peru,peru,PE,Amazonas,amazonas,Provincia de Chachapoyas,provincia-de-chachapoyas
+Peru,peru,PE,Amazonas,amazonas,Provincia de Luya,provincia-de-luya
+Peru,peru,PE,Amazonas,amazonas,Provincia de Rodriguez de Mendoza,provincia-de-rodriguez-de-mendoza
+Peru,peru,PE,Amazonas,amazonas,Utcubamba,utcubamba
+Peru,peru,PE,Ancash,ancash,Asuncion,asuncion
+Peru,peru,PE,Ancash,ancash,Caras,caras
+Peru,peru,PE,Ancash,ancash,Carhuaz,carhuaz
+Peru,peru,PE,Ancash,ancash,Carlos Fermin Fitzcarrald,carlos-fermin-fitzcarrald
+Peru,peru,PE,Ancash,ancash,Chimbote,chimbote
+Peru,peru,PE,Ancash,ancash,Coishco,coishco
+Peru,peru,PE,Ancash,ancash,Huaraz,huaraz
+Peru,peru,PE,Ancash,ancash,Huarmey,huarmey
+Peru,peru,PE,Ancash,ancash,Pomabamba,pomabamba
+Peru,peru,PE,Ancash,ancash,Provincia de Aija,provincia-de-aija
+Peru,peru,PE,Ancash,ancash,Provincia de Antonio Raymondi,provincia-de-antonio-raymondi
+Peru,peru,PE,Ancash,ancash,Provincia de Bolognesi,provincia-de-bolognesi
+Peru,peru,PE,Ancash,ancash,Provincia de Carhuaz,provincia-de-carhuaz
+Peru,peru,PE,Ancash,ancash,Provincia de Casma,provincia-de-casma
+Peru,peru,PE,Ancash,ancash,Provincia de Corongo,provincia-de-corongo
+Peru,peru,PE,Ancash,ancash,Provincia de Huaraz,provincia-de-huaraz
+Peru,peru,PE,Ancash,ancash,Provincia de Huari,provincia-de-huari
+Peru,peru,PE,Ancash,ancash,Provincia de Huarmey,provincia-de-huarmey
+Peru,peru,PE,Ancash,ancash,Provincia de Huaylas,provincia-de-huaylas
+Peru,peru,PE,Ancash,ancash,Provincia de Mariscal Luzuriaga,provincia-de-mariscal-luzuriaga
+Peru,peru,PE,Ancash,ancash,Provincia de Pallasca,provincia-de-pallasca
+Peru,peru,PE,Ancash,ancash,Provincia de Pomabamba,provincia-de-pomabamba
+Peru,peru,PE,Ancash,ancash,Provincia de Recuay,provincia-de-recuay
+Peru,peru,PE,Ancash,ancash,Provincia de Santa,provincia-de-santa
+Peru,peru,PE,Ancash,ancash,Provincia de Sihuas,provincia-de-sihuas
+Peru,peru,PE,Ancash,ancash,Provincia de Yungay,provincia-de-yungay
+Peru,peru,PE,Ancash,ancash,Puerto Santa,puerto-santa
+Peru,peru,PE,Ancash,ancash,Yauya,yauya
+Peru,peru,PE,Ancash,ancash,Yungay,yungay
+Peru,peru,PE,Apurimac,apurimac,Abancay,abancay
+Peru,peru,PE,Apurimac,apurimac,Andahuaylas,andahuaylas
+Peru,peru,PE,Apurimac,apurimac,Provincia de Abancay,provincia-de-abancay
+Peru,peru,PE,Apurimac,apurimac,Provincia de Andahuaylas,provincia-de-andahuaylas
+Peru,peru,PE,Apurimac,apurimac,Provincia de Antabamba,provincia-de-antabamba
+Peru,peru,PE,Apurimac,apurimac,Provincia de Aymaraes,provincia-de-aymaraes
+Peru,peru,PE,Apurimac,apurimac,Provincia de Cotabambas,provincia-de-cotabambas
+Peru,peru,PE,Apurimac,apurimac,Provincia de Grau,provincia-de-grau
+Peru,peru,PE,Apurimac,apurimac,San Jeronimo,san-jeronimo
+Peru,peru,PE,Apurimac,apurimac,Talavera,talavera
+Peru,peru,PE,Arequipa,arequipa,Acari,acari
+Peru,peru,PE,Arequipa,arequipa,Arequipa,arequipa
+Peru,peru,PE,Arequipa,arequipa,Camana,camana
+Peru,peru,PE,Arequipa,arequipa,Ccolo,ccolo
+Peru,peru,PE,Arequipa,arequipa,Chivay,chivay
+Peru,peru,PE,Arequipa,arequipa,Cocachacra,cocachacra
+Peru,peru,PE,Arequipa,arequipa,Cotahuasi,cotahuasi
+Peru,peru,PE,Arequipa,arequipa,Huarancante,huarancante
+Peru,peru,PE,Arequipa,arequipa,Huarichancara,huarichancara
+Peru,peru,PE,Arequipa,arequipa,Jatun Orcochiri,jatun-orcochiri
+Peru,peru,PE,Arequipa,arequipa,Jayune,jayune
+Peru,peru,PE,Arequipa,arequipa,Llongasora,llongasora
+Peru,peru,PE,Arequipa,arequipa,Lluta,lluta
+Peru,peru,PE,Arequipa,arequipa,Mollendo,mollendo
+Peru,peru,PE,Arequipa,arequipa,Orcopampa,orcopampa
+Peru,peru,PE,Arequipa,arequipa,Provincia de Arequipa,provincia-de-arequipa
+Peru,peru,PE,Arequipa,arequipa,Provincia de Camana,provincia-de-camana
+Peru,peru,PE,Arequipa,arequipa,Provincia de Caraveli,provincia-de-caraveli
+Peru,peru,PE,Arequipa,arequipa,Provincia de Castilla,provincia-de-castilla
+Peru,peru,PE,Arequipa,arequipa,Provincia de Caylloma,provincia-de-caylloma
+Peru,peru,PE,Arequipa,arequipa,Provincia de Condesuyos,provincia-de-condesuyos
+Peru,peru,PE,Arequipa,arequipa,Provincia de Islay,provincia-de-islay
+Peru,peru,PE,Arequipa,arequipa,Provincia de La Union,provincia-de-la-union
+Peru,peru,PE,Arequipa,arequipa,Pucara,pucara
+Peru,peru,PE,Arequipa,arequipa,Punta de Bombon,punta-de-bombon
+Peru,peru,PE,Arequipa,arequipa,Vizcachane,vizcachane
+Peru,peru,PE,Arequipa,arequipa,Yura,yura
+Peru,peru,PE,Ayacucho,ayacucho,Ayacucho,ayacucho
+Peru,peru,PE,Ayacucho,ayacucho,Ayna,ayna
+Peru,peru,PE,Ayacucho,ayacucho,Coracora,coracora
+Peru,peru,PE,Ayacucho,ayacucho,Huanta,huanta
+Peru,peru,PE,Ayacucho,ayacucho,Paucar Del Sara Sara,paucar-del-sara-sara
+Peru,peru,PE,Ayacucho,ayacucho,Provincia de Cangallo,provincia-de-cangallo
+Peru,peru,PE,Ayacucho,ayacucho,Provincia de Huamanga,provincia-de-huamanga
+Peru,peru,PE,Ayacucho,ayacucho,Provincia de Huanca Sancos,provincia-de-huanca-sancos
+Peru,peru,PE,Ayacucho,ayacucho,Provincia de Huanta,provincia-de-huanta
+Peru,peru,PE,Ayacucho,ayacucho,Provincia de La Mar,provincia-de-la-mar
+Peru,peru,PE,Ayacucho,ayacucho,Provincia de Lucanas,provincia-de-lucanas
+Peru,peru,PE,Ayacucho,ayacucho,Provincia de Parinacochas,provincia-de-parinacochas
+Peru,peru,PE,Ayacucho,ayacucho,Provincia de Sucre,provincia-de-sucre
+Peru,peru,PE,Ayacucho,ayacucho,Provincia de Victor Fajardo,provincia-de-victor-fajardo
+Peru,peru,PE,Ayacucho,ayacucho,Provincia de Vilcas Huaman,provincia-de-vilcas-huaman
+Peru,peru,PE,Ayacucho,ayacucho,Puquio,puquio
+Peru,peru,PE,Ayacucho,ayacucho,San Miguel,san-miguel
+Peru,peru,PE,Ayacucho,ayacucho,Tambo,tambo
+Peru,peru,PE,Cajamarca,cajamarca,Bambamarca,bambamarca
+Peru,peru,PE,Cajamarca,cajamarca,Bellavista,bellavista
+Peru,peru,PE,Cajamarca,cajamarca,Cajabamba,cajabamba
+Peru,peru,PE,Cajamarca,cajamarca,Cajamarca,cajamarca
+Peru,peru,PE,Cajamarca,cajamarca,Celendin,celendin
+Peru,peru,PE,Cajamarca,cajamarca,Chota,chota
+Peru,peru,PE,Cajamarca,cajamarca,Jaen,jaen
+Peru,peru,PE,Cajamarca,cajamarca,Provincia de Cajabamba,provincia-de-cajabamba
+Peru,peru,PE,Cajamarca,cajamarca,Provincia de Cajamarca,provincia-de-cajamarca
+Peru,peru,PE,Cajamarca,cajamarca,Provincia de Celendin,provincia-de-celendin
+Peru,peru,PE,Cajamarca,cajamarca,Provincia de Chota,provincia-de-chota
+Peru,peru,PE,Cajamarca,cajamarca,Provincia de Contumaza,provincia-de-contumaza
+Peru,peru,PE,Cajamarca,cajamarca,Provincia de Cutervo,provincia-de-cutervo
+Peru,peru,PE,Cajamarca,cajamarca,Provincia de Hualgayoc,provincia-de-hualgayoc
+Peru,peru,PE,Cajamarca,cajamarca,Provincia de Jaen,provincia-de-jaen
+Peru,peru,PE,Cajamarca,cajamarca,Provincia de San Ignacio,provincia-de-san-ignacio
+Peru,peru,PE,Cajamarca,cajamarca,Provincia de San Miguel,provincia-de-san-miguel
+Peru,peru,PE,Cajamarca,cajamarca,Provincia de Santa Cruz,provincia-de-santa-cruz
+Peru,peru,PE,Cajamarca,cajamarca,San Ignacio,san-ignacio
+Peru,peru,PE,Callao,callao,Callao,callao
+Peru,peru,PE,Cusco,cusco,Anta,anta
+Peru,peru,PE,Cusco,cusco,Cahuanuyo,cahuanuyo
+Peru,peru,PE,Cusco,cusco,Calca,calca
+Peru,peru,PE,Cusco,cusco,Callanca,callanca
+Peru,peru,PE,Cusco,cusco,Ccaquiracunca,ccaquiracunca
+Peru,peru,PE,Cusco,cusco,Ccuntuma,ccuntuma
+Peru,peru,PE,Cusco,cusco,Checacupe,checacupe
+Peru,peru,PE,Cusco,cusco,Checca,checca
+Peru,peru,PE,Cusco,cusco,Chignayhua,chignayhua
+Peru,peru,PE,Cusco,cusco,Chinchero,chinchero
+Peru,peru,PE,Cusco,cusco,Combapata,combapata
+Peru,peru,PE,Cusco,cusco,Conchopata,conchopata
+Peru,peru,PE,Cusco,cusco,Cullcuyre,cullcuyre
+Peru,peru,PE,Cusco,cusco,Cusco,cusco
+Peru,peru,PE,Cusco,cusco,Huayna Alcalde,huayna-alcalde
+Peru,peru,PE,Cusco,cusco,Jayobamba,jayobamba
+Peru,peru,PE,Cusco,cusco,Langui,langui
+Peru,peru,PE,Cusco,cusco,Layo,layo
+Peru,peru,PE,Cusco,cusco,Lima Pampa,lima-pampa
+Peru,peru,PE,Cusco,cusco,Marangani,marangani
+Peru,peru,PE,Cusco,cusco,Maras,maras
+Peru,peru,PE,Cusco,cusco,Mosoc Cancha,mosoc-cancha
+Peru,peru,PE,Cusco,cusco,Mosoc Llacta,mosoc-llacta
+Peru,peru,PE,Cusco,cusco,Ollantaytambo,ollantaytambo
+Peru,peru,PE,Cusco,cusco,Oropesa,oropesa
+Peru,peru,PE,Cusco,cusco,Pampamarca,pampamarca
+Peru,peru,PE,Cusco,cusco,Pangoa,pangoa
+Peru,peru,PE,Cusco,cusco,Paucartambo,paucartambo
+Peru,peru,PE,Cusco,cusco,Pisac,pisac
+Peru,peru,PE,Cusco,cusco,Provincia de Acomayo,provincia-de-acomayo
+Peru,peru,PE,Cusco,cusco,Provincia de Anta,provincia-de-anta
+Peru,peru,PE,Cusco,cusco,Provincia de Calca,provincia-de-calca
+Peru,peru,PE,Cusco,cusco,Provincia de Canas,provincia-de-canas
+Peru,peru,PE,Cusco,cusco,Provincia de Canchis,provincia-de-canchis
+Peru,peru,PE,Cusco,cusco,Provincia de Chumbivilcas,provincia-de-chumbivilcas
+Peru,peru,PE,Cusco,cusco,Provincia de Cusco,provincia-de-cusco
+Peru,peru,PE,Cusco,cusco,Provincia de Espinar,provincia-de-espinar
+Peru,peru,PE,Cusco,cusco,Provincia de La Convencion,provincia-de-la-convencion
+Peru,peru,PE,Cusco,cusco,Provincia de Paruro,provincia-de-paruro
+Peru,peru,PE,Cusco,cusco,Provincia de Paucartambo,provincia-de-paucartambo
+Peru,peru,PE,Cusco,cusco,Provincia de Quispicanchis,provincia-de-quispicanchis
+Peru,peru,PE,Cusco,cusco,Provincia de Urubamba,provincia-de-urubamba
+Peru,peru,PE,Cusco,cusco,Qquea,qquea
+Peru,peru,PE,Cusco,cusco,Queromarca,queromarca
+Peru,peru,PE,Cusco,cusco,San Pablo,san-pablo
+Peru,peru,PE,Cusco,cusco,Santa Ana,santa-ana
+Peru,peru,PE,Cusco,cusco,Santo Tomas,santo-tomas
+Peru,peru,PE,Cusco,cusco,Sicuani,sicuani
+Peru,peru,PE,Cusco,cusco,Tinta,tinta
+Peru,peru,PE,Cusco,cusco,Tungasuca,tungasuca
+Peru,peru,PE,Cusco,cusco,Urcos,urcos
+Peru,peru,PE,Cusco,cusco,Urubamba,urubamba
+Peru,peru,PE,Cusco,cusco,Yanaoca,yanaoca
+Peru,peru,PE,Huancavelica,huancavelica,Huancavelica,huancavelica
+Peru,peru,PE,Huancavelica,huancavelica,Huaytara,huaytara
+Peru,peru,PE,Huancavelica,huancavelica,Pampas,pampas
+Peru,peru,PE,Huancavelica,huancavelica,Provincia de Acobamba,provincia-de-acobamba
+Peru,peru,PE,Huancavelica,huancavelica,Provincia de Angaraes,provincia-de-angaraes
+Peru,peru,PE,Huancavelica,huancavelica,Provincia de Castrovirreyna,provincia-de-castrovirreyna
+Peru,peru,PE,Huancavelica,huancavelica,Provincia de Churcampa,provincia-de-churcampa
+Peru,peru,PE,Huancavelica,huancavelica,Provincia de Huancavelica,provincia-de-huancavelica
+Peru,peru,PE,Huancavelica,huancavelica,Provincia de Tayacaja,provincia-de-tayacaja
+Peru,peru,PE,Huanuco,huanuco,Ambo,ambo
+Peru,peru,PE,Huanuco,huanuco,Huacaybamba,huacaybamba
+Peru,peru,PE,Huanuco,huanuco,Huanuco,huanuco
+Peru,peru,PE,Huanuco,huanuco,La Union,la-union
+Peru,peru,PE,Huanuco,huanuco,Lauricocha,lauricocha
+Peru,peru,PE,Huanuco,huanuco,Llata,llata
+Peru,peru,PE,Huanuco,huanuco,Provincia de Ambo,provincia-de-ambo
+Peru,peru,PE,Huanuco,huanuco,Provincia de Dos de Mayo,provincia-de-dos-de-mayo
+Peru,peru,PE,Huanuco,huanuco,Provincia de Huamalies,provincia-de-huamalies
+Peru,peru,PE,Huanuco,huanuco,Provincia de Huanuco,provincia-de-huanuco
+Peru,peru,PE,Huanuco,huanuco,Provincia de Leoncio Prado,provincia-de-leoncio-prado
+Peru,peru,PE,Huanuco,huanuco,Provincia de Maranon,provincia-de-maranon
+Peru,peru,PE,Huanuco,huanuco,Provincia de Pachitea,provincia-de-pachitea
+Peru,peru,PE,Huanuco,huanuco,Puerto Inca,puerto-inca
+Peru,peru,PE,Huanuco,huanuco,San Miguel de Cauri,san-miguel-de-cauri
+Peru,peru,PE,Huanuco,huanuco,Tingo Maria,tingo-maria
+Peru,peru,PE,Huanuco,huanuco,Yanacancha,yanacancha
+Peru,peru,PE,Huanuco,huanuco,Yarowilca,yarowilca
+Peru,peru,PE,Ica,ica,Chincha Alta,chincha-alta
+Peru,peru,PE,Ica,ica,Ica,ica
+Peru,peru,PE,Ica,ica,Los Aquijes,los-aquijes
+Peru,peru,PE,Ica,ica,Minas de Marcona,minas-de-marcona
+Peru,peru,PE,Ica,ica,Nazca,nazca
+Peru,peru,PE,Ica,ica,Palpa,palpa
+Peru,peru,PE,Ica,ica,Paracas,paracas
+Peru,peru,PE,Ica,ica,Pisco,pisco
+Peru,peru,PE,Ica,ica,Provincia de Chincha,provincia-de-chincha
+Peru,peru,PE,Ica,ica,Provincia de Ica,provincia-de-ica
+Peru,peru,PE,Ica,ica,Provincia de Nazca,provincia-de-nazca
+Peru,peru,PE,Ica,ica,Provincia de Palpa,provincia-de-palpa
+Peru,peru,PE,Ica,ica,Provincia de Pisco,provincia-de-pisco
+Peru,peru,PE,Ica,ica,Rio Grande,rio-grande
+Peru,peru,PE,Ica,ica,San Clemente,san-clemente
+Peru,peru,PE,Ica,ica,San Juan Bautista,san-juan-bautista
+Peru,peru,PE,Ica,ica,Santiago,santiago
+Peru,peru,PE,Ica,ica,Subtanjalla,subtanjalla
+Peru,peru,PE,Ica,ica,Villa Tupac Amaru,villa-tupac-amaru
+Peru,peru,PE,Junin,junin,Acolla,acolla
+Peru,peru,PE,Junin,junin,Carhuamayo,carhuamayo
+Peru,peru,PE,Junin,junin,Chanchamayo,chanchamayo
+Peru,peru,PE,Junin,junin,Chupaca,chupaca
+Peru,peru,PE,Junin,junin,Concepcion,concepcion
+Peru,peru,PE,Junin,junin,Huancayo,huancayo
+Peru,peru,PE,Junin,junin,Huasahuasi,huasahuasi
+Peru,peru,PE,Junin,junin,Huayucachi,huayucachi
+Peru,peru,PE,Junin,junin,Jauja,jauja
+Peru,peru,PE,Junin,junin,Junin,junin
+Peru,peru,PE,Junin,junin,La Oroya,la-oroya
+Peru,peru,PE,Junin,junin,Mazamari,mazamari
+Peru,peru,PE,Junin,junin,Morococha,morococha
+Peru,peru,PE,Junin,junin,Orcotuna,orcotuna
+Peru,peru,PE,Junin,junin,Perene,perene
+Peru,peru,PE,Junin,junin,Pilcomay,pilcomay
+Peru,peru,PE,Junin,junin,Provincia de Chupaca,provincia-de-chupaca
+Peru,peru,PE,Junin,junin,Provincia de Concepcion,provincia-de-concepcion
+Peru,peru,PE,Junin,junin,Provincia de Huancayo,provincia-de-huancayo
+Peru,peru,PE,Junin,junin,Provincia de Jauja,provincia-de-jauja
+Peru,peru,PE,Junin,junin,Provincia de Junin,provincia-de-junin
+Peru,peru,PE,Junin,junin,Provincia de Satipo,provincia-de-satipo
+Peru,peru,PE,Junin,junin,Provincia de Tarma,provincia-de-tarma
+Peru,peru,PE,Junin,junin,Provincia de Yauli,provincia-de-yauli
+Peru,peru,PE,Junin,junin,San Agustin,san-agustin
+Peru,peru,PE,Junin,junin,San Jeronimo,san-jeronimo
+Peru,peru,PE,Junin,junin,San Pedro de Cajas,san-pedro-de-cajas
+Peru,peru,PE,Junin,junin,San Ramon,san-ramon
+Peru,peru,PE,Junin,junin,Satipo,satipo
+Peru,peru,PE,Junin,junin,Sicaya,sicaya
+Peru,peru,PE,Junin,junin,Tarma,tarma
+Peru,peru,PE,La Libertad,la-libertad,Ascope,ascope
+Peru,peru,PE,La Libertad,la-libertad,Cascas,cascas
+Peru,peru,PE,La Libertad,la-libertad,Chepen,chepen
+Peru,peru,PE,La Libertad,la-libertad,Chepen,chepen
+Peru,peru,PE,La Libertad,la-libertad,Chicama,chicama
+Peru,peru,PE,La Libertad,la-libertad,Chocope,chocope
+Peru,peru,PE,La Libertad,la-libertad,Gran Chimu,gran-chimu
+Peru,peru,PE,La Libertad,la-libertad,Guadalupe,guadalupe
+Peru,peru,PE,La Libertad,la-libertad,Huamachuco,huamachuco
+Peru,peru,PE,La Libertad,la-libertad,Julcan,julcan
+Peru,peru,PE,La Libertad,la-libertad,Laredo,laredo
+Peru,peru,PE,La Libertad,la-libertad,Moche,moche
+Peru,peru,PE,La Libertad,la-libertad,Otuzco,otuzco
+Peru,peru,PE,La Libertad,la-libertad,Pacanga,pacanga
+Peru,peru,PE,La Libertad,la-libertad,Pacasmayo,pacasmayo
+Peru,peru,PE,La Libertad,la-libertad,Paijan,paijan
+Peru,peru,PE,La Libertad,la-libertad,Provincia de Bolivar,provincia-de-bolivar
+Peru,peru,PE,La Libertad,la-libertad,Provincia de Otuzco,provincia-de-otuzco
+Peru,peru,PE,La Libertad,la-libertad,Provincia de Pacasmayo,provincia-de-pacasmayo
+Peru,peru,PE,La Libertad,la-libertad,Provincia de Pataz,provincia-de-pataz
+Peru,peru,PE,La Libertad,la-libertad,Provincia de Santiago de Chuco,provincia-de-santiago-de-chuco
+Peru,peru,PE,La Libertad,la-libertad,Provincia de Trujillo,provincia-de-trujillo
+Peru,peru,PE,La Libertad,la-libertad,Pueblo Nuevo,pueblo-nuevo
+Peru,peru,PE,La Libertad,la-libertad,Quiruvilca,quiruvilca
+Peru,peru,PE,La Libertad,la-libertad,Salaverry,salaverry
+Peru,peru,PE,La Libertad,la-libertad,San Pedro de Lloc,san-pedro-de-lloc
+Peru,peru,PE,La Libertad,la-libertad,Sanchez Carrion,sanchez-carrion
+Peru,peru,PE,La Libertad,la-libertad,Santiago de Cao,santiago-de-cao
+Peru,peru,PE,La Libertad,la-libertad,Santiago de Chuco,santiago-de-chuco
+Peru,peru,PE,La Libertad,la-libertad,Trujillo,trujillo
+Peru,peru,PE,La Libertad,la-libertad,Viru,viru
+Peru,peru,PE,La Libertad,la-libertad,Viru,viru
+Peru,peru,PE,Lambayeque,lambayeque,Chiclayo,chiclayo
+Peru,peru,PE,Lambayeque,lambayeque,Chongoyape,chongoyape
+Peru,peru,PE,Lambayeque,lambayeque,Eten,eten
+Peru,peru,PE,Lambayeque,lambayeque,Ferrenafe,ferrenafe
+Peru,peru,PE,Lambayeque,lambayeque,Jayanca,jayanca
+Peru,peru,PE,Lambayeque,lambayeque,Lambayeque,lambayeque
+Peru,peru,PE,Lambayeque,lambayeque,Mochumi,mochumi
+Peru,peru,PE,Lambayeque,lambayeque,Monsefu,monsefu
+Peru,peru,PE,Lambayeque,lambayeque,Morrope,morrope
+Peru,peru,PE,Lambayeque,lambayeque,Motupe,motupe
+Peru,peru,PE,Lambayeque,lambayeque,Olmos,olmos
+Peru,peru,PE,Lambayeque,lambayeque,Oyotun,oyotun
+Peru,peru,PE,Lambayeque,lambayeque,Picsi,picsi
+Peru,peru,PE,Lambayeque,lambayeque,Pimentel,pimentel
+Peru,peru,PE,Lambayeque,lambayeque,Provincia de Chiclayo,provincia-de-chiclayo
+Peru,peru,PE,Lambayeque,lambayeque,Provincia de Ferrenafe,provincia-de-ferrenafe
+Peru,peru,PE,Lambayeque,lambayeque,Provincia de Lambayeque,provincia-de-lambayeque
+Peru,peru,PE,Lambayeque,lambayeque,Pueblo Nuevo,pueblo-nuevo
+Peru,peru,PE,Lambayeque,lambayeque,Reque,reque
+Peru,peru,PE,Lambayeque,lambayeque,San Jose,san-jose
+Peru,peru,PE,Lambayeque,lambayeque,Sana,sana
+Peru,peru,PE,Lambayeque,lambayeque,Santa Rosa,santa-rosa
+Peru,peru,PE,Lambayeque,lambayeque,Tucume,tucume
+Peru,peru,PE,Lima,lima,Asentamiento Humano Nicolas de Pierola,asentamiento-humano-nicolas-de-pierola
+Peru,peru,PE,Lima,lima,Barranca,barranca
+Peru,peru,PE,Lima,lima,Caleta de Carquin,caleta-de-carquin
+Peru,peru,PE,Lima,lima,Chancay,chancay
+Peru,peru,PE,Lima,lima,Chilca,chilca
+Peru,peru,PE,Lima,lima,Chosica,chosica
+Peru,peru,PE,Lima,lima,Huacho,huacho
+Peru,peru,PE,Lima,lima,Hualmay,hualmay
+Peru,peru,PE,Lima,lima,Huaral,huaral
+Peru,peru,PE,Lima,lima,Huaura,huaura
+Peru,peru,PE,Lima,lima,Imperial,imperial
+Peru,peru,PE,Lima,lima,Independencia,independencia
+Peru,peru,PE,Lima,lima,Mala,mala
+Peru,peru,PE,Lima,lima,Matucana,matucana
+Peru,peru,PE,Lima,lima,Nuevo Imperial,nuevo-imperial
+Peru,peru,PE,Lima,lima,Oyon,oyon
+Peru,peru,PE,Lima,lima,Oyon,oyon
+Peru,peru,PE,Lima,lima,Paramonga,paramonga
+Peru,peru,PE,Lima,lima,Pativilca,pativilca
+Peru,peru,PE,Lima,lima,Provincia de Cajatambo,provincia-de-cajatambo
+Peru,peru,PE,Lima,lima,Provincia de Canete,provincia-de-canete
+Peru,peru,PE,Lima,lima,Provincia de Canta,provincia-de-canta
+Peru,peru,PE,Lima,lima,Provincia de Huaral,provincia-de-huaral
+Peru,peru,PE,Lima,lima,Provincia de Huarochiri,provincia-de-huarochiri
+Peru,peru,PE,Lima,lima,Provincia de Yauyos,provincia-de-yauyos
+Peru,peru,PE,Lima,lima,Puerto Supe,puerto-supe
+Peru,peru,PE,Lima,lima,Quilmana,quilmana
+Peru,peru,PE,Lima,lima,Ricardo Palma,ricardo-palma
+Peru,peru,PE,Lima,lima,San Bartolo,san-bartolo
+Peru,peru,PE,Lima,lima,San Isidro,san-isidro
+Peru,peru,PE,Lima,lima,San Luis,san-luis
+Peru,peru,PE,Lima,lima,San Vicente de Canete,san-vicente-de-canete
+Peru,peru,PE,Lima,lima,Santa Maria,santa-maria
+Peru,peru,PE,Lima,lima,Santiago de Surco,santiago-de-surco
+Peru,peru,PE,Lima,lima,Sayan,sayan
+Peru,peru,PE,Lima,lima,Supe,supe
+Peru,peru,PE,Lima,lima,Urb. Santo Domingo,urb-santo-domingo
+Peru,peru,PE,Lima,lima,Vegueta,vegueta
+Peru,peru,PE,Lima Province,lima-province,Lima,lima
+Peru,peru,PE,Madre de Dios,madre-de-dios,Iberia,iberia
+Peru,peru,PE,Madre de Dios,madre-de-dios,Provincia de Manu,provincia-de-manu
+Peru,peru,PE,Madre de Dios,madre-de-dios,Provincia de Tahuamanu,provincia-de-tahuamanu
+Peru,peru,PE,Madre de Dios,madre-de-dios,Provincia de Tambopata,provincia-de-tambopata
+Peru,peru,PE,Madre de Dios,madre-de-dios,Puerto Maldonado,puerto-maldonado
+Peru,peru,PE,Madre de Dios,madre-de-dios,Salvacion,salvacion
+Peru,peru,PE,Madre de Dios,madre-de-dios,Tambopata,tambopata
+Peru,peru,PE,Moquegua,moquegua,Ilo,ilo
+Peru,peru,PE,Moquegua,moquegua,Moquegua,moquegua
+Peru,peru,PE,Moquegua,moquegua,Pacocha,pacocha
+Peru,peru,PE,Moquegua,moquegua,Provincia de General Sanchez Cerro,provincia-de-general-sanchez-cerro
+Peru,peru,PE,Moquegua,moquegua,Provincia de Ilo,provincia-de-ilo
+Peru,peru,PE,Moquegua,moquegua,Provincia de Mariscal Nieto,provincia-de-mariscal-nieto
+Peru,peru,PE,Moquegua,moquegua,Torata,torata
+Peru,peru,PE,Pasco,pasco,Cerro de Pasco,cerro-de-pasco
+Peru,peru,PE,Pasco,pasco,Chaupimarca,chaupimarca
+Peru,peru,PE,Pasco,pasco,Oxapampa,oxapampa
+Peru,peru,PE,Pasco,pasco,Paucartambo,paucartambo
+Peru,peru,PE,Pasco,pasco,Provincia de Daniel Carrion,provincia-de-daniel-carrion
+Peru,peru,PE,Pasco,pasco,Provincia de Oxapampa,provincia-de-oxapampa
+Peru,peru,PE,Pasco,pasco,Provincia de Pasco,provincia-de-pasco
+Peru,peru,PE,Pasco,pasco,Tinyahuarco,tinyahuarco
+Peru,peru,PE,Pasco,pasco,Villa Rica,villa-rica
+Peru,peru,PE,Piura,piura,Ayabaca,ayabaca
+Peru,peru,PE,Piura,piura,Bernal,bernal
+Peru,peru,PE,Piura,piura,Buenos Aires,buenos-aires
+Peru,peru,PE,Piura,piura,Catacaos,catacaos
+Peru,peru,PE,Piura,piura,Chulucanas,chulucanas
+Peru,peru,PE,Piura,piura,El Alto,el-alto
+Peru,peru,PE,Piura,piura,Huancabamba,huancabamba
+Peru,peru,PE,Piura,piura,La Breita,la-breita
+Peru,peru,PE,Piura,piura,La Huaca,la-huaca
+Peru,peru,PE,Piura,piura,La Union,la-union
+Peru,peru,PE,Piura,piura,Las Lomas,las-lomas
+Peru,peru,PE,Piura,piura,Mancora,mancora
+Peru,peru,PE,Piura,piura,Marcavelica,marcavelica
+Peru,peru,PE,Piura,piura,Morropon,morropon
+Peru,peru,PE,Piura,piura,Morropon,morropon
+Peru,peru,PE,Piura,piura,Paita,paita
+Peru,peru,PE,Piura,piura,Piura,piura
+Peru,peru,PE,Piura,piura,Provincia de Ayabaca,provincia-de-ayabaca
+Peru,peru,PE,Piura,piura,Provincia de Huancabamba,provincia-de-huancabamba
+Peru,peru,PE,Piura,piura,Provincia de Paita,provincia-de-paita
+Peru,peru,PE,Piura,piura,Provincia de Piura,provincia-de-piura
+Peru,peru,PE,Piura,piura,Provincia de Sullana,provincia-de-sullana
+Peru,peru,PE,Piura,piura,Provincia de Talara,provincia-de-talara
+Peru,peru,PE,Piura,piura,Querecotillo,querecotillo
+Peru,peru,PE,Piura,piura,Salinera Colan,salinera-colan
+Peru,peru,PE,Piura,piura,Salitral,salitral
+Peru,peru,PE,Piura,piura,Sechura,sechura
+Peru,peru,PE,Piura,piura,Sullana,sullana
+Peru,peru,PE,Piura,piura,Talara,talara
+Peru,peru,PE,Piura,piura,Tambo Grande,tambo-grande
+Peru,peru,PE,Piura,piura,Vice,vice
+Peru,peru,PE,Puno,puno,Atuncolla,atuncolla
+Peru,peru,PE,Puno,puno,Ayaviri,ayaviri
+Peru,peru,PE,Puno,puno,Azangaro,azangaro
+Peru,peru,PE,Puno,puno,Desaguadero,desaguadero
+Peru,peru,PE,Puno,puno,El Collao,el-collao
+Peru,peru,PE,Puno,puno,Hacienda Huancane,hacienda-huancane
+Peru,peru,PE,Puno,puno,Ilave,ilave
+Peru,peru,PE,Puno,puno,Juli,juli
+Peru,peru,PE,Puno,puno,Juliaca,juliaca
+Peru,peru,PE,Puno,puno,La Rinconada,la-rinconada
+Peru,peru,PE,Puno,puno,Lampa,lampa
+Peru,peru,PE,Puno,puno,Macusani,macusani
+Peru,peru,PE,Puno,puno,Nunoa,nunoa
+Peru,peru,PE,Puno,puno,Provincia de Azangaro,provincia-de-azangaro
+Peru,peru,PE,Puno,puno,Provincia de Carabaya,provincia-de-carabaya
+Peru,peru,PE,Puno,puno,Provincia de Chucuito,provincia-de-chucuito
+Peru,peru,PE,Puno,puno,Provincia de Huancane,provincia-de-huancane
+Peru,peru,PE,Puno,puno,Provincia de Lampa,provincia-de-lampa
+Peru,peru,PE,Puno,puno,Provincia de Melgar,provincia-de-melgar
+Peru,peru,PE,Puno,puno,Provincia de Puno,provincia-de-puno
+Peru,peru,PE,Puno,puno,Provincia de Sandia,provincia-de-sandia
+Peru,peru,PE,Puno,puno,Puno,puno
+Peru,peru,PE,Puno,puno,San Antonio De Putina,san-antonio-de-putina
+Peru,peru,PE,Puno,puno,San Roman,san-roman
+Peru,peru,PE,Puno,puno,Santa Lucia,santa-lucia
+Peru,peru,PE,Puno,puno,Taquile,taquile
+Peru,peru,PE,Puno,puno,Yunguyo,yunguyo
+Peru,peru,PE,San Martin,san-martin,Bellavista,bellavista
+Peru,peru,PE,San Martin,san-martin,Chazuta,chazuta
+Peru,peru,PE,San Martin,san-martin,El Dorado,el-dorado
+Peru,peru,PE,San Martin,san-martin,Huicungo,huicungo
+Peru,peru,PE,San Martin,san-martin,Jepelacio,jepelacio
+Peru,peru,PE,San Martin,san-martin,Juanjui,juanjui
+Peru,peru,PE,San Martin,san-martin,Lamas,lamas
+Peru,peru,PE,San Martin,san-martin,Moyobamba,moyobamba
+Peru,peru,PE,San Martin,san-martin,Picota,picota
+Peru,peru,PE,San Martin,san-martin,Provincia de Huallaga,provincia-de-huallaga
+Peru,peru,PE,San Martin,san-martin,Provincia de Lamas,provincia-de-lamas
+Peru,peru,PE,San Martin,san-martin,Provincia de Mariscal Caceres,provincia-de-mariscal-caceres
+Peru,peru,PE,San Martin,san-martin,Provincia de Moyobamba,provincia-de-moyobamba
+Peru,peru,PE,San Martin,san-martin,Provincia de Rioja,provincia-de-rioja
+Peru,peru,PE,San Martin,san-martin,Provincia de San Martin,provincia-de-san-martin
+Peru,peru,PE,San Martin,san-martin,Rioja,rioja
+Peru,peru,PE,San Martin,san-martin,Saposoa,saposoa
+Peru,peru,PE,San Martin,san-martin,Sisa,sisa
+Peru,peru,PE,San Martin,san-martin,Soritor,soritor
+Peru,peru,PE,San Martin,san-martin,Tabalosos,tabalosos
+Peru,peru,PE,San Martin,san-martin,Tarapoto,tarapoto
+Peru,peru,PE,San Martin,san-martin,Tocache,tocache
+Peru,peru,PE,San Martin,san-martin,Uchiza,uchiza
+Peru,peru,PE,Tacna,tacna,Calana,calana
+Peru,peru,PE,Tacna,tacna,Candarave,candarave
+Peru,peru,PE,Tacna,tacna,Chipispaya,chipispaya
+Peru,peru,PE,Tacna,tacna,Chuquitira,chuquitira
+Peru,peru,PE,Tacna,tacna,Ilabaya,ilabaya
+Peru,peru,PE,Tacna,tacna,Jorge Basadre,jorge-basadre
+Peru,peru,PE,Tacna,tacna,Provincia de Tacna,provincia-de-tacna
+Peru,peru,PE,Tacna,tacna,Provincia de Tarata,provincia-de-tarata
+Peru,peru,PE,Tacna,tacna,Pujocucho,pujocucho
+Peru,peru,PE,Tacna,tacna,Quilahuani,quilahuani
+Peru,peru,PE,Tacna,tacna,Tacna,tacna
+Peru,peru,PE,Tacna,tacna,Tarata,tarata
+Peru,peru,PE,Tacna,tacna,Totoral,totoral
+Peru,peru,PE,Tumbes,tumbes,Aguas Verdes,aguas-verdes
+Peru,peru,PE,Tumbes,tumbes,Papayal,papayal
+Peru,peru,PE,Tumbes,tumbes,Provincia de Contralmirante Villar,provincia-de-contralmirante-villar
+Peru,peru,PE,Tumbes,tumbes,Provincia de Tumbes,provincia-de-tumbes
+Peru,peru,PE,Tumbes,tumbes,Provincia de Zarumilla,provincia-de-zarumilla
+Peru,peru,PE,Tumbes,tumbes,Tumbes,tumbes
+Peru,peru,PE,Tumbes,tumbes,Zarumilla,zarumilla
+Peru,peru,PE,Tumbes,tumbes,Zorritos,zorritos
+Peru,peru,PE,Ucayali,ucayali,Atalaya,atalaya
+Peru,peru,PE,Ucayali,ucayali,Campoverde,campoverde
+Peru,peru,PE,Ucayali,ucayali,Padre Abad,padre-abad
+Peru,peru,PE,Ucayali,ucayali,Provincia de Coronel Portillo,provincia-de-coronel-portillo
+Peru,peru,PE,Ucayali,ucayali,Pucallpa,pucallpa
+Peru,peru,PE,Ucayali,ucayali,Purus,purus

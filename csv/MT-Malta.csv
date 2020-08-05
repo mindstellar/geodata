@@ -1,78 +1,78 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Malta,MT,Attard,attard,Attard,attard
-Malta,MT,Balzan,balzan,Balzan,balzan
-Malta,MT,Birgu,birgu,Vittoriosa,vittoriosa
-Malta,MT,Birkirkara,birkirkara,Birkirkara,birkirkara
-Malta,MT,Birzebbuga,birzebbuga,Birzebbuga,birzebbuga
-Malta,MT,Cospicua,cospicua,Cospicua,cospicua
-Malta,MT,Dingli,dingli,Dingli,dingli
-Malta,MT,Fgura,fgura,Fgura,fgura
-Malta,MT,Floriana,floriana,Floriana,floriana
-Malta,MT,Fontana,fontana,Fontana,fontana
-Malta,MT,Gajnsielem,gajnsielem,Gajnsielem,gajnsielem
-Malta,MT,Gajnsielem,gajnsielem,Hal Gharghur,hal-gharghur
-Malta,MT,Garb,garb,Garb,garb
-Malta,MT,Gargur,gargur,Gaxaq,gaxaq
-Malta,MT,Gasri,gasri,Gudja,gudja
-Malta,MT,Gaxaq,gaxaq,Gzira,gzira
-Malta,MT,Gudja,gudja,Gudja,gudja
-Malta,MT,Gzira,gzira,Garb,garb
-Malta,MT,amrun,amrun,amrun,amrun
-Malta,MT,Iklin,iklin,L-Iklin,l-iklin
-Malta,MT,Kalkara,kalkara,Imgarr,imgarr
-Malta,MT,Kalkara,kalkara,Mgarr,mgarr
-Malta,MT,Kercem,kercem,Mqabba,mqabba
-Malta,MT,Kirkop,kirkop,Imsida,imsida
-Malta,MT,Kirkop,kirkop,Kirkop,kirkop
-Malta,MT,Lija,lija,Imtarfa,imtarfa
-Malta,MT,Lija,lija,Lija,lija
-Malta,MT,Luqa,luqa,Luqa,luqa
-Malta,MT,Luqa,luqa,Senglea,senglea
-Malta,MT,Marsa,marsa,Kalkara,kalkara
-Malta,MT,Marsaskala,marsaskala,Kercem,kercem
-Malta,MT,Marsaskala,marsaskala,Marsaskala,marsaskala
-Malta,MT,Marsaxlokk,marsaxlokk,Marsaxlokk,marsaxlokk
-Malta,MT,Mdina,mdina,Mdina,mdina
-Malta,MT,Melliea,melliea,Melliea,melliea
-Malta,MT,Mgarr,mgarr,Marsa,marsa
-Malta,MT,Mosta,mosta,Mosta,mosta
-Malta,MT,Mqabba,mqabba,Mqabba,mqabba
-Malta,MT,Msida,msida,Melliea,melliea
-Malta,MT,Mtarfa,mtarfa,Mtarfa,mtarfa
-Malta,MT,Munxar,munxar,Munxar,munxar
-Malta,MT,Nadur,nadur,Nadur,nadur
-Malta,MT,Naxxar,naxxar,Naxxar,naxxar
-Malta,MT,Paola,paola,Paola,paola
-Malta,MT,Pembroke,pembroke,Pembroke,pembroke
-Malta,MT,Pieta,pieta,Pieta,pieta
-Malta,MT,Qala,qala,Qala,qala
-Malta,MT,Qormi,qormi,Qormi,qormi
-Malta,MT,Qrendi,qrendi,Qrendi,qrendi
-Malta,MT,Rabat,rabat,Rabat,rabat
-Malta,MT,Saint Lawrence,saint-lawrence,San Lawrenz,san-lawrenz
-Malta,MT,San Gwann,san-gwann,San Giljan,san-giljan
-Malta,MT,Sannat,sannat,San Pawl il-Baar,san-pawl-il-baar
-Malta,MT,Sannat,sannat,Sannat,sannat
-Malta,MT,Santa Lucija,santa-lucija,Santa Venera,santa-venera
-Malta,MT,Santa Venera,santa-venera,Santa Venera,santa-venera
-Malta,MT,Senglea,senglea,Imdina,imdina
-Malta,MT,Siggiewi,siggiewi,Siggiewi,siggiewi
-Malta,MT,Sliema,sliema,Sliema,sliema
-Malta,MT,St. Julian's,st-julians,Saint John,saint-john
-Malta,MT,St. Paul's Bay,st-pauls-bay,Mosta,mosta
-Malta,MT,St. Paul's Bay,st-pauls-bay,Saint Lucia,saint-lucia
-Malta,MT,St. Paul's Bay,st-pauls-bay,Santa Lucija,santa-lucija
-Malta,MT,Swieqi,swieqi,Swieqi,swieqi
-Malta,MT,Ta' Xbiex,ta-xbiex,Ta Xbiex,ta-xbiex
-Malta,MT,Tarxien,tarxien,Tarxien,tarxien
-Malta,MT,Valletta,valletta,Valletta,valletta
-Malta,MT,Victoria,victoria,Rabat,rabat
-Malta,MT,Victoria,victoria,Victoria,victoria
-Malta,MT,Xagra,xagra,Xagra,xagra
-Malta,MT,Xewkija,xewkija,Xewkija,xewkija
-Malta,MT,Xgajra,xgajra,Xgajra,xgajra
-Malta,MT,Zabbar,zabbar,Zabbar,zabbar
-Malta,MT,Zebbug Gozo,zebbug-gozo,Haz-Zebbug,haz-zebbug
-Malta,MT,Zebbug Malta,zebbug-malta,Zebbug,zebbug
-Malta,MT,Zejtun,zejtun,Zejtun,zejtun
-Malta,MT,Zurrieq,zurrieq,Zurrieq,zurrieq
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Malta,malta,MT,Attard,attard,Attard,attard
+Malta,malta,MT,Balzan,balzan,Balzan,balzan
+Malta,malta,MT,Birgu,birgu,Vittoriosa,vittoriosa
+Malta,malta,MT,Birkirkara,birkirkara,Birkirkara,birkirkara
+Malta,malta,MT,Birzebbuga,birzebbuga,Birzebbuga,birzebbuga
+Malta,malta,MT,Cospicua,cospicua,Cospicua,cospicua
+Malta,malta,MT,Dingli,dingli,Dingli,dingli
+Malta,malta,MT,Fgura,fgura,Fgura,fgura
+Malta,malta,MT,Floriana,floriana,Floriana,floriana
+Malta,malta,MT,Fontana,fontana,Fontana,fontana
+Malta,malta,MT,Gajnsielem,gajnsielem,Gajnsielem,gajnsielem
+Malta,malta,MT,Gajnsielem,gajnsielem,Hal Gharghur,hal-gharghur
+Malta,malta,MT,Garb,garb,Garb,garb
+Malta,malta,MT,Gargur,gargur,Gaxaq,gaxaq
+Malta,malta,MT,Gasri,gasri,Gudja,gudja
+Malta,malta,MT,Gaxaq,gaxaq,Gzira,gzira
+Malta,malta,MT,Gudja,gudja,Gudja,gudja
+Malta,malta,MT,Gzira,gzira,Garb,garb
+Malta,malta,MT,amrun,amrun,amrun,amrun
+Malta,malta,MT,Iklin,iklin,L-Iklin,l-iklin
+Malta,malta,MT,Kalkara,kalkara,Imgarr,imgarr
+Malta,malta,MT,Kalkara,kalkara,Mgarr,mgarr
+Malta,malta,MT,Kercem,kercem,Mqabba,mqabba
+Malta,malta,MT,Kirkop,kirkop,Imsida,imsida
+Malta,malta,MT,Kirkop,kirkop,Kirkop,kirkop
+Malta,malta,MT,Lija,lija,Imtarfa,imtarfa
+Malta,malta,MT,Lija,lija,Lija,lija
+Malta,malta,MT,Luqa,luqa,Luqa,luqa
+Malta,malta,MT,Luqa,luqa,Senglea,senglea
+Malta,malta,MT,Marsa,marsa,Kalkara,kalkara
+Malta,malta,MT,Marsaskala,marsaskala,Kercem,kercem
+Malta,malta,MT,Marsaskala,marsaskala,Marsaskala,marsaskala
+Malta,malta,MT,Marsaxlokk,marsaxlokk,Marsaxlokk,marsaxlokk
+Malta,malta,MT,Mdina,mdina,Mdina,mdina
+Malta,malta,MT,Melliea,melliea,Melliea,melliea
+Malta,malta,MT,Mgarr,mgarr,Marsa,marsa
+Malta,malta,MT,Mosta,mosta,Mosta,mosta
+Malta,malta,MT,Mqabba,mqabba,Mqabba,mqabba
+Malta,malta,MT,Msida,msida,Melliea,melliea
+Malta,malta,MT,Mtarfa,mtarfa,Mtarfa,mtarfa
+Malta,malta,MT,Munxar,munxar,Munxar,munxar
+Malta,malta,MT,Nadur,nadur,Nadur,nadur
+Malta,malta,MT,Naxxar,naxxar,Naxxar,naxxar
+Malta,malta,MT,Paola,paola,Paola,paola
+Malta,malta,MT,Pembroke,pembroke,Pembroke,pembroke
+Malta,malta,MT,Pieta,pieta,Pieta,pieta
+Malta,malta,MT,Qala,qala,Qala,qala
+Malta,malta,MT,Qormi,qormi,Qormi,qormi
+Malta,malta,MT,Qrendi,qrendi,Qrendi,qrendi
+Malta,malta,MT,Rabat,rabat,Rabat,rabat
+Malta,malta,MT,Saint Lawrence,saint-lawrence,San Lawrenz,san-lawrenz
+Malta,malta,MT,San Gwann,san-gwann,San Giljan,san-giljan
+Malta,malta,MT,Sannat,sannat,San Pawl il-Baar,san-pawl-il-baar
+Malta,malta,MT,Sannat,sannat,Sannat,sannat
+Malta,malta,MT,Santa Lucija,santa-lucija,Santa Venera,santa-venera
+Malta,malta,MT,Santa Venera,santa-venera,Santa Venera,santa-venera
+Malta,malta,MT,Senglea,senglea,Imdina,imdina
+Malta,malta,MT,Siggiewi,siggiewi,Siggiewi,siggiewi
+Malta,malta,MT,Sliema,sliema,Sliema,sliema
+Malta,malta,MT,St. Julian's,st-julians,Saint John,saint-john
+Malta,malta,MT,St. Paul's Bay,st-pauls-bay,Mosta,mosta
+Malta,malta,MT,St. Paul's Bay,st-pauls-bay,Saint Lucia,saint-lucia
+Malta,malta,MT,St. Paul's Bay,st-pauls-bay,Santa Lucija,santa-lucija
+Malta,malta,MT,Swieqi,swieqi,Swieqi,swieqi
+Malta,malta,MT,Ta' Xbiex,ta-xbiex,Ta Xbiex,ta-xbiex
+Malta,malta,MT,Tarxien,tarxien,Tarxien,tarxien
+Malta,malta,MT,Valletta,valletta,Valletta,valletta
+Malta,malta,MT,Victoria,victoria,Rabat,rabat
+Malta,malta,MT,Victoria,victoria,Victoria,victoria
+Malta,malta,MT,Xagra,xagra,Xagra,xagra
+Malta,malta,MT,Xewkija,xewkija,Xewkija,xewkija
+Malta,malta,MT,Xgajra,xgajra,Xgajra,xgajra
+Malta,malta,MT,Zabbar,zabbar,Zabbar,zabbar
+Malta,malta,MT,Zebbug Gozo,zebbug-gozo,Haz-Zebbug,haz-zebbug
+Malta,malta,MT,Zebbug Malta,zebbug-malta,Zebbug,zebbug
+Malta,malta,MT,Zejtun,zejtun,Zejtun,zejtun
+Malta,malta,MT,Zurrieq,zurrieq,Zurrieq,zurrieq

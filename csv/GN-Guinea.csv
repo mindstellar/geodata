@@ -1,0 +1,88 @@
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Guinea,guinea,GN,Beyla Prefecture,beyla-prefecture,Beyla Prefecture,beyla-prefecture
+Guinea,guinea,GN,Boffa Prefecture,boffa-prefecture,Boffa Prefecture,boffa-prefecture
+Guinea,guinea,GN,Boke Prefecture,boke-prefecture,Boke Prefecture,boke-prefecture
+Guinea,guinea,GN,Boke Region,boke-region,Boffa,boffa
+Guinea,guinea,GN,Boke Region,boke-region,Boke,boke
+Guinea,guinea,GN,Boke Region,boke-region,Boke Prefecture,boke-prefecture
+Guinea,guinea,GN,Boke Region,boke-region,Fria,fria
+Guinea,guinea,GN,Boke Region,boke-region,Gaoual,gaoual
+Guinea,guinea,GN,Boke Region,boke-region,Gaoual Prefecture,gaoual-prefecture
+Guinea,guinea,GN,Boke Region,boke-region,Kimbo,kimbo
+Guinea,guinea,GN,Boke Region,boke-region,Koundara,koundara
+Guinea,guinea,GN,Boke Region,boke-region,Koundara Prefecture,koundara-prefecture
+Guinea,guinea,GN,Boke Region,boke-region,Sangueya,sangueya
+Guinea,guinea,GN,Boke Region,boke-region,Youkounkoun,youkounkoun
+Guinea,guinea,GN,Conakry,conakry,Camayenne,camayenne
+Guinea,guinea,GN,Conakry,conakry,Conakry,conakry
+Guinea,guinea,GN,Coyah Prefecture,coyah-prefecture,Coyah Prefecture,coyah-prefecture
+Guinea,guinea,GN,Dabola Prefecture,dabola-prefecture,Dabola Prefecture,dabola-prefecture
+Guinea,guinea,GN,Dalaba Prefecture,dalaba-prefecture,Dalaba Prefecture,dalaba-prefecture
+Guinea,guinea,GN,Dinguiraye Prefecture,dinguiraye-prefecture,Dinguiraye Prefecture,dinguiraye-prefecture
+Guinea,guinea,GN,Dubreka Prefecture,dubreka-prefecture,Dubreka Prefecture,dubreka-prefecture
+Guinea,guinea,GN,Faranah Prefecture,faranah-prefecture,Faranah Prefecture,faranah-prefecture
+Guinea,guinea,GN,Forecariah Prefecture,forecariah-prefecture,Forecariah Prefecture,forecariah-prefecture
+Guinea,guinea,GN,Fria Prefecture,fria-prefecture,Fria Prefecture,fria-prefecture
+Guinea,guinea,GN,Gaoual Prefecture,gaoual-prefecture,Gaoual Prefecture,gaoual-prefecture
+Guinea,guinea,GN,Gueckedou Prefecture,gueckedou-prefecture,Gueckedou Prefecture,gueckedou-prefecture
+Guinea,guinea,GN,Kankan Prefecture,kankan-prefecture,Kankan Prefecture,kankan-prefecture
+Guinea,guinea,GN,Kankan Region,kankan-region,Kankan,kankan
+Guinea,guinea,GN,Kankan Region,kankan-region,Kankan Prefecture,kankan-prefecture
+Guinea,guinea,GN,Kankan Region,kankan-region,Kerouane,kerouane
+Guinea,guinea,GN,Kankan Region,kankan-region,Kerouane Prefecture,kerouane-prefecture
+Guinea,guinea,GN,Kankan Region,kankan-region,Kouroussa,kouroussa
+Guinea,guinea,GN,Kankan Region,kankan-region,Mandiana,mandiana
+Guinea,guinea,GN,Kankan Region,kankan-region,Mandiana Prefecture,mandiana-prefecture
+Guinea,guinea,GN,Kankan Region,kankan-region,Siguiri,siguiri
+Guinea,guinea,GN,Kankan Region,kankan-region,Siguiri Prefecture,siguiri-prefecture
+Guinea,guinea,GN,Kankan Region,kankan-region,Tokonou,tokonou
+Guinea,guinea,GN,Kerouane Prefecture,kerouane-prefecture,Kerouane Prefecture,kerouane-prefecture
+Guinea,guinea,GN,Kindia Prefecture,kindia-prefecture,Kindia Prefecture,kindia-prefecture
+Guinea,guinea,GN,Kindia Region,kindia-region,Coyah,coyah
+Guinea,guinea,GN,Kindia Region,kindia-region,Dubreka,dubreka
+Guinea,guinea,GN,Kindia Region,kindia-region,Forecariah,forecariah
+Guinea,guinea,GN,Kindia Region,kindia-region,Kindia,kindia
+Guinea,guinea,GN,Kindia Region,kindia-region,Prefecture de Dubreka,prefecture-de-dubreka
+Guinea,guinea,GN,Kindia Region,kindia-region,Prefecture de Forecariah,prefecture-de-forecariah
+Guinea,guinea,GN,Kindia Region,kindia-region,Telimele,telimele
+Guinea,guinea,GN,Kindia Region,kindia-region,Telimele Prefecture,telimele-prefecture
+Guinea,guinea,GN,Kindia Region,kindia-region,Tondon,tondon
+Guinea,guinea,GN,Kissidougou Prefecture,kissidougou-prefecture,Kissidougou Prefecture,kissidougou-prefecture
+Guinea,guinea,GN,Koubia Prefecture,koubia-prefecture,Koubia Prefecture,koubia-prefecture
+Guinea,guinea,GN,Koundara Prefecture,koundara-prefecture,Koundara Prefecture,koundara-prefecture
+Guinea,guinea,GN,Kouroussa Prefecture,kouroussa-prefecture,Kouroussa Prefecture,kouroussa-prefecture
+Guinea,guinea,GN,Labe Prefecture,labe-prefecture,Labe Prefecture,labe-prefecture
+Guinea,guinea,GN,Labe Region,labe-region,Koubia,koubia
+Guinea,guinea,GN,Labe Region,labe-region,Labe,labe
+Guinea,guinea,GN,Labe Region,labe-region,Labe Prefecture,labe-prefecture
+Guinea,guinea,GN,Labe Region,labe-region,Lelouma,lelouma
+Guinea,guinea,GN,Labe Region,labe-region,Lelouma Prefecture,lelouma-prefecture
+Guinea,guinea,GN,Labe Region,labe-region,Mali,mali
+Guinea,guinea,GN,Labe Region,labe-region,Mali Prefecture,mali-prefecture
+Guinea,guinea,GN,Labe Region,labe-region,Tougue,tougue
+Guinea,guinea,GN,Labe Region,labe-region,Tougue Prefecture,tougue-prefecture
+Guinea,guinea,GN,Lelouma Prefecture,lelouma-prefecture,Lelouma Prefecture,lelouma-prefecture
+Guinea,guinea,GN,Lola Prefecture,lola-prefecture,Lola Prefecture,lola-prefecture
+Guinea,guinea,GN,Macenta Prefecture,macenta-prefecture,Macenta Prefecture,macenta-prefecture
+Guinea,guinea,GN,Mali Prefecture,mali-prefecture,Mali Prefecture,mali-prefecture
+Guinea,guinea,GN,Mamou Prefecture,mamou-prefecture,Mamou Prefecture,mamou-prefecture
+Guinea,guinea,GN,Mamou Region,mamou-region,Dalaba,dalaba
+Guinea,guinea,GN,Mamou Region,mamou-region,Mamou,mamou
+Guinea,guinea,GN,Mamou Region,mamou-region,Mamou Prefecture,mamou-prefecture
+Guinea,guinea,GN,Mamou Region,mamou-region,Pita,pita
+Guinea,guinea,GN,Mandiana Prefecture,mandiana-prefecture,Mandiana Prefecture,mandiana-prefecture
+Guinea,guinea,GN,Nzerekore Prefecture,nzerekore-prefecture,Nzerekore Prefecture,nzerekore-prefecture
+Guinea,guinea,GN,Nzerekore Region,nzerekore-region,Beyla,beyla
+Guinea,guinea,GN,Nzerekore Region,nzerekore-region,Beyla Prefecture,beyla-prefecture
+Guinea,guinea,GN,Nzerekore Region,nzerekore-region,Gueckedou,gueckedou
+Guinea,guinea,GN,Nzerekore Region,nzerekore-region,Lola,lola
+Guinea,guinea,GN,Nzerekore Region,nzerekore-region,Macenta,macenta
+Guinea,guinea,GN,Nzerekore Region,nzerekore-region,Nzerekore,nzerekore
+Guinea,guinea,GN,Nzerekore Region,nzerekore-region,Nzerekore Prefecture,nzerekore-prefecture
+Guinea,guinea,GN,Nzerekore Region,nzerekore-region,Prefecture de Guekedou,prefecture-de-guekedou
+Guinea,guinea,GN,Nzerekore Region,nzerekore-region,Yomou,yomou
+Guinea,guinea,GN,Pita Prefecture,pita-prefecture,Pita Prefecture,pita-prefecture
+Guinea,guinea,GN,Siguiri Prefecture,siguiri-prefecture,Siguiri Prefecture,siguiri-prefecture
+Guinea,guinea,GN,Telimele Prefecture,telimele-prefecture,Telimele Prefecture,telimele-prefecture
+Guinea,guinea,GN,Tougue Prefecture,tougue-prefecture,Tougue Prefecture,tougue-prefecture
+Guinea,guinea,GN,Yomou Prefecture,yomou-prefecture,Yomou Prefecture,yomou-prefecture

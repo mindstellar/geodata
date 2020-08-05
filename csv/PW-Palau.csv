@@ -1,18 +1,18 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Palau,PW,Aimeliik,aimeliik,Ngchemiangel,ngchemiangel
-Palau,PW,Airai,airai,Ngetkib,ngetkib
-Palau,PW,Angaur,angaur,Angaur State,angaur-state
-Palau,PW,Hatohobei,hatohobei,Tobi Village,tobi-village
-Palau,PW,Kayangel,kayangel,Kayangel,kayangel
-Palau,PW,Koror,koror,Koror,koror
-Palau,PW,Koror,koror,Koror Town,koror-town
-Palau,PW,Melekeok,melekeok,Melekeok Village,melekeok-village
-Palau,PW,Ngaraard,ngaraard,Ulimang,ulimang
-Palau,PW,Ngarchelong,ngarchelong,Mengellang,mengellang
-Palau,PW,Ngardmau,ngardmau,Ngardmau,ngardmau
-Palau,PW,Ngatpang,ngatpang,Ngatpang,ngatpang
-Palau,PW,Ngchesar,ngchesar,Ngchesar Hamlet,ngchesar-hamlet
-Palau,PW,Ngeremlengui,ngeremlengui,Imeong Hamlet,imeong-hamlet
-Palau,PW,Ngiwal,ngiwal,Ngerkeai,ngerkeai
-Palau,PW,Peleliu,peleliu,Kloulklubed,kloulklubed
-Palau,PW,Sonsorol,sonsorol,Sonsorol Village,sonsorol-village
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Palau,palau,PW,Aimeliik,aimeliik,Ngchemiangel,ngchemiangel
+Palau,palau,PW,Airai,airai,Ngetkib,ngetkib
+Palau,palau,PW,Angaur,angaur,Angaur State,angaur-state
+Palau,palau,PW,Hatohobei,hatohobei,Tobi Village,tobi-village
+Palau,palau,PW,Kayangel,kayangel,Kayangel,kayangel
+Palau,palau,PW,Koror,koror,Koror,koror
+Palau,palau,PW,Koror,koror,Koror Town,koror-town
+Palau,palau,PW,Melekeok,melekeok,Melekeok Village,melekeok-village
+Palau,palau,PW,Ngaraard,ngaraard,Ulimang,ulimang
+Palau,palau,PW,Ngarchelong,ngarchelong,Mengellang,mengellang
+Palau,palau,PW,Ngardmau,ngardmau,Ngardmau,ngardmau
+Palau,palau,PW,Ngatpang,ngatpang,Ngatpang,ngatpang
+Palau,palau,PW,Ngchesar,ngchesar,Ngchesar Hamlet,ngchesar-hamlet
+Palau,palau,PW,Ngeremlengui,ngeremlengui,Imeong Hamlet,imeong-hamlet
+Palau,palau,PW,Ngiwal,ngiwal,Ngerkeai,ngerkeai
+Palau,palau,PW,Peleliu,peleliu,Kloulklubed,kloulklubed
+Palau,palau,PW,Sonsorol,sonsorol,Sonsorol Village,sonsorol-village

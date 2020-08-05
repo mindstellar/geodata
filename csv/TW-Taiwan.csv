@@ -1,44 +1,44 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Taiwan,TW,Changhua County,changhua-county,Changhua,changhua
-Taiwan,TW,Changhua County,changhua-county,Yuanlin,yuanlin
-Taiwan,TW,Chiayi City,chiayi-city,Chiayi County,chiayi-county
-Taiwan,TW,Chiayi County,chiayi-county,Chiayi,chiayi
-Taiwan,TW,Chiayi County,chiayi-county,Pizitou,pizitou
-Taiwan,TW,Hsinchu,hsinchu,Hsinchu County,hsinchu-county
-Taiwan,TW,Hsinchu County,hsinchu-county,Hsinchu,hsinchu
-Taiwan,TW,Hualien County,hualien-county,Hualien,hualien
-Taiwan,TW,Hualien County,hualien-county,Hualien City,hualien-city
-Taiwan,TW,Kaohsiung,kaohsiung,Kaohsiung,kaohsiung
-Taiwan,TW,Kaohsiung County,kaohsiung-county,Kaohsiung County,kaohsiung-county
-Taiwan,TW,Kinmen,kinmen,Jincheng,jincheng
-Taiwan,TW,Kinmen,kinmen,Kinmen County,kinmen-county
-Taiwan,TW,Lienchiang County,lienchiang-county,Lienchiang,lienchiang
-Taiwan,TW,Lienchiang County,lienchiang-county,Nangan,nangan
-Taiwan,TW,Miaoli County,miaoli-county,Miaoli,miaoli
-Taiwan,TW,Nantou County,nantou-county,Lugu,lugu
-Taiwan,TW,Nantou County,nantou-county,Nantou,nantou
-Taiwan,TW,Nantou County,nantou-county,Puli,puli
-Taiwan,TW,Nantou County,nantou-county,Zhongxing New Village,zhongxing-new-village
-Taiwan,TW,Penghu County,penghu-county,Magong,magong
-Taiwan,TW,Penghu County,penghu-county,Penghu County,penghu-county
-Taiwan,TW,Pingtung County,pingtung-county,Donggang,donggang
-Taiwan,TW,Pingtung County,pingtung-county,Hengchun,hengchun
-Taiwan,TW,Pingtung County,pingtung-county,Pingtung,pingtung
-Taiwan,TW,Taichung,taichung,Taichung,taichung
-Taiwan,TW,Taichung,taichung,Taichung City,taichung-city
-Taiwan,TW,Taichung County,taichung-county,Taichung County,taichung-county
-Taiwan,TW,Tainan,tainan,Tainan,tainan
-Taiwan,TW,Tainan,tainan,Yujing,yujing
-Taiwan,TW,Tainan County,tainan-county,Tainan County,tainan-county
-Taiwan,TW,Taipei,taipei,Banqiao,banqiao
-Taiwan,TW,Taipei,taipei,Jiufen,jiufen
-Taiwan,TW,Taipei,taipei,Taipei,taipei
-Taiwan,TW,Taipei,taipei,Taipei City,taipei-city
-Taiwan,TW,Taitung County,taitung-county,Taitung,taitung
-Taiwan,TW,Taitung County,taitung-county,Taitung City,taitung-city
-Taiwan,TW,Taoyuan City,taoyuan-city,Daxi,daxi
-Taiwan,TW,Taoyuan City,taoyuan-city,Taoyuan,taoyuan
-Taiwan,TW,Taoyuan City,taoyuan-city,Taoyuan City,taoyuan-city
-Taiwan,TW,Yilan County,yilan-county,Yilan,yilan
-Taiwan,TW,Yunlin County,yunlin-county,Douliu,douliu
-Taiwan,TW,Yunlin County,yunlin-county,Yunlin,yunlin
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Taiwan,taiwan,TW,Changhua County,changhua-county,Changhua,changhua
+Taiwan,taiwan,TW,Changhua County,changhua-county,Yuanlin,yuanlin
+Taiwan,taiwan,TW,Chiayi City,chiayi-city,Chiayi County,chiayi-county
+Taiwan,taiwan,TW,Chiayi County,chiayi-county,Chiayi,chiayi
+Taiwan,taiwan,TW,Chiayi County,chiayi-county,Pizitou,pizitou
+Taiwan,taiwan,TW,Hsinchu,hsinchu,Hsinchu County,hsinchu-county
+Taiwan,taiwan,TW,Hsinchu County,hsinchu-county,Hsinchu,hsinchu
+Taiwan,taiwan,TW,Hualien County,hualien-county,Hualien,hualien
+Taiwan,taiwan,TW,Hualien County,hualien-county,Hualien City,hualien-city
+Taiwan,taiwan,TW,Kaohsiung,kaohsiung,Kaohsiung,kaohsiung
+Taiwan,taiwan,TW,Kaohsiung County,kaohsiung-county,Kaohsiung County,kaohsiung-county
+Taiwan,taiwan,TW,Kinmen,kinmen,Jincheng,jincheng
+Taiwan,taiwan,TW,Kinmen,kinmen,Kinmen County,kinmen-county
+Taiwan,taiwan,TW,Lienchiang County,lienchiang-county,Lienchiang,lienchiang
+Taiwan,taiwan,TW,Lienchiang County,lienchiang-county,Nangan,nangan
+Taiwan,taiwan,TW,Miaoli County,miaoli-county,Miaoli,miaoli
+Taiwan,taiwan,TW,Nantou County,nantou-county,Lugu,lugu
+Taiwan,taiwan,TW,Nantou County,nantou-county,Nantou,nantou
+Taiwan,taiwan,TW,Nantou County,nantou-county,Puli,puli
+Taiwan,taiwan,TW,Nantou County,nantou-county,Zhongxing New Village,zhongxing-new-village
+Taiwan,taiwan,TW,Penghu County,penghu-county,Magong,magong
+Taiwan,taiwan,TW,Penghu County,penghu-county,Penghu County,penghu-county
+Taiwan,taiwan,TW,Pingtung County,pingtung-county,Donggang,donggang
+Taiwan,taiwan,TW,Pingtung County,pingtung-county,Hengchun,hengchun
+Taiwan,taiwan,TW,Pingtung County,pingtung-county,Pingtung,pingtung
+Taiwan,taiwan,TW,Taichung,taichung,Taichung,taichung
+Taiwan,taiwan,TW,Taichung,taichung,Taichung City,taichung-city
+Taiwan,taiwan,TW,Taichung County,taichung-county,Taichung County,taichung-county
+Taiwan,taiwan,TW,Tainan,tainan,Tainan,tainan
+Taiwan,taiwan,TW,Tainan,tainan,Yujing,yujing
+Taiwan,taiwan,TW,Tainan County,tainan-county,Tainan County,tainan-county
+Taiwan,taiwan,TW,Taipei,taipei,Banqiao,banqiao
+Taiwan,taiwan,TW,Taipei,taipei,Jiufen,jiufen
+Taiwan,taiwan,TW,Taipei,taipei,Taipei,taipei
+Taiwan,taiwan,TW,Taipei,taipei,Taipei City,taipei-city
+Taiwan,taiwan,TW,Taitung County,taitung-county,Taitung,taitung
+Taiwan,taiwan,TW,Taitung County,taitung-county,Taitung City,taitung-city
+Taiwan,taiwan,TW,Taoyuan City,taoyuan-city,Daxi,daxi
+Taiwan,taiwan,TW,Taoyuan City,taoyuan-city,Taoyuan,taoyuan
+Taiwan,taiwan,TW,Taoyuan City,taoyuan-city,Taoyuan City,taoyuan-city
+Taiwan,taiwan,TW,Yilan County,yilan-county,Yilan,yilan
+Taiwan,taiwan,TW,Yunlin County,yunlin-county,Douliu,douliu
+Taiwan,taiwan,TW,Yunlin County,yunlin-county,Yunlin,yunlin

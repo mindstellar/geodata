@@ -1,49 +1,49 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Angola,AO,Bengo Province,bengo-province,Caxito,caxito
-Angola,AO,Benguela Province,benguela-province,Benguela,benguela
-Angola,AO,Benguela Province,benguela-province,Catumbela,catumbela
-Angola,AO,Benguela Province,benguela-province,Lobito,lobito
-Angola,AO,Bie Province,bie-province,Camacupa,camacupa
-Angola,AO,Bie Province,bie-province,Catabola,catabola
-Angola,AO,Bie Province,bie-province,Chissamba,chissamba
-Angola,AO,Bie Province,bie-province,Cuito,cuito
-Angola,AO,Cabinda Province,cabinda-province,Cabinda,cabinda
-Angola,AO,Cuando Cubango Province,cuando-cubango-province,Menongue,menongue
-Angola,AO,Cuanza Norte Province,cuanza-norte-province,Camabatela,camabatela
-Angola,AO,Cuanza Norte Province,cuanza-norte-province,Ndalatando,ndalatando
-Angola,AO,Cuanza Sul,cuanza-sul,Quibala,quibala
-Angola,AO,Cuanza Sul,cuanza-sul,Sumbe,sumbe
-Angola,AO,Cuanza Sul,cuanza-sul,Uacu Cungo,uacu-cungo
-Angola,AO,Cunene Province,cunene-province,Ondjiva,ondjiva
-Angola,AO,Huambo Province,huambo-province,Caala,caala
-Angola,AO,Huambo Province,huambo-province,Chela,chela
-Angola,AO,Huambo Province,huambo-province,Huambo,huambo
-Angola,AO,Huambo Province,huambo-province,Longonjo,longonjo
-Angola,AO,Huila Province,huila-province,Caconda,caconda
-Angola,AO,Huila Province,huila-province,Caluquembe,caluquembe
-Angola,AO,Huila Province,huila-province,Chibia,chibia
-Angola,AO,Huila Province,huila-province,Chicomba,chicomba
-Angola,AO,Huila Province,huila-province,Chipindo,chipindo
-Angola,AO,Huila Province,huila-province,Cuvango,cuvango
-Angola,AO,Huila Province,huila-province,Gambos,gambos
-Angola,AO,Huila Province,huila-province,Humpata,humpata
-Angola,AO,Huila Province,huila-province,Jamba,jamba
-Angola,AO,Huila Province,huila-province,Lubango,lubango
-Angola,AO,Huila Province,huila-province,Matala,matala
-Angola,AO,Huila Province,huila-province,Quilengues,quilengues
-Angola,AO,Huila Province,huila-province,Quipungo,quipungo
-Angola,AO,Luanda Province,luanda-province,Belas,belas
-Angola,AO,Luanda Province,luanda-province,Icolo e Bengo,icolo-e-bengo
-Angola,AO,Luanda Province,luanda-province,Luanda,luanda
-Angola,AO,Lunda Norte Province,lunda-norte-province,Lucapa,lucapa
-Angola,AO,Lunda Sul Province,lunda-sul-province,Cazaji,cazaji
-Angola,AO,Lunda Sul Province,lunda-sul-province,Saurimo,saurimo
-Angola,AO,Malanje Province,malanje-province,Malanje,malanje
-Angola,AO,Moxico Province,moxico-province,Leua,leua
-Angola,AO,Moxico Province,moxico-province,Luau,luau
-Angola,AO,Moxico Province,moxico-province,Luena,luena
-Angola,AO,Moxico Province,moxico-province,Lumeje,lumeje
-Angola,AO,Uige Province,uige-province,Uige,uige
-Angola,AO,Zaire Province,zaire-province,Mbanza Congo,mbanza-congo
-Angola,AO,Zaire Province,zaire-province,N'zeto,nzeto
-Angola,AO,Zaire Province,zaire-province,Soio,soio
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Angola,angola,AO,Bengo Province,bengo-province,Caxito,caxito
+Angola,angola,AO,Benguela Province,benguela-province,Benguela,benguela
+Angola,angola,AO,Benguela Province,benguela-province,Catumbela,catumbela
+Angola,angola,AO,Benguela Province,benguela-province,Lobito,lobito
+Angola,angola,AO,Bie Province,bie-province,Camacupa,camacupa
+Angola,angola,AO,Bie Province,bie-province,Catabola,catabola
+Angola,angola,AO,Bie Province,bie-province,Chissamba,chissamba
+Angola,angola,AO,Bie Province,bie-province,Cuito,cuito
+Angola,angola,AO,Cabinda Province,cabinda-province,Cabinda,cabinda
+Angola,angola,AO,Cuando Cubango Province,cuando-cubango-province,Menongue,menongue
+Angola,angola,AO,Cuanza Norte Province,cuanza-norte-province,Camabatela,camabatela
+Angola,angola,AO,Cuanza Norte Province,cuanza-norte-province,Ndalatando,ndalatando
+Angola,angola,AO,Cuanza Sul,cuanza-sul,Quibala,quibala
+Angola,angola,AO,Cuanza Sul,cuanza-sul,Sumbe,sumbe
+Angola,angola,AO,Cuanza Sul,cuanza-sul,Uacu Cungo,uacu-cungo
+Angola,angola,AO,Cunene Province,cunene-province,Ondjiva,ondjiva
+Angola,angola,AO,Huambo Province,huambo-province,Caala,caala
+Angola,angola,AO,Huambo Province,huambo-province,Chela,chela
+Angola,angola,AO,Huambo Province,huambo-province,Huambo,huambo
+Angola,angola,AO,Huambo Province,huambo-province,Longonjo,longonjo
+Angola,angola,AO,Huila Province,huila-province,Caconda,caconda
+Angola,angola,AO,Huila Province,huila-province,Caluquembe,caluquembe
+Angola,angola,AO,Huila Province,huila-province,Chibia,chibia
+Angola,angola,AO,Huila Province,huila-province,Chicomba,chicomba
+Angola,angola,AO,Huila Province,huila-province,Chipindo,chipindo
+Angola,angola,AO,Huila Province,huila-province,Cuvango,cuvango
+Angola,angola,AO,Huila Province,huila-province,Gambos,gambos
+Angola,angola,AO,Huila Province,huila-province,Humpata,humpata
+Angola,angola,AO,Huila Province,huila-province,Jamba,jamba
+Angola,angola,AO,Huila Province,huila-province,Lubango,lubango
+Angola,angola,AO,Huila Province,huila-province,Matala,matala
+Angola,angola,AO,Huila Province,huila-province,Quilengues,quilengues
+Angola,angola,AO,Huila Province,huila-province,Quipungo,quipungo
+Angola,angola,AO,Luanda Province,luanda-province,Belas,belas
+Angola,angola,AO,Luanda Province,luanda-province,Icolo e Bengo,icolo-e-bengo
+Angola,angola,AO,Luanda Province,luanda-province,Luanda,luanda
+Angola,angola,AO,Lunda Norte Province,lunda-norte-province,Lucapa,lucapa
+Angola,angola,AO,Lunda Sul Province,lunda-sul-province,Cazaji,cazaji
+Angola,angola,AO,Lunda Sul Province,lunda-sul-province,Saurimo,saurimo
+Angola,angola,AO,Malanje Province,malanje-province,Malanje,malanje
+Angola,angola,AO,Moxico Province,moxico-province,Leua,leua
+Angola,angola,AO,Moxico Province,moxico-province,Luau,luau
+Angola,angola,AO,Moxico Province,moxico-province,Luena,luena
+Angola,angola,AO,Moxico Province,moxico-province,Lumeje,lumeje
+Angola,angola,AO,Uige Province,uige-province,Uige,uige
+Angola,angola,AO,Zaire Province,zaire-province,Mbanza Congo,mbanza-congo
+Angola,angola,AO,Zaire Province,zaire-province,N'zeto,nzeto
+Angola,angola,AO,Zaire Province,zaire-province,Soio,soio

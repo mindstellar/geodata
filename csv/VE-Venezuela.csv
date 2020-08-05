@@ -1,138 +1,138 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Venezuela,VE,Amazonas,amazonas,Maroa,maroa
-Venezuela,VE,Amazonas,amazonas,Municipio Autonomo Alto Orinoco,municipio-autonomo-alto-orinoco
-Venezuela,VE,Amazonas,amazonas,Puerto Ayacucho,puerto-ayacucho
-Venezuela,VE,Amazonas,amazonas,San Carlos de Rio Negro,san-carlos-de-rio-negro
-Venezuela,VE,Amazonas,amazonas,San Fernando de Atabapo,san-fernando-de-atabapo
-Venezuela,VE,Amazonas,amazonas,San Juan de Manapiare,san-juan-de-manapiare
-Venezuela,VE,Anzoategui,anzoategui,Anaco,anaco
-Venezuela,VE,Anzoategui,anzoategui,Aragua de Barcelona,aragua-de-barcelona
-Venezuela,VE,Anzoategui,anzoategui,Barcelona,barcelona
-Venezuela,VE,Anzoategui,anzoategui,Cantaura,cantaura
-Venezuela,VE,Anzoategui,anzoategui,El Tigre,el-tigre
-Venezuela,VE,Anzoategui,anzoategui,Municipio Jose Gregorio Monagas,municipio-jose-gregorio-monagas
-Venezuela,VE,Anzoategui,anzoategui,Onoto,onoto
-Venezuela,VE,Anzoategui,anzoategui,Puerto La Cruz,puerto-la-cruz
-Venezuela,VE,Anzoategui,anzoategui,Puerto Piritu,puerto-piritu
-Venezuela,VE,Anzoategui,anzoategui,San Jose de Guanipa,san-jose-de-guanipa
-Venezuela,VE,Apure,apure,Apure,apure
-Venezuela,VE,Aragua,aragua,Cagua,cagua
-Venezuela,VE,Aragua,aragua,El Limon,el-limon
-Venezuela,VE,Aragua,aragua,La Victoria,la-victoria
-Venezuela,VE,Aragua,aragua,Las Tejerias,las-tejerias
-Venezuela,VE,Aragua,aragua,Maracay,maracay
-Venezuela,VE,Aragua,aragua,Palo Negro,palo-negro
-Venezuela,VE,Aragua,aragua,San Mateo,san-mateo
-Venezuela,VE,Aragua,aragua,Santa Rita,santa-rita
-Venezuela,VE,Aragua,aragua,Turmero,turmero
-Venezuela,VE,Aragua,aragua,Villa de Cura,villa-de-cura
-Venezuela,VE,Barinas,barinas,Alto Barinas,alto-barinas
-Venezuela,VE,Barinas,barinas,Barinas,barinas
-Venezuela,VE,Barinas,barinas,Barinitas,barinitas
-Venezuela,VE,Barinas,barinas,Municipio Barinas,municipio-barinas
-Venezuela,VE,Bolivar,bolivar,Ciudad Bolivar,ciudad-bolivar
-Venezuela,VE,Bolivar,bolivar,Ciudad Guayana,ciudad-guayana
-Venezuela,VE,Bolivar,bolivar,Municipio Padre Pedro Chien,municipio-padre-pedro-chien
-Venezuela,VE,Bolivar,bolivar,Santa Elena de Uairen,santa-elena-de-uairen
-Venezuela,VE,Bolivar,bolivar,Upata,upata
-Venezuela,VE,Capital District,capital-district,Capital District,capital-district
-Venezuela,VE,Carabobo,carabobo,Guacara,guacara
-Venezuela,VE,Carabobo,carabobo,Guigue,guigue
-Venezuela,VE,Carabobo,carabobo,Los Guayos,los-guayos
-Venezuela,VE,Carabobo,carabobo,Mariara,mariara
-Venezuela,VE,Carabobo,carabobo,Moron,moron
-Venezuela,VE,Carabobo,carabobo,Puerto Cabello,puerto-cabello
-Venezuela,VE,Carabobo,carabobo,San Joaquin,san-joaquin
-Venezuela,VE,Carabobo,carabobo,Tacarigua,tacarigua
-Venezuela,VE,Carabobo,carabobo,Tocuyito,tocuyito
-Venezuela,VE,Carabobo,carabobo,Valencia,valencia
-Venezuela,VE,Cojedes,cojedes,San Carlos,san-carlos
-Venezuela,VE,Cojedes,cojedes,Tinaquillo,tinaquillo
-Venezuela,VE,Delta Amacuro,delta-amacuro,Tucupita,tucupita
-Venezuela,VE,Falcon,falcon,Chichiriviche,chichiriviche
-Venezuela,VE,Falcon,falcon,Coro,coro
-Venezuela,VE,Falcon,falcon,Municipio Los Taques,municipio-los-taques
-Venezuela,VE,Falcon,falcon,Municipio Miranda,municipio-miranda
-Venezuela,VE,Falcon,falcon,Punta Cardon,punta-cardon
-Venezuela,VE,Falcon,falcon,Punto Fijo,punto-fijo
-Venezuela,VE,Falcon,falcon,Tucacas,tucacas
-Venezuela,VE,Federal Dependencies of Venezuela,federal-dependencies-of-venezuela,Federal Dependencies of Venezuela,federal-dependencies-of-venezuela
-Venezuela,VE,Guarico,guarico,Altagracia de Orituco,altagracia-de-orituco
-Venezuela,VE,Guarico,guarico,Calabozo,calabozo
-Venezuela,VE,Guarico,guarico,San Juan de los Morros,san-juan-de-los-morros
-Venezuela,VE,Guarico,guarico,Valle de La Pascua,valle-de-la-pascua
-Venezuela,VE,Guarico,guarico,Zaraza,zaraza
-Venezuela,VE,Lara,lara,Barquisimeto,barquisimeto
-Venezuela,VE,Lara,lara,Cabudare,cabudare
-Venezuela,VE,Lara,lara,Carora,carora
-Venezuela,VE,Lara,lara,El Tocuyo,el-tocuyo
-Venezuela,VE,Lara,lara,Los Rastrojos,los-rastrojos
-Venezuela,VE,Lara,lara,Quibor,quibor
-Venezuela,VE,Merida,merida,Ejido,ejido
-Venezuela,VE,Merida,merida,El Vigia,el-vigia
-Venezuela,VE,Merida,merida,Merida,merida
-Venezuela,VE,Merida,merida,Mucumpiz,mucumpiz
-Venezuela,VE,Merida,merida,Municipio Libertador,municipio-libertador
-Venezuela,VE,Miranda,miranda,Baruta,baruta
-Venezuela,VE,Miranda,miranda,Carrizal,carrizal
-Venezuela,VE,Miranda,miranda,Caucaguita,caucaguita
-Venezuela,VE,Miranda,miranda,Caucaguito,caucaguito
-Venezuela,VE,Miranda,miranda,Chacao,chacao
-Venezuela,VE,Miranda,miranda,Charallave,charallave
-Venezuela,VE,Miranda,miranda,Cua,cua
-Venezuela,VE,Miranda,miranda,El Cafetal,el-cafetal
-Venezuela,VE,Miranda,miranda,El Hatillo,el-hatillo
-Venezuela,VE,Miranda,miranda,Guarenas,guarenas
-Venezuela,VE,Miranda,miranda,Guatire,guatire
-Venezuela,VE,Miranda,miranda,La Dolorita,la-dolorita
-Venezuela,VE,Miranda,miranda,Los Dos Caminos,los-dos-caminos
-Venezuela,VE,Miranda,miranda,Los Teques,los-teques
-Venezuela,VE,Miranda,miranda,Ocumare del Tuy,ocumare-del-tuy
-Venezuela,VE,Miranda,miranda,Petare,petare
-Venezuela,VE,Miranda,miranda,San Antonio de Los Altos,san-antonio-de-los-altos
-Venezuela,VE,Miranda,miranda,Santa Teresa del Tuy,santa-teresa-del-tuy
-Venezuela,VE,Monagas,monagas,Caripito,caripito
-Venezuela,VE,Monagas,monagas,Maturin,maturin
-Venezuela,VE,Monagas,monagas,Municipio Maturin,municipio-maturin
-Venezuela,VE,Monagas,monagas,Municipio Uracoa,municipio-uracoa
-Venezuela,VE,Nueva Esparta,nueva-esparta,Juan Griego,juan-griego
-Venezuela,VE,Nueva Esparta,nueva-esparta,La Asuncion,la-asuncion
-Venezuela,VE,Nueva Esparta,nueva-esparta,Porlamar,porlamar
-Venezuela,VE,Portuguesa,portuguesa,Acarigua,acarigua
-Venezuela,VE,Portuguesa,portuguesa,Araure,araure
-Venezuela,VE,Portuguesa,portuguesa,Guanare,guanare
-Venezuela,VE,Portuguesa,portuguesa,Villa Bruzual,villa-bruzual
-Venezuela,VE,Sucre,sucre,Carupano,carupano
-Venezuela,VE,Sucre,sucre,Cumana,cumana
-Venezuela,VE,Sucre,sucre,Guiria,guiria
-Venezuela,VE,Sucre,sucre,Municipio Valdez,municipio-valdez
-Venezuela,VE,Tachira,tachira,Colon,colon
-Venezuela,VE,Tachira,tachira,La Fria,la-fria
-Venezuela,VE,Tachira,tachira,La Grita,la-grita
-Venezuela,VE,Tachira,tachira,Municipio Jose Maria Vargas,municipio-jose-maria-vargas
-Venezuela,VE,Tachira,tachira,Rubio,rubio
-Venezuela,VE,Tachira,tachira,San Antonio del Tachira,san-antonio-del-tachira
-Venezuela,VE,Tachira,tachira,San Cristobal,san-cristobal
-Venezuela,VE,Tachira,tachira,Tariba,tariba
-Venezuela,VE,Trujillo,trujillo,Bocono,bocono
-Venezuela,VE,Trujillo,trujillo,Municipio Pampanito,municipio-pampanito
-Venezuela,VE,Trujillo,trujillo,Municipio San Rafael de Carvajal,municipio-san-rafael-de-carvajal
-Venezuela,VE,Trujillo,trujillo,Trujillo,trujillo
-Venezuela,VE,Trujillo,trujillo,Valera,valera
-Venezuela,VE,Vargas,vargas,Caraballeda,caraballeda
-Venezuela,VE,Vargas,vargas,Catia La Mar,catia-la-mar
-Venezuela,VE,Vargas,vargas,La Guaira,la-guaira
-Venezuela,VE,Vargas,vargas,Maiquetia,maiquetia
-Venezuela,VE,Yaracuy,yaracuy,Chivacoa,chivacoa
-Venezuela,VE,Yaracuy,yaracuy,Municipio Independencia,municipio-independencia
-Venezuela,VE,Yaracuy,yaracuy,Nirgua,nirgua
-Venezuela,VE,Yaracuy,yaracuy,San Felipe,san-felipe
-Venezuela,VE,Yaracuy,yaracuy,Yaritagua,yaritagua
-Venezuela,VE,Zulia,zulia,Cabimas,cabimas
-Venezuela,VE,Zulia,zulia,Ciudad Ojeda,ciudad-ojeda
-Venezuela,VE,Zulia,zulia,La Villa del Rosario,la-villa-del-rosario
-Venezuela,VE,Zulia,zulia,Lagunillas,lagunillas
-Venezuela,VE,Zulia,zulia,Machiques,machiques
-Venezuela,VE,Zulia,zulia,Maracaibo,maracaibo
-Venezuela,VE,Zulia,zulia,San Carlos del Zulia,san-carlos-del-zulia
-Venezuela,VE,Zulia,zulia,Santa Rita,santa-rita
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Venezuela,venezuela,VE,Amazonas,amazonas,Maroa,maroa
+Venezuela,venezuela,VE,Amazonas,amazonas,Municipio Autonomo Alto Orinoco,municipio-autonomo-alto-orinoco
+Venezuela,venezuela,VE,Amazonas,amazonas,Puerto Ayacucho,puerto-ayacucho
+Venezuela,venezuela,VE,Amazonas,amazonas,San Carlos de Rio Negro,san-carlos-de-rio-negro
+Venezuela,venezuela,VE,Amazonas,amazonas,San Fernando de Atabapo,san-fernando-de-atabapo
+Venezuela,venezuela,VE,Amazonas,amazonas,San Juan de Manapiare,san-juan-de-manapiare
+Venezuela,venezuela,VE,Anzoategui,anzoategui,Anaco,anaco
+Venezuela,venezuela,VE,Anzoategui,anzoategui,Aragua de Barcelona,aragua-de-barcelona
+Venezuela,venezuela,VE,Anzoategui,anzoategui,Barcelona,barcelona
+Venezuela,venezuela,VE,Anzoategui,anzoategui,Cantaura,cantaura
+Venezuela,venezuela,VE,Anzoategui,anzoategui,El Tigre,el-tigre
+Venezuela,venezuela,VE,Anzoategui,anzoategui,Municipio Jose Gregorio Monagas,municipio-jose-gregorio-monagas
+Venezuela,venezuela,VE,Anzoategui,anzoategui,Onoto,onoto
+Venezuela,venezuela,VE,Anzoategui,anzoategui,Puerto La Cruz,puerto-la-cruz
+Venezuela,venezuela,VE,Anzoategui,anzoategui,Puerto Piritu,puerto-piritu
+Venezuela,venezuela,VE,Anzoategui,anzoategui,San Jose de Guanipa,san-jose-de-guanipa
+Venezuela,venezuela,VE,Apure,apure,Apure,apure
+Venezuela,venezuela,VE,Aragua,aragua,Cagua,cagua
+Venezuela,venezuela,VE,Aragua,aragua,El Limon,el-limon
+Venezuela,venezuela,VE,Aragua,aragua,La Victoria,la-victoria
+Venezuela,venezuela,VE,Aragua,aragua,Las Tejerias,las-tejerias
+Venezuela,venezuela,VE,Aragua,aragua,Maracay,maracay
+Venezuela,venezuela,VE,Aragua,aragua,Palo Negro,palo-negro
+Venezuela,venezuela,VE,Aragua,aragua,San Mateo,san-mateo
+Venezuela,venezuela,VE,Aragua,aragua,Santa Rita,santa-rita
+Venezuela,venezuela,VE,Aragua,aragua,Turmero,turmero
+Venezuela,venezuela,VE,Aragua,aragua,Villa de Cura,villa-de-cura
+Venezuela,venezuela,VE,Barinas,barinas,Alto Barinas,alto-barinas
+Venezuela,venezuela,VE,Barinas,barinas,Barinas,barinas
+Venezuela,venezuela,VE,Barinas,barinas,Barinitas,barinitas
+Venezuela,venezuela,VE,Barinas,barinas,Municipio Barinas,municipio-barinas
+Venezuela,venezuela,VE,Bolivar,bolivar,Ciudad Bolivar,ciudad-bolivar
+Venezuela,venezuela,VE,Bolivar,bolivar,Ciudad Guayana,ciudad-guayana
+Venezuela,venezuela,VE,Bolivar,bolivar,Municipio Padre Pedro Chien,municipio-padre-pedro-chien
+Venezuela,venezuela,VE,Bolivar,bolivar,Santa Elena de Uairen,santa-elena-de-uairen
+Venezuela,venezuela,VE,Bolivar,bolivar,Upata,upata
+Venezuela,venezuela,VE,Capital District,capital-district,Capital District,capital-district
+Venezuela,venezuela,VE,Carabobo,carabobo,Guacara,guacara
+Venezuela,venezuela,VE,Carabobo,carabobo,Guigue,guigue
+Venezuela,venezuela,VE,Carabobo,carabobo,Los Guayos,los-guayos
+Venezuela,venezuela,VE,Carabobo,carabobo,Mariara,mariara
+Venezuela,venezuela,VE,Carabobo,carabobo,Moron,moron
+Venezuela,venezuela,VE,Carabobo,carabobo,Puerto Cabello,puerto-cabello
+Venezuela,venezuela,VE,Carabobo,carabobo,San Joaquin,san-joaquin
+Venezuela,venezuela,VE,Carabobo,carabobo,Tacarigua,tacarigua
+Venezuela,venezuela,VE,Carabobo,carabobo,Tocuyito,tocuyito
+Venezuela,venezuela,VE,Carabobo,carabobo,Valencia,valencia
+Venezuela,venezuela,VE,Cojedes,cojedes,San Carlos,san-carlos
+Venezuela,venezuela,VE,Cojedes,cojedes,Tinaquillo,tinaquillo
+Venezuela,venezuela,VE,Delta Amacuro,delta-amacuro,Tucupita,tucupita
+Venezuela,venezuela,VE,Falcon,falcon,Chichiriviche,chichiriviche
+Venezuela,venezuela,VE,Falcon,falcon,Coro,coro
+Venezuela,venezuela,VE,Falcon,falcon,Municipio Los Taques,municipio-los-taques
+Venezuela,venezuela,VE,Falcon,falcon,Municipio Miranda,municipio-miranda
+Venezuela,venezuela,VE,Falcon,falcon,Punta Cardon,punta-cardon
+Venezuela,venezuela,VE,Falcon,falcon,Punto Fijo,punto-fijo
+Venezuela,venezuela,VE,Falcon,falcon,Tucacas,tucacas
+Venezuela,venezuela,VE,Federal Dependencies of Venezuela,federal-dependencies-of-venezuela,Federal Dependencies of Venezuela,federal-dependencies-of-venezuela
+Venezuela,venezuela,VE,Guarico,guarico,Altagracia de Orituco,altagracia-de-orituco
+Venezuela,venezuela,VE,Guarico,guarico,Calabozo,calabozo
+Venezuela,venezuela,VE,Guarico,guarico,San Juan de los Morros,san-juan-de-los-morros
+Venezuela,venezuela,VE,Guarico,guarico,Valle de La Pascua,valle-de-la-pascua
+Venezuela,venezuela,VE,Guarico,guarico,Zaraza,zaraza
+Venezuela,venezuela,VE,Lara,lara,Barquisimeto,barquisimeto
+Venezuela,venezuela,VE,Lara,lara,Cabudare,cabudare
+Venezuela,venezuela,VE,Lara,lara,Carora,carora
+Venezuela,venezuela,VE,Lara,lara,El Tocuyo,el-tocuyo
+Venezuela,venezuela,VE,Lara,lara,Los Rastrojos,los-rastrojos
+Venezuela,venezuela,VE,Lara,lara,Quibor,quibor
+Venezuela,venezuela,VE,Merida,merida,Ejido,ejido
+Venezuela,venezuela,VE,Merida,merida,El Vigia,el-vigia
+Venezuela,venezuela,VE,Merida,merida,Merida,merida
+Venezuela,venezuela,VE,Merida,merida,Mucumpiz,mucumpiz
+Venezuela,venezuela,VE,Merida,merida,Municipio Libertador,municipio-libertador
+Venezuela,venezuela,VE,Miranda,miranda,Baruta,baruta
+Venezuela,venezuela,VE,Miranda,miranda,Carrizal,carrizal
+Venezuela,venezuela,VE,Miranda,miranda,Caucaguita,caucaguita
+Venezuela,venezuela,VE,Miranda,miranda,Caucaguito,caucaguito
+Venezuela,venezuela,VE,Miranda,miranda,Chacao,chacao
+Venezuela,venezuela,VE,Miranda,miranda,Charallave,charallave
+Venezuela,venezuela,VE,Miranda,miranda,Cua,cua
+Venezuela,venezuela,VE,Miranda,miranda,El Cafetal,el-cafetal
+Venezuela,venezuela,VE,Miranda,miranda,El Hatillo,el-hatillo
+Venezuela,venezuela,VE,Miranda,miranda,Guarenas,guarenas
+Venezuela,venezuela,VE,Miranda,miranda,Guatire,guatire
+Venezuela,venezuela,VE,Miranda,miranda,La Dolorita,la-dolorita
+Venezuela,venezuela,VE,Miranda,miranda,Los Dos Caminos,los-dos-caminos
+Venezuela,venezuela,VE,Miranda,miranda,Los Teques,los-teques
+Venezuela,venezuela,VE,Miranda,miranda,Ocumare del Tuy,ocumare-del-tuy
+Venezuela,venezuela,VE,Miranda,miranda,Petare,petare
+Venezuela,venezuela,VE,Miranda,miranda,San Antonio de Los Altos,san-antonio-de-los-altos
+Venezuela,venezuela,VE,Miranda,miranda,Santa Teresa del Tuy,santa-teresa-del-tuy
+Venezuela,venezuela,VE,Monagas,monagas,Caripito,caripito
+Venezuela,venezuela,VE,Monagas,monagas,Maturin,maturin
+Venezuela,venezuela,VE,Monagas,monagas,Municipio Maturin,municipio-maturin
+Venezuela,venezuela,VE,Monagas,monagas,Municipio Uracoa,municipio-uracoa
+Venezuela,venezuela,VE,Nueva Esparta,nueva-esparta,Juan Griego,juan-griego
+Venezuela,venezuela,VE,Nueva Esparta,nueva-esparta,La Asuncion,la-asuncion
+Venezuela,venezuela,VE,Nueva Esparta,nueva-esparta,Porlamar,porlamar
+Venezuela,venezuela,VE,Portuguesa,portuguesa,Acarigua,acarigua
+Venezuela,venezuela,VE,Portuguesa,portuguesa,Araure,araure
+Venezuela,venezuela,VE,Portuguesa,portuguesa,Guanare,guanare
+Venezuela,venezuela,VE,Portuguesa,portuguesa,Villa Bruzual,villa-bruzual
+Venezuela,venezuela,VE,Sucre,sucre,Carupano,carupano
+Venezuela,venezuela,VE,Sucre,sucre,Cumana,cumana
+Venezuela,venezuela,VE,Sucre,sucre,Guiria,guiria
+Venezuela,venezuela,VE,Sucre,sucre,Municipio Valdez,municipio-valdez
+Venezuela,venezuela,VE,Tachira,tachira,Colon,colon
+Venezuela,venezuela,VE,Tachira,tachira,La Fria,la-fria
+Venezuela,venezuela,VE,Tachira,tachira,La Grita,la-grita
+Venezuela,venezuela,VE,Tachira,tachira,Municipio Jose Maria Vargas,municipio-jose-maria-vargas
+Venezuela,venezuela,VE,Tachira,tachira,Rubio,rubio
+Venezuela,venezuela,VE,Tachira,tachira,San Antonio del Tachira,san-antonio-del-tachira
+Venezuela,venezuela,VE,Tachira,tachira,San Cristobal,san-cristobal
+Venezuela,venezuela,VE,Tachira,tachira,Tariba,tariba
+Venezuela,venezuela,VE,Trujillo,trujillo,Bocono,bocono
+Venezuela,venezuela,VE,Trujillo,trujillo,Municipio Pampanito,municipio-pampanito
+Venezuela,venezuela,VE,Trujillo,trujillo,Municipio San Rafael de Carvajal,municipio-san-rafael-de-carvajal
+Venezuela,venezuela,VE,Trujillo,trujillo,Trujillo,trujillo
+Venezuela,venezuela,VE,Trujillo,trujillo,Valera,valera
+Venezuela,venezuela,VE,Vargas,vargas,Caraballeda,caraballeda
+Venezuela,venezuela,VE,Vargas,vargas,Catia La Mar,catia-la-mar
+Venezuela,venezuela,VE,Vargas,vargas,La Guaira,la-guaira
+Venezuela,venezuela,VE,Vargas,vargas,Maiquetia,maiquetia
+Venezuela,venezuela,VE,Yaracuy,yaracuy,Chivacoa,chivacoa
+Venezuela,venezuela,VE,Yaracuy,yaracuy,Municipio Independencia,municipio-independencia
+Venezuela,venezuela,VE,Yaracuy,yaracuy,Nirgua,nirgua
+Venezuela,venezuela,VE,Yaracuy,yaracuy,San Felipe,san-felipe
+Venezuela,venezuela,VE,Yaracuy,yaracuy,Yaritagua,yaritagua
+Venezuela,venezuela,VE,Zulia,zulia,Cabimas,cabimas
+Venezuela,venezuela,VE,Zulia,zulia,Ciudad Ojeda,ciudad-ojeda
+Venezuela,venezuela,VE,Zulia,zulia,La Villa del Rosario,la-villa-del-rosario
+Venezuela,venezuela,VE,Zulia,zulia,Lagunillas,lagunillas
+Venezuela,venezuela,VE,Zulia,zulia,Machiques,machiques
+Venezuela,venezuela,VE,Zulia,zulia,Maracaibo,maracaibo
+Venezuela,venezuela,VE,Zulia,zulia,San Carlos del Zulia,san-carlos-del-zulia
+Venezuela,venezuela,VE,Zulia,zulia,Santa Rita,santa-rita

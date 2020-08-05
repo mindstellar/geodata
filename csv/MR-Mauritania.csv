@@ -1,20 +1,20 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Mauritania,MR,Adrar Region,adrar-region,Atar,atar
-Mauritania,MR,Adrar Region,adrar-region,Chinguetti,chinguetti
-Mauritania,MR,Assaba Region,assaba-region,Barkewol,barkewol
-Mauritania,MR,Assaba Region,assaba-region,Kiffa,kiffa
-Mauritania,MR,Brakna Region,brakna-region,Elb el Jmel,elb-el-jmel
-Mauritania,MR,Brakna Region,brakna-region,Aleg,aleg
-Mauritania,MR,Dakhlet Nouadhibou,dakhlet-nouadhibou,Nouadhibou,nouadhibou
-Mauritania,MR,Gorgol Region,gorgol-region,Kaedi,kaedi
-Mauritania,MR,Guidimaka Region,guidimaka-region,Selibaby,selibaby
-Mauritania,MR,Hodh Ech Chargui Region,hodh-ech-chargui-region,Nema,nema
-Mauritania,MR,Hodh El Gharbi Region,hodh-el-gharbi-region,Aioun,aioun
-Mauritania,MR,Inchiri Region,inchiri-region,Akjoujt,akjoujt
-Mauritania,MR,Nouakchott-Nord Region,nouakchott-nord-region,Nouakchott-Nord Region,nouakchott-nord-region
-Mauritania,MR,Nouakchott-Ouest Region,nouakchott-ouest-region,Nouakchott-Ouest Region,nouakchott-ouest-region
-Mauritania,MR,Nouakchott-Sud Region,nouakchott-sud-region,Nouakchott-Sud Region,nouakchott-sud-region
-Mauritania,MR,Tagant Region,tagant-region,Tagant Region,tagant-region
-Mauritania,MR,Tiris Zemmour Region,tiris-zemmour-region,Zouerate,zouerate
-Mauritania,MR,Trarza Region,trarza-region,Rosso,rosso
-Mauritania,MR,Trarza Region,trarza-region,Tekane,tekane
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Mauritania,mauritania,MR,Adrar Region,adrar-region,Atar,atar
+Mauritania,mauritania,MR,Adrar Region,adrar-region,Chinguetti,chinguetti
+Mauritania,mauritania,MR,Assaba Region,assaba-region,Barkewol,barkewol
+Mauritania,mauritania,MR,Assaba Region,assaba-region,Kiffa,kiffa
+Mauritania,mauritania,MR,Brakna Region,brakna-region,Elb el Jmel,elb-el-jmel
+Mauritania,mauritania,MR,Brakna Region,brakna-region,Aleg,aleg
+Mauritania,mauritania,MR,Dakhlet Nouadhibou,dakhlet-nouadhibou,Nouadhibou,nouadhibou
+Mauritania,mauritania,MR,Gorgol Region,gorgol-region,Kaedi,kaedi
+Mauritania,mauritania,MR,Guidimaka Region,guidimaka-region,Selibaby,selibaby
+Mauritania,mauritania,MR,Hodh Ech Chargui Region,hodh-ech-chargui-region,Nema,nema
+Mauritania,mauritania,MR,Hodh El Gharbi Region,hodh-el-gharbi-region,Aioun,aioun
+Mauritania,mauritania,MR,Inchiri Region,inchiri-region,Akjoujt,akjoujt
+Mauritania,mauritania,MR,Nouakchott-Nord Region,nouakchott-nord-region,Nouakchott-Nord Region,nouakchott-nord-region
+Mauritania,mauritania,MR,Nouakchott-Ouest Region,nouakchott-ouest-region,Nouakchott-Ouest Region,nouakchott-ouest-region
+Mauritania,mauritania,MR,Nouakchott-Sud Region,nouakchott-sud-region,Nouakchott-Sud Region,nouakchott-sud-region
+Mauritania,mauritania,MR,Tagant Region,tagant-region,Tagant Region,tagant-region
+Mauritania,mauritania,MR,Tiris Zemmour Region,tiris-zemmour-region,Zouerate,zouerate
+Mauritania,mauritania,MR,Trarza Region,trarza-region,Rosso,rosso
+Mauritania,mauritania,MR,Trarza Region,trarza-region,Tekane,tekane

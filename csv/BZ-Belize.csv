@@ -1,14 +1,14 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Belize,BZ,Belize District,belize-district,Belize City,belize-city
-Belize,BZ,Belize District,belize-district,San Pedro,san-pedro
-Belize,BZ,Cayo District,cayo-district,Belmopan,belmopan
-Belize,BZ,Cayo District,cayo-district,Benque Viejo el Carmen,benque-viejo-el-carmen
-Belize,BZ,Cayo District,cayo-district,San Ignacio,san-ignacio
-Belize,BZ,Cayo District,cayo-district,Valley of Peace,valley-of-peace
-Belize,BZ,Corozal District,corozal-district,Corozal,corozal
-Belize,BZ,Orange Walk District,orange-walk-district,Hopelchen,hopelchen
-Belize,BZ,Orange Walk District,orange-walk-district,Orange Walk,orange-walk
-Belize,BZ,Orange Walk District,orange-walk-district,Shipyard,shipyard
-Belize,BZ,Stann Creek District,stann-creek-district,Dangriga,dangriga
-Belize,BZ,Stann Creek District,stann-creek-district,Placencia,placencia
-Belize,BZ,Toledo District,toledo-district,Punta Gorda,punta-gorda
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Belize,belize,BZ,Belize District,belize-district,Belize City,belize-city
+Belize,belize,BZ,Belize District,belize-district,San Pedro,san-pedro
+Belize,belize,BZ,Cayo District,cayo-district,Belmopan,belmopan
+Belize,belize,BZ,Cayo District,cayo-district,Benque Viejo el Carmen,benque-viejo-el-carmen
+Belize,belize,BZ,Cayo District,cayo-district,San Ignacio,san-ignacio
+Belize,belize,BZ,Cayo District,cayo-district,Valley of Peace,valley-of-peace
+Belize,belize,BZ,Corozal District,corozal-district,Corozal,corozal
+Belize,belize,BZ,Orange Walk District,orange-walk-district,Hopelchen,hopelchen
+Belize,belize,BZ,Orange Walk District,orange-walk-district,Orange Walk,orange-walk
+Belize,belize,BZ,Orange Walk District,orange-walk-district,Shipyard,shipyard
+Belize,belize,BZ,Stann Creek District,stann-creek-district,Dangriga,dangriga
+Belize,belize,BZ,Stann Creek District,stann-creek-district,Placencia,placencia
+Belize,belize,BZ,Toledo District,toledo-district,Punta Gorda,punta-gorda

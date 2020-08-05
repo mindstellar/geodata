@@ -1,115 +1,115 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Ecuador,EC,Azuay Province,azuay-province,Canton San Fernando,canton-san-fernando
-Ecuador,EC,Azuay Province,azuay-province,Cuenca,cuenca
-Ecuador,EC,Azuay Province,azuay-province,Gualaceo,gualaceo
-Ecuador,EC,Azuay Province,azuay-province,La Union,la-union
-Ecuador,EC,Azuay Province,azuay-province,Llacao,llacao
-Ecuador,EC,Azuay Province,azuay-province,Nulti,nulti
-Ecuador,EC,Bolivar Province,bolivar-province,Guaranda,guaranda
-Ecuador,EC,Bolivar Province,bolivar-province,San Miguel,san-miguel
-Ecuador,EC,Canar Province,canar-province,Azogues,azogues
-Ecuador,EC,Canar Province,canar-province,Canar,canar
-Ecuador,EC,Canar Province,canar-province,La Troncal,la-troncal
-Ecuador,EC,Carchi Province,carchi-province,El Angel,el-angel
-Ecuador,EC,Carchi Province,carchi-province,San Gabriel,san-gabriel
-Ecuador,EC,Carchi Province,carchi-province,Tulcan,tulcan
-Ecuador,EC,Chimborazo Province,chimborazo-province,Alausi,alausi
-Ecuador,EC,Chimborazo Province,chimborazo-province,Guano,guano
-Ecuador,EC,Chimborazo Province,chimborazo-province,Riobamba,riobamba
-Ecuador,EC,Cotopaxi Province,cotopaxi-province,La Mana,la-mana
-Ecuador,EC,Cotopaxi Province,cotopaxi-province,Latacunga,latacunga
-Ecuador,EC,Cotopaxi Province,cotopaxi-province,Pujili,pujili
-Ecuador,EC,Cotopaxi Province,cotopaxi-province,San Miguel de Salcedo,san-miguel-de-salcedo
-Ecuador,EC,Cotopaxi Province,cotopaxi-province,Saquisili,saquisili
-Ecuador,EC,El Oro Province,el-oro-province,Huaquillas,huaquillas
-Ecuador,EC,El Oro Province,el-oro-province,Machala,machala
-Ecuador,EC,El Oro Province,el-oro-province,Pasaje,pasaje
-Ecuador,EC,El Oro Province,el-oro-province,Pinas,pinas
-Ecuador,EC,El Oro Province,el-oro-province,Portovelo,portovelo
-Ecuador,EC,El Oro Province,el-oro-province,Puerto Bolivar,puerto-bolivar
-Ecuador,EC,El Oro Province,el-oro-province,Santa Rosa,santa-rosa
-Ecuador,EC,El Oro Province,el-oro-province,Zaruma,zaruma
-Ecuador,EC,Esmeraldas,esmeraldas,Esmeraldas,esmeraldas
-Ecuador,EC,Esmeraldas,esmeraldas,Muisne,muisne
-Ecuador,EC,Esmeraldas,esmeraldas,Pampanal de Bolivar,pampanal-de-bolivar
-Ecuador,EC,Esmeraldas,esmeraldas,Rio Verde,rio-verde
-Ecuador,EC,Esmeraldas,esmeraldas,Rosa Zarate,rosa-zarate
-Ecuador,EC,Esmeraldas,esmeraldas,San Lorenzo de Esmeraldas,san-lorenzo-de-esmeraldas
-Ecuador,EC,Esmeraldas,esmeraldas,Valdez,valdez
-Ecuador,EC,Galapagos Province,galapagos-province,Puerto Ayora,puerto-ayora
-Ecuador,EC,Galapagos Province,galapagos-province,Puerto Baquerizo Moreno,puerto-baquerizo-moreno
-Ecuador,EC,Galapagos Province,galapagos-province,Puerto Villamil,puerto-villamil
-Ecuador,EC,Guayas Province,guayas-province,Alfredo Baquerizo Moreno,alfredo-baquerizo-moreno
-Ecuador,EC,Guayas Province,guayas-province,Balao,balao
-Ecuador,EC,Guayas Province,guayas-province,Balzar,balzar
-Ecuador,EC,Guayas Province,guayas-province,Colimes,colimes
-Ecuador,EC,Guayas Province,guayas-province,Coronel Marcelino Mariduena,coronel-marcelino-mariduena
-Ecuador,EC,Guayas Province,guayas-province,El Triunfo,el-triunfo
-Ecuador,EC,Guayas Province,guayas-province,Eloy Alfaro,eloy-alfaro
-Ecuador,EC,Guayas Province,guayas-province,Guayaquil,guayaquil
-Ecuador,EC,Guayas Province,guayas-province,La Libertad,la-libertad
-Ecuador,EC,Guayas Province,guayas-province,Lomas de Sargentillo,lomas-de-sargentillo
-Ecuador,EC,Guayas Province,guayas-province,Milagro,milagro
-Ecuador,EC,Guayas Province,guayas-province,Naranjal,naranjal
-Ecuador,EC,Guayas Province,guayas-province,Naranjito,naranjito
-Ecuador,EC,Guayas Province,guayas-province,Palestina,palestina
-Ecuador,EC,Guayas Province,guayas-province,Pedro Carbo,pedro-carbo
-Ecuador,EC,Guayas Province,guayas-province,Playas,playas
-Ecuador,EC,Guayas Province,guayas-province,Samborondon,samborondon
-Ecuador,EC,Guayas Province,guayas-province,Santa Lucia,santa-lucia
-Ecuador,EC,Guayas Province,guayas-province,Velasco Ibarra,velasco-ibarra
-Ecuador,EC,Guayas Province,guayas-province,Yaguachi Nuevo,yaguachi-nuevo
-Ecuador,EC,Imbabura Province,imbabura-province,Atuntaqui,atuntaqui
-Ecuador,EC,Imbabura Province,imbabura-province,Cotacachi,cotacachi
-Ecuador,EC,Imbabura Province,imbabura-province,Ibarra,ibarra
-Ecuador,EC,Imbabura Province,imbabura-province,Otavalo,otavalo
-Ecuador,EC,Imbabura Province,imbabura-province,Pimampiro,pimampiro
-Ecuador,EC,Los Rios Province,los-rios-province,Babahoyo,babahoyo
-Ecuador,EC,Los Rios Province,los-rios-province,Catarama,catarama
-Ecuador,EC,Los Rios Province,los-rios-province,Montalvo,montalvo
-Ecuador,EC,Los Rios Province,los-rios-province,Palenque,palenque
-Ecuador,EC,Los Rios Province,los-rios-province,Quevedo,quevedo
-Ecuador,EC,Los Rios Province,los-rios-province,Ventanas,ventanas
-Ecuador,EC,Los Rios Province,los-rios-province,Vinces,vinces
-Ecuador,EC,Manabi Province,manabi-province,Bahia de Caraquez,bahia-de-caraquez
-Ecuador,EC,Manabi Province,manabi-province,Calceta,calceta
-Ecuador,EC,Manabi Province,manabi-province,Canton Portoviejo,canton-portoviejo
-Ecuador,EC,Manabi Province,manabi-province,Chone,chone
-Ecuador,EC,Manabi Province,manabi-province,Jipijapa,jipijapa
-Ecuador,EC,Manabi Province,manabi-province,Junin,junin
-Ecuador,EC,Manabi Province,manabi-province,Manta,manta
-Ecuador,EC,Manabi Province,manabi-province,Montecristi,montecristi
-Ecuador,EC,Manabi Province,manabi-province,Pajan,pajan
-Ecuador,EC,Manabi Province,manabi-province,Pedernales,pedernales
-Ecuador,EC,Manabi Province,manabi-province,Portoviejo,portoviejo
-Ecuador,EC,Manabi Province,manabi-province,Rocafuerte,rocafuerte
-Ecuador,EC,Manabi Province,manabi-province,San Vicente,san-vicente
-Ecuador,EC,Manabi Province,manabi-province,Santa Ana,santa-ana
-Ecuador,EC,Manabi Province,manabi-province,Sucre,sucre
-Ecuador,EC,Manabi Province,manabi-province,Tosagua,tosagua
-Ecuador,EC,Morona-Santiago Province,morona-santiago-province,Gualaquiza,gualaquiza
-Ecuador,EC,Morona-Santiago Province,morona-santiago-province,Macas,macas
-Ecuador,EC,Morona-Santiago Province,morona-santiago-province,Palora,palora
-Ecuador,EC,Morona-Santiago Province,morona-santiago-province,Sucua,sucua
-Ecuador,EC,Napo Province,napo-province,Archidona,archidona
-Ecuador,EC,Napo Province,napo-province,Tena,tena
-Ecuador,EC,Orellana Province,orellana-province,Boca Suno,boca-suno
-Ecuador,EC,Orellana Province,orellana-province,Francisco de Orellana Canton,francisco-de-orellana-canton
-Ecuador,EC,Orellana Province,orellana-province,Loreto Canton,loreto-canton
-Ecuador,EC,Orellana Province,orellana-province,Puerto Francisco de Orellana,puerto-francisco-de-orellana
-Ecuador,EC,Pastaza Province,pastaza-province,Puyo,puyo
-Ecuador,EC,Pichincha Province,pichincha-province,Cayambe,cayambe
-Ecuador,EC,Pichincha Province,pichincha-province,Machachi,machachi
-Ecuador,EC,Pichincha Province,pichincha-province,Quito,quito
-Ecuador,EC,Pichincha Province,pichincha-province,Sangolqui,sangolqui
-Ecuador,EC,Pichincha Province,pichincha-province,Tutamandahostel,tutamandahostel
-Ecuador,EC,Santa Elena Province,santa-elena-province,Salinas,salinas
-Ecuador,EC,Santa Elena Province,santa-elena-province,Santa Elena,santa-elena
-Ecuador,EC,Santo Domingo de los Tsachilas Province,santo-domingo-de-los-tsachilas-province,Santo Domingo de los Colorados,santo-domingo-de-los-colorados
-Ecuador,EC,Sucumbios Province,sucumbios-province,Nueva Loja,nueva-loja
-Ecuador,EC,Tungurahua Province,tungurahua-province,Ambato,ambato
-Ecuador,EC,Tungurahua Province,tungurahua-province,Banos,banos
-Ecuador,EC,Tungurahua Province,tungurahua-province,Pelileo,pelileo
-Ecuador,EC,Tungurahua Province,tungurahua-province,Pillaro,pillaro
-Ecuador,EC,Zamora-Chinchipe Province,zamora-chinchipe-province,Yantzaza,yantzaza
-Ecuador,EC,Zamora-Chinchipe Province,zamora-chinchipe-province,Zamora,zamora
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Ecuador,ecuador,EC,Azuay Province,azuay-province,Canton San Fernando,canton-san-fernando
+Ecuador,ecuador,EC,Azuay Province,azuay-province,Cuenca,cuenca
+Ecuador,ecuador,EC,Azuay Province,azuay-province,Gualaceo,gualaceo
+Ecuador,ecuador,EC,Azuay Province,azuay-province,La Union,la-union
+Ecuador,ecuador,EC,Azuay Province,azuay-province,Llacao,llacao
+Ecuador,ecuador,EC,Azuay Province,azuay-province,Nulti,nulti
+Ecuador,ecuador,EC,Bolivar Province,bolivar-province,Guaranda,guaranda
+Ecuador,ecuador,EC,Bolivar Province,bolivar-province,San Miguel,san-miguel
+Ecuador,ecuador,EC,Canar Province,canar-province,Azogues,azogues
+Ecuador,ecuador,EC,Canar Province,canar-province,Canar,canar
+Ecuador,ecuador,EC,Canar Province,canar-province,La Troncal,la-troncal
+Ecuador,ecuador,EC,Carchi Province,carchi-province,El Angel,el-angel
+Ecuador,ecuador,EC,Carchi Province,carchi-province,San Gabriel,san-gabriel
+Ecuador,ecuador,EC,Carchi Province,carchi-province,Tulcan,tulcan
+Ecuador,ecuador,EC,Chimborazo Province,chimborazo-province,Alausi,alausi
+Ecuador,ecuador,EC,Chimborazo Province,chimborazo-province,Guano,guano
+Ecuador,ecuador,EC,Chimborazo Province,chimborazo-province,Riobamba,riobamba
+Ecuador,ecuador,EC,Cotopaxi Province,cotopaxi-province,La Mana,la-mana
+Ecuador,ecuador,EC,Cotopaxi Province,cotopaxi-province,Latacunga,latacunga
+Ecuador,ecuador,EC,Cotopaxi Province,cotopaxi-province,Pujili,pujili
+Ecuador,ecuador,EC,Cotopaxi Province,cotopaxi-province,San Miguel de Salcedo,san-miguel-de-salcedo
+Ecuador,ecuador,EC,Cotopaxi Province,cotopaxi-province,Saquisili,saquisili
+Ecuador,ecuador,EC,El Oro Province,el-oro-province,Huaquillas,huaquillas
+Ecuador,ecuador,EC,El Oro Province,el-oro-province,Machala,machala
+Ecuador,ecuador,EC,El Oro Province,el-oro-province,Pasaje,pasaje
+Ecuador,ecuador,EC,El Oro Province,el-oro-province,Pinas,pinas
+Ecuador,ecuador,EC,El Oro Province,el-oro-province,Portovelo,portovelo
+Ecuador,ecuador,EC,El Oro Province,el-oro-province,Puerto Bolivar,puerto-bolivar
+Ecuador,ecuador,EC,El Oro Province,el-oro-province,Santa Rosa,santa-rosa
+Ecuador,ecuador,EC,El Oro Province,el-oro-province,Zaruma,zaruma
+Ecuador,ecuador,EC,Esmeraldas,esmeraldas,Esmeraldas,esmeraldas
+Ecuador,ecuador,EC,Esmeraldas,esmeraldas,Muisne,muisne
+Ecuador,ecuador,EC,Esmeraldas,esmeraldas,Pampanal de Bolivar,pampanal-de-bolivar
+Ecuador,ecuador,EC,Esmeraldas,esmeraldas,Rio Verde,rio-verde
+Ecuador,ecuador,EC,Esmeraldas,esmeraldas,Rosa Zarate,rosa-zarate
+Ecuador,ecuador,EC,Esmeraldas,esmeraldas,San Lorenzo de Esmeraldas,san-lorenzo-de-esmeraldas
+Ecuador,ecuador,EC,Esmeraldas,esmeraldas,Valdez,valdez
+Ecuador,ecuador,EC,Galapagos Province,galapagos-province,Puerto Ayora,puerto-ayora
+Ecuador,ecuador,EC,Galapagos Province,galapagos-province,Puerto Baquerizo Moreno,puerto-baquerizo-moreno
+Ecuador,ecuador,EC,Galapagos Province,galapagos-province,Puerto Villamil,puerto-villamil
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Alfredo Baquerizo Moreno,alfredo-baquerizo-moreno
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Balao,balao
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Balzar,balzar
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Colimes,colimes
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Coronel Marcelino Mariduena,coronel-marcelino-mariduena
+Ecuador,ecuador,EC,Guayas Province,guayas-province,El Triunfo,el-triunfo
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Eloy Alfaro,eloy-alfaro
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Guayaquil,guayaquil
+Ecuador,ecuador,EC,Guayas Province,guayas-province,La Libertad,la-libertad
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Lomas de Sargentillo,lomas-de-sargentillo
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Milagro,milagro
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Naranjal,naranjal
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Naranjito,naranjito
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Palestina,palestina
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Pedro Carbo,pedro-carbo
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Playas,playas
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Samborondon,samborondon
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Santa Lucia,santa-lucia
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Velasco Ibarra,velasco-ibarra
+Ecuador,ecuador,EC,Guayas Province,guayas-province,Yaguachi Nuevo,yaguachi-nuevo
+Ecuador,ecuador,EC,Imbabura Province,imbabura-province,Atuntaqui,atuntaqui
+Ecuador,ecuador,EC,Imbabura Province,imbabura-province,Cotacachi,cotacachi
+Ecuador,ecuador,EC,Imbabura Province,imbabura-province,Ibarra,ibarra
+Ecuador,ecuador,EC,Imbabura Province,imbabura-province,Otavalo,otavalo
+Ecuador,ecuador,EC,Imbabura Province,imbabura-province,Pimampiro,pimampiro
+Ecuador,ecuador,EC,Los Rios Province,los-rios-province,Babahoyo,babahoyo
+Ecuador,ecuador,EC,Los Rios Province,los-rios-province,Catarama,catarama
+Ecuador,ecuador,EC,Los Rios Province,los-rios-province,Montalvo,montalvo
+Ecuador,ecuador,EC,Los Rios Province,los-rios-province,Palenque,palenque
+Ecuador,ecuador,EC,Los Rios Province,los-rios-province,Quevedo,quevedo
+Ecuador,ecuador,EC,Los Rios Province,los-rios-province,Ventanas,ventanas
+Ecuador,ecuador,EC,Los Rios Province,los-rios-province,Vinces,vinces
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Bahia de Caraquez,bahia-de-caraquez
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Calceta,calceta
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Canton Portoviejo,canton-portoviejo
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Chone,chone
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Jipijapa,jipijapa
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Junin,junin
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Manta,manta
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Montecristi,montecristi
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Pajan,pajan
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Pedernales,pedernales
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Portoviejo,portoviejo
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Rocafuerte,rocafuerte
+Ecuador,ecuador,EC,Manabi Province,manabi-province,San Vicente,san-vicente
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Santa Ana,santa-ana
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Sucre,sucre
+Ecuador,ecuador,EC,Manabi Province,manabi-province,Tosagua,tosagua
+Ecuador,ecuador,EC,Morona-Santiago Province,morona-santiago-province,Gualaquiza,gualaquiza
+Ecuador,ecuador,EC,Morona-Santiago Province,morona-santiago-province,Macas,macas
+Ecuador,ecuador,EC,Morona-Santiago Province,morona-santiago-province,Palora,palora
+Ecuador,ecuador,EC,Morona-Santiago Province,morona-santiago-province,Sucua,sucua
+Ecuador,ecuador,EC,Napo Province,napo-province,Archidona,archidona
+Ecuador,ecuador,EC,Napo Province,napo-province,Tena,tena
+Ecuador,ecuador,EC,Orellana Province,orellana-province,Boca Suno,boca-suno
+Ecuador,ecuador,EC,Orellana Province,orellana-province,Francisco de Orellana Canton,francisco-de-orellana-canton
+Ecuador,ecuador,EC,Orellana Province,orellana-province,Loreto Canton,loreto-canton
+Ecuador,ecuador,EC,Orellana Province,orellana-province,Puerto Francisco de Orellana,puerto-francisco-de-orellana
+Ecuador,ecuador,EC,Pastaza Province,pastaza-province,Puyo,puyo
+Ecuador,ecuador,EC,Pichincha Province,pichincha-province,Cayambe,cayambe
+Ecuador,ecuador,EC,Pichincha Province,pichincha-province,Machachi,machachi
+Ecuador,ecuador,EC,Pichincha Province,pichincha-province,Quito,quito
+Ecuador,ecuador,EC,Pichincha Province,pichincha-province,Sangolqui,sangolqui
+Ecuador,ecuador,EC,Pichincha Province,pichincha-province,Tutamandahostel,tutamandahostel
+Ecuador,ecuador,EC,Santa Elena Province,santa-elena-province,Salinas,salinas
+Ecuador,ecuador,EC,Santa Elena Province,santa-elena-province,Santa Elena,santa-elena
+Ecuador,ecuador,EC,Santo Domingo de los Tsachilas Province,santo-domingo-de-los-tsachilas-province,Santo Domingo de los Colorados,santo-domingo-de-los-colorados
+Ecuador,ecuador,EC,Sucumbios Province,sucumbios-province,Nueva Loja,nueva-loja
+Ecuador,ecuador,EC,Tungurahua Province,tungurahua-province,Ambato,ambato
+Ecuador,ecuador,EC,Tungurahua Province,tungurahua-province,Banos,banos
+Ecuador,ecuador,EC,Tungurahua Province,tungurahua-province,Pelileo,pelileo
+Ecuador,ecuador,EC,Tungurahua Province,tungurahua-province,Pillaro,pillaro
+Ecuador,ecuador,EC,Zamora-Chinchipe Province,zamora-chinchipe-province,Yantzaza,yantzaza
+Ecuador,ecuador,EC,Zamora-Chinchipe Province,zamora-chinchipe-province,Zamora,zamora

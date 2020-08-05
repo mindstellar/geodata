@@ -1,12 +1,12 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Eritrea,ER,Anseba Region,anseba-region,Keren,keren
-Eritrea,ER,Debub Region,debub-region,Adi Keyh,adi-keyh
-Eritrea,ER,Debub Region,debub-region,Dekemhare,dekemhare
-Eritrea,ER,Debub Region,debub-region,Mendefera,mendefera
-Eritrea,ER,Gash-Barka Region,gash-barka-region,Akordat,akordat
-Eritrea,ER,Gash-Barka Region,gash-barka-region,Barentu,barentu
-Eritrea,ER,Gash-Barka Region,gash-barka-region,Teseney,teseney
-Eritrea,ER,Maekel Region,maekel-region,Asmara,asmara
-Eritrea,ER,Northern Red Sea Region,northern-red-sea-region,Massawa,massawa
-Eritrea,ER,Southern Red Sea Region,southern-red-sea-region,Assab,assab
-Eritrea,ER,Southern Red Sea Region,southern-red-sea-region,Edd,edd
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Eritrea,eritrea,ER,Anseba Region,anseba-region,Keren,keren
+Eritrea,eritrea,ER,Debub Region,debub-region,Adi Keyh,adi-keyh
+Eritrea,eritrea,ER,Debub Region,debub-region,Dekemhare,dekemhare
+Eritrea,eritrea,ER,Debub Region,debub-region,Mendefera,mendefera
+Eritrea,eritrea,ER,Gash-Barka Region,gash-barka-region,Akordat,akordat
+Eritrea,eritrea,ER,Gash-Barka Region,gash-barka-region,Barentu,barentu
+Eritrea,eritrea,ER,Gash-Barka Region,gash-barka-region,Teseney,teseney
+Eritrea,eritrea,ER,Maekel Region,maekel-region,Asmara,asmara
+Eritrea,eritrea,ER,Northern Red Sea Region,northern-red-sea-region,Massawa,massawa
+Eritrea,eritrea,ER,Southern Red Sea Region,southern-red-sea-region,Assab,assab
+Eritrea,eritrea,ER,Southern Red Sea Region,southern-red-sea-region,Edd,edd

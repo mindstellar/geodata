@@ -1,18 +1,18 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Guinea-Bissau,GW,Bafata,bafata,Bafata,bafata
-Guinea-Bissau,GW,Bafata,bafata,Contuboel Sector,contuboel-sector
-Guinea-Bissau,GW,Biombo Region,biombo-region,Quinhamel,quinhamel
-Guinea-Bissau,GW,Bolama Region,bolama-region,Bolama,bolama
-Guinea-Bissau,GW,Bolama Region,bolama-region,Bubaque,bubaque
-Guinea-Bissau,GW,Cacheu Region,cacheu-region,Cacheu,cacheu
-Guinea-Bissau,GW,Cacheu Region,cacheu-region,Canchungo,canchungo
-Guinea-Bissau,GW,Gabu Region,gabu-region,Gabu,gabu
-Guinea-Bissau,GW,Leste Province,leste-province,Leste Province,leste-province
-Guinea-Bissau,GW,Norte Province,norte-province,Norte Province,norte-province
-Guinea-Bissau,GW,Oio Region,oio-region,Bissora,bissora
-Guinea-Bissau,GW,Oio Region,oio-region,Farim,farim
-Guinea-Bissau,GW,Oio Region,oio-region,Mansoa,mansoa
-Guinea-Bissau,GW,Quinara Region,quinara-region,Buba,buba
-Guinea-Bissau,GW,Sul Province,sul-province,Sul Province,sul-province
-Guinea-Bissau,GW,Tombali Region,tombali-region,Catio,catio
-Guinea-Bissau,GW,Tombali Region,tombali-region,Quebo,quebo
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Guinea-Bissau,guinea-bissau,GW,Bafata,bafata,Bafata,bafata
+Guinea-Bissau,guinea-bissau,GW,Bafata,bafata,Contuboel Sector,contuboel-sector
+Guinea-Bissau,guinea-bissau,GW,Biombo Region,biombo-region,Quinhamel,quinhamel
+Guinea-Bissau,guinea-bissau,GW,Bolama Region,bolama-region,Bolama,bolama
+Guinea-Bissau,guinea-bissau,GW,Bolama Region,bolama-region,Bubaque,bubaque
+Guinea-Bissau,guinea-bissau,GW,Cacheu Region,cacheu-region,Cacheu,cacheu
+Guinea-Bissau,guinea-bissau,GW,Cacheu Region,cacheu-region,Canchungo,canchungo
+Guinea-Bissau,guinea-bissau,GW,Gabu Region,gabu-region,Gabu,gabu
+Guinea-Bissau,guinea-bissau,GW,Leste Province,leste-province,Leste Province,leste-province
+Guinea-Bissau,guinea-bissau,GW,Norte Province,norte-province,Norte Province,norte-province
+Guinea-Bissau,guinea-bissau,GW,Oio Region,oio-region,Bissora,bissora
+Guinea-Bissau,guinea-bissau,GW,Oio Region,oio-region,Farim,farim
+Guinea-Bissau,guinea-bissau,GW,Oio Region,oio-region,Mansoa,mansoa
+Guinea-Bissau,guinea-bissau,GW,Quinara Region,quinara-region,Buba,buba
+Guinea-Bissau,guinea-bissau,GW,Sul Province,sul-province,Sul Province,sul-province
+Guinea-Bissau,guinea-bissau,GW,Tombali Region,tombali-region,Catio,catio
+Guinea-Bissau,guinea-bissau,GW,Tombali Region,tombali-region,Quebo,quebo

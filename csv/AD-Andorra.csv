@@ -1,11 +1,11 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Andorra,AD,Andorra la Vella,andorra-la-vella,Andorra la Vella,andorra-la-vella
-Andorra,AD,Canillo,canillo,Canillo,canillo
-Andorra,AD,Canillo,canillo,El Tarter,el-tarter
-Andorra,AD,Encamp,encamp,Encamp,encamp
-Andorra,AD,Encamp,encamp,Pas de la Casa,pas-de-la-casa
-Andorra,AD,Escaldes-Engordany,escaldes-engordany,les Escaldes,les-escaldes
-Andorra,AD,La Massana,la-massana,Arinsal,arinsal
-Andorra,AD,La Massana,la-massana,la Massana,la-massana
-Andorra,AD,Ordino,ordino,Ordino,ordino
-Andorra,AD,Sant Julia de Loria,sant-julia-de-loria,Sant Julia de Loria,sant-julia-de-loria
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Andorra,andorra,AD,Andorra la Vella,andorra-la-vella,Andorra la Vella,andorra-la-vella
+Andorra,andorra,AD,Canillo,canillo,Canillo,canillo
+Andorra,andorra,AD,Canillo,canillo,El Tarter,el-tarter
+Andorra,andorra,AD,Encamp,encamp,Encamp,encamp
+Andorra,andorra,AD,Encamp,encamp,Pas de la Casa,pas-de-la-casa
+Andorra,andorra,AD,Escaldes-Engordany,escaldes-engordany,les Escaldes,les-escaldes
+Andorra,andorra,AD,La Massana,la-massana,Arinsal,arinsal
+Andorra,andorra,AD,La Massana,la-massana,la Massana,la-massana
+Andorra,andorra,AD,Ordino,ordino,Ordino,ordino
+Andorra,andorra,AD,Sant Julia de Loria,sant-julia-de-loria,Sant Julia de Loria,sant-julia-de-loria

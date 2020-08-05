@@ -1,11 +1,11 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-South Sudan,SS,Central Equatoria,central-equatoria,Central Equatoria,central-equatoria
-South Sudan,SS,Eastern Equatoria,eastern-equatoria,Eastern Equatoria,eastern-equatoria
-South Sudan,SS,Jonglei State,jonglei-state,Jonglei State,jonglei-state
-South Sudan,SS,Lakes,lakes,Yirol,yirol
-South Sudan,SS,Northern Bahr el Ghazal,northern-bahr-el-ghazal,Northern Bahr el Ghazal,northern-bahr-el-ghazal
-South Sudan,SS,Unity,unity,Unity,unity
-South Sudan,SS,Upper Nile,upper-nile,Upper Nile,upper-nile
-South Sudan,SS,Warrap,warrap,Warrap,warrap
-South Sudan,SS,Western Bahr el Ghazal,western-bahr-el-ghazal,Western Bahr el Ghazal,western-bahr-el-ghazal
-South Sudan,SS,Western Equatoria,western-equatoria,Western Equatoria,western-equatoria
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+South Sudan,south-sudan,SS,Central Equatoria,central-equatoria,Central Equatoria,central-equatoria
+South Sudan,south-sudan,SS,Eastern Equatoria,eastern-equatoria,Eastern Equatoria,eastern-equatoria
+South Sudan,south-sudan,SS,Jonglei State,jonglei-state,Jonglei State,jonglei-state
+South Sudan,south-sudan,SS,Lakes,lakes,Yirol,yirol
+South Sudan,south-sudan,SS,Northern Bahr el Ghazal,northern-bahr-el-ghazal,Northern Bahr el Ghazal,northern-bahr-el-ghazal
+South Sudan,south-sudan,SS,Unity,unity,Unity,unity
+South Sudan,south-sudan,SS,Upper Nile,upper-nile,Upper Nile,upper-nile
+South Sudan,south-sudan,SS,Warrap,warrap,Warrap,warrap
+South Sudan,south-sudan,SS,Western Bahr el Ghazal,western-bahr-el-ghazal,Western Bahr el Ghazal,western-bahr-el-ghazal
+South Sudan,south-sudan,SS,Western Equatoria,western-equatoria,Western Equatoria,western-equatoria

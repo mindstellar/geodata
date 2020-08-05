@@ -1,75 +1,75 @@
-s_country_name,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
-Iceland,IS,Capital Region,capital-region,Alftanes,alftanes
-Iceland,IS,Capital Region,capital-region,Garabr,garabr
-Iceland,IS,Capital Region,capital-region,Hafnarfjorur,hafnarfjorur
-Iceland,IS,Capital Region,capital-region,Kjosarhreppur,kjosarhreppur
-Iceland,IS,Capital Region,capital-region,Kopavogur,kopavogur
-Iceland,IS,Capital Region,capital-region,Mosfellsbaer,mosfellsbaer
-Iceland,IS,Capital Region,capital-region,Mosfellsbr,mosfellsbr
-Iceland,IS,Capital Region,capital-region,Reykjavik,reykjavik
-Iceland,IS,Capital Region,capital-region,Seltjarnarnes,seltjarnarnes
-Iceland,IS,Eastern Region,eastern-region,Borgarfjararhreppur,borgarfjararhreppur
-Iceland,IS,Eastern Region,eastern-region,Breidalshreppur,breidalshreppur
-Iceland,IS,Eastern Region,eastern-region,Egilsstair,egilsstair
-Iceland,IS,Eastern Region,eastern-region,Eskifjorur,eskifjorur
-Iceland,IS,Eastern Region,eastern-region,Fjarabygg,fjarabygg
-Iceland,IS,Eastern Region,eastern-region,Fljotsdalshera,fljotsdalshera
-Iceland,IS,Eastern Region,eastern-region,Fljotsdalshreppur,fljotsdalshreppur
-Iceland,IS,Eastern Region,eastern-region,Hofn,hofn
-Iceland,IS,Eastern Region,eastern-region,Neskaupstaur,neskaupstaur
-Iceland,IS,Eastern Region,eastern-region,Reyarfjorur,reyarfjorur
-Iceland,IS,Northeastern Region,northeastern-region,Akureyri,akureyri
-Iceland,IS,Northeastern Region,northeastern-region,Dalvik,dalvik
-Iceland,IS,Northeastern Region,northeastern-region,Dalvikurbygg,dalvikurbygg
-Iceland,IS,Northeastern Region,northeastern-region,Eyjafjararsveit,eyjafjararsveit
-Iceland,IS,Northeastern Region,northeastern-region,Fjallabygg,fjallabygg
-Iceland,IS,Northeastern Region,northeastern-region,Grytubakkahreppur,grytubakkahreppur
-Iceland,IS,Northeastern Region,northeastern-region,Horgarsveit,horgarsveit
-Iceland,IS,Northeastern Region,northeastern-region,Husavik,husavik
-Iceland,IS,Northeastern Region,northeastern-region,Langanesbygg,langanesbygg
-Iceland,IS,Northeastern Region,northeastern-region,Laugar,laugar
-Iceland,IS,Northeastern Region,northeastern-region,Siglufjorur,siglufjorur
-Iceland,IS,Northeastern Region,northeastern-region,Skutustaahreppur,skutustaahreppur
-Iceland,IS,Northeastern Region,northeastern-region,Svalbarsstrandarhreppur,svalbarsstrandarhreppur
-Iceland,IS,Northeastern Region,northeastern-region,Tjorneshreppur,tjorneshreppur
-Iceland,IS,Northeastern Region,northeastern-region,ingeyjarsveit,ingeyjarsveit
-Iceland,IS,Northwestern Region,northwestern-region,Akrahreppur,akrahreppur
-Iceland,IS,Northwestern Region,northwestern-region,Hunaing Vestra,hunaing-vestra
-Iceland,IS,Northwestern Region,northwestern-region,Sauarkrokur,sauarkrokur
-Iceland,IS,Northwestern Region,northwestern-region,Skagabygg,skagabygg
-Iceland,IS,Northwestern Region,northwestern-region,Sveitarfelagi Skagafjorur,sveitarfelagi-skagafjorur
-Iceland,IS,Southern Peninsula Region,southern-peninsula-region,Garur,garur
-Iceland,IS,Southern Peninsula Region,southern-peninsula-region,Grindavik,grindavik
-Iceland,IS,Southern Peninsula Region,southern-peninsula-region,Keflavik,keflavik
-Iceland,IS,Southern Peninsula Region,southern-peninsula-region,Reykjanesbr,reykjanesbr
-Iceland,IS,Southern Peninsula Region,southern-peninsula-region,Sandgeri,sandgeri
-Iceland,IS,Southern Peninsula Region,southern-peninsula-region,Vogar,vogar
-Iceland,IS,Southern Region,southern-region,Asahreppur,asahreppur
-Iceland,IS,Southern Region,southern-region,Blaskogabygg,blaskogabygg
-Iceland,IS,Southern Region,southern-region,Floahreppur,floahreppur
-Iceland,IS,Southern Region,southern-region,Grimsnes- og Grafningshreppur,grimsnes-og-grafningshreppur
-Iceland,IS,Southern Region,southern-region,Hrunamannahreppur,hrunamannahreppur
-Iceland,IS,Southern Region,southern-region,Hverageri,hverageri
-Iceland,IS,Southern Region,southern-region,Myrdalshreppur,myrdalshreppur
-Iceland,IS,Southern Region,southern-region,Selfoss,selfoss
-Iceland,IS,Southern Region,southern-region,Skaftarhreppur,skaftarhreppur
-Iceland,IS,Southern Region,southern-region,Skeia- og Gnupverjahreppur,skeia-og-gnupverjahreppur
-Iceland,IS,Southern Region,southern-region,Vestmannaeyjabr,vestmannaeyjabr
-Iceland,IS,Southern Region,southern-region,Vestmannaeyjar,vestmannaeyjar
-Iceland,IS,Southern Region,southern-region,orlakshofn,orlakshofn
-Iceland,IS,Western Region,western-region,Akranes,akranes
-Iceland,IS,Western Region,western-region,Borgarbygg,borgarbygg
-Iceland,IS,Western Region,western-region,Borgarnes,borgarnes
-Iceland,IS,Western Region,western-region,Dalabygg,dalabygg
-Iceland,IS,Western Region,western-region,Eyja- og Miklaholtshreppur,eyja-og-miklaholtshreppur
-Iceland,IS,Western Region,western-region,Helgafellssveit,helgafellssveit
-Iceland,IS,Western Region,western-region,Hvalfjararsveit,hvalfjararsveit
-Iceland,IS,Western Region,western-region,Olafsvik,olafsvik
-Iceland,IS,Western Region,western-region,Skorradalshreppur,skorradalshreppur
-Iceland,IS,Western Region,western-region,Snfellsbr,snfellsbr
-Iceland,IS,Western Region,western-region,Stykkisholmur,stykkisholmur
-Iceland,IS,Westfjords,westfjords,Isafjararbr,isafjararbr
-Iceland,IS,Westfjords,westfjords,Isafjorur,isafjorur
-Iceland,IS,Westfjords,westfjords,Reykholahreppur,reykholahreppur
-Iceland,IS,Westfjords,westfjords,Strandabygg,strandabygg
-Iceland,IS,Westfjords,westfjords,Talknafjararhreppur,talknafjararhreppur
+s_country_name,s_country_slug,s_country_code_iso2,s_region_name,s_region_slug,s_city_name,s_city_slug
+Iceland,iceland,IS,Capital Region,capital-region,Alftanes,alftanes
+Iceland,iceland,IS,Capital Region,capital-region,Garabr,garabr
+Iceland,iceland,IS,Capital Region,capital-region,Hafnarfjorur,hafnarfjorur
+Iceland,iceland,IS,Capital Region,capital-region,Kjosarhreppur,kjosarhreppur
+Iceland,iceland,IS,Capital Region,capital-region,Kopavogur,kopavogur
+Iceland,iceland,IS,Capital Region,capital-region,Mosfellsbaer,mosfellsbaer
+Iceland,iceland,IS,Capital Region,capital-region,Mosfellsbr,mosfellsbr
+Iceland,iceland,IS,Capital Region,capital-region,Reykjavik,reykjavik
+Iceland,iceland,IS,Capital Region,capital-region,Seltjarnarnes,seltjarnarnes
+Iceland,iceland,IS,Eastern Region,eastern-region,Borgarfjararhreppur,borgarfjararhreppur
+Iceland,iceland,IS,Eastern Region,eastern-region,Breidalshreppur,breidalshreppur
+Iceland,iceland,IS,Eastern Region,eastern-region,Egilsstair,egilsstair
+Iceland,iceland,IS,Eastern Region,eastern-region,Eskifjorur,eskifjorur
+Iceland,iceland,IS,Eastern Region,eastern-region,Fjarabygg,fjarabygg
+Iceland,iceland,IS,Eastern Region,eastern-region,Fljotsdalshera,fljotsdalshera
+Iceland,iceland,IS,Eastern Region,eastern-region,Fljotsdalshreppur,fljotsdalshreppur
+Iceland,iceland,IS,Eastern Region,eastern-region,Hofn,hofn
+Iceland,iceland,IS,Eastern Region,eastern-region,Neskaupstaur,neskaupstaur
+Iceland,iceland,IS,Eastern Region,eastern-region,Reyarfjorur,reyarfjorur
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Akureyri,akureyri
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Dalvik,dalvik
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Dalvikurbygg,dalvikurbygg
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Eyjafjararsveit,eyjafjararsveit
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Fjallabygg,fjallabygg
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Grytubakkahreppur,grytubakkahreppur
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Horgarsveit,horgarsveit
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Husavik,husavik
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Langanesbygg,langanesbygg
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Laugar,laugar
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Siglufjorur,siglufjorur
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Skutustaahreppur,skutustaahreppur
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Svalbarsstrandarhreppur,svalbarsstrandarhreppur
+Iceland,iceland,IS,Northeastern Region,northeastern-region,Tjorneshreppur,tjorneshreppur
+Iceland,iceland,IS,Northeastern Region,northeastern-region,ingeyjarsveit,ingeyjarsveit
+Iceland,iceland,IS,Northwestern Region,northwestern-region,Akrahreppur,akrahreppur
+Iceland,iceland,IS,Northwestern Region,northwestern-region,Hunaing Vestra,hunaing-vestra
+Iceland,iceland,IS,Northwestern Region,northwestern-region,Sauarkrokur,sauarkrokur
+Iceland,iceland,IS,Northwestern Region,northwestern-region,Skagabygg,skagabygg
+Iceland,iceland,IS,Northwestern Region,northwestern-region,Sveitarfelagi Skagafjorur,sveitarfelagi-skagafjorur
+Iceland,iceland,IS,Southern Peninsula Region,southern-peninsula-region,Garur,garur
+Iceland,iceland,IS,Southern Peninsula Region,southern-peninsula-region,Grindavik,grindavik
+Iceland,iceland,IS,Southern Peninsula Region,southern-peninsula-region,Keflavik,keflavik
+Iceland,iceland,IS,Southern Peninsula Region,southern-peninsula-region,Reykjanesbr,reykjanesbr
+Iceland,iceland,IS,Southern Peninsula Region,southern-peninsula-region,Sandgeri,sandgeri
+Iceland,iceland,IS,Southern Peninsula Region,southern-peninsula-region,Vogar,vogar
+Iceland,iceland,IS,Southern Region,southern-region,Asahreppur,asahreppur
+Iceland,iceland,IS,Southern Region,southern-region,Blaskogabygg,blaskogabygg
+Iceland,iceland,IS,Southern Region,southern-region,Floahreppur,floahreppur
+Iceland,iceland,IS,Southern Region,southern-region,Grimsnes- og Grafningshreppur,grimsnes-og-grafningshreppur
+Iceland,iceland,IS,Southern Region,southern-region,Hrunamannahreppur,hrunamannahreppur
+Iceland,iceland,IS,Southern Region,southern-region,Hverageri,hverageri
+Iceland,iceland,IS,Southern Region,southern-region,Myrdalshreppur,myrdalshreppur
+Iceland,iceland,IS,Southern Region,southern-region,Selfoss,selfoss
+Iceland,iceland,IS,Southern Region,southern-region,Skaftarhreppur,skaftarhreppur
+Iceland,iceland,IS,Southern Region,southern-region,Skeia- og Gnupverjahreppur,skeia-og-gnupverjahreppur
+Iceland,iceland,IS,Southern Region,southern-region,Vestmannaeyjabr,vestmannaeyjabr
+Iceland,iceland,IS,Southern Region,southern-region,Vestmannaeyjar,vestmannaeyjar
+Iceland,iceland,IS,Southern Region,southern-region,orlakshofn,orlakshofn
+Iceland,iceland,IS,Western Region,western-region,Akranes,akranes
+Iceland,iceland,IS,Western Region,western-region,Borgarbygg,borgarbygg
+Iceland,iceland,IS,Western Region,western-region,Borgarnes,borgarnes
+Iceland,iceland,IS,Western Region,western-region,Dalabygg,dalabygg
+Iceland,iceland,IS,Western Region,western-region,Eyja- og Miklaholtshreppur,eyja-og-miklaholtshreppur
+Iceland,iceland,IS,Western Region,western-region,Helgafellssveit,helgafellssveit
+Iceland,iceland,IS,Western Region,western-region,Hvalfjararsveit,hvalfjararsveit
+Iceland,iceland,IS,Western Region,western-region,Olafsvik,olafsvik
+Iceland,iceland,IS,Western Region,western-region,Skorradalshreppur,skorradalshreppur
+Iceland,iceland,IS,Western Region,western-region,Snfellsbr,snfellsbr
+Iceland,iceland,IS,Western Region,western-region,Stykkisholmur,stykkisholmur
+Iceland,iceland,IS,Westfjords,westfjords,Isafjararbr,isafjararbr
+Iceland,iceland,IS,Westfjords,westfjords,Isafjorur,isafjorur
+Iceland,iceland,IS,Westfjords,westfjords,Reykholahreppur,reykholahreppur
+Iceland,iceland,IS,Westfjords,westfjords,Strandabygg,strandabygg
+Iceland,iceland,IS,Westfjords,westfjords,Talknafjararhreppur,talknafjararhreppur
