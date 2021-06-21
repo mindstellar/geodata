@@ -3575,6 +3575,115 @@
         },
         {
             "s_country_code": "th",
+            "s_region_name": "Nan",
+            "s_region_slug": "nan",
+            "cities": [
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Ban Luang",
+                    "s_city_slug": "amphoe-ban-luang"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Bo Kluea",
+                    "s_city_slug": "amphoe-bo-kluea"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Chaloem Phra Kiat",
+                    "s_city_slug": "amphoe-chaloem-phra-kiat"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Chiang Klang",
+                    "s_city_slug": "amphoe-chiang-klang"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Mae Charim",
+                    "s_city_slug": "amphoe-mae-charim"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Mueang Nan",
+                    "s_city_slug": "amphoe-mueang-nan"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Na Muen",
+                    "s_city_slug": "amphoe-na-muen"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Na Noi",
+                    "s_city_slug": "amphoe-na-noi"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Phu Phiang",
+                    "s_city_slug": "amphoe-phu-phiang"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Pua",
+                    "s_city_slug": "amphoe-pua"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Santi Suk",
+                    "s_city_slug": "amphoe-santi-suk"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Song Khwae",
+                    "s_city_slug": "amphoe-song-khwae"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Tha Wang Pha",
+                    "s_city_slug": "amphoe-tha-wang-pha"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Thung Chang",
+                    "s_city_slug": "amphoe-thung-chang"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Amphoe Wiang Sa",
+                    "s_city_slug": "amphoe-wiang-sa"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Chiang Klang",
+                    "s_city_slug": "chiang-klang"
+                },
+                {
+                    "s_country_code": "th",
+                    "s_region_slug": "nan",
+                    "s_city_name": "Nan",
+                    "s_city_slug": "nan"
+                }
+            ]
+        },
+        {
+            "s_country_code": "th",
             "s_region_name": "Narathiwat",
             "s_region_slug": "narathiwat",
             "cities": [

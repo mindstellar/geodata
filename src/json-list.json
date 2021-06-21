@@ -517,7 +517,7 @@
             "s_file_name": "CG-Congo.json"
         },
         {
-            "s_country_code": NaN,
+            "s_country_code": "NA",
             "s_country_name": "Namibia",
             "s_country_slug": "namibia",
             "s_file_name": "NA-Namibia.json"

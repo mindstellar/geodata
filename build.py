@@ -15,7 +15,7 @@ def convertCsvToJson(csvFilePath):
         "s_region_slug": str,
         "s_city_name": str,
         "s_city_slug": str
-    })
+    },keep_default_na=False)
 
     countryDict = {}
     countryDict['s_country_code'] = df.iloc[1]['s_country_code_iso2']

@@ -1,6 +1,399 @@
 {
-    "s_country_code": NaN,
+    "s_country_code": "NA",
     "s_country_name": "Namibia",
     "s_country_slug": "namibia",
-    "regions": []
+    "regions": [
+        {
+            "s_country_code": "na",
+            "s_region_name": "Erongo Region",
+            "s_region_slug": "erongo-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "erongo-region",
+                    "s_city_name": "Arandis",
+                    "s_city_slug": "arandis"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "erongo-region",
+                    "s_city_name": "Hentiesbaai",
+                    "s_city_slug": "hentiesbaai"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "erongo-region",
+                    "s_city_name": "Karibib",
+                    "s_city_slug": "karibib"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "erongo-region",
+                    "s_city_name": "Omaruru",
+                    "s_city_slug": "omaruru"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "erongo-region",
+                    "s_city_name": "Otjimbingwe",
+                    "s_city_slug": "otjimbingwe"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "erongo-region",
+                    "s_city_name": "Swakopmund",
+                    "s_city_slug": "swakopmund"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "erongo-region",
+                    "s_city_name": "Swakopmund Constituency",
+                    "s_city_slug": "swakopmund-constituency"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "erongo-region",
+                    "s_city_name": "Usakos",
+                    "s_city_slug": "usakos"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "erongo-region",
+                    "s_city_name": "Walvis Bay",
+                    "s_city_slug": "walvis-bay"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Hardap Region",
+            "s_region_slug": "hardap-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "hardap-region",
+                    "s_city_name": "Aranos",
+                    "s_city_slug": "aranos"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "hardap-region",
+                    "s_city_name": "Hoachanas",
+                    "s_city_slug": "hoachanas"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "hardap-region",
+                    "s_city_name": "Maltahohe",
+                    "s_city_slug": "maltahohe"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "hardap-region",
+                    "s_city_name": "Mariental",
+                    "s_city_slug": "mariental"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "hardap-region",
+                    "s_city_name": "Rehoboth",
+                    "s_city_slug": "rehoboth"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Karas Region",
+            "s_region_slug": "karas-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "karas-region",
+                    "s_city_name": "Bethanie",
+                    "s_city_slug": "bethanie"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "karas-region",
+                    "s_city_name": "Karasburg",
+                    "s_city_slug": "karasburg"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "karas-region",
+                    "s_city_name": "Keetmanshoop",
+                    "s_city_slug": "keetmanshoop"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "karas-region",
+                    "s_city_name": "Luderitz",
+                    "s_city_slug": "luderitz"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "karas-region",
+                    "s_city_name": "Oranjemund",
+                    "s_city_slug": "oranjemund"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "karas-region",
+                    "s_city_name": "Tses",
+                    "s_city_slug": "tses"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "karas-region",
+                    "s_city_name": "Warmbad",
+                    "s_city_slug": "warmbad"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Kavango East Region",
+            "s_region_slug": "kavango-east-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "kavango-east-region",
+                    "s_city_name": "Rundu",
+                    "s_city_slug": "rundu"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Kavango West Region",
+            "s_region_slug": "kavango-west-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "kavango-west-region",
+                    "s_city_name": "Kavango West Region",
+                    "s_city_slug": "kavango-west-region"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Khomas Region",
+            "s_region_slug": "khomas-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "khomas-region",
+                    "s_city_name": "Katutura",
+                    "s_city_slug": "katutura"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "khomas-region",
+                    "s_city_name": "Windhoek",
+                    "s_city_slug": "windhoek"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Kunene Region",
+            "s_region_slug": "kunene-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "kunene-region",
+                    "s_city_name": "Epupa Constituency",
+                    "s_city_slug": "epupa-constituency"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "kunene-region",
+                    "s_city_name": "Khorixas",
+                    "s_city_slug": "khorixas"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "kunene-region",
+                    "s_city_name": "Khorixas Constituency",
+                    "s_city_slug": "khorixas-constituency"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "kunene-region",
+                    "s_city_name": "Opuwo",
+                    "s_city_slug": "opuwo"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "kunene-region",
+                    "s_city_name": "Opuwo Constituency",
+                    "s_city_slug": "opuwo-constituency"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "kunene-region",
+                    "s_city_name": "Outjo",
+                    "s_city_slug": "outjo"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "kunene-region",
+                    "s_city_name": "Sesfontein Constituency",
+                    "s_city_slug": "sesfontein-constituency"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Ohangwena Region",
+            "s_region_slug": "ohangwena-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "ohangwena-region",
+                    "s_city_name": "Oshikango",
+                    "s_city_slug": "oshikango"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Omaheke Region",
+            "s_region_slug": "omaheke-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "omaheke-region",
+                    "s_city_name": "Gobabis",
+                    "s_city_slug": "gobabis"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Omusati Region",
+            "s_region_slug": "omusati-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "omusati-region",
+                    "s_city_name": "Okahao",
+                    "s_city_slug": "okahao"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "omusati-region",
+                    "s_city_name": "Ongandjera",
+                    "s_city_slug": "ongandjera"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "omusati-region",
+                    "s_city_name": "Outapi",
+                    "s_city_slug": "outapi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Oshana Region",
+            "s_region_slug": "oshana-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "oshana-region",
+                    "s_city_name": "Ondangwa",
+                    "s_city_slug": "ondangwa"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "oshana-region",
+                    "s_city_name": "Ongwediva",
+                    "s_city_slug": "ongwediva"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "oshana-region",
+                    "s_city_name": "Oshakati",
+                    "s_city_slug": "oshakati"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Oshikoto Region",
+            "s_region_slug": "oshikoto-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "oshikoto-region",
+                    "s_city_name": "Omuthiya",
+                    "s_city_slug": "omuthiya"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "oshikoto-region",
+                    "s_city_name": "Tsumeb",
+                    "s_city_slug": "tsumeb"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Otjozondjupa Region",
+            "s_region_slug": "otjozondjupa-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "otjozondjupa-region",
+                    "s_city_name": "Grootfontein",
+                    "s_city_slug": "grootfontein"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "otjozondjupa-region",
+                    "s_city_name": "Okahandja",
+                    "s_city_slug": "okahandja"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "otjozondjupa-region",
+                    "s_city_name": "Okakarara",
+                    "s_city_slug": "okakarara"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "otjozondjupa-region",
+                    "s_city_name": "Otavi",
+                    "s_city_slug": "otavi"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "otjozondjupa-region",
+                    "s_city_name": "Otjiwarongo",
+                    "s_city_slug": "otjiwarongo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "na",
+            "s_region_name": "Zambezi Region",
+            "s_region_slug": "zambezi-region",
+            "cities": [
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "zambezi-region",
+                    "s_city_name": "Bagani",
+                    "s_city_slug": "bagani"
+                },
+                {
+                    "s_country_code": "na",
+                    "s_region_slug": "zambezi-region",
+                    "s_city_name": "Katima Mulilo",
+                    "s_city_slug": "katima-mulilo"
+                }
+            ]
+        }
+    ]
 }
