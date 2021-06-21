@@ -1,1193 +1,1193 @@
 {
-    "s_country_code": "MY",
-    "s_country_name": "Malaysia",
-    "s_country_slug": "malaysia",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Bakri",
+                    "s_city_slug": "bakri",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Batu Pahat",
+                    "s_city_slug": "batu-pahat",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Buloh Kasap",
+                    "s_city_slug": "buloh-kasap",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Chaah",
+                    "s_city_slug": "chaah",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Daerah Batu Pahat",
+                    "s_city_slug": "daerah-batu-pahat",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Daerah Johor Baharu",
+                    "s_city_slug": "daerah-johor-baharu",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Daerah Keluang",
+                    "s_city_slug": "daerah-keluang",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Daerah Kota Tinggi",
+                    "s_city_slug": "daerah-kota-tinggi",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Daerah Mersing",
+                    "s_city_slug": "daerah-mersing",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Daerah Muar",
+                    "s_city_slug": "daerah-muar",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Daerah Pontian",
+                    "s_city_slug": "daerah-pontian",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Daerah Segamat",
+                    "s_city_slug": "daerah-segamat",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Johor Bahru",
+                    "s_city_slug": "johor-bahru",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Kampung Pasir Gudang Baru",
+                    "s_city_slug": "kampung-pasir-gudang-baru",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Kampung Simpang Renggam",
+                    "s_city_slug": "kampung-simpang-renggam",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Kelapa Sawit",
+                    "s_city_slug": "kelapa-sawit",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Kluang",
+                    "s_city_slug": "kluang",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Kota Tinggi",
+                    "s_city_slug": "kota-tinggi",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Kulai",
+                    "s_city_slug": "kulai",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Labis",
+                    "s_city_slug": "labis",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Mersing",
+                    "s_city_slug": "mersing",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Muar",
+                    "s_city_slug": "muar",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Parit Raja",
+                    "s_city_slug": "parit-raja",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Pekan Nenas",
+                    "s_city_slug": "pekan-nenas",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Pontian Kechil",
+                    "s_city_slug": "pontian-kechil",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Segamat",
+                    "s_city_slug": "segamat",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Skudai",
+                    "s_city_slug": "skudai",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Taman Senai",
+                    "s_city_slug": "taman-senai",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Tangkak",
+                    "s_city_slug": "tangkak",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Ulu Tiram",
+                    "s_city_slug": "ulu-tiram",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                },
+                {
+                    "s_city_name": "Yong Peng",
+                    "s_city_slug": "yong-peng",
+                    "s_country_code": "my",
+                    "s_region_slug": "johor"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Johor",
-            "s_region_slug": "johor",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Bakri",
-                    "s_city_slug": "bakri"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Batu Pahat",
-                    "s_city_slug": "batu-pahat"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Buloh Kasap",
-                    "s_city_slug": "buloh-kasap"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Chaah",
-                    "s_city_slug": "chaah"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Daerah Batu Pahat",
-                    "s_city_slug": "daerah-batu-pahat"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Daerah Johor Baharu",
-                    "s_city_slug": "daerah-johor-baharu"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Daerah Keluang",
-                    "s_city_slug": "daerah-keluang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Daerah Kota Tinggi",
-                    "s_city_slug": "daerah-kota-tinggi"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Daerah Mersing",
-                    "s_city_slug": "daerah-mersing"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Daerah Muar",
-                    "s_city_slug": "daerah-muar"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Daerah Pontian",
-                    "s_city_slug": "daerah-pontian"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Daerah Segamat",
-                    "s_city_slug": "daerah-segamat"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Johor Bahru",
-                    "s_city_slug": "johor-bahru"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Kampung Pasir Gudang Baru",
-                    "s_city_slug": "kampung-pasir-gudang-baru"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Kampung Simpang Renggam",
-                    "s_city_slug": "kampung-simpang-renggam"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Kelapa Sawit",
-                    "s_city_slug": "kelapa-sawit"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Kluang",
-                    "s_city_slug": "kluang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Kota Tinggi",
-                    "s_city_slug": "kota-tinggi"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Kulai",
-                    "s_city_slug": "kulai"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Labis",
-                    "s_city_slug": "labis"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Mersing",
-                    "s_city_slug": "mersing"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Muar",
-                    "s_city_slug": "muar"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Parit Raja",
-                    "s_city_slug": "parit-raja"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Pekan Nenas",
-                    "s_city_slug": "pekan-nenas"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Pontian Kechil",
-                    "s_city_slug": "pontian-kechil"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Segamat",
-                    "s_city_slug": "segamat"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Skudai",
-                    "s_city_slug": "skudai"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Taman Senai",
-                    "s_city_slug": "taman-senai"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Tangkak",
-                    "s_city_slug": "tangkak"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Ulu Tiram",
-                    "s_city_slug": "ulu-tiram"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "johor",
-                    "s_city_name": "Yong Peng",
-                    "s_city_slug": "yong-peng"
-                }
-            ]
+            "s_region_slug": "johor"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Alor Setar",
+                    "s_city_slug": "alor-setar",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Ayer Hangat",
+                    "s_city_slug": "ayer-hangat",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Bedong",
+                    "s_city_slug": "bedong",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Gurun",
+                    "s_city_slug": "gurun",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Jitra",
+                    "s_city_slug": "jitra",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Kampung Kilim",
+                    "s_city_slug": "kampung-kilim",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Kampung Kok",
+                    "s_city_slug": "kampung-kok",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Kuah",
+                    "s_city_slug": "kuah",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Kuala Kedah",
+                    "s_city_slug": "kuala-kedah",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Kuala Teriang",
+                    "s_city_slug": "kuala-teriang",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Kulim",
+                    "s_city_slug": "kulim",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Langkawi",
+                    "s_city_slug": "langkawi",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Padang Mat Sirat",
+                    "s_city_slug": "padang-mat-sirat",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                },
+                {
+                    "s_city_name": "Sungai Petani",
+                    "s_city_slug": "sungai-petani",
+                    "s_country_code": "my",
+                    "s_region_slug": "kedah"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Kedah",
-            "s_region_slug": "kedah",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Alor Setar",
-                    "s_city_slug": "alor-setar"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Ayer Hangat",
-                    "s_city_slug": "ayer-hangat"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Bedong",
-                    "s_city_slug": "bedong"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Gurun",
-                    "s_city_slug": "gurun"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Jitra",
-                    "s_city_slug": "jitra"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Kampung Kilim",
-                    "s_city_slug": "kampung-kilim"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Kampung Kok",
-                    "s_city_slug": "kampung-kok"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Kuah",
-                    "s_city_slug": "kuah"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Kuala Kedah",
-                    "s_city_slug": "kuala-kedah"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Kuala Teriang",
-                    "s_city_slug": "kuala-teriang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Kulim",
-                    "s_city_slug": "kulim"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Langkawi",
-                    "s_city_slug": "langkawi"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Padang Mat Sirat",
-                    "s_city_slug": "padang-mat-sirat"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kedah",
-                    "s_city_name": "Sungai Petani",
-                    "s_city_slug": "sungai-petani"
-                }
-            ]
+            "s_region_slug": "kedah"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Gua Musang",
+                    "s_city_slug": "gua-musang",
+                    "s_country_code": "my",
+                    "s_region_slug": "kelantan"
+                },
+                {
+                    "s_city_name": "Kampong Kadok",
+                    "s_city_slug": "kampong-kadok",
+                    "s_country_code": "my",
+                    "s_region_slug": "kelantan"
+                },
+                {
+                    "s_city_name": "Kampong Pangkal Kalong",
+                    "s_city_slug": "kampong-pangkal-kalong",
+                    "s_country_code": "my",
+                    "s_region_slug": "kelantan"
+                },
+                {
+                    "s_city_name": "Kota Bharu",
+                    "s_city_slug": "kota-bharu",
+                    "s_country_code": "my",
+                    "s_region_slug": "kelantan"
+                },
+                {
+                    "s_city_name": "Pasir Mas",
+                    "s_city_slug": "pasir-mas",
+                    "s_country_code": "my",
+                    "s_region_slug": "kelantan"
+                },
+                {
+                    "s_city_name": "Peringat",
+                    "s_city_slug": "peringat",
+                    "s_country_code": "my",
+                    "s_region_slug": "kelantan"
+                },
+                {
+                    "s_city_name": "Tumpat",
+                    "s_city_slug": "tumpat",
+                    "s_country_code": "my",
+                    "s_region_slug": "kelantan"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Kelantan",
-            "s_region_slug": "kelantan",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kelantan",
-                    "s_city_name": "Gua Musang",
-                    "s_city_slug": "gua-musang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kelantan",
-                    "s_city_name": "Kampong Kadok",
-                    "s_city_slug": "kampong-kadok"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kelantan",
-                    "s_city_name": "Kampong Pangkal Kalong",
-                    "s_city_slug": "kampong-pangkal-kalong"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kelantan",
-                    "s_city_name": "Kota Bharu",
-                    "s_city_slug": "kota-bharu"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kelantan",
-                    "s_city_name": "Pasir Mas",
-                    "s_city_slug": "pasir-mas"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kelantan",
-                    "s_city_name": "Peringat",
-                    "s_city_slug": "peringat"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kelantan",
-                    "s_city_name": "Tumpat",
-                    "s_city_slug": "tumpat"
-                }
-            ]
+            "s_region_slug": "kelantan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kuala Lumpur",
+                    "s_city_slug": "kuala-lumpur",
+                    "s_country_code": "my",
+                    "s_region_slug": "kuala-lumpur"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Kuala Lumpur",
-            "s_region_slug": "kuala-lumpur",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "kuala-lumpur",
-                    "s_city_name": "Kuala Lumpur",
-                    "s_city_slug": "kuala-lumpur"
-                }
-            ]
+            "s_region_slug": "kuala-lumpur"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Labuan",
+                    "s_city_slug": "labuan",
+                    "s_country_code": "my",
+                    "s_region_slug": "labuan"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Labuan",
-            "s_region_slug": "labuan",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "labuan",
-                    "s_city_name": "Labuan",
-                    "s_city_slug": "labuan"
-                }
-            ]
+            "s_region_slug": "labuan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Alor Gajah",
+                    "s_city_slug": "alor-gajah",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                },
+                {
+                    "s_city_name": "Batu Berendam",
+                    "s_city_slug": "batu-berendam",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                },
+                {
+                    "s_city_name": "Bemban",
+                    "s_city_slug": "bemban",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                },
+                {
+                    "s_city_name": "Bukit Rambai",
+                    "s_city_slug": "bukit-rambai",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                },
+                {
+                    "s_city_name": "Kampong Masjid Tanah",
+                    "s_city_slug": "kampong-masjid-tanah",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                },
+                {
+                    "s_city_name": "Kampung Ayer Keroh",
+                    "s_city_slug": "kampung-ayer-keroh",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                },
+                {
+                    "s_city_name": "Kampung Ayer Molek",
+                    "s_city_slug": "kampung-ayer-molek",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                },
+                {
+                    "s_city_name": "Kampung Bukit Baharu",
+                    "s_city_slug": "kampung-bukit-baharu",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                },
+                {
+                    "s_city_name": "Klebang Besar",
+                    "s_city_slug": "klebang-besar",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                },
+                {
+                    "s_city_name": "Kuala Sungai Baru",
+                    "s_city_slug": "kuala-sungai-baru",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                },
+                {
+                    "s_city_name": "Malacca",
+                    "s_city_slug": "malacca",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                },
+                {
+                    "s_city_name": "Pulau Sebang",
+                    "s_city_slug": "pulau-sebang",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                },
+                {
+                    "s_city_name": "Sungai Udang",
+                    "s_city_slug": "sungai-udang",
+                    "s_country_code": "my",
+                    "s_region_slug": "melaka"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Melaka",
-            "s_region_slug": "melaka",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Alor Gajah",
-                    "s_city_slug": "alor-gajah"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Batu Berendam",
-                    "s_city_slug": "batu-berendam"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Bemban",
-                    "s_city_slug": "bemban"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Bukit Rambai",
-                    "s_city_slug": "bukit-rambai"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Kampong Masjid Tanah",
-                    "s_city_slug": "kampong-masjid-tanah"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Kampung Ayer Keroh",
-                    "s_city_slug": "kampung-ayer-keroh"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Kampung Ayer Molek",
-                    "s_city_slug": "kampung-ayer-molek"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Kampung Bukit Baharu",
-                    "s_city_slug": "kampung-bukit-baharu"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Klebang Besar",
-                    "s_city_slug": "klebang-besar"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Kuala Sungai Baru",
-                    "s_city_slug": "kuala-sungai-baru"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Malacca",
-                    "s_city_slug": "malacca"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Pulau Sebang",
-                    "s_city_slug": "pulau-sebang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "melaka",
-                    "s_city_name": "Sungai Udang",
-                    "s_city_slug": "sungai-udang"
-                }
-            ]
+            "s_region_slug": "melaka"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bahau",
+                    "s_city_slug": "bahau",
+                    "s_country_code": "my",
+                    "s_region_slug": "negeri-sembilan"
+                },
+                {
+                    "s_city_name": "Kampung Baharu Nilai",
+                    "s_city_slug": "kampung-baharu-nilai",
+                    "s_country_code": "my",
+                    "s_region_slug": "negeri-sembilan"
+                },
+                {
+                    "s_city_name": "Kuala Pilah",
+                    "s_city_slug": "kuala-pilah",
+                    "s_country_code": "my",
+                    "s_region_slug": "negeri-sembilan"
+                },
+                {
+                    "s_city_name": "Port Dickson",
+                    "s_city_slug": "port-dickson",
+                    "s_country_code": "my",
+                    "s_region_slug": "negeri-sembilan"
+                },
+                {
+                    "s_city_name": "Seremban",
+                    "s_city_slug": "seremban",
+                    "s_country_code": "my",
+                    "s_region_slug": "negeri-sembilan"
+                },
+                {
+                    "s_city_name": "Tampin",
+                    "s_city_slug": "tampin",
+                    "s_country_code": "my",
+                    "s_region_slug": "negeri-sembilan"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Negeri Sembilan",
-            "s_region_slug": "negeri-sembilan",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "negeri-sembilan",
-                    "s_city_name": "Bahau",
-                    "s_city_slug": "bahau"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "negeri-sembilan",
-                    "s_city_name": "Kampung Baharu Nilai",
-                    "s_city_slug": "kampung-baharu-nilai"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "negeri-sembilan",
-                    "s_city_name": "Kuala Pilah",
-                    "s_city_slug": "kuala-pilah"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "negeri-sembilan",
-                    "s_city_name": "Port Dickson",
-                    "s_city_slug": "port-dickson"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "negeri-sembilan",
-                    "s_city_name": "Seremban",
-                    "s_city_slug": "seremban"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "negeri-sembilan",
-                    "s_city_name": "Tampin",
-                    "s_city_slug": "tampin"
-                }
-            ]
+            "s_region_slug": "negeri-sembilan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bentong Town",
+                    "s_city_slug": "bentong-town",
+                    "s_country_code": "my",
+                    "s_region_slug": "pahang"
+                },
+                {
+                    "s_city_name": "Jerantut",
+                    "s_city_slug": "jerantut",
+                    "s_country_code": "my",
+                    "s_region_slug": "pahang"
+                },
+                {
+                    "s_city_name": "Kampung Bukit Tinggi, Bentong",
+                    "s_city_slug": "kampung-bukit-tinggi-bentong",
+                    "s_country_code": "my",
+                    "s_region_slug": "pahang"
+                },
+                {
+                    "s_city_name": "Kampung Tekek",
+                    "s_city_slug": "kampung-tekek",
+                    "s_country_code": "my",
+                    "s_region_slug": "pahang"
+                },
+                {
+                    "s_city_name": "Kuala Lipis",
+                    "s_city_slug": "kuala-lipis",
+                    "s_country_code": "my",
+                    "s_region_slug": "pahang"
+                },
+                {
+                    "s_city_name": "Kuantan",
+                    "s_city_slug": "kuantan",
+                    "s_country_code": "my",
+                    "s_region_slug": "pahang"
+                },
+                {
+                    "s_city_name": "Mentekab",
+                    "s_city_slug": "mentekab",
+                    "s_country_code": "my",
+                    "s_region_slug": "pahang"
+                },
+                {
+                    "s_city_name": "Pekan",
+                    "s_city_slug": "pekan",
+                    "s_country_code": "my",
+                    "s_region_slug": "pahang"
+                },
+                {
+                    "s_city_name": "Raub",
+                    "s_city_slug": "raub",
+                    "s_country_code": "my",
+                    "s_region_slug": "pahang"
+                },
+                {
+                    "s_city_name": "Tanah Rata",
+                    "s_city_slug": "tanah-rata",
+                    "s_country_code": "my",
+                    "s_region_slug": "pahang"
+                },
+                {
+                    "s_city_name": "Temerluh",
+                    "s_city_slug": "temerluh",
+                    "s_country_code": "my",
+                    "s_region_slug": "pahang"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Pahang",
-            "s_region_slug": "pahang",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "pahang",
-                    "s_city_name": "Bentong Town",
-                    "s_city_slug": "bentong-town"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "pahang",
-                    "s_city_name": "Jerantut",
-                    "s_city_slug": "jerantut"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "pahang",
-                    "s_city_name": "Kampung Bukit Tinggi, Bentong",
-                    "s_city_slug": "kampung-bukit-tinggi-bentong"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "pahang",
-                    "s_city_name": "Kampung Tekek",
-                    "s_city_slug": "kampung-tekek"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "pahang",
-                    "s_city_name": "Kuala Lipis",
-                    "s_city_slug": "kuala-lipis"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "pahang",
-                    "s_city_name": "Kuantan",
-                    "s_city_slug": "kuantan"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "pahang",
-                    "s_city_name": "Mentekab",
-                    "s_city_slug": "mentekab"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "pahang",
-                    "s_city_name": "Pekan",
-                    "s_city_slug": "pekan"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "pahang",
-                    "s_city_name": "Raub",
-                    "s_city_slug": "raub"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "pahang",
-                    "s_city_name": "Tanah Rata",
-                    "s_city_slug": "tanah-rata"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "pahang",
-                    "s_city_name": "Temerluh",
-                    "s_city_slug": "temerluh"
-                }
-            ]
+            "s_region_slug": "pahang"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Batu Feringgi",
+                    "s_city_slug": "batu-feringgi",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Bukit Mertajam",
+                    "s_city_slug": "bukit-mertajam",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Butterworth",
+                    "s_city_slug": "butterworth",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "George Town",
+                    "s_city_slug": "george-town",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Juru",
+                    "s_city_slug": "juru",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Kampung Batu Feringgi",
+                    "s_city_slug": "kampung-batu-feringgi",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Kampung Sungai Ara",
+                    "s_city_slug": "kampung-sungai-ara",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Kepala Batas",
+                    "s_city_slug": "kepala-batas",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Nibong Tebal",
+                    "s_city_slug": "nibong-tebal",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Perai",
+                    "s_city_slug": "perai",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Permatang Kuching",
+                    "s_city_slug": "permatang-kuching",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Seberang Perai",
+                    "s_city_slug": "seberang-perai",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Tanjung Tokong",
+                    "s_city_slug": "tanjung-tokong",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Tasek Glugor",
+                    "s_city_slug": "tasek-glugor",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                },
+                {
+                    "s_city_name": "Telaga Batu",
+                    "s_city_slug": "telaga-batu",
+                    "s_country_code": "my",
+                    "s_region_slug": "penang"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Penang",
-            "s_region_slug": "penang",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Batu Feringgi",
-                    "s_city_slug": "batu-feringgi"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Bukit Mertajam",
-                    "s_city_slug": "bukit-mertajam"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Butterworth",
-                    "s_city_slug": "butterworth"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "George Town",
-                    "s_city_slug": "george-town"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Juru",
-                    "s_city_slug": "juru"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Kampung Batu Feringgi",
-                    "s_city_slug": "kampung-batu-feringgi"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Kampung Sungai Ara",
-                    "s_city_slug": "kampung-sungai-ara"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Kepala Batas",
-                    "s_city_slug": "kepala-batas"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Nibong Tebal",
-                    "s_city_slug": "nibong-tebal"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Perai",
-                    "s_city_slug": "perai"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Permatang Kuching",
-                    "s_city_slug": "permatang-kuching"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Seberang Perai",
-                    "s_city_slug": "seberang-perai"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Tanjung Tokong",
-                    "s_city_slug": "tanjung-tokong"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Tasek Glugor",
-                    "s_city_slug": "tasek-glugor"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "penang",
-                    "s_city_name": "Telaga Batu",
-                    "s_city_slug": "telaga-batu"
-                }
-            ]
+            "s_region_slug": "penang"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bagan Serai",
+                    "s_city_slug": "bagan-serai",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Batu Gajah",
+                    "s_city_slug": "batu-gajah",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Bidur",
+                    "s_city_slug": "bidur",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Ipoh",
+                    "s_city_slug": "ipoh",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Kampar",
+                    "s_city_slug": "kampar",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Kampong Dungun",
+                    "s_city_slug": "kampong-dungun",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Kuala Kangsar",
+                    "s_city_slug": "kuala-kangsar",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Lumut",
+                    "s_city_slug": "lumut",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Pantai Remis",
+                    "s_city_slug": "pantai-remis",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Parit Buntar",
+                    "s_city_slug": "parit-buntar",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Simpang Empat",
+                    "s_city_slug": "simpang-empat",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Taiping",
+                    "s_city_slug": "taiping",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Tapah Road",
+                    "s_city_slug": "tapah-road",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                },
+                {
+                    "s_city_name": "Teluk Intan",
+                    "s_city_slug": "teluk-intan",
+                    "s_country_code": "my",
+                    "s_region_slug": "perak"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Perak",
-            "s_region_slug": "perak",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Bagan Serai",
-                    "s_city_slug": "bagan-serai"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Batu Gajah",
-                    "s_city_slug": "batu-gajah"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Bidur",
-                    "s_city_slug": "bidur"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Ipoh",
-                    "s_city_slug": "ipoh"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Kampar",
-                    "s_city_slug": "kampar"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Kampong Dungun",
-                    "s_city_slug": "kampong-dungun"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Kuala Kangsar",
-                    "s_city_slug": "kuala-kangsar"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Lumut",
-                    "s_city_slug": "lumut"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Pantai Remis",
-                    "s_city_slug": "pantai-remis"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Parit Buntar",
-                    "s_city_slug": "parit-buntar"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Simpang Empat",
-                    "s_city_slug": "simpang-empat"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Taiping",
-                    "s_city_slug": "taiping"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Tapah Road",
-                    "s_city_slug": "tapah-road"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perak",
-                    "s_city_name": "Teluk Intan",
-                    "s_city_slug": "teluk-intan"
-                }
-            ]
+            "s_region_slug": "perak"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kangar",
+                    "s_city_slug": "kangar",
+                    "s_country_code": "my",
+                    "s_region_slug": "perlis"
+                },
+                {
+                    "s_city_name": "Kuala Perlis",
+                    "s_city_slug": "kuala-perlis",
+                    "s_country_code": "my",
+                    "s_region_slug": "perlis"
+                },
+                {
+                    "s_city_name": "Pantai Cenang",
+                    "s_city_slug": "pantai-cenang",
+                    "s_country_code": "my",
+                    "s_region_slug": "perlis"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Perlis",
-            "s_region_slug": "perlis",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perlis",
-                    "s_city_name": "Kangar",
-                    "s_city_slug": "kangar"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perlis",
-                    "s_city_name": "Kuala Perlis",
-                    "s_city_slug": "kuala-perlis"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "perlis",
-                    "s_city_name": "Pantai Cenang",
-                    "s_city_slug": "pantai-cenang"
-                }
-            ]
+            "s_region_slug": "perlis"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Putrajaya",
+                    "s_city_slug": "putrajaya",
+                    "s_country_code": "my",
+                    "s_region_slug": "putrajaya"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Putrajaya",
-            "s_region_slug": "putrajaya",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "putrajaya",
-                    "s_city_name": "Putrajaya",
-                    "s_city_slug": "putrajaya"
-                }
-            ]
+            "s_region_slug": "putrajaya"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bandar Labuan",
+                    "s_city_slug": "bandar-labuan",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Beaufort",
+                    "s_city_slug": "beaufort",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Donggongon",
+                    "s_city_slug": "donggongon",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Keningau",
+                    "s_city_slug": "keningau",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Kinarut",
+                    "s_city_slug": "kinarut",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Kota Belud",
+                    "s_city_slug": "kota-belud",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Kota Kinabalu",
+                    "s_city_slug": "kota-kinabalu",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Kudat",
+                    "s_city_slug": "kudat",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Lahad Datu",
+                    "s_city_slug": "lahad-datu",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Papar",
+                    "s_city_slug": "papar",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Putatan",
+                    "s_city_slug": "putatan",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Ranau",
+                    "s_city_slug": "ranau",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Sandakan",
+                    "s_city_slug": "sandakan",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Semporna",
+                    "s_city_slug": "semporna",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Taman Rajawali",
+                    "s_city_slug": "taman-rajawali",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                },
+                {
+                    "s_city_name": "Tawau",
+                    "s_city_slug": "tawau",
+                    "s_country_code": "my",
+                    "s_region_slug": "sabah"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Sabah",
-            "s_region_slug": "sabah",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Bandar Labuan",
-                    "s_city_slug": "bandar-labuan"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Beaufort",
-                    "s_city_slug": "beaufort"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Donggongon",
-                    "s_city_slug": "donggongon"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Keningau",
-                    "s_city_slug": "keningau"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Kinarut",
-                    "s_city_slug": "kinarut"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Kota Belud",
-                    "s_city_slug": "kota-belud"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Kota Kinabalu",
-                    "s_city_slug": "kota-kinabalu"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Kudat",
-                    "s_city_slug": "kudat"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Lahad Datu",
-                    "s_city_slug": "lahad-datu"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Papar",
-                    "s_city_slug": "papar"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Putatan",
-                    "s_city_slug": "putatan"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Ranau",
-                    "s_city_slug": "ranau"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Sandakan",
-                    "s_city_slug": "sandakan"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Semporna",
-                    "s_city_slug": "semporna"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Taman Rajawali",
-                    "s_city_slug": "taman-rajawali"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sabah",
-                    "s_city_name": "Tawau",
-                    "s_city_slug": "tawau"
-                }
-            ]
+            "s_region_slug": "sabah"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bintulu",
+                    "s_city_slug": "bintulu",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Data Kakus",
+                    "s_city_slug": "data-kakus",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Kapit",
+                    "s_city_slug": "kapit",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Kuching",
+                    "s_city_slug": "kuching",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Lawas",
+                    "s_city_slug": "lawas",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Lidung Jelo",
+                    "s_city_slug": "lidung-jelo",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Limbang",
+                    "s_city_slug": "limbang",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Long Ampan Aing or Abanang",
+                    "s_city_slug": "long-ampan-aing-or-abanang",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Marudi",
+                    "s_city_slug": "marudi",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Miri",
+                    "s_city_slug": "miri",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Mukah",
+                    "s_city_slug": "mukah",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Sarikei",
+                    "s_city_slug": "sarikei",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Sibu",
+                    "s_city_slug": "sibu",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                },
+                {
+                    "s_city_name": "Simanggang",
+                    "s_city_slug": "simanggang",
+                    "s_country_code": "my",
+                    "s_region_slug": "sarawak"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Sarawak",
-            "s_region_slug": "sarawak",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Bintulu",
-                    "s_city_slug": "bintulu"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Data Kakus",
-                    "s_city_slug": "data-kakus"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Kapit",
-                    "s_city_slug": "kapit"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Kuching",
-                    "s_city_slug": "kuching"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Lawas",
-                    "s_city_slug": "lawas"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Lidung Jelo",
-                    "s_city_slug": "lidung-jelo"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Limbang",
-                    "s_city_slug": "limbang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Long Ampan Aing or Abanang",
-                    "s_city_slug": "long-ampan-aing-or-abanang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Marudi",
-                    "s_city_slug": "marudi"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Miri",
-                    "s_city_slug": "miri"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Mukah",
-                    "s_city_slug": "mukah"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Sarikei",
-                    "s_city_slug": "sarikei"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Sibu",
-                    "s_city_slug": "sibu"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "sarawak",
-                    "s_city_name": "Simanggang",
-                    "s_city_slug": "simanggang"
-                }
-            ]
+            "s_region_slug": "sarawak"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ampang",
+                    "s_city_slug": "ampang",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Bagan Pulau Ketam",
+                    "s_city_slug": "bagan-pulau-ketam",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Banting",
+                    "s_city_slug": "banting",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Batang Berjuntai",
+                    "s_city_slug": "batang-berjuntai",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Batu Arang",
+                    "s_city_slug": "batu-arang",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Jenjarum",
+                    "s_city_slug": "jenjarum",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Kampong Baharu Balakong",
+                    "s_city_slug": "kampong-baharu-balakong",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Kampung Baru Subang",
+                    "s_city_slug": "kampung-baru-subang",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Kampung Tanjung Karang",
+                    "s_city_slug": "kampung-tanjung-karang",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Klang",
+                    "s_city_slug": "klang",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Kuala Selangor",
+                    "s_city_slug": "kuala-selangor",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Kuang",
+                    "s_city_slug": "kuang",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Ladang Seri Kundang",
+                    "s_city_slug": "ladang-seri-kundang",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Pelabuhan Klang",
+                    "s_city_slug": "pelabuhan-klang",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Petaling Jaya",
+                    "s_city_slug": "petaling-jaya",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Putra Heights",
+                    "s_city_slug": "putra-heights",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Rawang",
+                    "s_city_slug": "rawang",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Semenyih",
+                    "s_city_slug": "semenyih",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Serendah",
+                    "s_city_slug": "serendah",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Shah Alam",
+                    "s_city_slug": "shah-alam",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Subang Jaya",
+                    "s_city_slug": "subang-jaya",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Sungai Besar",
+                    "s_city_slug": "sungai-besar",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Sungai Pelek New Village",
+                    "s_city_slug": "sungai-pelek-new-village",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                },
+                {
+                    "s_city_name": "Tanjung Sepat",
+                    "s_city_slug": "tanjung-sepat",
+                    "s_country_code": "my",
+                    "s_region_slug": "selangor"
+                }
+            ],
             "s_country_code": "my",
             "s_region_name": "Selangor",
-            "s_region_slug": "selangor",
-            "cities": [
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Ampang",
-                    "s_city_slug": "ampang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Bagan Pulau Ketam",
-                    "s_city_slug": "bagan-pulau-ketam"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Banting",
-                    "s_city_slug": "banting"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Batang Berjuntai",
-                    "s_city_slug": "batang-berjuntai"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Batu Arang",
-                    "s_city_slug": "batu-arang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Jenjarum",
-                    "s_city_slug": "jenjarum"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Kampong Baharu Balakong",
-                    "s_city_slug": "kampong-baharu-balakong"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Kampung Baru Subang",
-                    "s_city_slug": "kampung-baru-subang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Kampung Tanjung Karang",
-                    "s_city_slug": "kampung-tanjung-karang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Klang",
-                    "s_city_slug": "klang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Kuala Selangor",
-                    "s_city_slug": "kuala-selangor"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Kuang",
-                    "s_city_slug": "kuang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Ladang Seri Kundang",
-                    "s_city_slug": "ladang-seri-kundang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Pelabuhan Klang",
-                    "s_city_slug": "pelabuhan-klang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Petaling Jaya",
-                    "s_city_slug": "petaling-jaya"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Putra Heights",
-                    "s_city_slug": "putra-heights"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Rawang",
-                    "s_city_slug": "rawang"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Semenyih",
-                    "s_city_slug": "semenyih"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Serendah",
-                    "s_city_slug": "serendah"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Shah Alam",
-                    "s_city_slug": "shah-alam"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Subang Jaya",
-                    "s_city_slug": "subang-jaya"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Sungai Besar",
-                    "s_city_slug": "sungai-besar"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Sungai Pelek New Village",
-                    "s_city_slug": "sungai-pelek-new-village"
-                },
-                {
-                    "s_country_code": "my",
-                    "s_region_slug": "selangor",
-                    "s_city_name": "Tanjung Sepat",
-                    "s_city_slug": "tanjung-sepat"
-                }
-            ]
+            "s_region_slug": "selangor"
         },
         {
-            "s_country_code": "my",
-            "s_region_name": "Terengganu",
-            "s_region_slug": "terengganu",
             "cities": [
                 {
-                    "s_country_code": "my",
-                    "s_region_slug": "terengganu",
                     "s_city_name": "Cukai",
-                    "s_city_slug": "cukai"
+                    "s_city_slug": "cukai",
+                    "s_country_code": "my",
+                    "s_region_slug": "terengganu"
                 },
                 {
-                    "s_country_code": "my",
-                    "s_region_slug": "terengganu",
                     "s_city_name": "Jertih",
-                    "s_city_slug": "jertih"
+                    "s_city_slug": "jertih",
+                    "s_country_code": "my",
+                    "s_region_slug": "terengganu"
                 },
                 {
-                    "s_country_code": "my",
-                    "s_region_slug": "terengganu",
                     "s_city_name": "Kampung Kuala Besut",
-                    "s_city_slug": "kampung-kuala-besut"
+                    "s_city_slug": "kampung-kuala-besut",
+                    "s_country_code": "my",
+                    "s_region_slug": "terengganu"
                 },
                 {
-                    "s_country_code": "my",
-                    "s_region_slug": "terengganu",
                     "s_city_name": "Kertih",
-                    "s_city_slug": "kertih"
+                    "s_city_slug": "kertih",
+                    "s_country_code": "my",
+                    "s_region_slug": "terengganu"
                 },
                 {
-                    "s_country_code": "my",
-                    "s_region_slug": "terengganu",
                     "s_city_name": "Kuala Besut",
-                    "s_city_slug": "kuala-besut"
+                    "s_city_slug": "kuala-besut",
+                    "s_country_code": "my",
+                    "s_region_slug": "terengganu"
                 },
                 {
-                    "s_country_code": "my",
-                    "s_region_slug": "terengganu",
                     "s_city_name": "Kuala Terengganu",
-                    "s_city_slug": "kuala-terengganu"
+                    "s_city_slug": "kuala-terengganu",
+                    "s_country_code": "my",
+                    "s_region_slug": "terengganu"
                 },
                 {
-                    "s_country_code": "my",
-                    "s_region_slug": "terengganu",
                     "s_city_name": "Marang",
-                    "s_city_slug": "marang"
+                    "s_city_slug": "marang",
+                    "s_country_code": "my",
+                    "s_region_slug": "terengganu"
                 },
                 {
-                    "s_country_code": "my",
-                    "s_region_slug": "terengganu",
                     "s_city_name": "Paka",
-                    "s_city_slug": "paka"
+                    "s_city_slug": "paka",
+                    "s_country_code": "my",
+                    "s_region_slug": "terengganu"
                 }
-            ]
+            ],
+            "s_country_code": "my",
+            "s_region_name": "Terengganu",
+            "s_region_slug": "terengganu"
         }
-    ]
+    ],
+    "s_country_code": "MY",
+    "s_country_name": "Malaysia",
+    "s_country_slug": "malaysia"
 }

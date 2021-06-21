@@ -1,1438 +1,1438 @@
 {
-    "s_country_code": "BO",
-    "s_country_name": "Bolivia",
-    "s_country_slug": "bolivia",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Guayaramerin",
+                    "s_city_slug": "guayaramerin",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Provincia Cercado",
+                    "s_city_slug": "provincia-cercado",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Provincia General Jose Ballivian",
+                    "s_city_slug": "provincia-general-jose-ballivian",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Provincia Itenez",
+                    "s_city_slug": "provincia-itenez",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Provincia Mamore",
+                    "s_city_slug": "provincia-mamore",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Provincia Marban",
+                    "s_city_slug": "provincia-marban",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Provincia Moxos",
+                    "s_city_slug": "provincia-moxos",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Provincia Vaca Diez",
+                    "s_city_slug": "provincia-vaca-diez",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Provincia Yacuma",
+                    "s_city_slug": "provincia-yacuma",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Reyes",
+                    "s_city_slug": "reyes",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Riberalta",
+                    "s_city_slug": "riberalta",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Rurrenabaque",
+                    "s_city_slug": "rurrenabaque",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "San Borja",
+                    "s_city_slug": "san-borja",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "San Ramon",
+                    "s_city_slug": "san-ramon",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Santa Ana de Yacuma",
+                    "s_city_slug": "santa-ana-de-yacuma",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Santa Rosa",
+                    "s_city_slug": "santa-rosa",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                },
+                {
+                    "s_city_name": "Trinidad",
+                    "s_city_slug": "trinidad",
+                    "s_country_code": "bo",
+                    "s_region_slug": "beni-department"
+                }
+            ],
             "s_country_code": "bo",
             "s_region_name": "Beni Department",
-            "s_region_slug": "beni-department",
-            "cities": [
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Guayaramerin",
-                    "s_city_slug": "guayaramerin"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Provincia Cercado",
-                    "s_city_slug": "provincia-cercado"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Provincia General Jose Ballivian",
-                    "s_city_slug": "provincia-general-jose-ballivian"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Provincia Itenez",
-                    "s_city_slug": "provincia-itenez"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Provincia Mamore",
-                    "s_city_slug": "provincia-mamore"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Provincia Marban",
-                    "s_city_slug": "provincia-marban"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Provincia Moxos",
-                    "s_city_slug": "provincia-moxos"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Provincia Vaca Diez",
-                    "s_city_slug": "provincia-vaca-diez"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Provincia Yacuma",
-                    "s_city_slug": "provincia-yacuma"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Reyes",
-                    "s_city_slug": "reyes"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Riberalta",
-                    "s_city_slug": "riberalta"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Rurrenabaque",
-                    "s_city_slug": "rurrenabaque"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "San Borja",
-                    "s_city_slug": "san-borja"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "San Ramon",
-                    "s_city_slug": "san-ramon"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Santa Ana de Yacuma",
-                    "s_city_slug": "santa-ana-de-yacuma"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Santa Rosa",
-                    "s_city_slug": "santa-rosa"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "beni-department",
-                    "s_city_name": "Trinidad",
-                    "s_city_slug": "trinidad"
-                }
-            ]
+            "s_region_slug": "beni-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Camargo",
+                    "s_city_slug": "camargo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Monteagudo",
+                    "s_city_slug": "monteagudo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Padilla",
+                    "s_city_slug": "padilla",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Provincia Azurduy",
+                    "s_city_slug": "provincia-azurduy",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Provincia Belisario Boeto",
+                    "s_city_slug": "provincia-belisario-boeto",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Provincia Hernando Siles",
+                    "s_city_slug": "provincia-hernando-siles",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Provincia Luis Calvo",
+                    "s_city_slug": "provincia-luis-calvo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Provincia Nor Cinti",
+                    "s_city_slug": "provincia-nor-cinti",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Provincia Oropeza",
+                    "s_city_slug": "provincia-oropeza",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Provincia Sud Cinti",
+                    "s_city_slug": "provincia-sud-cinti",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Provincia Tomina",
+                    "s_city_slug": "provincia-tomina",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Provincia Yamparaez",
+                    "s_city_slug": "provincia-yamparaez",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Provincia Zudanez",
+                    "s_city_slug": "provincia-zudanez",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Sucre",
+                    "s_city_slug": "sucre",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                },
+                {
+                    "s_city_name": "Tarabuco",
+                    "s_city_slug": "tarabuco",
+                    "s_country_code": "bo",
+                    "s_region_slug": "chuquisaca-department"
+                }
+            ],
             "s_country_code": "bo",
             "s_region_name": "Chuquisaca Department",
-            "s_region_slug": "chuquisaca-department",
-            "cities": [
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Camargo",
-                    "s_city_slug": "camargo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Monteagudo",
-                    "s_city_slug": "monteagudo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Padilla",
-                    "s_city_slug": "padilla"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Provincia Azurduy",
-                    "s_city_slug": "provincia-azurduy"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Provincia Belisario Boeto",
-                    "s_city_slug": "provincia-belisario-boeto"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Provincia Hernando Siles",
-                    "s_city_slug": "provincia-hernando-siles"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Provincia Luis Calvo",
-                    "s_city_slug": "provincia-luis-calvo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Provincia Nor Cinti",
-                    "s_city_slug": "provincia-nor-cinti"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Provincia Oropeza",
-                    "s_city_slug": "provincia-oropeza"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Provincia Sud Cinti",
-                    "s_city_slug": "provincia-sud-cinti"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Provincia Tomina",
-                    "s_city_slug": "provincia-tomina"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Provincia Yamparaez",
-                    "s_city_slug": "provincia-yamparaez"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Provincia Zudanez",
-                    "s_city_slug": "provincia-zudanez"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Sucre",
-                    "s_city_slug": "sucre"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "chuquisaca-department",
-                    "s_city_name": "Tarabuco",
-                    "s_city_slug": "tarabuco"
-                }
-            ]
+            "s_region_slug": "chuquisaca-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Aiquile",
+                    "s_city_slug": "aiquile",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Arani",
+                    "s_city_slug": "arani",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Bolivar",
+                    "s_city_slug": "bolivar",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Capinota",
+                    "s_city_slug": "capinota",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Chimore",
+                    "s_city_slug": "chimore",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Cliza",
+                    "s_city_slug": "cliza",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Cochabamba",
+                    "s_city_slug": "cochabamba",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Colchani",
+                    "s_city_slug": "colchani",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Colomi",
+                    "s_city_slug": "colomi",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Independencia",
+                    "s_city_slug": "independencia",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Irpa Irpa",
+                    "s_city_slug": "irpa-irpa",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Mizque",
+                    "s_city_slug": "mizque",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Arani",
+                    "s_city_slug": "provincia-arani",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Arque",
+                    "s_city_slug": "provincia-arque",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Ayopaya",
+                    "s_city_slug": "provincia-ayopaya",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Campero",
+                    "s_city_slug": "provincia-campero",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Capinota",
+                    "s_city_slug": "provincia-capinota",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Carrasco",
+                    "s_city_slug": "provincia-carrasco",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Cercado",
+                    "s_city_slug": "provincia-cercado",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Chapare",
+                    "s_city_slug": "provincia-chapare",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Esteban Arce",
+                    "s_city_slug": "provincia-esteban-arce",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia German Jordan",
+                    "s_city_slug": "provincia-german-jordan",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Mizque",
+                    "s_city_slug": "provincia-mizque",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Punata",
+                    "s_city_slug": "provincia-punata",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Quillacollo",
+                    "s_city_slug": "provincia-quillacollo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Provincia Tapacari",
+                    "s_city_slug": "provincia-tapacari",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Punata",
+                    "s_city_slug": "punata",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Quillacollo",
+                    "s_city_slug": "quillacollo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Sacaba",
+                    "s_city_slug": "sacaba",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Sipe Sipe",
+                    "s_city_slug": "sipe-sipe",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Tarata",
+                    "s_city_slug": "tarata",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Tiquipaya",
+                    "s_city_slug": "tiquipaya",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Tiraque Province",
+                    "s_city_slug": "tiraque-province",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                },
+                {
+                    "s_city_name": "Totora",
+                    "s_city_slug": "totora",
+                    "s_country_code": "bo",
+                    "s_region_slug": "cochabamba-department"
+                }
+            ],
             "s_country_code": "bo",
             "s_region_name": "Cochabamba Department",
-            "s_region_slug": "cochabamba-department",
-            "cities": [
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Aiquile",
-                    "s_city_slug": "aiquile"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Arani",
-                    "s_city_slug": "arani"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Bolivar",
-                    "s_city_slug": "bolivar"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Capinota",
-                    "s_city_slug": "capinota"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Chimore",
-                    "s_city_slug": "chimore"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Cliza",
-                    "s_city_slug": "cliza"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Cochabamba",
-                    "s_city_slug": "cochabamba"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Colchani",
-                    "s_city_slug": "colchani"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Colomi",
-                    "s_city_slug": "colomi"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Independencia",
-                    "s_city_slug": "independencia"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Irpa Irpa",
-                    "s_city_slug": "irpa-irpa"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Mizque",
-                    "s_city_slug": "mizque"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Arani",
-                    "s_city_slug": "provincia-arani"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Arque",
-                    "s_city_slug": "provincia-arque"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Ayopaya",
-                    "s_city_slug": "provincia-ayopaya"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Campero",
-                    "s_city_slug": "provincia-campero"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Capinota",
-                    "s_city_slug": "provincia-capinota"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Carrasco",
-                    "s_city_slug": "provincia-carrasco"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Cercado",
-                    "s_city_slug": "provincia-cercado"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Chapare",
-                    "s_city_slug": "provincia-chapare"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Esteban Arce",
-                    "s_city_slug": "provincia-esteban-arce"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia German Jordan",
-                    "s_city_slug": "provincia-german-jordan"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Mizque",
-                    "s_city_slug": "provincia-mizque"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Punata",
-                    "s_city_slug": "provincia-punata"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Quillacollo",
-                    "s_city_slug": "provincia-quillacollo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Provincia Tapacari",
-                    "s_city_slug": "provincia-tapacari"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Punata",
-                    "s_city_slug": "punata"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Quillacollo",
-                    "s_city_slug": "quillacollo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Sacaba",
-                    "s_city_slug": "sacaba"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Sipe Sipe",
-                    "s_city_slug": "sipe-sipe"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Tarata",
-                    "s_city_slug": "tarata"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Tiquipaya",
-                    "s_city_slug": "tiquipaya"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Tiraque Province",
-                    "s_city_slug": "tiraque-province"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "cochabamba-department",
-                    "s_city_name": "Totora",
-                    "s_city_slug": "totora"
-                }
-            ]
+            "s_region_slug": "cochabamba-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Achacachi",
+                    "s_city_slug": "achacachi",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Amarete",
+                    "s_city_slug": "amarete",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Batallas",
+                    "s_city_slug": "batallas",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Caranavi",
+                    "s_city_slug": "caranavi",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Chulumani",
+                    "s_city_slug": "chulumani",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Colquiri",
+                    "s_city_slug": "colquiri",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Coripata",
+                    "s_city_slug": "coripata",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Coroico",
+                    "s_city_slug": "coroico",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Curahuara de Carangas",
+                    "s_city_slug": "curahuara-de-carangas",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Eucaliptus",
+                    "s_city_slug": "eucaliptus",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Guanay",
+                    "s_city_slug": "guanay",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Huarina",
+                    "s_city_slug": "huarina",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Huatajata",
+                    "s_city_slug": "huatajata",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Jose Manuel Pando",
+                    "s_city_slug": "jose-manuel-pando",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "La Paz",
+                    "s_city_slug": "la-paz",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Lahuachaca",
+                    "s_city_slug": "lahuachaca",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Mapiri",
+                    "s_city_slug": "mapiri",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Patacamaya",
+                    "s_city_slug": "patacamaya",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Aroma",
+                    "s_city_slug": "provincia-aroma",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Bautista Saavedra",
+                    "s_city_slug": "provincia-bautista-saavedra",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Camacho",
+                    "s_city_slug": "provincia-camacho",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Franz Tamayo",
+                    "s_city_slug": "provincia-franz-tamayo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Gualberto Villarroel",
+                    "s_city_slug": "provincia-gualberto-villarroel",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Ingavi",
+                    "s_city_slug": "provincia-ingavi",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Inquisivi",
+                    "s_city_slug": "provincia-inquisivi",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Iturralde",
+                    "s_city_slug": "provincia-iturralde",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Larecaja",
+                    "s_city_slug": "provincia-larecaja",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Loayza",
+                    "s_city_slug": "provincia-loayza",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Los Andes",
+                    "s_city_slug": "provincia-los-andes",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Manco Kapac",
+                    "s_city_slug": "provincia-manco-kapac",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Munecas",
+                    "s_city_slug": "provincia-munecas",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Murillo",
+                    "s_city_slug": "provincia-murillo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Nor Yungas",
+                    "s_city_slug": "provincia-nor-yungas",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Omasuyos",
+                    "s_city_slug": "provincia-omasuyos",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Pacajes",
+                    "s_city_slug": "provincia-pacajes",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Provincia Sud Yungas",
+                    "s_city_slug": "provincia-sud-yungas",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Quime",
+                    "s_city_slug": "quime",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "San Pablo",
+                    "s_city_slug": "san-pablo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "San Pedro",
+                    "s_city_slug": "san-pedro",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Sorata",
+                    "s_city_slug": "sorata",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Tiahuanaco",
+                    "s_city_slug": "tiahuanaco",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Viloco",
+                    "s_city_slug": "viloco",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                },
+                {
+                    "s_city_name": "Yumani",
+                    "s_city_slug": "yumani",
+                    "s_country_code": "bo",
+                    "s_region_slug": "la-paz-department"
+                }
+            ],
             "s_country_code": "bo",
             "s_region_name": "La Paz Department",
-            "s_region_slug": "la-paz-department",
-            "cities": [
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Achacachi",
-                    "s_city_slug": "achacachi"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Amarete",
-                    "s_city_slug": "amarete"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Batallas",
-                    "s_city_slug": "batallas"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Caranavi",
-                    "s_city_slug": "caranavi"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Chulumani",
-                    "s_city_slug": "chulumani"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Colquiri",
-                    "s_city_slug": "colquiri"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Coripata",
-                    "s_city_slug": "coripata"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Coroico",
-                    "s_city_slug": "coroico"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Curahuara de Carangas",
-                    "s_city_slug": "curahuara-de-carangas"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Eucaliptus",
-                    "s_city_slug": "eucaliptus"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Guanay",
-                    "s_city_slug": "guanay"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Huarina",
-                    "s_city_slug": "huarina"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Huatajata",
-                    "s_city_slug": "huatajata"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Jose Manuel Pando",
-                    "s_city_slug": "jose-manuel-pando"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "La Paz",
-                    "s_city_slug": "la-paz"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Lahuachaca",
-                    "s_city_slug": "lahuachaca"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Mapiri",
-                    "s_city_slug": "mapiri"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Patacamaya",
-                    "s_city_slug": "patacamaya"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Aroma",
-                    "s_city_slug": "provincia-aroma"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Bautista Saavedra",
-                    "s_city_slug": "provincia-bautista-saavedra"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Camacho",
-                    "s_city_slug": "provincia-camacho"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Franz Tamayo",
-                    "s_city_slug": "provincia-franz-tamayo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Gualberto Villarroel",
-                    "s_city_slug": "provincia-gualberto-villarroel"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Ingavi",
-                    "s_city_slug": "provincia-ingavi"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Inquisivi",
-                    "s_city_slug": "provincia-inquisivi"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Iturralde",
-                    "s_city_slug": "provincia-iturralde"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Larecaja",
-                    "s_city_slug": "provincia-larecaja"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Loayza",
-                    "s_city_slug": "provincia-loayza"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Los Andes",
-                    "s_city_slug": "provincia-los-andes"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Manco Kapac",
-                    "s_city_slug": "provincia-manco-kapac"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Munecas",
-                    "s_city_slug": "provincia-munecas"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Murillo",
-                    "s_city_slug": "provincia-murillo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Nor Yungas",
-                    "s_city_slug": "provincia-nor-yungas"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Omasuyos",
-                    "s_city_slug": "provincia-omasuyos"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Pacajes",
-                    "s_city_slug": "provincia-pacajes"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Provincia Sud Yungas",
-                    "s_city_slug": "provincia-sud-yungas"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Quime",
-                    "s_city_slug": "quime"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "San Pablo",
-                    "s_city_slug": "san-pablo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "San Pedro",
-                    "s_city_slug": "san-pedro"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Sorata",
-                    "s_city_slug": "sorata"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Tiahuanaco",
-                    "s_city_slug": "tiahuanaco"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Viloco",
-                    "s_city_slug": "viloco"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "la-paz-department",
-                    "s_city_name": "Yumani",
-                    "s_city_slug": "yumani"
-                }
-            ]
+            "s_region_slug": "la-paz-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Challapata",
+                    "s_city_slug": "challapata",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Huanuni",
+                    "s_city_slug": "huanuni",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Litoral de Atacama",
+                    "s_city_slug": "litoral-de-atacama",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Machacamarca",
+                    "s_city_slug": "machacamarca",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Nor Carangas Province",
+                    "s_city_slug": "nor-carangas-province",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Oruro",
+                    "s_city_slug": "oruro",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Poopo",
+                    "s_city_slug": "poopo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Provincia Avaroa",
+                    "s_city_slug": "provincia-avaroa",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Provincia Carangas",
+                    "s_city_slug": "provincia-carangas",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Provincia Cercado",
+                    "s_city_slug": "provincia-cercado",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Provincia Ladislao Cabrera",
+                    "s_city_slug": "provincia-ladislao-cabrera",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Provincia Pantaleon Dalence",
+                    "s_city_slug": "provincia-pantaleon-dalence",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Provincia Poopo",
+                    "s_city_slug": "provincia-poopo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Provincia Sabaya",
+                    "s_city_slug": "provincia-sabaya",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Provincia Sajama",
+                    "s_city_slug": "provincia-sajama",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Provincia San Pedro de Totora",
+                    "s_city_slug": "provincia-san-pedro-de-totora",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Provincia Saucari",
+                    "s_city_slug": "provincia-saucari",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Provincia Tomas Barron",
+                    "s_city_slug": "provincia-tomas-barron",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Puerto de Mejillones",
+                    "s_city_slug": "puerto-de-mejillones",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Sebastian Pagador Province",
+                    "s_city_slug": "sebastian-pagador-province",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Sud Carangas Province",
+                    "s_city_slug": "sud-carangas-province",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                },
+                {
+                    "s_city_name": "Totoral",
+                    "s_city_slug": "totoral",
+                    "s_country_code": "bo",
+                    "s_region_slug": "oruro-department"
+                }
+            ],
             "s_country_code": "bo",
             "s_region_name": "Oruro Department",
-            "s_region_slug": "oruro-department",
-            "cities": [
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Challapata",
-                    "s_city_slug": "challapata"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Huanuni",
-                    "s_city_slug": "huanuni"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Litoral de Atacama",
-                    "s_city_slug": "litoral-de-atacama"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Machacamarca",
-                    "s_city_slug": "machacamarca"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Nor Carangas Province",
-                    "s_city_slug": "nor-carangas-province"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Oruro",
-                    "s_city_slug": "oruro"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Poopo",
-                    "s_city_slug": "poopo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Provincia Avaroa",
-                    "s_city_slug": "provincia-avaroa"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Provincia Carangas",
-                    "s_city_slug": "provincia-carangas"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Provincia Cercado",
-                    "s_city_slug": "provincia-cercado"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Provincia Ladislao Cabrera",
-                    "s_city_slug": "provincia-ladislao-cabrera"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Provincia Pantaleon Dalence",
-                    "s_city_slug": "provincia-pantaleon-dalence"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Provincia Poopo",
-                    "s_city_slug": "provincia-poopo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Provincia Sabaya",
-                    "s_city_slug": "provincia-sabaya"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Provincia Sajama",
-                    "s_city_slug": "provincia-sajama"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Provincia San Pedro de Totora",
-                    "s_city_slug": "provincia-san-pedro-de-totora"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Provincia Saucari",
-                    "s_city_slug": "provincia-saucari"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Provincia Tomas Barron",
-                    "s_city_slug": "provincia-tomas-barron"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Puerto de Mejillones",
-                    "s_city_slug": "puerto-de-mejillones"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Sebastian Pagador Province",
-                    "s_city_slug": "sebastian-pagador-province"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Sud Carangas Province",
-                    "s_city_slug": "sud-carangas-province"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "oruro-department",
-                    "s_city_name": "Totoral",
-                    "s_city_slug": "totoral"
-                }
-            ]
+            "s_region_slug": "oruro-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Cobija",
+                    "s_city_slug": "cobija",
+                    "s_country_code": "bo",
+                    "s_region_slug": "pando-department"
+                },
+                {
+                    "s_city_name": "Provincia Abuna",
+                    "s_city_slug": "provincia-abuna",
+                    "s_country_code": "bo",
+                    "s_region_slug": "pando-department"
+                },
+                {
+                    "s_city_name": "Provincia General Federico Roman",
+                    "s_city_slug": "provincia-general-federico-roman",
+                    "s_country_code": "bo",
+                    "s_region_slug": "pando-department"
+                },
+                {
+                    "s_city_name": "Provincia Madre de Dios",
+                    "s_city_slug": "provincia-madre-de-dios",
+                    "s_country_code": "bo",
+                    "s_region_slug": "pando-department"
+                },
+                {
+                    "s_city_name": "Provincia Manuripi",
+                    "s_city_slug": "provincia-manuripi",
+                    "s_country_code": "bo",
+                    "s_region_slug": "pando-department"
+                },
+                {
+                    "s_city_name": "Provincia Nicolas Suarez",
+                    "s_city_slug": "provincia-nicolas-suarez",
+                    "s_country_code": "bo",
+                    "s_region_slug": "pando-department"
+                }
+            ],
             "s_country_code": "bo",
             "s_region_name": "Pando Department",
-            "s_region_slug": "pando-department",
-            "cities": [
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "pando-department",
-                    "s_city_name": "Cobija",
-                    "s_city_slug": "cobija"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "pando-department",
-                    "s_city_name": "Provincia Abuna",
-                    "s_city_slug": "provincia-abuna"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "pando-department",
-                    "s_city_name": "Provincia General Federico Roman",
-                    "s_city_slug": "provincia-general-federico-roman"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "pando-department",
-                    "s_city_name": "Provincia Madre de Dios",
-                    "s_city_slug": "provincia-madre-de-dios"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "pando-department",
-                    "s_city_name": "Provincia Manuripi",
-                    "s_city_slug": "provincia-manuripi"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "pando-department",
-                    "s_city_name": "Provincia Nicolas Suarez",
-                    "s_city_slug": "provincia-nicolas-suarez"
-                }
-            ]
+            "s_region_slug": "pando-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Atocha",
+                    "s_city_slug": "atocha",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Betanzos",
+                    "s_city_slug": "betanzos",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Colchani",
+                    "s_city_slug": "colchani",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Colquechaca",
+                    "s_city_slug": "colquechaca",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Enrique Baldivieso",
+                    "s_city_slug": "enrique-baldivieso",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Llallagua",
+                    "s_city_slug": "llallagua",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Potosi",
+                    "s_city_slug": "potosi",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Alonzo de Ibanez",
+                    "s_city_slug": "provincia-alonzo-de-ibanez",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Charcas",
+                    "s_city_slug": "provincia-charcas",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Chayanta",
+                    "s_city_slug": "provincia-chayanta",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Daniel Campos",
+                    "s_city_slug": "provincia-daniel-campos",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia General Bilbao",
+                    "s_city_slug": "provincia-general-bilbao",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Linares",
+                    "s_city_slug": "provincia-linares",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Modesto Omiste",
+                    "s_city_slug": "provincia-modesto-omiste",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Nor Chichas",
+                    "s_city_slug": "provincia-nor-chichas",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Nor Lipez",
+                    "s_city_slug": "provincia-nor-lipez",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Quijarro",
+                    "s_city_slug": "provincia-quijarro",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Rafael Bustillo",
+                    "s_city_slug": "provincia-rafael-bustillo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Saavedra",
+                    "s_city_slug": "provincia-saavedra",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Sud Chichas",
+                    "s_city_slug": "provincia-sud-chichas",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Sud Lipez",
+                    "s_city_slug": "provincia-sud-lipez",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Provincia Tomas Frias",
+                    "s_city_slug": "provincia-tomas-frias",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Santa Barbara",
+                    "s_city_slug": "santa-barbara",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Tupiza",
+                    "s_city_slug": "tupiza",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Uyuni",
+                    "s_city_slug": "uyuni",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                },
+                {
+                    "s_city_name": "Villazon",
+                    "s_city_slug": "villazon",
+                    "s_country_code": "bo",
+                    "s_region_slug": "potosi-department"
+                }
+            ],
             "s_country_code": "bo",
             "s_region_name": "Potosi Department",
-            "s_region_slug": "potosi-department",
-            "cities": [
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Atocha",
-                    "s_city_slug": "atocha"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Betanzos",
-                    "s_city_slug": "betanzos"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Colchani",
-                    "s_city_slug": "colchani"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Colquechaca",
-                    "s_city_slug": "colquechaca"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Enrique Baldivieso",
-                    "s_city_slug": "enrique-baldivieso"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Llallagua",
-                    "s_city_slug": "llallagua"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Potosi",
-                    "s_city_slug": "potosi"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Alonzo de Ibanez",
-                    "s_city_slug": "provincia-alonzo-de-ibanez"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Charcas",
-                    "s_city_slug": "provincia-charcas"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Chayanta",
-                    "s_city_slug": "provincia-chayanta"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Daniel Campos",
-                    "s_city_slug": "provincia-daniel-campos"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia General Bilbao",
-                    "s_city_slug": "provincia-general-bilbao"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Linares",
-                    "s_city_slug": "provincia-linares"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Modesto Omiste",
-                    "s_city_slug": "provincia-modesto-omiste"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Nor Chichas",
-                    "s_city_slug": "provincia-nor-chichas"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Nor Lipez",
-                    "s_city_slug": "provincia-nor-lipez"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Quijarro",
-                    "s_city_slug": "provincia-quijarro"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Rafael Bustillo",
-                    "s_city_slug": "provincia-rafael-bustillo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Saavedra",
-                    "s_city_slug": "provincia-saavedra"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Sud Chichas",
-                    "s_city_slug": "provincia-sud-chichas"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Sud Lipez",
-                    "s_city_slug": "provincia-sud-lipez"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Provincia Tomas Frias",
-                    "s_city_slug": "provincia-tomas-frias"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Santa Barbara",
-                    "s_city_slug": "santa-barbara"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Tupiza",
-                    "s_city_slug": "tupiza"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Uyuni",
-                    "s_city_slug": "uyuni"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "potosi-department",
-                    "s_city_name": "Villazon",
-                    "s_city_slug": "villazon"
-                }
-            ]
+            "s_region_slug": "potosi-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Abapo",
+                    "s_city_slug": "abapo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Ascencion de Guarayos",
+                    "s_city_slug": "ascencion-de-guarayos",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Ascension",
+                    "s_city_slug": "ascension",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Boyuibe",
+                    "s_city_slug": "boyuibe",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Buena Vista",
+                    "s_city_slug": "buena-vista",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Camiri",
+                    "s_city_slug": "camiri",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Charagua",
+                    "s_city_slug": "charagua",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Comarapa",
+                    "s_city_slug": "comarapa",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Concepcion",
+                    "s_city_slug": "concepcion",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Cotoca",
+                    "s_city_slug": "cotoca",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "German Busch",
+                    "s_city_slug": "german-busch",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Guarayos",
+                    "s_city_slug": "guarayos",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Jorochito",
+                    "s_city_slug": "jorochito",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "La Belgica",
+                    "s_city_slug": "la-belgica",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Limoncito",
+                    "s_city_slug": "limoncito",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Los Negros",
+                    "s_city_slug": "los-negros",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Mairana",
+                    "s_city_slug": "mairana",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Mineros",
+                    "s_city_slug": "mineros",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Montero",
+                    "s_city_slug": "montero",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Okinawa Numero Uno",
+                    "s_city_slug": "okinawa-numero-uno",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Pailon",
+                    "s_city_slug": "pailon",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Paurito",
+                    "s_city_slug": "paurito",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Portachuelo",
+                    "s_city_slug": "portachuelo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Andres Ibanez",
+                    "s_city_slug": "provincia-andres-ibanez",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Angel Sandoval",
+                    "s_city_slug": "provincia-angel-sandoval",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Chiquitos",
+                    "s_city_slug": "provincia-chiquitos",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Cordillera",
+                    "s_city_slug": "provincia-cordillera",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Florida",
+                    "s_city_slug": "provincia-florida",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Ichilo",
+                    "s_city_slug": "provincia-ichilo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Manuel Maria Caballero",
+                    "s_city_slug": "provincia-manuel-maria-caballero",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Nuflo de Chavez",
+                    "s_city_slug": "provincia-nuflo-de-chavez",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Santiesteban",
+                    "s_city_slug": "provincia-santiesteban",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Sara",
+                    "s_city_slug": "provincia-sara",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Vallegrande",
+                    "s_city_slug": "provincia-vallegrande",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Velasco",
+                    "s_city_slug": "provincia-velasco",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Provincia Warnes",
+                    "s_city_slug": "provincia-warnes",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Puerto Quijarro",
+                    "s_city_slug": "puerto-quijarro",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Puesto de Pailas",
+                    "s_city_slug": "puesto-de-pailas",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Robore",
+                    "s_city_slug": "robore",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Samaipata",
+                    "s_city_slug": "samaipata",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "San Carlos",
+                    "s_city_slug": "san-carlos",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "San Ignacio de Velasco",
+                    "s_city_slug": "san-ignacio-de-velasco",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "San Juan del Surutu",
+                    "s_city_slug": "san-juan-del-surutu",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "San Julian",
+                    "s_city_slug": "san-julian",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "San Matias",
+                    "s_city_slug": "san-matias",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "San Pedro",
+                    "s_city_slug": "san-pedro",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Santa Cruz de la Sierra",
+                    "s_city_slug": "santa-cruz-de-la-sierra",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Santa Rita",
+                    "s_city_slug": "santa-rita",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Santa Rosa del Sara",
+                    "s_city_slug": "santa-rosa-del-sara",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Santiago del Torno",
+                    "s_city_slug": "santiago-del-torno",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Urubicha",
+                    "s_city_slug": "urubicha",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Vallegrande",
+                    "s_city_slug": "vallegrande",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Villa Yapacani",
+                    "s_city_slug": "villa-yapacani",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                },
+                {
+                    "s_city_name": "Warnes",
+                    "s_city_slug": "warnes",
+                    "s_country_code": "bo",
+                    "s_region_slug": "santa-cruz-department"
+                }
+            ],
             "s_country_code": "bo",
             "s_region_name": "Santa Cruz Department",
-            "s_region_slug": "santa-cruz-department",
-            "cities": [
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Abapo",
-                    "s_city_slug": "abapo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Ascencion de Guarayos",
-                    "s_city_slug": "ascencion-de-guarayos"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Ascension",
-                    "s_city_slug": "ascension"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Boyuibe",
-                    "s_city_slug": "boyuibe"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Buena Vista",
-                    "s_city_slug": "buena-vista"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Camiri",
-                    "s_city_slug": "camiri"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Charagua",
-                    "s_city_slug": "charagua"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Comarapa",
-                    "s_city_slug": "comarapa"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Concepcion",
-                    "s_city_slug": "concepcion"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Cotoca",
-                    "s_city_slug": "cotoca"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "German Busch",
-                    "s_city_slug": "german-busch"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Guarayos",
-                    "s_city_slug": "guarayos"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Jorochito",
-                    "s_city_slug": "jorochito"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "La Belgica",
-                    "s_city_slug": "la-belgica"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Limoncito",
-                    "s_city_slug": "limoncito"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Los Negros",
-                    "s_city_slug": "los-negros"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Mairana",
-                    "s_city_slug": "mairana"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Mineros",
-                    "s_city_slug": "mineros"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Montero",
-                    "s_city_slug": "montero"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Okinawa Numero Uno",
-                    "s_city_slug": "okinawa-numero-uno"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Pailon",
-                    "s_city_slug": "pailon"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Paurito",
-                    "s_city_slug": "paurito"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Portachuelo",
-                    "s_city_slug": "portachuelo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Andres Ibanez",
-                    "s_city_slug": "provincia-andres-ibanez"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Angel Sandoval",
-                    "s_city_slug": "provincia-angel-sandoval"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Chiquitos",
-                    "s_city_slug": "provincia-chiquitos"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Cordillera",
-                    "s_city_slug": "provincia-cordillera"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Florida",
-                    "s_city_slug": "provincia-florida"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Ichilo",
-                    "s_city_slug": "provincia-ichilo"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Manuel Maria Caballero",
-                    "s_city_slug": "provincia-manuel-maria-caballero"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Nuflo de Chavez",
-                    "s_city_slug": "provincia-nuflo-de-chavez"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Santiesteban",
-                    "s_city_slug": "provincia-santiesteban"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Sara",
-                    "s_city_slug": "provincia-sara"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Vallegrande",
-                    "s_city_slug": "provincia-vallegrande"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Velasco",
-                    "s_city_slug": "provincia-velasco"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Provincia Warnes",
-                    "s_city_slug": "provincia-warnes"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Puerto Quijarro",
-                    "s_city_slug": "puerto-quijarro"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Puesto de Pailas",
-                    "s_city_slug": "puesto-de-pailas"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Robore",
-                    "s_city_slug": "robore"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Samaipata",
-                    "s_city_slug": "samaipata"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "San Carlos",
-                    "s_city_slug": "san-carlos"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "San Ignacio de Velasco",
-                    "s_city_slug": "san-ignacio-de-velasco"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "San Juan del Surutu",
-                    "s_city_slug": "san-juan-del-surutu"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "San Julian",
-                    "s_city_slug": "san-julian"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "San Matias",
-                    "s_city_slug": "san-matias"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "San Pedro",
-                    "s_city_slug": "san-pedro"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Santa Cruz de la Sierra",
-                    "s_city_slug": "santa-cruz-de-la-sierra"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Santa Rita",
-                    "s_city_slug": "santa-rita"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Santa Rosa del Sara",
-                    "s_city_slug": "santa-rosa-del-sara"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Santiago del Torno",
-                    "s_city_slug": "santiago-del-torno"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Urubicha",
-                    "s_city_slug": "urubicha"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Vallegrande",
-                    "s_city_slug": "vallegrande"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Villa Yapacani",
-                    "s_city_slug": "villa-yapacani"
-                },
-                {
-                    "s_country_code": "bo",
-                    "s_region_slug": "santa-cruz-department",
-                    "s_city_name": "Warnes",
-                    "s_city_slug": "warnes"
-                }
-            ]
+            "s_region_slug": "santa-cruz-department"
         },
         {
-            "s_country_code": "bo",
-            "s_region_name": "Tarija Department",
-            "s_region_slug": "tarija-department",
             "cities": [
                 {
-                    "s_country_code": "bo",
-                    "s_region_slug": "tarija-department",
                     "s_city_name": "Bermejo",
-                    "s_city_slug": "bermejo"
+                    "s_city_slug": "bermejo",
+                    "s_country_code": "bo",
+                    "s_region_slug": "tarija-department"
                 },
                 {
-                    "s_country_code": "bo",
-                    "s_region_slug": "tarija-department",
                     "s_city_name": "Entre Rios",
-                    "s_city_slug": "entre-rios"
+                    "s_city_slug": "entre-rios",
+                    "s_country_code": "bo",
+                    "s_region_slug": "tarija-department"
                 },
                 {
-                    "s_country_code": "bo",
-                    "s_region_slug": "tarija-department",
                     "s_city_name": "Provincia Arce",
-                    "s_city_slug": "provincia-arce"
+                    "s_city_slug": "provincia-arce",
+                    "s_country_code": "bo",
+                    "s_region_slug": "tarija-department"
                 },
                 {
-                    "s_country_code": "bo",
-                    "s_region_slug": "tarija-department",
                     "s_city_name": "Provincia Avilez",
-                    "s_city_slug": "provincia-avilez"
+                    "s_city_slug": "provincia-avilez",
+                    "s_country_code": "bo",
+                    "s_region_slug": "tarija-department"
                 },
                 {
-                    "s_country_code": "bo",
-                    "s_region_slug": "tarija-department",
                     "s_city_name": "Provincia Cercado",
-                    "s_city_slug": "provincia-cercado"
+                    "s_city_slug": "provincia-cercado",
+                    "s_country_code": "bo",
+                    "s_region_slug": "tarija-department"
                 },
                 {
-                    "s_country_code": "bo",
-                    "s_region_slug": "tarija-department",
                     "s_city_name": "Provincia Gran Chaco",
-                    "s_city_slug": "provincia-gran-chaco"
+                    "s_city_slug": "provincia-gran-chaco",
+                    "s_country_code": "bo",
+                    "s_region_slug": "tarija-department"
                 },
                 {
-                    "s_country_code": "bo",
-                    "s_region_slug": "tarija-department",
                     "s_city_name": "Provincia Mendez",
-                    "s_city_slug": "provincia-mendez"
+                    "s_city_slug": "provincia-mendez",
+                    "s_country_code": "bo",
+                    "s_region_slug": "tarija-department"
                 },
                 {
-                    "s_country_code": "bo",
-                    "s_region_slug": "tarija-department",
                     "s_city_name": "Provincia OConnor",
-                    "s_city_slug": "provincia-oconnor"
+                    "s_city_slug": "provincia-oconnor",
+                    "s_country_code": "bo",
+                    "s_region_slug": "tarija-department"
                 },
                 {
-                    "s_country_code": "bo",
-                    "s_region_slug": "tarija-department",
                     "s_city_name": "Tarija",
-                    "s_city_slug": "tarija"
+                    "s_city_slug": "tarija",
+                    "s_country_code": "bo",
+                    "s_region_slug": "tarija-department"
                 },
                 {
-                    "s_country_code": "bo",
-                    "s_region_slug": "tarija-department",
                     "s_city_name": "Villamontes",
-                    "s_city_slug": "villamontes"
+                    "s_city_slug": "villamontes",
+                    "s_country_code": "bo",
+                    "s_region_slug": "tarija-department"
                 },
                 {
-                    "s_country_code": "bo",
-                    "s_region_slug": "tarija-department",
                     "s_city_name": "Yacuiba",
-                    "s_city_slug": "yacuiba"
+                    "s_city_slug": "yacuiba",
+                    "s_country_code": "bo",
+                    "s_region_slug": "tarija-department"
                 }
-            ]
+            ],
+            "s_country_code": "bo",
+            "s_region_name": "Tarija Department",
+            "s_region_slug": "tarija-department"
         }
-    ]
+    ],
+    "s_country_code": "BO",
+    "s_country_name": "Bolivia",
+    "s_country_slug": "bolivia"
 }

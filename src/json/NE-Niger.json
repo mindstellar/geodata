@@ -1,476 +1,476 @@
 {
-    "s_country_code": "NE",
-    "s_country_name": "Niger",
-    "s_country_slug": "niger",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Agadez",
+                    "s_city_slug": "agadez",
+                    "s_country_code": "ne",
+                    "s_region_slug": "agadez-region"
+                },
+                {
+                    "s_city_name": "Alaghsas",
+                    "s_city_slug": "alaghsas",
+                    "s_country_code": "ne",
+                    "s_region_slug": "agadez-region"
+                },
+                {
+                    "s_city_name": "Arlit",
+                    "s_city_slug": "arlit",
+                    "s_country_code": "ne",
+                    "s_region_slug": "agadez-region"
+                },
+                {
+                    "s_city_name": "Bilma",
+                    "s_city_slug": "bilma",
+                    "s_country_code": "ne",
+                    "s_region_slug": "agadez-region"
+                },
+                {
+                    "s_city_name": "Departement de Bilma",
+                    "s_city_slug": "departement-de-bilma",
+                    "s_country_code": "ne",
+                    "s_region_slug": "agadez-region"
+                },
+                {
+                    "s_city_name": "Departement de Tchirozerine",
+                    "s_city_slug": "departement-de-tchirozerine",
+                    "s_country_code": "ne",
+                    "s_region_slug": "agadez-region"
+                }
+            ],
             "s_country_code": "ne",
             "s_region_name": "Agadez Region",
-            "s_region_slug": "agadez-region",
-            "cities": [
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "agadez-region",
-                    "s_city_name": "Agadez",
-                    "s_city_slug": "agadez"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "agadez-region",
-                    "s_city_name": "Alaghsas",
-                    "s_city_slug": "alaghsas"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "agadez-region",
-                    "s_city_name": "Arlit",
-                    "s_city_slug": "arlit"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "agadez-region",
-                    "s_city_name": "Bilma",
-                    "s_city_slug": "bilma"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "agadez-region",
-                    "s_city_name": "Departement de Bilma",
-                    "s_city_slug": "departement-de-bilma"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "agadez-region",
-                    "s_city_name": "Departement de Tchirozerine",
-                    "s_city_slug": "departement-de-tchirozerine"
-                }
-            ]
+            "s_region_slug": "agadez-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Departement de Diffa",
+                    "s_city_slug": "departement-de-diffa",
+                    "s_country_code": "ne",
+                    "s_region_slug": "diffa-region"
+                },
+                {
+                    "s_city_name": "Departement de Maine-Soroa",
+                    "s_city_slug": "departement-de-maine-soroa",
+                    "s_country_code": "ne",
+                    "s_region_slug": "diffa-region"
+                },
+                {
+                    "s_city_name": "Departement de Nguigmi",
+                    "s_city_slug": "departement-de-nguigmi",
+                    "s_country_code": "ne",
+                    "s_region_slug": "diffa-region"
+                },
+                {
+                    "s_city_name": "Diffa",
+                    "s_city_slug": "diffa",
+                    "s_country_code": "ne",
+                    "s_region_slug": "diffa-region"
+                },
+                {
+                    "s_city_name": "Maine Soroa",
+                    "s_city_slug": "maine-soroa",
+                    "s_country_code": "ne",
+                    "s_region_slug": "diffa-region"
+                },
+                {
+                    "s_city_name": "Nguigmi",
+                    "s_city_slug": "nguigmi",
+                    "s_country_code": "ne",
+                    "s_region_slug": "diffa-region"
+                }
+            ],
             "s_country_code": "ne",
             "s_region_name": "Diffa Region",
-            "s_region_slug": "diffa-region",
-            "cities": [
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "diffa-region",
-                    "s_city_name": "Departement de Diffa",
-                    "s_city_slug": "departement-de-diffa"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "diffa-region",
-                    "s_city_name": "Departement de Maine-Soroa",
-                    "s_city_slug": "departement-de-maine-soroa"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "diffa-region",
-                    "s_city_name": "Departement de Nguigmi",
-                    "s_city_slug": "departement-de-nguigmi"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "diffa-region",
-                    "s_city_name": "Diffa",
-                    "s_city_slug": "diffa"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "diffa-region",
-                    "s_city_name": "Maine Soroa",
-                    "s_city_slug": "maine-soroa"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "diffa-region",
-                    "s_city_name": "Nguigmi",
-                    "s_city_slug": "nguigmi"
-                }
-            ]
+            "s_region_slug": "diffa-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Boboye Department",
+                    "s_city_slug": "boboye-department",
+                    "s_country_code": "ne",
+                    "s_region_slug": "dosso-region"
+                },
+                {
+                    "s_city_name": "Departement de Dogondoutchi",
+                    "s_city_slug": "departement-de-dogondoutchi",
+                    "s_country_code": "ne",
+                    "s_region_slug": "dosso-region"
+                },
+                {
+                    "s_city_name": "Departement de Dosso",
+                    "s_city_slug": "departement-de-dosso",
+                    "s_country_code": "ne",
+                    "s_region_slug": "dosso-region"
+                },
+                {
+                    "s_city_name": "Departement de Gaya",
+                    "s_city_slug": "departement-de-gaya",
+                    "s_country_code": "ne",
+                    "s_region_slug": "dosso-region"
+                },
+                {
+                    "s_city_name": "Departement de Loga",
+                    "s_city_slug": "departement-de-loga",
+                    "s_country_code": "ne",
+                    "s_region_slug": "dosso-region"
+                },
+                {
+                    "s_city_name": "Dogondoutchi",
+                    "s_city_slug": "dogondoutchi",
+                    "s_country_code": "ne",
+                    "s_region_slug": "dosso-region"
+                },
+                {
+                    "s_city_name": "Dosso",
+                    "s_city_slug": "dosso",
+                    "s_country_code": "ne",
+                    "s_region_slug": "dosso-region"
+                },
+                {
+                    "s_city_name": "Gaya",
+                    "s_city_slug": "gaya",
+                    "s_country_code": "ne",
+                    "s_region_slug": "dosso-region"
+                }
+            ],
             "s_country_code": "ne",
             "s_region_name": "Dosso Region",
-            "s_region_slug": "dosso-region",
-            "cities": [
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "dosso-region",
-                    "s_city_name": "Boboye Department",
-                    "s_city_slug": "boboye-department"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "dosso-region",
-                    "s_city_name": "Departement de Dogondoutchi",
-                    "s_city_slug": "departement-de-dogondoutchi"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "dosso-region",
-                    "s_city_name": "Departement de Dosso",
-                    "s_city_slug": "departement-de-dosso"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "dosso-region",
-                    "s_city_name": "Departement de Gaya",
-                    "s_city_slug": "departement-de-gaya"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "dosso-region",
-                    "s_city_name": "Departement de Loga",
-                    "s_city_slug": "departement-de-loga"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "dosso-region",
-                    "s_city_name": "Dogondoutchi",
-                    "s_city_slug": "dogondoutchi"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "dosso-region",
-                    "s_city_name": "Dosso",
-                    "s_city_slug": "dosso"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "dosso-region",
-                    "s_city_name": "Gaya",
-                    "s_city_slug": "gaya"
-                }
-            ]
+            "s_region_slug": "dosso-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Aguie",
+                    "s_city_slug": "aguie",
+                    "s_country_code": "ne",
+                    "s_region_slug": "maradi-region"
+                },
+                {
+                    "s_city_name": "Dakoro",
+                    "s_city_slug": "dakoro",
+                    "s_country_code": "ne",
+                    "s_region_slug": "maradi-region"
+                },
+                {
+                    "s_city_name": "Departement dAguie",
+                    "s_city_slug": "departement-daguie",
+                    "s_country_code": "ne",
+                    "s_region_slug": "maradi-region"
+                },
+                {
+                    "s_city_name": "Departement de Dakoro",
+                    "s_city_slug": "departement-de-dakoro",
+                    "s_country_code": "ne",
+                    "s_region_slug": "maradi-region"
+                },
+                {
+                    "s_city_name": "Departement de Mayahi",
+                    "s_city_slug": "departement-de-mayahi",
+                    "s_country_code": "ne",
+                    "s_region_slug": "maradi-region"
+                },
+                {
+                    "s_city_name": "Departement de Tessaoua",
+                    "s_city_slug": "departement-de-tessaoua",
+                    "s_country_code": "ne",
+                    "s_region_slug": "maradi-region"
+                },
+                {
+                    "s_city_name": "Guidan Roumdji Department",
+                    "s_city_slug": "guidan-roumdji-department",
+                    "s_country_code": "ne",
+                    "s_region_slug": "maradi-region"
+                },
+                {
+                    "s_city_name": "Madarounfa",
+                    "s_city_slug": "madarounfa",
+                    "s_country_code": "ne",
+                    "s_region_slug": "maradi-region"
+                },
+                {
+                    "s_city_name": "Maradi",
+                    "s_city_slug": "maradi",
+                    "s_country_code": "ne",
+                    "s_region_slug": "maradi-region"
+                },
+                {
+                    "s_city_name": "Mayahi",
+                    "s_city_slug": "mayahi",
+                    "s_country_code": "ne",
+                    "s_region_slug": "maradi-region"
+                },
+                {
+                    "s_city_name": "Tessaoua",
+                    "s_city_slug": "tessaoua",
+                    "s_country_code": "ne",
+                    "s_region_slug": "maradi-region"
+                },
+                {
+                    "s_city_name": "Tibiri",
+                    "s_city_slug": "tibiri",
+                    "s_country_code": "ne",
+                    "s_region_slug": "maradi-region"
+                }
+            ],
             "s_country_code": "ne",
             "s_region_name": "Maradi Region",
-            "s_region_slug": "maradi-region",
-            "cities": [
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "maradi-region",
-                    "s_city_name": "Aguie",
-                    "s_city_slug": "aguie"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "maradi-region",
-                    "s_city_name": "Dakoro",
-                    "s_city_slug": "dakoro"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "maradi-region",
-                    "s_city_name": "Departement dAguie",
-                    "s_city_slug": "departement-daguie"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "maradi-region",
-                    "s_city_name": "Departement de Dakoro",
-                    "s_city_slug": "departement-de-dakoro"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "maradi-region",
-                    "s_city_name": "Departement de Mayahi",
-                    "s_city_slug": "departement-de-mayahi"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "maradi-region",
-                    "s_city_name": "Departement de Tessaoua",
-                    "s_city_slug": "departement-de-tessaoua"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "maradi-region",
-                    "s_city_name": "Guidan Roumdji Department",
-                    "s_city_slug": "guidan-roumdji-department"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "maradi-region",
-                    "s_city_name": "Madarounfa",
-                    "s_city_slug": "madarounfa"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "maradi-region",
-                    "s_city_name": "Maradi",
-                    "s_city_slug": "maradi"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "maradi-region",
-                    "s_city_name": "Mayahi",
-                    "s_city_slug": "mayahi"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "maradi-region",
-                    "s_city_name": "Tessaoua",
-                    "s_city_slug": "tessaoua"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "maradi-region",
-                    "s_city_name": "Tibiri",
-                    "s_city_slug": "tibiri"
-                }
-            ]
+            "s_region_slug": "maradi-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Abalak",
+                    "s_city_slug": "abalak",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Birni N Konni",
+                    "s_city_slug": "birni-n-konni",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Bouza",
+                    "s_city_slug": "bouza",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Departement d' Illela",
+                    "s_city_slug": "departement-d-illela",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Departement de Birni Nkonni",
+                    "s_city_slug": "departement-de-birni-nkonni",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Departement de Bouza",
+                    "s_city_slug": "departement-de-bouza",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Departement de Keita",
+                    "s_city_slug": "departement-de-keita",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Departement de Madaoua",
+                    "s_city_slug": "departement-de-madaoua",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Departement de Tahoua",
+                    "s_city_slug": "departement-de-tahoua",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Departement de Tchin-Tabaraden",
+                    "s_city_slug": "departement-de-tchin-tabaraden",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Illela",
+                    "s_city_slug": "illela",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Keita",
+                    "s_city_slug": "keita",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Madaoua",
+                    "s_city_slug": "madaoua",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Tahoua",
+                    "s_city_slug": "tahoua",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                },
+                {
+                    "s_city_name": "Tchintabaraden",
+                    "s_city_slug": "tchintabaraden",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tahoua-region"
+                }
+            ],
             "s_country_code": "ne",
             "s_region_name": "Tahoua Region",
-            "s_region_slug": "tahoua-region",
-            "cities": [
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Abalak",
-                    "s_city_slug": "abalak"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Birni N Konni",
-                    "s_city_slug": "birni-n-konni"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Bouza",
-                    "s_city_slug": "bouza"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Departement d' Illela",
-                    "s_city_slug": "departement-d-illela"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Departement de Birni Nkonni",
-                    "s_city_slug": "departement-de-birni-nkonni"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Departement de Bouza",
-                    "s_city_slug": "departement-de-bouza"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Departement de Keita",
-                    "s_city_slug": "departement-de-keita"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Departement de Madaoua",
-                    "s_city_slug": "departement-de-madaoua"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Departement de Tahoua",
-                    "s_city_slug": "departement-de-tahoua"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Departement de Tchin-Tabaraden",
-                    "s_city_slug": "departement-de-tchin-tabaraden"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Illela",
-                    "s_city_slug": "illela"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Keita",
-                    "s_city_slug": "keita"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Madaoua",
-                    "s_city_slug": "madaoua"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Tahoua",
-                    "s_city_slug": "tahoua"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tahoua-region",
-                    "s_city_name": "Tchintabaraden",
-                    "s_city_slug": "tchintabaraden"
-                }
-            ]
+            "s_region_slug": "tahoua-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ayorou",
+                    "s_city_slug": "ayorou",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Balleyara",
+                    "s_city_slug": "balleyara",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Departement de Filingue",
+                    "s_city_slug": "departement-de-filingue",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Departement de Ouallam",
+                    "s_city_slug": "departement-de-ouallam",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Departement de Say",
+                    "s_city_slug": "departement-de-say",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Filingue",
+                    "s_city_slug": "filingue",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Kollo",
+                    "s_city_slug": "kollo",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Kollo Department",
+                    "s_city_slug": "kollo-department",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Ouallam",
+                    "s_city_slug": "ouallam",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Say",
+                    "s_city_slug": "say",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Tera",
+                    "s_city_slug": "tera",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Tera Department",
+                    "s_city_slug": "tera-department",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Tillaberi",
+                    "s_city_slug": "tillaberi",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                },
+                {
+                    "s_city_name": "Tillaberi Department",
+                    "s_city_slug": "tillaberi-department",
+                    "s_country_code": "ne",
+                    "s_region_slug": "tillaberi-region"
+                }
+            ],
             "s_country_code": "ne",
             "s_region_name": "Tillaberi Region",
-            "s_region_slug": "tillaberi-region",
-            "cities": [
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Ayorou",
-                    "s_city_slug": "ayorou"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Balleyara",
-                    "s_city_slug": "balleyara"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Departement de Filingue",
-                    "s_city_slug": "departement-de-filingue"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Departement de Ouallam",
-                    "s_city_slug": "departement-de-ouallam"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Departement de Say",
-                    "s_city_slug": "departement-de-say"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Filingue",
-                    "s_city_slug": "filingue"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Kollo",
-                    "s_city_slug": "kollo"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Kollo Department",
-                    "s_city_slug": "kollo-department"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Ouallam",
-                    "s_city_slug": "ouallam"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Say",
-                    "s_city_slug": "say"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Tera",
-                    "s_city_slug": "tera"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Tera Department",
-                    "s_city_slug": "tera-department"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Tillaberi",
-                    "s_city_slug": "tillaberi"
-                },
-                {
-                    "s_country_code": "ne",
-                    "s_region_slug": "tillaberi-region",
-                    "s_city_name": "Tillaberi Department",
-                    "s_city_slug": "tillaberi-department"
-                }
-            ]
+            "s_region_slug": "tillaberi-region"
         },
         {
-            "s_country_code": "ne",
-            "s_region_name": "Zinder Region",
-            "s_region_slug": "zinder-region",
             "cities": [
                 {
-                    "s_country_code": "ne",
-                    "s_region_slug": "zinder-region",
                     "s_city_name": "Departement de Goure",
-                    "s_city_slug": "departement-de-goure"
+                    "s_city_slug": "departement-de-goure",
+                    "s_country_code": "ne",
+                    "s_region_slug": "zinder-region"
                 },
                 {
-                    "s_country_code": "ne",
-                    "s_region_slug": "zinder-region",
                     "s_city_name": "Departement de Kantche",
-                    "s_city_slug": "departement-de-kantche"
+                    "s_city_slug": "departement-de-kantche",
+                    "s_country_code": "ne",
+                    "s_region_slug": "zinder-region"
                 },
                 {
-                    "s_country_code": "ne",
-                    "s_region_slug": "zinder-region",
                     "s_city_name": "Departement de Tanout",
-                    "s_city_slug": "departement-de-tanout"
+                    "s_city_slug": "departement-de-tanout",
+                    "s_country_code": "ne",
+                    "s_region_slug": "zinder-region"
                 },
                 {
-                    "s_country_code": "ne",
-                    "s_region_slug": "zinder-region",
                     "s_city_name": "Goure",
-                    "s_city_slug": "goure"
+                    "s_city_slug": "goure",
+                    "s_country_code": "ne",
+                    "s_region_slug": "zinder-region"
                 },
                 {
-                    "s_country_code": "ne",
-                    "s_region_slug": "zinder-region",
                     "s_city_name": "Magaria",
-                    "s_city_slug": "magaria"
+                    "s_city_slug": "magaria",
+                    "s_country_code": "ne",
+                    "s_region_slug": "zinder-region"
                 },
                 {
-                    "s_country_code": "ne",
-                    "s_region_slug": "zinder-region",
                     "s_city_name": "Matamey",
-                    "s_city_slug": "matamey"
+                    "s_city_slug": "matamey",
+                    "s_country_code": "ne",
+                    "s_region_slug": "zinder-region"
                 },
                 {
-                    "s_country_code": "ne",
-                    "s_region_slug": "zinder-region",
                     "s_city_name": "Mirriah",
-                    "s_city_slug": "mirriah"
+                    "s_city_slug": "mirriah",
+                    "s_country_code": "ne",
+                    "s_region_slug": "zinder-region"
                 },
                 {
-                    "s_country_code": "ne",
-                    "s_region_slug": "zinder-region",
                     "s_city_name": "Tanout",
-                    "s_city_slug": "tanout"
+                    "s_city_slug": "tanout",
+                    "s_country_code": "ne",
+                    "s_region_slug": "zinder-region"
                 },
                 {
-                    "s_country_code": "ne",
-                    "s_region_slug": "zinder-region",
                     "s_city_name": "Zinder",
-                    "s_city_slug": "zinder"
+                    "s_city_slug": "zinder",
+                    "s_country_code": "ne",
+                    "s_region_slug": "zinder-region"
                 }
-            ]
+            ],
+            "s_country_code": "ne",
+            "s_region_name": "Zinder Region",
+            "s_region_slug": "zinder-region"
         }
-    ]
+    ],
+    "s_country_code": "NE",
+    "s_country_name": "Niger",
+    "s_country_slug": "niger"
 }

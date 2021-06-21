@@ -1,172 +1,10 @@
 {
     "locations": [
         {
-            "s_country_code": "UA",
-            "s_country_name": "Ukraine",
-            "s_country_slug": "ukraine",
-            "s_file_name": "UA-Ukraine.json"
-        },
-        {
-            "s_country_code": "NO",
-            "s_country_name": "Norway",
-            "s_country_slug": "norway",
-            "s_file_name": "NO-Norway.json"
-        },
-        {
-            "s_country_code": "CH",
-            "s_country_name": "Switzerland",
-            "s_country_slug": "switzerland",
-            "s_file_name": "CH-Switzerland.json"
-        },
-        {
-            "s_country_code": "TT",
-            "s_country_name": "Trinidad And Tobago",
-            "s_country_slug": "trinidad-and-tobago",
-            "s_file_name": "TT-Trinidad And Tobago.json"
-        },
-        {
-            "s_country_code": "BO",
-            "s_country_name": "Bolivia",
-            "s_country_slug": "bolivia",
-            "s_file_name": "BO-Bolivia.json"
-        },
-        {
-            "s_country_code": "FR",
-            "s_country_name": "France",
-            "s_country_slug": "france",
-            "s_file_name": "FR-France.json"
-        },
-        {
-            "s_country_code": "LC",
-            "s_country_name": "Saint Lucia",
-            "s_country_slug": "saint-lucia",
-            "s_file_name": "LC-Saint Lucia.json"
-        },
-        {
-            "s_country_code": "RO",
-            "s_country_name": "Romania",
-            "s_country_slug": "romania",
-            "s_file_name": "RO-Romania.json"
-        },
-        {
-            "s_country_code": "SK",
-            "s_country_name": "Slovakia",
-            "s_country_slug": "slovakia",
-            "s_file_name": "SK-Slovakia.json"
-        },
-        {
-            "s_country_code": "FM",
-            "s_country_name": "Micronesia",
-            "s_country_slug": "micronesia",
-            "s_file_name": "FM-Micronesia.json"
-        },
-        {
-            "s_country_code": "CY",
-            "s_country_name": "Cyprus",
-            "s_country_slug": "cyprus",
-            "s_file_name": "CY-Cyprus.json"
-        },
-        {
-            "s_country_code": "HU",
-            "s_country_name": "Hungary",
-            "s_country_slug": "hungary",
-            "s_file_name": "HU-Hungary.json"
-        },
-        {
-            "s_country_code": "AE",
-            "s_country_name": "United Arab Emirates",
-            "s_country_slug": "united-arab-emirates",
-            "s_file_name": "AE-United Arab Emirates.json"
-        },
-        {
-            "s_country_code": "SY",
-            "s_country_name": "Syria",
-            "s_country_slug": "syria",
-            "s_file_name": "SY-Syria.json"
-        },
-        {
-            "s_country_code": "CD",
-            "s_country_name": "Congo Republic",
-            "s_country_slug": "congo-republic",
-            "s_file_name": "CD-Congo Republic.json"
-        },
-        {
-            "s_country_code": "LT",
-            "s_country_name": "Lithuania",
-            "s_country_slug": "lithuania",
-            "s_file_name": "LT-Lithuania.json"
-        },
-        {
-            "s_country_code": "GN",
-            "s_country_name": "Guinea",
-            "s_country_slug": "guinea",
-            "s_file_name": "GN-Guinea.json"
-        },
-        {
-            "s_country_code": "UZ",
-            "s_country_name": "Uzbekistan",
-            "s_country_slug": "uzbekistan",
-            "s_file_name": "UZ-Uzbekistan.json"
-        },
-        {
-            "s_country_code": "TO",
-            "s_country_name": "Tonga",
-            "s_country_slug": "tonga",
-            "s_file_name": "TO-Tonga.json"
-        },
-        {
-            "s_country_code": "CR",
-            "s_country_name": "Costa Rica",
-            "s_country_slug": "costa-rica",
-            "s_file_name": "CR-Costa Rica.json"
-        },
-        {
-            "s_country_code": "BZ",
-            "s_country_name": "Belize",
-            "s_country_slug": "belize",
-            "s_file_name": "BZ-Belize.json"
-        },
-        {
-            "s_country_code": "GE",
-            "s_country_name": "Georgia",
-            "s_country_slug": "georgia",
-            "s_file_name": "GE-Georgia.json"
-        },
-        {
-            "s_country_code": "BT",
-            "s_country_name": "Bhutan",
-            "s_country_slug": "bhutan",
-            "s_file_name": "BT-Bhutan.json"
-        },
-        {
-            "s_country_code": "HT",
-            "s_country_name": "Haiti",
-            "s_country_slug": "haiti",
-            "s_file_name": "HT-Haiti.json"
-        },
-        {
-            "s_country_code": "BB",
-            "s_country_name": "Barbados",
-            "s_country_slug": "barbados",
-            "s_file_name": "BB-Barbados.json"
-        },
-        {
-            "s_country_code": "PH",
-            "s_country_name": "Philippines",
-            "s_country_slug": "philippines",
-            "s_file_name": "PH-Philippines.json"
-        },
-        {
-            "s_country_code": "MG",
-            "s_country_name": "Madagascar",
-            "s_country_slug": "madagascar",
-            "s_file_name": "MG-Madagascar.json"
-        },
-        {
-            "s_country_code": "BJ",
-            "s_country_name": "Benin",
-            "s_country_slug": "benin",
-            "s_file_name": "BJ-Benin.json"
+            "s_country_code": "AF",
+            "s_country_name": "Afghanistan",
+            "s_country_slug": "afghanistan",
+            "s_file_name": "AF-Afghanistan.json"
         },
         {
             "s_country_code": "AL",
@@ -175,88 +13,10 @@
             "s_file_name": "AL-Albania.json"
         },
         {
-            "s_country_code": "MY",
-            "s_country_name": "Malaysia",
-            "s_country_slug": "malaysia",
-            "s_file_name": "MY-Malaysia.json"
-        },
-        {
-            "s_country_code": "MN",
-            "s_country_name": "Mongolia",
-            "s_country_slug": "mongolia",
-            "s_file_name": "MN-Mongolia.json"
-        },
-        {
-            "s_country_code": "RS",
-            "s_country_name": "Serbia",
-            "s_country_slug": "serbia",
-            "s_file_name": "RS-Serbia.json"
-        },
-        {
-            "s_country_code": "LI",
-            "s_country_name": "Liechtenstein",
-            "s_country_slug": "liechtenstein",
-            "s_file_name": "LI-Liechtenstein.json"
-        },
-        {
-            "s_country_code": "PL",
-            "s_country_name": "Poland",
-            "s_country_slug": "poland",
-            "s_file_name": "PL-Poland.json"
-        },
-        {
-            "s_country_code": "AF",
-            "s_country_name": "Afghanistan",
-            "s_country_slug": "afghanistan",
-            "s_file_name": "AF-Afghanistan.json"
-        },
-        {
-            "s_country_code": "PW",
-            "s_country_name": "Palau",
-            "s_country_slug": "palau",
-            "s_file_name": "PW-Palau.json"
-        },
-        {
-            "s_country_code": "BY",
-            "s_country_name": "Belarus",
-            "s_country_slug": "belarus",
-            "s_file_name": "BY-Belarus.json"
-        },
-        {
-            "s_country_code": "CN",
-            "s_country_name": "China",
-            "s_country_slug": "china",
-            "s_file_name": "CN-China.json"
-        },
-        {
-            "s_country_code": "EC",
-            "s_country_name": "Ecuador",
-            "s_country_slug": "ecuador",
-            "s_file_name": "EC-Ecuador.json"
-        },
-        {
-            "s_country_code": "MV",
-            "s_country_name": "Maldives",
-            "s_country_slug": "maldives",
-            "s_file_name": "MV-Maldives.json"
-        },
-        {
-            "s_country_code": "ER",
-            "s_country_name": "Eritrea",
-            "s_country_slug": "eritrea",
-            "s_file_name": "ER-Eritrea.json"
-        },
-        {
-            "s_country_code": "ZW",
-            "s_country_name": "Zimbabwe",
-            "s_country_slug": "zimbabwe",
-            "s_file_name": "ZW-Zimbabwe.json"
-        },
-        {
-            "s_country_code": "PT",
-            "s_country_name": "Portugal",
-            "s_country_slug": "portugal",
-            "s_file_name": "PT-Portugal.json"
+            "s_country_code": "DZ",
+            "s_country_name": "Algeria",
+            "s_country_slug": "algeria",
+            "s_file_name": "DZ-Algeria.json"
         },
         {
             "s_country_code": "AD",
@@ -265,226 +25,10 @@
             "s_file_name": "AD-Andorra.json"
         },
         {
-            "s_country_code": "CL",
-            "s_country_name": "Chile",
-            "s_country_slug": "chile",
-            "s_file_name": "CL-Chile.json"
-        },
-        {
-            "s_country_code": "BD",
-            "s_country_name": "Bangladesh",
-            "s_country_slug": "bangladesh",
-            "s_file_name": "BD-Bangladesh.json"
-        },
-        {
-            "s_country_code": "LB",
-            "s_country_name": "Lebanon",
-            "s_country_slug": "lebanon",
-            "s_file_name": "LB-Lebanon.json"
-        },
-        {
-            "s_country_code": "KP",
-            "s_country_name": "Korea North",
-            "s_country_slug": "korea-north",
-            "s_file_name": "KP-Korea North.json"
-        },
-        {
-            "s_country_code": "SM",
-            "s_country_name": "San Marino",
-            "s_country_slug": "san-marino",
-            "s_file_name": "SM-San Marino.json"
-        },
-        {
-            "s_country_code": "UY",
-            "s_country_name": "Uruguay",
-            "s_country_slug": "uruguay",
-            "s_file_name": "UY-Uruguay.json"
-        },
-        {
-            "s_country_code": "ML",
-            "s_country_name": "Mali",
-            "s_country_slug": "mali",
-            "s_file_name": "ML-Mali.json"
-        },
-        {
-            "s_country_code": "PA",
-            "s_country_name": "Panama",
-            "s_country_slug": "panama",
-            "s_file_name": "PA-Panama.json"
-        },
-        {
-            "s_country_code": "DM",
-            "s_country_name": "Dominica",
-            "s_country_slug": "dominica",
-            "s_file_name": "DM-Dominica.json"
-        },
-        {
-            "s_country_code": "IQ",
-            "s_country_name": "Iraq",
-            "s_country_slug": "iraq",
-            "s_file_name": "IQ-Iraq.json"
-        },
-        {
-            "s_country_code": "NP",
-            "s_country_name": "Nepal",
-            "s_country_slug": "nepal",
-            "s_file_name": "NP-Nepal.json"
-        },
-        {
-            "s_country_code": "PK",
-            "s_country_name": "Pakistan",
-            "s_country_slug": "pakistan",
-            "s_file_name": "PK-Pakistan.json"
-        },
-        {
-            "s_country_code": "SL",
-            "s_country_name": "Sierra Leone",
-            "s_country_slug": "sierra-leone",
-            "s_file_name": "SL-Sierra Leone.json"
-        },
-        {
-            "s_country_code": "OM",
-            "s_country_name": "Oman",
-            "s_country_slug": "oman",
-            "s_file_name": "OM-Oman.json"
-        },
-        {
-            "s_country_code": "KG",
-            "s_country_name": "Kyrgyzstan",
-            "s_country_slug": "kyrgyzstan",
-            "s_file_name": "KG-Kyrgyzstan.json"
-        },
-        {
-            "s_country_code": "RW",
-            "s_country_name": "Rwanda",
-            "s_country_slug": "rwanda",
-            "s_file_name": "RW-Rwanda.json"
-        },
-        {
-            "s_country_code": "MX",
-            "s_country_name": "Mexico",
-            "s_country_slug": "mexico",
-            "s_file_name": "MX-Mexico.json"
-        },
-        {
-            "s_country_code": "LR",
-            "s_country_name": "Liberia",
-            "s_country_slug": "liberia",
-            "s_file_name": "LR-Liberia.json"
-        },
-        {
-            "s_country_code": "MT",
-            "s_country_name": "Malta",
-            "s_country_slug": "malta",
-            "s_file_name": "MT-Malta.json"
-        },
-        {
-            "s_country_code": "BS",
-            "s_country_name": "Bahamas",
-            "s_country_slug": "bahamas-the",
-            "s_file_name": "BS-Bahamas.json"
-        },
-        {
-            "s_country_code": "FI",
-            "s_country_name": "Finland",
-            "s_country_slug": "finland",
-            "s_file_name": "FI-Finland.json"
-        },
-        {
-            "s_country_code": "TN",
-            "s_country_name": "Tunisia",
-            "s_country_slug": "tunisia",
-            "s_file_name": "TN-Tunisia.json"
-        },
-        {
-            "s_country_code": "DJ",
-            "s_country_name": "Djibouti",
-            "s_country_slug": "djibouti",
-            "s_file_name": "DJ-Djibouti.json"
-        },
-        {
-            "s_country_code": "NI",
-            "s_country_name": "Nicaragua",
-            "s_country_slug": "nicaragua",
-            "s_file_name": "NI-Nicaragua.json"
-        },
-        {
-            "s_country_code": "TL",
-            "s_country_name": "East Timor",
-            "s_country_slug": "east-timor",
-            "s_file_name": "TL-East Timor.json"
-        },
-        {
-            "s_country_code": "KM",
-            "s_country_name": "Comoros",
-            "s_country_slug": "comoros",
-            "s_file_name": "KM-Comoros.json"
-        },
-        {
-            "s_country_code": "RU",
-            "s_country_name": "Russia",
-            "s_country_slug": "russia",
-            "s_file_name": "RU-Russia.json"
-        },
-        {
-            "s_country_code": "WS",
-            "s_country_name": "Samoa",
-            "s_country_slug": "samoa",
-            "s_file_name": "WS-Samoa.json"
-        },
-        {
-            "s_country_code": "SN",
-            "s_country_name": "Senegal",
-            "s_country_slug": "senegal",
-            "s_file_name": "SN-Senegal.json"
-        },
-        {
-            "s_country_code": "SS",
-            "s_country_name": "South Sudan",
-            "s_country_slug": "south-sudan",
-            "s_file_name": "SS-South Sudan.json"
-        },
-        {
-            "s_country_code": "CF",
-            "s_country_name": "Central African Republic",
-            "s_country_slug": "central-african-republic",
-            "s_file_name": "CF-Central African Republic.json"
-        },
-        {
-            "s_country_code": "BR",
-            "s_country_name": "Brazil",
-            "s_country_slug": "brazil",
-            "s_file_name": "BR-Brazil.json"
-        },
-        {
-            "s_country_code": "GM",
-            "s_country_name": "Gambia",
-            "s_country_slug": "gambia",
-            "s_file_name": "GM-Gambia.json"
-        },
-        {
-            "s_country_code": "DK",
-            "s_country_name": "Denmark",
-            "s_country_slug": "denmark",
-            "s_file_name": "DK-Denmark.json"
-        },
-        {
-            "s_country_code": "VE",
-            "s_country_name": "Venezuela",
-            "s_country_slug": "venezuela",
-            "s_file_name": "VE-Venezuela.json"
-        },
-        {
-            "s_country_code": "TD",
-            "s_country_name": "Chad",
-            "s_country_slug": "chad",
-            "s_file_name": "TD-Chad.json"
-        },
-        {
-            "s_country_code": "IT",
-            "s_country_name": "Italy",
-            "s_country_slug": "italy",
-            "s_file_name": "IT-Italy.json"
+            "s_country_code": "AO",
+            "s_country_name": "Angola",
+            "s_country_slug": "angola",
+            "s_file_name": "AO-Angola.json"
         },
         {
             "s_country_code": "AG",
@@ -493,616 +37,10 @@
             "s_file_name": "AG-Antigua And Barbuda.json"
         },
         {
-            "s_country_code": "BF",
-            "s_country_name": "Burkina Faso",
-            "s_country_slug": "burkina-faso",
-            "s_file_name": "BF-Burkina Faso.json"
-        },
-        {
-            "s_country_code": "SD",
-            "s_country_name": "Sudan",
-            "s_country_slug": "sudan",
-            "s_file_name": "SD-Sudan.json"
-        },
-        {
-            "s_country_code": "NZ",
-            "s_country_name": "New Zealand",
-            "s_country_slug": "new-zealand",
-            "s_file_name": "NZ-New Zealand.json"
-        },
-        {
-            "s_country_code": "CG",
-            "s_country_name": "Congo",
-            "s_country_slug": "congo",
-            "s_file_name": "CG-Congo.json"
-        },
-        {
-            "s_country_code": "NA",
-            "s_country_name": "Namibia",
-            "s_country_slug": "namibia",
-            "s_file_name": "NA-Namibia.json"
-        },
-        {
-            "s_country_code": "QA",
-            "s_country_name": "Qatar",
-            "s_country_slug": "qatar",
-            "s_file_name": "QA-Qatar.json"
-        },
-        {
-            "s_country_code": "MU",
-            "s_country_name": "Mauritius",
-            "s_country_slug": "mauritius",
-            "s_file_name": "MU-Mauritius.json"
-        },
-        {
-            "s_country_code": "IE",
-            "s_country_name": "Ireland",
-            "s_country_slug": "ireland",
-            "s_file_name": "IE-Ireland.json"
-        },
-        {
-            "s_country_code": "ET",
-            "s_country_name": "Ethiopia",
-            "s_country_slug": "ethiopia",
-            "s_file_name": "ET-Ethiopia.json"
-        },
-        {
-            "s_country_code": "HN",
-            "s_country_name": "Honduras",
-            "s_country_slug": "honduras",
-            "s_file_name": "HN-Honduras.json"
-        },
-        {
-            "s_country_code": "NL",
-            "s_country_name": "Netherlands",
-            "s_country_slug": "netherlands",
-            "s_file_name": "NL-Netherlands.json"
-        },
-        {
-            "s_country_code": "MW",
-            "s_country_name": "Malawi",
-            "s_country_slug": "malawi",
-            "s_file_name": "MW-Malawi.json"
-        },
-        {
-            "s_country_code": "US",
-            "s_country_name": "United States",
-            "s_country_slug": "united-states",
-            "s_file_name": "US-United States.json"
-        },
-        {
-            "s_country_code": "SI",
-            "s_country_name": "Slovenia",
-            "s_country_slug": "slovenia",
-            "s_file_name": "SI-Slovenia.json"
-        },
-        {
-            "s_country_code": "VN",
-            "s_country_name": "Vietnam",
-            "s_country_slug": "vietnam",
-            "s_file_name": "VN-Vietnam.json"
-        },
-        {
-            "s_country_code": "HR",
-            "s_country_name": "Croatia",
-            "s_country_slug": "croatia",
-            "s_file_name": "HR-Croatia.json"
-        },
-        {
-            "s_country_code": "SV",
-            "s_country_name": "El Salvador",
-            "s_country_slug": "el-salvador",
-            "s_file_name": "SV-El Salvador.json"
-        },
-        {
-            "s_country_code": "MD",
-            "s_country_name": "Moldova",
-            "s_country_slug": "moldova",
-            "s_file_name": "MD-Moldova.json"
-        },
-        {
-            "s_country_code": "YE",
-            "s_country_name": "Yemen",
-            "s_country_slug": "yemen",
-            "s_file_name": "YE-Yemen.json"
-        },
-        {
-            "s_country_code": "NR",
-            "s_country_name": "Nauru",
-            "s_country_slug": "nauru",
-            "s_file_name": "NR-Nauru.json"
-        },
-        {
-            "s_country_code": "ID",
-            "s_country_name": "Indonesia",
-            "s_country_slug": "indonesia",
-            "s_file_name": "ID-Indonesia.json"
-        },
-        {
-            "s_country_code": "FJ",
-            "s_country_name": "Fiji Islands",
-            "s_country_slug": "fiji-islands",
-            "s_file_name": "FJ-Fiji Islands.json"
-        },
-        {
-            "s_country_code": "SR",
-            "s_country_name": "Suriname",
-            "s_country_slug": "suriname",
-            "s_file_name": "SR-Suriname.json"
-        },
-        {
-            "s_country_code": "ME",
-            "s_country_name": "Montenegro",
-            "s_country_slug": "montenegro",
-            "s_file_name": "ME-Montenegro.json"
-        },
-        {
-            "s_country_code": "BA",
-            "s_country_name": "Bosnia and Herzegovina",
-            "s_country_slug": "bosnia-and-herzegovina",
-            "s_file_name": "BA-Bosnia and Herzegovina.json"
-        },
-        {
-            "s_country_code": "CZ",
-            "s_country_name": "Czech Republic",
-            "s_country_slug": "czech-republic",
-            "s_file_name": "CZ-Czech Republic.json"
-        },
-        {
-            "s_country_code": "LA",
-            "s_country_name": "Laos",
-            "s_country_slug": "laos",
-            "s_file_name": "LA-Laos.json"
-        },
-        {
-            "s_country_code": "TH",
-            "s_country_name": "Thailand",
-            "s_country_slug": "thailand",
-            "s_file_name": "TH-Thailand.json"
-        },
-        {
-            "s_country_code": "SZ",
-            "s_country_name": "Swaziland",
-            "s_country_slug": "swaziland",
-            "s_file_name": "SZ-Swaziland.json"
-        },
-        {
-            "s_country_code": "GD",
-            "s_country_name": "Grenada",
-            "s_country_slug": "grenada",
-            "s_file_name": "GD-Grenada.json"
-        },
-        {
-            "s_country_code": "KI",
-            "s_country_name": "Kiribati",
-            "s_country_slug": "kiribati",
-            "s_file_name": "KI-Kiribati.json"
-        },
-        {
-            "s_country_code": "KN",
-            "s_country_name": "Saint Kitts And Nevis",
-            "s_country_slug": "saint-kitts-and-nevis",
-            "s_file_name": "KN-Saint Kitts And Nevis.json"
-        },
-        {
-            "s_country_code": "TG",
-            "s_country_name": "Togo",
-            "s_country_slug": "togo",
-            "s_file_name": "TG-Togo.json"
-        },
-        {
-            "s_country_code": "GQ",
-            "s_country_name": "Equatorial Guinea",
-            "s_country_slug": "equatorial-guinea",
-            "s_file_name": "GQ-Equatorial Guinea.json"
-        },
-        {
-            "s_country_code": "AZ",
-            "s_country_name": "Azerbaijan",
-            "s_country_slug": "azerbaijan",
-            "s_file_name": "AZ-Azerbaijan.json"
-        },
-        {
-            "s_country_code": "BG",
-            "s_country_name": "Bulgaria",
-            "s_country_slug": "bulgaria",
-            "s_file_name": "BG-Bulgaria.json"
-        },
-        {
-            "s_country_code": "MK",
-            "s_country_name": "Macedonia",
-            "s_country_slug": "macedonia",
-            "s_file_name": "MK-Macedonia.json"
-        },
-        {
-            "s_country_code": "CU",
-            "s_country_name": "Cuba",
-            "s_country_slug": "cuba",
-            "s_file_name": "CU-Cuba.json"
-        },
-        {
-            "s_country_code": "NE",
-            "s_country_name": "Niger",
-            "s_country_slug": "niger",
-            "s_file_name": "NE-Niger.json"
-        },
-        {
-            "s_country_code": "BN",
-            "s_country_name": "Brunei",
-            "s_country_slug": "brunei",
-            "s_file_name": "BN-Brunei.json"
-        },
-        {
-            "s_country_code": "MA",
-            "s_country_name": "Morocco",
-            "s_country_slug": "morocco",
-            "s_file_name": "MA-Morocco.json"
-        },
-        {
-            "s_country_code": "AU",
-            "s_country_name": "Australia",
-            "s_country_slug": "australia",
-            "s_file_name": "AU-Australia.json"
-        },
-        {
-            "s_country_code": "IS",
-            "s_country_name": "Iceland",
-            "s_country_slug": "iceland",
-            "s_file_name": "IS-Iceland.json"
-        },
-        {
-            "s_country_code": "KE",
-            "s_country_name": "Kenya",
-            "s_country_slug": "kenya",
-            "s_file_name": "KE-Kenya.json"
-        },
-        {
-            "s_country_code": "CV",
-            "s_country_name": "Cape Verde",
-            "s_country_slug": "cape-verde",
-            "s_file_name": "CV-Cape Verde.json"
-        },
-        {
-            "s_country_code": "SO",
-            "s_country_name": "Somalia",
-            "s_country_slug": "somalia",
-            "s_file_name": "SO-Somalia.json"
-        },
-        {
-            "s_country_code": "GY",
-            "s_country_name": "Guyana",
-            "s_country_slug": "guyana",
-            "s_file_name": "GY-Guyana.json"
-        },
-        {
-            "s_country_code": "BH",
-            "s_country_name": "Bahrain",
-            "s_country_slug": "bahrain",
-            "s_file_name": "BH-Bahrain.json"
-        },
-        {
-            "s_country_code": "GA",
-            "s_country_name": "Gabon",
-            "s_country_slug": "gabon",
-            "s_file_name": "GA-Gabon.json"
-        },
-        {
-            "s_country_code": "IL",
-            "s_country_name": "Israel",
-            "s_country_slug": "israel",
-            "s_file_name": "IL-Israel.json"
-        },
-        {
-            "s_country_code": "GB",
-            "s_country_name": "United Kingdom",
-            "s_country_slug": "united-kingdom",
-            "s_file_name": "GB-United Kingdom.json"
-        },
-        {
-            "s_country_code": "JO",
-            "s_country_name": "Jordan",
-            "s_country_slug": "jordan",
-            "s_file_name": "JO-Jordan.json"
-        },
-        {
-            "s_country_code": "GT",
-            "s_country_name": "Guatemala",
-            "s_country_slug": "guatemala",
-            "s_file_name": "GT-Guatemala.json"
-        },
-        {
-            "s_country_code": "SE",
-            "s_country_name": "Sweden",
-            "s_country_slug": "sweden",
-            "s_file_name": "SE-Sweden.json"
-        },
-        {
-            "s_country_code": "VU",
-            "s_country_name": "Vanuatu",
-            "s_country_slug": "vanuatu",
-            "s_file_name": "VU-Vanuatu.json"
-        },
-        {
-            "s_country_code": "DE",
-            "s_country_name": "Germany",
-            "s_country_slug": "germany",
-            "s_file_name": "DE-Germany.json"
-        },
-        {
-            "s_country_code": "ZM",
-            "s_country_name": "Zambia",
-            "s_country_slug": "zambia",
-            "s_file_name": "ZM-Zambia.json"
-        },
-        {
-            "s_country_code": "CM",
-            "s_country_name": "Cameroon",
-            "s_country_slug": "cameroon",
-            "s_file_name": "CM-Cameroon.json"
-        },
-        {
-            "s_country_code": "LU",
-            "s_country_name": "Luxembourg",
-            "s_country_slug": "luxembourg",
-            "s_file_name": "LU-Luxembourg.json"
-        },
-        {
-            "s_country_code": "CO",
-            "s_country_name": "Colombia",
-            "s_country_slug": "colombia",
-            "s_file_name": "CO-Colombia.json"
-        },
-        {
-            "s_country_code": "SC",
-            "s_country_name": "Seychelles",
-            "s_country_slug": "seychelles",
-            "s_file_name": "SC-Seychelles.json"
-        },
-        {
-            "s_country_code": "GR",
-            "s_country_name": "Greece",
-            "s_country_slug": "greece",
-            "s_file_name": "GR-Greece.json"
-        },
-        {
-            "s_country_code": "AO",
-            "s_country_name": "Angola",
-            "s_country_slug": "angola",
-            "s_file_name": "AO-Angola.json"
-        },
-        {
-            "s_country_code": "GW",
-            "s_country_name": "Guinea-Bissau",
-            "s_country_slug": "guinea-bissau",
-            "s_file_name": "GW-Guinea-Bissau.json"
-        },
-        {
-            "s_country_code": "KR",
-            "s_country_name": "Korea South",
-            "s_country_slug": "korea-south",
-            "s_file_name": "KR-Korea South.json"
-        },
-        {
-            "s_country_code": "MR",
-            "s_country_name": "Mauritania",
-            "s_country_slug": "mauritania",
-            "s_file_name": "MR-Mauritania.json"
-        },
-        {
-            "s_country_code": "PY",
-            "s_country_name": "Paraguay",
-            "s_country_slug": "paraguay",
-            "s_file_name": "PY-Paraguay.json"
-        },
-        {
-            "s_country_code": "LV",
-            "s_country_name": "Latvia",
-            "s_country_slug": "latvia",
-            "s_file_name": "LV-Latvia.json"
-        },
-        {
-            "s_country_code": "TR",
-            "s_country_name": "Turkey",
-            "s_country_slug": "turkey",
-            "s_file_name": "TR-Turkey.json"
-        },
-        {
-            "s_country_code": "BI",
-            "s_country_name": "Burundi",
-            "s_country_slug": "burundi",
-            "s_file_name": "BI-Burundi.json"
-        },
-        {
-            "s_country_code": "EG",
-            "s_country_name": "Egypt",
-            "s_country_slug": "egypt",
-            "s_file_name": "EG-Egypt.json"
-        },
-        {
-            "s_country_code": "SB",
-            "s_country_name": "Solomon Islands",
-            "s_country_slug": "solomon-islands",
-            "s_file_name": "SB-Solomon Islands.json"
-        },
-        {
-            "s_country_code": "KZ",
-            "s_country_name": "Kazakhstan",
-            "s_country_slug": "kazakhstan",
-            "s_file_name": "KZ-Kazakhstan.json"
-        },
-        {
-            "s_country_code": "IR",
-            "s_country_name": "Iran",
-            "s_country_slug": "iran",
-            "s_file_name": "IR-Iran.json"
-        },
-        {
-            "s_country_code": "BW",
-            "s_country_name": "Botswana",
-            "s_country_slug": "botswana",
-            "s_file_name": "BW-Botswana.json"
-        },
-        {
-            "s_country_code": "DO",
-            "s_country_name": "Dominican Republic",
-            "s_country_slug": "dominican-republic",
-            "s_file_name": "DO-Dominican Republic.json"
-        },
-        {
-            "s_country_code": "MZ",
-            "s_country_name": "Mozambique",
-            "s_country_slug": "mozambique",
-            "s_file_name": "MZ-Mozambique.json"
-        },
-        {
-            "s_country_code": "LY",
-            "s_country_name": "Libya",
-            "s_country_slug": "libya",
-            "s_file_name": "LY-Libya.json"
-        },
-        {
-            "s_country_code": "JM",
-            "s_country_name": "Jamaica",
-            "s_country_slug": "jamaica",
-            "s_file_name": "JM-Jamaica.json"
-        },
-        {
-            "s_country_code": "CI",
-            "s_country_name": "Ivory Coast",
-            "s_country_slug": "ivory-coast",
-            "s_file_name": "CI-Ivory Coast.json"
-        },
-        {
-            "s_country_code": "SA",
-            "s_country_name": "Saudi Arabia",
-            "s_country_slug": "saudi-arabia",
-            "s_file_name": "SA-Saudi Arabia.json"
-        },
-        {
-            "s_country_code": "KH",
-            "s_country_name": "Cambodia",
-            "s_country_slug": "cambodia",
-            "s_file_name": "KH-Cambodia.json"
-        },
-        {
-            "s_country_code": "TJ",
-            "s_country_name": "Tajikistan",
-            "s_country_slug": "tajikistan",
-            "s_file_name": "TJ-Tajikistan.json"
-        },
-        {
-            "s_country_code": "JP",
-            "s_country_name": "Japan",
-            "s_country_slug": "japan",
-            "s_file_name": "JP-Japan.json"
-        },
-        {
-            "s_country_code": "IN",
-            "s_country_name": "India",
-            "s_country_slug": "india",
-            "s_file_name": "IN-India.json"
-        },
-        {
-            "s_country_code": "UG",
-            "s_country_name": "Uganda",
-            "s_country_slug": "uganda",
-            "s_file_name": "UG-Uganda.json"
-        },
-        {
-            "s_country_code": "KW",
-            "s_country_name": "Kuwait",
-            "s_country_slug": "kuwait",
-            "s_file_name": "KW-Kuwait.json"
-        },
-        {
             "s_country_code": "AR",
             "s_country_name": "Argentina",
             "s_country_slug": "argentina",
             "s_file_name": "AR-Argentina.json"
-        },
-        {
-            "s_country_code": "ES",
-            "s_country_name": "Spain",
-            "s_country_slug": "spain",
-            "s_file_name": "ES-Spain.json"
-        },
-        {
-            "s_country_code": "ZA",
-            "s_country_name": "South Africa",
-            "s_country_slug": "south-africa",
-            "s_file_name": "ZA-South Africa.json"
-        },
-        {
-            "s_country_code": "MM",
-            "s_country_name": "Myanmar",
-            "s_country_slug": "myanmar",
-            "s_file_name": "MM-Myanmar.json"
-        },
-        {
-            "s_country_code": "PG",
-            "s_country_name": "Papua new Guinea",
-            "s_country_slug": "papua-new-guinea",
-            "s_file_name": "PG-Papua new Guinea.json"
-        },
-        {
-            "s_country_code": "TV",
-            "s_country_name": "Tuvalu",
-            "s_country_slug": "tuvalu",
-            "s_file_name": "TV-Tuvalu.json"
-        },
-        {
-            "s_country_code": "LS",
-            "s_country_name": "Lesotho",
-            "s_country_slug": "lesotho",
-            "s_file_name": "LS-Lesotho.json"
-        },
-        {
-            "s_country_code": "DZ",
-            "s_country_name": "Algeria",
-            "s_country_slug": "algeria",
-            "s_file_name": "DZ-Algeria.json"
-        },
-        {
-            "s_country_code": "TZ",
-            "s_country_name": "Tanzania",
-            "s_country_slug": "tanzania",
-            "s_file_name": "TZ-Tanzania.json"
-        },
-        {
-            "s_country_code": "EE",
-            "s_country_name": "Estonia",
-            "s_country_slug": "estonia",
-            "s_file_name": "EE-Estonia.json"
-        },
-        {
-            "s_country_code": "CA",
-            "s_country_name": "Canada",
-            "s_country_slug": "canada",
-            "s_file_name": "CA-Canada.json"
-        },
-        {
-            "s_country_code": "PE",
-            "s_country_name": "Peru",
-            "s_country_slug": "peru",
-            "s_file_name": "PE-Peru.json"
-        },
-        {
-            "s_country_code": "TW",
-            "s_country_name": "Taiwan",
-            "s_country_slug": "taiwan",
-            "s_file_name": "TW-Taiwan.json"
-        },
-        {
-            "s_country_code": "GH",
-            "s_country_name": "Ghana",
-            "s_country_slug": "ghana",
-            "s_file_name": "GH-Ghana.json"
-        },
-        {
-            "s_country_code": "AT",
-            "s_country_name": "Austria",
-            "s_country_slug": "austria",
-            "s_file_name": "AT-Austria.json"
         },
         {
             "s_country_code": "AM",
@@ -1111,10 +49,52 @@
             "s_file_name": "AM-Armenia.json"
         },
         {
-            "s_country_code": "NG",
-            "s_country_name": "Nigeria",
-            "s_country_slug": "nigeria",
-            "s_file_name": "NG-Nigeria.json"
+            "s_country_code": "AU",
+            "s_country_name": "Australia",
+            "s_country_slug": "australia",
+            "s_file_name": "AU-Australia.json"
+        },
+        {
+            "s_country_code": "AT",
+            "s_country_name": "Austria",
+            "s_country_slug": "austria",
+            "s_file_name": "AT-Austria.json"
+        },
+        {
+            "s_country_code": "AZ",
+            "s_country_name": "Azerbaijan",
+            "s_country_slug": "azerbaijan",
+            "s_file_name": "AZ-Azerbaijan.json"
+        },
+        {
+            "s_country_code": "BS",
+            "s_country_name": "Bahamas",
+            "s_country_slug": "bahamas-the",
+            "s_file_name": "BS-Bahamas.json"
+        },
+        {
+            "s_country_code": "BH",
+            "s_country_name": "Bahrain",
+            "s_country_slug": "bahrain",
+            "s_file_name": "BH-Bahrain.json"
+        },
+        {
+            "s_country_code": "BD",
+            "s_country_name": "Bangladesh",
+            "s_country_slug": "bangladesh",
+            "s_file_name": "BD-Bangladesh.json"
+        },
+        {
+            "s_country_code": "BB",
+            "s_country_name": "Barbados",
+            "s_country_slug": "barbados",
+            "s_file_name": "BB-Barbados.json"
+        },
+        {
+            "s_country_code": "BY",
+            "s_country_name": "Belarus",
+            "s_country_slug": "belarus",
+            "s_file_name": "BY-Belarus.json"
         },
         {
             "s_country_code": "BE",
@@ -1123,16 +103,1036 @@
             "s_file_name": "BE-Belgium.json"
         },
         {
-            "s_country_code": "TM",
-            "s_country_name": "Turkmenistan",
-            "s_country_slug": "turkmenistan",
-            "s_file_name": "TM-Turkmenistan.json"
+            "s_country_code": "BZ",
+            "s_country_name": "Belize",
+            "s_country_slug": "belize",
+            "s_file_name": "BZ-Belize.json"
+        },
+        {
+            "s_country_code": "BJ",
+            "s_country_name": "Benin",
+            "s_country_slug": "benin",
+            "s_file_name": "BJ-Benin.json"
+        },
+        {
+            "s_country_code": "BT",
+            "s_country_name": "Bhutan",
+            "s_country_slug": "bhutan",
+            "s_file_name": "BT-Bhutan.json"
+        },
+        {
+            "s_country_code": "BO",
+            "s_country_name": "Bolivia",
+            "s_country_slug": "bolivia",
+            "s_file_name": "BO-Bolivia.json"
+        },
+        {
+            "s_country_code": "BA",
+            "s_country_name": "Bosnia and Herzegovina",
+            "s_country_slug": "bosnia-and-herzegovina",
+            "s_file_name": "BA-Bosnia and Herzegovina.json"
+        },
+        {
+            "s_country_code": "BW",
+            "s_country_name": "Botswana",
+            "s_country_slug": "botswana",
+            "s_file_name": "BW-Botswana.json"
+        },
+        {
+            "s_country_code": "BR",
+            "s_country_name": "Brazil",
+            "s_country_slug": "brazil",
+            "s_file_name": "BR-Brazil.json"
+        },
+        {
+            "s_country_code": "BN",
+            "s_country_name": "Brunei",
+            "s_country_slug": "brunei",
+            "s_file_name": "BN-Brunei.json"
+        },
+        {
+            "s_country_code": "BG",
+            "s_country_name": "Bulgaria",
+            "s_country_slug": "bulgaria",
+            "s_file_name": "BG-Bulgaria.json"
+        },
+        {
+            "s_country_code": "BF",
+            "s_country_name": "Burkina Faso",
+            "s_country_slug": "burkina-faso",
+            "s_file_name": "BF-Burkina Faso.json"
+        },
+        {
+            "s_country_code": "BI",
+            "s_country_name": "Burundi",
+            "s_country_slug": "burundi",
+            "s_file_name": "BI-Burundi.json"
+        },
+        {
+            "s_country_code": "KH",
+            "s_country_name": "Cambodia",
+            "s_country_slug": "cambodia",
+            "s_file_name": "KH-Cambodia.json"
+        },
+        {
+            "s_country_code": "CM",
+            "s_country_name": "Cameroon",
+            "s_country_slug": "cameroon",
+            "s_file_name": "CM-Cameroon.json"
+        },
+        {
+            "s_country_code": "CA",
+            "s_country_name": "Canada",
+            "s_country_slug": "canada",
+            "s_file_name": "CA-Canada.json"
+        },
+        {
+            "s_country_code": "CV",
+            "s_country_name": "Cape Verde",
+            "s_country_slug": "cape-verde",
+            "s_file_name": "CV-Cape Verde.json"
+        },
+        {
+            "s_country_code": "CF",
+            "s_country_name": "Central African Republic",
+            "s_country_slug": "central-african-republic",
+            "s_file_name": "CF-Central African Republic.json"
+        },
+        {
+            "s_country_code": "TD",
+            "s_country_name": "Chad",
+            "s_country_slug": "chad",
+            "s_file_name": "TD-Chad.json"
+        },
+        {
+            "s_country_code": "CL",
+            "s_country_name": "Chile",
+            "s_country_slug": "chile",
+            "s_file_name": "CL-Chile.json"
+        },
+        {
+            "s_country_code": "CN",
+            "s_country_name": "China",
+            "s_country_slug": "china",
+            "s_file_name": "CN-China.json"
+        },
+        {
+            "s_country_code": "CO",
+            "s_country_name": "Colombia",
+            "s_country_slug": "colombia",
+            "s_file_name": "CO-Colombia.json"
+        },
+        {
+            "s_country_code": "KM",
+            "s_country_name": "Comoros",
+            "s_country_slug": "comoros",
+            "s_file_name": "KM-Comoros.json"
+        },
+        {
+            "s_country_code": "CG",
+            "s_country_name": "Congo",
+            "s_country_slug": "congo",
+            "s_file_name": "CG-Congo.json"
+        },
+        {
+            "s_country_code": "CD",
+            "s_country_name": "Congo Republic",
+            "s_country_slug": "congo-republic",
+            "s_file_name": "CD-Congo Republic.json"
+        },
+        {
+            "s_country_code": "CR",
+            "s_country_name": "Costa Rica",
+            "s_country_slug": "costa-rica",
+            "s_file_name": "CR-Costa Rica.json"
+        },
+        {
+            "s_country_code": "HR",
+            "s_country_name": "Croatia",
+            "s_country_slug": "croatia",
+            "s_file_name": "HR-Croatia.json"
+        },
+        {
+            "s_country_code": "CU",
+            "s_country_name": "Cuba",
+            "s_country_slug": "cuba",
+            "s_file_name": "CU-Cuba.json"
+        },
+        {
+            "s_country_code": "CY",
+            "s_country_name": "Cyprus",
+            "s_country_slug": "cyprus",
+            "s_file_name": "CY-Cyprus.json"
+        },
+        {
+            "s_country_code": "CZ",
+            "s_country_name": "Czech Republic",
+            "s_country_slug": "czech-republic",
+            "s_file_name": "CZ-Czech Republic.json"
+        },
+        {
+            "s_country_code": "DK",
+            "s_country_name": "Denmark",
+            "s_country_slug": "denmark",
+            "s_file_name": "DK-Denmark.json"
+        },
+        {
+            "s_country_code": "DJ",
+            "s_country_name": "Djibouti",
+            "s_country_slug": "djibouti",
+            "s_file_name": "DJ-Djibouti.json"
+        },
+        {
+            "s_country_code": "DM",
+            "s_country_name": "Dominica",
+            "s_country_slug": "dominica",
+            "s_file_name": "DM-Dominica.json"
+        },
+        {
+            "s_country_code": "DO",
+            "s_country_name": "Dominican Republic",
+            "s_country_slug": "dominican-republic",
+            "s_file_name": "DO-Dominican Republic.json"
+        },
+        {
+            "s_country_code": "TL",
+            "s_country_name": "East Timor",
+            "s_country_slug": "east-timor",
+            "s_file_name": "TL-East Timor.json"
+        },
+        {
+            "s_country_code": "EC",
+            "s_country_name": "Ecuador",
+            "s_country_slug": "ecuador",
+            "s_file_name": "EC-Ecuador.json"
+        },
+        {
+            "s_country_code": "EG",
+            "s_country_name": "Egypt",
+            "s_country_slug": "egypt",
+            "s_file_name": "EG-Egypt.json"
+        },
+        {
+            "s_country_code": "SV",
+            "s_country_name": "El Salvador",
+            "s_country_slug": "el-salvador",
+            "s_file_name": "SV-El Salvador.json"
+        },
+        {
+            "s_country_code": "GQ",
+            "s_country_name": "Equatorial Guinea",
+            "s_country_slug": "equatorial-guinea",
+            "s_file_name": "GQ-Equatorial Guinea.json"
+        },
+        {
+            "s_country_code": "ER",
+            "s_country_name": "Eritrea",
+            "s_country_slug": "eritrea",
+            "s_file_name": "ER-Eritrea.json"
+        },
+        {
+            "s_country_code": "EE",
+            "s_country_name": "Estonia",
+            "s_country_slug": "estonia",
+            "s_file_name": "EE-Estonia.json"
+        },
+        {
+            "s_country_code": "ET",
+            "s_country_name": "Ethiopia",
+            "s_country_slug": "ethiopia",
+            "s_file_name": "ET-Ethiopia.json"
+        },
+        {
+            "s_country_code": "FJ",
+            "s_country_name": "Fiji Islands",
+            "s_country_slug": "fiji-islands",
+            "s_file_name": "FJ-Fiji Islands.json"
+        },
+        {
+            "s_country_code": "FI",
+            "s_country_name": "Finland",
+            "s_country_slug": "finland",
+            "s_file_name": "FI-Finland.json"
+        },
+        {
+            "s_country_code": "FR",
+            "s_country_name": "France",
+            "s_country_slug": "france",
+            "s_file_name": "FR-France.json"
+        },
+        {
+            "s_country_code": "GA",
+            "s_country_name": "Gabon",
+            "s_country_slug": "gabon",
+            "s_file_name": "GA-Gabon.json"
+        },
+        {
+            "s_country_code": "GM",
+            "s_country_name": "Gambia",
+            "s_country_slug": "gambia",
+            "s_file_name": "GM-Gambia.json"
+        },
+        {
+            "s_country_code": "GE",
+            "s_country_name": "Georgia",
+            "s_country_slug": "georgia",
+            "s_file_name": "GE-Georgia.json"
+        },
+        {
+            "s_country_code": "DE",
+            "s_country_name": "Germany",
+            "s_country_slug": "germany",
+            "s_file_name": "DE-Germany.json"
+        },
+        {
+            "s_country_code": "GH",
+            "s_country_name": "Ghana",
+            "s_country_slug": "ghana",
+            "s_file_name": "GH-Ghana.json"
+        },
+        {
+            "s_country_code": "GR",
+            "s_country_name": "Greece",
+            "s_country_slug": "greece",
+            "s_file_name": "GR-Greece.json"
+        },
+        {
+            "s_country_code": "GD",
+            "s_country_name": "Grenada",
+            "s_country_slug": "grenada",
+            "s_file_name": "GD-Grenada.json"
+        },
+        {
+            "s_country_code": "GT",
+            "s_country_name": "Guatemala",
+            "s_country_slug": "guatemala",
+            "s_file_name": "GT-Guatemala.json"
+        },
+        {
+            "s_country_code": "GN",
+            "s_country_name": "Guinea",
+            "s_country_slug": "guinea",
+            "s_file_name": "GN-Guinea.json"
+        },
+        {
+            "s_country_code": "GW",
+            "s_country_name": "Guinea-Bissau",
+            "s_country_slug": "guinea-bissau",
+            "s_file_name": "GW-Guinea-Bissau.json"
+        },
+        {
+            "s_country_code": "GY",
+            "s_country_name": "Guyana",
+            "s_country_slug": "guyana",
+            "s_file_name": "GY-Guyana.json"
+        },
+        {
+            "s_country_code": "HT",
+            "s_country_name": "Haiti",
+            "s_country_slug": "haiti",
+            "s_file_name": "HT-Haiti.json"
+        },
+        {
+            "s_country_code": "HN",
+            "s_country_name": "Honduras",
+            "s_country_slug": "honduras",
+            "s_file_name": "HN-Honduras.json"
+        },
+        {
+            "s_country_code": "HU",
+            "s_country_name": "Hungary",
+            "s_country_slug": "hungary",
+            "s_file_name": "HU-Hungary.json"
+        },
+        {
+            "s_country_code": "IS",
+            "s_country_name": "Iceland",
+            "s_country_slug": "iceland",
+            "s_file_name": "IS-Iceland.json"
+        },
+        {
+            "s_country_code": "IN",
+            "s_country_name": "India",
+            "s_country_slug": "india",
+            "s_file_name": "IN-India.json"
+        },
+        {
+            "s_country_code": "ID",
+            "s_country_name": "Indonesia",
+            "s_country_slug": "indonesia",
+            "s_file_name": "ID-Indonesia.json"
+        },
+        {
+            "s_country_code": "IR",
+            "s_country_name": "Iran",
+            "s_country_slug": "iran",
+            "s_file_name": "IR-Iran.json"
+        },
+        {
+            "s_country_code": "IQ",
+            "s_country_name": "Iraq",
+            "s_country_slug": "iraq",
+            "s_file_name": "IQ-Iraq.json"
+        },
+        {
+            "s_country_code": "IE",
+            "s_country_name": "Ireland",
+            "s_country_slug": "ireland",
+            "s_file_name": "IE-Ireland.json"
+        },
+        {
+            "s_country_code": "IL",
+            "s_country_name": "Israel",
+            "s_country_slug": "israel",
+            "s_file_name": "IL-Israel.json"
+        },
+        {
+            "s_country_code": "IT",
+            "s_country_name": "Italy",
+            "s_country_slug": "italy",
+            "s_file_name": "IT-Italy.json"
+        },
+        {
+            "s_country_code": "CI",
+            "s_country_name": "Ivory Coast",
+            "s_country_slug": "ivory-coast",
+            "s_file_name": "CI-Ivory Coast.json"
+        },
+        {
+            "s_country_code": "JM",
+            "s_country_name": "Jamaica",
+            "s_country_slug": "jamaica",
+            "s_file_name": "JM-Jamaica.json"
+        },
+        {
+            "s_country_code": "JP",
+            "s_country_name": "Japan",
+            "s_country_slug": "japan",
+            "s_file_name": "JP-Japan.json"
+        },
+        {
+            "s_country_code": "JO",
+            "s_country_name": "Jordan",
+            "s_country_slug": "jordan",
+            "s_file_name": "JO-Jordan.json"
+        },
+        {
+            "s_country_code": "KZ",
+            "s_country_name": "Kazakhstan",
+            "s_country_slug": "kazakhstan",
+            "s_file_name": "KZ-Kazakhstan.json"
+        },
+        {
+            "s_country_code": "KE",
+            "s_country_name": "Kenya",
+            "s_country_slug": "kenya",
+            "s_file_name": "KE-Kenya.json"
+        },
+        {
+            "s_country_code": "KI",
+            "s_country_name": "Kiribati",
+            "s_country_slug": "kiribati",
+            "s_file_name": "KI-Kiribati.json"
+        },
+        {
+            "s_country_code": "KP",
+            "s_country_name": "Korea North",
+            "s_country_slug": "korea-north",
+            "s_file_name": "KP-Korea North.json"
+        },
+        {
+            "s_country_code": "KR",
+            "s_country_name": "Korea South",
+            "s_country_slug": "korea-south",
+            "s_file_name": "KR-Korea South.json"
+        },
+        {
+            "s_country_code": "KW",
+            "s_country_name": "Kuwait",
+            "s_country_slug": "kuwait",
+            "s_file_name": "KW-Kuwait.json"
+        },
+        {
+            "s_country_code": "KG",
+            "s_country_name": "Kyrgyzstan",
+            "s_country_slug": "kyrgyzstan",
+            "s_file_name": "KG-Kyrgyzstan.json"
+        },
+        {
+            "s_country_code": "LA",
+            "s_country_name": "Laos",
+            "s_country_slug": "laos",
+            "s_file_name": "LA-Laos.json"
+        },
+        {
+            "s_country_code": "LV",
+            "s_country_name": "Latvia",
+            "s_country_slug": "latvia",
+            "s_file_name": "LV-Latvia.json"
+        },
+        {
+            "s_country_code": "LB",
+            "s_country_name": "Lebanon",
+            "s_country_slug": "lebanon",
+            "s_file_name": "LB-Lebanon.json"
+        },
+        {
+            "s_country_code": "LS",
+            "s_country_name": "Lesotho",
+            "s_country_slug": "lesotho",
+            "s_file_name": "LS-Lesotho.json"
+        },
+        {
+            "s_country_code": "LR",
+            "s_country_name": "Liberia",
+            "s_country_slug": "liberia",
+            "s_file_name": "LR-Liberia.json"
+        },
+        {
+            "s_country_code": "LY",
+            "s_country_name": "Libya",
+            "s_country_slug": "libya",
+            "s_file_name": "LY-Libya.json"
+        },
+        {
+            "s_country_code": "LI",
+            "s_country_name": "Liechtenstein",
+            "s_country_slug": "liechtenstein",
+            "s_file_name": "LI-Liechtenstein.json"
+        },
+        {
+            "s_country_code": "LT",
+            "s_country_name": "Lithuania",
+            "s_country_slug": "lithuania",
+            "s_file_name": "LT-Lithuania.json"
+        },
+        {
+            "s_country_code": "LU",
+            "s_country_name": "Luxembourg",
+            "s_country_slug": "luxembourg",
+            "s_file_name": "LU-Luxembourg.json"
+        },
+        {
+            "s_country_code": "MK",
+            "s_country_name": "Macedonia",
+            "s_country_slug": "macedonia",
+            "s_file_name": "MK-Macedonia.json"
+        },
+        {
+            "s_country_code": "MG",
+            "s_country_name": "Madagascar",
+            "s_country_slug": "madagascar",
+            "s_file_name": "MG-Madagascar.json"
+        },
+        {
+            "s_country_code": "MW",
+            "s_country_name": "Malawi",
+            "s_country_slug": "malawi",
+            "s_file_name": "MW-Malawi.json"
+        },
+        {
+            "s_country_code": "MY",
+            "s_country_name": "Malaysia",
+            "s_country_slug": "malaysia",
+            "s_file_name": "MY-Malaysia.json"
+        },
+        {
+            "s_country_code": "MV",
+            "s_country_name": "Maldives",
+            "s_country_slug": "maldives",
+            "s_file_name": "MV-Maldives.json"
+        },
+        {
+            "s_country_code": "ML",
+            "s_country_name": "Mali",
+            "s_country_slug": "mali",
+            "s_file_name": "ML-Mali.json"
+        },
+        {
+            "s_country_code": "MT",
+            "s_country_name": "Malta",
+            "s_country_slug": "malta",
+            "s_file_name": "MT-Malta.json"
+        },
+        {
+            "s_country_code": "MR",
+            "s_country_name": "Mauritania",
+            "s_country_slug": "mauritania",
+            "s_file_name": "MR-Mauritania.json"
+        },
+        {
+            "s_country_code": "MU",
+            "s_country_name": "Mauritius",
+            "s_country_slug": "mauritius",
+            "s_file_name": "MU-Mauritius.json"
+        },
+        {
+            "s_country_code": "MX",
+            "s_country_name": "Mexico",
+            "s_country_slug": "mexico",
+            "s_file_name": "MX-Mexico.json"
+        },
+        {
+            "s_country_code": "FM",
+            "s_country_name": "Micronesia",
+            "s_country_slug": "micronesia",
+            "s_file_name": "FM-Micronesia.json"
+        },
+        {
+            "s_country_code": "MD",
+            "s_country_name": "Moldova",
+            "s_country_slug": "moldova",
+            "s_file_name": "MD-Moldova.json"
+        },
+        {
+            "s_country_code": "MN",
+            "s_country_name": "Mongolia",
+            "s_country_slug": "mongolia",
+            "s_file_name": "MN-Mongolia.json"
+        },
+        {
+            "s_country_code": "ME",
+            "s_country_name": "Montenegro",
+            "s_country_slug": "montenegro",
+            "s_file_name": "ME-Montenegro.json"
+        },
+        {
+            "s_country_code": "MA",
+            "s_country_name": "Morocco",
+            "s_country_slug": "morocco",
+            "s_file_name": "MA-Morocco.json"
+        },
+        {
+            "s_country_code": "MZ",
+            "s_country_name": "Mozambique",
+            "s_country_slug": "mozambique",
+            "s_file_name": "MZ-Mozambique.json"
+        },
+        {
+            "s_country_code": "MM",
+            "s_country_name": "Myanmar",
+            "s_country_slug": "myanmar",
+            "s_file_name": "MM-Myanmar.json"
+        },
+        {
+            "s_country_code": "NA",
+            "s_country_name": "Namibia",
+            "s_country_slug": "namibia",
+            "s_file_name": "NA-Namibia.json"
+        },
+        {
+            "s_country_code": "NR",
+            "s_country_name": "Nauru",
+            "s_country_slug": "nauru",
+            "s_file_name": "NR-Nauru.json"
+        },
+        {
+            "s_country_code": "NP",
+            "s_country_name": "Nepal",
+            "s_country_slug": "nepal",
+            "s_file_name": "NP-Nepal.json"
+        },
+        {
+            "s_country_code": "NL",
+            "s_country_name": "Netherlands",
+            "s_country_slug": "netherlands",
+            "s_file_name": "NL-Netherlands.json"
+        },
+        {
+            "s_country_code": "NZ",
+            "s_country_name": "New Zealand",
+            "s_country_slug": "new-zealand",
+            "s_file_name": "NZ-New Zealand.json"
+        },
+        {
+            "s_country_code": "NI",
+            "s_country_name": "Nicaragua",
+            "s_country_slug": "nicaragua",
+            "s_file_name": "NI-Nicaragua.json"
+        },
+        {
+            "s_country_code": "NE",
+            "s_country_name": "Niger",
+            "s_country_slug": "niger",
+            "s_file_name": "NE-Niger.json"
+        },
+        {
+            "s_country_code": "NG",
+            "s_country_name": "Nigeria",
+            "s_country_slug": "nigeria",
+            "s_file_name": "NG-Nigeria.json"
+        },
+        {
+            "s_country_code": "NO",
+            "s_country_name": "Norway",
+            "s_country_slug": "norway",
+            "s_file_name": "NO-Norway.json"
+        },
+        {
+            "s_country_code": "OM",
+            "s_country_name": "Oman",
+            "s_country_slug": "oman",
+            "s_file_name": "OM-Oman.json"
+        },
+        {
+            "s_country_code": "PK",
+            "s_country_name": "Pakistan",
+            "s_country_slug": "pakistan",
+            "s_file_name": "PK-Pakistan.json"
+        },
+        {
+            "s_country_code": "PW",
+            "s_country_name": "Palau",
+            "s_country_slug": "palau",
+            "s_file_name": "PW-Palau.json"
+        },
+        {
+            "s_country_code": "PA",
+            "s_country_name": "Panama",
+            "s_country_slug": "panama",
+            "s_file_name": "PA-Panama.json"
+        },
+        {
+            "s_country_code": "PG",
+            "s_country_name": "Papua new Guinea",
+            "s_country_slug": "papua-new-guinea",
+            "s_file_name": "PG-Papua new Guinea.json"
+        },
+        {
+            "s_country_code": "PY",
+            "s_country_name": "Paraguay",
+            "s_country_slug": "paraguay",
+            "s_file_name": "PY-Paraguay.json"
+        },
+        {
+            "s_country_code": "PE",
+            "s_country_name": "Peru",
+            "s_country_slug": "peru",
+            "s_file_name": "PE-Peru.json"
+        },
+        {
+            "s_country_code": "PH",
+            "s_country_name": "Philippines",
+            "s_country_slug": "philippines",
+            "s_file_name": "PH-Philippines.json"
+        },
+        {
+            "s_country_code": "PL",
+            "s_country_name": "Poland",
+            "s_country_slug": "poland",
+            "s_file_name": "PL-Poland.json"
+        },
+        {
+            "s_country_code": "PT",
+            "s_country_name": "Portugal",
+            "s_country_slug": "portugal",
+            "s_file_name": "PT-Portugal.json"
+        },
+        {
+            "s_country_code": "QA",
+            "s_country_name": "Qatar",
+            "s_country_slug": "qatar",
+            "s_file_name": "QA-Qatar.json"
+        },
+        {
+            "s_country_code": "RO",
+            "s_country_name": "Romania",
+            "s_country_slug": "romania",
+            "s_file_name": "RO-Romania.json"
+        },
+        {
+            "s_country_code": "RU",
+            "s_country_name": "Russia",
+            "s_country_slug": "russia",
+            "s_file_name": "RU-Russia.json"
+        },
+        {
+            "s_country_code": "RW",
+            "s_country_name": "Rwanda",
+            "s_country_slug": "rwanda",
+            "s_file_name": "RW-Rwanda.json"
+        },
+        {
+            "s_country_code": "KN",
+            "s_country_name": "Saint Kitts And Nevis",
+            "s_country_slug": "saint-kitts-and-nevis",
+            "s_file_name": "KN-Saint Kitts And Nevis.json"
+        },
+        {
+            "s_country_code": "LC",
+            "s_country_name": "Saint Lucia",
+            "s_country_slug": "saint-lucia",
+            "s_file_name": "LC-Saint Lucia.json"
+        },
+        {
+            "s_country_code": "WS",
+            "s_country_name": "Samoa",
+            "s_country_slug": "samoa",
+            "s_file_name": "WS-Samoa.json"
+        },
+        {
+            "s_country_code": "SM",
+            "s_country_name": "San Marino",
+            "s_country_slug": "san-marino",
+            "s_file_name": "SM-San Marino.json"
+        },
+        {
+            "s_country_code": "SA",
+            "s_country_name": "Saudi Arabia",
+            "s_country_slug": "saudi-arabia",
+            "s_file_name": "SA-Saudi Arabia.json"
+        },
+        {
+            "s_country_code": "SN",
+            "s_country_name": "Senegal",
+            "s_country_slug": "senegal",
+            "s_file_name": "SN-Senegal.json"
+        },
+        {
+            "s_country_code": "RS",
+            "s_country_name": "Serbia",
+            "s_country_slug": "serbia",
+            "s_file_name": "RS-Serbia.json"
+        },
+        {
+            "s_country_code": "SC",
+            "s_country_name": "Seychelles",
+            "s_country_slug": "seychelles",
+            "s_file_name": "SC-Seychelles.json"
+        },
+        {
+            "s_country_code": "SL",
+            "s_country_name": "Sierra Leone",
+            "s_country_slug": "sierra-leone",
+            "s_file_name": "SL-Sierra Leone.json"
+        },
+        {
+            "s_country_code": "SK",
+            "s_country_name": "Slovakia",
+            "s_country_slug": "slovakia",
+            "s_file_name": "SK-Slovakia.json"
+        },
+        {
+            "s_country_code": "SI",
+            "s_country_name": "Slovenia",
+            "s_country_slug": "slovenia",
+            "s_file_name": "SI-Slovenia.json"
+        },
+        {
+            "s_country_code": "SB",
+            "s_country_name": "Solomon Islands",
+            "s_country_slug": "solomon-islands",
+            "s_file_name": "SB-Solomon Islands.json"
+        },
+        {
+            "s_country_code": "SO",
+            "s_country_name": "Somalia",
+            "s_country_slug": "somalia",
+            "s_file_name": "SO-Somalia.json"
+        },
+        {
+            "s_country_code": "ZA",
+            "s_country_name": "South Africa",
+            "s_country_slug": "south-africa",
+            "s_file_name": "ZA-South Africa.json"
+        },
+        {
+            "s_country_code": "SS",
+            "s_country_name": "South Sudan",
+            "s_country_slug": "south-sudan",
+            "s_file_name": "SS-South Sudan.json"
+        },
+        {
+            "s_country_code": "ES",
+            "s_country_name": "Spain",
+            "s_country_slug": "spain",
+            "s_file_name": "ES-Spain.json"
         },
         {
             "s_country_code": "LK",
             "s_country_name": "Sri Lanka",
             "s_country_slug": "sri-lanka",
             "s_file_name": "LK-Sri Lanka.json"
+        },
+        {
+            "s_country_code": "SD",
+            "s_country_name": "Sudan",
+            "s_country_slug": "sudan",
+            "s_file_name": "SD-Sudan.json"
+        },
+        {
+            "s_country_code": "SR",
+            "s_country_name": "Suriname",
+            "s_country_slug": "suriname",
+            "s_file_name": "SR-Suriname.json"
+        },
+        {
+            "s_country_code": "SZ",
+            "s_country_name": "Swaziland",
+            "s_country_slug": "swaziland",
+            "s_file_name": "SZ-Swaziland.json"
+        },
+        {
+            "s_country_code": "SE",
+            "s_country_name": "Sweden",
+            "s_country_slug": "sweden",
+            "s_file_name": "SE-Sweden.json"
+        },
+        {
+            "s_country_code": "CH",
+            "s_country_name": "Switzerland",
+            "s_country_slug": "switzerland",
+            "s_file_name": "CH-Switzerland.json"
+        },
+        {
+            "s_country_code": "SY",
+            "s_country_name": "Syria",
+            "s_country_slug": "syria",
+            "s_file_name": "SY-Syria.json"
+        },
+        {
+            "s_country_code": "TW",
+            "s_country_name": "Taiwan",
+            "s_country_slug": "taiwan",
+            "s_file_name": "TW-Taiwan.json"
+        },
+        {
+            "s_country_code": "TJ",
+            "s_country_name": "Tajikistan",
+            "s_country_slug": "tajikistan",
+            "s_file_name": "TJ-Tajikistan.json"
+        },
+        {
+            "s_country_code": "TZ",
+            "s_country_name": "Tanzania",
+            "s_country_slug": "tanzania",
+            "s_file_name": "TZ-Tanzania.json"
+        },
+        {
+            "s_country_code": "TH",
+            "s_country_name": "Thailand",
+            "s_country_slug": "thailand",
+            "s_file_name": "TH-Thailand.json"
+        },
+        {
+            "s_country_code": "TG",
+            "s_country_name": "Togo",
+            "s_country_slug": "togo",
+            "s_file_name": "TG-Togo.json"
+        },
+        {
+            "s_country_code": "TO",
+            "s_country_name": "Tonga",
+            "s_country_slug": "tonga",
+            "s_file_name": "TO-Tonga.json"
+        },
+        {
+            "s_country_code": "TT",
+            "s_country_name": "Trinidad And Tobago",
+            "s_country_slug": "trinidad-and-tobago",
+            "s_file_name": "TT-Trinidad And Tobago.json"
+        },
+        {
+            "s_country_code": "TN",
+            "s_country_name": "Tunisia",
+            "s_country_slug": "tunisia",
+            "s_file_name": "TN-Tunisia.json"
+        },
+        {
+            "s_country_code": "TR",
+            "s_country_name": "Turkey",
+            "s_country_slug": "turkey",
+            "s_file_name": "TR-Turkey.json"
+        },
+        {
+            "s_country_code": "TM",
+            "s_country_name": "Turkmenistan",
+            "s_country_slug": "turkmenistan",
+            "s_file_name": "TM-Turkmenistan.json"
+        },
+        {
+            "s_country_code": "TV",
+            "s_country_name": "Tuvalu",
+            "s_country_slug": "tuvalu",
+            "s_file_name": "TV-Tuvalu.json"
+        },
+        {
+            "s_country_code": "UG",
+            "s_country_name": "Uganda",
+            "s_country_slug": "uganda",
+            "s_file_name": "UG-Uganda.json"
+        },
+        {
+            "s_country_code": "UA",
+            "s_country_name": "Ukraine",
+            "s_country_slug": "ukraine",
+            "s_file_name": "UA-Ukraine.json"
+        },
+        {
+            "s_country_code": "AE",
+            "s_country_name": "United Arab Emirates",
+            "s_country_slug": "united-arab-emirates",
+            "s_file_name": "AE-United Arab Emirates.json"
+        },
+        {
+            "s_country_code": "GB",
+            "s_country_name": "United Kingdom",
+            "s_country_slug": "united-kingdom",
+            "s_file_name": "GB-United Kingdom.json"
+        },
+        {
+            "s_country_code": "US",
+            "s_country_name": "United States",
+            "s_country_slug": "united-states",
+            "s_file_name": "US-United States.json"
+        },
+        {
+            "s_country_code": "UY",
+            "s_country_name": "Uruguay",
+            "s_country_slug": "uruguay",
+            "s_file_name": "UY-Uruguay.json"
+        },
+        {
+            "s_country_code": "UZ",
+            "s_country_name": "Uzbekistan",
+            "s_country_slug": "uzbekistan",
+            "s_file_name": "UZ-Uzbekistan.json"
+        },
+        {
+            "s_country_code": "VU",
+            "s_country_name": "Vanuatu",
+            "s_country_slug": "vanuatu",
+            "s_file_name": "VU-Vanuatu.json"
+        },
+        {
+            "s_country_code": "VE",
+            "s_country_name": "Venezuela",
+            "s_country_slug": "venezuela",
+            "s_file_name": "VE-Venezuela.json"
+        },
+        {
+            "s_country_code": "VN",
+            "s_country_name": "Vietnam",
+            "s_country_slug": "vietnam",
+            "s_file_name": "VN-Vietnam.json"
+        },
+        {
+            "s_country_code": "YE",
+            "s_country_name": "Yemen",
+            "s_country_slug": "yemen",
+            "s_file_name": "YE-Yemen.json"
+        },
+        {
+            "s_country_code": "ZM",
+            "s_country_name": "Zambia",
+            "s_country_slug": "zambia",
+            "s_file_name": "ZM-Zambia.json"
+        },
+        {
+            "s_country_code": "ZW",
+            "s_country_name": "Zimbabwe",
+            "s_country_slug": "zimbabwe",
+            "s_file_name": "ZW-Zimbabwe.json"
         }
     ]
 }

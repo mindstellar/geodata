@@ -1,391 +1,391 @@
 {
-    "s_country_code": "TL",
-    "s_country_name": "East Timor",
-    "s_country_slug": "east-timor",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Aileu",
+                    "s_city_slug": "aileu",
+                    "s_country_code": "tl",
+                    "s_region_slug": "aileu-municipality"
+                },
+                {
+                    "s_city_name": "Lequidoe",
+                    "s_city_slug": "lequidoe",
+                    "s_country_code": "tl",
+                    "s_region_slug": "aileu-municipality"
+                },
+                {
+                    "s_city_name": "Remexio",
+                    "s_city_slug": "remexio",
+                    "s_country_code": "tl",
+                    "s_region_slug": "aileu-municipality"
+                }
+            ],
             "s_country_code": "tl",
             "s_region_name": "Aileu municipality",
-            "s_region_slug": "aileu-municipality",
-            "cities": [
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "aileu-municipality",
-                    "s_city_name": "Aileu",
-                    "s_city_slug": "aileu"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "aileu-municipality",
-                    "s_city_name": "Lequidoe",
-                    "s_city_slug": "lequidoe"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "aileu-municipality",
-                    "s_city_name": "Remexio",
-                    "s_city_slug": "remexio"
-                }
-            ]
+            "s_region_slug": "aileu-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ainaro",
+                    "s_city_slug": "ainaro",
+                    "s_country_code": "tl",
+                    "s_region_slug": "ainaro-municipality"
+                },
+                {
+                    "s_city_name": "Hato-Udo",
+                    "s_city_slug": "hato-udo",
+                    "s_country_code": "tl",
+                    "s_region_slug": "ainaro-municipality"
+                }
+            ],
             "s_country_code": "tl",
             "s_region_name": "Ainaro Municipality",
-            "s_region_slug": "ainaro-municipality",
-            "cities": [
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "ainaro-municipality",
-                    "s_city_name": "Ainaro",
-                    "s_city_slug": "ainaro"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "ainaro-municipality",
-                    "s_city_name": "Hato-Udo",
-                    "s_city_slug": "hato-udo"
-                }
-            ]
+            "s_region_slug": "ainaro-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Baguia",
+                    "s_city_slug": "baguia",
+                    "s_country_code": "tl",
+                    "s_region_slug": "baucau-municipality"
+                },
+                {
+                    "s_city_name": "Baucau",
+                    "s_city_slug": "baucau",
+                    "s_country_code": "tl",
+                    "s_region_slug": "baucau-municipality"
+                },
+                {
+                    "s_city_name": "Baukau",
+                    "s_city_slug": "baukau",
+                    "s_country_code": "tl",
+                    "s_region_slug": "baucau-municipality"
+                },
+                {
+                    "s_city_name": "Laga",
+                    "s_city_slug": "laga",
+                    "s_country_code": "tl",
+                    "s_region_slug": "baucau-municipality"
+                },
+                {
+                    "s_city_name": "Quelicai",
+                    "s_city_slug": "quelicai",
+                    "s_country_code": "tl",
+                    "s_region_slug": "baucau-municipality"
+                },
+                {
+                    "s_city_name": "Vemasse",
+                    "s_city_slug": "vemasse",
+                    "s_country_code": "tl",
+                    "s_region_slug": "baucau-municipality"
+                },
+                {
+                    "s_city_name": "Venilale",
+                    "s_city_slug": "venilale",
+                    "s_country_code": "tl",
+                    "s_region_slug": "baucau-municipality"
+                }
+            ],
             "s_country_code": "tl",
             "s_region_name": "Baucau Municipality",
-            "s_region_slug": "baucau-municipality",
-            "cities": [
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "baucau-municipality",
-                    "s_city_name": "Baguia",
-                    "s_city_slug": "baguia"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "baucau-municipality",
-                    "s_city_name": "Baucau",
-                    "s_city_slug": "baucau"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "baucau-municipality",
-                    "s_city_name": "Baukau",
-                    "s_city_slug": "baukau"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "baucau-municipality",
-                    "s_city_name": "Laga",
-                    "s_city_slug": "laga"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "baucau-municipality",
-                    "s_city_name": "Quelicai",
-                    "s_city_slug": "quelicai"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "baucau-municipality",
-                    "s_city_name": "Vemasse",
-                    "s_city_slug": "vemasse"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "baucau-municipality",
-                    "s_city_name": "Venilale",
-                    "s_city_slug": "venilale"
-                }
-            ]
+            "s_region_slug": "baucau-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Maliana",
+                    "s_city_slug": "maliana",
+                    "s_country_code": "tl",
+                    "s_region_slug": "bobonaro-municipality"
+                }
+            ],
             "s_country_code": "tl",
             "s_region_name": "Bobonaro Municipality",
-            "s_region_slug": "bobonaro-municipality",
-            "cities": [
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "bobonaro-municipality",
-                    "s_city_name": "Maliana",
-                    "s_city_slug": "maliana"
-                }
-            ]
+            "s_region_slug": "bobonaro-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Fatumean",
+                    "s_city_slug": "fatumean",
+                    "s_country_code": "tl",
+                    "s_region_slug": "cova-lima-municipality"
+                },
+                {
+                    "s_city_name": "Fohorem",
+                    "s_city_slug": "fohorem",
+                    "s_country_code": "tl",
+                    "s_region_slug": "cova-lima-municipality"
+                },
+                {
+                    "s_city_name": "Maucatar",
+                    "s_city_slug": "maucatar",
+                    "s_country_code": "tl",
+                    "s_region_slug": "cova-lima-municipality"
+                },
+                {
+                    "s_city_name": "Suai",
+                    "s_city_slug": "suai",
+                    "s_country_code": "tl",
+                    "s_region_slug": "cova-lima-municipality"
+                },
+                {
+                    "s_city_name": "Tilomar",
+                    "s_city_slug": "tilomar",
+                    "s_country_code": "tl",
+                    "s_region_slug": "cova-lima-municipality"
+                }
+            ],
             "s_country_code": "tl",
             "s_region_name": "Cova Lima Municipality",
-            "s_region_slug": "cova-lima-municipality",
-            "cities": [
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "cova-lima-municipality",
-                    "s_city_name": "Fatumean",
-                    "s_city_slug": "fatumean"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "cova-lima-municipality",
-                    "s_city_name": "Fohorem",
-                    "s_city_slug": "fohorem"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "cova-lima-municipality",
-                    "s_city_name": "Maucatar",
-                    "s_city_slug": "maucatar"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "cova-lima-municipality",
-                    "s_city_name": "Suai",
-                    "s_city_slug": "suai"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "cova-lima-municipality",
-                    "s_city_name": "Tilomar",
-                    "s_city_slug": "tilomar"
-                }
-            ]
+            "s_region_slug": "cova-lima-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Atauro Island",
+                    "s_city_slug": "atauro-island",
+                    "s_country_code": "tl",
+                    "s_region_slug": "dili-municipality"
+                },
+                {
+                    "s_city_name": "Cristo Rei",
+                    "s_city_slug": "cristo-rei",
+                    "s_country_code": "tl",
+                    "s_region_slug": "dili-municipality"
+                },
+                {
+                    "s_city_name": "Dili",
+                    "s_city_slug": "dili",
+                    "s_country_code": "tl",
+                    "s_region_slug": "dili-municipality"
+                },
+                {
+                    "s_city_name": "Metinaro",
+                    "s_city_slug": "metinaro",
+                    "s_country_code": "tl",
+                    "s_region_slug": "dili-municipality"
+                }
+            ],
             "s_country_code": "tl",
             "s_region_name": "Dili municipality",
-            "s_region_slug": "dili-municipality",
-            "cities": [
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "dili-municipality",
-                    "s_city_name": "Atauro Island",
-                    "s_city_slug": "atauro-island"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "dili-municipality",
-                    "s_city_name": "Cristo Rei",
-                    "s_city_slug": "cristo-rei"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "dili-municipality",
-                    "s_city_name": "Dili",
-                    "s_city_slug": "dili"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "dili-municipality",
-                    "s_city_name": "Metinaro",
-                    "s_city_slug": "metinaro"
-                }
-            ]
+            "s_region_slug": "dili-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ermera Villa",
+                    "s_city_slug": "ermera-villa",
+                    "s_country_code": "tl",
+                    "s_region_slug": "ermera-district"
+                },
+                {
+                    "s_city_name": "Gleno",
+                    "s_city_slug": "gleno",
+                    "s_country_code": "tl",
+                    "s_region_slug": "ermera-district"
+                },
+                {
+                    "s_city_name": "Hatulia",
+                    "s_city_slug": "hatulia",
+                    "s_country_code": "tl",
+                    "s_region_slug": "ermera-district"
+                },
+                {
+                    "s_city_name": "Letefoho",
+                    "s_city_slug": "letefoho",
+                    "s_country_code": "tl",
+                    "s_region_slug": "ermera-district"
+                },
+                {
+                    "s_city_name": "Railaco",
+                    "s_city_slug": "railaco",
+                    "s_country_code": "tl",
+                    "s_region_slug": "ermera-district"
+                }
+            ],
             "s_country_code": "tl",
             "s_region_name": "Ermera District",
-            "s_region_slug": "ermera-district",
-            "cities": [
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "ermera-district",
-                    "s_city_name": "Ermera Villa",
-                    "s_city_slug": "ermera-villa"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "ermera-district",
-                    "s_city_name": "Gleno",
-                    "s_city_slug": "gleno"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "ermera-district",
-                    "s_city_name": "Hatulia",
-                    "s_city_slug": "hatulia"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "ermera-district",
-                    "s_city_name": "Letefoho",
-                    "s_city_slug": "letefoho"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "ermera-district",
-                    "s_city_name": "Railaco",
-                    "s_city_slug": "railaco"
-                }
-            ]
+            "s_region_slug": "ermera-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Iliomar",
+                    "s_city_slug": "iliomar",
+                    "s_country_code": "tl",
+                    "s_region_slug": "lautem-municipality"
+                },
+                {
+                    "s_city_name": "Lautem",
+                    "s_city_slug": "lautem",
+                    "s_country_code": "tl",
+                    "s_region_slug": "lautem-municipality"
+                },
+                {
+                    "s_city_name": "Lospalos",
+                    "s_city_slug": "lospalos",
+                    "s_country_code": "tl",
+                    "s_region_slug": "lautem-municipality"
+                },
+                {
+                    "s_city_name": "Luro",
+                    "s_city_slug": "luro",
+                    "s_country_code": "tl",
+                    "s_region_slug": "lautem-municipality"
+                },
+                {
+                    "s_city_name": "Tutuala",
+                    "s_city_slug": "tutuala",
+                    "s_country_code": "tl",
+                    "s_region_slug": "lautem-municipality"
+                }
+            ],
             "s_country_code": "tl",
             "s_region_name": "Lautem Municipality",
-            "s_region_slug": "lautem-municipality",
-            "cities": [
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "lautem-municipality",
-                    "s_city_name": "Iliomar",
-                    "s_city_slug": "iliomar"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "lautem-municipality",
-                    "s_city_name": "Lautem",
-                    "s_city_slug": "lautem"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "lautem-municipality",
-                    "s_city_name": "Lospalos",
-                    "s_city_slug": "lospalos"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "lautem-municipality",
-                    "s_city_name": "Luro",
-                    "s_city_slug": "luro"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "lautem-municipality",
-                    "s_city_name": "Tutuala",
-                    "s_city_slug": "tutuala"
-                }
-            ]
+            "s_region_slug": "lautem-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bazartete",
+                    "s_city_slug": "bazartete",
+                    "s_country_code": "tl",
+                    "s_region_slug": "liquica-municipality"
+                },
+                {
+                    "s_city_name": "Likisa",
+                    "s_city_slug": "likisa",
+                    "s_country_code": "tl",
+                    "s_region_slug": "liquica-municipality"
+                },
+                {
+                    "s_city_name": "Maubara",
+                    "s_city_slug": "maubara",
+                    "s_country_code": "tl",
+                    "s_region_slug": "liquica-municipality"
+                }
+            ],
             "s_country_code": "tl",
             "s_region_name": "Liquica Municipality",
-            "s_region_slug": "liquica-municipality",
-            "cities": [
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "liquica-municipality",
-                    "s_city_name": "Bazartete",
-                    "s_city_slug": "bazartete"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "liquica-municipality",
-                    "s_city_name": "Likisa",
-                    "s_city_slug": "likisa"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "liquica-municipality",
-                    "s_city_name": "Maubara",
-                    "s_city_slug": "maubara"
-                }
-            ]
+            "s_region_slug": "liquica-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Barique",
+                    "s_city_slug": "barique",
+                    "s_country_code": "tl",
+                    "s_region_slug": "manatuto-district"
+                },
+                {
+                    "s_city_name": "Laclo",
+                    "s_city_slug": "laclo",
+                    "s_country_code": "tl",
+                    "s_region_slug": "manatuto-district"
+                },
+                {
+                    "s_city_name": "Laclubar",
+                    "s_city_slug": "laclubar",
+                    "s_country_code": "tl",
+                    "s_region_slug": "manatuto-district"
+                },
+                {
+                    "s_city_name": "Manatuto",
+                    "s_city_slug": "manatuto",
+                    "s_country_code": "tl",
+                    "s_region_slug": "manatuto-district"
+                },
+                {
+                    "s_city_name": "Manatutu",
+                    "s_city_slug": "manatutu",
+                    "s_country_code": "tl",
+                    "s_region_slug": "manatuto-district"
+                },
+                {
+                    "s_city_name": "Soibada",
+                    "s_city_slug": "soibada",
+                    "s_country_code": "tl",
+                    "s_region_slug": "manatuto-district"
+                }
+            ],
             "s_country_code": "tl",
             "s_region_name": "Manatuto District",
-            "s_region_slug": "manatuto-district",
-            "cities": [
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "manatuto-district",
-                    "s_city_name": "Barique",
-                    "s_city_slug": "barique"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "manatuto-district",
-                    "s_city_name": "Laclo",
-                    "s_city_slug": "laclo"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "manatuto-district",
-                    "s_city_name": "Laclubar",
-                    "s_city_slug": "laclubar"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "manatuto-district",
-                    "s_city_name": "Manatuto",
-                    "s_city_slug": "manatuto"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "manatuto-district",
-                    "s_city_name": "Manatutu",
-                    "s_city_slug": "manatutu"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "manatuto-district",
-                    "s_city_name": "Soibada",
-                    "s_city_slug": "soibada"
-                }
-            ]
+            "s_region_slug": "manatuto-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Alas",
+                    "s_city_slug": "alas",
+                    "s_country_code": "tl",
+                    "s_region_slug": "manufahi-municipality"
+                },
+                {
+                    "s_city_name": "Fatuberliu",
+                    "s_city_slug": "fatuberliu",
+                    "s_country_code": "tl",
+                    "s_region_slug": "manufahi-municipality"
+                },
+                {
+                    "s_city_name": "Same",
+                    "s_city_slug": "same",
+                    "s_country_code": "tl",
+                    "s_region_slug": "manufahi-municipality"
+                },
+                {
+                    "s_city_name": "Turiscai",
+                    "s_city_slug": "turiscai",
+                    "s_country_code": "tl",
+                    "s_region_slug": "manufahi-municipality"
+                }
+            ],
             "s_country_code": "tl",
             "s_region_name": "Manufahi Municipality",
-            "s_region_slug": "manufahi-municipality",
-            "cities": [
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "manufahi-municipality",
-                    "s_city_name": "Alas",
-                    "s_city_slug": "alas"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "manufahi-municipality",
-                    "s_city_name": "Fatuberliu",
-                    "s_city_slug": "fatuberliu"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "manufahi-municipality",
-                    "s_city_name": "Same",
-                    "s_city_slug": "same"
-                },
-                {
-                    "s_country_code": "tl",
-                    "s_region_slug": "manufahi-municipality",
-                    "s_city_name": "Turiscai",
-                    "s_city_slug": "turiscai"
-                }
-            ]
+            "s_region_slug": "manufahi-municipality"
         },
         {
-            "s_country_code": "tl",
-            "s_region_name": "Viqueque Municipality",
-            "s_region_slug": "viqueque-municipality",
             "cities": [
                 {
-                    "s_country_code": "tl",
-                    "s_region_slug": "viqueque-municipality",
                     "s_city_name": "Lacluta",
-                    "s_city_slug": "lacluta"
+                    "s_city_slug": "lacluta",
+                    "s_country_code": "tl",
+                    "s_region_slug": "viqueque-municipality"
                 },
                 {
-                    "s_country_code": "tl",
-                    "s_region_slug": "viqueque-municipality",
                     "s_city_name": "Ossu",
-                    "s_city_slug": "ossu"
+                    "s_city_slug": "ossu",
+                    "s_country_code": "tl",
+                    "s_region_slug": "viqueque-municipality"
                 },
                 {
-                    "s_country_code": "tl",
-                    "s_region_slug": "viqueque-municipality",
                     "s_city_name": "Uatocarabau",
-                    "s_city_slug": "uatocarabau"
+                    "s_city_slug": "uatocarabau",
+                    "s_country_code": "tl",
+                    "s_region_slug": "viqueque-municipality"
                 },
                 {
-                    "s_country_code": "tl",
-                    "s_region_slug": "viqueque-municipality",
                     "s_city_name": "Uatolari",
-                    "s_city_slug": "uatolari"
+                    "s_city_slug": "uatolari",
+                    "s_country_code": "tl",
+                    "s_region_slug": "viqueque-municipality"
                 },
                 {
-                    "s_country_code": "tl",
-                    "s_region_slug": "viqueque-municipality",
                     "s_city_name": "Viqueque",
-                    "s_city_slug": "viqueque"
+                    "s_city_slug": "viqueque",
+                    "s_country_code": "tl",
+                    "s_region_slug": "viqueque-municipality"
                 }
-            ]
+            ],
+            "s_country_code": "tl",
+            "s_region_name": "Viqueque Municipality",
+            "s_region_slug": "viqueque-municipality"
         }
-    ]
+    ],
+    "s_country_code": "TL",
+    "s_country_name": "East Timor",
+    "s_country_slug": "east-timor"
 }

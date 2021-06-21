@@ -1,556 +1,556 @@
 {
-    "s_country_code": "KM",
-    "s_country_name": "Comoros",
-    "s_country_slug": "comoros",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Adda-Doueni",
+                    "s_city_slug": "adda-doueni",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Antsahe",
+                    "s_city_slug": "antsahe",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Assimpao",
+                    "s_city_slug": "assimpao",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Bambao",
+                    "s_city_slug": "bambao",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Bandajou",
+                    "s_city_slug": "bandajou",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Barakani",
+                    "s_city_slug": "barakani",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Bimbini",
+                    "s_city_slug": "bimbini",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Boungoueni",
+                    "s_city_slug": "boungoueni",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Chandra",
+                    "s_city_slug": "chandra",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Chironkamba",
+                    "s_city_slug": "chironkamba",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Chitrouni",
+                    "s_city_slug": "chitrouni",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Daji",
+                    "s_city_slug": "daji",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Domoni",
+                    "s_city_slug": "domoni",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Dziani",
+                    "s_city_slug": "dziani",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Hajoho",
+                    "s_city_slug": "hajoho",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Harembo",
+                    "s_city_slug": "harembo",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Kangani",
+                    "s_city_slug": "kangani",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Kavani",
+                    "s_city_slug": "kavani",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Koki",
+                    "s_city_slug": "koki",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Koni-Djodjo",
+                    "s_city_slug": "koni-djodjo",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Koni-Ngani",
+                    "s_city_slug": "koni-ngani",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Kyo",
+                    "s_city_slug": "kyo",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Limbi",
+                    "s_city_slug": "limbi",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Lingoni",
+                    "s_city_slug": "lingoni",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Magnassini-Nindri",
+                    "s_city_slug": "magnassini-nindri",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Marahare",
+                    "s_city_slug": "marahare",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Mirontsi",
+                    "s_city_slug": "mirontsi",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Mjamaoue",
+                    "s_city_slug": "mjamaoue",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Mjimandra",
+                    "s_city_slug": "mjimandra",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Moutsamoudou",
+                    "s_city_slug": "moutsamoudou",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Moya",
+                    "s_city_slug": "moya",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Mramani",
+                    "s_city_slug": "mramani",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Mremani",
+                    "s_city_slug": "mremani",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Ongoni",
+                    "s_city_slug": "ongoni",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Ouani",
+                    "s_city_slug": "ouani",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Ouzini",
+                    "s_city_slug": "ouzini",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Paje",
+                    "s_city_slug": "paje",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Patsi",
+                    "s_city_slug": "patsi",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Sima",
+                    "s_city_slug": "sima",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Tsimbeo",
+                    "s_city_slug": "tsimbeo",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                },
+                {
+                    "s_city_name": "Vouani",
+                    "s_city_slug": "vouani",
+                    "s_country_code": "km",
+                    "s_region_slug": "anjouan"
+                }
+            ],
             "s_country_code": "km",
             "s_region_name": "Anjouan",
-            "s_region_slug": "anjouan",
-            "cities": [
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Adda-Doueni",
-                    "s_city_slug": "adda-doueni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Antsahe",
-                    "s_city_slug": "antsahe"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Assimpao",
-                    "s_city_slug": "assimpao"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Bambao",
-                    "s_city_slug": "bambao"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Bandajou",
-                    "s_city_slug": "bandajou"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Barakani",
-                    "s_city_slug": "barakani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Bimbini",
-                    "s_city_slug": "bimbini"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Boungoueni",
-                    "s_city_slug": "boungoueni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Chandra",
-                    "s_city_slug": "chandra"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Chironkamba",
-                    "s_city_slug": "chironkamba"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Chitrouni",
-                    "s_city_slug": "chitrouni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Daji",
-                    "s_city_slug": "daji"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Domoni",
-                    "s_city_slug": "domoni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Dziani",
-                    "s_city_slug": "dziani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Hajoho",
-                    "s_city_slug": "hajoho"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Harembo",
-                    "s_city_slug": "harembo"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Kangani",
-                    "s_city_slug": "kangani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Kavani",
-                    "s_city_slug": "kavani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Koki",
-                    "s_city_slug": "koki"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Koni-Djodjo",
-                    "s_city_slug": "koni-djodjo"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Koni-Ngani",
-                    "s_city_slug": "koni-ngani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Kyo",
-                    "s_city_slug": "kyo"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Limbi",
-                    "s_city_slug": "limbi"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Lingoni",
-                    "s_city_slug": "lingoni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Magnassini-Nindri",
-                    "s_city_slug": "magnassini-nindri"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Marahare",
-                    "s_city_slug": "marahare"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Mirontsi",
-                    "s_city_slug": "mirontsi"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Mjamaoue",
-                    "s_city_slug": "mjamaoue"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Mjimandra",
-                    "s_city_slug": "mjimandra"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Moutsamoudou",
-                    "s_city_slug": "moutsamoudou"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Moya",
-                    "s_city_slug": "moya"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Mramani",
-                    "s_city_slug": "mramani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Mremani",
-                    "s_city_slug": "mremani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Ongoni",
-                    "s_city_slug": "ongoni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Ouani",
-                    "s_city_slug": "ouani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Ouzini",
-                    "s_city_slug": "ouzini"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Paje",
-                    "s_city_slug": "paje"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Patsi",
-                    "s_city_slug": "patsi"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Sima",
-                    "s_city_slug": "sima"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Tsimbeo",
-                    "s_city_slug": "tsimbeo"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "anjouan",
-                    "s_city_name": "Vouani",
-                    "s_city_slug": "vouani"
-                }
-            ]
+            "s_region_slug": "anjouan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bahani",
+                    "s_city_slug": "bahani",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Bambadjani",
+                    "s_city_slug": "bambadjani",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Bouni",
+                    "s_city_slug": "bouni",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Chezani",
+                    "s_city_slug": "chezani",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Chindini",
+                    "s_city_slug": "chindini",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Chouani",
+                    "s_city_slug": "chouani",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Dembeni",
+                    "s_city_slug": "dembeni",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Douniani",
+                    "s_city_slug": "douniani",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Dzahadjou",
+                    "s_city_slug": "dzahadjou",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Foumbouni",
+                    "s_city_slug": "foumbouni",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Hantsindzi",
+                    "s_city_slug": "hantsindzi",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Heroumbili",
+                    "s_city_slug": "heroumbili",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Itsandra",
+                    "s_city_slug": "itsandra",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Itsandzeni",
+                    "s_city_slug": "itsandzeni",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Ivouani",
+                    "s_city_slug": "ivouani",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Koua",
+                    "s_city_slug": "koua",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Madjeoueni",
+                    "s_city_slug": "madjeoueni",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Mandza",
+                    "s_city_slug": "mandza",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Mavingouni",
+                    "s_city_slug": "mavingouni",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Mbeni",
+                    "s_city_slug": "mbeni",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Mitsamiouli",
+                    "s_city_slug": "mitsamiouli",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Mitsoudje",
+                    "s_city_slug": "mitsoudje",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Mnoungou",
+                    "s_city_slug": "mnoungou",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Mohoro",
+                    "s_city_slug": "mohoro",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Moroni",
+                    "s_city_slug": "moroni",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Mtsamdou",
+                    "s_city_slug": "mtsamdou",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Mvouni",
+                    "s_city_slug": "mvouni",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Nioumamilima",
+                    "s_city_slug": "nioumamilima",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Ntsaoueni",
+                    "s_city_slug": "ntsaoueni",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Ntsoudjini",
+                    "s_city_slug": "ntsoudjini",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Ouellah",
+                    "s_city_slug": "ouellah",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Ouhozi",
+                    "s_city_slug": "ouhozi",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Ouroveni",
+                    "s_city_slug": "ouroveni",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Oussivo",
+                    "s_city_slug": "oussivo",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Salimani",
+                    "s_city_slug": "salimani",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Selea",
+                    "s_city_slug": "selea",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Singani",
+                    "s_city_slug": "singani",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Tsidje",
+                    "s_city_slug": "tsidje",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Vanadjou",
+                    "s_city_slug": "vanadjou",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                },
+                {
+                    "s_city_name": "Vanambouani",
+                    "s_city_slug": "vanambouani",
+                    "s_country_code": "km",
+                    "s_region_slug": "grande-comore"
+                }
+            ],
             "s_country_code": "km",
             "s_region_name": "Grande Comore",
-            "s_region_slug": "grande-comore",
-            "cities": [
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Bahani",
-                    "s_city_slug": "bahani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Bambadjani",
-                    "s_city_slug": "bambadjani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Bouni",
-                    "s_city_slug": "bouni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Chezani",
-                    "s_city_slug": "chezani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Chindini",
-                    "s_city_slug": "chindini"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Chouani",
-                    "s_city_slug": "chouani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Dembeni",
-                    "s_city_slug": "dembeni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Douniani",
-                    "s_city_slug": "douniani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Dzahadjou",
-                    "s_city_slug": "dzahadjou"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Foumbouni",
-                    "s_city_slug": "foumbouni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Hantsindzi",
-                    "s_city_slug": "hantsindzi"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Heroumbili",
-                    "s_city_slug": "heroumbili"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Itsandra",
-                    "s_city_slug": "itsandra"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Itsandzeni",
-                    "s_city_slug": "itsandzeni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Ivouani",
-                    "s_city_slug": "ivouani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Koua",
-                    "s_city_slug": "koua"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Madjeoueni",
-                    "s_city_slug": "madjeoueni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Mandza",
-                    "s_city_slug": "mandza"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Mavingouni",
-                    "s_city_slug": "mavingouni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Mbeni",
-                    "s_city_slug": "mbeni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Mitsamiouli",
-                    "s_city_slug": "mitsamiouli"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Mitsoudje",
-                    "s_city_slug": "mitsoudje"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Mnoungou",
-                    "s_city_slug": "mnoungou"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Mohoro",
-                    "s_city_slug": "mohoro"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Moroni",
-                    "s_city_slug": "moroni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Mtsamdou",
-                    "s_city_slug": "mtsamdou"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Mvouni",
-                    "s_city_slug": "mvouni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Nioumamilima",
-                    "s_city_slug": "nioumamilima"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Ntsaoueni",
-                    "s_city_slug": "ntsaoueni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Ntsoudjini",
-                    "s_city_slug": "ntsoudjini"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Ouellah",
-                    "s_city_slug": "ouellah"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Ouhozi",
-                    "s_city_slug": "ouhozi"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Ouroveni",
-                    "s_city_slug": "ouroveni"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Oussivo",
-                    "s_city_slug": "oussivo"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Salimani",
-                    "s_city_slug": "salimani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Selea",
-                    "s_city_slug": "selea"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Singani",
-                    "s_city_slug": "singani"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Tsidje",
-                    "s_city_slug": "tsidje"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Vanadjou",
-                    "s_city_slug": "vanadjou"
-                },
-                {
-                    "s_country_code": "km",
-                    "s_region_slug": "grande-comore",
-                    "s_city_name": "Vanambouani",
-                    "s_city_slug": "vanambouani"
-                }
-            ]
+            "s_region_slug": "grande-comore"
         },
         {
-            "s_country_code": "km",
-            "s_region_name": "Moheli",
-            "s_region_slug": "moheli",
             "cities": [
                 {
-                    "s_country_code": "km",
-                    "s_region_slug": "moheli",
                     "s_city_name": "Djoyezi",
-                    "s_city_slug": "djoyezi"
+                    "s_city_slug": "djoyezi",
+                    "s_country_code": "km",
+                    "s_region_slug": "moheli"
                 },
                 {
-                    "s_country_code": "km",
-                    "s_region_slug": "moheli",
                     "s_city_name": "Fomboni",
-                    "s_city_slug": "fomboni"
+                    "s_city_slug": "fomboni",
+                    "s_country_code": "km",
+                    "s_region_slug": "moheli"
                 },
                 {
-                    "s_country_code": "km",
-                    "s_region_slug": "moheli",
                     "s_city_name": "Hoani",
-                    "s_city_slug": "hoani"
+                    "s_city_slug": "hoani",
+                    "s_country_code": "km",
+                    "s_region_slug": "moheli"
                 },
                 {
-                    "s_country_code": "km",
-                    "s_region_slug": "moheli",
                     "s_city_name": "Mtakoudja",
-                    "s_city_slug": "mtakoudja"
+                    "s_city_slug": "mtakoudja",
+                    "s_country_code": "km",
+                    "s_region_slug": "moheli"
                 },
                 {
-                    "s_country_code": "km",
-                    "s_region_slug": "moheli",
                     "s_city_name": "Nioumachoua",
-                    "s_city_slug": "nioumachoua"
+                    "s_city_slug": "nioumachoua",
+                    "s_country_code": "km",
+                    "s_region_slug": "moheli"
                 },
                 {
-                    "s_country_code": "km",
-                    "s_region_slug": "moheli",
                     "s_city_name": "Ouanani",
-                    "s_city_slug": "ouanani"
+                    "s_city_slug": "ouanani",
+                    "s_country_code": "km",
+                    "s_region_slug": "moheli"
                 },
                 {
-                    "s_country_code": "km",
-                    "s_region_slug": "moheli",
                     "s_city_name": "Ziroudani",
-                    "s_city_slug": "ziroudani"
+                    "s_city_slug": "ziroudani",
+                    "s_country_code": "km",
+                    "s_region_slug": "moheli"
                 }
-            ]
+            ],
+            "s_country_code": "km",
+            "s_region_name": "Moheli",
+            "s_region_slug": "moheli"
         }
-    ]
+    ],
+    "s_country_code": "KM",
+    "s_country_name": "Comoros",
+    "s_country_slug": "comoros"
 }

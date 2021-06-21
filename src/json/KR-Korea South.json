@@ -1,1980 +1,1980 @@
 {
-    "s_country_code": "KR",
-    "s_country_name": "Korea South",
-    "s_country_slug": "korea-south",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Buk-gu",
+                    "s_city_slug": "buk-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Busan",
+                    "s_city_slug": "busan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Dongnae-gu",
+                    "s_city_slug": "dongnae-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Gangseo-gu",
+                    "s_city_slug": "gangseo-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Geumjeong-gu",
+                    "s_city_slug": "geumjeong-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Gijang",
+                    "s_city_slug": "gijang",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Gijang-gun",
+                    "s_city_slug": "gijang-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Haeundae-gu",
+                    "s_city_slug": "haeundae-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Jung-gu",
+                    "s_city_slug": "jung-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Nam-gu",
+                    "s_city_slug": "nam-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Saha-gu",
+                    "s_city_slug": "saha-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Sasang-gu",
+                    "s_city_slug": "sasang-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Seo-gu",
+                    "s_city_slug": "seo-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Suyeong-gu",
+                    "s_city_slug": "suyeong-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                },
+                {
+                    "s_city_name": "Yeongdo-gu",
+                    "s_city_slug": "yeongdo-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "busan"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "Busan",
-            "s_region_slug": "busan",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Buk-gu",
-                    "s_city_slug": "buk-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Busan",
-                    "s_city_slug": "busan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Dongnae-gu",
-                    "s_city_slug": "dongnae-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Gangseo-gu",
-                    "s_city_slug": "gangseo-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Geumjeong-gu",
-                    "s_city_slug": "geumjeong-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Gijang",
-                    "s_city_slug": "gijang"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Gijang-gun",
-                    "s_city_slug": "gijang-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Haeundae-gu",
-                    "s_city_slug": "haeundae-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Jung-gu",
-                    "s_city_slug": "jung-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Nam-gu",
-                    "s_city_slug": "nam-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Saha-gu",
-                    "s_city_slug": "saha-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Sasang-gu",
-                    "s_city_slug": "sasang-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Seo-gu",
-                    "s_city_slug": "seo-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Suyeong-gu",
-                    "s_city_slug": "suyeong-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "busan",
-                    "s_city_name": "Yeongdo-gu",
-                    "s_city_slug": "yeongdo-gu"
-                }
-            ]
+            "s_region_slug": "busan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Daegu",
+                    "s_city_slug": "daegu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daegu"
+                },
+                {
+                    "s_city_name": "Dalseo-gu",
+                    "s_city_slug": "dalseo-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daegu"
+                },
+                {
+                    "s_city_name": "Dalseong-gun",
+                    "s_city_slug": "dalseong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daegu"
+                },
+                {
+                    "s_city_name": "Dong-gu",
+                    "s_city_slug": "dong-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daegu"
+                },
+                {
+                    "s_city_name": "Hwawon",
+                    "s_city_slug": "hwawon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daegu"
+                },
+                {
+                    "s_city_name": "Jung-gu",
+                    "s_city_slug": "jung-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daegu"
+                },
+                {
+                    "s_city_name": "Seo-gu",
+                    "s_city_slug": "seo-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daegu"
+                },
+                {
+                    "s_city_name": "Suseong-gu",
+                    "s_city_slug": "suseong-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daegu"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "Daegu",
-            "s_region_slug": "daegu",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daegu",
-                    "s_city_name": "Daegu",
-                    "s_city_slug": "daegu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daegu",
-                    "s_city_name": "Dalseo-gu",
-                    "s_city_slug": "dalseo-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daegu",
-                    "s_city_name": "Dalseong-gun",
-                    "s_city_slug": "dalseong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daegu",
-                    "s_city_name": "Dong-gu",
-                    "s_city_slug": "dong-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daegu",
-                    "s_city_name": "Hwawon",
-                    "s_city_slug": "hwawon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daegu",
-                    "s_city_name": "Jung-gu",
-                    "s_city_slug": "jung-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daegu",
-                    "s_city_name": "Seo-gu",
-                    "s_city_slug": "seo-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daegu",
-                    "s_city_name": "Suseong-gu",
-                    "s_city_slug": "suseong-gu"
-                }
-            ]
+            "s_region_slug": "daegu"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Daejeon",
+                    "s_city_slug": "daejeon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daejeon"
+                },
+                {
+                    "s_city_name": "Seo-gu",
+                    "s_city_slug": "seo-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daejeon"
+                },
+                {
+                    "s_city_name": "Sintansin",
+                    "s_city_slug": "sintansin",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daejeon"
+                },
+                {
+                    "s_city_name": "Songgangdong",
+                    "s_city_slug": "songgangdong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daejeon"
+                },
+                {
+                    "s_city_name": "Yuseong-gu",
+                    "s_city_slug": "yuseong-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "daejeon"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "Daejeon",
-            "s_region_slug": "daejeon",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daejeon",
-                    "s_city_name": "Daejeon",
-                    "s_city_slug": "daejeon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daejeon",
-                    "s_city_name": "Seo-gu",
-                    "s_city_slug": "seo-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daejeon",
-                    "s_city_name": "Sintansin",
-                    "s_city_slug": "sintansin"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daejeon",
-                    "s_city_name": "Songgangdong",
-                    "s_city_slug": "songgangdong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "daejeon",
-                    "s_city_name": "Yuseong-gu",
-                    "s_city_slug": "yuseong-gu"
-                }
-            ]
+            "s_region_slug": "daejeon"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Cheorwon-gun",
+                    "s_city_slug": "cheorwon-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Chuncheon",
+                    "s_city_slug": "chuncheon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Chuncheon-si",
+                    "s_city_slug": "chuncheon-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Donghae-si",
+                    "s_city_slug": "donghae-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Gangneung",
+                    "s_city_slug": "gangneung",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Gangneung-si",
+                    "s_city_slug": "gangneung-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Goseong-gun",
+                    "s_city_slug": "goseong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Hoengseong-gun",
+                    "s_city_slug": "hoengseong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Hongcheon-gun",
+                    "s_city_slug": "hongcheon-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Hongchon",
+                    "s_city_slug": "hongchon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Hwacheon",
+                    "s_city_slug": "hwacheon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Hwacheon-gun",
+                    "s_city_slug": "hwacheon-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Inje-gun",
+                    "s_city_slug": "inje-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Jeongseon-gun",
+                    "s_city_slug": "jeongseon-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Kosong",
+                    "s_city_slug": "kosong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Neietsu",
+                    "s_city_slug": "neietsu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Pyeongchang",
+                    "s_city_slug": "pyeongchang",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Pyeongchang-gun",
+                    "s_city_slug": "pyeongchang-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Samcheok-si",
+                    "s_city_slug": "samcheok-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Santyoku",
+                    "s_city_slug": "santyoku",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Sokcho",
+                    "s_city_slug": "sokcho",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Sokcho-si",
+                    "s_city_slug": "sokcho-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Taebaek",
+                    "s_city_slug": "taebaek",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Taebaek-si",
+                    "s_city_slug": "taebaek-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Tonghae",
+                    "s_city_slug": "tonghae",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Wonju",
+                    "s_city_slug": "wonju",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Wonju-si",
+                    "s_city_slug": "wonju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Yanggu",
+                    "s_city_slug": "yanggu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Yanggu-gun",
+                    "s_city_slug": "yanggu-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                },
+                {
+                    "s_city_name": "Yangyang-gun",
+                    "s_city_slug": "yangyang-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gangwon-province"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "Gangwon Province",
-            "s_region_slug": "gangwon-province",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Cheorwon-gun",
-                    "s_city_slug": "cheorwon-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Chuncheon",
-                    "s_city_slug": "chuncheon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Chuncheon-si",
-                    "s_city_slug": "chuncheon-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Donghae-si",
-                    "s_city_slug": "donghae-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Gangneung",
-                    "s_city_slug": "gangneung"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Gangneung-si",
-                    "s_city_slug": "gangneung-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Goseong-gun",
-                    "s_city_slug": "goseong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Hoengseong-gun",
-                    "s_city_slug": "hoengseong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Hongchon",
-                    "s_city_slug": "hongchon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Hongcheon-gun",
-                    "s_city_slug": "hongcheon-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Hwacheon",
-                    "s_city_slug": "hwacheon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Hwacheon-gun",
-                    "s_city_slug": "hwacheon-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Inje-gun",
-                    "s_city_slug": "inje-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Jeongseon-gun",
-                    "s_city_slug": "jeongseon-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Kosong",
-                    "s_city_slug": "kosong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Neietsu",
-                    "s_city_slug": "neietsu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Pyeongchang",
-                    "s_city_slug": "pyeongchang"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Pyeongchang-gun",
-                    "s_city_slug": "pyeongchang-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Samcheok-si",
-                    "s_city_slug": "samcheok-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Santyoku",
-                    "s_city_slug": "santyoku"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Sokcho",
-                    "s_city_slug": "sokcho"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Sokcho-si",
-                    "s_city_slug": "sokcho-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Taebaek",
-                    "s_city_slug": "taebaek"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Taebaek-si",
-                    "s_city_slug": "taebaek-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Tonghae",
-                    "s_city_slug": "tonghae"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Wonju",
-                    "s_city_slug": "wonju"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Wonju-si",
-                    "s_city_slug": "wonju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Yanggu",
-                    "s_city_slug": "yanggu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Yanggu-gun",
-                    "s_city_slug": "yanggu-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gangwon-province",
-                    "s_city_name": "Yangyang-gun",
-                    "s_city_slug": "yangyang-gun"
-                }
-            ]
+            "s_region_slug": "gangwon-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Gwangju",
+                    "s_city_slug": "gwangju",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gwangju"
+                },
+                {
+                    "s_city_name": "Gwangsan-gu",
+                    "s_city_slug": "gwangsan-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gwangju"
+                },
+                {
+                    "s_city_name": "Masan",
+                    "s_city_slug": "masan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gwangju"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "Gwangju",
-            "s_region_slug": "gwangju",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gwangju",
-                    "s_city_name": "Gwangju",
-                    "s_city_slug": "gwangju"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gwangju",
-                    "s_city_name": "Gwangsan-gu",
-                    "s_city_slug": "gwangsan-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gwangju",
-                    "s_city_name": "Masan",
-                    "s_city_slug": "masan"
-                }
-            ]
+            "s_region_slug": "gwangju"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ansan-si",
+                    "s_city_slug": "ansan-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Anseong",
+                    "s_city_slug": "anseong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Anyang-si",
+                    "s_city_slug": "anyang-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Bucheon-si",
+                    "s_city_slug": "bucheon-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Dongducheon",
+                    "s_city_slug": "dongducheon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Gapyeong",
+                    "s_city_slug": "gapyeong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Gapyeong-gun",
+                    "s_city_slug": "gapyeong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Gimpo-si",
+                    "s_city_slug": "gimpo-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Goyang-si",
+                    "s_city_slug": "goyang-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Gunpo-si",
+                    "s_city_slug": "gunpo-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Guri-si",
+                    "s_city_slug": "guri-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Gwacheon-si",
+                    "s_city_slug": "gwacheon-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Gwangju",
+                    "s_city_slug": "gwangju",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Gwangju-si",
+                    "s_city_slug": "gwangju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Gwangmyeong-si",
+                    "s_city_slug": "gwangmyeong-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Hanam",
+                    "s_city_slug": "hanam",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Hanam-si",
+                    "s_city_slug": "hanam-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Hwado",
+                    "s_city_slug": "hwado",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Hwaseong-si",
+                    "s_city_slug": "hwaseong-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Icheon-si",
+                    "s_city_slug": "icheon-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Kwangmyong",
+                    "s_city_slug": "kwangmyong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Munsan",
+                    "s_city_slug": "munsan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Namyangju",
+                    "s_city_slug": "namyangju",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Namyangju-si",
+                    "s_city_slug": "namyangju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Osan",
+                    "s_city_slug": "osan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Osan-si",
+                    "s_city_slug": "osan-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Paju-si",
+                    "s_city_slug": "paju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Pocheon-si",
+                    "s_city_slug": "pocheon-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Pubal",
+                    "s_city_slug": "pubal",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Pyeongtaek",
+                    "s_city_slug": "pyeongtaek",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Seongnam-si",
+                    "s_city_slug": "seongnam-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Siheung",
+                    "s_city_slug": "siheung",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Suwon",
+                    "s_city_slug": "suwon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Uijeongbu-si",
+                    "s_city_slug": "uijeongbu-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Uiwang-si",
+                    "s_city_slug": "uiwang-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Wabu",
+                    "s_city_slug": "wabu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Yangju",
+                    "s_city_slug": "yangju",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Yangju-si",
+                    "s_city_slug": "yangju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Yangp'yong",
+                    "s_city_slug": "yangpyong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Yangpyeong-gun",
+                    "s_city_slug": "yangpyeong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Yeoju-si",
+                    "s_city_slug": "yeoju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Yeoncheon-gun",
+                    "s_city_slug": "yeoncheon-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                },
+                {
+                    "s_city_name": "Yongin-si",
+                    "s_city_slug": "yongin-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "gyeonggi-province"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "Gyeonggi Province",
-            "s_region_slug": "gyeonggi-province",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Ansan-si",
-                    "s_city_slug": "ansan-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Anseong",
-                    "s_city_slug": "anseong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Anyang-si",
-                    "s_city_slug": "anyang-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Bucheon-si",
-                    "s_city_slug": "bucheon-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Dongducheon",
-                    "s_city_slug": "dongducheon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Gapyeong",
-                    "s_city_slug": "gapyeong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Gapyeong-gun",
-                    "s_city_slug": "gapyeong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Gimpo-si",
-                    "s_city_slug": "gimpo-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Goyang-si",
-                    "s_city_slug": "goyang-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Gunpo-si",
-                    "s_city_slug": "gunpo-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Guri-si",
-                    "s_city_slug": "guri-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Gwacheon-si",
-                    "s_city_slug": "gwacheon-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Gwangju",
-                    "s_city_slug": "gwangju"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Gwangju-si",
-                    "s_city_slug": "gwangju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Gwangmyeong-si",
-                    "s_city_slug": "gwangmyeong-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Hanam",
-                    "s_city_slug": "hanam"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Hanam-si",
-                    "s_city_slug": "hanam-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Hwado",
-                    "s_city_slug": "hwado"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Hwaseong-si",
-                    "s_city_slug": "hwaseong-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Icheon-si",
-                    "s_city_slug": "icheon-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Kwangmyong",
-                    "s_city_slug": "kwangmyong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Munsan",
-                    "s_city_slug": "munsan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Namyangju",
-                    "s_city_slug": "namyangju"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Namyangju-si",
-                    "s_city_slug": "namyangju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Osan",
-                    "s_city_slug": "osan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Osan-si",
-                    "s_city_slug": "osan-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Paju-si",
-                    "s_city_slug": "paju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Pocheon-si",
-                    "s_city_slug": "pocheon-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Pubal",
-                    "s_city_slug": "pubal"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Pyeongtaek",
-                    "s_city_slug": "pyeongtaek"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Seongnam-si",
-                    "s_city_slug": "seongnam-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Siheung",
-                    "s_city_slug": "siheung"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Suwon",
-                    "s_city_slug": "suwon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Uijeongbu-si",
-                    "s_city_slug": "uijeongbu-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Uiwang-si",
-                    "s_city_slug": "uiwang-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Wabu",
-                    "s_city_slug": "wabu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Yangju",
-                    "s_city_slug": "yangju"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Yangju-si",
-                    "s_city_slug": "yangju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Yangp'yong",
-                    "s_city_slug": "yangpyong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Yangpyeong-gun",
-                    "s_city_slug": "yangpyeong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Yeoju-si",
-                    "s_city_slug": "yeoju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Yeoncheon-gun",
-                    "s_city_slug": "yeoncheon-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "gyeonggi-province",
-                    "s_city_name": "Yongin-si",
-                    "s_city_slug": "yongin-si"
-                }
-            ]
+            "s_region_slug": "gyeonggi-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bupyeong-gu",
+                    "s_city_slug": "bupyeong-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "incheon"
+                },
+                {
+                    "s_city_name": "Incheon",
+                    "s_city_slug": "incheon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "incheon"
+                },
+                {
+                    "s_city_name": "Michuhol",
+                    "s_city_slug": "michuhol",
+                    "s_country_code": "kr",
+                    "s_region_slug": "incheon"
+                },
+                {
+                    "s_city_name": "Yeonsu-gu",
+                    "s_city_slug": "yeonsu-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "incheon"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "Incheon",
-            "s_region_slug": "incheon",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "incheon",
-                    "s_city_name": "Bupyeong-gu",
-                    "s_city_slug": "bupyeong-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "incheon",
-                    "s_city_name": "Incheon",
-                    "s_city_slug": "incheon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "incheon",
-                    "s_city_name": "Michuhol",
-                    "s_city_slug": "michuhol"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "incheon",
-                    "s_city_name": "Yeonsu-gu",
-                    "s_city_slug": "yeonsu-gu"
-                }
-            ]
+            "s_region_slug": "incheon"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Gaigeturi",
+                    "s_city_slug": "gaigeturi",
+                    "s_country_code": "kr",
+                    "s_region_slug": "jeju"
+                },
+                {
+                    "s_city_name": "Jeju City",
+                    "s_city_slug": "jeju-city",
+                    "s_country_code": "kr",
+                    "s_region_slug": "jeju"
+                },
+                {
+                    "s_city_name": "Jeju-si",
+                    "s_city_slug": "jeju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "jeju"
+                },
+                {
+                    "s_city_name": "Seogwipo",
+                    "s_city_slug": "seogwipo",
+                    "s_country_code": "kr",
+                    "s_region_slug": "jeju"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "Jeju",
-            "s_region_slug": "jeju",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "jeju",
-                    "s_city_name": "Gaigeturi",
-                    "s_city_slug": "gaigeturi"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "jeju",
-                    "s_city_name": "Jeju City",
-                    "s_city_slug": "jeju-city"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "jeju",
-                    "s_city_name": "Jeju-si",
-                    "s_city_slug": "jeju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "jeju",
-                    "s_city_name": "Seogwipo",
-                    "s_city_slug": "seogwipo"
-                }
-            ]
+            "s_region_slug": "jeju"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Boeun-gun",
+                    "s_city_slug": "boeun-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Cheongju-si",
+                    "s_city_slug": "cheongju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Chinch'on",
+                    "s_city_slug": "chinchon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Chungju-si",
+                    "s_city_slug": "chungju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Danyang-gun",
+                    "s_city_slug": "danyang-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Eumseong-gun",
+                    "s_city_slug": "eumseong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Goesan-gun",
+                    "s_city_slug": "goesan-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Jecheon-si",
+                    "s_city_slug": "jecheon-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Jeungpyeong-gun",
+                    "s_city_slug": "jeungpyeong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Jincheon-gun",
+                    "s_city_slug": "jincheon-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Koesan",
+                    "s_city_slug": "koesan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Okcheon",
+                    "s_city_slug": "okcheon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Okcheon-gun",
+                    "s_city_slug": "okcheon-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Yeongdong",
+                    "s_city_slug": "yeongdong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Yeongdong-gun",
+                    "s_city_slug": "yeongdong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-chungcheong-province"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "North Chungcheong Province",
-            "s_region_slug": "north-chungcheong-province",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Boeun-gun",
-                    "s_city_slug": "boeun-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Cheongju-si",
-                    "s_city_slug": "cheongju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Chinch'on",
-                    "s_city_slug": "chinchon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Chungju-si",
-                    "s_city_slug": "chungju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Danyang-gun",
-                    "s_city_slug": "danyang-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Eumseong-gun",
-                    "s_city_slug": "eumseong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Goesan-gun",
-                    "s_city_slug": "goesan-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Jecheon-si",
-                    "s_city_slug": "jecheon-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Jeungpyeong-gun",
-                    "s_city_slug": "jeungpyeong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Jincheon-gun",
-                    "s_city_slug": "jincheon-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Koesan",
-                    "s_city_slug": "koesan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Okcheon",
-                    "s_city_slug": "okcheon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Okcheon-gun",
-                    "s_city_slug": "okcheon-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Yeongdong",
-                    "s_city_slug": "yeongdong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-chungcheong-province",
-                    "s_city_name": "Yeongdong-gun",
-                    "s_city_slug": "yeongdong-gun"
-                }
-            ]
+            "s_region_slug": "north-chungcheong-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Andong",
+                    "s_city_slug": "andong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Andong-si",
+                    "s_city_slug": "andong-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Bonghwa-gun",
+                    "s_city_slug": "bonghwa-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Cheongdo-gun",
+                    "s_city_slug": "cheongdo-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Cheongsong gun",
+                    "s_city_slug": "cheongsong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Cheongsong-gun",
+                    "s_city_slug": "cheongsong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Chilgok-gun",
+                    "s_city_slug": "chilgok-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Eisen",
+                    "s_city_slug": "eisen",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Gimcheon",
+                    "s_city_slug": "gimcheon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Gimcheon-si",
+                    "s_city_slug": "gimcheon-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Goryeong-gun",
+                    "s_city_slug": "goryeong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Gumi-si",
+                    "s_city_slug": "gumi-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Gunwi-gun",
+                    "s_city_slug": "gunwi-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Gyeongju",
+                    "s_city_slug": "gyeongju",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Gyeongsan-si",
+                    "s_city_slug": "gyeongsan-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Hayang",
+                    "s_city_slug": "hayang",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Heunghae",
+                    "s_city_slug": "heunghae",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Jenzan",
+                    "s_city_slug": "jenzan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Kunwi",
+                    "s_city_slug": "kunwi",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Mungyeong",
+                    "s_city_slug": "mungyeong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Mungyeong-si",
+                    "s_city_slug": "mungyeong-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Pohang",
+                    "s_city_slug": "pohang",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Pohang-si",
+                    "s_city_slug": "pohang-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Sangju",
+                    "s_city_slug": "sangju",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Seongju-gun",
+                    "s_city_slug": "seongju-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Uiseong-gun",
+                    "s_city_slug": "uiseong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Uljin-gun",
+                    "s_city_slug": "uljin-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Ulleung-gun",
+                    "s_city_slug": "ulleung-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Waegwan",
+                    "s_city_slug": "waegwan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Yecheon-gun",
+                    "s_city_slug": "yecheon-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Yeongcheon-si",
+                    "s_city_slug": "yeongcheon-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Yeongdeok-gun",
+                    "s_city_slug": "yeongdeok-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Yeongju-si",
+                    "s_city_slug": "yeongju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Yeongyang-gun",
+                    "s_city_slug": "yeongyang-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Yeonil",
+                    "s_city_slug": "yeonil",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-gyeongsang-province"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "North Gyeongsang Province",
-            "s_region_slug": "north-gyeongsang-province",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Andong",
-                    "s_city_slug": "andong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Andong-si",
-                    "s_city_slug": "andong-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Bonghwa-gun",
-                    "s_city_slug": "bonghwa-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Cheongdo-gun",
-                    "s_city_slug": "cheongdo-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Cheongsong gun",
-                    "s_city_slug": "cheongsong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Cheongsong-gun",
-                    "s_city_slug": "cheongsong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Chilgok-gun",
-                    "s_city_slug": "chilgok-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Eisen",
-                    "s_city_slug": "eisen"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Gimcheon",
-                    "s_city_slug": "gimcheon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Gimcheon-si",
-                    "s_city_slug": "gimcheon-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Goryeong-gun",
-                    "s_city_slug": "goryeong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Gumi-si",
-                    "s_city_slug": "gumi-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Gunwi-gun",
-                    "s_city_slug": "gunwi-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Gyeongju",
-                    "s_city_slug": "gyeongju"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Gyeongsan-si",
-                    "s_city_slug": "gyeongsan-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Hayang",
-                    "s_city_slug": "hayang"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Heunghae",
-                    "s_city_slug": "heunghae"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Jenzan",
-                    "s_city_slug": "jenzan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Kunwi",
-                    "s_city_slug": "kunwi"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Mungyeong",
-                    "s_city_slug": "mungyeong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Mungyeong-si",
-                    "s_city_slug": "mungyeong-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Pohang",
-                    "s_city_slug": "pohang"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Pohang-si",
-                    "s_city_slug": "pohang-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Sangju",
-                    "s_city_slug": "sangju"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Seongju-gun",
-                    "s_city_slug": "seongju-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Uiseong-gun",
-                    "s_city_slug": "uiseong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Uljin-gun",
-                    "s_city_slug": "uljin-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Ulleung-gun",
-                    "s_city_slug": "ulleung-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Waegwan",
-                    "s_city_slug": "waegwan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Yecheon-gun",
-                    "s_city_slug": "yecheon-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Yeongcheon-si",
-                    "s_city_slug": "yeongcheon-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Yeongdeok-gun",
-                    "s_city_slug": "yeongdeok-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Yeongju-si",
-                    "s_city_slug": "yeongju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Yeongyang-gun",
-                    "s_city_slug": "yeongyang-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-gyeongsang-province",
-                    "s_city_name": "Yeonil",
-                    "s_city_slug": "yeonil"
-                }
-            ]
+            "s_region_slug": "north-gyeongsang-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Buan-gun",
+                    "s_city_slug": "buan-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Changsu",
+                    "s_city_slug": "changsu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Gimje-si",
+                    "s_city_slug": "gimje-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Gochang-gun",
+                    "s_city_slug": "gochang-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Gunsan",
+                    "s_city_slug": "gunsan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Gunsan-si",
+                    "s_city_slug": "gunsan-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Iksan",
+                    "s_city_slug": "iksan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Iksan-si",
+                    "s_city_slug": "iksan-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Imsil",
+                    "s_city_slug": "imsil",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Imsil-gun",
+                    "s_city_slug": "imsil-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Jangsu-gun",
+                    "s_city_slug": "jangsu-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Jeongeup",
+                    "s_city_slug": "jeongeup",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Jeongeup-si",
+                    "s_city_slug": "jeongeup-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Jeonju",
+                    "s_city_slug": "jeonju",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Jeonju-si",
+                    "s_city_slug": "jeonju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Jinan-gun",
+                    "s_city_slug": "jinan-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Kimje",
+                    "s_city_slug": "kimje",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Koch'ang",
+                    "s_city_slug": "kochang",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Muju-gun",
+                    "s_city_slug": "muju-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Namwon",
+                    "s_city_slug": "namwon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Nangen",
+                    "s_city_slug": "nangen",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Puan",
+                    "s_city_slug": "puan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Sunchang-gun",
+                    "s_city_slug": "sunchang-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                },
+                {
+                    "s_city_name": "Wanju",
+                    "s_city_slug": "wanju",
+                    "s_country_code": "kr",
+                    "s_region_slug": "north-jeolla-province"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "North Jeolla Province",
-            "s_region_slug": "north-jeolla-province",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Buan-gun",
-                    "s_city_slug": "buan-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Changsu",
-                    "s_city_slug": "changsu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Gimje-si",
-                    "s_city_slug": "gimje-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Gochang-gun",
-                    "s_city_slug": "gochang-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Gunsan",
-                    "s_city_slug": "gunsan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Gunsan-si",
-                    "s_city_slug": "gunsan-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Iksan",
-                    "s_city_slug": "iksan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Iksan-si",
-                    "s_city_slug": "iksan-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Imsil",
-                    "s_city_slug": "imsil"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Imsil-gun",
-                    "s_city_slug": "imsil-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Jangsu-gun",
-                    "s_city_slug": "jangsu-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Jeongeup",
-                    "s_city_slug": "jeongeup"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Jeongeup-si",
-                    "s_city_slug": "jeongeup-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Jeonju",
-                    "s_city_slug": "jeonju"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Jeonju-si",
-                    "s_city_slug": "jeonju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Jinan-gun",
-                    "s_city_slug": "jinan-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Kimje",
-                    "s_city_slug": "kimje"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Koch'ang",
-                    "s_city_slug": "kochang"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Muju-gun",
-                    "s_city_slug": "muju-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Namwon",
-                    "s_city_slug": "namwon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Nangen",
-                    "s_city_slug": "nangen"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Puan",
-                    "s_city_slug": "puan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Sunchang-gun",
-                    "s_city_slug": "sunchang-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "north-jeolla-province",
-                    "s_city_name": "Wanju",
-                    "s_city_slug": "wanju"
-                }
-            ]
+            "s_region_slug": "north-jeolla-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Sejong",
+                    "s_city_slug": "sejong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "sejong-city"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "Sejong City",
-            "s_region_slug": "sejong-city",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "sejong-city",
-                    "s_city_name": "Sejong",
-                    "s_city_slug": "sejong"
-                }
-            ]
+            "s_region_slug": "sejong-city"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Dobong-gu",
+                    "s_city_slug": "dobong-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Dongdaemun-gu",
+                    "s_city_slug": "dongdaemun-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Dongjak-gu",
+                    "s_city_slug": "dongjak-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Eunpyeong-gu",
+                    "s_city_slug": "eunpyeong-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Gangbuk-gu",
+                    "s_city_slug": "gangbuk-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Gangdong-gu",
+                    "s_city_slug": "gangdong-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Gangnam-gu",
+                    "s_city_slug": "gangnam-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Gangseo-gu",
+                    "s_city_slug": "gangseo-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Geumcheon-gu",
+                    "s_city_slug": "geumcheon-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Guro-gu",
+                    "s_city_slug": "guro-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Gwanak-gu",
+                    "s_city_slug": "gwanak-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Gwangjin-gu",
+                    "s_city_slug": "gwangjin-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Jongno-gu",
+                    "s_city_slug": "jongno-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Jung-gu",
+                    "s_city_slug": "jung-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Jungnang-gu",
+                    "s_city_slug": "jungnang-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Mapo-gu",
+                    "s_city_slug": "mapo-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Nowon-gu",
+                    "s_city_slug": "nowon-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Seocho-gu",
+                    "s_city_slug": "seocho-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Seodaemun-gu",
+                    "s_city_slug": "seodaemun-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Seongbuk-gu",
+                    "s_city_slug": "seongbuk-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Seongdong-gu",
+                    "s_city_slug": "seongdong-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Seoul",
+                    "s_city_slug": "seoul",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Songpa-gu",
+                    "s_city_slug": "songpa-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Yangcheon-gu",
+                    "s_city_slug": "yangcheon-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Yeongdeungpo-gu",
+                    "s_city_slug": "yeongdeungpo-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Yongsan-dong",
+                    "s_city_slug": "yongsan-dong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                },
+                {
+                    "s_city_name": "Yongsan-gu",
+                    "s_city_slug": "yongsan-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "seoul"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "Seoul",
-            "s_region_slug": "seoul",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Dobong-gu",
-                    "s_city_slug": "dobong-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Dongdaemun-gu",
-                    "s_city_slug": "dongdaemun-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Dongjak-gu",
-                    "s_city_slug": "dongjak-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Eunpyeong-gu",
-                    "s_city_slug": "eunpyeong-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Gangbuk-gu",
-                    "s_city_slug": "gangbuk-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Gangdong-gu",
-                    "s_city_slug": "gangdong-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Gangnam-gu",
-                    "s_city_slug": "gangnam-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Gangseo-gu",
-                    "s_city_slug": "gangseo-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Geumcheon-gu",
-                    "s_city_slug": "geumcheon-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Guro-gu",
-                    "s_city_slug": "guro-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Gwanak-gu",
-                    "s_city_slug": "gwanak-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Gwangjin-gu",
-                    "s_city_slug": "gwangjin-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Jongno-gu",
-                    "s_city_slug": "jongno-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Jung-gu",
-                    "s_city_slug": "jung-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Jungnang-gu",
-                    "s_city_slug": "jungnang-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Mapo-gu",
-                    "s_city_slug": "mapo-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Nowon-gu",
-                    "s_city_slug": "nowon-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Seocho-gu",
-                    "s_city_slug": "seocho-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Seodaemun-gu",
-                    "s_city_slug": "seodaemun-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Seongbuk-gu",
-                    "s_city_slug": "seongbuk-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Seongdong-gu",
-                    "s_city_slug": "seongdong-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Seoul",
-                    "s_city_slug": "seoul"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Songpa-gu",
-                    "s_city_slug": "songpa-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Yangcheon-gu",
-                    "s_city_slug": "yangcheon-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Yeongdeungpo-gu",
-                    "s_city_slug": "yeongdeungpo-gu"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Yongsan-dong",
-                    "s_city_slug": "yongsan-dong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "seoul",
-                    "s_city_name": "Yongsan-gu",
-                    "s_city_slug": "yongsan-gu"
-                }
-            ]
+            "s_region_slug": "seoul"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Asan",
+                    "s_city_slug": "asan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Asan-si",
+                    "s_city_slug": "asan-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Boryeong",
+                    "s_city_slug": "boryeong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Boryeong-si",
+                    "s_city_slug": "boryeong-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Buyeo",
+                    "s_city_slug": "buyeo",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Buyeo-gun",
+                    "s_city_slug": "buyeo-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Cheonan",
+                    "s_city_slug": "cheonan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Cheonan-si",
+                    "s_city_slug": "cheonan-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Cheongyang-gun",
+                    "s_city_slug": "cheongyang-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Geumsan-gun",
+                    "s_city_slug": "geumsan-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Gongju",
+                    "s_city_slug": "gongju",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Gongju-si",
+                    "s_city_slug": "gongju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Gyeryong-si",
+                    "s_city_slug": "gyeryong-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Hongseong",
+                    "s_city_slug": "hongseong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Hongseong-gun",
+                    "s_city_slug": "hongseong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Kinzan",
+                    "s_city_slug": "kinzan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Nonsan",
+                    "s_city_slug": "nonsan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Nonsan-si",
+                    "s_city_slug": "nonsan-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Seocheon-gun",
+                    "s_city_slug": "seocheon-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Seonghwan",
+                    "s_city_slug": "seonghwan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Seosan",
+                    "s_city_slug": "seosan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Seosan-si",
+                    "s_city_slug": "seosan-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Taean-gun",
+                    "s_city_slug": "taean-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Taesal-li",
+                    "s_city_slug": "taesal-li",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Tangjin",
+                    "s_city_slug": "tangjin",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Yesan",
+                    "s_city_slug": "yesan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Yesan-gun",
+                    "s_city_slug": "yesan-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                },
+                {
+                    "s_city_name": "Yonmu",
+                    "s_city_slug": "yonmu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-chungcheong-province"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "South Chungcheong Province",
-            "s_region_slug": "south-chungcheong-province",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Asan",
-                    "s_city_slug": "asan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Asan-si",
-                    "s_city_slug": "asan-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Boryeong",
-                    "s_city_slug": "boryeong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Boryeong-si",
-                    "s_city_slug": "boryeong-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Buyeo",
-                    "s_city_slug": "buyeo"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Buyeo-gun",
-                    "s_city_slug": "buyeo-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Cheonan",
-                    "s_city_slug": "cheonan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Cheonan-si",
-                    "s_city_slug": "cheonan-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Cheongyang-gun",
-                    "s_city_slug": "cheongyang-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Geumsan-gun",
-                    "s_city_slug": "geumsan-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Gongju",
-                    "s_city_slug": "gongju"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Gongju-si",
-                    "s_city_slug": "gongju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Gyeryong-si",
-                    "s_city_slug": "gyeryong-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Hongseong",
-                    "s_city_slug": "hongseong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Hongseong-gun",
-                    "s_city_slug": "hongseong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Kinzan",
-                    "s_city_slug": "kinzan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Nonsan",
-                    "s_city_slug": "nonsan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Nonsan-si",
-                    "s_city_slug": "nonsan-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Seocheon-gun",
-                    "s_city_slug": "seocheon-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Seonghwan",
-                    "s_city_slug": "seonghwan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Seosan",
-                    "s_city_slug": "seosan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Seosan-si",
-                    "s_city_slug": "seosan-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Taean-gun",
-                    "s_city_slug": "taean-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Taesal-li",
-                    "s_city_slug": "taesal-li"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Tangjin",
-                    "s_city_slug": "tangjin"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Yesan",
-                    "s_city_slug": "yesan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Yesan-gun",
-                    "s_city_slug": "yesan-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-chungcheong-province",
-                    "s_city_name": "Yonmu",
-                    "s_city_slug": "yonmu"
-                }
-            ]
+            "s_region_slug": "south-chungcheong-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Changnyeong",
+                    "s_city_slug": "changnyeong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Changnyeong-gun",
+                    "s_city_slug": "changnyeong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Changwon",
+                    "s_city_slug": "changwon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Changwon-si",
+                    "s_city_slug": "changwon-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Chinju",
+                    "s_city_slug": "chinju",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Geochang-gun",
+                    "s_city_slug": "geochang-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Geoje-si",
+                    "s_city_slug": "geoje-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Gimhae-si",
+                    "s_city_slug": "gimhae-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Goseong",
+                    "s_city_slug": "goseong",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Goseong-gun",
+                    "s_city_slug": "goseong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Hadong-gun",
+                    "s_city_slug": "hadong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Haman-gun",
+                    "s_city_slug": "haman-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Hapcheon-gun",
+                    "s_city_slug": "hapcheon-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Jinju-si",
+                    "s_city_slug": "jinju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Kimhae",
+                    "s_city_slug": "kimhae",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Kyosai",
+                    "s_city_slug": "kyosai",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Miryang",
+                    "s_city_slug": "miryang",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Miryang-si",
+                    "s_city_slug": "miryang-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Naeso",
+                    "s_city_slug": "naeso",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Namhae-gun",
+                    "s_city_slug": "namhae-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Sacheon-si",
+                    "s_city_slug": "sacheon-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Sancheong-gun",
+                    "s_city_slug": "sancheong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Sinhyeon",
+                    "s_city_slug": "sinhyeon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Uiryeong-gun",
+                    "s_city_slug": "uiryeong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Ungsang",
+                    "s_city_slug": "ungsang",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                },
+                {
+                    "s_city_name": "Yangsan",
+                    "s_city_slug": "yangsan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-gyeongsang-province"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "South Gyeongsang Province",
-            "s_region_slug": "south-gyeongsang-province",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Changnyeong",
-                    "s_city_slug": "changnyeong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Changnyeong-gun",
-                    "s_city_slug": "changnyeong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Changwon",
-                    "s_city_slug": "changwon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Changwon-si",
-                    "s_city_slug": "changwon-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Chinju",
-                    "s_city_slug": "chinju"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Geochang-gun",
-                    "s_city_slug": "geochang-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Geoje-si",
-                    "s_city_slug": "geoje-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Gimhae-si",
-                    "s_city_slug": "gimhae-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Goseong",
-                    "s_city_slug": "goseong"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Goseong-gun",
-                    "s_city_slug": "goseong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Hadong-gun",
-                    "s_city_slug": "hadong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Haman-gun",
-                    "s_city_slug": "haman-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Hapcheon-gun",
-                    "s_city_slug": "hapcheon-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Jinju-si",
-                    "s_city_slug": "jinju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Kimhae",
-                    "s_city_slug": "kimhae"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Kyosai",
-                    "s_city_slug": "kyosai"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Miryang",
-                    "s_city_slug": "miryang"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Miryang-si",
-                    "s_city_slug": "miryang-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Naeso",
-                    "s_city_slug": "naeso"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Namhae-gun",
-                    "s_city_slug": "namhae-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Sacheon-si",
-                    "s_city_slug": "sacheon-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Sancheong-gun",
-                    "s_city_slug": "sancheong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Sinhyeon",
-                    "s_city_slug": "sinhyeon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Uiryeong-gun",
-                    "s_city_slug": "uiryeong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Ungsang",
-                    "s_city_slug": "ungsang"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-gyeongsang-province",
-                    "s_city_name": "Yangsan",
-                    "s_city_slug": "yangsan"
-                }
-            ]
+            "s_region_slug": "south-gyeongsang-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Beolgyo",
+                    "s_city_slug": "beolgyo",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Boseong-gun",
+                    "s_city_slug": "boseong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Damyang-gun",
+                    "s_city_slug": "damyang-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Gangjin-gun",
+                    "s_city_slug": "gangjin-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Goheung-gun",
+                    "s_city_slug": "goheung-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Gokseong-gun",
+                    "s_city_slug": "gokseong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Gurye-gun",
+                    "s_city_slug": "gurye-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Gwangyang",
+                    "s_city_slug": "gwangyang",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Gwangyang-si",
+                    "s_city_slug": "gwangyang-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Haenam",
+                    "s_city_slug": "haenam",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Haenam-gun",
+                    "s_city_slug": "haenam-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Hampyeong-gun",
+                    "s_city_slug": "hampyeong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Hwasun",
+                    "s_city_slug": "hwasun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Hwasun-gun",
+                    "s_city_slug": "hwasun-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Jangheung-gun",
+                    "s_city_slug": "jangheung-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Jangseong-gun",
+                    "s_city_slug": "jangseong-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Jindo-gun",
+                    "s_city_slug": "jindo-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Kurye",
+                    "s_city_slug": "kurye",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Kwangyang",
+                    "s_city_slug": "kwangyang",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Mokpo",
+                    "s_city_slug": "mokpo",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Mokpo-si",
+                    "s_city_slug": "mokpo-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Muan",
+                    "s_city_slug": "muan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Muan-gun",
+                    "s_city_slug": "muan-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Naju",
+                    "s_city_slug": "naju",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Naju-si",
+                    "s_city_slug": "naju-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Sinan",
+                    "s_city_slug": "sinan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Sinan-gun",
+                    "s_city_slug": "sinan-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Suncheon",
+                    "s_city_slug": "suncheon",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Suncheon-si",
+                    "s_city_slug": "suncheon-si",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Wando-gun",
+                    "s_city_slug": "wando-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Yeongam",
+                    "s_city_slug": "yeongam",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Yeongam-gun",
+                    "s_city_slug": "yeongam-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Yeonggwang",
+                    "s_city_slug": "yeonggwang",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Yeonggwang-gun",
+                    "s_city_slug": "yeonggwang-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                },
+                {
+                    "s_city_name": "Yeosu",
+                    "s_city_slug": "yeosu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "south-jeolla-province"
+                }
+            ],
             "s_country_code": "kr",
             "s_region_name": "South Jeolla Province",
-            "s_region_slug": "south-jeolla-province",
-            "cities": [
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Beolgyo",
-                    "s_city_slug": "beolgyo"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Boseong-gun",
-                    "s_city_slug": "boseong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Damyang-gun",
-                    "s_city_slug": "damyang-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Gangjin-gun",
-                    "s_city_slug": "gangjin-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Goheung-gun",
-                    "s_city_slug": "goheung-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Gokseong-gun",
-                    "s_city_slug": "gokseong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Gurye-gun",
-                    "s_city_slug": "gurye-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Gwangyang",
-                    "s_city_slug": "gwangyang"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Gwangyang-si",
-                    "s_city_slug": "gwangyang-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Haenam",
-                    "s_city_slug": "haenam"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Haenam-gun",
-                    "s_city_slug": "haenam-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Hampyeong-gun",
-                    "s_city_slug": "hampyeong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Hwasun",
-                    "s_city_slug": "hwasun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Hwasun-gun",
-                    "s_city_slug": "hwasun-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Jangheung-gun",
-                    "s_city_slug": "jangheung-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Jangseong-gun",
-                    "s_city_slug": "jangseong-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Jindo-gun",
-                    "s_city_slug": "jindo-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Kurye",
-                    "s_city_slug": "kurye"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Kwangyang",
-                    "s_city_slug": "kwangyang"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Mokpo",
-                    "s_city_slug": "mokpo"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Mokpo-si",
-                    "s_city_slug": "mokpo-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Muan",
-                    "s_city_slug": "muan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Muan-gun",
-                    "s_city_slug": "muan-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Naju",
-                    "s_city_slug": "naju"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Naju-si",
-                    "s_city_slug": "naju-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Sinan",
-                    "s_city_slug": "sinan"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Sinan-gun",
-                    "s_city_slug": "sinan-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Suncheon",
-                    "s_city_slug": "suncheon"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Suncheon-si",
-                    "s_city_slug": "suncheon-si"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Wando-gun",
-                    "s_city_slug": "wando-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Yeongam",
-                    "s_city_slug": "yeongam"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Yeongam-gun",
-                    "s_city_slug": "yeongam-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Yeonggwang",
-                    "s_city_slug": "yeonggwang"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Yeonggwang-gun",
-                    "s_city_slug": "yeonggwang-gun"
-                },
-                {
-                    "s_country_code": "kr",
-                    "s_region_slug": "south-jeolla-province",
-                    "s_city_name": "Yeosu",
-                    "s_city_slug": "yeosu"
-                }
-            ]
+            "s_region_slug": "south-jeolla-province"
         },
         {
-            "s_country_code": "kr",
-            "s_region_name": "Ulsan",
-            "s_region_slug": "ulsan",
             "cities": [
                 {
-                    "s_country_code": "kr",
-                    "s_region_slug": "ulsan",
                     "s_city_name": "Buk-gu",
-                    "s_city_slug": "buk-gu"
+                    "s_city_slug": "buk-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "ulsan"
                 },
                 {
-                    "s_country_code": "kr",
-                    "s_region_slug": "ulsan",
                     "s_city_name": "Dong-gu",
-                    "s_city_slug": "dong-gu"
+                    "s_city_slug": "dong-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "ulsan"
                 },
                 {
-                    "s_country_code": "kr",
-                    "s_region_slug": "ulsan",
                     "s_city_name": "Jung-gu",
-                    "s_city_slug": "jung-gu"
+                    "s_city_slug": "jung-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "ulsan"
                 },
                 {
-                    "s_country_code": "kr",
-                    "s_region_slug": "ulsan",
                     "s_city_name": "Nam-gu",
-                    "s_city_slug": "nam-gu"
+                    "s_city_slug": "nam-gu",
+                    "s_country_code": "kr",
+                    "s_region_slug": "ulsan"
                 },
                 {
-                    "s_country_code": "kr",
-                    "s_region_slug": "ulsan",
                     "s_city_name": "Ulju-gun",
-                    "s_city_slug": "ulju-gun"
+                    "s_city_slug": "ulju-gun",
+                    "s_country_code": "kr",
+                    "s_region_slug": "ulsan"
                 },
                 {
-                    "s_country_code": "kr",
-                    "s_region_slug": "ulsan",
                     "s_city_name": "Ulsan",
-                    "s_city_slug": "ulsan"
+                    "s_city_slug": "ulsan",
+                    "s_country_code": "kr",
+                    "s_region_slug": "ulsan"
                 }
-            ]
+            ],
+            "s_country_code": "kr",
+            "s_region_name": "Ulsan",
+            "s_region_slug": "ulsan"
         }
-    ]
+    ],
+    "s_country_code": "KR",
+    "s_country_name": "Korea South",
+    "s_country_slug": "korea-south"
 }

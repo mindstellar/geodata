@@ -1,1010 +1,1010 @@
 {
-    "s_country_code": "CR",
-    "s_country_name": "Costa Rica",
-    "s_country_slug": "costa-rica",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Alajuela",
+                    "s_city_slug": "alajuela",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Atenas",
+                    "s_city_slug": "atenas",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Bijagua",
+                    "s_city_slug": "bijagua",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Carrillos",
+                    "s_city_slug": "carrillos",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Desamparados",
+                    "s_city_slug": "desamparados",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Esquipulas",
+                    "s_city_slug": "esquipulas",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Grecia",
+                    "s_city_slug": "grecia",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Guatuso",
+                    "s_city_slug": "guatuso",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "La Fortuna",
+                    "s_city_slug": "la-fortuna",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Los Chiles",
+                    "s_city_slug": "los-chiles",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Naranjo",
+                    "s_city_slug": "naranjo",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Orotina",
+                    "s_city_slug": "orotina",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Palmares",
+                    "s_city_slug": "palmares",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Pital",
+                    "s_city_slug": "pital",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Poas",
+                    "s_city_slug": "poas",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Pocosol",
+                    "s_city_slug": "pocosol",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Quesada",
+                    "s_city_slug": "quesada",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Rio Segundo",
+                    "s_city_slug": "rio-segundo",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Sabanilla",
+                    "s_city_slug": "sabanilla",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "San Carlos",
+                    "s_city_slug": "san-carlos",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "San Jose",
+                    "s_city_slug": "san-jose",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "San Juan",
+                    "s_city_slug": "san-juan",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "San Mateo",
+                    "s_city_slug": "san-mateo",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "San Rafael",
+                    "s_city_slug": "san-rafael",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "San Ramon",
+                    "s_city_slug": "san-ramon",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Santiago",
+                    "s_city_slug": "santiago",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Upala",
+                    "s_city_slug": "upala",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Valverde Vega",
+                    "s_city_slug": "valverde-vega",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                },
+                {
+                    "s_city_name": "Zarcero",
+                    "s_city_slug": "zarcero",
+                    "s_country_code": "cr",
+                    "s_region_slug": "alajuela-province"
+                }
+            ],
             "s_country_code": "cr",
             "s_region_name": "Alajuela Province",
-            "s_region_slug": "alajuela-province",
-            "cities": [
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Alajuela",
-                    "s_city_slug": "alajuela"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Atenas",
-                    "s_city_slug": "atenas"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Bijagua",
-                    "s_city_slug": "bijagua"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Carrillos",
-                    "s_city_slug": "carrillos"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Desamparados",
-                    "s_city_slug": "desamparados"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Esquipulas",
-                    "s_city_slug": "esquipulas"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Grecia",
-                    "s_city_slug": "grecia"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Guatuso",
-                    "s_city_slug": "guatuso"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "La Fortuna",
-                    "s_city_slug": "la-fortuna"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Los Chiles",
-                    "s_city_slug": "los-chiles"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Naranjo",
-                    "s_city_slug": "naranjo"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Orotina",
-                    "s_city_slug": "orotina"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Palmares",
-                    "s_city_slug": "palmares"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Pital",
-                    "s_city_slug": "pital"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Poas",
-                    "s_city_slug": "poas"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Pocosol",
-                    "s_city_slug": "pocosol"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Quesada",
-                    "s_city_slug": "quesada"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Rio Segundo",
-                    "s_city_slug": "rio-segundo"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Sabanilla",
-                    "s_city_slug": "sabanilla"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "San Carlos",
-                    "s_city_slug": "san-carlos"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "San Jose",
-                    "s_city_slug": "san-jose"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "San Juan",
-                    "s_city_slug": "san-juan"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "San Mateo",
-                    "s_city_slug": "san-mateo"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "San Rafael",
-                    "s_city_slug": "san-rafael"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "San Ramon",
-                    "s_city_slug": "san-ramon"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Santiago",
-                    "s_city_slug": "santiago"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Upala",
-                    "s_city_slug": "upala"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Valverde Vega",
-                    "s_city_slug": "valverde-vega"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "alajuela-province",
-                    "s_city_name": "Zarcero",
-                    "s_city_slug": "zarcero"
-                }
-            ]
+            "s_region_slug": "alajuela-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Abangares",
+                    "s_city_slug": "abangares",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Bagaces",
+                    "s_city_slug": "bagaces",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Belen",
+                    "s_city_slug": "belen",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Canas",
+                    "s_city_slug": "canas",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Carrillo",
+                    "s_city_slug": "carrillo",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Fortuna",
+                    "s_city_slug": "fortuna",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Hojancha",
+                    "s_city_slug": "hojancha",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Juntas",
+                    "s_city_slug": "juntas",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "La Cruz",
+                    "s_city_slug": "la-cruz",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Liberia",
+                    "s_city_slug": "liberia",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Nandayure",
+                    "s_city_slug": "nandayure",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Nicoya",
+                    "s_city_slug": "nicoya",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Samara",
+                    "s_city_slug": "samara",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Santa Cruz",
+                    "s_city_slug": "santa-cruz",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Sardinal",
+                    "s_city_slug": "sardinal",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                },
+                {
+                    "s_city_name": "Tilaran",
+                    "s_city_slug": "tilaran",
+                    "s_country_code": "cr",
+                    "s_region_slug": "guanacaste-province"
+                }
+            ],
             "s_country_code": "cr",
             "s_region_name": "Guanacaste Province",
-            "s_region_slug": "guanacaste-province",
-            "cities": [
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Abangares",
-                    "s_city_slug": "abangares"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Bagaces",
-                    "s_city_slug": "bagaces"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Belen",
-                    "s_city_slug": "belen"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Canas",
-                    "s_city_slug": "canas"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Carrillo",
-                    "s_city_slug": "carrillo"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Fortuna",
-                    "s_city_slug": "fortuna"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Hojancha",
-                    "s_city_slug": "hojancha"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Juntas",
-                    "s_city_slug": "juntas"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "La Cruz",
-                    "s_city_slug": "la-cruz"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Liberia",
-                    "s_city_slug": "liberia"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Nandayure",
-                    "s_city_slug": "nandayure"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Nicoya",
-                    "s_city_slug": "nicoya"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Samara",
-                    "s_city_slug": "samara"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Santa Cruz",
-                    "s_city_slug": "santa-cruz"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Sardinal",
-                    "s_city_slug": "sardinal"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "guanacaste-province",
-                    "s_city_name": "Tilaran",
-                    "s_city_slug": "tilaran"
-                }
-            ]
+            "s_region_slug": "guanacaste-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Angeles",
+                    "s_city_slug": "angeles",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "Barva",
+                    "s_city_slug": "barva",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "Belen",
+                    "s_city_slug": "belen",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "Flores",
+                    "s_city_slug": "flores",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "Heredia",
+                    "s_city_slug": "heredia",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "La Asuncion",
+                    "s_city_slug": "la-asuncion",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "Llorente",
+                    "s_city_slug": "llorente",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "Mercedes",
+                    "s_city_slug": "mercedes",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "San Antonio",
+                    "s_city_slug": "san-antonio",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "San Francisco",
+                    "s_city_slug": "san-francisco",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "San Isidro",
+                    "s_city_slug": "san-isidro",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "San Josecito",
+                    "s_city_slug": "san-josecito",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "San Pablo",
+                    "s_city_slug": "san-pablo",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "San Rafael",
+                    "s_city_slug": "san-rafael",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "Santa Barbara",
+                    "s_city_slug": "santa-barbara",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "Santo Domingo",
+                    "s_city_slug": "santo-domingo",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                },
+                {
+                    "s_city_name": "Sarapiqui",
+                    "s_city_slug": "sarapiqui",
+                    "s_country_code": "cr",
+                    "s_region_slug": "heredia-province"
+                }
+            ],
             "s_country_code": "cr",
             "s_region_name": "Heredia Province",
-            "s_region_slug": "heredia-province",
-            "cities": [
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "Angeles",
-                    "s_city_slug": "angeles"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "Barva",
-                    "s_city_slug": "barva"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "Belen",
-                    "s_city_slug": "belen"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "Flores",
-                    "s_city_slug": "flores"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "Heredia",
-                    "s_city_slug": "heredia"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "La Asuncion",
-                    "s_city_slug": "la-asuncion"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "Llorente",
-                    "s_city_slug": "llorente"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "Mercedes",
-                    "s_city_slug": "mercedes"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "San Antonio",
-                    "s_city_slug": "san-antonio"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "San Francisco",
-                    "s_city_slug": "san-francisco"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "San Isidro",
-                    "s_city_slug": "san-isidro"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "San Josecito",
-                    "s_city_slug": "san-josecito"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "San Pablo",
-                    "s_city_slug": "san-pablo"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "San Rafael",
-                    "s_city_slug": "san-rafael"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "Santa Barbara",
-                    "s_city_slug": "santa-barbara"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "Santo Domingo",
-                    "s_city_slug": "santo-domingo"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "heredia-province",
-                    "s_city_name": "Sarapiqui",
-                    "s_city_slug": "sarapiqui"
-                }
-            ]
+            "s_region_slug": "heredia-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Batan",
+                    "s_city_slug": "batan",
+                    "s_country_code": "cr",
+                    "s_region_slug": "limon-province"
+                },
+                {
+                    "s_city_name": "Guacimo",
+                    "s_city_slug": "guacimo",
+                    "s_country_code": "cr",
+                    "s_region_slug": "limon-province"
+                },
+                {
+                    "s_city_name": "Guapiles",
+                    "s_city_slug": "guapiles",
+                    "s_country_code": "cr",
+                    "s_region_slug": "limon-province"
+                },
+                {
+                    "s_city_name": "Limon",
+                    "s_city_slug": "limon",
+                    "s_country_code": "cr",
+                    "s_region_slug": "limon-province"
+                },
+                {
+                    "s_city_name": "Matina",
+                    "s_city_slug": "matina",
+                    "s_country_code": "cr",
+                    "s_region_slug": "limon-province"
+                },
+                {
+                    "s_city_name": "Pococi",
+                    "s_city_slug": "pococi",
+                    "s_country_code": "cr",
+                    "s_region_slug": "limon-province"
+                },
+                {
+                    "s_city_name": "Pocora",
+                    "s_city_slug": "pocora",
+                    "s_country_code": "cr",
+                    "s_region_slug": "limon-province"
+                },
+                {
+                    "s_city_name": "Roxana",
+                    "s_city_slug": "roxana",
+                    "s_country_code": "cr",
+                    "s_region_slug": "limon-province"
+                },
+                {
+                    "s_city_name": "Siquirres",
+                    "s_city_slug": "siquirres",
+                    "s_country_code": "cr",
+                    "s_region_slug": "limon-province"
+                },
+                {
+                    "s_city_name": "Sixaola",
+                    "s_city_slug": "sixaola",
+                    "s_country_code": "cr",
+                    "s_region_slug": "limon-province"
+                },
+                {
+                    "s_city_name": "Talamanca",
+                    "s_city_slug": "talamanca",
+                    "s_country_code": "cr",
+                    "s_region_slug": "limon-province"
+                }
+            ],
             "s_country_code": "cr",
             "s_region_name": "Limon Province",
-            "s_region_slug": "limon-province",
-            "cities": [
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "limon-province",
-                    "s_city_name": "Batan",
-                    "s_city_slug": "batan"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "limon-province",
-                    "s_city_name": "Guacimo",
-                    "s_city_slug": "guacimo"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "limon-province",
-                    "s_city_name": "Guapiles",
-                    "s_city_slug": "guapiles"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "limon-province",
-                    "s_city_name": "Limon",
-                    "s_city_slug": "limon"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "limon-province",
-                    "s_city_name": "Matina",
-                    "s_city_slug": "matina"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "limon-province",
-                    "s_city_name": "Pococi",
-                    "s_city_slug": "pococi"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "limon-province",
-                    "s_city_name": "Pocora",
-                    "s_city_slug": "pocora"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "limon-province",
-                    "s_city_name": "Roxana",
-                    "s_city_slug": "roxana"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "limon-province",
-                    "s_city_name": "Siquirres",
-                    "s_city_slug": "siquirres"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "limon-province",
-                    "s_city_name": "Sixaola",
-                    "s_city_slug": "sixaola"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "limon-province",
-                    "s_city_name": "Talamanca",
-                    "s_city_slug": "talamanca"
-                }
-            ]
+            "s_region_slug": "limon-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Alvarado",
+                    "s_city_slug": "alvarado",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Cartago",
+                    "s_city_slug": "cartago",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Concepcion",
+                    "s_city_slug": "concepcion",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Cot",
+                    "s_city_slug": "cot",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "El Guarco",
+                    "s_city_slug": "el-guarco",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Jimenez",
+                    "s_city_slug": "jimenez",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "La Suiza",
+                    "s_city_slug": "la-suiza",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "La Union",
+                    "s_city_slug": "la-union",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Oreamuno",
+                    "s_city_slug": "oreamuno",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Orosi",
+                    "s_city_slug": "orosi",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Pacayas",
+                    "s_city_slug": "pacayas",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Paraiso",
+                    "s_city_slug": "paraiso",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Pejibaye",
+                    "s_city_slug": "pejibaye",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "San Diego",
+                    "s_city_slug": "san-diego",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Tobosi",
+                    "s_city_slug": "tobosi",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Tres Rios",
+                    "s_city_slug": "tres-rios",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Tucurrique",
+                    "s_city_slug": "tucurrique",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                },
+                {
+                    "s_city_name": "Turrialba",
+                    "s_city_slug": "turrialba",
+                    "s_country_code": "cr",
+                    "s_region_slug": "provincia-de-cartago"
+                }
+            ],
             "s_country_code": "cr",
             "s_region_name": "Provincia de Cartago",
-            "s_region_slug": "provincia-de-cartago",
-            "cities": [
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Alvarado",
-                    "s_city_slug": "alvarado"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Cartago",
-                    "s_city_slug": "cartago"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Concepcion",
-                    "s_city_slug": "concepcion"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Cot",
-                    "s_city_slug": "cot"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "El Guarco",
-                    "s_city_slug": "el-guarco"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Jimenez",
-                    "s_city_slug": "jimenez"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "La Suiza",
-                    "s_city_slug": "la-suiza"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "La Union",
-                    "s_city_slug": "la-union"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Oreamuno",
-                    "s_city_slug": "oreamuno"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Orosi",
-                    "s_city_slug": "orosi"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Pacayas",
-                    "s_city_slug": "pacayas"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Paraiso",
-                    "s_city_slug": "paraiso"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Pejibaye",
-                    "s_city_slug": "pejibaye"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "San Diego",
-                    "s_city_slug": "san-diego"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Tobosi",
-                    "s_city_slug": "tobosi"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Tres Rios",
-                    "s_city_slug": "tres-rios"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Tucurrique",
-                    "s_city_slug": "tucurrique"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "provincia-de-cartago",
-                    "s_city_name": "Turrialba",
-                    "s_city_slug": "turrialba"
-                }
-            ]
+            "s_region_slug": "provincia-de-cartago"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Buenos Aires",
+                    "s_city_slug": "buenos-aires",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Canoas",
+                    "s_city_slug": "canoas",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Chacarita",
+                    "s_city_slug": "chacarita",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Ciudad Cortes",
+                    "s_city_slug": "ciudad-cortes",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Corredor",
+                    "s_city_slug": "corredor",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Corredores",
+                    "s_city_slug": "corredores",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Coto Brus",
+                    "s_city_slug": "coto-brus",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Esparza",
+                    "s_city_slug": "esparza",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Garabito",
+                    "s_city_slug": "garabito",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Golfito",
+                    "s_city_slug": "golfito",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Jaco",
+                    "s_city_slug": "jaco",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Miramar",
+                    "s_city_slug": "miramar",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Montes de Oro",
+                    "s_city_slug": "montes-de-oro",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Osa",
+                    "s_city_slug": "osa",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Paquera",
+                    "s_city_slug": "paquera",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Parrita",
+                    "s_city_slug": "parrita",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Puntarenas",
+                    "s_city_slug": "puntarenas",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "Quepos",
+                    "s_city_slug": "quepos",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                },
+                {
+                    "s_city_name": "San Vito",
+                    "s_city_slug": "san-vito",
+                    "s_country_code": "cr",
+                    "s_region_slug": "puntarenas-province"
+                }
+            ],
             "s_country_code": "cr",
             "s_region_name": "Puntarenas Province",
-            "s_region_slug": "puntarenas-province",
-            "cities": [
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Buenos Aires",
-                    "s_city_slug": "buenos-aires"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Canoas",
-                    "s_city_slug": "canoas"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Chacarita",
-                    "s_city_slug": "chacarita"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Ciudad Cortes",
-                    "s_city_slug": "ciudad-cortes"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Corredor",
-                    "s_city_slug": "corredor"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Corredores",
-                    "s_city_slug": "corredores"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Coto Brus",
-                    "s_city_slug": "coto-brus"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Esparza",
-                    "s_city_slug": "esparza"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Garabito",
-                    "s_city_slug": "garabito"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Golfito",
-                    "s_city_slug": "golfito"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Jaco",
-                    "s_city_slug": "jaco"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Miramar",
-                    "s_city_slug": "miramar"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Montes de Oro",
-                    "s_city_slug": "montes-de-oro"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Osa",
-                    "s_city_slug": "osa"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Paquera",
-                    "s_city_slug": "paquera"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Parrita",
-                    "s_city_slug": "parrita"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Puntarenas",
-                    "s_city_slug": "puntarenas"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "Quepos",
-                    "s_city_slug": "quepos"
-                },
-                {
-                    "s_country_code": "cr",
-                    "s_region_slug": "puntarenas-province",
-                    "s_city_name": "San Vito",
-                    "s_city_slug": "san-vito"
-                }
-            ]
+            "s_region_slug": "puntarenas-province"
         },
         {
-            "s_country_code": "cr",
-            "s_region_name": "San Jose Province",
-            "s_region_slug": "san-jose-province",
             "cities": [
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Acosta",
-                    "s_city_slug": "acosta"
+                    "s_city_slug": "acosta",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Alajuelita",
-                    "s_city_slug": "alajuelita"
+                    "s_city_slug": "alajuelita",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Aserri",
-                    "s_city_slug": "aserri"
+                    "s_city_slug": "aserri",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Calle Blancos",
-                    "s_city_slug": "calle-blancos"
+                    "s_city_slug": "calle-blancos",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Colima",
-                    "s_city_slug": "colima"
+                    "s_city_slug": "colima",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Colon",
-                    "s_city_slug": "colon"
+                    "s_city_slug": "colon",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Curridabat",
-                    "s_city_slug": "curridabat"
+                    "s_city_slug": "curridabat",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Daniel Flores",
-                    "s_city_slug": "daniel-flores"
+                    "s_city_slug": "daniel-flores",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Desamparados",
-                    "s_city_slug": "desamparados"
+                    "s_city_slug": "desamparados",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Dota",
-                    "s_city_slug": "dota"
+                    "s_city_slug": "dota",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Escazu",
-                    "s_city_slug": "escazu"
+                    "s_city_slug": "escazu",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Goicoechea",
-                    "s_city_slug": "goicoechea"
+                    "s_city_slug": "goicoechea",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Granadilla",
-                    "s_city_slug": "granadilla"
+                    "s_city_slug": "granadilla",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Guadalupe",
-                    "s_city_slug": "guadalupe"
+                    "s_city_slug": "guadalupe",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Ipis",
-                    "s_city_slug": "ipis"
+                    "s_city_slug": "ipis",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Leon Cortes",
-                    "s_city_slug": "leon-cortes"
+                    "s_city_slug": "leon-cortes",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Mercedes",
-                    "s_city_slug": "mercedes"
+                    "s_city_slug": "mercedes",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Montes de Oca",
-                    "s_city_slug": "montes-de-oca"
+                    "s_city_slug": "montes-de-oca",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Mora",
-                    "s_city_slug": "mora"
+                    "s_city_slug": "mora",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Moravia",
-                    "s_city_slug": "moravia"
+                    "s_city_slug": "moravia",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Palmichal",
-                    "s_city_slug": "palmichal"
+                    "s_city_slug": "palmichal",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Patarra",
-                    "s_city_slug": "patarra"
+                    "s_city_slug": "patarra",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Perez Zeledon",
-                    "s_city_slug": "perez-zeledon"
+                    "s_city_slug": "perez-zeledon",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Puriscal",
-                    "s_city_slug": "puriscal"
+                    "s_city_slug": "puriscal",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Purral",
-                    "s_city_slug": "purral"
+                    "s_city_slug": "purral",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Sabanilla",
-                    "s_city_slug": "sabanilla"
+                    "s_city_slug": "sabanilla",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Salitral",
-                    "s_city_slug": "salitral"
+                    "s_city_slug": "salitral",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Salitrillos",
-                    "s_city_slug": "salitrillos"
+                    "s_city_slug": "salitrillos",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Felipe",
-                    "s_city_slug": "san-felipe"
+                    "s_city_slug": "san-felipe",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Ignacio",
-                    "s_city_slug": "san-ignacio"
+                    "s_city_slug": "san-ignacio",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Isidro",
-                    "s_city_slug": "san-isidro"
+                    "s_city_slug": "san-isidro",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Jose",
-                    "s_city_slug": "san-jose"
+                    "s_city_slug": "san-jose",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Juan",
-                    "s_city_slug": "san-juan"
+                    "s_city_slug": "san-juan",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Juan de Dios",
-                    "s_city_slug": "san-juan-de-dios"
+                    "s_city_slug": "san-juan-de-dios",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Marcos",
-                    "s_city_slug": "san-marcos"
+                    "s_city_slug": "san-marcos",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Miguel",
-                    "s_city_slug": "san-miguel"
+                    "s_city_slug": "san-miguel",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Pedro",
-                    "s_city_slug": "san-pedro"
+                    "s_city_slug": "san-pedro",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Rafael",
-                    "s_city_slug": "san-rafael"
+                    "s_city_slug": "san-rafael",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Rafael Abajo",
-                    "s_city_slug": "san-rafael-abajo"
+                    "s_city_slug": "san-rafael-abajo",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Rafael Arriba",
-                    "s_city_slug": "san-rafael-arriba"
+                    "s_city_slug": "san-rafael-arriba",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Vicente",
-                    "s_city_slug": "san-vicente"
+                    "s_city_slug": "san-vicente",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "San Vicente de Moravia",
-                    "s_city_slug": "san-vicente-de-moravia"
+                    "s_city_slug": "san-vicente-de-moravia",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Santa Ana",
-                    "s_city_slug": "santa-ana"
+                    "s_city_slug": "santa-ana",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Santiago",
-                    "s_city_slug": "santiago"
+                    "s_city_slug": "santiago",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Tarrazu",
-                    "s_city_slug": "tarrazu"
+                    "s_city_slug": "tarrazu",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Tejar",
-                    "s_city_slug": "tejar"
+                    "s_city_slug": "tejar",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Tibas",
-                    "s_city_slug": "tibas"
+                    "s_city_slug": "tibas",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Turrubares",
-                    "s_city_slug": "turrubares"
+                    "s_city_slug": "turrubares",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 },
                 {
-                    "s_country_code": "cr",
-                    "s_region_slug": "san-jose-province",
                     "s_city_name": "Vazquez de Coronado",
-                    "s_city_slug": "vazquez-de-coronado"
+                    "s_city_slug": "vazquez-de-coronado",
+                    "s_country_code": "cr",
+                    "s_region_slug": "san-jose-province"
                 }
-            ]
+            ],
+            "s_country_code": "cr",
+            "s_region_name": "San Jose Province",
+            "s_region_slug": "san-jose-province"
         }
-    ]
+    ],
+    "s_country_code": "CR",
+    "s_country_name": "Costa Rica",
+    "s_country_slug": "costa-rica"
 }

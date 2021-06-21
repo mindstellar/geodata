@@ -1,1105 +1,1105 @@
 {
-    "s_country_code": "KE",
-    "s_country_name": "Kenya",
-    "s_country_slug": "kenya",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Baringo",
+                    "s_city_slug": "baringo",
+                    "s_country_code": "ke",
+                    "s_region_slug": "baringo-county"
+                },
+                {
+                    "s_city_name": "Eldama Ravine",
+                    "s_city_slug": "eldama-ravine",
+                    "s_country_code": "ke",
+                    "s_region_slug": "baringo-county"
+                },
+                {
+                    "s_city_name": "Kabarnet",
+                    "s_city_slug": "kabarnet",
+                    "s_country_code": "ke",
+                    "s_region_slug": "baringo-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Baringo County",
-            "s_region_slug": "baringo-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "baringo-county",
-                    "s_city_name": "Baringo",
-                    "s_city_slug": "baringo"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "baringo-county",
-                    "s_city_name": "Eldama Ravine",
-                    "s_city_slug": "eldama-ravine"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "baringo-county",
-                    "s_city_name": "Kabarnet",
-                    "s_city_slug": "kabarnet"
-                }
-            ]
+            "s_region_slug": "baringo-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Sotik",
+                    "s_city_slug": "sotik",
+                    "s_country_code": "ke",
+                    "s_region_slug": "bomet-county"
+                },
+                {
+                    "s_city_name": "Sotik Post",
+                    "s_city_slug": "sotik-post",
+                    "s_country_code": "ke",
+                    "s_region_slug": "bomet-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Bomet County",
-            "s_region_slug": "bomet-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "bomet-county",
-                    "s_city_name": "Sotik",
-                    "s_city_slug": "sotik"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "bomet-county",
-                    "s_city_name": "Sotik Post",
-                    "s_city_slug": "sotik-post"
-                }
-            ]
+            "s_region_slug": "bomet-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bungoma",
+                    "s_city_slug": "bungoma",
+                    "s_country_code": "ke",
+                    "s_region_slug": "bungoma-county"
+                },
+                {
+                    "s_city_name": "Malikisi",
+                    "s_city_slug": "malikisi",
+                    "s_country_code": "ke",
+                    "s_region_slug": "bungoma-county"
+                },
+                {
+                    "s_city_name": "Webuye",
+                    "s_city_slug": "webuye",
+                    "s_country_code": "ke",
+                    "s_region_slug": "bungoma-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Bungoma County",
-            "s_region_slug": "bungoma-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "bungoma-county",
-                    "s_city_name": "Bungoma",
-                    "s_city_slug": "bungoma"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "bungoma-county",
-                    "s_city_name": "Malikisi",
-                    "s_city_slug": "malikisi"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "bungoma-county",
-                    "s_city_name": "Webuye",
-                    "s_city_slug": "webuye"
-                }
-            ]
+            "s_region_slug": "bungoma-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Busia",
+                    "s_city_slug": "busia",
+                    "s_country_code": "ke",
+                    "s_region_slug": "busia-county"
+                },
+                {
+                    "s_city_name": "Luanda",
+                    "s_city_slug": "luanda",
+                    "s_country_code": "ke",
+                    "s_region_slug": "busia-county"
+                },
+                {
+                    "s_city_name": "Lugulu",
+                    "s_city_slug": "lugulu",
+                    "s_country_code": "ke",
+                    "s_region_slug": "busia-county"
+                },
+                {
+                    "s_city_name": "Malaba",
+                    "s_city_slug": "malaba",
+                    "s_country_code": "ke",
+                    "s_region_slug": "busia-county"
+                },
+                {
+                    "s_city_name": "Nambare",
+                    "s_city_slug": "nambare",
+                    "s_country_code": "ke",
+                    "s_region_slug": "busia-county"
+                },
+                {
+                    "s_city_name": "Port Victoria",
+                    "s_city_slug": "port-victoria",
+                    "s_country_code": "ke",
+                    "s_region_slug": "busia-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Busia County",
-            "s_region_slug": "busia-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "busia-county",
-                    "s_city_name": "Busia",
-                    "s_city_slug": "busia"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "busia-county",
-                    "s_city_name": "Luanda",
-                    "s_city_slug": "luanda"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "busia-county",
-                    "s_city_name": "Lugulu",
-                    "s_city_slug": "lugulu"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "busia-county",
-                    "s_city_name": "Malaba",
-                    "s_city_slug": "malaba"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "busia-county",
-                    "s_city_name": "Nambare",
-                    "s_city_slug": "nambare"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "busia-county",
-                    "s_city_name": "Port Victoria",
-                    "s_city_slug": "port-victoria"
-                }
-            ]
+            "s_region_slug": "busia-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Central Province",
+                    "s_city_slug": "central-province",
+                    "s_country_code": "ke",
+                    "s_region_slug": "central-province"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Central Province",
-            "s_region_slug": "central-province",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "central-province",
-                    "s_city_name": "Central Province",
-                    "s_city_slug": "central-province"
-                }
-            ]
+            "s_region_slug": "central-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Coast Province",
+                    "s_city_slug": "coast-province",
+                    "s_country_code": "ke",
+                    "s_region_slug": "coast-province"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Coast Province",
-            "s_region_slug": "coast-province",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "coast-province",
-                    "s_city_name": "Coast Province",
-                    "s_city_slug": "coast-province"
-                }
-            ]
+            "s_region_slug": "coast-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Eastern Province",
+                    "s_city_slug": "eastern-province",
+                    "s_country_code": "ke",
+                    "s_region_slug": "eastern-province"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Eastern Province",
-            "s_region_slug": "eastern-province",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Eastern Province",
-                    "s_city_slug": "eastern-province"
-                }
-            ]
+            "s_region_slug": "eastern-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Elgeyo-Marakwet County",
+                    "s_city_slug": "elgeyo-marakwet-county",
+                    "s_country_code": "ke",
+                    "s_region_slug": "elgeyo-marakwet-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Elgeyo-Marakwet County",
-            "s_region_slug": "elgeyo-marakwet-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "elgeyo-marakwet-county",
-                    "s_city_name": "Elgeyo-Marakwet County",
-                    "s_city_slug": "elgeyo-marakwet-county"
-                }
-            ]
+            "s_region_slug": "elgeyo-marakwet-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Embu",
+                    "s_city_slug": "embu",
+                    "s_country_code": "ke",
+                    "s_region_slug": "embu-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Embu County",
-            "s_region_slug": "embu-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "embu-county",
-                    "s_city_name": "Embu",
-                    "s_city_slug": "embu"
-                }
-            ]
+            "s_region_slug": "embu-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Garissa",
+                    "s_city_slug": "garissa",
+                    "s_country_code": "ke",
+                    "s_region_slug": "garissa-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Garissa County",
-            "s_region_slug": "garissa-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "garissa-county",
-                    "s_city_name": "Garissa",
-                    "s_city_slug": "garissa"
-                }
-            ]
+            "s_region_slug": "garissa-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Homa Bay",
+                    "s_city_slug": "homa-bay",
+                    "s_country_code": "ke",
+                    "s_region_slug": "homa-bay-county"
+                },
+                {
+                    "s_city_name": "Oyugis",
+                    "s_city_slug": "oyugis",
+                    "s_country_code": "ke",
+                    "s_region_slug": "homa-bay-county"
+                },
+                {
+                    "s_city_name": "Rachuonyo District",
+                    "s_city_slug": "rachuonyo-district",
+                    "s_country_code": "ke",
+                    "s_region_slug": "homa-bay-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Homa Bay County",
-            "s_region_slug": "homa-bay-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "homa-bay-county",
-                    "s_city_name": "Homa Bay",
-                    "s_city_slug": "homa-bay"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "homa-bay-county",
-                    "s_city_name": "Oyugis",
-                    "s_city_slug": "oyugis"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "homa-bay-county",
-                    "s_city_name": "Rachuonyo District",
-                    "s_city_slug": "rachuonyo-district"
-                }
-            ]
+            "s_region_slug": "homa-bay-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Isiolo",
+                    "s_city_slug": "isiolo",
+                    "s_country_code": "ke",
+                    "s_region_slug": "isiolo-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Isiolo County",
-            "s_region_slug": "isiolo-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "isiolo-county",
-                    "s_city_name": "Isiolo",
-                    "s_city_slug": "isiolo"
-                }
-            ]
+            "s_region_slug": "isiolo-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kajiado",
+                    "s_city_slug": "kajiado",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kajiado-county"
+                },
+                {
+                    "s_city_name": "Magadi",
+                    "s_city_slug": "magadi",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kajiado-county"
+                },
+                {
+                    "s_city_name": "Ngong",
+                    "s_city_slug": "ngong",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kajiado-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Kajiado County",
-            "s_region_slug": "kajiado-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kajiado-county",
-                    "s_city_name": "Kajiado",
-                    "s_city_slug": "kajiado"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kajiado-county",
-                    "s_city_name": "Magadi",
-                    "s_city_slug": "magadi"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kajiado-county",
-                    "s_city_name": "Ngong",
-                    "s_city_slug": "ngong"
-                }
-            ]
+            "s_region_slug": "kajiado-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Butere",
+                    "s_city_slug": "butere",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kakamega-county"
+                },
+                {
+                    "s_city_name": "Kakamega",
+                    "s_city_slug": "kakamega",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kakamega-county"
+                },
+                {
+                    "s_city_name": "Mumias",
+                    "s_city_slug": "mumias",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kakamega-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Kakamega County",
-            "s_region_slug": "kakamega-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kakamega-county",
-                    "s_city_name": "Butere",
-                    "s_city_slug": "butere"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kakamega-county",
-                    "s_city_name": "Kakamega",
-                    "s_city_slug": "kakamega"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kakamega-county",
-                    "s_city_name": "Mumias",
-                    "s_city_slug": "mumias"
-                }
-            ]
+            "s_region_slug": "kakamega-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kericho",
+                    "s_city_slug": "kericho",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kericho-county"
+                },
+                {
+                    "s_city_name": "Kipkelion",
+                    "s_city_slug": "kipkelion",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kericho-county"
+                },
+                {
+                    "s_city_name": "Litein",
+                    "s_city_slug": "litein",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kericho-county"
+                },
+                {
+                    "s_city_name": "Londiani",
+                    "s_city_slug": "londiani",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kericho-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Kericho County",
-            "s_region_slug": "kericho-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kericho-county",
-                    "s_city_name": "Kericho",
-                    "s_city_slug": "kericho"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kericho-county",
-                    "s_city_name": "Kipkelion",
-                    "s_city_slug": "kipkelion"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kericho-county",
-                    "s_city_name": "Litein",
-                    "s_city_slug": "litein"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kericho-county",
-                    "s_city_name": "Londiani",
-                    "s_city_slug": "londiani"
-                }
-            ]
+            "s_region_slug": "kericho-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kiambu",
+                    "s_city_slug": "kiambu",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kiambu-county"
+                },
+                {
+                    "s_city_name": "Kikuyu",
+                    "s_city_slug": "kikuyu",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kiambu-county"
+                },
+                {
+                    "s_city_name": "Limuru",
+                    "s_city_slug": "limuru",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kiambu-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Kiambu County",
-            "s_region_slug": "kiambu-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kiambu-county",
-                    "s_city_name": "Kiambu",
-                    "s_city_slug": "kiambu"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kiambu-county",
-                    "s_city_name": "Kikuyu",
-                    "s_city_slug": "kikuyu"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kiambu-county",
-                    "s_city_name": "Limuru",
-                    "s_city_slug": "limuru"
-                }
-            ]
+            "s_region_slug": "kiambu-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Iten",
+                    "s_city_slug": "iten",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kilifi-county"
+                },
+                {
+                    "s_city_name": "Kapsowar",
+                    "s_city_slug": "kapsowar",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kilifi-county"
+                },
+                {
+                    "s_city_name": "Kilifi",
+                    "s_city_slug": "kilifi",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kilifi-county"
+                },
+                {
+                    "s_city_name": "Malindi",
+                    "s_city_slug": "malindi",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kilifi-county"
+                },
+                {
+                    "s_city_name": "Mariakani",
+                    "s_city_slug": "mariakani",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kilifi-county"
+                },
+                {
+                    "s_city_name": "Takaungu",
+                    "s_city_slug": "takaungu",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kilifi-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Kilifi County",
-            "s_region_slug": "kilifi-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kilifi-county",
-                    "s_city_name": "Iten",
-                    "s_city_slug": "iten"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kilifi-county",
-                    "s_city_name": "Kapsowar",
-                    "s_city_slug": "kapsowar"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kilifi-county",
-                    "s_city_name": "Kilifi",
-                    "s_city_slug": "kilifi"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kilifi-county",
-                    "s_city_name": "Malindi",
-                    "s_city_slug": "malindi"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kilifi-county",
-                    "s_city_name": "Mariakani",
-                    "s_city_slug": "mariakani"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kilifi-county",
-                    "s_city_name": "Takaungu",
-                    "s_city_slug": "takaungu"
-                }
-            ]
+            "s_region_slug": "kilifi-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kerugoya",
+                    "s_city_slug": "kerugoya",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kirinyaga-county"
+                },
+                {
+                    "s_city_name": "Sagana",
+                    "s_city_slug": "sagana",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kirinyaga-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Kirinyaga County",
-            "s_region_slug": "kirinyaga-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kirinyaga-county",
-                    "s_city_name": "Kerugoya",
-                    "s_city_slug": "kerugoya"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kirinyaga-county",
-                    "s_city_name": "Sagana",
-                    "s_city_slug": "sagana"
-                }
-            ]
+            "s_region_slug": "kirinyaga-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kisii",
+                    "s_city_slug": "kisii",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kisii-county"
+                },
+                {
+                    "s_city_name": "Ogembo",
+                    "s_city_slug": "ogembo",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kisii-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Kisii County",
-            "s_region_slug": "kisii-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kisii-county",
-                    "s_city_name": "Kisii",
-                    "s_city_slug": "kisii"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kisii-county",
-                    "s_city_name": "Ogembo",
-                    "s_city_slug": "ogembo"
-                }
-            ]
+            "s_region_slug": "kisii-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ahero",
+                    "s_city_slug": "ahero",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kisumu-county"
+                },
+                {
+                    "s_city_name": "Kisumu",
+                    "s_city_slug": "kisumu",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kisumu-county"
+                },
+                {
+                    "s_city_name": "Muhoroni",
+                    "s_city_slug": "muhoroni",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kisumu-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Kisumu County",
-            "s_region_slug": "kisumu-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kisumu-county",
-                    "s_city_name": "Ahero",
-                    "s_city_slug": "ahero"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kisumu-county",
-                    "s_city_name": "Kisumu",
-                    "s_city_slug": "kisumu"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kisumu-county",
-                    "s_city_name": "Muhoroni",
-                    "s_city_slug": "muhoroni"
-                }
-            ]
+            "s_region_slug": "kisumu-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kitui",
+                    "s_city_slug": "kitui",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kitui-county"
+                },
+                {
+                    "s_city_name": "Mwingi",
+                    "s_city_slug": "mwingi",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kitui-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Kitui County",
-            "s_region_slug": "kitui-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kitui-county",
-                    "s_city_name": "Kitui",
-                    "s_city_slug": "kitui"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kitui-county",
-                    "s_city_name": "Mwingi",
-                    "s_city_slug": "mwingi"
-                }
-            ]
+            "s_region_slug": "kitui-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Gazi",
+                    "s_city_slug": "gazi",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kwale-county"
+                },
+                {
+                    "s_city_name": "Kinango",
+                    "s_city_slug": "kinango",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kwale-county"
+                },
+                {
+                    "s_city_name": "Kwale",
+                    "s_city_slug": "kwale",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kwale-county"
+                },
+                {
+                    "s_city_name": "Sawa Sawa",
+                    "s_city_slug": "sawa-sawa",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kwale-county"
+                },
+                {
+                    "s_city_name": "Shimoni",
+                    "s_city_slug": "shimoni",
+                    "s_country_code": "ke",
+                    "s_region_slug": "kwale-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Kwale County",
-            "s_region_slug": "kwale-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kwale-county",
-                    "s_city_name": "Gazi",
-                    "s_city_slug": "gazi"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kwale-county",
-                    "s_city_name": "Kinango",
-                    "s_city_slug": "kinango"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kwale-county",
-                    "s_city_name": "Kwale",
-                    "s_city_slug": "kwale"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kwale-county",
-                    "s_city_name": "Sawa Sawa",
-                    "s_city_slug": "sawa-sawa"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "kwale-county",
-                    "s_city_name": "Shimoni",
-                    "s_city_slug": "shimoni"
-                }
-            ]
+            "s_region_slug": "kwale-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Nanyuki",
+                    "s_city_slug": "nanyuki",
+                    "s_country_code": "ke",
+                    "s_region_slug": "laikipia-county"
+                },
+                {
+                    "s_city_name": "Nyahururu",
+                    "s_city_slug": "nyahururu",
+                    "s_country_code": "ke",
+                    "s_region_slug": "laikipia-county"
+                },
+                {
+                    "s_city_name": "Rumuruti",
+                    "s_city_slug": "rumuruti",
+                    "s_country_code": "ke",
+                    "s_region_slug": "laikipia-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Laikipia County",
-            "s_region_slug": "laikipia-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "laikipia-county",
-                    "s_city_name": "Nanyuki",
-                    "s_city_slug": "nanyuki"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "laikipia-county",
-                    "s_city_name": "Nyahururu",
-                    "s_city_slug": "nyahururu"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "laikipia-county",
-                    "s_city_name": "Rumuruti",
-                    "s_city_slug": "rumuruti"
-                }
-            ]
+            "s_region_slug": "laikipia-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Lamu",
+                    "s_city_slug": "lamu",
+                    "s_country_code": "ke",
+                    "s_region_slug": "lamu-county"
+                },
+                {
+                    "s_city_name": "Witu",
+                    "s_city_slug": "witu",
+                    "s_country_code": "ke",
+                    "s_region_slug": "lamu-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Lamu County",
-            "s_region_slug": "lamu-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "lamu-county",
-                    "s_city_name": "Lamu",
-                    "s_city_slug": "lamu"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "lamu-county",
-                    "s_city_name": "Witu",
-                    "s_city_slug": "witu"
-                }
-            ]
+            "s_region_slug": "lamu-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Athi River",
+                    "s_city_slug": "athi-river",
+                    "s_country_code": "ke",
+                    "s_region_slug": "machakos-county"
+                },
+                {
+                    "s_city_name": "Kangundo",
+                    "s_city_slug": "kangundo",
+                    "s_country_code": "ke",
+                    "s_region_slug": "machakos-county"
+                },
+                {
+                    "s_city_name": "Konza",
+                    "s_city_slug": "konza",
+                    "s_country_code": "ke",
+                    "s_region_slug": "machakos-county"
+                },
+                {
+                    "s_city_name": "Machakos",
+                    "s_city_slug": "machakos",
+                    "s_country_code": "ke",
+                    "s_region_slug": "machakos-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Machakos County",
-            "s_region_slug": "machakos-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "machakos-county",
-                    "s_city_name": "Athi River",
-                    "s_city_slug": "athi-river"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "machakos-county",
-                    "s_city_name": "Kangundo",
-                    "s_city_slug": "kangundo"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "machakos-county",
-                    "s_city_name": "Konza",
-                    "s_city_slug": "konza"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "machakos-county",
-                    "s_city_name": "Machakos",
-                    "s_city_slug": "machakos"
-                }
-            ]
+            "s_region_slug": "machakos-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Makueni Boma",
+                    "s_city_slug": "makueni-boma",
+                    "s_country_code": "ke",
+                    "s_region_slug": "makueni-county"
+                },
+                {
+                    "s_city_name": "Mtito Andei",
+                    "s_city_slug": "mtito-andei",
+                    "s_country_code": "ke",
+                    "s_region_slug": "makueni-county"
+                },
+                {
+                    "s_city_name": "Wote",
+                    "s_city_slug": "wote",
+                    "s_country_code": "ke",
+                    "s_region_slug": "makueni-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Makueni County",
-            "s_region_slug": "makueni-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "makueni-county",
-                    "s_city_name": "Makueni Boma",
-                    "s_city_slug": "makueni-boma"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "makueni-county",
-                    "s_city_name": "Mtito Andei",
-                    "s_city_slug": "mtito-andei"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "makueni-county",
-                    "s_city_name": "Wote",
-                    "s_city_slug": "wote"
-                }
-            ]
+            "s_region_slug": "makueni-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Mandera",
+                    "s_city_slug": "mandera",
+                    "s_country_code": "ke",
+                    "s_region_slug": "mandera-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Mandera County",
-            "s_region_slug": "mandera-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "mandera-county",
-                    "s_city_name": "Mandera",
-                    "s_city_slug": "mandera"
-                }
-            ]
+            "s_region_slug": "mandera-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Marsabit",
+                    "s_city_slug": "marsabit",
+                    "s_country_code": "ke",
+                    "s_region_slug": "marsabit-county"
+                },
+                {
+                    "s_city_name": "Moyale",
+                    "s_city_slug": "moyale",
+                    "s_country_code": "ke",
+                    "s_region_slug": "marsabit-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Marsabit County",
-            "s_region_slug": "marsabit-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "marsabit-county",
-                    "s_city_name": "Marsabit",
-                    "s_city_slug": "marsabit"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "marsabit-county",
-                    "s_city_name": "Moyale",
-                    "s_city_slug": "moyale"
-                }
-            ]
+            "s_region_slug": "marsabit-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Maua",
+                    "s_city_slug": "maua",
+                    "s_country_code": "ke",
+                    "s_region_slug": "meru-county"
+                },
+                {
+                    "s_city_name": "Meru",
+                    "s_city_slug": "meru",
+                    "s_country_code": "ke",
+                    "s_region_slug": "meru-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Meru County",
-            "s_region_slug": "meru-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "meru-county",
-                    "s_city_name": "Maua",
-                    "s_city_slug": "maua"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "meru-county",
-                    "s_city_name": "Meru",
-                    "s_city_slug": "meru"
-                }
-            ]
+            "s_region_slug": "meru-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kihancha",
+                    "s_city_slug": "kihancha",
+                    "s_country_code": "ke",
+                    "s_region_slug": "migori-county"
+                },
+                {
+                    "s_city_name": "Migori",
+                    "s_city_slug": "migori",
+                    "s_country_code": "ke",
+                    "s_region_slug": "migori-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Migori County",
-            "s_region_slug": "migori-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "migori-county",
-                    "s_city_name": "Kihancha",
-                    "s_city_slug": "kihancha"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "migori-county",
-                    "s_city_name": "Migori",
-                    "s_city_slug": "migori"
-                }
-            ]
+            "s_region_slug": "migori-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Mombasa",
+                    "s_city_slug": "mombasa",
+                    "s_country_code": "ke",
+                    "s_region_slug": "mombasa-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Mombasa County",
-            "s_region_slug": "mombasa-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "mombasa-county",
-                    "s_city_name": "Mombasa",
-                    "s_city_slug": "mombasa"
-                }
-            ]
+            "s_region_slug": "mombasa-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kangema",
+                    "s_city_slug": "kangema",
+                    "s_country_code": "ke",
+                    "s_region_slug": "muranga-county"
+                },
+                {
+                    "s_city_name": "Karuri",
+                    "s_city_slug": "karuri",
+                    "s_country_code": "ke",
+                    "s_region_slug": "muranga-county"
+                },
+                {
+                    "s_city_name": "Maragua",
+                    "s_city_slug": "maragua",
+                    "s_country_code": "ke",
+                    "s_region_slug": "muranga-county"
+                },
+                {
+                    "s_city_name": "Muranga",
+                    "s_city_slug": "muranga",
+                    "s_country_code": "ke",
+                    "s_region_slug": "muranga-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Muranga County",
-            "s_region_slug": "muranga-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "muranga-county",
-                    "s_city_name": "Kangema",
-                    "s_city_slug": "kangema"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "muranga-county",
-                    "s_city_name": "Karuri",
-                    "s_city_slug": "karuri"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "muranga-county",
-                    "s_city_name": "Maragua",
-                    "s_city_slug": "maragua"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "muranga-county",
-                    "s_city_name": "Muranga",
-                    "s_city_slug": "muranga"
-                }
-            ]
+            "s_region_slug": "muranga-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Nairobi",
+                    "s_city_slug": "nairobi",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nairobi"
+                },
+                {
+                    "s_city_name": "Pumwani",
+                    "s_city_slug": "pumwani",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nairobi"
+                },
+                {
+                    "s_city_name": "Thika",
+                    "s_city_slug": "thika",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nairobi"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Nairobi",
-            "s_region_slug": "nairobi",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nairobi",
-                    "s_city_name": "Nairobi",
-                    "s_city_slug": "nairobi"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nairobi",
-                    "s_city_name": "Pumwani",
-                    "s_city_slug": "pumwani"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nairobi",
-                    "s_city_name": "Thika",
-                    "s_city_slug": "thika"
-                }
-            ]
+            "s_region_slug": "nairobi"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kijabe",
+                    "s_city_slug": "kijabe",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nakuru-district"
+                },
+                {
+                    "s_city_name": "Molo",
+                    "s_city_slug": "molo",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nakuru-district"
+                },
+                {
+                    "s_city_name": "Naivasha",
+                    "s_city_slug": "naivasha",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nakuru-district"
+                },
+                {
+                    "s_city_name": "Nakuru",
+                    "s_city_slug": "nakuru",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nakuru-district"
+                },
+                {
+                    "s_city_name": "Rongai",
+                    "s_city_slug": "rongai",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nakuru-district"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Nakuru District",
-            "s_region_slug": "nakuru-district",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nakuru-district",
-                    "s_city_name": "Kijabe",
-                    "s_city_slug": "kijabe"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nakuru-district",
-                    "s_city_name": "Molo",
-                    "s_city_slug": "molo"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nakuru-district",
-                    "s_city_name": "Naivasha",
-                    "s_city_slug": "naivasha"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nakuru-district",
-                    "s_city_name": "Nakuru",
-                    "s_city_slug": "nakuru"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nakuru-district",
-                    "s_city_name": "Rongai",
-                    "s_city_slug": "rongai"
-                }
-            ]
+            "s_region_slug": "nakuru-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kapsabet",
+                    "s_city_slug": "kapsabet",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nandi-district"
+                },
+                {
+                    "s_city_name": "Nandi Hills",
+                    "s_city_slug": "nandi-hills",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nandi-district"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Nandi District",
-            "s_region_slug": "nandi-district",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nandi-district",
-                    "s_city_name": "Kapsabet",
-                    "s_city_slug": "kapsabet"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nandi-district",
-                    "s_city_name": "Nandi Hills",
-                    "s_city_slug": "nandi-hills"
-                }
-            ]
+            "s_region_slug": "nandi-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Narok",
+                    "s_city_slug": "narok",
+                    "s_country_code": "ke",
+                    "s_region_slug": "narok-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Narok County",
-            "s_region_slug": "narok-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "narok-county",
-                    "s_city_name": "Narok",
-                    "s_city_slug": "narok"
-                }
-            ]
+            "s_region_slug": "narok-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "North Eastern Province",
+                    "s_city_slug": "north-eastern-province",
+                    "s_country_code": "ke",
+                    "s_region_slug": "north-eastern-province"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "North Eastern Province",
-            "s_region_slug": "north-eastern-province",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "north-eastern-province",
-                    "s_city_name": "North Eastern Province",
-                    "s_city_slug": "north-eastern-province"
-                }
-            ]
+            "s_region_slug": "north-eastern-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Keroka",
+                    "s_city_slug": "keroka",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nyamira-district"
+                },
+                {
+                    "s_city_name": "Nyamira",
+                    "s_city_slug": "nyamira",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nyamira-district"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Nyamira District",
-            "s_region_slug": "nyamira-district",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nyamira-district",
-                    "s_city_name": "Keroka",
-                    "s_city_slug": "keroka"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nyamira-district",
-                    "s_city_name": "Nyamira",
-                    "s_city_slug": "nyamira"
-                }
-            ]
+            "s_region_slug": "nyamira-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ol Kalou",
+                    "s_city_slug": "ol-kalou",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nyandarua-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Nyandarua County",
-            "s_region_slug": "nyandarua-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nyandarua-county",
-                    "s_city_name": "Ol Kalou",
-                    "s_city_slug": "ol-kalou"
-                }
-            ]
+            "s_region_slug": "nyandarua-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Nyanza Province",
+                    "s_city_slug": "nyanza-province",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nyanza-province"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Nyanza Province",
-            "s_region_slug": "nyanza-province",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nyanza-province",
-                    "s_city_name": "Nyanza Province",
-                    "s_city_slug": "nyanza-province"
-                }
-            ]
+            "s_region_slug": "nyanza-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Naro Moru",
+                    "s_city_slug": "naro-moru",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nyeri-county"
+                },
+                {
+                    "s_city_name": "Nyeri",
+                    "s_city_slug": "nyeri",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nyeri-county"
+                },
+                {
+                    "s_city_name": "Othaya",
+                    "s_city_slug": "othaya",
+                    "s_country_code": "ke",
+                    "s_region_slug": "nyeri-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Nyeri County",
-            "s_region_slug": "nyeri-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nyeri-county",
-                    "s_city_name": "Naro Moru",
-                    "s_city_slug": "naro-moru"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nyeri-county",
-                    "s_city_name": "Nyeri",
-                    "s_city_slug": "nyeri"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "nyeri-county",
-                    "s_city_name": "Othaya",
-                    "s_city_slug": "othaya"
-                }
-            ]
+            "s_region_slug": "nyeri-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Rift Valley Province",
+                    "s_city_slug": "rift-valley-province",
+                    "s_country_code": "ke",
+                    "s_region_slug": "rift-valley-province"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Rift Valley Province",
-            "s_region_slug": "rift-valley-province",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "rift-valley-province",
-                    "s_city_name": "Rift Valley Province",
-                    "s_city_slug": "rift-valley-province"
-                }
-            ]
+            "s_region_slug": "rift-valley-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Maralal",
+                    "s_city_slug": "maralal",
+                    "s_country_code": "ke",
+                    "s_region_slug": "samburu-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Samburu County",
-            "s_region_slug": "samburu-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "samburu-county",
-                    "s_city_name": "Maralal",
-                    "s_city_slug": "maralal"
-                }
-            ]
+            "s_region_slug": "samburu-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bondo",
+                    "s_city_slug": "bondo",
+                    "s_country_code": "ke",
+                    "s_region_slug": "siaya-county"
+                },
+                {
+                    "s_city_name": "Siaya",
+                    "s_city_slug": "siaya",
+                    "s_country_code": "ke",
+                    "s_region_slug": "siaya-county"
+                },
+                {
+                    "s_city_name": "Yala",
+                    "s_city_slug": "yala",
+                    "s_country_code": "ke",
+                    "s_region_slug": "siaya-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Siaya County",
-            "s_region_slug": "siaya-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "siaya-county",
-                    "s_city_name": "Bondo",
-                    "s_city_slug": "bondo"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "siaya-county",
-                    "s_city_name": "Siaya",
-                    "s_city_slug": "siaya"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "siaya-county",
-                    "s_city_name": "Yala",
-                    "s_city_slug": "yala"
-                }
-            ]
+            "s_region_slug": "siaya-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "TaitaTaveta County",
+                    "s_city_slug": "taitataveta-county",
+                    "s_country_code": "ke",
+                    "s_region_slug": "taitataveta-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "TaitaTaveta County",
-            "s_region_slug": "taitataveta-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "taitataveta-county",
-                    "s_city_name": "TaitaTaveta County",
-                    "s_city_slug": "taitataveta-county"
-                }
-            ]
+            "s_region_slug": "taitataveta-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Hola",
+                    "s_city_slug": "hola",
+                    "s_country_code": "ke",
+                    "s_region_slug": "tana-river-county"
+                },
+                {
+                    "s_city_name": "Kipini",
+                    "s_city_slug": "kipini",
+                    "s_country_code": "ke",
+                    "s_region_slug": "tana-river-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Tana River County",
-            "s_region_slug": "tana-river-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "tana-river-county",
-                    "s_city_name": "Hola",
-                    "s_city_slug": "hola"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "tana-river-county",
-                    "s_city_name": "Kipini",
-                    "s_city_slug": "kipini"
-                }
-            ]
+            "s_region_slug": "tana-river-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Chuka",
+                    "s_city_slug": "chuka",
+                    "s_country_code": "ke",
+                    "s_region_slug": "tharaka-nithi-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Tharaka Nithi County",
-            "s_region_slug": "tharaka-nithi-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "tharaka-nithi-county",
-                    "s_city_name": "Chuka",
-                    "s_city_slug": "chuka"
-                }
-            ]
+            "s_region_slug": "tharaka-nithi-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kitale",
+                    "s_city_slug": "kitale",
+                    "s_country_code": "ke",
+                    "s_region_slug": "trans-nzoia-district"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Trans-Nzoia District",
-            "s_region_slug": "trans-nzoia-district",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "trans-nzoia-district",
-                    "s_city_name": "Kitale",
-                    "s_city_slug": "kitale"
-                }
-            ]
+            "s_region_slug": "trans-nzoia-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Lodwar",
+                    "s_city_slug": "lodwar",
+                    "s_country_code": "ke",
+                    "s_region_slug": "turkana-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Turkana County",
-            "s_region_slug": "turkana-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "turkana-county",
-                    "s_city_name": "Lodwar",
-                    "s_city_slug": "lodwar"
-                }
-            ]
+            "s_region_slug": "turkana-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Eldoret",
+                    "s_city_slug": "eldoret",
+                    "s_country_code": "ke",
+                    "s_region_slug": "uasin-gishu-district"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Uasin Gishu District",
-            "s_region_slug": "uasin-gishu-district",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "uasin-gishu-district",
-                    "s_city_name": "Eldoret",
-                    "s_city_slug": "eldoret"
-                }
-            ]
+            "s_region_slug": "uasin-gishu-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Vihiga District",
+                    "s_city_slug": "vihiga-district",
+                    "s_country_code": "ke",
+                    "s_region_slug": "vihiga-district"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Vihiga District",
-            "s_region_slug": "vihiga-district",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "vihiga-district",
-                    "s_city_name": "Vihiga District",
-                    "s_city_slug": "vihiga-district"
-                }
-            ]
+            "s_region_slug": "vihiga-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Wajir",
+                    "s_city_slug": "wajir",
+                    "s_country_code": "ke",
+                    "s_region_slug": "wajir-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "Wajir County",
-            "s_region_slug": "wajir-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "wajir-county",
-                    "s_city_name": "Wajir",
-                    "s_city_slug": "wajir"
-                }
-            ]
+            "s_region_slug": "wajir-county"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Chepareria",
+                    "s_city_slug": "chepareria",
+                    "s_country_code": "ke",
+                    "s_region_slug": "west-pokot-county"
+                },
+                {
+                    "s_city_name": "Kapenguria",
+                    "s_city_slug": "kapenguria",
+                    "s_country_code": "ke",
+                    "s_region_slug": "west-pokot-county"
+                },
+                {
+                    "s_city_name": "Taveta",
+                    "s_city_slug": "taveta",
+                    "s_country_code": "ke",
+                    "s_region_slug": "west-pokot-county"
+                },
+                {
+                    "s_city_name": "Voi",
+                    "s_city_slug": "voi",
+                    "s_country_code": "ke",
+                    "s_region_slug": "west-pokot-county"
+                },
+                {
+                    "s_city_name": "Wundanyi",
+                    "s_city_slug": "wundanyi",
+                    "s_country_code": "ke",
+                    "s_region_slug": "west-pokot-county"
+                }
+            ],
             "s_country_code": "ke",
             "s_region_name": "West Pokot County",
-            "s_region_slug": "west-pokot-county",
-            "cities": [
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "west-pokot-county",
-                    "s_city_name": "Chepareria",
-                    "s_city_slug": "chepareria"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "west-pokot-county",
-                    "s_city_name": "Kapenguria",
-                    "s_city_slug": "kapenguria"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "west-pokot-county",
-                    "s_city_name": "Taveta",
-                    "s_city_slug": "taveta"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "west-pokot-county",
-                    "s_city_name": "Voi",
-                    "s_city_slug": "voi"
-                },
-                {
-                    "s_country_code": "ke",
-                    "s_region_slug": "west-pokot-county",
-                    "s_city_name": "Wundanyi",
-                    "s_city_slug": "wundanyi"
-                }
-            ]
+            "s_region_slug": "west-pokot-county"
         },
         {
-            "s_country_code": "ke",
-            "s_region_name": "Western Province",
-            "s_region_slug": "western-province",
             "cities": [
                 {
-                    "s_country_code": "ke",
-                    "s_region_slug": "western-province",
                     "s_city_name": "Western Province",
-                    "s_city_slug": "western-province"
+                    "s_city_slug": "western-province",
+                    "s_country_code": "ke",
+                    "s_region_slug": "western-province"
                 }
-            ]
+            ],
+            "s_country_code": "ke",
+            "s_region_name": "Western Province",
+            "s_region_slug": "western-province"
         }
-    ]
+    ],
+    "s_country_code": "KE",
+    "s_country_name": "Kenya",
+    "s_country_slug": "kenya"
 }

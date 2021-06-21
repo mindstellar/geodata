@@ -1,161 +1,161 @@
 {
-    "s_country_code": "SR",
-    "s_country_name": "Suriname",
-    "s_country_slug": "suriname",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Brokopondo",
+                    "s_city_slug": "brokopondo",
+                    "s_country_code": "sr",
+                    "s_region_slug": "brokopondo-district"
+                },
+                {
+                    "s_city_name": "Brownsweg",
+                    "s_city_slug": "brownsweg",
+                    "s_country_code": "sr",
+                    "s_region_slug": "brokopondo-district"
+                }
+            ],
             "s_country_code": "sr",
             "s_region_name": "Brokopondo District",
-            "s_region_slug": "brokopondo-district",
-            "cities": [
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "brokopondo-district",
-                    "s_city_name": "Brokopondo",
-                    "s_city_slug": "brokopondo"
-                },
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "brokopondo-district",
-                    "s_city_name": "Brownsweg",
-                    "s_city_slug": "brownsweg"
-                }
-            ]
+            "s_region_slug": "brokopondo-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Marienburg",
+                    "s_city_slug": "marienburg",
+                    "s_country_code": "sr",
+                    "s_region_slug": "commewijne-district"
+                },
+                {
+                    "s_city_name": "Nieuw Amsterdam",
+                    "s_city_slug": "nieuw-amsterdam",
+                    "s_country_code": "sr",
+                    "s_region_slug": "commewijne-district"
+                }
+            ],
             "s_country_code": "sr",
             "s_region_name": "Commewijne District",
-            "s_region_slug": "commewijne-district",
-            "cities": [
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "commewijne-district",
-                    "s_city_name": "Marienburg",
-                    "s_city_slug": "marienburg"
-                },
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "commewijne-district",
-                    "s_city_name": "Nieuw Amsterdam",
-                    "s_city_slug": "nieuw-amsterdam"
-                }
-            ]
+            "s_region_slug": "commewijne-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Totness",
+                    "s_city_slug": "totness",
+                    "s_country_code": "sr",
+                    "s_region_slug": "coronie-district"
+                }
+            ],
             "s_country_code": "sr",
             "s_region_name": "Coronie District",
-            "s_region_slug": "coronie-district",
-            "cities": [
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "coronie-district",
-                    "s_city_name": "Totness",
-                    "s_city_slug": "totness"
-                }
-            ]
+            "s_region_slug": "coronie-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Albina",
+                    "s_city_slug": "albina",
+                    "s_country_code": "sr",
+                    "s_region_slug": "marowijne-district"
+                },
+                {
+                    "s_city_name": "Moengo",
+                    "s_city_slug": "moengo",
+                    "s_country_code": "sr",
+                    "s_region_slug": "marowijne-district"
+                }
+            ],
             "s_country_code": "sr",
             "s_region_name": "Marowijne District",
-            "s_region_slug": "marowijne-district",
-            "cities": [
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "marowijne-district",
-                    "s_city_name": "Albina",
-                    "s_city_slug": "albina"
-                },
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "marowijne-district",
-                    "s_city_name": "Moengo",
-                    "s_city_slug": "moengo"
-                }
-            ]
+            "s_region_slug": "marowijne-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Nieuw Nickerie",
+                    "s_city_slug": "nieuw-nickerie",
+                    "s_country_code": "sr",
+                    "s_region_slug": "nickerie-district"
+                },
+                {
+                    "s_city_name": "Wageningen",
+                    "s_city_slug": "wageningen",
+                    "s_country_code": "sr",
+                    "s_region_slug": "nickerie-district"
+                }
+            ],
             "s_country_code": "sr",
             "s_region_name": "Nickerie District",
-            "s_region_slug": "nickerie-district",
-            "cities": [
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "nickerie-district",
-                    "s_city_name": "Nieuw Nickerie",
-                    "s_city_slug": "nieuw-nickerie"
-                },
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "nickerie-district",
-                    "s_city_name": "Wageningen",
-                    "s_city_slug": "wageningen"
-                }
-            ]
+            "s_region_slug": "nickerie-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Onverwacht",
+                    "s_city_slug": "onverwacht",
+                    "s_country_code": "sr",
+                    "s_region_slug": "para-district"
+                }
+            ],
             "s_country_code": "sr",
             "s_region_name": "Para District",
-            "s_region_slug": "para-district",
-            "cities": [
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "para-district",
-                    "s_city_name": "Onverwacht",
-                    "s_city_slug": "onverwacht"
-                }
-            ]
+            "s_region_slug": "para-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Paramaribo",
+                    "s_city_slug": "paramaribo",
+                    "s_country_code": "sr",
+                    "s_region_slug": "paramaribo-district"
+                }
+            ],
             "s_country_code": "sr",
             "s_region_name": "Paramaribo District",
-            "s_region_slug": "paramaribo-district",
-            "cities": [
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "paramaribo-district",
-                    "s_city_name": "Paramaribo",
-                    "s_city_slug": "paramaribo"
-                }
-            ]
+            "s_region_slug": "paramaribo-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Groningen",
+                    "s_city_slug": "groningen",
+                    "s_country_code": "sr",
+                    "s_region_slug": "saramacca-district"
+                }
+            ],
             "s_country_code": "sr",
             "s_region_name": "Saramacca District",
-            "s_region_slug": "saramacca-district",
-            "cities": [
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "saramacca-district",
-                    "s_city_name": "Groningen",
-                    "s_city_slug": "groningen"
-                }
-            ]
+            "s_region_slug": "saramacca-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Sipaliwini District",
+                    "s_city_slug": "sipaliwini-district",
+                    "s_country_code": "sr",
+                    "s_region_slug": "sipaliwini-district"
+                }
+            ],
             "s_country_code": "sr",
             "s_region_name": "Sipaliwini District",
-            "s_region_slug": "sipaliwini-district",
-            "cities": [
-                {
-                    "s_country_code": "sr",
-                    "s_region_slug": "sipaliwini-district",
-                    "s_city_name": "Sipaliwini District",
-                    "s_city_slug": "sipaliwini-district"
-                }
-            ]
+            "s_region_slug": "sipaliwini-district"
         },
         {
-            "s_country_code": "sr",
-            "s_region_name": "Wanica District",
-            "s_region_slug": "wanica-district",
             "cities": [
                 {
-                    "s_country_code": "sr",
-                    "s_region_slug": "wanica-district",
                     "s_city_name": "Lelydorp",
-                    "s_city_slug": "lelydorp"
+                    "s_city_slug": "lelydorp",
+                    "s_country_code": "sr",
+                    "s_region_slug": "wanica-district"
                 }
-            ]
+            ],
+            "s_country_code": "sr",
+            "s_region_name": "Wanica District",
+            "s_region_slug": "wanica-district"
         }
-    ]
+    ],
+    "s_country_code": "SR",
+    "s_country_name": "Suriname",
+    "s_country_slug": "suriname"
 }

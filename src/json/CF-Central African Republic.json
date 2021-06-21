@@ -1,396 +1,396 @@
 {
-    "s_country_code": "CF",
-    "s_country_name": "Central African Republic",
-    "s_country_slug": "central-african-republic",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Bamingui",
+                    "s_city_slug": "bamingui",
+                    "s_country_code": "cf",
+                    "s_region_slug": "bamingui-bangoran-prefecture"
+                },
+                {
+                    "s_city_name": "Ndele",
+                    "s_city_slug": "ndele",
+                    "s_country_code": "cf",
+                    "s_region_slug": "bamingui-bangoran-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Bamingui-Bangoran Prefecture",
-            "s_region_slug": "bamingui-bangoran-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "bamingui-bangoran-prefecture",
-                    "s_city_name": "Bamingui",
-                    "s_city_slug": "bamingui"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "bamingui-bangoran-prefecture",
-                    "s_city_name": "Ndele",
-                    "s_city_slug": "ndele"
-                }
-            ]
+            "s_region_slug": "bamingui-bangoran-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bangui",
+                    "s_city_slug": "bangui",
+                    "s_country_code": "cf",
+                    "s_region_slug": "bangui"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Bangui",
-            "s_region_slug": "bangui",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "bangui",
-                    "s_city_name": "Bangui",
-                    "s_city_slug": "bangui"
-                }
-            ]
+            "s_region_slug": "bangui"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Alindao",
+                    "s_city_slug": "alindao",
+                    "s_country_code": "cf",
+                    "s_region_slug": "basse-kotto-prefecture"
+                },
+                {
+                    "s_city_name": "Kembe",
+                    "s_city_slug": "kembe",
+                    "s_country_code": "cf",
+                    "s_region_slug": "basse-kotto-prefecture"
+                },
+                {
+                    "s_city_name": "Mobaye",
+                    "s_city_slug": "mobaye",
+                    "s_country_code": "cf",
+                    "s_region_slug": "basse-kotto-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Basse-Kotto Prefecture",
-            "s_region_slug": "basse-kotto-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "basse-kotto-prefecture",
-                    "s_city_name": "Alindao",
-                    "s_city_slug": "alindao"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "basse-kotto-prefecture",
-                    "s_city_name": "Kembe",
-                    "s_city_slug": "kembe"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "basse-kotto-prefecture",
-                    "s_city_name": "Mobaye",
-                    "s_city_slug": "mobaye"
-                }
-            ]
+            "s_region_slug": "basse-kotto-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Obo",
+                    "s_city_slug": "obo",
+                    "s_country_code": "cf",
+                    "s_region_slug": "haut-mbomou-prefecture"
+                },
+                {
+                    "s_city_name": "Zemio",
+                    "s_city_slug": "zemio",
+                    "s_country_code": "cf",
+                    "s_region_slug": "haut-mbomou-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Haut-Mbomou Prefecture",
-            "s_region_slug": "haut-mbomou-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "haut-mbomou-prefecture",
-                    "s_city_name": "Obo",
-                    "s_city_slug": "obo"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "haut-mbomou-prefecture",
-                    "s_city_name": "Zemio",
-                    "s_city_slug": "zemio"
-                }
-            ]
+            "s_region_slug": "haut-mbomou-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bria",
+                    "s_city_slug": "bria",
+                    "s_country_code": "cf",
+                    "s_region_slug": "haute-kotto-prefecture"
+                },
+                {
+                    "s_city_name": "Ouadda",
+                    "s_city_slug": "ouadda",
+                    "s_country_code": "cf",
+                    "s_region_slug": "haute-kotto-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Haute-Kotto Prefecture",
-            "s_region_slug": "haute-kotto-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "haute-kotto-prefecture",
-                    "s_city_name": "Bria",
-                    "s_city_slug": "bria"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "haute-kotto-prefecture",
-                    "s_city_name": "Ouadda",
-                    "s_city_slug": "ouadda"
-                }
-            ]
+            "s_region_slug": "haute-kotto-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Sibut",
+                    "s_city_slug": "sibut",
+                    "s_country_code": "cf",
+                    "s_region_slug": "kemo-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Kemo Prefecture",
-            "s_region_slug": "kemo-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "kemo-prefecture",
-                    "s_city_name": "Sibut",
-                    "s_city_slug": "sibut"
-                }
-            ]
+            "s_region_slug": "kemo-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Boda",
+                    "s_city_slug": "boda",
+                    "s_country_code": "cf",
+                    "s_region_slug": "lobaye-prefecture"
+                },
+                {
+                    "s_city_name": "Boganangone",
+                    "s_city_slug": "boganangone",
+                    "s_country_code": "cf",
+                    "s_region_slug": "lobaye-prefecture"
+                },
+                {
+                    "s_city_name": "Mbaiki",
+                    "s_city_slug": "mbaiki",
+                    "s_country_code": "cf",
+                    "s_region_slug": "lobaye-prefecture"
+                },
+                {
+                    "s_city_name": "Mbaiki",
+                    "s_city_slug": "mbaiki",
+                    "s_country_code": "cf",
+                    "s_region_slug": "lobaye-prefecture"
+                },
+                {
+                    "s_city_name": "Mongoumba",
+                    "s_city_slug": "mongoumba",
+                    "s_country_code": "cf",
+                    "s_region_slug": "lobaye-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Lobaye Prefecture",
-            "s_region_slug": "lobaye-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "lobaye-prefecture",
-                    "s_city_name": "Boda",
-                    "s_city_slug": "boda"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "lobaye-prefecture",
-                    "s_city_name": "Boganangone",
-                    "s_city_slug": "boganangone"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "lobaye-prefecture",
-                    "s_city_name": "Mbaiki",
-                    "s_city_slug": "mbaiki"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "lobaye-prefecture",
-                    "s_city_name": "Mbaiki",
-                    "s_city_slug": "mbaiki"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "lobaye-prefecture",
-                    "s_city_name": "Mongoumba",
-                    "s_city_slug": "mongoumba"
-                }
-            ]
+            "s_region_slug": "lobaye-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Berberati",
+                    "s_city_slug": "berberati",
+                    "s_country_code": "cf",
+                    "s_region_slug": "mambere-kadei"
+                },
+                {
+                    "s_city_name": "Berberati",
+                    "s_city_slug": "berberati",
+                    "s_country_code": "cf",
+                    "s_region_slug": "mambere-kadei"
+                },
+                {
+                    "s_city_name": "Carnot",
+                    "s_city_slug": "carnot",
+                    "s_country_code": "cf",
+                    "s_region_slug": "mambere-kadei"
+                },
+                {
+                    "s_city_name": "Gamboula",
+                    "s_city_slug": "gamboula",
+                    "s_country_code": "cf",
+                    "s_region_slug": "mambere-kadei"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Mambere-Kadei",
-            "s_region_slug": "mambere-kadei",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "mambere-kadei",
-                    "s_city_name": "Berberati",
-                    "s_city_slug": "berberati"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "mambere-kadei",
-                    "s_city_name": "Berberati",
-                    "s_city_slug": "berberati"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "mambere-kadei",
-                    "s_city_name": "Carnot",
-                    "s_city_slug": "carnot"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "mambere-kadei",
-                    "s_city_name": "Gamboula",
-                    "s_city_slug": "gamboula"
-                }
-            ]
+            "s_region_slug": "mambere-kadei"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bangassou",
+                    "s_city_slug": "bangassou",
+                    "s_country_code": "cf",
+                    "s_region_slug": "mbomou-prefecture"
+                },
+                {
+                    "s_city_name": "Gambo",
+                    "s_city_slug": "gambo",
+                    "s_country_code": "cf",
+                    "s_region_slug": "mbomou-prefecture"
+                },
+                {
+                    "s_city_name": "Ouango",
+                    "s_city_slug": "ouango",
+                    "s_country_code": "cf",
+                    "s_region_slug": "mbomou-prefecture"
+                },
+                {
+                    "s_city_name": "Rafai",
+                    "s_city_slug": "rafai",
+                    "s_country_code": "cf",
+                    "s_region_slug": "mbomou-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Mbomou Prefecture",
-            "s_region_slug": "mbomou-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "mbomou-prefecture",
-                    "s_city_name": "Bangassou",
-                    "s_city_slug": "bangassou"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "mbomou-prefecture",
-                    "s_city_name": "Gambo",
-                    "s_city_slug": "gambo"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "mbomou-prefecture",
-                    "s_city_name": "Ouango",
-                    "s_city_slug": "ouango"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "mbomou-prefecture",
-                    "s_city_name": "Rafai",
-                    "s_city_slug": "rafai"
-                }
-            ]
+            "s_region_slug": "mbomou-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kaga Bandoro",
+                    "s_city_slug": "kaga-bandoro",
+                    "s_country_code": "cf",
+                    "s_region_slug": "nana-grebizi-economic-prefecture"
+                },
+                {
+                    "s_city_name": "Kaga-Bandoro",
+                    "s_city_slug": "kaga-bandoro",
+                    "s_country_code": "cf",
+                    "s_region_slug": "nana-grebizi-economic-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Nana-Grebizi Economic Prefecture",
-            "s_region_slug": "nana-grebizi-economic-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "nana-grebizi-economic-prefecture",
-                    "s_city_name": "Kaga Bandoro",
-                    "s_city_slug": "kaga-bandoro"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "nana-grebizi-economic-prefecture",
-                    "s_city_name": "Kaga-Bandoro",
-                    "s_city_slug": "kaga-bandoro"
-                }
-            ]
+            "s_region_slug": "nana-grebizi-economic-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Baoro",
+                    "s_city_slug": "baoro",
+                    "s_country_code": "cf",
+                    "s_region_slug": "nana-mambere-prefecture"
+                },
+                {
+                    "s_city_name": "Bouar",
+                    "s_city_slug": "bouar",
+                    "s_country_code": "cf",
+                    "s_region_slug": "nana-mambere-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Nana-Mambere Prefecture",
-            "s_region_slug": "nana-mambere-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "nana-mambere-prefecture",
-                    "s_city_name": "Baoro",
-                    "s_city_slug": "baoro"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "nana-mambere-prefecture",
-                    "s_city_name": "Bouar",
-                    "s_city_slug": "bouar"
-                }
-            ]
+            "s_region_slug": "nana-mambere-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bimbo",
+                    "s_city_slug": "bimbo",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ombella-mpoko-prefecture"
+                },
+                {
+                    "s_city_name": "Boali",
+                    "s_city_slug": "boali",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ombella-mpoko-prefecture"
+                },
+                {
+                    "s_city_name": "Damara",
+                    "s_city_slug": "damara",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ombella-mpoko-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Ombella-M'Poko Prefecture",
-            "s_region_slug": "ombella-mpoko-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ombella-mpoko-prefecture",
-                    "s_city_name": "Bimbo",
-                    "s_city_slug": "bimbo"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ombella-mpoko-prefecture",
-                    "s_city_name": "Boali",
-                    "s_city_slug": "boali"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ombella-mpoko-prefecture",
-                    "s_city_name": "Damara",
-                    "s_city_slug": "damara"
-                }
-            ]
+            "s_region_slug": "ombella-mpoko-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bambari",
+                    "s_city_slug": "bambari",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ouaka-prefecture"
+                },
+                {
+                    "s_city_name": "Grimari",
+                    "s_city_slug": "grimari",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ouaka-prefecture"
+                },
+                {
+                    "s_city_name": "Ippy",
+                    "s_city_slug": "ippy",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ouaka-prefecture"
+                },
+                {
+                    "s_city_name": "Kouango",
+                    "s_city_slug": "kouango",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ouaka-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Ouaka Prefecture",
-            "s_region_slug": "ouaka-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ouaka-prefecture",
-                    "s_city_name": "Bambari",
-                    "s_city_slug": "bambari"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ouaka-prefecture",
-                    "s_city_name": "Grimari",
-                    "s_city_slug": "grimari"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ouaka-prefecture",
-                    "s_city_name": "Ippy",
-                    "s_city_slug": "ippy"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ouaka-prefecture",
-                    "s_city_name": "Kouango",
-                    "s_city_slug": "kouango"
-                }
-            ]
+            "s_region_slug": "ouaka-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Batangafo",
+                    "s_city_slug": "batangafo",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ouham-prefecture"
+                },
+                {
+                    "s_city_name": "Bossangoa",
+                    "s_city_slug": "bossangoa",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ouham-prefecture"
+                },
+                {
+                    "s_city_name": "Bouca",
+                    "s_city_slug": "bouca",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ouham-prefecture"
+                },
+                {
+                    "s_city_name": "Kabo",
+                    "s_city_slug": "kabo",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ouham-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Ouham Prefecture",
-            "s_region_slug": "ouham-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ouham-prefecture",
-                    "s_city_name": "Batangafo",
-                    "s_city_slug": "batangafo"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ouham-prefecture",
-                    "s_city_name": "Bossangoa",
-                    "s_city_slug": "bossangoa"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ouham-prefecture",
-                    "s_city_name": "Bouca",
-                    "s_city_slug": "bouca"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ouham-prefecture",
-                    "s_city_name": "Kabo",
-                    "s_city_slug": "kabo"
-                }
-            ]
+            "s_region_slug": "ouham-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bocaranga",
+                    "s_city_slug": "bocaranga",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ouham-pende-prefecture"
+                },
+                {
+                    "s_city_name": "Bozoum",
+                    "s_city_slug": "bozoum",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ouham-pende-prefecture"
+                },
+                {
+                    "s_city_name": "Paoua",
+                    "s_city_slug": "paoua",
+                    "s_country_code": "cf",
+                    "s_region_slug": "ouham-pende-prefecture"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Ouham-Pende Prefecture",
-            "s_region_slug": "ouham-pende-prefecture",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ouham-pende-prefecture",
-                    "s_city_name": "Bocaranga",
-                    "s_city_slug": "bocaranga"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ouham-pende-prefecture",
-                    "s_city_name": "Bozoum",
-                    "s_city_slug": "bozoum"
-                },
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "ouham-pende-prefecture",
-                    "s_city_name": "Paoua",
-                    "s_city_slug": "paoua"
-                }
-            ]
+            "s_region_slug": "ouham-pende-prefecture"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Nola",
+                    "s_city_slug": "nola",
+                    "s_country_code": "cf",
+                    "s_region_slug": "sangha-mbaere"
+                }
+            ],
             "s_country_code": "cf",
             "s_region_name": "Sangha-Mbaere",
-            "s_region_slug": "sangha-mbaere",
-            "cities": [
-                {
-                    "s_country_code": "cf",
-                    "s_region_slug": "sangha-mbaere",
-                    "s_city_name": "Nola",
-                    "s_city_slug": "nola"
-                }
-            ]
+            "s_region_slug": "sangha-mbaere"
         },
         {
-            "s_country_code": "cf",
-            "s_region_name": "Vakaga Prefecture",
-            "s_region_slug": "vakaga-prefecture",
             "cities": [
                 {
-                    "s_country_code": "cf",
-                    "s_region_slug": "vakaga-prefecture",
                     "s_city_name": "Birao",
-                    "s_city_slug": "birao"
+                    "s_city_slug": "birao",
+                    "s_country_code": "cf",
+                    "s_region_slug": "vakaga-prefecture"
                 },
                 {
-                    "s_country_code": "cf",
-                    "s_region_slug": "vakaga-prefecture",
                     "s_city_name": "Ouanda-Djalle",
-                    "s_city_slug": "ouanda-djalle"
+                    "s_city_slug": "ouanda-djalle",
+                    "s_country_code": "cf",
+                    "s_region_slug": "vakaga-prefecture"
                 }
-            ]
+            ],
+            "s_country_code": "cf",
+            "s_region_name": "Vakaga Prefecture",
+            "s_region_slug": "vakaga-prefecture"
         }
-    ]
+    ],
+    "s_country_code": "CF",
+    "s_country_name": "Central African Republic",
+    "s_country_slug": "central-african-republic"
 }

@@ -1,560 +1,560 @@
 {
-    "s_country_code": "NP",
-    "s_country_name": "Nepal",
-    "s_country_slug": "nepal",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Bagmati Zone",
+                    "s_city_slug": "bagmati-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "bagmati-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Bagmati Zone",
-            "s_region_slug": "bagmati-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "bagmati-zone",
-                    "s_city_name": "Bagmati Zone",
-                    "s_city_slug": "bagmati-zone"
-                }
-            ]
+            "s_region_slug": "bagmati-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bheri Zone",
+                    "s_city_slug": "bheri-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "bheri-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Bheri Zone",
-            "s_region_slug": "bheri-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "bheri-zone",
-                    "s_city_name": "Bheri Zone",
-                    "s_city_slug": "bheri-zone"
-                }
-            ]
+            "s_region_slug": "bheri-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Banepa",
+                    "s_city_slug": "banepa",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Bharatpur",
+                    "s_city_slug": "bharatpur",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Birganj",
+                    "s_city_slug": "birganj",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Dhulikhel",
+                    "s_city_slug": "dhulikhel",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Gaur",
+                    "s_city_slug": "gaur",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Hari Bdr Tamang House",
+                    "s_city_slug": "hari-bdr-tamang-house",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Hetauda",
+                    "s_city_slug": "hetauda",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Jaleshwar",
+                    "s_city_slug": "jaleshwar",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Janakpur",
+                    "s_city_slug": "janakpur",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Kathmandu",
+                    "s_city_slug": "kathmandu",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Kirtipur",
+                    "s_city_slug": "kirtipur",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Madhyapur Thimi",
+                    "s_city_slug": "madhyapur-thimi",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Malangawa",
+                    "s_city_slug": "malangawa",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Nagarkot",
+                    "s_city_slug": "nagarkot",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Panauti",
+                    "s_city_slug": "panauti",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Panauti",
+                    "s_city_slug": "panauti",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Patan",
+                    "s_city_slug": "patan",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "Ramechhap",
+                    "s_city_slug": "ramechhap",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                },
+                {
+                    "s_city_name": "kankrabari Dovan",
+                    "s_city_slug": "kankrabari-dovan",
+                    "s_country_code": "np",
+                    "s_region_slug": "central-region"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Central Region",
-            "s_region_slug": "central-region",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Banepa",
-                    "s_city_slug": "banepa"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Bharatpur",
-                    "s_city_slug": "bharatpur"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Birganj",
-                    "s_city_slug": "birganj"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Dhulikhel",
-                    "s_city_slug": "dhulikhel"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Gaur",
-                    "s_city_slug": "gaur"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Hari Bdr Tamang House",
-                    "s_city_slug": "hari-bdr-tamang-house"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Hetauda",
-                    "s_city_slug": "hetauda"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Jaleshwar",
-                    "s_city_slug": "jaleshwar"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Janakpur",
-                    "s_city_slug": "janakpur"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "kankrabari Dovan",
-                    "s_city_slug": "kankrabari-dovan"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Kathmandu",
-                    "s_city_slug": "kathmandu"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Kirtipur",
-                    "s_city_slug": "kirtipur"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Madhyapur Thimi",
-                    "s_city_slug": "madhyapur-thimi"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Malangawa",
-                    "s_city_slug": "malangawa"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Nagarkot",
-                    "s_city_slug": "nagarkot"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Panauti",
-                    "s_city_slug": "panauti"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Panauti",
-                    "s_city_slug": "panauti"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Patan",
-                    "s_city_slug": "patan"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "central-region",
-                    "s_city_name": "Ramechhap",
-                    "s_city_slug": "ramechhap"
-                }
-            ]
+            "s_region_slug": "central-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Dhaulagiri Zone",
+                    "s_city_slug": "dhaulagiri-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "dhaulagiri-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Dhaulagiri Zone",
-            "s_region_slug": "dhaulagiri-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "dhaulagiri-zone",
-                    "s_city_name": "Dhaulagiri Zone",
-                    "s_city_slug": "dhaulagiri-zone"
-                }
-            ]
+            "s_region_slug": "dhaulagiri-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bhadrapur",
+                    "s_city_slug": "bhadrapur",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Bhojpur",
+                    "s_city_slug": "bhojpur",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Biratnagar",
+                    "s_city_slug": "biratnagar",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Dhankuta",
+                    "s_city_slug": "dhankuta",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Dharan",
+                    "s_city_slug": "dharan",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Ilam",
+                    "s_city_slug": "ilam",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Inaruwa",
+                    "s_city_slug": "inaruwa",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Khanbari",
+                    "s_city_slug": "khanbari",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Lahan",
+                    "s_city_slug": "lahan",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Lobujya",
+                    "s_city_slug": "lobujya",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Namche Bazar",
+                    "s_city_slug": "namche-bazar",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Rajbiraj",
+                    "s_city_slug": "rajbiraj",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Siraha",
+                    "s_city_slug": "siraha",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Titahari",
+                    "s_city_slug": "titahari",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                },
+                {
+                    "s_city_name": "Triyuga",
+                    "s_city_slug": "triyuga",
+                    "s_country_code": "np",
+                    "s_region_slug": "eastern-development-region"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Eastern Development Region",
-            "s_region_slug": "eastern-development-region",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Bhadrapur",
-                    "s_city_slug": "bhadrapur"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Bhojpur",
-                    "s_city_slug": "bhojpur"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Biratnagar",
-                    "s_city_slug": "biratnagar"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Dhankuta",
-                    "s_city_slug": "dhankuta"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Dharan",
-                    "s_city_slug": "dharan"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Ilam",
-                    "s_city_slug": "ilam"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Inaruwa",
-                    "s_city_slug": "inaruwa"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Khanbari",
-                    "s_city_slug": "khanbari"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Lahan",
-                    "s_city_slug": "lahan"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Lobujya",
-                    "s_city_slug": "lobujya"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Namche Bazar",
-                    "s_city_slug": "namche-bazar"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Rajbiraj",
-                    "s_city_slug": "rajbiraj"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Siraha",
-                    "s_city_slug": "siraha"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Titahari",
-                    "s_city_slug": "titahari"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "eastern-development-region",
-                    "s_city_name": "Triyuga",
-                    "s_city_slug": "triyuga"
-                }
-            ]
+            "s_region_slug": "eastern-development-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Dadeldhura",
+                    "s_city_slug": "dadeldhura",
+                    "s_country_code": "np",
+                    "s_region_slug": "far-western-development-region"
+                },
+                {
+                    "s_city_name": "Dhangadhi",
+                    "s_city_slug": "dhangadhi",
+                    "s_country_code": "np",
+                    "s_region_slug": "far-western-development-region"
+                },
+                {
+                    "s_city_name": "Dipayal",
+                    "s_city_slug": "dipayal",
+                    "s_country_code": "np",
+                    "s_region_slug": "far-western-development-region"
+                },
+                {
+                    "s_city_name": "Mahendranagar",
+                    "s_city_slug": "mahendranagar",
+                    "s_country_code": "np",
+                    "s_region_slug": "far-western-development-region"
+                },
+                {
+                    "s_city_name": "Tikapur",
+                    "s_city_slug": "tikapur",
+                    "s_country_code": "np",
+                    "s_region_slug": "far-western-development-region"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Far-Western Development Region",
-            "s_region_slug": "far-western-development-region",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "far-western-development-region",
-                    "s_city_name": "Dadeldhura",
-                    "s_city_slug": "dadeldhura"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "far-western-development-region",
-                    "s_city_name": "Dhangadhi",
-                    "s_city_slug": "dhangadhi"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "far-western-development-region",
-                    "s_city_name": "Dipayal",
-                    "s_city_slug": "dipayal"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "far-western-development-region",
-                    "s_city_name": "Mahendranagar",
-                    "s_city_slug": "mahendranagar"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "far-western-development-region",
-                    "s_city_name": "Tikapur",
-                    "s_city_slug": "tikapur"
-                }
-            ]
+            "s_region_slug": "far-western-development-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Gandaki Zone",
+                    "s_city_slug": "gandaki-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "gandaki-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Gandaki Zone",
-            "s_region_slug": "gandaki-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "gandaki-zone",
-                    "s_city_name": "Gandaki Zone",
-                    "s_city_slug": "gandaki-zone"
-                }
-            ]
+            "s_region_slug": "gandaki-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Janakpur Zone",
+                    "s_city_slug": "janakpur-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "janakpur-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Janakpur Zone",
-            "s_region_slug": "janakpur-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "janakpur-zone",
-                    "s_city_name": "Janakpur Zone",
-                    "s_city_slug": "janakpur-zone"
-                }
-            ]
+            "s_region_slug": "janakpur-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Karnali Zone",
+                    "s_city_slug": "karnali-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "karnali-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Karnali Zone",
-            "s_region_slug": "karnali-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "karnali-zone",
-                    "s_city_name": "Karnali Zone",
-                    "s_city_slug": "karnali-zone"
-                }
-            ]
+            "s_region_slug": "karnali-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kosi Zone",
+                    "s_city_slug": "kosi-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "kosi-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Kosi Zone",
-            "s_region_slug": "kosi-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "kosi-zone",
-                    "s_city_name": "Kosi Zone",
-                    "s_city_slug": "kosi-zone"
-                }
-            ]
+            "s_region_slug": "kosi-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Lumbini Zone",
+                    "s_city_slug": "lumbini-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "lumbini-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Lumbini Zone",
-            "s_region_slug": "lumbini-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "lumbini-zone",
-                    "s_city_name": "Lumbini Zone",
-                    "s_city_slug": "lumbini-zone"
-                }
-            ]
+            "s_region_slug": "lumbini-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Mahakali Zone",
+                    "s_city_slug": "mahakali-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "mahakali-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Mahakali Zone",
-            "s_region_slug": "mahakali-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "mahakali-zone",
-                    "s_city_name": "Mahakali Zone",
-                    "s_city_slug": "mahakali-zone"
-                }
-            ]
+            "s_region_slug": "mahakali-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Mechi Zone",
+                    "s_city_slug": "mechi-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "mechi-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Mechi Zone",
-            "s_region_slug": "mechi-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "mechi-zone",
-                    "s_city_name": "Mechi Zone",
-                    "s_city_slug": "mechi-zone"
-                }
-            ]
+            "s_region_slug": "mechi-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bhojpur",
+                    "s_city_slug": "bhojpur",
+                    "s_country_code": "np",
+                    "s_region_slug": "mid-western-region"
+                },
+                {
+                    "s_city_name": "Birendranagar",
+                    "s_city_slug": "birendranagar",
+                    "s_country_code": "np",
+                    "s_region_slug": "mid-western-region"
+                },
+                {
+                    "s_city_name": "Dailekh",
+                    "s_city_slug": "dailekh",
+                    "s_country_code": "np",
+                    "s_region_slug": "mid-western-region"
+                },
+                {
+                    "s_city_name": "Gulariya",
+                    "s_city_slug": "gulariya",
+                    "s_country_code": "np",
+                    "s_region_slug": "mid-western-region"
+                },
+                {
+                    "s_city_name": "Jumla",
+                    "s_city_slug": "jumla",
+                    "s_country_code": "np",
+                    "s_region_slug": "mid-western-region"
+                },
+                {
+                    "s_city_name": "Nepalgunj",
+                    "s_city_slug": "nepalgunj",
+                    "s_country_code": "np",
+                    "s_region_slug": "mid-western-region"
+                },
+                {
+                    "s_city_name": "Tulsipur",
+                    "s_city_slug": "tulsipur",
+                    "s_country_code": "np",
+                    "s_region_slug": "mid-western-region"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Mid-Western Region",
-            "s_region_slug": "mid-western-region",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "mid-western-region",
-                    "s_city_name": "Bhojpur",
-                    "s_city_slug": "bhojpur"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "mid-western-region",
-                    "s_city_name": "Birendranagar",
-                    "s_city_slug": "birendranagar"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "mid-western-region",
-                    "s_city_name": "Dailekh",
-                    "s_city_slug": "dailekh"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "mid-western-region",
-                    "s_city_name": "Gulariya",
-                    "s_city_slug": "gulariya"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "mid-western-region",
-                    "s_city_name": "Jumla",
-                    "s_city_slug": "jumla"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "mid-western-region",
-                    "s_city_name": "Nepalgunj",
-                    "s_city_slug": "nepalgunj"
-                },
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "mid-western-region",
-                    "s_city_name": "Tulsipur",
-                    "s_city_slug": "tulsipur"
-                }
-            ]
+            "s_region_slug": "mid-western-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Narayani Zone",
+                    "s_city_slug": "narayani-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "narayani-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Narayani Zone",
-            "s_region_slug": "narayani-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "narayani-zone",
-                    "s_city_name": "Narayani Zone",
-                    "s_city_slug": "narayani-zone"
-                }
-            ]
+            "s_region_slug": "narayani-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Rapti Zone",
+                    "s_city_slug": "rapti-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "rapti-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Rapti Zone",
-            "s_region_slug": "rapti-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "rapti-zone",
-                    "s_city_name": "Rapti Zone",
-                    "s_city_slug": "rapti-zone"
-                }
-            ]
+            "s_region_slug": "rapti-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Sagarmatha Zone",
+                    "s_city_slug": "sagarmatha-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "sagarmatha-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Sagarmatha Zone",
-            "s_region_slug": "sagarmatha-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "sagarmatha-zone",
-                    "s_city_name": "Sagarmatha Zone",
-                    "s_city_slug": "sagarmatha-zone"
-                }
-            ]
+            "s_region_slug": "sagarmatha-zone"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Seti Zone",
+                    "s_city_slug": "seti-zone",
+                    "s_country_code": "np",
+                    "s_region_slug": "seti-zone"
+                }
+            ],
             "s_country_code": "np",
             "s_region_name": "Seti Zone",
-            "s_region_slug": "seti-zone",
-            "cities": [
-                {
-                    "s_country_code": "np",
-                    "s_region_slug": "seti-zone",
-                    "s_city_name": "Seti Zone",
-                    "s_city_slug": "seti-zone"
-                }
-            ]
+            "s_region_slug": "seti-zone"
         },
         {
-            "s_country_code": "np",
-            "s_region_name": "Western Region",
-            "s_region_slug": "western-region",
             "cities": [
                 {
-                    "s_country_code": "np",
-                    "s_region_slug": "western-region",
                     "s_city_name": "Baglung",
-                    "s_city_slug": "baglung"
+                    "s_city_slug": "baglung",
+                    "s_country_code": "np",
+                    "s_region_slug": "western-region"
                 },
                 {
-                    "s_country_code": "np",
-                    "s_region_slug": "western-region",
                     "s_city_name": "Bhattarai Danda",
-                    "s_city_slug": "bhattarai-danda"
+                    "s_city_slug": "bhattarai-danda",
+                    "s_country_code": "np",
+                    "s_region_slug": "western-region"
                 },
                 {
-                    "s_country_code": "np",
-                    "s_region_slug": "western-region",
                     "s_city_name": "Butwal",
-                    "s_city_slug": "butwal"
+                    "s_city_slug": "butwal",
+                    "s_country_code": "np",
+                    "s_region_slug": "western-region"
                 },
                 {
-                    "s_country_code": "np",
-                    "s_region_slug": "western-region",
                     "s_city_name": "Chitre",
-                    "s_city_slug": "chitre"
+                    "s_city_slug": "chitre",
+                    "s_country_code": "np",
+                    "s_region_slug": "western-region"
                 },
                 {
-                    "s_country_code": "np",
-                    "s_region_slug": "western-region",
                     "s_city_name": "Darchula",
-                    "s_city_slug": "darchula"
+                    "s_city_slug": "darchula",
+                    "s_country_code": "np",
+                    "s_region_slug": "western-region"
                 },
                 {
-                    "s_country_code": "np",
-                    "s_region_slug": "western-region",
                     "s_city_name": "Dihi",
-                    "s_city_slug": "dihi"
+                    "s_city_slug": "dihi",
+                    "s_country_code": "np",
+                    "s_region_slug": "western-region"
                 },
                 {
-                    "s_country_code": "np",
-                    "s_region_slug": "western-region",
                     "s_city_name": "Pokhara",
-                    "s_city_slug": "pokhara"
+                    "s_city_slug": "pokhara",
+                    "s_country_code": "np",
+                    "s_region_slug": "western-region"
                 },
                 {
-                    "s_country_code": "np",
-                    "s_region_slug": "western-region",
                     "s_city_name": "Siddharthanagar",
-                    "s_city_slug": "siddharthanagar"
+                    "s_city_slug": "siddharthanagar",
+                    "s_country_code": "np",
+                    "s_region_slug": "western-region"
                 },
                 {
-                    "s_country_code": "np",
-                    "s_region_slug": "western-region",
                     "s_city_name": "Tansen",
-                    "s_city_slug": "tansen"
+                    "s_city_slug": "tansen",
+                    "s_country_code": "np",
+                    "s_region_slug": "western-region"
                 },
                 {
-                    "s_country_code": "np",
-                    "s_region_slug": "western-region",
                     "s_city_name": "Walin",
-                    "s_city_slug": "walin"
+                    "s_city_slug": "walin",
+                    "s_country_code": "np",
+                    "s_region_slug": "western-region"
                 }
-            ]
+            ],
+            "s_country_code": "np",
+            "s_region_name": "Western Region",
+            "s_region_slug": "western-region"
         }
-    ]
+    ],
+    "s_country_code": "NP",
+    "s_country_name": "Nepal",
+    "s_country_slug": "nepal"
 }

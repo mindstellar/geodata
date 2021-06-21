@@ -1,284 +1,284 @@
 {
-    "s_country_code": "OM",
-    "s_country_name": "Oman",
-    "s_country_slug": "oman",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Adam",
+                    "s_city_slug": "adam",
+                    "s_country_code": "om",
+                    "s_region_slug": "ad-dakhiliyah-governorate"
+                },
+                {
+                    "s_city_name": "Bahla",
+                    "s_city_slug": "bahla",
+                    "s_country_code": "om",
+                    "s_region_slug": "ad-dakhiliyah-governorate"
+                },
+                {
+                    "s_city_name": "Bidbid",
+                    "s_city_slug": "bidbid",
+                    "s_country_code": "om",
+                    "s_region_slug": "ad-dakhiliyah-governorate"
+                },
+                {
+                    "s_city_name": "Izki",
+                    "s_city_slug": "izki",
+                    "s_country_code": "om",
+                    "s_region_slug": "ad-dakhiliyah-governorate"
+                },
+                {
+                    "s_city_name": "Nizwa",
+                    "s_city_slug": "nizwa",
+                    "s_country_code": "om",
+                    "s_region_slug": "ad-dakhiliyah-governorate"
+                },
+                {
+                    "s_city_name": "Sufalat Samail",
+                    "s_city_slug": "sufalat-samail",
+                    "s_country_code": "om",
+                    "s_region_slug": "ad-dakhiliyah-governorate"
+                }
+            ],
             "s_country_code": "om",
             "s_region_name": "Ad Dakhiliyah Governorate",
-            "s_region_slug": "ad-dakhiliyah-governorate",
-            "cities": [
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "ad-dakhiliyah-governorate",
-                    "s_city_name": "Adam",
-                    "s_city_slug": "adam"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "ad-dakhiliyah-governorate",
-                    "s_city_name": "Bahla",
-                    "s_city_slug": "bahla"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "ad-dakhiliyah-governorate",
-                    "s_city_name": "Bidbid",
-                    "s_city_slug": "bidbid"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "ad-dakhiliyah-governorate",
-                    "s_city_name": "Izki",
-                    "s_city_slug": "izki"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "ad-dakhiliyah-governorate",
-                    "s_city_name": "Nizwa",
-                    "s_city_slug": "nizwa"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "ad-dakhiliyah-governorate",
-                    "s_city_name": "Sufalat Samail",
-                    "s_city_slug": "sufalat-samail"
-                }
-            ]
+            "s_region_slug": "ad-dakhiliyah-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ibri",
+                    "s_city_slug": "ibri",
+                    "s_country_code": "om",
+                    "s_region_slug": "ad-dhahirah-governorate"
+                },
+                {
+                    "s_city_name": "Yanqul",
+                    "s_city_slug": "yanqul",
+                    "s_country_code": "om",
+                    "s_region_slug": "ad-dhahirah-governorate"
+                }
+            ],
             "s_country_code": "om",
             "s_region_name": "Ad Dhahirah Governorate",
-            "s_region_slug": "ad-dhahirah-governorate",
-            "cities": [
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "ad-dhahirah-governorate",
-                    "s_city_name": "Ibri",
-                    "s_city_slug": "ibri"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "ad-dhahirah-governorate",
-                    "s_city_name": "Yanqul",
-                    "s_city_slug": "yanqul"
-                }
-            ]
+            "s_region_slug": "ad-dhahirah-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Al Khaburah",
+                    "s_city_slug": "al-khaburah",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-batinah-north-governorate"
+                },
+                {
+                    "s_city_name": "As Suwayq",
+                    "s_city_slug": "as-suwayq",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-batinah-north-governorate"
+                },
+                {
+                    "s_city_name": "Liwa",
+                    "s_city_slug": "liwa",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-batinah-north-governorate"
+                },
+                {
+                    "s_city_name": "Saham",
+                    "s_city_slug": "saham",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-batinah-north-governorate"
+                },
+                {
+                    "s_city_name": "Shinas",
+                    "s_city_slug": "shinas",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-batinah-north-governorate"
+                },
+                {
+                    "s_city_name": "Sohar",
+                    "s_city_slug": "sohar",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-batinah-north-governorate"
+                }
+            ],
             "s_country_code": "om",
             "s_region_name": "Al Batinah North Governorate",
-            "s_region_slug": "al-batinah-north-governorate",
-            "cities": [
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-batinah-north-governorate",
-                    "s_city_name": "Al Khaburah",
-                    "s_city_slug": "al-khaburah"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-batinah-north-governorate",
-                    "s_city_name": "As Suwayq",
-                    "s_city_slug": "as-suwayq"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-batinah-north-governorate",
-                    "s_city_name": "Liwa",
-                    "s_city_slug": "liwa"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-batinah-north-governorate",
-                    "s_city_name": "Saham",
-                    "s_city_slug": "saham"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-batinah-north-governorate",
-                    "s_city_name": "Shinas",
-                    "s_city_slug": "shinas"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-batinah-north-governorate",
-                    "s_city_name": "Sohar",
-                    "s_city_slug": "sohar"
-                }
-            ]
+            "s_region_slug": "al-batinah-north-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Barka",
+                    "s_city_slug": "barka",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-batinah-region"
+                },
+                {
+                    "s_city_name": "Bayt al Awabi",
+                    "s_city_slug": "bayt-al-awabi",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-batinah-region"
+                },
+                {
+                    "s_city_name": "Oman Smart Future City",
+                    "s_city_slug": "oman-smart-future-city",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-batinah-region"
+                },
+                {
+                    "s_city_name": "Rustaq",
+                    "s_city_slug": "rustaq",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-batinah-region"
+                }
+            ],
             "s_country_code": "om",
             "s_region_name": "Al Batinah Region",
-            "s_region_slug": "al-batinah-region",
-            "cities": [
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-batinah-region",
-                    "s_city_name": "Barka",
-                    "s_city_slug": "barka"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-batinah-region",
-                    "s_city_name": "Bayt al Awabi",
-                    "s_city_slug": "bayt-al-awabi"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-batinah-region",
-                    "s_city_name": "Oman Smart Future City",
-                    "s_city_slug": "oman-smart-future-city"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-batinah-region",
-                    "s_city_name": "Rustaq",
-                    "s_city_slug": "rustaq"
-                }
-            ]
+            "s_region_slug": "al-batinah-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Al Batinah South Governorate",
+                    "s_city_slug": "al-batinah-south-governorate",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-batinah-south-governorate"
+                }
+            ],
             "s_country_code": "om",
             "s_region_name": "Al Batinah South Governorate",
-            "s_region_slug": "al-batinah-south-governorate",
-            "cities": [
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-batinah-south-governorate",
-                    "s_city_name": "Al Batinah South Governorate",
-                    "s_city_slug": "al-batinah-south-governorate"
-                }
-            ]
+            "s_region_slug": "al-batinah-south-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Al Buraymi",
+                    "s_city_slug": "al-buraymi",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-buraimi-governorate"
+                }
+            ],
             "s_country_code": "om",
             "s_region_name": "Al Buraimi Governorate",
-            "s_region_slug": "al-buraimi-governorate",
-            "cities": [
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-buraimi-governorate",
-                    "s_city_name": "Al Buraymi",
-                    "s_city_slug": "al-buraymi"
-                }
-            ]
+            "s_region_slug": "al-buraimi-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Hayma",
+                    "s_city_slug": "hayma",
+                    "s_country_code": "om",
+                    "s_region_slug": "al-wusta-governorate"
+                }
+            ],
             "s_country_code": "om",
             "s_region_name": "Al Wusta Governorate",
-            "s_region_slug": "al-wusta-governorate",
-            "cities": [
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "al-wusta-governorate",
-                    "s_city_name": "Hayma",
-                    "s_city_slug": "hayma"
-                }
-            ]
+            "s_region_slug": "al-wusta-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ash Sharqiyah North Governorate",
+                    "s_city_slug": "ash-sharqiyah-north-governorate",
+                    "s_country_code": "om",
+                    "s_region_slug": "ash-sharqiyah-north-governorate"
+                }
+            ],
             "s_country_code": "om",
             "s_region_name": "Ash Sharqiyah North Governorate",
-            "s_region_slug": "ash-sharqiyah-north-governorate",
-            "cities": [
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "ash-sharqiyah-north-governorate",
-                    "s_city_name": "Ash Sharqiyah North Governorate",
-                    "s_city_slug": "ash-sharqiyah-north-governorate"
-                }
-            ]
+            "s_region_slug": "ash-sharqiyah-north-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Sur",
+                    "s_city_slug": "sur",
+                    "s_country_code": "om",
+                    "s_region_slug": "ash-sharqiyah-region"
+                }
+            ],
             "s_country_code": "om",
             "s_region_name": "Ash Sharqiyah Region",
-            "s_region_slug": "ash-sharqiyah-region",
-            "cities": [
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "ash-sharqiyah-region",
-                    "s_city_name": "Sur",
-                    "s_city_slug": "sur"
-                }
-            ]
+            "s_region_slug": "ash-sharqiyah-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ash Sharqiyah South Governorate",
+                    "s_city_slug": "ash-sharqiyah-south-governorate",
+                    "s_country_code": "om",
+                    "s_region_slug": "ash-sharqiyah-south-governorate"
+                }
+            ],
             "s_country_code": "om",
             "s_region_name": "Ash Sharqiyah South Governorate",
-            "s_region_slug": "ash-sharqiyah-south-governorate",
-            "cities": [
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "ash-sharqiyah-south-governorate",
-                    "s_city_name": "Ash Sharqiyah South Governorate",
-                    "s_city_slug": "ash-sharqiyah-south-governorate"
-                }
-            ]
+            "s_region_slug": "ash-sharqiyah-south-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Salalah",
+                    "s_city_slug": "salalah",
+                    "s_country_code": "om",
+                    "s_region_slug": "dhofar-governorate"
+                }
+            ],
             "s_country_code": "om",
             "s_region_name": "Dhofar Governorate",
-            "s_region_slug": "dhofar-governorate",
-            "cities": [
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "dhofar-governorate",
-                    "s_city_name": "Salalah",
-                    "s_city_slug": "salalah"
-                }
-            ]
+            "s_region_slug": "dhofar-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Dib Dibba",
+                    "s_city_slug": "dib-dibba",
+                    "s_country_code": "om",
+                    "s_region_slug": "musandam-governorate"
+                },
+                {
+                    "s_city_name": "Khasab",
+                    "s_city_slug": "khasab",
+                    "s_country_code": "om",
+                    "s_region_slug": "musandam-governorate"
+                },
+                {
+                    "s_city_name": "Madha al Jadidah",
+                    "s_city_slug": "madha-al-jadidah",
+                    "s_country_code": "om",
+                    "s_region_slug": "musandam-governorate"
+                }
+            ],
             "s_country_code": "om",
             "s_region_name": "Musandam Governorate",
-            "s_region_slug": "musandam-governorate",
-            "cities": [
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "musandam-governorate",
-                    "s_city_name": "Dib Dibba",
-                    "s_city_slug": "dib-dibba"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "musandam-governorate",
-                    "s_city_name": "Khasab",
-                    "s_city_slug": "khasab"
-                },
-                {
-                    "s_country_code": "om",
-                    "s_region_slug": "musandam-governorate",
-                    "s_city_name": "Madha al Jadidah",
-                    "s_city_slug": "madha-al-jadidah"
-                }
-            ]
+            "s_region_slug": "musandam-governorate"
         },
         {
-            "s_country_code": "om",
-            "s_region_name": "Muscat Governorate",
-            "s_region_slug": "muscat-governorate",
             "cities": [
                 {
-                    "s_country_code": "om",
-                    "s_region_slug": "muscat-governorate",
                     "s_city_name": "Bawshar",
-                    "s_city_slug": "bawshar"
+                    "s_city_slug": "bawshar",
+                    "s_country_code": "om",
+                    "s_region_slug": "muscat-governorate"
                 },
                 {
-                    "s_country_code": "om",
-                    "s_region_slug": "muscat-governorate",
                     "s_city_name": "Muscat",
-                    "s_city_slug": "muscat"
+                    "s_city_slug": "muscat",
+                    "s_country_code": "om",
+                    "s_region_slug": "muscat-governorate"
                 },
                 {
-                    "s_country_code": "om",
-                    "s_region_slug": "muscat-governorate",
                     "s_city_name": "Seeb",
-                    "s_city_slug": "seeb"
+                    "s_city_slug": "seeb",
+                    "s_country_code": "om",
+                    "s_region_slug": "muscat-governorate"
                 }
-            ]
+            ],
+            "s_country_code": "om",
+            "s_region_name": "Muscat Governorate",
+            "s_region_slug": "muscat-governorate"
         }
-    ]
+    ],
+    "s_country_code": "OM",
+    "s_country_name": "Oman",
+    "s_country_slug": "oman"
 }

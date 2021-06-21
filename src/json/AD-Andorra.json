@@ -1,116 +1,116 @@
 {
-    "s_country_code": "AD",
-    "s_country_name": "Andorra",
-    "s_country_slug": "andorra",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Andorra la Vella",
+                    "s_city_slug": "andorra-la-vella",
+                    "s_country_code": "ad",
+                    "s_region_slug": "andorra-la-vella"
+                }
+            ],
             "s_country_code": "ad",
             "s_region_name": "Andorra la Vella",
-            "s_region_slug": "andorra-la-vella",
-            "cities": [
-                {
-                    "s_country_code": "ad",
-                    "s_region_slug": "andorra-la-vella",
-                    "s_city_name": "Andorra la Vella",
-                    "s_city_slug": "andorra-la-vella"
-                }
-            ]
+            "s_region_slug": "andorra-la-vella"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Canillo",
+                    "s_city_slug": "canillo",
+                    "s_country_code": "ad",
+                    "s_region_slug": "canillo"
+                },
+                {
+                    "s_city_name": "El Tarter",
+                    "s_city_slug": "el-tarter",
+                    "s_country_code": "ad",
+                    "s_region_slug": "canillo"
+                }
+            ],
             "s_country_code": "ad",
             "s_region_name": "Canillo",
-            "s_region_slug": "canillo",
-            "cities": [
-                {
-                    "s_country_code": "ad",
-                    "s_region_slug": "canillo",
-                    "s_city_name": "Canillo",
-                    "s_city_slug": "canillo"
-                },
-                {
-                    "s_country_code": "ad",
-                    "s_region_slug": "canillo",
-                    "s_city_name": "El Tarter",
-                    "s_city_slug": "el-tarter"
-                }
-            ]
+            "s_region_slug": "canillo"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Encamp",
+                    "s_city_slug": "encamp",
+                    "s_country_code": "ad",
+                    "s_region_slug": "encamp"
+                },
+                {
+                    "s_city_name": "Pas de la Casa",
+                    "s_city_slug": "pas-de-la-casa",
+                    "s_country_code": "ad",
+                    "s_region_slug": "encamp"
+                }
+            ],
             "s_country_code": "ad",
             "s_region_name": "Encamp",
-            "s_region_slug": "encamp",
-            "cities": [
-                {
-                    "s_country_code": "ad",
-                    "s_region_slug": "encamp",
-                    "s_city_name": "Encamp",
-                    "s_city_slug": "encamp"
-                },
-                {
-                    "s_country_code": "ad",
-                    "s_region_slug": "encamp",
-                    "s_city_name": "Pas de la Casa",
-                    "s_city_slug": "pas-de-la-casa"
-                }
-            ]
+            "s_region_slug": "encamp"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "les Escaldes",
+                    "s_city_slug": "les-escaldes",
+                    "s_country_code": "ad",
+                    "s_region_slug": "escaldes-engordany"
+                }
+            ],
             "s_country_code": "ad",
             "s_region_name": "Escaldes-Engordany",
-            "s_region_slug": "escaldes-engordany",
-            "cities": [
-                {
-                    "s_country_code": "ad",
-                    "s_region_slug": "escaldes-engordany",
-                    "s_city_name": "les Escaldes",
-                    "s_city_slug": "les-escaldes"
-                }
-            ]
+            "s_region_slug": "escaldes-engordany"
         },
         {
-            "s_country_code": "ad",
-            "s_region_name": "La Massana",
-            "s_region_slug": "la-massana",
             "cities": [
                 {
-                    "s_country_code": "ad",
-                    "s_region_slug": "la-massana",
                     "s_city_name": "Arinsal",
-                    "s_city_slug": "arinsal"
+                    "s_city_slug": "arinsal",
+                    "s_country_code": "ad",
+                    "s_region_slug": "la-massana"
                 },
                 {
-                    "s_country_code": "ad",
-                    "s_region_slug": "la-massana",
                     "s_city_name": "la Massana",
-                    "s_city_slug": "la-massana"
+                    "s_city_slug": "la-massana",
+                    "s_country_code": "ad",
+                    "s_region_slug": "la-massana"
                 }
-            ]
+            ],
+            "s_country_code": "ad",
+            "s_region_name": "La Massana",
+            "s_region_slug": "la-massana"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ordino",
+                    "s_city_slug": "ordino",
+                    "s_country_code": "ad",
+                    "s_region_slug": "ordino"
+                }
+            ],
             "s_country_code": "ad",
             "s_region_name": "Ordino",
-            "s_region_slug": "ordino",
-            "cities": [
-                {
-                    "s_country_code": "ad",
-                    "s_region_slug": "ordino",
-                    "s_city_name": "Ordino",
-                    "s_city_slug": "ordino"
-                }
-            ]
+            "s_region_slug": "ordino"
         },
         {
-            "s_country_code": "ad",
-            "s_region_name": "Sant Julia de Loria",
-            "s_region_slug": "sant-julia-de-loria",
             "cities": [
                 {
-                    "s_country_code": "ad",
-                    "s_region_slug": "sant-julia-de-loria",
                     "s_city_name": "Sant Julia de Loria",
-                    "s_city_slug": "sant-julia-de-loria"
+                    "s_city_slug": "sant-julia-de-loria",
+                    "s_country_code": "ad",
+                    "s_region_slug": "sant-julia-de-loria"
                 }
-            ]
+            ],
+            "s_country_code": "ad",
+            "s_region_name": "Sant Julia de Loria",
+            "s_region_slug": "sant-julia-de-loria"
         }
-    ]
+    ],
+    "s_country_code": "AD",
+    "s_country_name": "Andorra",
+    "s_country_slug": "andorra"
 }

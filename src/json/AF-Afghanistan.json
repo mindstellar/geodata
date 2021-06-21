@@ -1,790 +1,790 @@
 {
-    "s_country_code": "AF",
-    "s_country_name": "Afghanistan",
-    "s_country_slug": "afghanistan",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Ashkasham",
+                    "s_city_slug": "ashkasham",
+                    "s_country_code": "af",
+                    "s_region_slug": "badakhshan"
+                },
+                {
+                    "s_city_name": "Fayzabad",
+                    "s_city_slug": "fayzabad",
+                    "s_country_code": "af",
+                    "s_region_slug": "badakhshan"
+                },
+                {
+                    "s_city_name": "Jurm",
+                    "s_city_slug": "jurm",
+                    "s_country_code": "af",
+                    "s_region_slug": "badakhshan"
+                },
+                {
+                    "s_city_name": "Khandud",
+                    "s_city_slug": "khandud",
+                    "s_country_code": "af",
+                    "s_region_slug": "badakhshan"
+                },
+                {
+                    "s_city_name": "Raghistan",
+                    "s_city_slug": "raghistan",
+                    "s_country_code": "af",
+                    "s_region_slug": "badakhshan"
+                },
+                {
+                    "s_city_name": "Wakhan",
+                    "s_city_slug": "wakhan",
+                    "s_country_code": "af",
+                    "s_region_slug": "badakhshan"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Badakhshan",
-            "s_region_slug": "badakhshan",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "badakhshan",
-                    "s_city_name": "Ashkasham",
-                    "s_city_slug": "ashkasham"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "badakhshan",
-                    "s_city_name": "Fayzabad",
-                    "s_city_slug": "fayzabad"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "badakhshan",
-                    "s_city_name": "Jurm",
-                    "s_city_slug": "jurm"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "badakhshan",
-                    "s_city_name": "Khandud",
-                    "s_city_slug": "khandud"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "badakhshan",
-                    "s_city_name": "Raghistan",
-                    "s_city_slug": "raghistan"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "badakhshan",
-                    "s_city_name": "Wakhan",
-                    "s_city_slug": "wakhan"
-                }
-            ]
+            "s_region_slug": "badakhshan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ghormach",
+                    "s_city_slug": "ghormach",
+                    "s_country_code": "af",
+                    "s_region_slug": "badghis"
+                },
+                {
+                    "s_city_name": "Qala i Naw",
+                    "s_city_slug": "qala-i-naw",
+                    "s_country_code": "af",
+                    "s_region_slug": "badghis"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Badghis",
-            "s_region_slug": "badghis",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "badghis",
-                    "s_city_name": "Ghormach",
-                    "s_city_slug": "ghormach"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "badghis",
-                    "s_city_name": "Qala i Naw",
-                    "s_city_slug": "qala-i-naw"
-                }
-            ]
+            "s_region_slug": "badghis"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Baghlan",
+                    "s_city_slug": "baghlan",
+                    "s_country_code": "af",
+                    "s_region_slug": "baghlan"
+                },
+                {
+                    "s_city_name": "Hukumati Dahanah-ye Ghori",
+                    "s_city_slug": "hukumati-dahanah-ye-ghori",
+                    "s_country_code": "af",
+                    "s_region_slug": "baghlan"
+                },
+                {
+                    "s_city_name": "Nahrin",
+                    "s_city_slug": "nahrin",
+                    "s_country_code": "af",
+                    "s_region_slug": "baghlan"
+                },
+                {
+                    "s_city_name": "Pul-e Khumri",
+                    "s_city_slug": "pul-e-khumri",
+                    "s_country_code": "af",
+                    "s_region_slug": "baghlan"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Baghlan",
-            "s_region_slug": "baghlan",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "baghlan",
-                    "s_city_name": "Baghlan",
-                    "s_city_slug": "baghlan"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "baghlan",
-                    "s_city_name": "Hukumati Dahanah-ye Ghori",
-                    "s_city_slug": "hukumati-dahanah-ye-ghori"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "baghlan",
-                    "s_city_name": "Nahrin",
-                    "s_city_slug": "nahrin"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "baghlan",
-                    "s_city_name": "Pul-e Khumri",
-                    "s_city_slug": "pul-e-khumri"
-                }
-            ]
+            "s_region_slug": "baghlan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Balkh",
+                    "s_city_slug": "balkh",
+                    "s_country_code": "af",
+                    "s_region_slug": "balkh"
+                },
+                {
+                    "s_city_name": "Dowlatabad",
+                    "s_city_slug": "dowlatabad",
+                    "s_country_code": "af",
+                    "s_region_slug": "balkh"
+                },
+                {
+                    "s_city_name": "Khulm",
+                    "s_city_slug": "khulm",
+                    "s_country_code": "af",
+                    "s_region_slug": "balkh"
+                },
+                {
+                    "s_city_name": "Lab-Sar",
+                    "s_city_slug": "lab-sar",
+                    "s_country_code": "af",
+                    "s_region_slug": "balkh"
+                },
+                {
+                    "s_city_name": "Mazar-e Sharif",
+                    "s_city_slug": "mazar-e-sharif",
+                    "s_country_code": "af",
+                    "s_region_slug": "balkh"
+                },
+                {
+                    "s_city_name": "Qarchi Gak",
+                    "s_city_slug": "qarchi-gak",
+                    "s_country_code": "af",
+                    "s_region_slug": "balkh"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Balkh",
-            "s_region_slug": "balkh",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "balkh",
-                    "s_city_name": "Balkh",
-                    "s_city_slug": "balkh"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "balkh",
-                    "s_city_name": "Dowlatabad",
-                    "s_city_slug": "dowlatabad"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "balkh",
-                    "s_city_name": "Khulm",
-                    "s_city_slug": "khulm"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "balkh",
-                    "s_city_name": "Lab-Sar",
-                    "s_city_slug": "lab-sar"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "balkh",
-                    "s_city_name": "Mazar-e Sharif",
-                    "s_city_slug": "mazar-e-sharif"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "balkh",
-                    "s_city_name": "Qarchi Gak",
-                    "s_city_slug": "qarchi-gak"
-                }
-            ]
+            "s_region_slug": "balkh"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bamyan",
+                    "s_city_slug": "bamyan",
+                    "s_country_code": "af",
+                    "s_region_slug": "bamyan"
+                },
+                {
+                    "s_city_name": "Panjab",
+                    "s_city_slug": "panjab",
+                    "s_country_code": "af",
+                    "s_region_slug": "bamyan"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Bamyan",
-            "s_region_slug": "bamyan",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "bamyan",
-                    "s_city_name": "Bamyan",
-                    "s_city_slug": "bamyan"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "bamyan",
-                    "s_city_name": "Panjab",
-                    "s_city_slug": "panjab"
-                }
-            ]
+            "s_region_slug": "bamyan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Nili",
+                    "s_city_slug": "nili",
+                    "s_country_code": "af",
+                    "s_region_slug": "daykundi"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Daykundi",
-            "s_region_slug": "daykundi",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "daykundi",
-                    "s_city_name": "Nili",
-                    "s_city_slug": "nili"
-                }
-            ]
+            "s_region_slug": "daykundi"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Farah",
+                    "s_city_slug": "farah",
+                    "s_country_code": "af",
+                    "s_region_slug": "farah"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Farah",
-            "s_region_slug": "farah",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "farah",
-                    "s_city_name": "Farah",
-                    "s_city_slug": "farah"
-                }
-            ]
+            "s_region_slug": "farah"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Andkhoy",
+                    "s_city_slug": "andkhoy",
+                    "s_country_code": "af",
+                    "s_region_slug": "faryab"
+                },
+                {
+                    "s_city_name": "Maymana",
+                    "s_city_slug": "maymana",
+                    "s_country_code": "af",
+                    "s_region_slug": "faryab"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Faryab",
-            "s_region_slug": "faryab",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "faryab",
-                    "s_city_name": "Andkhoy",
-                    "s_city_slug": "andkhoy"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "faryab",
-                    "s_city_name": "Maymana",
-                    "s_city_slug": "maymana"
-                }
-            ]
+            "s_region_slug": "faryab"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ghazni",
+                    "s_city_slug": "ghazni",
+                    "s_country_code": "af",
+                    "s_region_slug": "ghazni"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Ghazni",
-            "s_region_slug": "ghazni",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "ghazni",
-                    "s_city_name": "Ghazni",
-                    "s_city_slug": "ghazni"
-                }
-            ]
+            "s_region_slug": "ghazni"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Fayroz Koh",
+                    "s_city_slug": "fayroz-koh",
+                    "s_country_code": "af",
+                    "s_region_slug": "ghor"
+                },
+                {
+                    "s_city_name": "Shahrak",
+                    "s_city_slug": "shahrak",
+                    "s_country_code": "af",
+                    "s_region_slug": "ghor"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Ghor",
-            "s_region_slug": "ghor",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "ghor",
-                    "s_city_name": "Fayroz Koh",
-                    "s_city_slug": "fayroz-koh"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "ghor",
-                    "s_city_name": "Shahrak",
-                    "s_city_slug": "shahrak"
-                }
-            ]
+            "s_region_slug": "ghor"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Alaqahdari Dishu",
+                    "s_city_slug": "alaqahdari-dishu",
+                    "s_country_code": "af",
+                    "s_region_slug": "helmand"
+                },
+                {
+                    "s_city_name": "Gereshk",
+                    "s_city_slug": "gereshk",
+                    "s_country_code": "af",
+                    "s_region_slug": "helmand"
+                },
+                {
+                    "s_city_name": "Lashkar Gah",
+                    "s_city_slug": "lashkar-gah",
+                    "s_country_code": "af",
+                    "s_region_slug": "helmand"
+                },
+                {
+                    "s_city_name": "Markaz-e Hukumat-e Darweshan",
+                    "s_city_slug": "markaz-e-hukumat-e-darweshan",
+                    "s_country_code": "af",
+                    "s_region_slug": "helmand"
+                },
+                {
+                    "s_city_name": "Sangin",
+                    "s_city_slug": "sangin",
+                    "s_country_code": "af",
+                    "s_region_slug": "helmand"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Helmand",
-            "s_region_slug": "helmand",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "helmand",
-                    "s_city_name": "Alaqahdari Dishu",
-                    "s_city_slug": "alaqahdari-dishu"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "helmand",
-                    "s_city_name": "Gereshk",
-                    "s_city_slug": "gereshk"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "helmand",
-                    "s_city_name": "Lashkar Gah",
-                    "s_city_slug": "lashkar-gah"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "helmand",
-                    "s_city_name": "Markaz-e Hukumat-e Darweshan",
-                    "s_city_slug": "markaz-e-hukumat-e-darweshan"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "helmand",
-                    "s_city_name": "Sangin",
-                    "s_city_slug": "sangin"
-                }
-            ]
+            "s_region_slug": "helmand"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Chahar Burj",
+                    "s_city_slug": "chahar-burj",
+                    "s_country_code": "af",
+                    "s_region_slug": "herat"
+                },
+                {
+                    "s_city_name": "Ghoriyan",
+                    "s_city_slug": "ghoriyan",
+                    "s_country_code": "af",
+                    "s_region_slug": "herat"
+                },
+                {
+                    "s_city_name": "Herat",
+                    "s_city_slug": "herat",
+                    "s_country_code": "af",
+                    "s_region_slug": "herat"
+                },
+                {
+                    "s_city_name": "Kafir Qala",
+                    "s_city_slug": "kafir-qala",
+                    "s_country_code": "af",
+                    "s_region_slug": "herat"
+                },
+                {
+                    "s_city_name": "Karukh",
+                    "s_city_slug": "karukh",
+                    "s_country_code": "af",
+                    "s_region_slug": "herat"
+                },
+                {
+                    "s_city_name": "Kuhsan",
+                    "s_city_slug": "kuhsan",
+                    "s_country_code": "af",
+                    "s_region_slug": "herat"
+                },
+                {
+                    "s_city_name": "Kushk",
+                    "s_city_slug": "kushk",
+                    "s_country_code": "af",
+                    "s_region_slug": "herat"
+                },
+                {
+                    "s_city_name": "Qarah Bagh",
+                    "s_city_slug": "qarah-bagh",
+                    "s_country_code": "af",
+                    "s_region_slug": "herat"
+                },
+                {
+                    "s_city_name": "Shindand",
+                    "s_city_slug": "shindand",
+                    "s_country_code": "af",
+                    "s_region_slug": "herat"
+                },
+                {
+                    "s_city_name": "Tir Pul",
+                    "s_city_slug": "tir-pul",
+                    "s_country_code": "af",
+                    "s_region_slug": "herat"
+                },
+                {
+                    "s_city_name": "Zindah Jan",
+                    "s_city_slug": "zindah-jan",
+                    "s_country_code": "af",
+                    "s_region_slug": "herat"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Herat",
-            "s_region_slug": "herat",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "herat",
-                    "s_city_name": "Chahar Burj",
-                    "s_city_slug": "chahar-burj"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "herat",
-                    "s_city_name": "Ghoriyan",
-                    "s_city_slug": "ghoriyan"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "herat",
-                    "s_city_name": "Herat",
-                    "s_city_slug": "herat"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "herat",
-                    "s_city_name": "Kafir Qala",
-                    "s_city_slug": "kafir-qala"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "herat",
-                    "s_city_name": "Karukh",
-                    "s_city_slug": "karukh"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "herat",
-                    "s_city_name": "Kuhsan",
-                    "s_city_slug": "kuhsan"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "herat",
-                    "s_city_name": "Kushk",
-                    "s_city_slug": "kushk"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "herat",
-                    "s_city_name": "Qarah Bagh",
-                    "s_city_slug": "qarah-bagh"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "herat",
-                    "s_city_name": "Shindand",
-                    "s_city_slug": "shindand"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "herat",
-                    "s_city_name": "Tir Pul",
-                    "s_city_slug": "tir-pul"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "herat",
-                    "s_city_name": "Zindah Jan",
-                    "s_city_slug": "zindah-jan"
-                }
-            ]
+            "s_region_slug": "herat"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Aqchah",
+                    "s_city_slug": "aqchah",
+                    "s_country_code": "af",
+                    "s_region_slug": "jowzjan"
+                },
+                {
+                    "s_city_name": "Darzab",
+                    "s_city_slug": "darzab",
+                    "s_country_code": "af",
+                    "s_region_slug": "jowzjan"
+                },
+                {
+                    "s_city_name": "Qarqin",
+                    "s_city_slug": "qarqin",
+                    "s_country_code": "af",
+                    "s_region_slug": "jowzjan"
+                },
+                {
+                    "s_city_name": "Shibirghan",
+                    "s_city_slug": "shibirghan",
+                    "s_country_code": "af",
+                    "s_region_slug": "jowzjan"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Jowzjan",
-            "s_region_slug": "jowzjan",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "jowzjan",
-                    "s_city_name": "Aqchah",
-                    "s_city_slug": "aqchah"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "jowzjan",
-                    "s_city_name": "Darzab",
-                    "s_city_slug": "darzab"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "jowzjan",
-                    "s_city_name": "Qarqin",
-                    "s_city_slug": "qarqin"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "jowzjan",
-                    "s_city_name": "Shibirghan",
-                    "s_city_slug": "shibirghan"
-                }
-            ]
+            "s_region_slug": "jowzjan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kabul",
+                    "s_city_slug": "kabul",
+                    "s_country_code": "af",
+                    "s_region_slug": "kabul"
+                },
+                {
+                    "s_city_name": "Mir Bachah Kot",
+                    "s_city_slug": "mir-bachah-kot",
+                    "s_country_code": "af",
+                    "s_region_slug": "kabul"
+                },
+                {
+                    "s_city_name": "Paghman",
+                    "s_city_slug": "paghman",
+                    "s_country_code": "af",
+                    "s_region_slug": "kabul"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Kabul",
-            "s_region_slug": "kabul",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "kabul",
-                    "s_city_name": "Kabul",
-                    "s_city_slug": "kabul"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "kabul",
-                    "s_city_name": "Mir Bachah Kot",
-                    "s_city_slug": "mir-bachah-kot"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "kabul",
-                    "s_city_name": "Paghman",
-                    "s_city_slug": "paghman"
-                }
-            ]
+            "s_region_slug": "kabul"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kandahar",
+                    "s_city_slug": "kandahar",
+                    "s_country_code": "af",
+                    "s_region_slug": "kandahar"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Kandahar",
-            "s_region_slug": "kandahar",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "kandahar",
-                    "s_city_name": "Kandahar",
-                    "s_city_slug": "kandahar"
-                }
-            ]
+            "s_region_slug": "kandahar"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Sidqabad",
+                    "s_city_slug": "sidqabad",
+                    "s_country_code": "af",
+                    "s_region_slug": "kapisa"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Kapisa",
-            "s_region_slug": "kapisa",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "kapisa",
-                    "s_city_name": "Sidqabad",
-                    "s_city_slug": "sidqabad"
-                }
-            ]
+            "s_region_slug": "kapisa"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Khost",
+                    "s_city_slug": "khost",
+                    "s_country_code": "af",
+                    "s_region_slug": "khost"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Khost",
-            "s_region_slug": "khost",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "khost",
-                    "s_city_name": "Khost",
-                    "s_city_slug": "khost"
-                }
-            ]
+            "s_region_slug": "khost"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Asadabad",
+                    "s_city_slug": "asadabad",
+                    "s_country_code": "af",
+                    "s_region_slug": "kunar"
+                },
+                {
+                    "s_city_name": "Asmar",
+                    "s_city_slug": "asmar",
+                    "s_country_code": "af",
+                    "s_region_slug": "kunar"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Kunar",
-            "s_region_slug": "kunar",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "kunar",
-                    "s_city_name": "Asadabad",
-                    "s_city_slug": "asadabad"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "kunar",
-                    "s_city_name": "Asmar",
-                    "s_city_slug": "asmar"
-                }
-            ]
+            "s_region_slug": "kunar"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Dasht-e Archi",
+                    "s_city_slug": "dasht-e-archi",
+                    "s_country_code": "af",
+                    "s_region_slug": "kunduz-province"
+                },
+                {
+                    "s_city_name": "Imam Sahib",
+                    "s_city_slug": "imam-sahib",
+                    "s_country_code": "af",
+                    "s_region_slug": "kunduz-province"
+                },
+                {
+                    "s_city_name": "Khanabad",
+                    "s_city_slug": "khanabad",
+                    "s_country_code": "af",
+                    "s_region_slug": "kunduz-province"
+                },
+                {
+                    "s_city_name": "Kunduz",
+                    "s_city_slug": "kunduz",
+                    "s_country_code": "af",
+                    "s_region_slug": "kunduz-province"
+                },
+                {
+                    "s_city_name": "Qarawul",
+                    "s_city_slug": "qarawul",
+                    "s_country_code": "af",
+                    "s_region_slug": "kunduz-province"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Kunduz Province",
-            "s_region_slug": "kunduz-province",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "kunduz-province",
-                    "s_city_name": "Dasht-e Archi",
-                    "s_city_slug": "dasht-e-archi"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "kunduz-province",
-                    "s_city_name": "Imam Sahib",
-                    "s_city_slug": "imam-sahib"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "kunduz-province",
-                    "s_city_name": "Khanabad",
-                    "s_city_slug": "khanabad"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "kunduz-province",
-                    "s_city_name": "Kunduz",
-                    "s_city_slug": "kunduz"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "kunduz-province",
-                    "s_city_name": "Qarawul",
-                    "s_city_slug": "qarawul"
-                }
-            ]
+            "s_region_slug": "kunduz-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Mehtar Lam",
+                    "s_city_slug": "mehtar-lam",
+                    "s_country_code": "af",
+                    "s_region_slug": "laghman"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Laghman",
-            "s_region_slug": "laghman",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "laghman",
-                    "s_city_name": "Mehtar Lam",
-                    "s_city_slug": "mehtar-lam"
-                }
-            ]
+            "s_region_slug": "laghman"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Baraki Barak",
+                    "s_city_slug": "baraki-barak",
+                    "s_country_code": "af",
+                    "s_region_slug": "logar"
+                },
+                {
+                    "s_city_name": "Hukumati Azrah",
+                    "s_city_slug": "hukumati-azrah",
+                    "s_country_code": "af",
+                    "s_region_slug": "logar"
+                },
+                {
+                    "s_city_name": "Pul-e Alam",
+                    "s_city_slug": "pul-e-alam",
+                    "s_country_code": "af",
+                    "s_region_slug": "logar"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Logar",
-            "s_region_slug": "logar",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "logar",
-                    "s_city_name": "Baraki Barak",
-                    "s_city_slug": "baraki-barak"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "logar",
-                    "s_city_name": "Hukumati Azrah",
-                    "s_city_slug": "hukumati-azrah"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "logar",
-                    "s_city_name": "Pul-e Alam",
-                    "s_city_slug": "pul-e-alam"
-                }
-            ]
+            "s_region_slug": "logar"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Basawul",
+                    "s_city_slug": "basawul",
+                    "s_country_code": "af",
+                    "s_region_slug": "nangarhar"
+                },
+                {
+                    "s_city_name": "Jalalabad",
+                    "s_city_slug": "jalalabad",
+                    "s_country_code": "af",
+                    "s_region_slug": "nangarhar"
+                },
+                {
+                    "s_city_name": "Markaz-e Woluswali-ye Achin",
+                    "s_city_slug": "markaz-e-woluswali-ye-achin",
+                    "s_country_code": "af",
+                    "s_region_slug": "nangarhar"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Nangarhar",
-            "s_region_slug": "nangarhar",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "nangarhar",
-                    "s_city_name": "Basawul",
-                    "s_city_slug": "basawul"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "nangarhar",
-                    "s_city_name": "Jalalabad",
-                    "s_city_slug": "jalalabad"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "nangarhar",
-                    "s_city_name": "Markaz-e Woluswali-ye Achin",
-                    "s_city_slug": "markaz-e-woluswali-ye-achin"
-                }
-            ]
+            "s_region_slug": "nangarhar"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Khash",
+                    "s_city_slug": "khash",
+                    "s_country_code": "af",
+                    "s_region_slug": "nimruz"
+                },
+                {
+                    "s_city_name": "Mirabad",
+                    "s_city_slug": "mirabad",
+                    "s_country_code": "af",
+                    "s_region_slug": "nimruz"
+                },
+                {
+                    "s_city_name": "Rudbar",
+                    "s_city_slug": "rudbar",
+                    "s_country_code": "af",
+                    "s_region_slug": "nimruz"
+                },
+                {
+                    "s_city_name": "Zaranj",
+                    "s_city_slug": "zaranj",
+                    "s_country_code": "af",
+                    "s_region_slug": "nimruz"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Nimruz",
-            "s_region_slug": "nimruz",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "nimruz",
-                    "s_city_name": "Khash",
-                    "s_city_slug": "khash"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "nimruz",
-                    "s_city_name": "Mirabad",
-                    "s_city_slug": "mirabad"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "nimruz",
-                    "s_city_name": "Rudbar",
-                    "s_city_slug": "rudbar"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "nimruz",
-                    "s_city_name": "Zaranj",
-                    "s_city_slug": "zaranj"
-                }
-            ]
+            "s_region_slug": "nimruz"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Parun",
+                    "s_city_slug": "parun",
+                    "s_country_code": "af",
+                    "s_region_slug": "nuristan"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Nuristan",
-            "s_region_slug": "nuristan",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "nuristan",
-                    "s_city_name": "Parun",
-                    "s_city_slug": "parun"
-                }
-            ]
+            "s_region_slug": "nuristan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Gardez",
+                    "s_city_slug": "gardez",
+                    "s_country_code": "af",
+                    "s_region_slug": "paktia"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Paktia",
-            "s_region_slug": "paktia",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "paktia",
-                    "s_city_name": "Gardez",
-                    "s_city_slug": "gardez"
-                }
-            ]
+            "s_region_slug": "paktia"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Sarobi",
+                    "s_city_slug": "sarobi",
+                    "s_country_code": "af",
+                    "s_region_slug": "paktika"
+                },
+                {
+                    "s_city_name": "Zarah Sharan",
+                    "s_city_slug": "zarah-sharan",
+                    "s_country_code": "af",
+                    "s_region_slug": "paktika"
+                },
+                {
+                    "s_city_name": "Zarghun Shahr",
+                    "s_city_slug": "zarghun-shahr",
+                    "s_country_code": "af",
+                    "s_region_slug": "paktika"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Paktika",
-            "s_region_slug": "paktika",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "paktika",
-                    "s_city_name": "Sarobi",
-                    "s_city_slug": "sarobi"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "paktika",
-                    "s_city_name": "Zarah Sharan",
-                    "s_city_slug": "zarah-sharan"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "paktika",
-                    "s_city_name": "Zarghun Shahr",
-                    "s_city_slug": "zarghun-shahr"
-                }
-            ]
+            "s_region_slug": "paktika"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bazarak",
+                    "s_city_slug": "bazarak",
+                    "s_country_code": "af",
+                    "s_region_slug": "panjshir"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Panjshir",
-            "s_region_slug": "panjshir",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "panjshir",
-                    "s_city_name": "Bazarak",
-                    "s_city_slug": "bazarak"
-                }
-            ]
+            "s_region_slug": "panjshir"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Charikar",
+                    "s_city_slug": "charikar",
+                    "s_country_code": "af",
+                    "s_region_slug": "parwan"
+                },
+                {
+                    "s_city_name": "Jabal os Saraj",
+                    "s_city_slug": "jabal-os-saraj",
+                    "s_country_code": "af",
+                    "s_region_slug": "parwan"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Parwan",
-            "s_region_slug": "parwan",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "parwan",
-                    "s_city_name": "Charikar",
-                    "s_city_slug": "charikar"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "parwan",
-                    "s_city_name": "Jabal os Saraj",
-                    "s_city_slug": "jabal-os-saraj"
-                }
-            ]
+            "s_region_slug": "parwan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Aibak",
+                    "s_city_slug": "aibak",
+                    "s_country_code": "af",
+                    "s_region_slug": "samangan"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Samangan",
-            "s_region_slug": "samangan",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "samangan",
-                    "s_city_name": "Aibak",
-                    "s_city_slug": "aibak"
-                }
-            ]
+            "s_region_slug": "samangan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Chiras",
+                    "s_city_slug": "chiras",
+                    "s_country_code": "af",
+                    "s_region_slug": "sar-e-pol"
+                },
+                {
+                    "s_city_name": "Larkird",
+                    "s_city_slug": "larkird",
+                    "s_country_code": "af",
+                    "s_region_slug": "sar-e-pol"
+                },
+                {
+                    "s_city_name": "Qalah-ye Shahr",
+                    "s_city_slug": "qalah-ye-shahr",
+                    "s_country_code": "af",
+                    "s_region_slug": "sar-e-pol"
+                },
+                {
+                    "s_city_name": "Sang-e Charak",
+                    "s_city_slug": "sang-e-charak",
+                    "s_country_code": "af",
+                    "s_region_slug": "sar-e-pol"
+                },
+                {
+                    "s_city_name": "Sar-e Pul",
+                    "s_city_slug": "sar-e-pul",
+                    "s_country_code": "af",
+                    "s_region_slug": "sar-e-pol"
+                },
+                {
+                    "s_city_name": "Tagaw-Bay",
+                    "s_city_slug": "tagaw-bay",
+                    "s_country_code": "af",
+                    "s_region_slug": "sar-e-pol"
+                },
+                {
+                    "s_city_name": "Tukzar",
+                    "s_city_slug": "tukzar",
+                    "s_country_code": "af",
+                    "s_region_slug": "sar-e-pol"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Sar-e Pol",
-            "s_region_slug": "sar-e-pol",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "sar-e-pol",
-                    "s_city_name": "Chiras",
-                    "s_city_slug": "chiras"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "sar-e-pol",
-                    "s_city_name": "Larkird",
-                    "s_city_slug": "larkird"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "sar-e-pol",
-                    "s_city_name": "Qalah-ye Shahr",
-                    "s_city_slug": "qalah-ye-shahr"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "sar-e-pol",
-                    "s_city_name": "Sang-e Charak",
-                    "s_city_slug": "sang-e-charak"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "sar-e-pol",
-                    "s_city_name": "Sar-e Pul",
-                    "s_city_slug": "sar-e-pul"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "sar-e-pol",
-                    "s_city_name": "Tagaw-Bay",
-                    "s_city_slug": "tagaw-bay"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "sar-e-pol",
-                    "s_city_name": "Tukzar",
-                    "s_city_slug": "tukzar"
-                }
-            ]
+            "s_region_slug": "sar-e-pol"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Art Khwajah",
+                    "s_city_slug": "art-khwajah",
+                    "s_country_code": "af",
+                    "s_region_slug": "takhar"
+                },
+                {
+                    "s_city_name": "Taloqan",
+                    "s_city_slug": "taloqan",
+                    "s_country_code": "af",
+                    "s_region_slug": "takhar"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Takhar",
-            "s_region_slug": "takhar",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "takhar",
-                    "s_city_name": "Art Khwajah",
-                    "s_city_slug": "art-khwajah"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "takhar",
-                    "s_city_name": "Taloqan",
-                    "s_city_slug": "taloqan"
-                }
-            ]
+            "s_region_slug": "takhar"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Tarinkot",
+                    "s_city_slug": "tarinkot",
+                    "s_country_code": "af",
+                    "s_region_slug": "urozgan"
+                },
+                {
+                    "s_city_name": "Uruzgan",
+                    "s_city_slug": "uruzgan",
+                    "s_country_code": "af",
+                    "s_region_slug": "urozgan"
+                }
+            ],
             "s_country_code": "af",
             "s_region_name": "Urozgan",
-            "s_region_slug": "urozgan",
-            "cities": [
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "urozgan",
-                    "s_city_name": "Tarinkot",
-                    "s_city_slug": "tarinkot"
-                },
-                {
-                    "s_country_code": "af",
-                    "s_region_slug": "urozgan",
-                    "s_city_name": "Uruzgan",
-                    "s_city_slug": "uruzgan"
-                }
-            ]
+            "s_region_slug": "urozgan"
         },
         {
-            "s_country_code": "af",
-            "s_region_name": "Zabul",
-            "s_region_slug": "zabul",
             "cities": [
                 {
-                    "s_country_code": "af",
-                    "s_region_slug": "zabul",
                     "s_city_name": "Qalat",
-                    "s_city_slug": "qalat"
+                    "s_city_slug": "qalat",
+                    "s_country_code": "af",
+                    "s_region_slug": "zabul"
                 }
-            ]
+            ],
+            "s_country_code": "af",
+            "s_region_name": "Zabul",
+            "s_region_slug": "zabul"
         }
-    ]
+    ],
+    "s_country_code": "AF",
+    "s_country_name": "Afghanistan",
+    "s_country_slug": "afghanistan"
 }

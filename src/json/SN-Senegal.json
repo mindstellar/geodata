@@ -1,543 +1,543 @@
 {
-    "s_country_code": "SN",
-    "s_country_name": "Senegal",
-    "s_country_slug": "senegal",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Dakar",
+                    "s_city_slug": "dakar",
+                    "s_country_code": "sn",
+                    "s_region_slug": "dakar"
+                },
+                {
+                    "s_city_name": "Dakar Department",
+                    "s_city_slug": "dakar-department",
+                    "s_country_code": "sn",
+                    "s_region_slug": "dakar"
+                },
+                {
+                    "s_city_name": "Guediawaye Department",
+                    "s_city_slug": "guediawaye-department",
+                    "s_country_code": "sn",
+                    "s_region_slug": "dakar"
+                },
+                {
+                    "s_city_name": "Mermoz Boabab",
+                    "s_city_slug": "mermoz-boabab",
+                    "s_country_code": "sn",
+                    "s_region_slug": "dakar"
+                },
+                {
+                    "s_city_name": "Ndiareme limamoulaye",
+                    "s_city_slug": "ndiareme-limamoulaye",
+                    "s_country_code": "sn",
+                    "s_region_slug": "dakar"
+                },
+                {
+                    "s_city_name": "Pikine",
+                    "s_city_slug": "pikine",
+                    "s_country_code": "sn",
+                    "s_region_slug": "dakar"
+                },
+                {
+                    "s_city_name": "Pikine Department",
+                    "s_city_slug": "pikine-department",
+                    "s_country_code": "sn",
+                    "s_region_slug": "dakar"
+                },
+                {
+                    "s_city_name": "Rufisque Department",
+                    "s_city_slug": "rufisque-department",
+                    "s_country_code": "sn",
+                    "s_region_slug": "dakar"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Dakar",
-            "s_region_slug": "dakar",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "dakar",
-                    "s_city_name": "Dakar",
-                    "s_city_slug": "dakar"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "dakar",
-                    "s_city_name": "Dakar Department",
-                    "s_city_slug": "dakar-department"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "dakar",
-                    "s_city_name": "Guediawaye Department",
-                    "s_city_slug": "guediawaye-department"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "dakar",
-                    "s_city_name": "Mermoz Boabab",
-                    "s_city_slug": "mermoz-boabab"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "dakar",
-                    "s_city_name": "Ndiareme limamoulaye",
-                    "s_city_slug": "ndiareme-limamoulaye"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "dakar",
-                    "s_city_name": "Pikine",
-                    "s_city_slug": "pikine"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "dakar",
-                    "s_city_name": "Pikine Department",
-                    "s_city_slug": "pikine-department"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "dakar",
-                    "s_city_name": "Rufisque Department",
-                    "s_city_slug": "rufisque-department"
-                }
-            ]
+            "s_region_slug": "dakar"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Mbacke",
+                    "s_city_slug": "mbacke",
+                    "s_country_code": "sn",
+                    "s_region_slug": "diourbel-region"
+                },
+                {
+                    "s_city_name": "Mbake",
+                    "s_city_slug": "mbake",
+                    "s_country_code": "sn",
+                    "s_region_slug": "diourbel-region"
+                },
+                {
+                    "s_city_name": "Tiebo",
+                    "s_city_slug": "tiebo",
+                    "s_country_code": "sn",
+                    "s_region_slug": "diourbel-region"
+                },
+                {
+                    "s_city_name": "Touba",
+                    "s_city_slug": "touba",
+                    "s_country_code": "sn",
+                    "s_region_slug": "diourbel-region"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Diourbel Region",
-            "s_region_slug": "diourbel-region",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "diourbel-region",
-                    "s_city_name": "Mbacke",
-                    "s_city_slug": "mbacke"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "diourbel-region",
-                    "s_city_name": "Mbake",
-                    "s_city_slug": "mbake"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "diourbel-region",
-                    "s_city_name": "Tiebo",
-                    "s_city_slug": "tiebo"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "diourbel-region",
-                    "s_city_name": "Touba",
-                    "s_city_slug": "touba"
-                }
-            ]
+            "s_region_slug": "diourbel-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Diofior",
+                    "s_city_slug": "diofior",
+                    "s_country_code": "sn",
+                    "s_region_slug": "fatick"
+                },
+                {
+                    "s_city_name": "Fatick Department",
+                    "s_city_slug": "fatick-department",
+                    "s_country_code": "sn",
+                    "s_region_slug": "fatick"
+                },
+                {
+                    "s_city_name": "Foundiougne",
+                    "s_city_slug": "foundiougne",
+                    "s_country_code": "sn",
+                    "s_region_slug": "fatick"
+                },
+                {
+                    "s_city_name": "Guinguineo",
+                    "s_city_slug": "guinguineo",
+                    "s_country_code": "sn",
+                    "s_region_slug": "fatick"
+                },
+                {
+                    "s_city_name": "Passi",
+                    "s_city_slug": "passi",
+                    "s_country_code": "sn",
+                    "s_region_slug": "fatick"
+                },
+                {
+                    "s_city_name": "Pourham",
+                    "s_city_slug": "pourham",
+                    "s_country_code": "sn",
+                    "s_region_slug": "fatick"
+                },
+                {
+                    "s_city_name": "Sokone",
+                    "s_city_slug": "sokone",
+                    "s_country_code": "sn",
+                    "s_region_slug": "fatick"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Fatick",
-            "s_region_slug": "fatick",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "fatick",
-                    "s_city_name": "Diofior",
-                    "s_city_slug": "diofior"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "fatick",
-                    "s_city_name": "Fatick Department",
-                    "s_city_slug": "fatick-department"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "fatick",
-                    "s_city_name": "Foundiougne",
-                    "s_city_slug": "foundiougne"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "fatick",
-                    "s_city_name": "Guinguineo",
-                    "s_city_slug": "guinguineo"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "fatick",
-                    "s_city_name": "Passi",
-                    "s_city_slug": "passi"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "fatick",
-                    "s_city_name": "Pourham",
-                    "s_city_slug": "pourham"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "fatick",
-                    "s_city_name": "Sokone",
-                    "s_city_slug": "sokone"
-                }
-            ]
+            "s_region_slug": "fatick"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kaffrine",
+                    "s_city_slug": "kaffrine",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kaffrine"
+                },
+                {
+                    "s_city_name": "Koungheul",
+                    "s_city_slug": "koungheul",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kaffrine"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Kaffrine",
-            "s_region_slug": "kaffrine",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kaffrine",
-                    "s_city_name": "Kaffrine",
-                    "s_city_slug": "kaffrine"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kaffrine",
-                    "s_city_name": "Koungheul",
-                    "s_city_slug": "koungheul"
-                }
-            ]
+            "s_region_slug": "kaffrine"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Gandiaye",
+                    "s_city_slug": "gandiaye",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kaolack"
+                },
+                {
+                    "s_city_name": "Kaolack",
+                    "s_city_slug": "kaolack",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kaolack"
+                },
+                {
+                    "s_city_name": "Ndofane",
+                    "s_city_slug": "ndofane",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kaolack"
+                },
+                {
+                    "s_city_name": "Nioro du Rip",
+                    "s_city_slug": "nioro-du-rip",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kaolack"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Kaolack",
-            "s_region_slug": "kaolack",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kaolack",
-                    "s_city_name": "Gandiaye",
-                    "s_city_slug": "gandiaye"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kaolack",
-                    "s_city_name": "Kaolack",
-                    "s_city_slug": "kaolack"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kaolack",
-                    "s_city_name": "Ndofane",
-                    "s_city_slug": "ndofane"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kaolack",
-                    "s_city_name": "Nioro du Rip",
-                    "s_city_slug": "nioro-du-rip"
-                }
-            ]
+            "s_region_slug": "kaolack"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Departement de Salemata",
+                    "s_city_slug": "departement-de-salemata",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kedougou"
+                },
+                {
+                    "s_city_name": "Kedougou",
+                    "s_city_slug": "kedougou",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kedougou"
+                },
+                {
+                    "s_city_name": "Kedougou Department",
+                    "s_city_slug": "kedougou-department",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kedougou"
+                },
+                {
+                    "s_city_name": "Saraya",
+                    "s_city_slug": "saraya",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kedougou"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Kedougou",
-            "s_region_slug": "kedougou",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kedougou",
-                    "s_city_name": "Departement de Salemata",
-                    "s_city_slug": "departement-de-salemata"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kedougou",
-                    "s_city_name": "Kedougou",
-                    "s_city_slug": "kedougou"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kedougou",
-                    "s_city_name": "Kedougou Department",
-                    "s_city_slug": "kedougou-department"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kedougou",
-                    "s_city_name": "Saraya",
-                    "s_city_slug": "saraya"
-                }
-            ]
+            "s_region_slug": "kedougou"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kolda",
+                    "s_city_slug": "kolda",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kolda"
+                },
+                {
+                    "s_city_name": "Kolda Department",
+                    "s_city_slug": "kolda-department",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kolda"
+                },
+                {
+                    "s_city_name": "Marsassoum",
+                    "s_city_slug": "marsassoum",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kolda"
+                },
+                {
+                    "s_city_name": "Velingara",
+                    "s_city_slug": "velingara",
+                    "s_country_code": "sn",
+                    "s_region_slug": "kolda"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Kolda",
-            "s_region_slug": "kolda",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kolda",
-                    "s_city_name": "Kolda",
-                    "s_city_slug": "kolda"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kolda",
-                    "s_city_name": "Kolda Department",
-                    "s_city_slug": "kolda-department"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kolda",
-                    "s_city_name": "Marsassoum",
-                    "s_city_slug": "marsassoum"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "kolda",
-                    "s_city_name": "Velingara",
-                    "s_city_slug": "velingara"
-                }
-            ]
+            "s_region_slug": "kolda"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Dara",
+                    "s_city_slug": "dara",
+                    "s_country_code": "sn",
+                    "s_region_slug": "louga"
+                },
+                {
+                    "s_city_name": "Gueoul",
+                    "s_city_slug": "gueoul",
+                    "s_country_code": "sn",
+                    "s_region_slug": "louga"
+                },
+                {
+                    "s_city_name": "Linguere Department",
+                    "s_city_slug": "linguere-department",
+                    "s_country_code": "sn",
+                    "s_region_slug": "louga"
+                },
+                {
+                    "s_city_name": "Louga",
+                    "s_city_slug": "louga",
+                    "s_country_code": "sn",
+                    "s_region_slug": "louga"
+                },
+                {
+                    "s_city_name": "Ndibene Dahra",
+                    "s_city_slug": "ndibene-dahra",
+                    "s_country_code": "sn",
+                    "s_region_slug": "louga"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Louga",
-            "s_region_slug": "louga",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "louga",
-                    "s_city_name": "Dara",
-                    "s_city_slug": "dara"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "louga",
-                    "s_city_name": "Gueoul",
-                    "s_city_slug": "gueoul"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "louga",
-                    "s_city_name": "Linguere Department",
-                    "s_city_slug": "linguere-department"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "louga",
-                    "s_city_name": "Louga",
-                    "s_city_slug": "louga"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "louga",
-                    "s_city_name": "Ndibene Dahra",
-                    "s_city_slug": "ndibene-dahra"
-                }
-            ]
+            "s_region_slug": "louga"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Diawara",
+                    "s_city_slug": "diawara",
+                    "s_country_code": "sn",
+                    "s_region_slug": "matam"
+                },
+                {
+                    "s_city_name": "Kanel",
+                    "s_city_slug": "kanel",
+                    "s_country_code": "sn",
+                    "s_region_slug": "matam"
+                },
+                {
+                    "s_city_name": "Matam",
+                    "s_city_slug": "matam",
+                    "s_country_code": "sn",
+                    "s_region_slug": "matam"
+                },
+                {
+                    "s_city_name": "Matam Department",
+                    "s_city_slug": "matam-department",
+                    "s_country_code": "sn",
+                    "s_region_slug": "matam"
+                },
+                {
+                    "s_city_name": "Ouro Sogui",
+                    "s_city_slug": "ouro-sogui",
+                    "s_country_code": "sn",
+                    "s_region_slug": "matam"
+                },
+                {
+                    "s_city_name": "Ranerou",
+                    "s_city_slug": "ranerou",
+                    "s_country_code": "sn",
+                    "s_region_slug": "matam"
+                },
+                {
+                    "s_city_name": "Seme",
+                    "s_city_slug": "seme",
+                    "s_country_code": "sn",
+                    "s_region_slug": "matam"
+                },
+                {
+                    "s_city_name": "Waounde",
+                    "s_city_slug": "waounde",
+                    "s_country_code": "sn",
+                    "s_region_slug": "matam"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Matam",
-            "s_region_slug": "matam",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "matam",
-                    "s_city_name": "Diawara",
-                    "s_city_slug": "diawara"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "matam",
-                    "s_city_name": "Kanel",
-                    "s_city_slug": "kanel"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "matam",
-                    "s_city_name": "Matam",
-                    "s_city_slug": "matam"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "matam",
-                    "s_city_name": "Matam Department",
-                    "s_city_slug": "matam-department"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "matam",
-                    "s_city_name": "Ouro Sogui",
-                    "s_city_slug": "ouro-sogui"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "matam",
-                    "s_city_name": "Ranerou",
-                    "s_city_slug": "ranerou"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "matam",
-                    "s_city_name": "Seme",
-                    "s_city_slug": "seme"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "matam",
-                    "s_city_name": "Waounde",
-                    "s_city_slug": "waounde"
-                }
-            ]
+            "s_region_slug": "matam"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Golere",
+                    "s_city_slug": "golere",
+                    "s_country_code": "sn",
+                    "s_region_slug": "saint-louis"
+                },
+                {
+                    "s_city_name": "Ndioum",
+                    "s_city_slug": "ndioum",
+                    "s_country_code": "sn",
+                    "s_region_slug": "saint-louis"
+                },
+                {
+                    "s_city_name": "Polel Diaoube",
+                    "s_city_slug": "polel-diaoube",
+                    "s_country_code": "sn",
+                    "s_region_slug": "saint-louis"
+                },
+                {
+                    "s_city_name": "Richard-Toll",
+                    "s_city_slug": "richard-toll",
+                    "s_country_code": "sn",
+                    "s_region_slug": "saint-louis"
+                },
+                {
+                    "s_city_name": "Rosso",
+                    "s_city_slug": "rosso",
+                    "s_country_code": "sn",
+                    "s_region_slug": "saint-louis"
+                },
+                {
+                    "s_city_name": "Saint-Louis",
+                    "s_city_slug": "saint-louis",
+                    "s_country_code": "sn",
+                    "s_region_slug": "saint-louis"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Saint-Louis",
-            "s_region_slug": "saint-louis",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "saint-louis",
-                    "s_city_name": "Golere",
-                    "s_city_slug": "golere"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "saint-louis",
-                    "s_city_name": "Ndioum",
-                    "s_city_slug": "ndioum"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "saint-louis",
-                    "s_city_name": "Polel Diaoube",
-                    "s_city_slug": "polel-diaoube"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "saint-louis",
-                    "s_city_name": "Richard-Toll",
-                    "s_city_slug": "richard-toll"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "saint-louis",
-                    "s_city_name": "Rosso",
-                    "s_city_slug": "rosso"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "saint-louis",
-                    "s_city_name": "Saint-Louis",
-                    "s_city_slug": "saint-louis"
-                }
-            ]
+            "s_region_slug": "saint-louis"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Goudomp Department",
+                    "s_city_slug": "goudomp-department",
+                    "s_country_code": "sn",
+                    "s_region_slug": "sedhiou"
+                },
+                {
+                    "s_city_name": "Sedhiou",
+                    "s_city_slug": "sedhiou",
+                    "s_country_code": "sn",
+                    "s_region_slug": "sedhiou"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Sedhiou",
-            "s_region_slug": "sedhiou",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "sedhiou",
-                    "s_city_name": "Goudomp Department",
-                    "s_city_slug": "goudomp-department"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "sedhiou",
-                    "s_city_name": "Sedhiou",
-                    "s_city_slug": "sedhiou"
-                }
-            ]
+            "s_region_slug": "sedhiou"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Tambacounda",
+                    "s_city_slug": "tambacounda",
+                    "s_country_code": "sn",
+                    "s_region_slug": "tambacounda-region"
+                },
+                {
+                    "s_city_name": "Tambacounda Department",
+                    "s_city_slug": "tambacounda-department",
+                    "s_country_code": "sn",
+                    "s_region_slug": "tambacounda-region"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Tambacounda Region",
-            "s_region_slug": "tambacounda-region",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "tambacounda-region",
-                    "s_city_name": "Tambacounda",
-                    "s_city_slug": "tambacounda"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "tambacounda-region",
-                    "s_city_name": "Tambacounda Department",
-                    "s_city_slug": "tambacounda-department"
-                }
-            ]
+            "s_region_slug": "tambacounda-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Joal-Fadiout",
+                    "s_city_slug": "joal-fadiout",
+                    "s_country_code": "sn",
+                    "s_region_slug": "thies-region"
+                },
+                {
+                    "s_city_name": "Kayar",
+                    "s_city_slug": "kayar",
+                    "s_country_code": "sn",
+                    "s_region_slug": "thies-region"
+                },
+                {
+                    "s_city_name": "Khombole",
+                    "s_city_slug": "khombole",
+                    "s_country_code": "sn",
+                    "s_region_slug": "thies-region"
+                },
+                {
+                    "s_city_name": "Mbour",
+                    "s_city_slug": "mbour",
+                    "s_country_code": "sn",
+                    "s_region_slug": "thies-region"
+                },
+                {
+                    "s_city_name": "Mekhe",
+                    "s_city_slug": "mekhe",
+                    "s_country_code": "sn",
+                    "s_region_slug": "thies-region"
+                },
+                {
+                    "s_city_name": "Nguekhokh",
+                    "s_city_slug": "nguekhokh",
+                    "s_country_code": "sn",
+                    "s_region_slug": "thies-region"
+                },
+                {
+                    "s_city_name": "Pout",
+                    "s_city_slug": "pout",
+                    "s_country_code": "sn",
+                    "s_region_slug": "thies-region"
+                },
+                {
+                    "s_city_name": "Thies",
+                    "s_city_slug": "thies",
+                    "s_country_code": "sn",
+                    "s_region_slug": "thies-region"
+                },
+                {
+                    "s_city_name": "Thies Nones",
+                    "s_city_slug": "thies-nones",
+                    "s_country_code": "sn",
+                    "s_region_slug": "thies-region"
+                },
+                {
+                    "s_city_name": "Tiadiaye",
+                    "s_city_slug": "tiadiaye",
+                    "s_country_code": "sn",
+                    "s_region_slug": "thies-region"
+                },
+                {
+                    "s_city_name": "Tivaouane",
+                    "s_city_slug": "tivaouane",
+                    "s_country_code": "sn",
+                    "s_region_slug": "thies-region"
+                },
+                {
+                    "s_city_name": "Warang",
+                    "s_city_slug": "warang",
+                    "s_country_code": "sn",
+                    "s_region_slug": "thies-region"
+                }
+            ],
             "s_country_code": "sn",
             "s_region_name": "Thies Region",
-            "s_region_slug": "thies-region",
-            "cities": [
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "thies-region",
-                    "s_city_name": "Joal-Fadiout",
-                    "s_city_slug": "joal-fadiout"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "thies-region",
-                    "s_city_name": "Kayar",
-                    "s_city_slug": "kayar"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "thies-region",
-                    "s_city_name": "Khombole",
-                    "s_city_slug": "khombole"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "thies-region",
-                    "s_city_name": "Mbour",
-                    "s_city_slug": "mbour"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "thies-region",
-                    "s_city_name": "Mekhe",
-                    "s_city_slug": "mekhe"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "thies-region",
-                    "s_city_name": "Nguekhokh",
-                    "s_city_slug": "nguekhokh"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "thies-region",
-                    "s_city_name": "Pout",
-                    "s_city_slug": "pout"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "thies-region",
-                    "s_city_name": "Thies",
-                    "s_city_slug": "thies"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "thies-region",
-                    "s_city_name": "Thies Nones",
-                    "s_city_slug": "thies-nones"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "thies-region",
-                    "s_city_name": "Tiadiaye",
-                    "s_city_slug": "tiadiaye"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "thies-region",
-                    "s_city_name": "Tivaouane",
-                    "s_city_slug": "tivaouane"
-                },
-                {
-                    "s_country_code": "sn",
-                    "s_region_slug": "thies-region",
-                    "s_city_name": "Warang",
-                    "s_city_slug": "warang"
-                }
-            ]
+            "s_region_slug": "thies-region"
         },
         {
-            "s_country_code": "sn",
-            "s_region_name": "Ziguinchor",
-            "s_region_slug": "ziguinchor",
             "cities": [
                 {
-                    "s_country_code": "sn",
-                    "s_region_slug": "ziguinchor",
                     "s_city_name": "Adeane",
-                    "s_city_slug": "adeane"
+                    "s_city_slug": "adeane",
+                    "s_country_code": "sn",
+                    "s_region_slug": "ziguinchor"
                 },
                 {
-                    "s_country_code": "sn",
-                    "s_region_slug": "ziguinchor",
                     "s_city_name": "Bignona",
-                    "s_city_slug": "bignona"
+                    "s_city_slug": "bignona",
+                    "s_country_code": "sn",
+                    "s_region_slug": "ziguinchor"
                 },
                 {
-                    "s_country_code": "sn",
-                    "s_region_slug": "ziguinchor",
                     "s_city_name": "Oussouye",
-                    "s_city_slug": "oussouye"
+                    "s_city_slug": "oussouye",
+                    "s_country_code": "sn",
+                    "s_region_slug": "ziguinchor"
                 },
                 {
-                    "s_country_code": "sn",
-                    "s_region_slug": "ziguinchor",
                     "s_city_name": "Tionk Essil",
-                    "s_city_slug": "tionk-essil"
+                    "s_city_slug": "tionk-essil",
+                    "s_country_code": "sn",
+                    "s_region_slug": "ziguinchor"
                 },
                 {
-                    "s_country_code": "sn",
-                    "s_region_slug": "ziguinchor",
                     "s_city_name": "Ziguinchor",
-                    "s_city_slug": "ziguinchor"
+                    "s_city_slug": "ziguinchor",
+                    "s_country_code": "sn",
+                    "s_region_slug": "ziguinchor"
                 }
-            ]
+            ],
+            "s_country_code": "sn",
+            "s_region_name": "Ziguinchor",
+            "s_region_slug": "ziguinchor"
         }
-    ]
+    ],
+    "s_country_code": "SN",
+    "s_country_name": "Senegal",
+    "s_country_slug": "senegal"
 }

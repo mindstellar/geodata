@@ -1,738 +1,738 @@
 {
-    "s_country_code": "MU",
-    "s_country_name": "Mauritius",
-    "s_country_slug": "mauritius",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Vingt Cinq",
+                    "s_city_slug": "vingt-cinq",
+                    "s_country_code": "mu",
+                    "s_region_slug": "agalega"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Agalega",
-            "s_region_slug": "agalega",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "agalega",
-                    "s_city_name": "Vingt Cinq",
-                    "s_city_slug": "vingt-cinq"
-                }
-            ]
+            "s_region_slug": "agalega"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Beau Bassin-Rose Hill",
+                    "s_city_slug": "beau-bassin-rose-hill",
+                    "s_country_code": "mu",
+                    "s_region_slug": "beau-bassin-rose-hill"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Beau Bassin-Rose Hill",
-            "s_region_slug": "beau-bassin-rose-hill",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "beau-bassin-rose-hill",
-                    "s_city_name": "Beau Bassin-Rose Hill",
-                    "s_city_slug": "beau-bassin-rose-hill"
-                }
-            ]
+            "s_region_slug": "beau-bassin-rose-hill"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Cargados Carajos",
+                    "s_city_slug": "cargados-carajos",
+                    "s_country_code": "mu",
+                    "s_region_slug": "cargados-carajos"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Cargados Carajos",
-            "s_region_slug": "cargados-carajos",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "cargados-carajos",
-                    "s_city_name": "Cargados Carajos",
-                    "s_city_slug": "cargados-carajos"
-                }
-            ]
+            "s_region_slug": "cargados-carajos"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Curepipe",
+                    "s_city_slug": "curepipe",
+                    "s_country_code": "mu",
+                    "s_region_slug": "curepipe"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Curepipe",
-            "s_region_slug": "curepipe",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "curepipe",
-                    "s_city_name": "Curepipe",
-                    "s_city_slug": "curepipe"
-                }
-            ]
+            "s_region_slug": "curepipe"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bel Air Riviere Seche",
+                    "s_city_slug": "bel-air-riviere-seche",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Bon Accueil",
+                    "s_city_slug": "bon-accueil",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Brisee Verdiere",
+                    "s_city_slug": "brisee-verdiere",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Camp Ithier",
+                    "s_city_slug": "camp-ithier",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Camp de Masque",
+                    "s_city_slug": "camp-de-masque",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Centre de Flacq",
+                    "s_city_slug": "centre-de-flacq",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Clemencia",
+                    "s_city_slug": "clemencia",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Ecroignard",
+                    "s_city_slug": "ecroignard",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Grande Riviere Sud Est",
+                    "s_city_slug": "grande-riviere-sud-est",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Lalmatie",
+                    "s_city_slug": "lalmatie",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Laventure",
+                    "s_city_slug": "laventure",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Mare La Chaux",
+                    "s_city_slug": "mare-la-chaux",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Olivia",
+                    "s_city_slug": "olivia",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Poste de Flacq",
+                    "s_city_slug": "poste-de-flacq",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Quatre Cocos",
+                    "s_city_slug": "quatre-cocos",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Quatre Soeurs",
+                    "s_city_slug": "quatre-soeurs",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Queen Victoria",
+                    "s_city_slug": "queen-victoria",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Saint Julien",
+                    "s_city_slug": "saint-julien",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                },
+                {
+                    "s_city_name": "Sebastopol",
+                    "s_city_slug": "sebastopol",
+                    "s_country_code": "mu",
+                    "s_region_slug": "flacq-district"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Flacq District",
-            "s_region_slug": "flacq-district",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Bel Air Riviere Seche",
-                    "s_city_slug": "bel-air-riviere-seche"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Bon Accueil",
-                    "s_city_slug": "bon-accueil"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Brisee Verdiere",
-                    "s_city_slug": "brisee-verdiere"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Camp de Masque",
-                    "s_city_slug": "camp-de-masque"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Camp Ithier",
-                    "s_city_slug": "camp-ithier"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Centre de Flacq",
-                    "s_city_slug": "centre-de-flacq"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Clemencia",
-                    "s_city_slug": "clemencia"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Ecroignard",
-                    "s_city_slug": "ecroignard"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Grande Riviere Sud Est",
-                    "s_city_slug": "grande-riviere-sud-est"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Lalmatie",
-                    "s_city_slug": "lalmatie"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Laventure",
-                    "s_city_slug": "laventure"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Mare La Chaux",
-                    "s_city_slug": "mare-la-chaux"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Olivia",
-                    "s_city_slug": "olivia"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Poste de Flacq",
-                    "s_city_slug": "poste-de-flacq"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Quatre Cocos",
-                    "s_city_slug": "quatre-cocos"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Quatre Soeurs",
-                    "s_city_slug": "quatre-soeurs"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Queen Victoria",
-                    "s_city_slug": "queen-victoria"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Saint Julien",
-                    "s_city_slug": "saint-julien"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "flacq-district",
-                    "s_city_name": "Sebastopol",
-                    "s_city_slug": "sebastopol"
-                }
-            ]
+            "s_region_slug": "flacq-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bambous Virieux",
+                    "s_city_slug": "bambous-virieux",
+                    "s_country_code": "mu",
+                    "s_region_slug": "grand-port-district"
+                },
+                {
+                    "s_city_name": "Beau Vallon",
+                    "s_city_slug": "beau-vallon",
+                    "s_country_code": "mu",
+                    "s_region_slug": "grand-port-district"
+                },
+                {
+                    "s_city_name": "Bois des Amourettes",
+                    "s_city_slug": "bois-des-amourettes",
+                    "s_country_code": "mu",
+                    "s_region_slug": "grand-port-district"
+                },
+                {
+                    "s_city_name": "Cluny",
+                    "s_city_slug": "cluny",
+                    "s_country_code": "mu",
+                    "s_region_slug": "grand-port-district"
+                },
+                {
+                    "s_city_name": "Grand Sable",
+                    "s_city_slug": "grand-sable",
+                    "s_country_code": "mu",
+                    "s_region_slug": "grand-port-district"
+                },
+                {
+                    "s_city_name": "Mahebourg",
+                    "s_city_slug": "mahebourg",
+                    "s_country_code": "mu",
+                    "s_region_slug": "grand-port-district"
+                },
+                {
+                    "s_city_name": "New Grove",
+                    "s_city_slug": "new-grove",
+                    "s_country_code": "mu",
+                    "s_region_slug": "grand-port-district"
+                },
+                {
+                    "s_city_name": "Nouvelle France",
+                    "s_city_slug": "nouvelle-france",
+                    "s_country_code": "mu",
+                    "s_region_slug": "grand-port-district"
+                },
+                {
+                    "s_city_name": "Plaine Magnien",
+                    "s_city_slug": "plaine-magnien",
+                    "s_country_code": "mu",
+                    "s_region_slug": "grand-port-district"
+                },
+                {
+                    "s_city_name": "Rose Belle",
+                    "s_city_slug": "rose-belle",
+                    "s_country_code": "mu",
+                    "s_region_slug": "grand-port-district"
+                },
+                {
+                    "s_city_name": "Saint Hubert",
+                    "s_city_slug": "saint-hubert",
+                    "s_country_code": "mu",
+                    "s_region_slug": "grand-port-district"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Grand Port District",
-            "s_region_slug": "grand-port-district",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "grand-port-district",
-                    "s_city_name": "Bambous Virieux",
-                    "s_city_slug": "bambous-virieux"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "grand-port-district",
-                    "s_city_name": "Beau Vallon",
-                    "s_city_slug": "beau-vallon"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "grand-port-district",
-                    "s_city_name": "Bois des Amourettes",
-                    "s_city_slug": "bois-des-amourettes"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "grand-port-district",
-                    "s_city_name": "Cluny",
-                    "s_city_slug": "cluny"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "grand-port-district",
-                    "s_city_name": "Grand Sable",
-                    "s_city_slug": "grand-sable"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "grand-port-district",
-                    "s_city_name": "Mahebourg",
-                    "s_city_slug": "mahebourg"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "grand-port-district",
-                    "s_city_name": "New Grove",
-                    "s_city_slug": "new-grove"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "grand-port-district",
-                    "s_city_name": "Nouvelle France",
-                    "s_city_slug": "nouvelle-france"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "grand-port-district",
-                    "s_city_name": "Plaine Magnien",
-                    "s_city_slug": "plaine-magnien"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "grand-port-district",
-                    "s_city_name": "Rose Belle",
-                    "s_city_slug": "rose-belle"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "grand-port-district",
-                    "s_city_name": "Saint Hubert",
-                    "s_city_slug": "saint-hubert"
-                }
-            ]
+            "s_region_slug": "grand-port-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Camp Thorel",
+                    "s_city_slug": "camp-thorel",
+                    "s_country_code": "mu",
+                    "s_region_slug": "moka-district"
+                },
+                {
+                    "s_city_name": "Dagotiere",
+                    "s_city_slug": "dagotiere",
+                    "s_country_code": "mu",
+                    "s_region_slug": "moka-district"
+                },
+                {
+                    "s_city_name": "Dubreuil",
+                    "s_city_slug": "dubreuil",
+                    "s_country_code": "mu",
+                    "s_region_slug": "moka-district"
+                },
+                {
+                    "s_city_name": "Melrose",
+                    "s_city_slug": "melrose",
+                    "s_country_code": "mu",
+                    "s_region_slug": "moka-district"
+                },
+                {
+                    "s_city_name": "Moka",
+                    "s_city_slug": "moka",
+                    "s_country_code": "mu",
+                    "s_region_slug": "moka-district"
+                },
+                {
+                    "s_city_name": "Pailles",
+                    "s_city_slug": "pailles",
+                    "s_country_code": "mu",
+                    "s_region_slug": "moka-district"
+                },
+                {
+                    "s_city_name": "Providence",
+                    "s_city_slug": "providence",
+                    "s_country_code": "mu",
+                    "s_region_slug": "moka-district"
+                },
+                {
+                    "s_city_name": "Quartier Militaire",
+                    "s_city_slug": "quartier-militaire",
+                    "s_country_code": "mu",
+                    "s_region_slug": "moka-district"
+                },
+                {
+                    "s_city_name": "Saint Pierre",
+                    "s_city_slug": "saint-pierre",
+                    "s_country_code": "mu",
+                    "s_region_slug": "moka-district"
+                },
+                {
+                    "s_city_name": "Verdun",
+                    "s_city_slug": "verdun",
+                    "s_country_code": "mu",
+                    "s_region_slug": "moka-district"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Moka District",
-            "s_region_slug": "moka-district",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "moka-district",
-                    "s_city_name": "Camp Thorel",
-                    "s_city_slug": "camp-thorel"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "moka-district",
-                    "s_city_name": "Dagotiere",
-                    "s_city_slug": "dagotiere"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "moka-district",
-                    "s_city_name": "Dubreuil",
-                    "s_city_slug": "dubreuil"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "moka-district",
-                    "s_city_name": "Melrose",
-                    "s_city_slug": "melrose"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "moka-district",
-                    "s_city_name": "Moka",
-                    "s_city_slug": "moka"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "moka-district",
-                    "s_city_name": "Pailles",
-                    "s_city_slug": "pailles"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "moka-district",
-                    "s_city_name": "Providence",
-                    "s_city_slug": "providence"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "moka-district",
-                    "s_city_name": "Quartier Militaire",
-                    "s_city_slug": "quartier-militaire"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "moka-district",
-                    "s_city_name": "Saint Pierre",
-                    "s_city_slug": "saint-pierre"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "moka-district",
-                    "s_city_name": "Verdun",
-                    "s_city_slug": "verdun"
-                }
-            ]
+            "s_region_slug": "moka-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Arsenal",
+                    "s_city_slug": "arsenal",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Calebasses",
+                    "s_city_slug": "calebasses",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Congomah",
+                    "s_city_slug": "congomah",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Creve Coeur",
+                    "s_city_slug": "creve-coeur",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Fond du Sac",
+                    "s_city_slug": "fond-du-sac",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Le Hochet",
+                    "s_city_slug": "le-hochet",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Long Mountain",
+                    "s_city_slug": "long-mountain",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Morcellement Saint Andre",
+                    "s_city_slug": "morcellement-saint-andre",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Notre Dame",
+                    "s_city_slug": "notre-dame",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Pamplemousses",
+                    "s_city_slug": "pamplemousses",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Plaine des Papayes",
+                    "s_city_slug": "plaine-des-papayes",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Pointe aux Piments",
+                    "s_city_slug": "pointe-aux-piments",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Terre Rouge",
+                    "s_city_slug": "terre-rouge",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                },
+                {
+                    "s_city_name": "Triolet",
+                    "s_city_slug": "triolet",
+                    "s_country_code": "mu",
+                    "s_region_slug": "pamplemousses-district"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Pamplemousses District",
-            "s_region_slug": "pamplemousses-district",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Arsenal",
-                    "s_city_slug": "arsenal"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Calebasses",
-                    "s_city_slug": "calebasses"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Congomah",
-                    "s_city_slug": "congomah"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Creve Coeur",
-                    "s_city_slug": "creve-coeur"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Fond du Sac",
-                    "s_city_slug": "fond-du-sac"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Le Hochet",
-                    "s_city_slug": "le-hochet"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Long Mountain",
-                    "s_city_slug": "long-mountain"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Morcellement Saint Andre",
-                    "s_city_slug": "morcellement-saint-andre"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Notre Dame",
-                    "s_city_slug": "notre-dame"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Pamplemousses",
-                    "s_city_slug": "pamplemousses"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Plaine des Papayes",
-                    "s_city_slug": "plaine-des-papayes"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Pointe aux Piments",
-                    "s_city_slug": "pointe-aux-piments"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Terre Rouge",
-                    "s_city_slug": "terre-rouge"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "pamplemousses-district",
-                    "s_city_name": "Triolet",
-                    "s_city_slug": "triolet"
-                }
-            ]
+            "s_region_slug": "pamplemousses-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Beau Bassin-Rose Hill",
+                    "s_city_slug": "beau-bassin-rose-hill",
+                    "s_country_code": "mu",
+                    "s_region_slug": "plaines-wilhems-district"
+                },
+                {
+                    "s_city_name": "Curepipe",
+                    "s_city_slug": "curepipe",
+                    "s_country_code": "mu",
+                    "s_region_slug": "plaines-wilhems-district"
+                },
+                {
+                    "s_city_name": "Ebene",
+                    "s_city_slug": "ebene",
+                    "s_country_code": "mu",
+                    "s_region_slug": "plaines-wilhems-district"
+                },
+                {
+                    "s_city_name": "Midlands",
+                    "s_city_slug": "midlands",
+                    "s_country_code": "mu",
+                    "s_region_slug": "plaines-wilhems-district"
+                },
+                {
+                    "s_city_name": "Quatre Bornes",
+                    "s_city_slug": "quatre-bornes",
+                    "s_country_code": "mu",
+                    "s_region_slug": "plaines-wilhems-district"
+                },
+                {
+                    "s_city_name": "Vacoas",
+                    "s_city_slug": "vacoas",
+                    "s_country_code": "mu",
+                    "s_region_slug": "plaines-wilhems-district"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Plaines Wilhems District",
-            "s_region_slug": "plaines-wilhems-district",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "plaines-wilhems-district",
-                    "s_city_name": "Beau Bassin-Rose Hill",
-                    "s_city_slug": "beau-bassin-rose-hill"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "plaines-wilhems-district",
-                    "s_city_name": "Curepipe",
-                    "s_city_slug": "curepipe"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "plaines-wilhems-district",
-                    "s_city_name": "Ebene",
-                    "s_city_slug": "ebene"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "plaines-wilhems-district",
-                    "s_city_name": "Midlands",
-                    "s_city_slug": "midlands"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "plaines-wilhems-district",
-                    "s_city_name": "Quatre Bornes",
-                    "s_city_slug": "quatre-bornes"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "plaines-wilhems-district",
-                    "s_city_name": "Vacoas",
-                    "s_city_slug": "vacoas"
-                }
-            ]
+            "s_region_slug": "plaines-wilhems-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Port Louis",
+                    "s_city_slug": "port-louis",
+                    "s_country_code": "mu",
+                    "s_region_slug": "port-louis"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Port Louis",
-            "s_region_slug": "port-louis",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "port-louis",
-                    "s_city_name": "Port Louis",
-                    "s_city_slug": "port-louis"
-                }
-            ]
+            "s_region_slug": "port-louis"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Port Louis",
+                    "s_city_slug": "port-louis",
+                    "s_country_code": "mu",
+                    "s_region_slug": "port-louis-district"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Port Louis District",
-            "s_region_slug": "port-louis-district",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "port-louis-district",
-                    "s_city_name": "Port Louis",
-                    "s_city_slug": "port-louis"
-                }
-            ]
+            "s_region_slug": "port-louis-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Quatre Bornes",
+                    "s_city_slug": "quatre-bornes",
+                    "s_country_code": "mu",
+                    "s_region_slug": "quatre-bornes"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Quatre Bornes",
-            "s_region_slug": "quatre-bornes",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "quatre-bornes",
-                    "s_city_name": "Quatre Bornes",
-                    "s_city_slug": "quatre-bornes"
-                }
-            ]
+            "s_region_slug": "quatre-bornes"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Albion",
+                    "s_city_slug": "albion",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-noire-district"
+                },
+                {
+                    "s_city_name": "Bambous",
+                    "s_city_slug": "bambous",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-noire-district"
+                },
+                {
+                    "s_city_name": "Cascavelle",
+                    "s_city_slug": "cascavelle",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-noire-district"
+                },
+                {
+                    "s_city_name": "Flic en Flac",
+                    "s_city_slug": "flic-en-flac",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-noire-district"
+                },
+                {
+                    "s_city_name": "Grande Riviere Noire",
+                    "s_city_slug": "grande-riviere-noire",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-noire-district"
+                },
+                {
+                    "s_city_name": "Gros Cailloux",
+                    "s_city_slug": "gros-cailloux",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-noire-district"
+                },
+                {
+                    "s_city_name": "Petite Case Noyale",
+                    "s_city_slug": "petite-case-noyale",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-noire-district"
+                },
+                {
+                    "s_city_name": "Petite Riviere",
+                    "s_city_slug": "petite-riviere",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-noire-district"
+                },
+                {
+                    "s_city_name": "Tamarin",
+                    "s_city_slug": "tamarin",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-noire-district"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Riviere Noire District",
-            "s_region_slug": "riviere-noire-district",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-noire-district",
-                    "s_city_name": "Albion",
-                    "s_city_slug": "albion"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-noire-district",
-                    "s_city_name": "Bambous",
-                    "s_city_slug": "bambous"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-noire-district",
-                    "s_city_name": "Cascavelle",
-                    "s_city_slug": "cascavelle"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-noire-district",
-                    "s_city_name": "Flic en Flac",
-                    "s_city_slug": "flic-en-flac"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-noire-district",
-                    "s_city_name": "Grande Riviere Noire",
-                    "s_city_slug": "grande-riviere-noire"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-noire-district",
-                    "s_city_name": "Gros Cailloux",
-                    "s_city_slug": "gros-cailloux"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-noire-district",
-                    "s_city_name": "Petite Case Noyale",
-                    "s_city_slug": "petite-case-noyale"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-noire-district",
-                    "s_city_name": "Petite Riviere",
-                    "s_city_slug": "petite-riviere"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-noire-district",
-                    "s_city_name": "Tamarin",
-                    "s_city_slug": "tamarin"
-                }
-            ]
+            "s_region_slug": "riviere-noire-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Amaury",
+                    "s_city_slug": "amaury",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Cap Malheureux",
+                    "s_city_slug": "cap-malheureux",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Cottage",
+                    "s_city_slug": "cottage",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Esperance Trebuchet",
+                    "s_city_slug": "esperance-trebuchet",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Goodlands",
+                    "s_city_slug": "goodlands",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Grand Baie",
+                    "s_city_slug": "grand-baie",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Grand Gaube",
+                    "s_city_slug": "grand-gaube",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Mapou",
+                    "s_city_slug": "mapou",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Petit Raffray",
+                    "s_city_slug": "petit-raffray",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Piton",
+                    "s_city_slug": "piton",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Plaines des Roches",
+                    "s_city_slug": "plaines-des-roches",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Riviere du Rempart",
+                    "s_city_slug": "riviere-du-rempart",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Roche Terre",
+                    "s_city_slug": "roche-terre",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "Roches Noire",
+                    "s_city_slug": "roches-noire",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                },
+                {
+                    "s_city_name": "The Vale",
+                    "s_city_slug": "the-vale",
+                    "s_country_code": "mu",
+                    "s_region_slug": "riviere-du-rempart-district"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Riviere du Rempart District",
-            "s_region_slug": "riviere-du-rempart-district",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Amaury",
-                    "s_city_slug": "amaury"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Cap Malheureux",
-                    "s_city_slug": "cap-malheureux"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Cottage",
-                    "s_city_slug": "cottage"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Esperance Trebuchet",
-                    "s_city_slug": "esperance-trebuchet"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Goodlands",
-                    "s_city_slug": "goodlands"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Grand Baie",
-                    "s_city_slug": "grand-baie"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Grand Gaube",
-                    "s_city_slug": "grand-gaube"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Mapou",
-                    "s_city_slug": "mapou"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Petit Raffray",
-                    "s_city_slug": "petit-raffray"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Piton",
-                    "s_city_slug": "piton"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Plaines des Roches",
-                    "s_city_slug": "plaines-des-roches"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Riviere du Rempart",
-                    "s_city_slug": "riviere-du-rempart"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Roche Terre",
-                    "s_city_slug": "roche-terre"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "Roches Noire",
-                    "s_city_slug": "roches-noire"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "riviere-du-rempart-district",
-                    "s_city_name": "The Vale",
-                    "s_city_slug": "the-vale"
-                }
-            ]
+            "s_region_slug": "riviere-du-rempart-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Baie aux Huitres",
+                    "s_city_slug": "baie-aux-huitres",
+                    "s_country_code": "mu",
+                    "s_region_slug": "rodrigues"
+                },
+                {
+                    "s_city_name": "Port Mathurin",
+                    "s_city_slug": "port-mathurin",
+                    "s_country_code": "mu",
+                    "s_region_slug": "rodrigues"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Rodrigues",
-            "s_region_slug": "rodrigues",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "rodrigues",
-                    "s_city_name": "Baie aux Huitres",
-                    "s_city_slug": "baie-aux-huitres"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "rodrigues",
-                    "s_city_name": "Port Mathurin",
-                    "s_city_slug": "port-mathurin"
-                }
-            ]
+            "s_region_slug": "rodrigues"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Camp Diable",
+                    "s_city_slug": "camp-diable",
+                    "s_country_code": "mu",
+                    "s_region_slug": "savanne-district"
+                },
+                {
+                    "s_city_name": "Chamouny",
+                    "s_city_slug": "chamouny",
+                    "s_country_code": "mu",
+                    "s_region_slug": "savanne-district"
+                },
+                {
+                    "s_city_name": "Chemin Grenier",
+                    "s_city_slug": "chemin-grenier",
+                    "s_country_code": "mu",
+                    "s_region_slug": "savanne-district"
+                },
+                {
+                    "s_city_name": "Grand Bois",
+                    "s_city_slug": "grand-bois",
+                    "s_country_code": "mu",
+                    "s_region_slug": "savanne-district"
+                },
+                {
+                    "s_city_name": "Riviere des Anguilles",
+                    "s_city_slug": "riviere-des-anguilles",
+                    "s_country_code": "mu",
+                    "s_region_slug": "savanne-district"
+                },
+                {
+                    "s_city_name": "Saint Aubin",
+                    "s_city_slug": "saint-aubin",
+                    "s_country_code": "mu",
+                    "s_region_slug": "savanne-district"
+                },
+                {
+                    "s_city_name": "Souillac",
+                    "s_city_slug": "souillac",
+                    "s_country_code": "mu",
+                    "s_region_slug": "savanne-district"
+                },
+                {
+                    "s_city_name": "Surinam",
+                    "s_city_slug": "surinam",
+                    "s_country_code": "mu",
+                    "s_region_slug": "savanne-district"
+                }
+            ],
             "s_country_code": "mu",
             "s_region_name": "Savanne District",
-            "s_region_slug": "savanne-district",
-            "cities": [
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "savanne-district",
-                    "s_city_name": "Camp Diable",
-                    "s_city_slug": "camp-diable"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "savanne-district",
-                    "s_city_name": "Chamouny",
-                    "s_city_slug": "chamouny"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "savanne-district",
-                    "s_city_name": "Chemin Grenier",
-                    "s_city_slug": "chemin-grenier"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "savanne-district",
-                    "s_city_name": "Grand Bois",
-                    "s_city_slug": "grand-bois"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "savanne-district",
-                    "s_city_name": "Riviere des Anguilles",
-                    "s_city_slug": "riviere-des-anguilles"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "savanne-district",
-                    "s_city_name": "Saint Aubin",
-                    "s_city_slug": "saint-aubin"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "savanne-district",
-                    "s_city_name": "Souillac",
-                    "s_city_slug": "souillac"
-                },
-                {
-                    "s_country_code": "mu",
-                    "s_region_slug": "savanne-district",
-                    "s_city_name": "Surinam",
-                    "s_city_slug": "surinam"
-                }
-            ]
+            "s_region_slug": "savanne-district"
         },
         {
-            "s_country_code": "mu",
-            "s_region_name": "Vacoas-Phoenix",
-            "s_region_slug": "vacoas-phoenix",
             "cities": [
                 {
-                    "s_country_code": "mu",
-                    "s_region_slug": "vacoas-phoenix",
                     "s_city_name": "Vacoas-Phoenix",
-                    "s_city_slug": "vacoas-phoenix"
+                    "s_city_slug": "vacoas-phoenix",
+                    "s_country_code": "mu",
+                    "s_region_slug": "vacoas-phoenix"
                 }
-            ]
+            ],
+            "s_country_code": "mu",
+            "s_region_name": "Vacoas-Phoenix",
+            "s_region_slug": "vacoas-phoenix"
         }
-    ]
+    ],
+    "s_country_code": "MU",
+    "s_country_name": "Mauritius",
+    "s_country_slug": "mauritius"
 }

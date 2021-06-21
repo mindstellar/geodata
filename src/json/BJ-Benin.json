@@ -1,313 +1,313 @@
 {
-    "s_country_code": "BJ",
-    "s_country_name": "Benin",
-    "s_country_slug": "benin",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Banikoara",
+                    "s_city_slug": "banikoara",
+                    "s_country_code": "bj",
+                    "s_region_slug": "alibori-department"
+                },
+                {
+                    "s_city_name": "Kandi",
+                    "s_city_slug": "kandi",
+                    "s_country_code": "bj",
+                    "s_region_slug": "alibori-department"
+                },
+                {
+                    "s_city_name": "Malanville",
+                    "s_city_slug": "malanville",
+                    "s_country_code": "bj",
+                    "s_region_slug": "alibori-department"
+                }
+            ],
             "s_country_code": "bj",
             "s_region_name": "Alibori Department",
-            "s_region_slug": "alibori-department",
-            "cities": [
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "alibori-department",
-                    "s_city_name": "Banikoara",
-                    "s_city_slug": "banikoara"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "alibori-department",
-                    "s_city_name": "Kandi",
-                    "s_city_slug": "kandi"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "alibori-department",
-                    "s_city_name": "Malanville",
-                    "s_city_slug": "malanville"
-                }
-            ]
+            "s_region_slug": "alibori-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Guilmaro",
+                    "s_city_slug": "guilmaro",
+                    "s_country_code": "bj",
+                    "s_region_slug": "atakora-department"
+                },
+                {
+                    "s_city_name": "Natitingou",
+                    "s_city_slug": "natitingou",
+                    "s_country_code": "bj",
+                    "s_region_slug": "atakora-department"
+                },
+                {
+                    "s_city_name": "Tanguieta",
+                    "s_city_slug": "tanguieta",
+                    "s_country_code": "bj",
+                    "s_region_slug": "atakora-department"
+                },
+                {
+                    "s_city_name": "Tanguieta",
+                    "s_city_slug": "tanguieta",
+                    "s_country_code": "bj",
+                    "s_region_slug": "atakora-department"
+                }
+            ],
             "s_country_code": "bj",
             "s_region_name": "Atakora Department",
-            "s_region_slug": "atakora-department",
-            "cities": [
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "atakora-department",
-                    "s_city_name": "Guilmaro",
-                    "s_city_slug": "guilmaro"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "atakora-department",
-                    "s_city_name": "Natitingou",
-                    "s_city_slug": "natitingou"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "atakora-department",
-                    "s_city_name": "Tanguieta",
-                    "s_city_slug": "tanguieta"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "atakora-department",
-                    "s_city_name": "Tanguieta",
-                    "s_city_slug": "tanguieta"
-                }
-            ]
+            "s_region_slug": "atakora-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Abomey-Calavi",
+                    "s_city_slug": "abomey-calavi",
+                    "s_country_code": "bj",
+                    "s_region_slug": "atlantique-department"
+                },
+                {
+                    "s_city_name": "Allada",
+                    "s_city_slug": "allada",
+                    "s_country_code": "bj",
+                    "s_region_slug": "atlantique-department"
+                },
+                {
+                    "s_city_name": "Hevie",
+                    "s_city_slug": "hevie",
+                    "s_country_code": "bj",
+                    "s_region_slug": "atlantique-department"
+                },
+                {
+                    "s_city_name": "Hinvi",
+                    "s_city_slug": "hinvi",
+                    "s_country_code": "bj",
+                    "s_region_slug": "atlantique-department"
+                },
+                {
+                    "s_city_name": "Ouidah",
+                    "s_city_slug": "ouidah",
+                    "s_country_code": "bj",
+                    "s_region_slug": "atlantique-department"
+                }
+            ],
             "s_country_code": "bj",
             "s_region_name": "Atlantique Department",
-            "s_region_slug": "atlantique-department",
-            "cities": [
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "atlantique-department",
-                    "s_city_name": "Abomey-Calavi",
-                    "s_city_slug": "abomey-calavi"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "atlantique-department",
-                    "s_city_name": "Allada",
-                    "s_city_slug": "allada"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "atlantique-department",
-                    "s_city_name": "Hevie",
-                    "s_city_slug": "hevie"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "atlantique-department",
-                    "s_city_name": "Hinvi",
-                    "s_city_slug": "hinvi"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "atlantique-department",
-                    "s_city_name": "Ouidah",
-                    "s_city_slug": "ouidah"
-                }
-            ]
+            "s_region_slug": "atlantique-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bembereke",
+                    "s_city_slug": "bembereke",
+                    "s_country_code": "bj",
+                    "s_region_slug": "borgou-department"
+                },
+                {
+                    "s_city_name": "Beterou",
+                    "s_city_slug": "beterou",
+                    "s_country_code": "bj",
+                    "s_region_slug": "borgou-department"
+                },
+                {
+                    "s_city_name": "Nikki",
+                    "s_city_slug": "nikki",
+                    "s_country_code": "bj",
+                    "s_region_slug": "borgou-department"
+                },
+                {
+                    "s_city_name": "Parakou",
+                    "s_city_slug": "parakou",
+                    "s_country_code": "bj",
+                    "s_region_slug": "borgou-department"
+                },
+                {
+                    "s_city_name": "Tchaourou",
+                    "s_city_slug": "tchaourou",
+                    "s_country_code": "bj",
+                    "s_region_slug": "borgou-department"
+                }
+            ],
             "s_country_code": "bj",
             "s_region_name": "Borgou Department",
-            "s_region_slug": "borgou-department",
-            "cities": [
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "borgou-department",
-                    "s_city_name": "Bembereke",
-                    "s_city_slug": "bembereke"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "borgou-department",
-                    "s_city_name": "Beterou",
-                    "s_city_slug": "beterou"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "borgou-department",
-                    "s_city_name": "Nikki",
-                    "s_city_slug": "nikki"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "borgou-department",
-                    "s_city_name": "Parakou",
-                    "s_city_slug": "parakou"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "borgou-department",
-                    "s_city_name": "Tchaourou",
-                    "s_city_slug": "tchaourou"
-                }
-            ]
+            "s_region_slug": "borgou-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Come",
+                    "s_city_slug": "come",
+                    "s_country_code": "bj",
+                    "s_region_slug": "collines-department"
+                },
+                {
+                    "s_city_name": "Dassa-Zoume",
+                    "s_city_slug": "dassa-zoume",
+                    "s_country_code": "bj",
+                    "s_region_slug": "collines-department"
+                },
+                {
+                    "s_city_name": "Savalou",
+                    "s_city_slug": "savalou",
+                    "s_country_code": "bj",
+                    "s_region_slug": "collines-department"
+                },
+                {
+                    "s_city_name": "Save",
+                    "s_city_slug": "save",
+                    "s_country_code": "bj",
+                    "s_region_slug": "collines-department"
+                }
+            ],
             "s_country_code": "bj",
             "s_region_name": "Collines Department",
-            "s_region_slug": "collines-department",
-            "cities": [
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "collines-department",
-                    "s_city_name": "Come",
-                    "s_city_slug": "come"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "collines-department",
-                    "s_city_name": "Dassa-Zoume",
-                    "s_city_slug": "dassa-zoume"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "collines-department",
-                    "s_city_name": "Savalou",
-                    "s_city_slug": "savalou"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "collines-department",
-                    "s_city_name": "Save",
-                    "s_city_slug": "save"
-                }
-            ]
+            "s_region_slug": "collines-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bassila",
+                    "s_city_slug": "bassila",
+                    "s_country_code": "bj",
+                    "s_region_slug": "donga-department"
+                },
+                {
+                    "s_city_name": "Commune of Djougou",
+                    "s_city_slug": "commune-of-djougou",
+                    "s_country_code": "bj",
+                    "s_region_slug": "donga-department"
+                },
+                {
+                    "s_city_name": "Djougou",
+                    "s_city_slug": "djougou",
+                    "s_country_code": "bj",
+                    "s_region_slug": "donga-department"
+                }
+            ],
             "s_country_code": "bj",
             "s_region_name": "Donga Department",
-            "s_region_slug": "donga-department",
-            "cities": [
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "donga-department",
-                    "s_city_name": "Bassila",
-                    "s_city_slug": "bassila"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "donga-department",
-                    "s_city_name": "Commune of Djougou",
-                    "s_city_slug": "commune-of-djougou"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "donga-department",
-                    "s_city_name": "Djougou",
-                    "s_city_slug": "djougou"
-                }
-            ]
+            "s_region_slug": "donga-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Djakotomey",
+                    "s_city_slug": "djakotomey",
+                    "s_country_code": "bj",
+                    "s_region_slug": "kouffo-department"
+                },
+                {
+                    "s_city_name": "Dogbo",
+                    "s_city_slug": "dogbo",
+                    "s_country_code": "bj",
+                    "s_region_slug": "kouffo-department"
+                }
+            ],
             "s_country_code": "bj",
             "s_region_name": "Kouffo Department",
-            "s_region_slug": "kouffo-department",
-            "cities": [
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "kouffo-department",
-                    "s_city_name": "Djakotomey",
-                    "s_city_slug": "djakotomey"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "kouffo-department",
-                    "s_city_name": "Dogbo",
-                    "s_city_slug": "dogbo"
-                }
-            ]
+            "s_region_slug": "kouffo-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Cotonou",
+                    "s_city_slug": "cotonou",
+                    "s_country_code": "bj",
+                    "s_region_slug": "littoral-department"
+                }
+            ],
             "s_country_code": "bj",
             "s_region_name": "Littoral Department",
-            "s_region_slug": "littoral-department",
-            "cities": [
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "littoral-department",
-                    "s_city_name": "Cotonou",
-                    "s_city_slug": "cotonou"
-                }
-            ]
+            "s_region_slug": "littoral-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Commune of Athieme",
+                    "s_city_slug": "commune-of-athieme",
+                    "s_country_code": "bj",
+                    "s_region_slug": "mono-department"
+                },
+                {
+                    "s_city_name": "Lokossa",
+                    "s_city_slug": "lokossa",
+                    "s_country_code": "bj",
+                    "s_region_slug": "mono-department"
+                }
+            ],
             "s_country_code": "bj",
             "s_region_name": "Mono Department",
-            "s_region_slug": "mono-department",
-            "cities": [
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "mono-department",
-                    "s_city_name": "Commune of Athieme",
-                    "s_city_slug": "commune-of-athieme"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "mono-department",
-                    "s_city_name": "Lokossa",
-                    "s_city_slug": "lokossa"
-                }
-            ]
+            "s_region_slug": "mono-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Porto-Novo",
+                    "s_city_slug": "porto-novo",
+                    "s_country_code": "bj",
+                    "s_region_slug": "oueme-department"
+                }
+            ],
             "s_country_code": "bj",
             "s_region_name": "Oueme Department",
-            "s_region_slug": "oueme-department",
-            "cities": [
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "oueme-department",
-                    "s_city_name": "Porto-Novo",
-                    "s_city_slug": "porto-novo"
-                }
-            ]
+            "s_region_slug": "oueme-department"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ketou",
+                    "s_city_slug": "ketou",
+                    "s_country_code": "bj",
+                    "s_region_slug": "plateau-department"
+                },
+                {
+                    "s_city_name": "Pobe",
+                    "s_city_slug": "pobe",
+                    "s_country_code": "bj",
+                    "s_region_slug": "plateau-department"
+                },
+                {
+                    "s_city_name": "Sakete",
+                    "s_city_slug": "sakete",
+                    "s_country_code": "bj",
+                    "s_region_slug": "plateau-department"
+                }
+            ],
             "s_country_code": "bj",
             "s_region_name": "Plateau Department",
-            "s_region_slug": "plateau-department",
-            "cities": [
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "plateau-department",
-                    "s_city_name": "Ketou",
-                    "s_city_slug": "ketou"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "plateau-department",
-                    "s_city_name": "Pobe",
-                    "s_city_slug": "pobe"
-                },
-                {
-                    "s_country_code": "bj",
-                    "s_region_slug": "plateau-department",
-                    "s_city_name": "Sakete",
-                    "s_city_slug": "sakete"
-                }
-            ]
+            "s_region_slug": "plateau-department"
         },
         {
-            "s_country_code": "bj",
-            "s_region_name": "Zou Department",
-            "s_region_slug": "zou-department",
             "cities": [
                 {
-                    "s_country_code": "bj",
-                    "s_region_slug": "zou-department",
                     "s_city_name": "Abomey",
-                    "s_city_slug": "abomey"
+                    "s_city_slug": "abomey",
+                    "s_country_code": "bj",
+                    "s_region_slug": "zou-department"
                 },
                 {
-                    "s_country_code": "bj",
-                    "s_region_slug": "zou-department",
                     "s_city_name": "Bohicon",
-                    "s_city_slug": "bohicon"
+                    "s_city_slug": "bohicon",
+                    "s_country_code": "bj",
+                    "s_region_slug": "zou-department"
                 },
                 {
-                    "s_country_code": "bj",
-                    "s_region_slug": "zou-department",
                     "s_city_name": "Commune of Agbangnizoun",
-                    "s_city_slug": "commune-of-agbangnizoun"
+                    "s_city_slug": "commune-of-agbangnizoun",
+                    "s_country_code": "bj",
+                    "s_region_slug": "zou-department"
                 },
                 {
-                    "s_country_code": "bj",
-                    "s_region_slug": "zou-department",
                     "s_city_name": "Cove",
-                    "s_city_slug": "cove"
+                    "s_city_slug": "cove",
+                    "s_country_code": "bj",
+                    "s_region_slug": "zou-department"
                 }
-            ]
+            ],
+            "s_country_code": "bj",
+            "s_region_name": "Zou Department",
+            "s_region_slug": "zou-department"
         }
-    ]
+    ],
+    "s_country_code": "BJ",
+    "s_country_name": "Benin",
+    "s_country_slug": "benin"
 }

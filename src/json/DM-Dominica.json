@@ -1,179 +1,179 @@
 {
-    "s_country_code": "DM",
-    "s_country_name": "Dominica",
-    "s_country_slug": "dominica",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Calibishie",
+                    "s_city_slug": "calibishie",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-andrew-parish"
+                },
+                {
+                    "s_city_name": "Marigot",
+                    "s_city_slug": "marigot",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-andrew-parish"
+                },
+                {
+                    "s_city_name": "Wesley",
+                    "s_city_slug": "wesley",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-andrew-parish"
+                },
+                {
+                    "s_city_name": "Woodford Hill",
+                    "s_city_slug": "woodford-hill",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-andrew-parish"
+                }
+            ],
             "s_country_code": "dm",
             "s_region_name": "Saint Andrew Parish",
-            "s_region_slug": "saint-andrew-parish",
-            "cities": [
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-andrew-parish",
-                    "s_city_name": "Calibishie",
-                    "s_city_slug": "calibishie"
-                },
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-andrew-parish",
-                    "s_city_name": "Marigot",
-                    "s_city_slug": "marigot"
-                },
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-andrew-parish",
-                    "s_city_name": "Wesley",
-                    "s_city_slug": "wesley"
-                },
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-andrew-parish",
-                    "s_city_name": "Woodford Hill",
-                    "s_city_slug": "woodford-hill"
-                }
-            ]
+            "s_region_slug": "saint-andrew-parish"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Castle Bruce",
+                    "s_city_slug": "castle-bruce",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-david-parish"
+                },
+                {
+                    "s_city_name": "Rosalie",
+                    "s_city_slug": "rosalie",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-david-parish"
+                }
+            ],
             "s_country_code": "dm",
             "s_region_name": "Saint David Parish",
-            "s_region_slug": "saint-david-parish",
-            "cities": [
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-david-parish",
-                    "s_city_name": "Castle Bruce",
-                    "s_city_slug": "castle-bruce"
-                },
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-david-parish",
-                    "s_city_name": "Rosalie",
-                    "s_city_slug": "rosalie"
-                }
-            ]
+            "s_region_slug": "saint-david-parish"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Roseau",
+                    "s_city_slug": "roseau",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-george-parish"
+                }
+            ],
             "s_country_code": "dm",
             "s_region_name": "Saint George Parish",
-            "s_region_slug": "saint-george-parish",
-            "cities": [
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-george-parish",
-                    "s_city_name": "Roseau",
-                    "s_city_slug": "roseau"
-                }
-            ]
+            "s_region_slug": "saint-george-parish"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Portsmouth",
+                    "s_city_slug": "portsmouth",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-john-parish"
+                }
+            ],
             "s_country_code": "dm",
             "s_region_name": "Saint John Parish",
-            "s_region_slug": "saint-john-parish",
-            "cities": [
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-john-parish",
-                    "s_city_name": "Portsmouth",
-                    "s_city_slug": "portsmouth"
-                }
-            ]
+            "s_region_slug": "saint-john-parish"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Saint Joseph",
+                    "s_city_slug": "saint-joseph",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-joseph-parish"
+                },
+                {
+                    "s_city_name": "Salisbury",
+                    "s_city_slug": "salisbury",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-joseph-parish"
+                }
+            ],
             "s_country_code": "dm",
             "s_region_name": "Saint Joseph Parish",
-            "s_region_slug": "saint-joseph-parish",
-            "cities": [
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-joseph-parish",
-                    "s_city_name": "Saint Joseph",
-                    "s_city_slug": "saint-joseph"
-                },
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-joseph-parish",
-                    "s_city_name": "Salisbury",
-                    "s_city_slug": "salisbury"
-                }
-            ]
+            "s_region_slug": "saint-joseph-parish"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Pointe Michel",
+                    "s_city_slug": "pointe-michel",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-luke-parish"
+                }
+            ],
             "s_country_code": "dm",
             "s_region_name": "Saint Luke Parish",
-            "s_region_slug": "saint-luke-parish",
-            "cities": [
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-luke-parish",
-                    "s_city_name": "Pointe Michel",
-                    "s_city_slug": "pointe-michel"
-                }
-            ]
+            "s_region_slug": "saint-luke-parish"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Soufriere",
+                    "s_city_slug": "soufriere",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-mark-parish"
+                }
+            ],
             "s_country_code": "dm",
             "s_region_name": "Saint Mark Parish",
-            "s_region_slug": "saint-mark-parish",
-            "cities": [
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-mark-parish",
-                    "s_city_name": "Soufriere",
-                    "s_city_slug": "soufriere"
-                }
-            ]
+            "s_region_slug": "saint-mark-parish"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Berekua",
+                    "s_city_slug": "berekua",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-patrick-parish"
+                },
+                {
+                    "s_city_name": "La Plaine",
+                    "s_city_slug": "la-plaine",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-patrick-parish"
+                }
+            ],
             "s_country_code": "dm",
             "s_region_name": "Saint Patrick Parish",
-            "s_region_slug": "saint-patrick-parish",
-            "cities": [
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-patrick-parish",
-                    "s_city_name": "Berekua",
-                    "s_city_slug": "berekua"
-                },
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-patrick-parish",
-                    "s_city_name": "La Plaine",
-                    "s_city_slug": "la-plaine"
-                }
-            ]
+            "s_region_slug": "saint-patrick-parish"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Mahaut",
+                    "s_city_slug": "mahaut",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-paul-parish"
+                },
+                {
+                    "s_city_name": "Pont Casse",
+                    "s_city_slug": "pont-casse",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-paul-parish"
+                }
+            ],
             "s_country_code": "dm",
             "s_region_name": "Saint Paul Parish",
-            "s_region_slug": "saint-paul-parish",
-            "cities": [
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-paul-parish",
-                    "s_city_name": "Mahaut",
-                    "s_city_slug": "mahaut"
-                },
-                {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-paul-parish",
-                    "s_city_name": "Pont Casse",
-                    "s_city_slug": "pont-casse"
-                }
-            ]
+            "s_region_slug": "saint-paul-parish"
         },
         {
-            "s_country_code": "dm",
-            "s_region_name": "Saint Peter Parish",
-            "s_region_slug": "saint-peter-parish",
             "cities": [
                 {
-                    "s_country_code": "dm",
-                    "s_region_slug": "saint-peter-parish",
                     "s_city_name": "Colihaut",
-                    "s_city_slug": "colihaut"
+                    "s_city_slug": "colihaut",
+                    "s_country_code": "dm",
+                    "s_region_slug": "saint-peter-parish"
                 }
-            ]
+            ],
+            "s_country_code": "dm",
+            "s_region_name": "Saint Peter Parish",
+            "s_region_slug": "saint-peter-parish"
         }
-    ]
+    ],
+    "s_country_code": "DM",
+    "s_country_name": "Dominica",
+    "s_country_slug": "dominica"
 }

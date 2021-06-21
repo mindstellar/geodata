@@ -21,7 +21,6 @@ def convertCsvToJson(csvFilePath):
     countryDict['s_country_code'] = df.iloc[1]['s_country_code_iso2']
     countryDict['s_country_name'] = df.iloc[1]['s_country_name']
     countryDict['s_country_slug'] = df.iloc[1]['s_country_slug']
-    LocationsDict2 = countryDict
 
     groupedData = df.groupby(['s_country_code_iso2', 's_country_name',
                              's_country_slug', 's_region_name', 's_region_slug'])
@@ -44,9 +43,9 @@ def convertCsvToJson(csvFilePath):
 
             citiesList.append(cityDict.copy())
 
-        regionDict['cities'] = citiesList
+        regionDict['cities'] = sorted(citiesList, key = lambda i: i['s_city_name'])
         regionsList.append(regionDict)
-    countryDict['regions'] = regionsList
+    countryDict['regions'] = sorted(regionsList, key = lambda i: i['s_region_name'])
     return countryDict
 
 
@@ -59,7 +58,7 @@ for csvFile in glob.glob('./src/csv/*.csv'):
     print('Converting CSV File ' + csvFileBasename)
     jsonFile = open(
         './src/json/' + os.path.splitext(csvFileBasename)[0]+'.json', 'w')
-    jsonFile.write(json.dumps(countryJson, indent=4))
+    jsonFile.write(json.dumps(countryJson, indent=4, sort_keys=True))
     jsonFile.close()
 
 
@@ -76,7 +75,8 @@ for jsonFiles in glob.glob('./src/json/*.json'):
     locationsList.append(locationsDict.copy())
 
 locations = {}
-locations['locations'] = locationsList
+locations['locations'] = sorted(locationsList, key = lambda i: i['s_country_name'])
+
 print('Creating JSON list of all locations')
 jsonFile = open('./src/json-list.json', 'w')
 jsonFile.write(json.dumps(locations, indent=4))

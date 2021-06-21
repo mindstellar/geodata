@@ -1,371 +1,371 @@
 {
-    "s_country_code": "ME",
-    "s_country_name": "Montenegro",
-    "s_country_slug": "montenegro",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Andrijevica",
+                    "s_city_slug": "andrijevica",
+                    "s_country_code": "me",
+                    "s_region_slug": "andrijevica-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Andrijevica Municipality",
-            "s_region_slug": "andrijevica-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "andrijevica-municipality",
-                    "s_city_name": "Andrijevica",
-                    "s_city_slug": "andrijevica"
-                }
-            ]
+            "s_region_slug": "andrijevica-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bar",
+                    "s_city_slug": "bar",
+                    "s_country_code": "me",
+                    "s_region_slug": "bar-municipality"
+                },
+                {
+                    "s_city_name": "Stari Bar",
+                    "s_city_slug": "stari-bar",
+                    "s_country_code": "me",
+                    "s_region_slug": "bar-municipality"
+                },
+                {
+                    "s_city_name": "Susanj",
+                    "s_city_slug": "susanj",
+                    "s_country_code": "me",
+                    "s_region_slug": "bar-municipality"
+                },
+                {
+                    "s_city_name": "Sutomore",
+                    "s_city_slug": "sutomore",
+                    "s_country_code": "me",
+                    "s_region_slug": "bar-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Bar Municipality",
-            "s_region_slug": "bar-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "bar-municipality",
-                    "s_city_name": "Bar",
-                    "s_city_slug": "bar"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "bar-municipality",
-                    "s_city_name": "Stari Bar",
-                    "s_city_slug": "stari-bar"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "bar-municipality",
-                    "s_city_name": "Susanj",
-                    "s_city_slug": "susanj"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "bar-municipality",
-                    "s_city_name": "Sutomore",
-                    "s_city_slug": "sutomore"
-                }
-            ]
+            "s_region_slug": "bar-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Berane",
+                    "s_city_slug": "berane",
+                    "s_country_code": "me",
+                    "s_region_slug": "berane-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Berane Municipality",
-            "s_region_slug": "berane-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "berane-municipality",
-                    "s_city_name": "Berane",
-                    "s_city_slug": "berane"
-                }
-            ]
+            "s_region_slug": "berane-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bijelo Polje",
+                    "s_city_slug": "bijelo-polje",
+                    "s_country_code": "me",
+                    "s_region_slug": "bijelo-polje-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Bijelo Polje Municipality",
-            "s_region_slug": "bijelo-polje-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "bijelo-polje-municipality",
-                    "s_city_name": "Bijelo Polje",
-                    "s_city_slug": "bijelo-polje"
-                }
-            ]
+            "s_region_slug": "bijelo-polje-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Budva",
+                    "s_city_slug": "budva",
+                    "s_country_code": "me",
+                    "s_region_slug": "budva-municipality"
+                },
+                {
+                    "s_city_name": "Petrovac na Moru",
+                    "s_city_slug": "petrovac-na-moru",
+                    "s_country_code": "me",
+                    "s_region_slug": "budva-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Budva Municipality",
-            "s_region_slug": "budva-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "budva-municipality",
-                    "s_city_name": "Budva",
-                    "s_city_slug": "budva"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "budva-municipality",
-                    "s_city_name": "Petrovac na Moru",
-                    "s_city_slug": "petrovac-na-moru"
-                }
-            ]
+            "s_region_slug": "budva-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Danilovgrad",
+                    "s_city_slug": "danilovgrad",
+                    "s_country_code": "me",
+                    "s_region_slug": "danilovgrad-municipality"
+                },
+                {
+                    "s_city_name": "Spuz",
+                    "s_city_slug": "spuz",
+                    "s_country_code": "me",
+                    "s_region_slug": "danilovgrad-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Danilovgrad Municipality",
-            "s_region_slug": "danilovgrad-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "danilovgrad-municipality",
-                    "s_city_name": "Danilovgrad",
-                    "s_city_slug": "danilovgrad"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "danilovgrad-municipality",
-                    "s_city_name": "Spuz",
-                    "s_city_slug": "spuz"
-                }
-            ]
+            "s_region_slug": "danilovgrad-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Gusinje",
+                    "s_city_slug": "gusinje",
+                    "s_country_code": "me",
+                    "s_region_slug": "gusinje-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Gusinje Municipality",
-            "s_region_slug": "gusinje-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "gusinje-municipality",
-                    "s_city_name": "Gusinje",
-                    "s_city_slug": "gusinje"
-                }
-            ]
+            "s_region_slug": "gusinje-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kolasin",
+                    "s_city_slug": "kolasin",
+                    "s_country_code": "me",
+                    "s_region_slug": "kolasin-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Kolasin Municipality",
-            "s_region_slug": "kolasin-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "kolasin-municipality",
-                    "s_city_name": "Kolasin",
-                    "s_city_slug": "kolasin"
-                }
-            ]
+            "s_region_slug": "kolasin-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Dobrota",
+                    "s_city_slug": "dobrota",
+                    "s_country_code": "me",
+                    "s_region_slug": "kotor-municipality"
+                },
+                {
+                    "s_city_name": "Kotor",
+                    "s_city_slug": "kotor",
+                    "s_country_code": "me",
+                    "s_region_slug": "kotor-municipality"
+                },
+                {
+                    "s_city_name": "Prcanj",
+                    "s_city_slug": "prcanj",
+                    "s_country_code": "me",
+                    "s_region_slug": "kotor-municipality"
+                },
+                {
+                    "s_city_name": "Risan",
+                    "s_city_slug": "risan",
+                    "s_country_code": "me",
+                    "s_region_slug": "kotor-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Kotor Municipality",
-            "s_region_slug": "kotor-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "kotor-municipality",
-                    "s_city_name": "Dobrota",
-                    "s_city_slug": "dobrota"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "kotor-municipality",
-                    "s_city_name": "Kotor",
-                    "s_city_slug": "kotor"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "kotor-municipality",
-                    "s_city_name": "Prcanj",
-                    "s_city_slug": "prcanj"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "kotor-municipality",
-                    "s_city_name": "Risan",
-                    "s_city_slug": "risan"
-                }
-            ]
+            "s_region_slug": "kotor-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Mojkovac",
+                    "s_city_slug": "mojkovac",
+                    "s_country_code": "me",
+                    "s_region_slug": "mojkovac-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Mojkovac Municipality",
-            "s_region_slug": "mojkovac-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "mojkovac-municipality",
-                    "s_city_name": "Mojkovac",
-                    "s_city_slug": "mojkovac"
-                }
-            ]
+            "s_region_slug": "mojkovac-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Niksic",
+                    "s_city_slug": "niksic",
+                    "s_country_code": "me",
+                    "s_region_slug": "niksic-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Niksic Municipality",
-            "s_region_slug": "niksic-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "niksic-municipality",
-                    "s_city_name": "Niksic",
-                    "s_city_slug": "niksic"
-                }
-            ]
+            "s_region_slug": "niksic-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Cetinje",
+                    "s_city_slug": "cetinje",
+                    "s_country_code": "me",
+                    "s_region_slug": "old-royal-capital-cetinje"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Old Royal Capital Cetinje",
-            "s_region_slug": "old-royal-capital-cetinje",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "old-royal-capital-cetinje",
-                    "s_city_name": "Cetinje",
-                    "s_city_slug": "cetinje"
-                }
-            ]
+            "s_region_slug": "old-royal-capital-cetinje"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Petnjica Municipality",
+                    "s_city_slug": "petnjica-municipality",
+                    "s_country_code": "me",
+                    "s_region_slug": "petnjica-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Petnjica Municipality",
-            "s_region_slug": "petnjica-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "petnjica-municipality",
-                    "s_city_name": "Petnjica Municipality",
-                    "s_city_slug": "petnjica-municipality"
-                }
-            ]
+            "s_region_slug": "petnjica-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Plav",
+                    "s_city_slug": "plav",
+                    "s_country_code": "me",
+                    "s_region_slug": "plav-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Plav Municipality",
-            "s_region_slug": "plav-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "plav-municipality",
-                    "s_city_name": "Plav",
-                    "s_city_slug": "plav"
-                }
-            ]
+            "s_region_slug": "plav-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Pljevlja",
+                    "s_city_slug": "pljevlja",
+                    "s_country_code": "me",
+                    "s_region_slug": "pljevlja-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Pljevlja Municipality",
-            "s_region_slug": "pljevlja-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "pljevlja-municipality",
-                    "s_city_name": "Pljevlja",
-                    "s_city_slug": "pljevlja"
-                }
-            ]
+            "s_region_slug": "pljevlja-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Pluzine",
+                    "s_city_slug": "pluzine",
+                    "s_country_code": "me",
+                    "s_region_slug": "pluzine-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Pluzine Municipality",
-            "s_region_slug": "pluzine-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "pluzine-municipality",
-                    "s_city_name": "Pluzine",
-                    "s_city_slug": "pluzine"
-                }
-            ]
+            "s_region_slug": "pluzine-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Golubovci",
+                    "s_city_slug": "golubovci",
+                    "s_country_code": "me",
+                    "s_region_slug": "podgorica-municipality"
+                },
+                {
+                    "s_city_name": "Goricani",
+                    "s_city_slug": "goricani",
+                    "s_country_code": "me",
+                    "s_region_slug": "podgorica-municipality"
+                },
+                {
+                    "s_city_name": "Mataguzi",
+                    "s_city_slug": "mataguzi",
+                    "s_country_code": "me",
+                    "s_region_slug": "podgorica-municipality"
+                },
+                {
+                    "s_city_name": "Mojanovici",
+                    "s_city_slug": "mojanovici",
+                    "s_country_code": "me",
+                    "s_region_slug": "podgorica-municipality"
+                },
+                {
+                    "s_city_name": "Podgorica",
+                    "s_city_slug": "podgorica",
+                    "s_country_code": "me",
+                    "s_region_slug": "podgorica-municipality"
+                },
+                {
+                    "s_city_name": "Tuzi",
+                    "s_city_slug": "tuzi",
+                    "s_country_code": "me",
+                    "s_region_slug": "podgorica-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Podgorica Municipality",
-            "s_region_slug": "podgorica-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "podgorica-municipality",
-                    "s_city_name": "Golubovci",
-                    "s_city_slug": "golubovci"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "podgorica-municipality",
-                    "s_city_name": "Goricani",
-                    "s_city_slug": "goricani"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "podgorica-municipality",
-                    "s_city_name": "Mataguzi",
-                    "s_city_slug": "mataguzi"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "podgorica-municipality",
-                    "s_city_name": "Mojanovici",
-                    "s_city_slug": "mojanovici"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "podgorica-municipality",
-                    "s_city_name": "Podgorica",
-                    "s_city_slug": "podgorica"
-                },
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "podgorica-municipality",
-                    "s_city_name": "Tuzi",
-                    "s_city_slug": "tuzi"
-                }
-            ]
+            "s_region_slug": "podgorica-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Rozaje",
+                    "s_city_slug": "rozaje",
+                    "s_country_code": "me",
+                    "s_region_slug": "rozaje-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Rozaje Municipality",
-            "s_region_slug": "rozaje-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "rozaje-municipality",
-                    "s_city_name": "Rozaje",
-                    "s_city_slug": "rozaje"
-                }
-            ]
+            "s_region_slug": "rozaje-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Savnik",
+                    "s_city_slug": "savnik",
+                    "s_country_code": "me",
+                    "s_region_slug": "savnik-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Savnik Municipality",
-            "s_region_slug": "savnik-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "savnik-municipality",
-                    "s_city_name": "Savnik",
-                    "s_city_slug": "savnik"
-                }
-            ]
+            "s_region_slug": "savnik-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Tivat",
+                    "s_city_slug": "tivat",
+                    "s_country_code": "me",
+                    "s_region_slug": "tivat-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Tivat Municipality",
-            "s_region_slug": "tivat-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "tivat-municipality",
-                    "s_city_name": "Tivat",
-                    "s_city_slug": "tivat"
-                }
-            ]
+            "s_region_slug": "tivat-municipality"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ulcinj",
+                    "s_city_slug": "ulcinj",
+                    "s_country_code": "me",
+                    "s_region_slug": "ulcinj-municipality"
+                }
+            ],
             "s_country_code": "me",
             "s_region_name": "Ulcinj Municipality",
-            "s_region_slug": "ulcinj-municipality",
-            "cities": [
-                {
-                    "s_country_code": "me",
-                    "s_region_slug": "ulcinj-municipality",
-                    "s_city_name": "Ulcinj",
-                    "s_city_slug": "ulcinj"
-                }
-            ]
+            "s_region_slug": "ulcinj-municipality"
         },
         {
-            "s_country_code": "me",
-            "s_region_name": "Zabljak Municipality",
-            "s_region_slug": "zabljak-municipality",
             "cities": [
                 {
-                    "s_country_code": "me",
-                    "s_region_slug": "zabljak-municipality",
                     "s_city_name": "Zabljak",
-                    "s_city_slug": "zabljak"
+                    "s_city_slug": "zabljak",
+                    "s_country_code": "me",
+                    "s_region_slug": "zabljak-municipality"
                 }
-            ]
+            ],
+            "s_country_code": "me",
+            "s_region_name": "Zabljak Municipality",
+            "s_region_slug": "zabljak-municipality"
         }
-    ]
+    ],
+    "s_country_code": "ME",
+    "s_country_name": "Montenegro",
+    "s_country_slug": "montenegro"
 }

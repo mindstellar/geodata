@@ -1,114 +1,114 @@
 {
-    "s_country_code": "RW",
-    "s_country_name": "Rwanda",
-    "s_country_slug": "rwanda",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Kibungo",
+                    "s_city_slug": "kibungo",
+                    "s_country_code": "rw",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Rwamagana",
+                    "s_city_slug": "rwamagana",
+                    "s_country_code": "rw",
+                    "s_region_slug": "eastern-province"
+                }
+            ],
             "s_country_code": "rw",
             "s_region_name": "Eastern Province",
-            "s_region_slug": "eastern-province",
-            "cities": [
-                {
-                    "s_country_code": "rw",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Kibungo",
-                    "s_city_slug": "kibungo"
-                },
-                {
-                    "s_country_code": "rw",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Rwamagana",
-                    "s_city_slug": "rwamagana"
-                }
-            ]
+            "s_region_slug": "eastern-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kigali",
+                    "s_city_slug": "kigali",
+                    "s_country_code": "rw",
+                    "s_region_slug": "kigali-district"
+                }
+            ],
             "s_country_code": "rw",
             "s_region_name": "Kigali district",
-            "s_region_slug": "kigali-district",
-            "cities": [
-                {
-                    "s_country_code": "rw",
-                    "s_region_slug": "kigali-district",
-                    "s_city_name": "Kigali",
-                    "s_city_slug": "kigali"
-                }
-            ]
+            "s_region_slug": "kigali-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Byumba",
+                    "s_city_slug": "byumba",
+                    "s_country_code": "rw",
+                    "s_region_slug": "northern-province"
+                },
+                {
+                    "s_city_name": "Musanze",
+                    "s_city_slug": "musanze",
+                    "s_country_code": "rw",
+                    "s_region_slug": "northern-province"
+                }
+            ],
             "s_country_code": "rw",
             "s_region_name": "Northern Province",
-            "s_region_slug": "northern-province",
-            "cities": [
-                {
-                    "s_country_code": "rw",
-                    "s_region_slug": "northern-province",
-                    "s_city_name": "Byumba",
-                    "s_city_slug": "byumba"
-                },
-                {
-                    "s_country_code": "rw",
-                    "s_region_slug": "northern-province",
-                    "s_city_name": "Musanze",
-                    "s_city_slug": "musanze"
-                }
-            ]
+            "s_region_slug": "northern-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Butare",
+                    "s_city_slug": "butare",
+                    "s_country_code": "rw",
+                    "s_region_slug": "southern-province"
+                },
+                {
+                    "s_city_name": "Eglise Catholique, Centrale GIKO",
+                    "s_city_slug": "eglise-catholique-centrale-giko",
+                    "s_country_code": "rw",
+                    "s_region_slug": "southern-province"
+                },
+                {
+                    "s_city_name": "Gitarama",
+                    "s_city_slug": "gitarama",
+                    "s_country_code": "rw",
+                    "s_region_slug": "southern-province"
+                },
+                {
+                    "s_city_name": "Nzega",
+                    "s_city_slug": "nzega",
+                    "s_country_code": "rw",
+                    "s_region_slug": "southern-province"
+                }
+            ],
             "s_country_code": "rw",
             "s_region_name": "Southern Province",
-            "s_region_slug": "southern-province",
-            "cities": [
-                {
-                    "s_country_code": "rw",
-                    "s_region_slug": "southern-province",
-                    "s_city_name": "Butare",
-                    "s_city_slug": "butare"
-                },
-                {
-                    "s_country_code": "rw",
-                    "s_region_slug": "southern-province",
-                    "s_city_name": "Eglise Catholique, Centrale GIKO",
-                    "s_city_slug": "eglise-catholique-centrale-giko"
-                },
-                {
-                    "s_country_code": "rw",
-                    "s_region_slug": "southern-province",
-                    "s_city_name": "Gitarama",
-                    "s_city_slug": "gitarama"
-                },
-                {
-                    "s_country_code": "rw",
-                    "s_region_slug": "southern-province",
-                    "s_city_name": "Nzega",
-                    "s_city_slug": "nzega"
-                }
-            ]
+            "s_region_slug": "southern-province"
         },
         {
-            "s_country_code": "rw",
-            "s_region_name": "Western Province",
-            "s_region_slug": "western-province",
             "cities": [
                 {
-                    "s_country_code": "rw",
-                    "s_region_slug": "western-province",
                     "s_city_name": "Cyangugu",
-                    "s_city_slug": "cyangugu"
+                    "s_city_slug": "cyangugu",
+                    "s_country_code": "rw",
+                    "s_region_slug": "western-province"
                 },
                 {
-                    "s_country_code": "rw",
-                    "s_region_slug": "western-province",
                     "s_city_name": "Gisenyi",
-                    "s_city_slug": "gisenyi"
+                    "s_city_slug": "gisenyi",
+                    "s_country_code": "rw",
+                    "s_region_slug": "western-province"
                 },
                 {
-                    "s_country_code": "rw",
-                    "s_region_slug": "western-province",
                     "s_city_name": "Kibuye",
-                    "s_city_slug": "kibuye"
+                    "s_city_slug": "kibuye",
+                    "s_country_code": "rw",
+                    "s_region_slug": "western-province"
                 }
-            ]
+            ],
+            "s_country_code": "rw",
+            "s_region_name": "Western Province",
+            "s_region_slug": "western-province"
         }
-    ]
+    ],
+    "s_country_code": "RW",
+    "s_country_name": "Rwanda",
+    "s_country_slug": "rwanda"
 }

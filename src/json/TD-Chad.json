@@ -1,432 +1,432 @@
 {
-    "s_country_code": "TD",
-    "s_country_name": "Chad",
-    "s_country_slug": "chad",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Moussoro",
+                    "s_city_slug": "moussoro",
+                    "s_country_code": "td",
+                    "s_region_slug": "bahr-el-gazel"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Bahr el Gazel",
-            "s_region_slug": "bahr-el-gazel",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "bahr-el-gazel",
-                    "s_city_name": "Moussoro",
-                    "s_city_slug": "moussoro"
-                }
-            ]
+            "s_region_slug": "bahr-el-gazel"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ati",
+                    "s_city_slug": "ati",
+                    "s_country_code": "td",
+                    "s_region_slug": "batha-region"
+                },
+                {
+                    "s_city_name": "Oum Hadjer",
+                    "s_city_slug": "oum-hadjer",
+                    "s_country_code": "td",
+                    "s_region_slug": "batha-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Batha Region",
-            "s_region_slug": "batha-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "batha-region",
-                    "s_city_name": "Ati",
-                    "s_city_slug": "ati"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "batha-region",
-                    "s_city_name": "Oum Hadjer",
-                    "s_city_slug": "oum-hadjer"
-                }
-            ]
+            "s_region_slug": "batha-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Faya-Largeau",
+                    "s_city_slug": "faya-largeau",
+                    "s_country_code": "td",
+                    "s_region_slug": "borkou"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Borkou",
-            "s_region_slug": "borkou",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "borkou",
-                    "s_city_name": "Faya-Largeau",
-                    "s_city_slug": "faya-largeau"
-                }
-            ]
+            "s_region_slug": "borkou"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ennedi Region",
+                    "s_city_slug": "ennedi-region",
+                    "s_country_code": "td",
+                    "s_region_slug": "ennedi-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Ennedi Region",
-            "s_region_slug": "ennedi-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "ennedi-region",
-                    "s_city_name": "Ennedi Region",
-                    "s_city_slug": "ennedi-region"
-                }
-            ]
+            "s_region_slug": "ennedi-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ennedi-Est",
+                    "s_city_slug": "ennedi-est",
+                    "s_country_code": "td",
+                    "s_region_slug": "ennedi-est"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Ennedi-Est",
-            "s_region_slug": "ennedi-est",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "ennedi-est",
-                    "s_city_name": "Ennedi-Est",
-                    "s_city_slug": "ennedi-est"
-                }
-            ]
+            "s_region_slug": "ennedi-est"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Fada",
+                    "s_city_slug": "fada",
+                    "s_country_code": "td",
+                    "s_region_slug": "ennedi-ouest"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Ennedi-Ouest",
-            "s_region_slug": "ennedi-ouest",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "ennedi-ouest",
-                    "s_city_name": "Fada",
-                    "s_city_slug": "fada"
-                }
-            ]
+            "s_region_slug": "ennedi-ouest"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bitkine",
+                    "s_city_slug": "bitkine",
+                    "s_country_code": "td",
+                    "s_region_slug": "guera-region"
+                },
+                {
+                    "s_city_name": "Melfi",
+                    "s_city_slug": "melfi",
+                    "s_country_code": "td",
+                    "s_region_slug": "guera-region"
+                },
+                {
+                    "s_city_name": "Mongo",
+                    "s_city_slug": "mongo",
+                    "s_country_code": "td",
+                    "s_region_slug": "guera-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Guera Region",
-            "s_region_slug": "guera-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "guera-region",
-                    "s_city_name": "Bitkine",
-                    "s_city_slug": "bitkine"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "guera-region",
-                    "s_city_name": "Melfi",
-                    "s_city_slug": "melfi"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "guera-region",
-                    "s_city_name": "Mongo",
-                    "s_city_slug": "mongo"
-                }
-            ]
+            "s_region_slug": "guera-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bokoro",
+                    "s_city_slug": "bokoro",
+                    "s_country_code": "td",
+                    "s_region_slug": "hadjer-lamis"
+                },
+                {
+                    "s_city_name": "Massaguet",
+                    "s_city_slug": "massaguet",
+                    "s_country_code": "td",
+                    "s_region_slug": "hadjer-lamis"
+                },
+                {
+                    "s_city_name": "Massakory",
+                    "s_city_slug": "massakory",
+                    "s_country_code": "td",
+                    "s_region_slug": "hadjer-lamis"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Hadjer-Lamis",
-            "s_region_slug": "hadjer-lamis",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "hadjer-lamis",
-                    "s_city_name": "Bokoro",
-                    "s_city_slug": "bokoro"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "hadjer-lamis",
-                    "s_city_name": "Massaguet",
-                    "s_city_slug": "massaguet"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "hadjer-lamis",
-                    "s_city_name": "Massakory",
-                    "s_city_slug": "massakory"
-                }
-            ]
+            "s_region_slug": "hadjer-lamis"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Mao",
+                    "s_city_slug": "mao",
+                    "s_country_code": "td",
+                    "s_region_slug": "kanem-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Kanem Region",
-            "s_region_slug": "kanem-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "kanem-region",
-                    "s_city_name": "Mao",
-                    "s_city_slug": "mao"
-                }
-            ]
+            "s_region_slug": "kanem-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bol",
+                    "s_city_slug": "bol",
+                    "s_country_code": "td",
+                    "s_region_slug": "lac-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Lac Region",
-            "s_region_slug": "lac-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "lac-region",
-                    "s_city_name": "Bol",
-                    "s_city_slug": "bol"
-                }
-            ]
+            "s_region_slug": "lac-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Beinamar",
+                    "s_city_slug": "beinamar",
+                    "s_country_code": "td",
+                    "s_region_slug": "logone-occidental-region"
+                },
+                {
+                    "s_city_name": "Benoy",
+                    "s_city_slug": "benoy",
+                    "s_country_code": "td",
+                    "s_region_slug": "logone-occidental-region"
+                },
+                {
+                    "s_city_name": "Lac Wey",
+                    "s_city_slug": "lac-wey",
+                    "s_country_code": "td",
+                    "s_region_slug": "logone-occidental-region"
+                },
+                {
+                    "s_city_name": "Moundou",
+                    "s_city_slug": "moundou",
+                    "s_country_code": "td",
+                    "s_region_slug": "logone-occidental-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Logone Occidental Region",
-            "s_region_slug": "logone-occidental-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "logone-occidental-region",
-                    "s_city_name": "Beinamar",
-                    "s_city_slug": "beinamar"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "logone-occidental-region",
-                    "s_city_name": "Benoy",
-                    "s_city_slug": "benoy"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "logone-occidental-region",
-                    "s_city_name": "Lac Wey",
-                    "s_city_slug": "lac-wey"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "logone-occidental-region",
-                    "s_city_name": "Moundou",
-                    "s_city_slug": "moundou"
-                }
-            ]
+            "s_region_slug": "logone-occidental-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bebedja",
+                    "s_city_slug": "bebedja",
+                    "s_country_code": "td",
+                    "s_region_slug": "logone-oriental-region"
+                },
+                {
+                    "s_city_name": "Beboto",
+                    "s_city_slug": "beboto",
+                    "s_country_code": "td",
+                    "s_region_slug": "logone-oriental-region"
+                },
+                {
+                    "s_city_name": "Doba",
+                    "s_city_slug": "doba",
+                    "s_country_code": "td",
+                    "s_region_slug": "logone-oriental-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Logone Oriental Region",
-            "s_region_slug": "logone-oriental-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "logone-oriental-region",
-                    "s_city_name": "Bebedja",
-                    "s_city_slug": "bebedja"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "logone-oriental-region",
-                    "s_city_name": "Beboto",
-                    "s_city_slug": "beboto"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "logone-oriental-region",
-                    "s_city_name": "Doba",
-                    "s_city_slug": "doba"
-                }
-            ]
+            "s_region_slug": "logone-oriental-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Goundi",
+                    "s_city_slug": "goundi",
+                    "s_country_code": "td",
+                    "s_region_slug": "mandoul-region"
+                },
+                {
+                    "s_city_name": "Koumra",
+                    "s_city_slug": "koumra",
+                    "s_country_code": "td",
+                    "s_region_slug": "mandoul-region"
+                },
+                {
+                    "s_city_name": "Moissala",
+                    "s_city_slug": "moissala",
+                    "s_country_code": "td",
+                    "s_region_slug": "mandoul-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Mandoul Region",
-            "s_region_slug": "mandoul-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "mandoul-region",
-                    "s_city_name": "Goundi",
-                    "s_city_slug": "goundi"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "mandoul-region",
-                    "s_city_name": "Koumra",
-                    "s_city_slug": "koumra"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "mandoul-region",
-                    "s_city_name": "Moissala",
-                    "s_city_slug": "moissala"
-                }
-            ]
+            "s_region_slug": "mandoul-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bongor",
+                    "s_city_slug": "bongor",
+                    "s_country_code": "td",
+                    "s_region_slug": "mayo-kebbi-est-region"
+                },
+                {
+                    "s_city_name": "Gounou Gaya",
+                    "s_city_slug": "gounou-gaya",
+                    "s_country_code": "td",
+                    "s_region_slug": "mayo-kebbi-est-region"
+                },
+                {
+                    "s_city_name": "Guelendeng",
+                    "s_city_slug": "guelendeng",
+                    "s_country_code": "td",
+                    "s_region_slug": "mayo-kebbi-est-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Mayo-Kebbi Est Region",
-            "s_region_slug": "mayo-kebbi-est-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "mayo-kebbi-est-region",
-                    "s_city_name": "Bongor",
-                    "s_city_slug": "bongor"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "mayo-kebbi-est-region",
-                    "s_city_name": "Gounou Gaya",
-                    "s_city_slug": "gounou-gaya"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "mayo-kebbi-est-region",
-                    "s_city_name": "Guelendeng",
-                    "s_city_slug": "guelendeng"
-                }
-            ]
+            "s_region_slug": "mayo-kebbi-est-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Mboursou Lere",
+                    "s_city_slug": "mboursou-lere",
+                    "s_country_code": "td",
+                    "s_region_slug": "mayo-kebbi-ouest-region"
+                },
+                {
+                    "s_city_name": "Pala",
+                    "s_city_slug": "pala",
+                    "s_country_code": "td",
+                    "s_region_slug": "mayo-kebbi-ouest-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Mayo-Kebbi Ouest Region",
-            "s_region_slug": "mayo-kebbi-ouest-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "mayo-kebbi-ouest-region",
-                    "s_city_name": "Mboursou Lere",
-                    "s_city_slug": "mboursou-lere"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "mayo-kebbi-ouest-region",
-                    "s_city_name": "Pala",
-                    "s_city_slug": "pala"
-                }
-            ]
+            "s_region_slug": "mayo-kebbi-ouest-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kyabe",
+                    "s_city_slug": "kyabe",
+                    "s_country_code": "td",
+                    "s_region_slug": "moyen-chari-region"
+                },
+                {
+                    "s_city_name": "Sarh",
+                    "s_city_slug": "sarh",
+                    "s_country_code": "td",
+                    "s_region_slug": "moyen-chari-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Moyen-Chari Region",
-            "s_region_slug": "moyen-chari-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "moyen-chari-region",
-                    "s_city_name": "Kyabe",
-                    "s_city_slug": "kyabe"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "moyen-chari-region",
-                    "s_city_name": "Sarh",
-                    "s_city_slug": "sarh"
-                }
-            ]
+            "s_region_slug": "moyen-chari-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "N'Djamena",
+                    "s_city_slug": "ndjamena",
+                    "s_country_code": "td",
+                    "s_region_slug": "ndjamena"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "N'Djamena",
-            "s_region_slug": "ndjamena",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "ndjamena",
-                    "s_city_name": "N'Djamena",
-                    "s_city_slug": "ndjamena"
-                }
-            ]
+            "s_region_slug": "ndjamena"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Abeche",
+                    "s_city_slug": "abeche",
+                    "s_country_code": "td",
+                    "s_region_slug": "ouaddai-region"
+                },
+                {
+                    "s_city_name": "Adre",
+                    "s_city_slug": "adre",
+                    "s_country_code": "td",
+                    "s_region_slug": "ouaddai-region"
+                },
+                {
+                    "s_city_name": "Goz Beida",
+                    "s_city_slug": "goz-beida",
+                    "s_country_code": "td",
+                    "s_region_slug": "ouaddai-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Ouaddai Region",
-            "s_region_slug": "ouaddai-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "ouaddai-region",
-                    "s_city_name": "Abeche",
-                    "s_city_slug": "abeche"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "ouaddai-region",
-                    "s_city_name": "Adre",
-                    "s_city_slug": "adre"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "ouaddai-region",
-                    "s_city_name": "Goz Beida",
-                    "s_city_slug": "goz-beida"
-                }
-            ]
+            "s_region_slug": "ouaddai-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Am Timan",
+                    "s_city_slug": "am-timan",
+                    "s_country_code": "td",
+                    "s_region_slug": "salamat-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Salamat Region",
-            "s_region_slug": "salamat-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "salamat-region",
-                    "s_city_name": "Am Timan",
-                    "s_city_slug": "am-timan"
-                }
-            ]
+            "s_region_slug": "salamat-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Goz Beida",
+                    "s_city_slug": "goz-beida",
+                    "s_country_code": "td",
+                    "s_region_slug": "sila-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Sila Region",
-            "s_region_slug": "sila-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "sila-region",
-                    "s_city_name": "Goz Beida",
-                    "s_city_slug": "goz-beida"
-                }
-            ]
+            "s_region_slug": "sila-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bere",
+                    "s_city_slug": "bere",
+                    "s_country_code": "td",
+                    "s_region_slug": "tandjile-region"
+                },
+                {
+                    "s_city_name": "Kelo",
+                    "s_city_slug": "kelo",
+                    "s_country_code": "td",
+                    "s_region_slug": "tandjile-region"
+                },
+                {
+                    "s_city_name": "Lai",
+                    "s_city_slug": "lai",
+                    "s_country_code": "td",
+                    "s_region_slug": "tandjile-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Tandjile Region",
-            "s_region_slug": "tandjile-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "tandjile-region",
-                    "s_city_name": "Bere",
-                    "s_city_slug": "bere"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "tandjile-region",
-                    "s_city_name": "Kelo",
-                    "s_city_slug": "kelo"
-                },
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "tandjile-region",
-                    "s_city_name": "Lai",
-                    "s_city_slug": "lai"
-                }
-            ]
+            "s_region_slug": "tandjile-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Aozou",
+                    "s_city_slug": "aozou",
+                    "s_country_code": "td",
+                    "s_region_slug": "tibesti-region"
+                }
+            ],
             "s_country_code": "td",
             "s_region_name": "Tibesti Region",
-            "s_region_slug": "tibesti-region",
-            "cities": [
-                {
-                    "s_country_code": "td",
-                    "s_region_slug": "tibesti-region",
-                    "s_city_name": "Aozou",
-                    "s_city_slug": "aozou"
-                }
-            ]
+            "s_region_slug": "tibesti-region"
         },
         {
-            "s_country_code": "td",
-            "s_region_name": "Wadi Fira Region",
-            "s_region_slug": "wadi-fira-region",
             "cities": [
                 {
-                    "s_country_code": "td",
-                    "s_region_slug": "wadi-fira-region",
                     "s_city_name": "Biltine",
-                    "s_city_slug": "biltine"
+                    "s_city_slug": "biltine",
+                    "s_country_code": "td",
+                    "s_region_slug": "wadi-fira-region"
                 },
                 {
-                    "s_country_code": "td",
-                    "s_region_slug": "wadi-fira-region",
                     "s_city_name": "Iriba",
-                    "s_city_slug": "iriba"
+                    "s_city_slug": "iriba",
+                    "s_country_code": "td",
+                    "s_region_slug": "wadi-fira-region"
                 }
-            ]
+            ],
+            "s_country_code": "td",
+            "s_region_name": "Wadi Fira Region",
+            "s_region_slug": "wadi-fira-region"
         }
-    ]
+    ],
+    "s_country_code": "TD",
+    "s_country_name": "Chad",
+    "s_country_slug": "chad"
 }

@@ -1,89 +1,89 @@
 {
-    "s_country_code": "BN",
-    "s_country_name": "Brunei",
-    "s_country_slug": "brunei",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Kuala Belait",
+                    "s_city_slug": "kuala-belait",
+                    "s_country_code": "bn",
+                    "s_region_slug": "belait-district"
+                },
+                {
+                    "s_city_name": "Seria",
+                    "s_city_slug": "seria",
+                    "s_country_code": "bn",
+                    "s_region_slug": "belait-district"
+                }
+            ],
             "s_country_code": "bn",
             "s_region_name": "Belait District",
-            "s_region_slug": "belait-district",
-            "cities": [
-                {
-                    "s_country_code": "bn",
-                    "s_region_slug": "belait-district",
-                    "s_city_name": "Kuala Belait",
-                    "s_city_slug": "kuala-belait"
-                },
-                {
-                    "s_country_code": "bn",
-                    "s_region_slug": "belait-district",
-                    "s_city_name": "Seria",
-                    "s_city_slug": "seria"
-                }
-            ]
+            "s_region_slug": "belait-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bandar Seri Begawan",
+                    "s_city_slug": "bandar-seri-begawan",
+                    "s_country_code": "bn",
+                    "s_region_slug": "brunei-muara-district"
+                },
+                {
+                    "s_city_name": "Berakas A",
+                    "s_city_slug": "berakas-a",
+                    "s_country_code": "bn",
+                    "s_region_slug": "brunei-muara-district"
+                },
+                {
+                    "s_city_name": "Kapok",
+                    "s_city_slug": "kapok",
+                    "s_country_code": "bn",
+                    "s_region_slug": "brunei-muara-district"
+                },
+                {
+                    "s_city_name": "Mentiri",
+                    "s_city_slug": "mentiri",
+                    "s_country_code": "bn",
+                    "s_region_slug": "brunei-muara-district"
+                },
+                {
+                    "s_city_name": "Serasa",
+                    "s_city_slug": "serasa",
+                    "s_country_code": "bn",
+                    "s_region_slug": "brunei-muara-district"
+                }
+            ],
             "s_country_code": "bn",
             "s_region_name": "Brunei-Muara District",
-            "s_region_slug": "brunei-muara-district",
-            "cities": [
-                {
-                    "s_country_code": "bn",
-                    "s_region_slug": "brunei-muara-district",
-                    "s_city_name": "Bandar Seri Begawan",
-                    "s_city_slug": "bandar-seri-begawan"
-                },
-                {
-                    "s_country_code": "bn",
-                    "s_region_slug": "brunei-muara-district",
-                    "s_city_name": "Berakas A",
-                    "s_city_slug": "berakas-a"
-                },
-                {
-                    "s_country_code": "bn",
-                    "s_region_slug": "brunei-muara-district",
-                    "s_city_name": "Kapok",
-                    "s_city_slug": "kapok"
-                },
-                {
-                    "s_country_code": "bn",
-                    "s_region_slug": "brunei-muara-district",
-                    "s_city_name": "Mentiri",
-                    "s_city_slug": "mentiri"
-                },
-                {
-                    "s_country_code": "bn",
-                    "s_region_slug": "brunei-muara-district",
-                    "s_city_name": "Serasa",
-                    "s_city_slug": "serasa"
-                }
-            ]
+            "s_region_slug": "brunei-muara-district"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bangar",
+                    "s_city_slug": "bangar",
+                    "s_country_code": "bn",
+                    "s_region_slug": "temburong-district"
+                }
+            ],
             "s_country_code": "bn",
             "s_region_name": "Temburong District",
-            "s_region_slug": "temburong-district",
-            "cities": [
-                {
-                    "s_country_code": "bn",
-                    "s_region_slug": "temburong-district",
-                    "s_city_name": "Bangar",
-                    "s_city_slug": "bangar"
-                }
-            ]
+            "s_region_slug": "temburong-district"
         },
         {
-            "s_country_code": "bn",
-            "s_region_name": "Tutong District",
-            "s_region_slug": "tutong-district",
             "cities": [
                 {
-                    "s_country_code": "bn",
-                    "s_region_slug": "tutong-district",
                     "s_city_name": "Tutong",
-                    "s_city_slug": "tutong"
+                    "s_city_slug": "tutong",
+                    "s_country_code": "bn",
+                    "s_region_slug": "tutong-district"
                 }
-            ]
+            ],
+            "s_country_code": "bn",
+            "s_region_name": "Tutong District",
+            "s_region_slug": "tutong-district"
         }
-    ]
+    ],
+    "s_country_code": "BN",
+    "s_country_name": "Brunei",
+    "s_country_slug": "brunei"
 }

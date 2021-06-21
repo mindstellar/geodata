@@ -1,137 +1,137 @@
 {
-    "s_country_code": "SS",
-    "s_country_name": "South Sudan",
-    "s_country_slug": "south-sudan",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Central Equatoria",
+                    "s_city_slug": "central-equatoria",
+                    "s_country_code": "ss",
+                    "s_region_slug": "central-equatoria"
+                }
+            ],
             "s_country_code": "ss",
             "s_region_name": "Central Equatoria",
-            "s_region_slug": "central-equatoria",
-            "cities": [
-                {
-                    "s_country_code": "ss",
-                    "s_region_slug": "central-equatoria",
-                    "s_city_name": "Central Equatoria",
-                    "s_city_slug": "central-equatoria"
-                }
-            ]
+            "s_region_slug": "central-equatoria"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Eastern Equatoria",
+                    "s_city_slug": "eastern-equatoria",
+                    "s_country_code": "ss",
+                    "s_region_slug": "eastern-equatoria"
+                }
+            ],
             "s_country_code": "ss",
             "s_region_name": "Eastern Equatoria",
-            "s_region_slug": "eastern-equatoria",
-            "cities": [
-                {
-                    "s_country_code": "ss",
-                    "s_region_slug": "eastern-equatoria",
-                    "s_city_name": "Eastern Equatoria",
-                    "s_city_slug": "eastern-equatoria"
-                }
-            ]
+            "s_region_slug": "eastern-equatoria"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Jonglei State",
+                    "s_city_slug": "jonglei-state",
+                    "s_country_code": "ss",
+                    "s_region_slug": "jonglei-state"
+                }
+            ],
             "s_country_code": "ss",
             "s_region_name": "Jonglei State",
-            "s_region_slug": "jonglei-state",
-            "cities": [
-                {
-                    "s_country_code": "ss",
-                    "s_region_slug": "jonglei-state",
-                    "s_city_name": "Jonglei State",
-                    "s_city_slug": "jonglei-state"
-                }
-            ]
+            "s_region_slug": "jonglei-state"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Yirol",
+                    "s_city_slug": "yirol",
+                    "s_country_code": "ss",
+                    "s_region_slug": "lakes"
+                }
+            ],
             "s_country_code": "ss",
             "s_region_name": "Lakes",
-            "s_region_slug": "lakes",
-            "cities": [
-                {
-                    "s_country_code": "ss",
-                    "s_region_slug": "lakes",
-                    "s_city_name": "Yirol",
-                    "s_city_slug": "yirol"
-                }
-            ]
+            "s_region_slug": "lakes"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Northern Bahr el Ghazal",
+                    "s_city_slug": "northern-bahr-el-ghazal",
+                    "s_country_code": "ss",
+                    "s_region_slug": "northern-bahr-el-ghazal"
+                }
+            ],
             "s_country_code": "ss",
             "s_region_name": "Northern Bahr el Ghazal",
-            "s_region_slug": "northern-bahr-el-ghazal",
-            "cities": [
-                {
-                    "s_country_code": "ss",
-                    "s_region_slug": "northern-bahr-el-ghazal",
-                    "s_city_name": "Northern Bahr el Ghazal",
-                    "s_city_slug": "northern-bahr-el-ghazal"
-                }
-            ]
+            "s_region_slug": "northern-bahr-el-ghazal"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Unity",
+                    "s_city_slug": "unity",
+                    "s_country_code": "ss",
+                    "s_region_slug": "unity"
+                }
+            ],
             "s_country_code": "ss",
             "s_region_name": "Unity",
-            "s_region_slug": "unity",
-            "cities": [
-                {
-                    "s_country_code": "ss",
-                    "s_region_slug": "unity",
-                    "s_city_name": "Unity",
-                    "s_city_slug": "unity"
-                }
-            ]
+            "s_region_slug": "unity"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Upper Nile",
+                    "s_city_slug": "upper-nile",
+                    "s_country_code": "ss",
+                    "s_region_slug": "upper-nile"
+                }
+            ],
             "s_country_code": "ss",
             "s_region_name": "Upper Nile",
-            "s_region_slug": "upper-nile",
-            "cities": [
-                {
-                    "s_country_code": "ss",
-                    "s_region_slug": "upper-nile",
-                    "s_city_name": "Upper Nile",
-                    "s_city_slug": "upper-nile"
-                }
-            ]
+            "s_region_slug": "upper-nile"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Warrap",
+                    "s_city_slug": "warrap",
+                    "s_country_code": "ss",
+                    "s_region_slug": "warrap"
+                }
+            ],
             "s_country_code": "ss",
             "s_region_name": "Warrap",
-            "s_region_slug": "warrap",
-            "cities": [
-                {
-                    "s_country_code": "ss",
-                    "s_region_slug": "warrap",
-                    "s_city_name": "Warrap",
-                    "s_city_slug": "warrap"
-                }
-            ]
+            "s_region_slug": "warrap"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Western Bahr el Ghazal",
+                    "s_city_slug": "western-bahr-el-ghazal",
+                    "s_country_code": "ss",
+                    "s_region_slug": "western-bahr-el-ghazal"
+                }
+            ],
             "s_country_code": "ss",
             "s_region_name": "Western Bahr el Ghazal",
-            "s_region_slug": "western-bahr-el-ghazal",
-            "cities": [
-                {
-                    "s_country_code": "ss",
-                    "s_region_slug": "western-bahr-el-ghazal",
-                    "s_city_name": "Western Bahr el Ghazal",
-                    "s_city_slug": "western-bahr-el-ghazal"
-                }
-            ]
+            "s_region_slug": "western-bahr-el-ghazal"
         },
         {
-            "s_country_code": "ss",
-            "s_region_name": "Western Equatoria",
-            "s_region_slug": "western-equatoria",
             "cities": [
                 {
-                    "s_country_code": "ss",
-                    "s_region_slug": "western-equatoria",
                     "s_city_name": "Western Equatoria",
-                    "s_city_slug": "western-equatoria"
+                    "s_city_slug": "western-equatoria",
+                    "s_country_code": "ss",
+                    "s_region_slug": "western-equatoria"
                 }
-            ]
+            ],
+            "s_country_code": "ss",
+            "s_region_name": "Western Equatoria",
+            "s_region_slug": "western-equatoria"
         }
-    ]
+    ],
+    "s_country_code": "SS",
+    "s_country_name": "South Sudan",
+    "s_country_slug": "south-sudan"
 }

@@ -1,256 +1,256 @@
 {
-    "s_country_code": "KI",
-    "s_country_name": "Kiribati",
-    "s_country_slug": "kiribati",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Abaiang",
+                    "s_city_slug": "abaiang",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Abemama",
+                    "s_city_slug": "abemama",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Ambo Village",
+                    "s_city_slug": "ambo-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Aranuka",
+                    "s_city_slug": "aranuka",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Arorae",
+                    "s_city_slug": "arorae",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Bairiki Village",
+                    "s_city_slug": "bairiki-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Banaba",
+                    "s_city_slug": "banaba",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Banraeaba Village",
+                    "s_city_slug": "banraeaba-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Beru",
+                    "s_city_slug": "beru",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Betio Village",
+                    "s_city_slug": "betio-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Bikenibeu Village",
+                    "s_city_slug": "bikenibeu-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Bonriki Village",
+                    "s_city_slug": "bonriki-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Buota Village",
+                    "s_city_slug": "buota-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Butaritari",
+                    "s_city_slug": "butaritari",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Eita Village",
+                    "s_city_slug": "eita-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Kuria",
+                    "s_city_slug": "kuria",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Maiana",
+                    "s_city_slug": "maiana",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Makin",
+                    "s_city_slug": "makin",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Makin Village",
+                    "s_city_slug": "makin-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Marakei",
+                    "s_city_slug": "marakei",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Nawerewere Village",
+                    "s_city_slug": "nawerewere-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Nikunau",
+                    "s_city_slug": "nikunau",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Nonouti",
+                    "s_city_slug": "nonouti",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Onotoa",
+                    "s_city_slug": "onotoa",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Rawannawi Village",
+                    "s_city_slug": "rawannawi-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Tabiteuea",
+                    "s_city_slug": "tabiteuea",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Tamana",
+                    "s_city_slug": "tamana",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Tarawa",
+                    "s_city_slug": "tarawa",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Teaoraereke Village",
+                    "s_city_slug": "teaoraereke-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                },
+                {
+                    "s_city_name": "Temaiku Village",
+                    "s_city_slug": "temaiku-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "gilbert-islands"
+                }
+            ],
             "s_country_code": "ki",
             "s_region_name": "Gilbert Islands",
-            "s_region_slug": "gilbert-islands",
-            "cities": [
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Abaiang",
-                    "s_city_slug": "abaiang"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Abemama",
-                    "s_city_slug": "abemama"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Ambo Village",
-                    "s_city_slug": "ambo-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Aranuka",
-                    "s_city_slug": "aranuka"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Arorae",
-                    "s_city_slug": "arorae"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Bairiki Village",
-                    "s_city_slug": "bairiki-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Banaba",
-                    "s_city_slug": "banaba"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Banraeaba Village",
-                    "s_city_slug": "banraeaba-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Beru",
-                    "s_city_slug": "beru"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Betio Village",
-                    "s_city_slug": "betio-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Bikenibeu Village",
-                    "s_city_slug": "bikenibeu-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Bonriki Village",
-                    "s_city_slug": "bonriki-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Buota Village",
-                    "s_city_slug": "buota-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Butaritari",
-                    "s_city_slug": "butaritari"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Eita Village",
-                    "s_city_slug": "eita-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Kuria",
-                    "s_city_slug": "kuria"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Maiana",
-                    "s_city_slug": "maiana"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Makin",
-                    "s_city_slug": "makin"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Makin Village",
-                    "s_city_slug": "makin-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Marakei",
-                    "s_city_slug": "marakei"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Nawerewere Village",
-                    "s_city_slug": "nawerewere-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Nikunau",
-                    "s_city_slug": "nikunau"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Nonouti",
-                    "s_city_slug": "nonouti"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Onotoa",
-                    "s_city_slug": "onotoa"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Rawannawi Village",
-                    "s_city_slug": "rawannawi-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Tabiteuea",
-                    "s_city_slug": "tabiteuea"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Tamana",
-                    "s_city_slug": "tamana"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Tarawa",
-                    "s_city_slug": "tarawa"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Teaoraereke Village",
-                    "s_city_slug": "teaoraereke-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "gilbert-islands",
-                    "s_city_name": "Temaiku Village",
-                    "s_city_slug": "temaiku-village"
-                }
-            ]
+            "s_region_slug": "gilbert-islands"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Banana Village",
+                    "s_city_slug": "banana-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "line-islands"
+                },
+                {
+                    "s_city_name": "Kiritimati",
+                    "s_city_slug": "kiritimati",
+                    "s_country_code": "ki",
+                    "s_region_slug": "line-islands"
+                },
+                {
+                    "s_city_name": "London Village",
+                    "s_city_slug": "london-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "line-islands"
+                },
+                {
+                    "s_city_name": "Napari Village",
+                    "s_city_slug": "napari-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "line-islands"
+                },
+                {
+                    "s_city_name": "Tabuaeran",
+                    "s_city_slug": "tabuaeran",
+                    "s_country_code": "ki",
+                    "s_region_slug": "line-islands"
+                },
+                {
+                    "s_city_name": "Tabwakea Village",
+                    "s_city_slug": "tabwakea-village",
+                    "s_country_code": "ki",
+                    "s_region_slug": "line-islands"
+                },
+                {
+                    "s_city_name": "Teraina",
+                    "s_city_slug": "teraina",
+                    "s_country_code": "ki",
+                    "s_region_slug": "line-islands"
+                }
+            ],
             "s_country_code": "ki",
             "s_region_name": "Line Islands",
-            "s_region_slug": "line-islands",
-            "cities": [
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "line-islands",
-                    "s_city_name": "Banana Village",
-                    "s_city_slug": "banana-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "line-islands",
-                    "s_city_name": "Kiritimati",
-                    "s_city_slug": "kiritimati"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "line-islands",
-                    "s_city_name": "London Village",
-                    "s_city_slug": "london-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "line-islands",
-                    "s_city_name": "Napari Village",
-                    "s_city_slug": "napari-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "line-islands",
-                    "s_city_name": "Tabuaeran",
-                    "s_city_slug": "tabuaeran"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "line-islands",
-                    "s_city_name": "Tabwakea Village",
-                    "s_city_slug": "tabwakea-village"
-                },
-                {
-                    "s_country_code": "ki",
-                    "s_region_slug": "line-islands",
-                    "s_city_name": "Teraina",
-                    "s_city_slug": "teraina"
-                }
-            ]
+            "s_region_slug": "line-islands"
         },
         {
-            "s_country_code": "ki",
-            "s_region_name": "Phoenix Islands",
-            "s_region_slug": "phoenix-islands",
             "cities": [
                 {
-                    "s_country_code": "ki",
-                    "s_region_slug": "phoenix-islands",
                     "s_city_name": "Kanton",
-                    "s_city_slug": "kanton"
+                    "s_city_slug": "kanton",
+                    "s_country_code": "ki",
+                    "s_region_slug": "phoenix-islands"
                 }
-            ]
+            ],
+            "s_country_code": "ki",
+            "s_region_name": "Phoenix Islands",
+            "s_region_slug": "phoenix-islands"
         }
-    ]
+    ],
+    "s_country_code": "KI",
+    "s_country_name": "Kiribati",
+    "s_country_slug": "kiribati"
 }

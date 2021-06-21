@@ -1,915 +1,915 @@
 {
-    "s_country_code": "UZ",
-    "s_country_name": "Uzbekistan",
-    "s_country_slug": "uzbekistan",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Andijon",
+                    "s_city_slug": "andijon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Andijon Tumani",
+                    "s_city_slug": "andijon-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Asaka",
+                    "s_city_slug": "asaka",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Asaka Tumani",
+                    "s_city_slug": "asaka-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Baliqchi Tumani",
+                    "s_city_slug": "baliqchi-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Boz Tumani",
+                    "s_city_slug": "boz-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Buloqboshi Tumani",
+                    "s_city_slug": "buloqboshi-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Izboskan Tumani",
+                    "s_city_slug": "izboskan-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Jalolkuduk Tumani",
+                    "s_city_slug": "jalolkuduk-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Khujaobod Tumani",
+                    "s_city_slug": "khujaobod-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Marhamat",
+                    "s_city_slug": "marhamat",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Marhamat Tumani",
+                    "s_city_slug": "marhamat-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Oltinkul Tumani",
+                    "s_city_slug": "oltinkul-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Pakhtaobod Tumani",
+                    "s_city_slug": "pakhtaobod-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Paxtaobod",
+                    "s_city_slug": "paxtaobod",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Qorgontepa",
+                    "s_city_slug": "qorgontepa",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Qurghontepa Tumani",
+                    "s_city_slug": "qurghontepa-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Shahrikhon Tumani",
+                    "s_city_slug": "shahrikhon-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Shahrixon",
+                    "s_city_slug": "shahrixon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Ulugnor Tumani",
+                    "s_city_slug": "ulugnor-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                },
+                {
+                    "s_city_name": "Xojaobod",
+                    "s_city_slug": "xojaobod",
+                    "s_country_code": "uz",
+                    "s_region_slug": "andijan-region"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Andijan Region",
-            "s_region_slug": "andijan-region",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Andijon",
-                    "s_city_slug": "andijon"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Andijon Tumani",
-                    "s_city_slug": "andijon-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Asaka",
-                    "s_city_slug": "asaka"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Asaka Tumani",
-                    "s_city_slug": "asaka-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Baliqchi Tumani",
-                    "s_city_slug": "baliqchi-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Boz Tumani",
-                    "s_city_slug": "boz-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Buloqboshi Tumani",
-                    "s_city_slug": "buloqboshi-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Izboskan Tumani",
-                    "s_city_slug": "izboskan-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Jalolkuduk Tumani",
-                    "s_city_slug": "jalolkuduk-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Khujaobod Tumani",
-                    "s_city_slug": "khujaobod-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Marhamat",
-                    "s_city_slug": "marhamat"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Marhamat Tumani",
-                    "s_city_slug": "marhamat-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Oltinkul Tumani",
-                    "s_city_slug": "oltinkul-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Pakhtaobod Tumani",
-                    "s_city_slug": "pakhtaobod-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Paxtaobod",
-                    "s_city_slug": "paxtaobod"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Qorgontepa",
-                    "s_city_slug": "qorgontepa"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Qurghontepa Tumani",
-                    "s_city_slug": "qurghontepa-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Shahrikhon Tumani",
-                    "s_city_slug": "shahrikhon-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Shahrixon",
-                    "s_city_slug": "shahrixon"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Ulugnor Tumani",
-                    "s_city_slug": "ulugnor-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "andijan-region",
-                    "s_city_name": "Xojaobod",
-                    "s_city_slug": "xojaobod"
-                }
-            ]
+            "s_region_slug": "andijan-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bukhara",
+                    "s_city_slug": "bukhara",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Galaosiyo",
+                    "s_city_slug": "galaosiyo",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Gazli",
+                    "s_city_slug": "gazli",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Ghijduwon",
+                    "s_city_slug": "ghijduwon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Karakul",
+                    "s_city_slug": "karakul",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Kogon",
+                    "s_city_slug": "kogon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Olot",
+                    "s_city_slug": "olot",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Peshku Tumani",
+                    "s_city_slug": "peshku-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Qorakol",
+                    "s_city_slug": "qorakol",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Qorovulbozor",
+                    "s_city_slug": "qorovulbozor",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Romiton",
+                    "s_city_slug": "romiton",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Shofirkon",
+                    "s_city_slug": "shofirkon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Wobkent",
+                    "s_city_slug": "wobkent",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                },
+                {
+                    "s_city_name": "Wobkent Tumani",
+                    "s_city_slug": "wobkent-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "bukhara-region"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Bukhara Region",
-            "s_region_slug": "bukhara-region",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Bukhara",
-                    "s_city_slug": "bukhara"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Galaosiyo",
-                    "s_city_slug": "galaosiyo"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Gazli",
-                    "s_city_slug": "gazli"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Ghijduwon",
-                    "s_city_slug": "ghijduwon"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Karakul",
-                    "s_city_slug": "karakul"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Kogon",
-                    "s_city_slug": "kogon"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Olot",
-                    "s_city_slug": "olot"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Peshku Tumani",
-                    "s_city_slug": "peshku-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Qorakol",
-                    "s_city_slug": "qorakol"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Qorovulbozor",
-                    "s_city_slug": "qorovulbozor"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Romiton",
-                    "s_city_slug": "romiton"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Shofirkon",
-                    "s_city_slug": "shofirkon"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Wobkent",
-                    "s_city_slug": "wobkent"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "bukhara-region",
-                    "s_city_name": "Wobkent Tumani",
-                    "s_city_slug": "wobkent-tumani"
-                }
-            ]
+            "s_region_slug": "bukhara-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Beshariq",
+                    "s_city_slug": "beshariq",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Fergana",
+                    "s_city_slug": "fergana",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Hamza",
+                    "s_city_slug": "hamza",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Kirguli",
+                    "s_city_slug": "kirguli",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Margilon",
+                    "s_city_slug": "margilon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Oltiariq",
+                    "s_city_slug": "oltiariq",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Qoqon",
+                    "s_city_slug": "qoqon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Quva",
+                    "s_city_slug": "quva",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Quvasoy",
+                    "s_city_slug": "quvasoy",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Rishton",
+                    "s_city_slug": "rishton",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Shohimardon",
+                    "s_city_slug": "shohimardon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Sox Tumani",
+                    "s_city_slug": "sox-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Toshloq",
+                    "s_city_slug": "toshloq",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Yangi Margilon",
+                    "s_city_slug": "yangi-margilon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                },
+                {
+                    "s_city_name": "Yaypan",
+                    "s_city_slug": "yaypan",
+                    "s_country_code": "uz",
+                    "s_region_slug": "fergana-region"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Fergana Region",
-            "s_region_slug": "fergana-region",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Beshariq",
-                    "s_city_slug": "beshariq"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Fergana",
-                    "s_city_slug": "fergana"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Hamza",
-                    "s_city_slug": "hamza"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Kirguli",
-                    "s_city_slug": "kirguli"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Margilon",
-                    "s_city_slug": "margilon"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Oltiariq",
-                    "s_city_slug": "oltiariq"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Qoqon",
-                    "s_city_slug": "qoqon"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Quva",
-                    "s_city_slug": "quva"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Quvasoy",
-                    "s_city_slug": "quvasoy"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Rishton",
-                    "s_city_slug": "rishton"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Shohimardon",
-                    "s_city_slug": "shohimardon"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Sox Tumani",
-                    "s_city_slug": "sox-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Toshloq",
-                    "s_city_slug": "toshloq"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Yangi Margilon",
-                    "s_city_slug": "yangi-margilon"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "fergana-region",
-                    "s_city_name": "Yaypan",
-                    "s_city_slug": "yaypan"
-                }
-            ]
+            "s_region_slug": "fergana-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Dashtobod",
+                    "s_city_slug": "dashtobod",
+                    "s_country_code": "uz",
+                    "s_region_slug": "jizzakh-region"
+                },
+                {
+                    "s_city_name": "Dustlik",
+                    "s_city_slug": "dustlik",
+                    "s_country_code": "uz",
+                    "s_region_slug": "jizzakh-region"
+                },
+                {
+                    "s_city_name": "Gagarin",
+                    "s_city_slug": "gagarin",
+                    "s_country_code": "uz",
+                    "s_region_slug": "jizzakh-region"
+                },
+                {
+                    "s_city_name": "Jizzax",
+                    "s_city_slug": "jizzax",
+                    "s_country_code": "uz",
+                    "s_region_slug": "jizzakh-region"
+                },
+                {
+                    "s_city_name": "Paxtakor",
+                    "s_city_slug": "paxtakor",
+                    "s_country_code": "uz",
+                    "s_region_slug": "jizzakh-region"
+                },
+                {
+                    "s_city_name": "Zomin",
+                    "s_city_slug": "zomin",
+                    "s_country_code": "uz",
+                    "s_region_slug": "jizzakh-region"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Jizzakh Region",
-            "s_region_slug": "jizzakh-region",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "jizzakh-region",
-                    "s_city_name": "Dashtobod",
-                    "s_city_slug": "dashtobod"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "jizzakh-region",
-                    "s_city_name": "Dustlik",
-                    "s_city_slug": "dustlik"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "jizzakh-region",
-                    "s_city_name": "Gagarin",
-                    "s_city_slug": "gagarin"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "jizzakh-region",
-                    "s_city_name": "Jizzax",
-                    "s_city_slug": "jizzax"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "jizzakh-region",
-                    "s_city_name": "Paxtakor",
-                    "s_city_slug": "paxtakor"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "jizzakh-region",
-                    "s_city_name": "Zomin",
-                    "s_city_slug": "zomin"
-                }
-            ]
+            "s_region_slug": "jizzakh-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Beruniy",
+                    "s_city_slug": "beruniy",
+                    "s_country_code": "uz",
+                    "s_region_slug": "karakalpakstan"
+                },
+                {
+                    "s_city_name": "Kegeyli Shahar",
+                    "s_city_slug": "kegeyli-shahar",
+                    "s_country_code": "uz",
+                    "s_region_slug": "karakalpakstan"
+                },
+                {
+                    "s_city_name": "Khujayli",
+                    "s_city_slug": "khujayli",
+                    "s_country_code": "uz",
+                    "s_region_slug": "karakalpakstan"
+                },
+                {
+                    "s_city_name": "Manghit",
+                    "s_city_slug": "manghit",
+                    "s_country_code": "uz",
+                    "s_region_slug": "karakalpakstan"
+                },
+                {
+                    "s_city_name": "Muynoq",
+                    "s_city_slug": "muynoq",
+                    "s_country_code": "uz",
+                    "s_region_slug": "karakalpakstan"
+                },
+                {
+                    "s_city_name": "Novyy Turtkul",
+                    "s_city_slug": "novyy-turtkul",
+                    "s_country_code": "uz",
+                    "s_region_slug": "karakalpakstan"
+                },
+                {
+                    "s_city_name": "Nukus",
+                    "s_city_slug": "nukus",
+                    "s_country_code": "uz",
+                    "s_region_slug": "karakalpakstan"
+                },
+                {
+                    "s_city_name": "Oltinkol",
+                    "s_city_slug": "oltinkol",
+                    "s_country_code": "uz",
+                    "s_region_slug": "karakalpakstan"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Karakalpakstan",
-            "s_region_slug": "karakalpakstan",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "karakalpakstan",
-                    "s_city_name": "Beruniy",
-                    "s_city_slug": "beruniy"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "karakalpakstan",
-                    "s_city_name": "Kegeyli Shahar",
-                    "s_city_slug": "kegeyli-shahar"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "karakalpakstan",
-                    "s_city_name": "Khujayli",
-                    "s_city_slug": "khujayli"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "karakalpakstan",
-                    "s_city_name": "Manghit",
-                    "s_city_slug": "manghit"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "karakalpakstan",
-                    "s_city_name": "Muynoq",
-                    "s_city_slug": "muynoq"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "karakalpakstan",
-                    "s_city_name": "Novyy Turtkul",
-                    "s_city_slug": "novyy-turtkul"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "karakalpakstan",
-                    "s_city_name": "Nukus",
-                    "s_city_slug": "nukus"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "karakalpakstan",
-                    "s_city_name": "Oltinkol",
-                    "s_city_slug": "oltinkol"
-                }
-            ]
+            "s_region_slug": "karakalpakstan"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Chortoq",
+                    "s_city_slug": "chortoq",
+                    "s_country_code": "uz",
+                    "s_region_slug": "namangan-region"
+                },
+                {
+                    "s_city_name": "Chust",
+                    "s_city_slug": "chust",
+                    "s_country_code": "uz",
+                    "s_region_slug": "namangan-region"
+                },
+                {
+                    "s_city_name": "Haqqulobod",
+                    "s_city_slug": "haqqulobod",
+                    "s_country_code": "uz",
+                    "s_region_slug": "namangan-region"
+                },
+                {
+                    "s_city_name": "Kosonsoy",
+                    "s_city_slug": "kosonsoy",
+                    "s_country_code": "uz",
+                    "s_region_slug": "namangan-region"
+                },
+                {
+                    "s_city_name": "Namangan",
+                    "s_city_slug": "namangan",
+                    "s_country_code": "uz",
+                    "s_region_slug": "namangan-region"
+                },
+                {
+                    "s_city_name": "Pop",
+                    "s_city_slug": "pop",
+                    "s_country_code": "uz",
+                    "s_region_slug": "namangan-region"
+                },
+                {
+                    "s_city_name": "Torqaorgon",
+                    "s_city_slug": "torqaorgon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "namangan-region"
+                },
+                {
+                    "s_city_name": "Toshbuloq",
+                    "s_city_slug": "toshbuloq",
+                    "s_country_code": "uz",
+                    "s_region_slug": "namangan-region"
+                },
+                {
+                    "s_city_name": "Uchqurghon Shahri",
+                    "s_city_slug": "uchqurghon-shahri",
+                    "s_country_code": "uz",
+                    "s_region_slug": "namangan-region"
+                },
+                {
+                    "s_city_name": "Uychi",
+                    "s_city_slug": "uychi",
+                    "s_country_code": "uz",
+                    "s_region_slug": "namangan-region"
+                },
+                {
+                    "s_city_name": "Yangiqorgon",
+                    "s_city_slug": "yangiqorgon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "namangan-region"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Namangan Region",
-            "s_region_slug": "namangan-region",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "namangan-region",
-                    "s_city_name": "Chortoq",
-                    "s_city_slug": "chortoq"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "namangan-region",
-                    "s_city_name": "Chust",
-                    "s_city_slug": "chust"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "namangan-region",
-                    "s_city_name": "Haqqulobod",
-                    "s_city_slug": "haqqulobod"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "namangan-region",
-                    "s_city_name": "Kosonsoy",
-                    "s_city_slug": "kosonsoy"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "namangan-region",
-                    "s_city_name": "Namangan",
-                    "s_city_slug": "namangan"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "namangan-region",
-                    "s_city_name": "Pop",
-                    "s_city_slug": "pop"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "namangan-region",
-                    "s_city_name": "Torqaorgon",
-                    "s_city_slug": "torqaorgon"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "namangan-region",
-                    "s_city_name": "Toshbuloq",
-                    "s_city_slug": "toshbuloq"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "namangan-region",
-                    "s_city_name": "Uchqurghon Shahri",
-                    "s_city_slug": "uchqurghon-shahri"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "namangan-region",
-                    "s_city_name": "Uychi",
-                    "s_city_slug": "uychi"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "namangan-region",
-                    "s_city_name": "Yangiqorgon",
-                    "s_city_slug": "yangiqorgon"
-                }
-            ]
+            "s_region_slug": "namangan-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Navoiy",
+                    "s_city_slug": "navoiy",
+                    "s_country_code": "uz",
+                    "s_region_slug": "navoiy-region"
+                },
+                {
+                    "s_city_name": "Nurota",
+                    "s_city_slug": "nurota",
+                    "s_country_code": "uz",
+                    "s_region_slug": "navoiy-region"
+                },
+                {
+                    "s_city_name": "Qiziltepa",
+                    "s_city_slug": "qiziltepa",
+                    "s_country_code": "uz",
+                    "s_region_slug": "navoiy-region"
+                },
+                {
+                    "s_city_name": "Yangirabot",
+                    "s_city_slug": "yangirabot",
+                    "s_country_code": "uz",
+                    "s_region_slug": "navoiy-region"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Navoiy Region",
-            "s_region_slug": "navoiy-region",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "navoiy-region",
-                    "s_city_name": "Navoiy",
-                    "s_city_slug": "navoiy"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "navoiy-region",
-                    "s_city_name": "Nurota",
-                    "s_city_slug": "nurota"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "navoiy-region",
-                    "s_city_name": "Qiziltepa",
-                    "s_city_slug": "qiziltepa"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "navoiy-region",
-                    "s_city_name": "Yangirabot",
-                    "s_city_slug": "yangirabot"
-                }
-            ]
+            "s_region_slug": "navoiy-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Beshkent",
+                    "s_city_slug": "beshkent",
+                    "s_country_code": "uz",
+                    "s_region_slug": "qashqadaryo-region"
+                },
+                {
+                    "s_city_name": "Chiroqchi",
+                    "s_city_slug": "chiroqchi",
+                    "s_country_code": "uz",
+                    "s_region_slug": "qashqadaryo-region"
+                },
+                {
+                    "s_city_name": "Guzor",
+                    "s_city_slug": "guzor",
+                    "s_country_code": "uz",
+                    "s_region_slug": "qashqadaryo-region"
+                },
+                {
+                    "s_city_name": "Kitob",
+                    "s_city_slug": "kitob",
+                    "s_country_code": "uz",
+                    "s_region_slug": "qashqadaryo-region"
+                },
+                {
+                    "s_city_name": "Koson",
+                    "s_city_slug": "koson",
+                    "s_country_code": "uz",
+                    "s_region_slug": "qashqadaryo-region"
+                },
+                {
+                    "s_city_name": "Muborak",
+                    "s_city_slug": "muborak",
+                    "s_country_code": "uz",
+                    "s_region_slug": "qashqadaryo-region"
+                },
+                {
+                    "s_city_name": "Nishon Tumani",
+                    "s_city_slug": "nishon-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "qashqadaryo-region"
+                },
+                {
+                    "s_city_name": "Qarshi",
+                    "s_city_slug": "qarshi",
+                    "s_country_code": "uz",
+                    "s_region_slug": "qashqadaryo-region"
+                },
+                {
+                    "s_city_name": "Shahrisabz",
+                    "s_city_slug": "shahrisabz",
+                    "s_country_code": "uz",
+                    "s_region_slug": "qashqadaryo-region"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Qashqadaryo Region",
-            "s_region_slug": "qashqadaryo-region",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "qashqadaryo-region",
-                    "s_city_name": "Beshkent",
-                    "s_city_slug": "beshkent"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "qashqadaryo-region",
-                    "s_city_name": "Chiroqchi",
-                    "s_city_slug": "chiroqchi"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "qashqadaryo-region",
-                    "s_city_name": "Guzor",
-                    "s_city_slug": "guzor"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "qashqadaryo-region",
-                    "s_city_name": "Kitob",
-                    "s_city_slug": "kitob"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "qashqadaryo-region",
-                    "s_city_name": "Koson",
-                    "s_city_slug": "koson"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "qashqadaryo-region",
-                    "s_city_name": "Muborak",
-                    "s_city_slug": "muborak"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "qashqadaryo-region",
-                    "s_city_name": "Nishon Tumani",
-                    "s_city_slug": "nishon-tumani"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "qashqadaryo-region",
-                    "s_city_name": "Qarshi",
-                    "s_city_slug": "qarshi"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "qashqadaryo-region",
-                    "s_city_name": "Shahrisabz",
-                    "s_city_slug": "shahrisabz"
-                }
-            ]
+            "s_region_slug": "qashqadaryo-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bulungur",
+                    "s_city_slug": "bulungur",
+                    "s_country_code": "uz",
+                    "s_region_slug": "samarqand-region"
+                },
+                {
+                    "s_city_name": "Charxin",
+                    "s_city_slug": "charxin",
+                    "s_country_code": "uz",
+                    "s_region_slug": "samarqand-region"
+                },
+                {
+                    "s_city_name": "Chelak",
+                    "s_city_slug": "chelak",
+                    "s_country_code": "uz",
+                    "s_region_slug": "samarqand-region"
+                },
+                {
+                    "s_city_name": "Daxbet",
+                    "s_city_slug": "daxbet",
+                    "s_country_code": "uz",
+                    "s_region_slug": "samarqand-region"
+                },
+                {
+                    "s_city_name": "Ishtixon",
+                    "s_city_slug": "ishtixon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "samarqand-region"
+                },
+                {
+                    "s_city_name": "Jomboy",
+                    "s_city_slug": "jomboy",
+                    "s_country_code": "uz",
+                    "s_region_slug": "samarqand-region"
+                },
+                {
+                    "s_city_name": "Juma",
+                    "s_city_slug": "juma",
+                    "s_country_code": "uz",
+                    "s_region_slug": "samarqand-region"
+                },
+                {
+                    "s_city_name": "Kattaqorgon",
+                    "s_city_slug": "kattaqorgon",
+                    "s_country_code": "uz",
+                    "s_region_slug": "samarqand-region"
+                },
+                {
+                    "s_city_name": "Oqtosh",
+                    "s_city_slug": "oqtosh",
+                    "s_country_code": "uz",
+                    "s_region_slug": "samarqand-region"
+                },
+                {
+                    "s_city_name": "Payshanba",
+                    "s_city_slug": "payshanba",
+                    "s_country_code": "uz",
+                    "s_region_slug": "samarqand-region"
+                },
+                {
+                    "s_city_name": "Samarkand",
+                    "s_city_slug": "samarkand",
+                    "s_country_code": "uz",
+                    "s_region_slug": "samarqand-region"
+                },
+                {
+                    "s_city_name": "Urgut",
+                    "s_city_slug": "urgut",
+                    "s_country_code": "uz",
+                    "s_region_slug": "samarqand-region"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Samarqand Region",
-            "s_region_slug": "samarqand-region",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "samarqand-region",
-                    "s_city_name": "Bulungur",
-                    "s_city_slug": "bulungur"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "samarqand-region",
-                    "s_city_name": "Charxin",
-                    "s_city_slug": "charxin"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "samarqand-region",
-                    "s_city_name": "Chelak",
-                    "s_city_slug": "chelak"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "samarqand-region",
-                    "s_city_name": "Daxbet",
-                    "s_city_slug": "daxbet"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "samarqand-region",
-                    "s_city_name": "Ishtixon",
-                    "s_city_slug": "ishtixon"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "samarqand-region",
-                    "s_city_name": "Jomboy",
-                    "s_city_slug": "jomboy"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "samarqand-region",
-                    "s_city_name": "Juma",
-                    "s_city_slug": "juma"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "samarqand-region",
-                    "s_city_name": "Kattaqorgon",
-                    "s_city_slug": "kattaqorgon"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "samarqand-region",
-                    "s_city_name": "Oqtosh",
-                    "s_city_slug": "oqtosh"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "samarqand-region",
-                    "s_city_name": "Payshanba",
-                    "s_city_slug": "payshanba"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "samarqand-region",
-                    "s_city_name": "Samarkand",
-                    "s_city_slug": "samarkand"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "samarqand-region",
-                    "s_city_name": "Urgut",
-                    "s_city_slug": "urgut"
-                }
-            ]
+            "s_region_slug": "samarqand-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Guliston",
+                    "s_city_slug": "guliston",
+                    "s_country_code": "uz",
+                    "s_region_slug": "sirdaryo-region"
+                },
+                {
+                    "s_city_name": "Sirdaryo",
+                    "s_city_slug": "sirdaryo",
+                    "s_country_code": "uz",
+                    "s_region_slug": "sirdaryo-region"
+                },
+                {
+                    "s_city_name": "Yangiyer",
+                    "s_city_slug": "yangiyer",
+                    "s_country_code": "uz",
+                    "s_region_slug": "sirdaryo-region"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Sirdaryo Region",
-            "s_region_slug": "sirdaryo-region",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "sirdaryo-region",
-                    "s_city_name": "Guliston",
-                    "s_city_slug": "guliston"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "sirdaryo-region",
-                    "s_city_name": "Sirdaryo",
-                    "s_city_slug": "sirdaryo"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "sirdaryo-region",
-                    "s_city_name": "Yangiyer",
-                    "s_city_slug": "yangiyer"
-                }
-            ]
+            "s_region_slug": "sirdaryo-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Boysun",
+                    "s_city_slug": "boysun",
+                    "s_country_code": "uz",
+                    "s_region_slug": "surxondaryo-region"
+                },
+                {
+                    "s_city_name": "Denov",
+                    "s_city_slug": "denov",
+                    "s_country_code": "uz",
+                    "s_region_slug": "surxondaryo-region"
+                },
+                {
+                    "s_city_name": "Shorchi",
+                    "s_city_slug": "shorchi",
+                    "s_country_code": "uz",
+                    "s_region_slug": "surxondaryo-region"
+                },
+                {
+                    "s_city_name": "Tirmiz",
+                    "s_city_slug": "tirmiz",
+                    "s_country_code": "uz",
+                    "s_region_slug": "surxondaryo-region"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Surxondaryo Region",
-            "s_region_slug": "surxondaryo-region",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "surxondaryo-region",
-                    "s_city_name": "Boysun",
-                    "s_city_slug": "boysun"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "surxondaryo-region",
-                    "s_city_name": "Denov",
-                    "s_city_slug": "denov"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "surxondaryo-region",
-                    "s_city_name": "Shorchi",
-                    "s_city_slug": "shorchi"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "surxondaryo-region",
-                    "s_city_name": "Tirmiz",
-                    "s_city_slug": "tirmiz"
-                }
-            ]
+            "s_region_slug": "surxondaryo-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bektemir",
+                    "s_city_slug": "bektemir",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent"
+                },
+                {
+                    "s_city_name": "Tashkent",
+                    "s_city_slug": "tashkent",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Tashkent",
-            "s_region_slug": "tashkent",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent",
-                    "s_city_name": "Bektemir",
-                    "s_city_slug": "bektemir"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent",
-                    "s_city_name": "Tashkent",
-                    "s_city_slug": "tashkent"
-                }
-            ]
+            "s_region_slug": "tashkent"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Angren",
+                    "s_city_slug": "angren",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Bekobod",
+                    "s_city_slug": "bekobod",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Boka",
+                    "s_city_slug": "boka",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Chinoz",
+                    "s_city_slug": "chinoz",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Chirchiq",
+                    "s_city_slug": "chirchiq",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Gazalkent",
+                    "s_city_slug": "gazalkent",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Iskandar",
+                    "s_city_slug": "iskandar",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Kyzyldzhar",
+                    "s_city_slug": "kyzyldzhar",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Ohangaron",
+                    "s_city_slug": "ohangaron",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Olmaliq",
+                    "s_city_slug": "olmaliq",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Parkent",
+                    "s_city_slug": "parkent",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Piskent",
+                    "s_city_slug": "piskent",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Qibray",
+                    "s_city_slug": "qibray",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Salor",
+                    "s_city_slug": "salor",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Tuytepa",
+                    "s_city_slug": "tuytepa",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Urtaowul",
+                    "s_city_slug": "urtaowul",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Yangiobod",
+                    "s_city_slug": "yangiobod",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Yangiyul",
+                    "s_city_slug": "yangiyul",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                },
+                {
+                    "s_city_name": "Zafar",
+                    "s_city_slug": "zafar",
+                    "s_country_code": "uz",
+                    "s_region_slug": "tashkent-region"
+                }
+            ],
             "s_country_code": "uz",
             "s_region_name": "Tashkent Region",
-            "s_region_slug": "tashkent-region",
-            "cities": [
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Angren",
-                    "s_city_slug": "angren"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Bekobod",
-                    "s_city_slug": "bekobod"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Boka",
-                    "s_city_slug": "boka"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Chinoz",
-                    "s_city_slug": "chinoz"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Chirchiq",
-                    "s_city_slug": "chirchiq"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Gazalkent",
-                    "s_city_slug": "gazalkent"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Iskandar",
-                    "s_city_slug": "iskandar"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Kyzyldzhar",
-                    "s_city_slug": "kyzyldzhar"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Ohangaron",
-                    "s_city_slug": "ohangaron"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Olmaliq",
-                    "s_city_slug": "olmaliq"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Parkent",
-                    "s_city_slug": "parkent"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Piskent",
-                    "s_city_slug": "piskent"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Qibray",
-                    "s_city_slug": "qibray"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Salor",
-                    "s_city_slug": "salor"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Tuytepa",
-                    "s_city_slug": "tuytepa"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Urtaowul",
-                    "s_city_slug": "urtaowul"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Yangiobod",
-                    "s_city_slug": "yangiobod"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Yangiyul",
-                    "s_city_slug": "yangiyul"
-                },
-                {
-                    "s_country_code": "uz",
-                    "s_region_slug": "tashkent-region",
-                    "s_city_name": "Zafar",
-                    "s_city_slug": "zafar"
-                }
-            ]
+            "s_region_slug": "tashkent-region"
         },
         {
-            "s_country_code": "uz",
-            "s_region_name": "Xorazm Region",
-            "s_region_slug": "xorazm-region",
             "cities": [
                 {
-                    "s_country_code": "uz",
-                    "s_region_slug": "xorazm-region",
                     "s_city_name": "Boghot Tumani",
-                    "s_city_slug": "boghot-tumani"
+                    "s_city_slug": "boghot-tumani",
+                    "s_country_code": "uz",
+                    "s_region_slug": "xorazm-region"
                 },
                 {
-                    "s_country_code": "uz",
-                    "s_region_slug": "xorazm-region",
                     "s_city_name": "Gurlan",
-                    "s_city_slug": "gurlan"
+                    "s_city_slug": "gurlan",
+                    "s_country_code": "uz",
+                    "s_region_slug": "xorazm-region"
                 },
                 {
-                    "s_country_code": "uz",
-                    "s_region_slug": "xorazm-region",
                     "s_city_name": "Hazorasp",
-                    "s_city_slug": "hazorasp"
+                    "s_city_slug": "hazorasp",
+                    "s_country_code": "uz",
+                    "s_region_slug": "xorazm-region"
                 },
                 {
-                    "s_country_code": "uz",
-                    "s_region_slug": "xorazm-region",
                     "s_city_name": "Khiwa",
-                    "s_city_slug": "khiwa"
+                    "s_city_slug": "khiwa",
+                    "s_country_code": "uz",
+                    "s_region_slug": "xorazm-region"
                 },
                 {
-                    "s_country_code": "uz",
-                    "s_region_slug": "xorazm-region",
                     "s_city_name": "Qushkupir",
-                    "s_city_slug": "qushkupir"
+                    "s_city_slug": "qushkupir",
+                    "s_country_code": "uz",
+                    "s_region_slug": "xorazm-region"
                 },
                 {
-                    "s_country_code": "uz",
-                    "s_region_slug": "xorazm-region",
                     "s_city_name": "Showot",
-                    "s_city_slug": "showot"
+                    "s_city_slug": "showot",
+                    "s_country_code": "uz",
+                    "s_region_slug": "xorazm-region"
                 },
                 {
-                    "s_country_code": "uz",
-                    "s_region_slug": "xorazm-region",
                     "s_city_name": "Urganch",
-                    "s_city_slug": "urganch"
+                    "s_city_slug": "urganch",
+                    "s_country_code": "uz",
+                    "s_region_slug": "xorazm-region"
                 }
-            ]
+            ],
+            "s_country_code": "uz",
+            "s_region_name": "Xorazm Region",
+            "s_region_slug": "xorazm-region"
         }
-    ]
+    ],
+    "s_country_code": "UZ",
+    "s_country_name": "Uzbekistan",
+    "s_country_slug": "uzbekistan"
 }

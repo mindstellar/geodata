@@ -1,319 +1,319 @@
 {
-    "s_country_code": "SC",
-    "s_country_name": "Seychelles",
-    "s_country_slug": "seychelles",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Anse Boileau",
+                    "s_city_slug": "anse-boileau",
+                    "s_country_code": "sc",
+                    "s_region_slug": "anse-boileau"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Anse Boileau",
-            "s_region_slug": "anse-boileau",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "anse-boileau",
-                    "s_city_name": "Anse Boileau",
-                    "s_city_slug": "anse-boileau"
-                }
-            ]
+            "s_region_slug": "anse-boileau"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Anse Royale",
+                    "s_city_slug": "anse-royale",
+                    "s_country_code": "sc",
+                    "s_region_slug": "anse-royale"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Anse Royale",
-            "s_region_slug": "anse-royale",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "anse-royale",
-                    "s_city_name": "Anse Royale",
-                    "s_city_slug": "anse-royale"
-                }
-            ]
+            "s_region_slug": "anse-royale"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Anse-aux-Pins",
+                    "s_city_slug": "anse-aux-pins",
+                    "s_country_code": "sc",
+                    "s_region_slug": "anse-aux-pins"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Anse-aux-Pins",
-            "s_region_slug": "anse-aux-pins",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "anse-aux-pins",
-                    "s_city_name": "Anse-aux-Pins",
-                    "s_city_slug": "anse-aux-pins"
-                }
-            ]
+            "s_region_slug": "anse-aux-pins"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Au Cap",
+                    "s_city_slug": "au-cap",
+                    "s_country_code": "sc",
+                    "s_region_slug": "au-cap"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Au Cap",
-            "s_region_slug": "au-cap",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "au-cap",
-                    "s_city_name": "Au Cap",
-                    "s_city_slug": "au-cap"
-                }
-            ]
+            "s_region_slug": "au-cap"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Baie Lazare",
+                    "s_city_slug": "baie-lazare",
+                    "s_country_code": "sc",
+                    "s_region_slug": "baie-lazare"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Baie Lazare",
-            "s_region_slug": "baie-lazare",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "baie-lazare",
-                    "s_city_name": "Baie Lazare",
-                    "s_city_slug": "baie-lazare"
-                }
-            ]
+            "s_region_slug": "baie-lazare"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Baie Sainte Anne",
+                    "s_city_slug": "baie-sainte-anne",
+                    "s_country_code": "sc",
+                    "s_region_slug": "baie-sainte-anne"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Baie Sainte Anne",
-            "s_region_slug": "baie-sainte-anne",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "baie-sainte-anne",
-                    "s_city_name": "Baie Sainte Anne",
-                    "s_city_slug": "baie-sainte-anne"
-                }
-            ]
+            "s_region_slug": "baie-sainte-anne"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Beau Vallon",
+                    "s_city_slug": "beau-vallon",
+                    "s_country_code": "sc",
+                    "s_region_slug": "beau-vallon"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Beau Vallon",
-            "s_region_slug": "beau-vallon",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "beau-vallon",
-                    "s_city_name": "Beau Vallon",
-                    "s_city_slug": "beau-vallon"
-                }
-            ]
+            "s_region_slug": "beau-vallon"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bel Air",
+                    "s_city_slug": "bel-air",
+                    "s_country_code": "sc",
+                    "s_region_slug": "bel-air"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Bel Air",
-            "s_region_slug": "bel-air",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "bel-air",
-                    "s_city_name": "Bel Air",
-                    "s_city_slug": "bel-air"
-                }
-            ]
+            "s_region_slug": "bel-air"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Bel Ombre",
+                    "s_city_slug": "bel-ombre",
+                    "s_country_code": "sc",
+                    "s_region_slug": "bel-ombre"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Bel Ombre",
-            "s_region_slug": "bel-ombre",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "bel-ombre",
-                    "s_city_name": "Bel Ombre",
-                    "s_city_slug": "bel-ombre"
-                }
-            ]
+            "s_region_slug": "bel-ombre"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Cascade",
+                    "s_city_slug": "cascade",
+                    "s_country_code": "sc",
+                    "s_region_slug": "cascade"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Cascade",
-            "s_region_slug": "cascade",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "cascade",
-                    "s_city_name": "Cascade",
-                    "s_city_slug": "cascade"
-                }
-            ]
+            "s_region_slug": "cascade"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Glacis",
+                    "s_city_slug": "glacis",
+                    "s_country_code": "sc",
+                    "s_region_slug": "glacis"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Glacis",
-            "s_region_slug": "glacis",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "glacis",
-                    "s_city_name": "Glacis",
-                    "s_city_slug": "glacis"
-                }
-            ]
+            "s_region_slug": "glacis"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Grand'Anse Mahe",
+                    "s_city_slug": "grandanse-mahe",
+                    "s_country_code": "sc",
+                    "s_region_slug": "grandanse-mahe"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Grand'Anse Mahe",
-            "s_region_slug": "grandanse-mahe",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "grandanse-mahe",
-                    "s_city_name": "Grand'Anse Mahe",
-                    "s_city_slug": "grandanse-mahe"
-                }
-            ]
+            "s_region_slug": "grandanse-mahe"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Grand'Anse Praslin",
+                    "s_city_slug": "grandanse-praslin",
+                    "s_country_code": "sc",
+                    "s_region_slug": "grandanse-praslin"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Grand'Anse Praslin",
-            "s_region_slug": "grandanse-praslin",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "grandanse-praslin",
-                    "s_city_name": "Grand'Anse Praslin",
-                    "s_city_slug": "grandanse-praslin"
-                }
-            ]
+            "s_region_slug": "grandanse-praslin"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "La Digue",
+                    "s_city_slug": "la-digue",
+                    "s_country_code": "sc",
+                    "s_region_slug": "la-digue"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "La Digue",
-            "s_region_slug": "la-digue",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "la-digue",
-                    "s_city_name": "La Digue",
-                    "s_city_slug": "la-digue"
-                }
-            ]
+            "s_region_slug": "la-digue"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Victoria",
+                    "s_city_slug": "victoria",
+                    "s_country_code": "sc",
+                    "s_region_slug": "la-riviere-anglaise"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "La Riviere Anglaise",
-            "s_region_slug": "la-riviere-anglaise",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "la-riviere-anglaise",
-                    "s_city_name": "Victoria",
-                    "s_city_slug": "victoria"
-                }
-            ]
+            "s_region_slug": "la-riviere-anglaise"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Les Mamelles",
+                    "s_city_slug": "les-mamelles",
+                    "s_country_code": "sc",
+                    "s_region_slug": "les-mamelles"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Les Mamelles",
-            "s_region_slug": "les-mamelles",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "les-mamelles",
-                    "s_city_name": "Les Mamelles",
-                    "s_city_slug": "les-mamelles"
-                }
-            ]
+            "s_region_slug": "les-mamelles"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Mont Buxton",
+                    "s_city_slug": "mont-buxton",
+                    "s_country_code": "sc",
+                    "s_region_slug": "mont-buxton"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Mont Buxton",
-            "s_region_slug": "mont-buxton",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "mont-buxton",
-                    "s_city_name": "Mont Buxton",
-                    "s_city_slug": "mont-buxton"
-                }
-            ]
+            "s_region_slug": "mont-buxton"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Mont Fleuri",
+                    "s_city_slug": "mont-fleuri",
+                    "s_country_code": "sc",
+                    "s_region_slug": "mont-fleuri"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Mont Fleuri",
-            "s_region_slug": "mont-fleuri",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "mont-fleuri",
-                    "s_city_name": "Mont Fleuri",
-                    "s_city_slug": "mont-fleuri"
-                }
-            ]
+            "s_region_slug": "mont-fleuri"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Plaisance",
+                    "s_city_slug": "plaisance",
+                    "s_country_code": "sc",
+                    "s_region_slug": "plaisance"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Plaisance",
-            "s_region_slug": "plaisance",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "plaisance",
-                    "s_city_name": "Plaisance",
-                    "s_city_slug": "plaisance"
-                }
-            ]
+            "s_region_slug": "plaisance"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Pointe La Rue",
+                    "s_city_slug": "pointe-la-rue",
+                    "s_country_code": "sc",
+                    "s_region_slug": "pointe-la-rue"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Pointe La Rue",
-            "s_region_slug": "pointe-la-rue",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "pointe-la-rue",
-                    "s_city_name": "Pointe La Rue",
-                    "s_city_slug": "pointe-la-rue"
-                }
-            ]
+            "s_region_slug": "pointe-la-rue"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Port Glaud",
+                    "s_city_slug": "port-glaud",
+                    "s_country_code": "sc",
+                    "s_region_slug": "port-glaud"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Port Glaud",
-            "s_region_slug": "port-glaud",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "port-glaud",
-                    "s_city_name": "Port Glaud",
-                    "s_city_slug": "port-glaud"
-                }
-            ]
+            "s_region_slug": "port-glaud"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Roche Caiman",
+                    "s_city_slug": "roche-caiman",
+                    "s_country_code": "sc",
+                    "s_region_slug": "roche-caiman"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Roche Caiman",
-            "s_region_slug": "roche-caiman",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "roche-caiman",
-                    "s_city_name": "Roche Caiman",
-                    "s_city_slug": "roche-caiman"
-                }
-            ]
+            "s_region_slug": "roche-caiman"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Saint Louis",
+                    "s_city_slug": "saint-louis",
+                    "s_country_code": "sc",
+                    "s_region_slug": "saint-louis"
+                }
+            ],
             "s_country_code": "sc",
             "s_region_name": "Saint Louis",
-            "s_region_slug": "saint-louis",
-            "cities": [
-                {
-                    "s_country_code": "sc",
-                    "s_region_slug": "saint-louis",
-                    "s_city_name": "Saint Louis",
-                    "s_city_slug": "saint-louis"
-                }
-            ]
+            "s_region_slug": "saint-louis"
         },
         {
-            "s_country_code": "sc",
-            "s_region_name": "Takamaka",
-            "s_region_slug": "takamaka",
             "cities": [
                 {
-                    "s_country_code": "sc",
-                    "s_region_slug": "takamaka",
                     "s_city_name": "Takamaka",
-                    "s_city_slug": "takamaka"
+                    "s_city_slug": "takamaka",
+                    "s_country_code": "sc",
+                    "s_region_slug": "takamaka"
                 }
-            ]
+            ],
+            "s_country_code": "sc",
+            "s_region_name": "Takamaka",
+            "s_region_slug": "takamaka"
         }
-    ]
+    ],
+    "s_country_code": "SC",
+    "s_country_name": "Seychelles",
+    "s_country_slug": "seychelles"
 }

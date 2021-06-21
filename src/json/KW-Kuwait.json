@@ -1,199 +1,199 @@
 {
-    "s_country_code": "KW",
-    "s_country_name": "Kuwait",
-    "s_country_slug": "kuwait",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Al Ahmadi",
+                    "s_city_slug": "al-ahmadi",
+                    "s_country_code": "kw",
+                    "s_region_slug": "al-ahmadi-governorate"
+                },
+                {
+                    "s_city_name": "Al Fahahil",
+                    "s_city_slug": "al-fahahil",
+                    "s_country_code": "kw",
+                    "s_region_slug": "al-ahmadi-governorate"
+                },
+                {
+                    "s_city_name": "Al Fintas",
+                    "s_city_slug": "al-fintas",
+                    "s_country_code": "kw",
+                    "s_region_slug": "al-ahmadi-governorate"
+                },
+                {
+                    "s_city_name": "Al Mahbulah",
+                    "s_city_slug": "al-mahbulah",
+                    "s_country_code": "kw",
+                    "s_region_slug": "al-ahmadi-governorate"
+                },
+                {
+                    "s_city_name": "Al Manqaf",
+                    "s_city_slug": "al-manqaf",
+                    "s_country_code": "kw",
+                    "s_region_slug": "al-ahmadi-governorate"
+                },
+                {
+                    "s_city_name": "Al Wafrah",
+                    "s_city_slug": "al-wafrah",
+                    "s_country_code": "kw",
+                    "s_region_slug": "al-ahmadi-governorate"
+                },
+                {
+                    "s_city_name": "Ar Riqqah",
+                    "s_city_slug": "ar-riqqah",
+                    "s_country_code": "kw",
+                    "s_region_slug": "al-ahmadi-governorate"
+                }
+            ],
             "s_country_code": "kw",
             "s_region_name": "Al Ahmadi Governorate",
-            "s_region_slug": "al-ahmadi-governorate",
-            "cities": [
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "al-ahmadi-governorate",
-                    "s_city_name": "Al Ahmadi",
-                    "s_city_slug": "al-ahmadi"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "al-ahmadi-governorate",
-                    "s_city_name": "Al Fahahil",
-                    "s_city_slug": "al-fahahil"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "al-ahmadi-governorate",
-                    "s_city_name": "Al Fintas",
-                    "s_city_slug": "al-fintas"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "al-ahmadi-governorate",
-                    "s_city_name": "Al Mahbulah",
-                    "s_city_slug": "al-mahbulah"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "al-ahmadi-governorate",
-                    "s_city_name": "Al Manqaf",
-                    "s_city_slug": "al-manqaf"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "al-ahmadi-governorate",
-                    "s_city_name": "Al Wafrah",
-                    "s_city_slug": "al-wafrah"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "al-ahmadi-governorate",
-                    "s_city_name": "Ar Riqqah",
-                    "s_city_slug": "ar-riqqah"
-                }
-            ]
+            "s_region_slug": "al-ahmadi-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Al Farwaniyah",
+                    "s_city_slug": "al-farwaniyah",
+                    "s_country_code": "kw",
+                    "s_region_slug": "al-farwaniyah-governorate"
+                },
+                {
+                    "s_city_name": "Janub as Surrah",
+                    "s_city_slug": "janub-as-surrah",
+                    "s_country_code": "kw",
+                    "s_region_slug": "al-farwaniyah-governorate"
+                }
+            ],
             "s_country_code": "kw",
             "s_region_name": "Al Farwaniyah Governorate",
-            "s_region_slug": "al-farwaniyah-governorate",
-            "cities": [
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "al-farwaniyah-governorate",
-                    "s_city_name": "Al Farwaniyah",
-                    "s_city_slug": "al-farwaniyah"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "al-farwaniyah-governorate",
-                    "s_city_name": "Janub as Surrah",
-                    "s_city_slug": "janub-as-surrah"
-                }
-            ]
+            "s_region_slug": "al-farwaniyah-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Al Jahra",
+                    "s_city_slug": "al-jahra",
+                    "s_country_code": "kw",
+                    "s_region_slug": "al-jahra-governorate"
+                }
+            ],
             "s_country_code": "kw",
             "s_region_name": "Al Jahra Governorate",
-            "s_region_slug": "al-jahra-governorate",
-            "cities": [
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "al-jahra-governorate",
-                    "s_city_name": "Al Jahra",
-                    "s_city_slug": "al-jahra"
-                }
-            ]
+            "s_region_slug": "al-jahra-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ad Dasmah",
+                    "s_city_slug": "ad-dasmah",
+                    "s_country_code": "kw",
+                    "s_region_slug": "capital-governorate"
+                },
+                {
+                    "s_city_name": "Ar Rabiyah",
+                    "s_city_slug": "ar-rabiyah",
+                    "s_country_code": "kw",
+                    "s_region_slug": "capital-governorate"
+                },
+                {
+                    "s_city_name": "Ash Shamiyah",
+                    "s_city_slug": "ash-shamiyah",
+                    "s_country_code": "kw",
+                    "s_region_slug": "capital-governorate"
+                },
+                {
+                    "s_city_name": "Az Zawr",
+                    "s_city_slug": "az-zawr",
+                    "s_country_code": "kw",
+                    "s_region_slug": "capital-governorate"
+                },
+                {
+                    "s_city_name": "Kuwait City",
+                    "s_city_slug": "kuwait-city",
+                    "s_country_code": "kw",
+                    "s_region_slug": "capital-governorate"
+                }
+            ],
             "s_country_code": "kw",
             "s_region_name": "Capital Governorate",
-            "s_region_slug": "capital-governorate",
-            "cities": [
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "capital-governorate",
-                    "s_city_name": "Ad Dasmah",
-                    "s_city_slug": "ad-dasmah"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "capital-governorate",
-                    "s_city_name": "Ar Rabiyah",
-                    "s_city_slug": "ar-rabiyah"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "capital-governorate",
-                    "s_city_name": "Ash Shamiyah",
-                    "s_city_slug": "ash-shamiyah"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "capital-governorate",
-                    "s_city_name": "Az Zawr",
-                    "s_city_slug": "az-zawr"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "capital-governorate",
-                    "s_city_name": "Kuwait City",
-                    "s_city_slug": "kuwait-city"
-                }
-            ]
+            "s_region_slug": "capital-governorate"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ar Rumaythiyah",
+                    "s_city_slug": "ar-rumaythiyah",
+                    "s_country_code": "kw",
+                    "s_region_slug": "hawalli-governorate"
+                },
+                {
+                    "s_city_name": "As Salimiyah",
+                    "s_city_slug": "as-salimiyah",
+                    "s_country_code": "kw",
+                    "s_region_slug": "hawalli-governorate"
+                },
+                {
+                    "s_city_name": "Bayan",
+                    "s_city_slug": "bayan",
+                    "s_country_code": "kw",
+                    "s_region_slug": "hawalli-governorate"
+                },
+                {
+                    "s_city_name": "Hawalli",
+                    "s_city_slug": "hawalli",
+                    "s_country_code": "kw",
+                    "s_region_slug": "hawalli-governorate"
+                },
+                {
+                    "s_city_name": "Salwa",
+                    "s_city_slug": "salwa",
+                    "s_country_code": "kw",
+                    "s_region_slug": "hawalli-governorate"
+                }
+            ],
             "s_country_code": "kw",
             "s_region_name": "Hawalli Governorate",
-            "s_region_slug": "hawalli-governorate",
-            "cities": [
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "hawalli-governorate",
-                    "s_city_name": "Ar Rumaythiyah",
-                    "s_city_slug": "ar-rumaythiyah"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "hawalli-governorate",
-                    "s_city_name": "As Salimiyah",
-                    "s_city_slug": "as-salimiyah"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "hawalli-governorate",
-                    "s_city_name": "Bayan",
-                    "s_city_slug": "bayan"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "hawalli-governorate",
-                    "s_city_name": "Hawalli",
-                    "s_city_slug": "hawalli"
-                },
-                {
-                    "s_country_code": "kw",
-                    "s_region_slug": "hawalli-governorate",
-                    "s_city_name": "Salwa",
-                    "s_city_slug": "salwa"
-                }
-            ]
+            "s_region_slug": "hawalli-governorate"
         },
         {
-            "s_country_code": "kw",
-            "s_region_name": "Mubarak Al-Kabeer Governorate",
-            "s_region_slug": "mubarak-al-kabeer-governorate",
             "cities": [
                 {
-                    "s_country_code": "kw",
-                    "s_region_slug": "mubarak-al-kabeer-governorate",
                     "s_city_name": "Abu Al Hasaniya",
-                    "s_city_slug": "abu-al-hasaniya"
+                    "s_city_slug": "abu-al-hasaniya",
+                    "s_country_code": "kw",
+                    "s_region_slug": "mubarak-al-kabeer-governorate"
                 },
                 {
-                    "s_country_code": "kw",
-                    "s_region_slug": "mubarak-al-kabeer-governorate",
                     "s_city_name": "Abu Fatira",
-                    "s_city_slug": "abu-fatira"
+                    "s_city_slug": "abu-fatira",
+                    "s_country_code": "kw",
+                    "s_region_slug": "mubarak-al-kabeer-governorate"
                 },
                 {
-                    "s_country_code": "kw",
-                    "s_region_slug": "mubarak-al-kabeer-governorate",
                     "s_city_name": "Al Funaytis",
-                    "s_city_slug": "al-funaytis"
+                    "s_city_slug": "al-funaytis",
+                    "s_country_code": "kw",
+                    "s_region_slug": "mubarak-al-kabeer-governorate"
                 },
                 {
-                    "s_country_code": "kw",
-                    "s_region_slug": "mubarak-al-kabeer-governorate",
                     "s_city_name": "Al-Masayel",
-                    "s_city_slug": "al-masayel"
+                    "s_city_slug": "al-masayel",
+                    "s_country_code": "kw",
+                    "s_region_slug": "mubarak-al-kabeer-governorate"
                 },
                 {
-                    "s_country_code": "kw",
-                    "s_region_slug": "mubarak-al-kabeer-governorate",
                     "s_city_name": "Sabah as Salim",
-                    "s_city_slug": "sabah-as-salim"
+                    "s_city_slug": "sabah-as-salim",
+                    "s_country_code": "kw",
+                    "s_region_slug": "mubarak-al-kabeer-governorate"
                 }
-            ]
+            ],
+            "s_country_code": "kw",
+            "s_region_name": "Mubarak Al-Kabeer Governorate",
+            "s_region_slug": "mubarak-al-kabeer-governorate"
         }
-    ]
+    ],
+    "s_country_code": "KW",
+    "s_country_name": "Kuwait",
+    "s_country_slug": "kuwait"
 }

@@ -1,668 +1,668 @@
 {
-    "s_country_code": "SA",
-    "s_country_name": "Saudi Arabia",
-    "s_country_slug": "saudi-arabia",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Abha",
+                    "s_city_slug": "abha",
+                    "s_country_code": "sa",
+                    "s_region_slug": "asir-region"
+                },
+                {
+                    "s_city_name": "Al Majaridah",
+                    "s_city_slug": "al-majaridah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "asir-region"
+                },
+                {
+                    "s_city_name": "An Nimas",
+                    "s_city_slug": "an-nimas",
+                    "s_country_code": "sa",
+                    "s_region_slug": "asir-region"
+                },
+                {
+                    "s_city_name": "Khamis Mushait",
+                    "s_city_slug": "khamis-mushait",
+                    "s_country_code": "sa",
+                    "s_region_slug": "asir-region"
+                },
+                {
+                    "s_city_name": "Qalat Bishah",
+                    "s_city_slug": "qalat-bishah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "asir-region"
+                },
+                {
+                    "s_city_name": "Sabt Al Alayah",
+                    "s_city_slug": "sabt-al-alayah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "asir-region"
+                },
+                {
+                    "s_city_name": "Tabalah",
+                    "s_city_slug": "tabalah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "asir-region"
+                }
+            ],
             "s_country_code": "sa",
             "s_region_name": "'Asir Region",
-            "s_region_slug": "asir-region",
-            "cities": [
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "asir-region",
-                    "s_city_name": "Abha",
-                    "s_city_slug": "abha"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "asir-region",
-                    "s_city_name": "Al Majaridah",
-                    "s_city_slug": "al-majaridah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "asir-region",
-                    "s_city_name": "An Nimas",
-                    "s_city_slug": "an-nimas"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "asir-region",
-                    "s_city_name": "Khamis Mushait",
-                    "s_city_slug": "khamis-mushait"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "asir-region",
-                    "s_city_name": "Qalat Bishah",
-                    "s_city_slug": "qalat-bishah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "asir-region",
-                    "s_city_name": "Sabt Al Alayah",
-                    "s_city_slug": "sabt-al-alayah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "asir-region",
-                    "s_city_name": "Tabalah",
-                    "s_city_slug": "tabalah"
-                }
-            ]
+            "s_region_slug": "asir-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Al Bahah",
+                    "s_city_slug": "al-bahah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-bahah-region"
+                },
+                {
+                    "s_city_name": "Al Mindak",
+                    "s_city_slug": "al-mindak",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-bahah-region"
+                }
+            ],
             "s_country_code": "sa",
             "s_region_name": "Al Bahah Region",
-            "s_region_slug": "al-bahah-region",
-            "cities": [
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-bahah-region",
-                    "s_city_name": "Al Bahah",
-                    "s_city_slug": "al-bahah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-bahah-region",
-                    "s_city_name": "Al Mindak",
-                    "s_city_slug": "al-mindak"
-                }
-            ]
+            "s_region_slug": "al-bahah-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Qurayyat",
+                    "s_city_slug": "qurayyat",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-jawf-region"
+                },
+                {
+                    "s_city_name": "Sakakah",
+                    "s_city_slug": "sakakah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-jawf-region"
+                },
+                {
+                    "s_city_name": "Suwayr",
+                    "s_city_slug": "suwayr",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-jawf-region"
+                },
+                {
+                    "s_city_name": "Tubarjal",
+                    "s_city_slug": "tubarjal",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-jawf-region"
+                }
+            ],
             "s_country_code": "sa",
             "s_region_name": "Al Jawf Region",
-            "s_region_slug": "al-jawf-region",
-            "cities": [
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-jawf-region",
-                    "s_city_name": "Qurayyat",
-                    "s_city_slug": "qurayyat"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-jawf-region",
-                    "s_city_name": "Sakakah",
-                    "s_city_slug": "sakakah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-jawf-region",
-                    "s_city_name": "Suwayr",
-                    "s_city_slug": "suwayr"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-jawf-region",
-                    "s_city_name": "Tubarjal",
-                    "s_city_slug": "tubarjal"
-                }
-            ]
+            "s_region_slug": "al-jawf-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Al-`Ula",
+                    "s_city_slug": "al-ula",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-madinah-region"
+                },
+                {
+                    "s_city_name": "Badr Hunayn",
+                    "s_city_slug": "badr-hunayn",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-madinah-region"
+                },
+                {
+                    "s_city_name": "Medina",
+                    "s_city_slug": "medina",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-madinah-region"
+                },
+                {
+                    "s_city_name": "Sultanah",
+                    "s_city_slug": "sultanah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-madinah-region"
+                },
+                {
+                    "s_city_name": "Yanbu",
+                    "s_city_slug": "yanbu",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-madinah-region"
+                }
+            ],
             "s_country_code": "sa",
             "s_region_name": "Al Madinah Region",
-            "s_region_slug": "al-madinah-region",
-            "cities": [
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-madinah-region",
-                    "s_city_name": "Al-`Ula",
-                    "s_city_slug": "al-ula"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-madinah-region",
-                    "s_city_name": "Badr Hunayn",
-                    "s_city_slug": "badr-hunayn"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-madinah-region",
-                    "s_city_name": "Medina",
-                    "s_city_slug": "medina"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-madinah-region",
-                    "s_city_name": "Sultanah",
-                    "s_city_slug": "sultanah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-madinah-region",
-                    "s_city_name": "Yanbu",
-                    "s_city_slug": "yanbu"
-                }
-            ]
+            "s_region_slug": "al-madinah-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Adh Dhibiyah",
+                    "s_city_slug": "adh-dhibiyah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-qassim-region"
+                },
+                {
+                    "s_city_name": "Al Bukayriyah",
+                    "s_city_slug": "al-bukayriyah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-qassim-region"
+                },
+                {
+                    "s_city_name": "Al Fuwayliq",
+                    "s_city_slug": "al-fuwayliq",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-qassim-region"
+                },
+                {
+                    "s_city_name": "Al Mithnab",
+                    "s_city_slug": "al-mithnab",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-qassim-region"
+                },
+                {
+                    "s_city_name": "Ar Rass",
+                    "s_city_slug": "ar-rass",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-qassim-region"
+                },
+                {
+                    "s_city_name": "Buraydah",
+                    "s_city_slug": "buraydah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-qassim-region"
+                },
+                {
+                    "s_city_name": "Tanumah",
+                    "s_city_slug": "tanumah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-qassim-region"
+                },
+                {
+                    "s_city_name": "Wed Alnkil",
+                    "s_city_slug": "wed-alnkil",
+                    "s_country_code": "sa",
+                    "s_region_slug": "al-qassim-region"
+                }
+            ],
             "s_country_code": "sa",
             "s_region_name": "Al-Qassim Region",
-            "s_region_slug": "al-qassim-region",
-            "cities": [
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-qassim-region",
-                    "s_city_name": "Adh Dhibiyah",
-                    "s_city_slug": "adh-dhibiyah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-qassim-region",
-                    "s_city_name": "Al Bukayriyah",
-                    "s_city_slug": "al-bukayriyah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-qassim-region",
-                    "s_city_name": "Al Fuwayliq",
-                    "s_city_slug": "al-fuwayliq"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-qassim-region",
-                    "s_city_name": "Al Mithnab",
-                    "s_city_slug": "al-mithnab"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-qassim-region",
-                    "s_city_name": "Ar Rass",
-                    "s_city_slug": "ar-rass"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-qassim-region",
-                    "s_city_name": "Buraydah",
-                    "s_city_slug": "buraydah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-qassim-region",
-                    "s_city_name": "Tanumah",
-                    "s_city_slug": "tanumah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "al-qassim-region",
-                    "s_city_name": "Wed Alnkil",
-                    "s_city_slug": "wed-alnkil"
-                }
-            ]
+            "s_region_slug": "al-qassim-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Abqaiq",
+                    "s_city_slug": "abqaiq",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Awjam",
+                    "s_city_slug": "al-awjam",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Battaliyah",
+                    "s_city_slug": "al-battaliyah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Hufuf",
+                    "s_city_slug": "al-hufuf",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Jafr",
+                    "s_city_slug": "al-jafr",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Jubayl",
+                    "s_city_slug": "al-jubayl",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Khafji",
+                    "s_city_slug": "al-khafji",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Markaz",
+                    "s_city_slug": "al-markaz",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Mubarraz",
+                    "s_city_slug": "al-mubarraz",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Munayzilah",
+                    "s_city_slug": "al-munayzilah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Mutayrifi",
+                    "s_city_slug": "al-mutayrifi",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Qarah",
+                    "s_city_slug": "al-qarah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Qatif",
+                    "s_city_slug": "al-qatif",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Al Qurayn",
+                    "s_city_slug": "al-qurayn",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "As Saffaniyah",
+                    "s_city_slug": "as-saffaniyah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "At Taraf",
+                    "s_city_slug": "at-taraf",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "At Tubi",
+                    "s_city_slug": "at-tubi",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Dammam",
+                    "s_city_slug": "dammam",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Dhahran",
+                    "s_city_slug": "dhahran",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Hafar Al-Batin",
+                    "s_city_slug": "hafar-al-batin",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Julayjilah",
+                    "s_city_slug": "julayjilah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Khobar",
+                    "s_city_slug": "khobar",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Mulayjah",
+                    "s_city_slug": "mulayjah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Qaisumah",
+                    "s_city_slug": "qaisumah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Rahimah",
+                    "s_city_slug": "rahimah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Safwa",
+                    "s_city_slug": "safwa",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Sayhat",
+                    "s_city_slug": "sayhat",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Tarut",
+                    "s_city_slug": "tarut",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                },
+                {
+                    "s_city_name": "Umm as Sahik",
+                    "s_city_slug": "umm-as-sahik",
+                    "s_country_code": "sa",
+                    "s_region_slug": "eastern-province"
+                }
+            ],
             "s_country_code": "sa",
             "s_region_name": "Eastern Province",
-            "s_region_slug": "eastern-province",
-            "cities": [
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Abqaiq",
-                    "s_city_slug": "abqaiq"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Awjam",
-                    "s_city_slug": "al-awjam"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Battaliyah",
-                    "s_city_slug": "al-battaliyah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Hufuf",
-                    "s_city_slug": "al-hufuf"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Jafr",
-                    "s_city_slug": "al-jafr"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Jubayl",
-                    "s_city_slug": "al-jubayl"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Khafji",
-                    "s_city_slug": "al-khafji"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Markaz",
-                    "s_city_slug": "al-markaz"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Mubarraz",
-                    "s_city_slug": "al-mubarraz"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Munayzilah",
-                    "s_city_slug": "al-munayzilah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Mutayrifi",
-                    "s_city_slug": "al-mutayrifi"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Qarah",
-                    "s_city_slug": "al-qarah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Qatif",
-                    "s_city_slug": "al-qatif"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Al Qurayn",
-                    "s_city_slug": "al-qurayn"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "As Saffaniyah",
-                    "s_city_slug": "as-saffaniyah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "At Taraf",
-                    "s_city_slug": "at-taraf"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "At Tubi",
-                    "s_city_slug": "at-tubi"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Dammam",
-                    "s_city_slug": "dammam"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Dhahran",
-                    "s_city_slug": "dhahran"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Hafar Al-Batin",
-                    "s_city_slug": "hafar-al-batin"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Julayjilah",
-                    "s_city_slug": "julayjilah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Khobar",
-                    "s_city_slug": "khobar"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Mulayjah",
-                    "s_city_slug": "mulayjah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Qaisumah",
-                    "s_city_slug": "qaisumah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Rahimah",
-                    "s_city_slug": "rahimah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Safwa",
-                    "s_city_slug": "safwa"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Sayhat",
-                    "s_city_slug": "sayhat"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Tarut",
-                    "s_city_slug": "tarut"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "eastern-province",
-                    "s_city_name": "Umm as Sahik",
-                    "s_city_slug": "umm-as-sahik"
-                }
-            ]
+            "s_region_slug": "eastern-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ha'il",
+                    "s_city_slug": "hail",
+                    "s_country_code": "sa",
+                    "s_region_slug": "hail-region"
+                }
+            ],
             "s_country_code": "sa",
             "s_region_name": "Ha'il Region",
-            "s_region_slug": "hail-region",
-            "cities": [
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "hail-region",
-                    "s_city_name": "Ha'il",
-                    "s_city_slug": "hail"
-                }
-            ]
+            "s_region_slug": "hail-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Abu Arish",
+                    "s_city_slug": "abu-arish",
+                    "s_country_code": "sa",
+                    "s_region_slug": "jizan-region"
+                },
+                {
+                    "s_city_name": "Ad Darb",
+                    "s_city_slug": "ad-darb",
+                    "s_country_code": "sa",
+                    "s_region_slug": "jizan-region"
+                },
+                {
+                    "s_city_name": "Al Jaradiyah",
+                    "s_city_slug": "al-jaradiyah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "jizan-region"
+                },
+                {
+                    "s_city_name": "Farasan",
+                    "s_city_slug": "farasan",
+                    "s_country_code": "sa",
+                    "s_region_slug": "jizan-region"
+                },
+                {
+                    "s_city_name": "Jizan",
+                    "s_city_slug": "jizan",
+                    "s_country_code": "sa",
+                    "s_region_slug": "jizan-region"
+                },
+                {
+                    "s_city_name": "Misliyah",
+                    "s_city_slug": "misliyah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "jizan-region"
+                },
+                {
+                    "s_city_name": "Mizhirah",
+                    "s_city_slug": "mizhirah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "jizan-region"
+                },
+                {
+                    "s_city_name": "Sabya",
+                    "s_city_slug": "sabya",
+                    "s_country_code": "sa",
+                    "s_region_slug": "jizan-region"
+                },
+                {
+                    "s_city_name": "Samitah",
+                    "s_city_slug": "samitah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "jizan-region"
+                }
+            ],
             "s_country_code": "sa",
             "s_region_name": "Jizan Region",
-            "s_region_slug": "jizan-region",
-            "cities": [
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "jizan-region",
-                    "s_city_name": "Abu Arish",
-                    "s_city_slug": "abu-arish"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "jizan-region",
-                    "s_city_name": "Ad Darb",
-                    "s_city_slug": "ad-darb"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "jizan-region",
-                    "s_city_name": "Al Jaradiyah",
-                    "s_city_slug": "al-jaradiyah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "jizan-region",
-                    "s_city_name": "Farasan",
-                    "s_city_slug": "farasan"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "jizan-region",
-                    "s_city_name": "Jizan",
-                    "s_city_slug": "jizan"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "jizan-region",
-                    "s_city_name": "Misliyah",
-                    "s_city_slug": "misliyah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "jizan-region",
-                    "s_city_name": "Mizhirah",
-                    "s_city_slug": "mizhirah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "jizan-region",
-                    "s_city_name": "Sabya",
-                    "s_city_slug": "sabya"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "jizan-region",
-                    "s_city_name": "Samitah",
-                    "s_city_slug": "samitah"
-                }
-            ]
+            "s_region_slug": "jizan-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Al Hada",
+                    "s_city_slug": "al-hada",
+                    "s_country_code": "sa",
+                    "s_region_slug": "makkah-region"
+                },
+                {
+                    "s_city_name": "Al Jumum",
+                    "s_city_slug": "al-jumum",
+                    "s_country_code": "sa",
+                    "s_region_slug": "makkah-region"
+                },
+                {
+                    "s_city_name": "Al Muwayh",
+                    "s_city_slug": "al-muwayh",
+                    "s_country_code": "sa",
+                    "s_region_slug": "makkah-region"
+                },
+                {
+                    "s_city_name": "Ash Shafa",
+                    "s_city_slug": "ash-shafa",
+                    "s_country_code": "sa",
+                    "s_region_slug": "makkah-region"
+                },
+                {
+                    "s_city_name": "Ghran",
+                    "s_city_slug": "ghran",
+                    "s_country_code": "sa",
+                    "s_region_slug": "makkah-region"
+                },
+                {
+                    "s_city_name": "Jeddah",
+                    "s_city_slug": "jeddah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "makkah-region"
+                },
+                {
+                    "s_city_name": "Mecca",
+                    "s_city_slug": "mecca",
+                    "s_country_code": "sa",
+                    "s_region_slug": "makkah-region"
+                },
+                {
+                    "s_city_name": "Rabigh",
+                    "s_city_slug": "rabigh",
+                    "s_country_code": "sa",
+                    "s_region_slug": "makkah-region"
+                },
+                {
+                    "s_city_name": "Taif",
+                    "s_city_slug": "taif",
+                    "s_country_code": "sa",
+                    "s_region_slug": "makkah-region"
+                },
+                {
+                    "s_city_name": "Turabah",
+                    "s_city_slug": "turabah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "makkah-region"
+                }
+            ],
             "s_country_code": "sa",
             "s_region_name": "Makkah Region",
-            "s_region_slug": "makkah-region",
-            "cities": [
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "makkah-region",
-                    "s_city_name": "Al Hada",
-                    "s_city_slug": "al-hada"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "makkah-region",
-                    "s_city_name": "Al Jumum",
-                    "s_city_slug": "al-jumum"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "makkah-region",
-                    "s_city_name": "Al Muwayh",
-                    "s_city_slug": "al-muwayh"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "makkah-region",
-                    "s_city_name": "Ash Shafa",
-                    "s_city_slug": "ash-shafa"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "makkah-region",
-                    "s_city_name": "Ghran",
-                    "s_city_slug": "ghran"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "makkah-region",
-                    "s_city_name": "Jeddah",
-                    "s_city_slug": "jeddah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "makkah-region",
-                    "s_city_name": "Mecca",
-                    "s_city_slug": "mecca"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "makkah-region",
-                    "s_city_name": "Rabigh",
-                    "s_city_slug": "rabigh"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "makkah-region",
-                    "s_city_name": "Taif",
-                    "s_city_slug": "taif"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "makkah-region",
-                    "s_city_name": "Turabah",
-                    "s_city_slug": "turabah"
-                }
-            ]
+            "s_region_slug": "makkah-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Najran",
+                    "s_city_slug": "najran",
+                    "s_country_code": "sa",
+                    "s_region_slug": "najran-region"
+                }
+            ],
             "s_country_code": "sa",
             "s_region_name": "Najran Region",
-            "s_region_slug": "najran-region",
-            "cities": [
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "najran-region",
-                    "s_city_name": "Najran",
-                    "s_city_slug": "najran"
-                }
-            ]
+            "s_region_slug": "najran-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Arar",
+                    "s_city_slug": "arar",
+                    "s_country_code": "sa",
+                    "s_region_slug": "northern-borders-region"
+                },
+                {
+                    "s_city_name": "Turaif",
+                    "s_city_slug": "turaif",
+                    "s_country_code": "sa",
+                    "s_region_slug": "northern-borders-region"
+                }
+            ],
             "s_country_code": "sa",
             "s_region_name": "Northern Borders Region",
-            "s_region_slug": "northern-borders-region",
-            "cities": [
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "northern-borders-region",
-                    "s_city_name": "Arar",
-                    "s_city_slug": "arar"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "northern-borders-region",
-                    "s_city_name": "Turaif",
-                    "s_city_slug": "turaif"
-                }
-            ]
+            "s_region_slug": "northern-borders-region"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ad Dawadimi",
+                    "s_city_slug": "ad-dawadimi",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                },
+                {
+                    "s_city_name": "Ad Dilam",
+                    "s_city_slug": "ad-dilam",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                },
+                {
+                    "s_city_name": "Afif",
+                    "s_city_slug": "afif",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                },
+                {
+                    "s_city_name": "Ain AlBaraha",
+                    "s_city_slug": "ain-albaraha",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                },
+                {
+                    "s_city_name": "Al Artawiyah",
+                    "s_city_slug": "al-artawiyah",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                },
+                {
+                    "s_city_name": "Al Kharj",
+                    "s_city_slug": "al-kharj",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                },
+                {
+                    "s_city_name": "As Sulayyil",
+                    "s_city_slug": "as-sulayyil",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                },
+                {
+                    "s_city_name": "Az Zulfi",
+                    "s_city_slug": "az-zulfi",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                },
+                {
+                    "s_city_name": "Marat",
+                    "s_city_slug": "marat",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                },
+                {
+                    "s_city_name": "Riyadh",
+                    "s_city_slug": "riyadh",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                },
+                {
+                    "s_city_name": "Sajir",
+                    "s_city_slug": "sajir",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                },
+                {
+                    "s_city_name": "Tumayr",
+                    "s_city_slug": "tumayr",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                },
+                {
+                    "s_city_name": "shokhaib",
+                    "s_city_slug": "shokhaib",
+                    "s_country_code": "sa",
+                    "s_region_slug": "riyadh-region"
+                }
+            ],
             "s_country_code": "sa",
             "s_region_name": "Riyadh Region",
-            "s_region_slug": "riyadh-region",
-            "cities": [
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "Ad Dawadimi",
-                    "s_city_slug": "ad-dawadimi"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "Ad Dilam",
-                    "s_city_slug": "ad-dilam"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "Afif",
-                    "s_city_slug": "afif"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "Ain AlBaraha",
-                    "s_city_slug": "ain-albaraha"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "Al Artawiyah",
-                    "s_city_slug": "al-artawiyah"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "Al Kharj",
-                    "s_city_slug": "al-kharj"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "As Sulayyil",
-                    "s_city_slug": "as-sulayyil"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "Az Zulfi",
-                    "s_city_slug": "az-zulfi"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "Marat",
-                    "s_city_slug": "marat"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "Riyadh",
-                    "s_city_slug": "riyadh"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "Sajir",
-                    "s_city_slug": "sajir"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "shokhaib",
-                    "s_city_slug": "shokhaib"
-                },
-                {
-                    "s_country_code": "sa",
-                    "s_region_slug": "riyadh-region",
-                    "s_city_name": "Tumayr",
-                    "s_city_slug": "tumayr"
-                }
-            ]
+            "s_region_slug": "riyadh-region"
         },
         {
-            "s_country_code": "sa",
-            "s_region_name": "Tabuk Region",
-            "s_region_slug": "tabuk-region",
             "cities": [
                 {
-                    "s_country_code": "sa",
-                    "s_region_slug": "tabuk-region",
                     "s_city_name": "Al Wajh",
-                    "s_city_slug": "al-wajh"
+                    "s_city_slug": "al-wajh",
+                    "s_country_code": "sa",
+                    "s_region_slug": "tabuk-region"
                 },
                 {
-                    "s_country_code": "sa",
-                    "s_region_slug": "tabuk-region",
                     "s_city_name": "Duba",
-                    "s_city_slug": "duba"
+                    "s_city_slug": "duba",
+                    "s_country_code": "sa",
+                    "s_region_slug": "tabuk-region"
                 },
                 {
-                    "s_country_code": "sa",
-                    "s_region_slug": "tabuk-region",
                     "s_city_name": "Tabuk",
-                    "s_city_slug": "tabuk"
+                    "s_city_slug": "tabuk",
+                    "s_country_code": "sa",
+                    "s_region_slug": "tabuk-region"
                 },
                 {
-                    "s_country_code": "sa",
-                    "s_region_slug": "tabuk-region",
                     "s_city_name": "Umm Lajj",
-                    "s_city_slug": "umm-lajj"
+                    "s_city_slug": "umm-lajj",
+                    "s_country_code": "sa",
+                    "s_region_slug": "tabuk-region"
                 }
-            ]
+            ],
+            "s_country_code": "sa",
+            "s_region_name": "Tabuk Region",
+            "s_region_slug": "tabuk-region"
         }
-    ]
+    ],
+    "s_country_code": "SA",
+    "s_country_name": "Saudi Arabia",
+    "s_country_slug": "saudi-arabia"
 }

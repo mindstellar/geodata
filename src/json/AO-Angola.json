@@ -1,414 +1,414 @@
 {
-    "s_country_code": "AO",
-    "s_country_name": "Angola",
-    "s_country_slug": "angola",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Caxito",
+                    "s_city_slug": "caxito",
+                    "s_country_code": "ao",
+                    "s_region_slug": "bengo-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Bengo Province",
-            "s_region_slug": "bengo-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "bengo-province",
-                    "s_city_name": "Caxito",
-                    "s_city_slug": "caxito"
-                }
-            ]
+            "s_region_slug": "bengo-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Benguela",
+                    "s_city_slug": "benguela",
+                    "s_country_code": "ao",
+                    "s_region_slug": "benguela-province"
+                },
+                {
+                    "s_city_name": "Catumbela",
+                    "s_city_slug": "catumbela",
+                    "s_country_code": "ao",
+                    "s_region_slug": "benguela-province"
+                },
+                {
+                    "s_city_name": "Lobito",
+                    "s_city_slug": "lobito",
+                    "s_country_code": "ao",
+                    "s_region_slug": "benguela-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Benguela Province",
-            "s_region_slug": "benguela-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "benguela-province",
-                    "s_city_name": "Benguela",
-                    "s_city_slug": "benguela"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "benguela-province",
-                    "s_city_name": "Catumbela",
-                    "s_city_slug": "catumbela"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "benguela-province",
-                    "s_city_name": "Lobito",
-                    "s_city_slug": "lobito"
-                }
-            ]
+            "s_region_slug": "benguela-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Camacupa",
+                    "s_city_slug": "camacupa",
+                    "s_country_code": "ao",
+                    "s_region_slug": "bie-province"
+                },
+                {
+                    "s_city_name": "Catabola",
+                    "s_city_slug": "catabola",
+                    "s_country_code": "ao",
+                    "s_region_slug": "bie-province"
+                },
+                {
+                    "s_city_name": "Chissamba",
+                    "s_city_slug": "chissamba",
+                    "s_country_code": "ao",
+                    "s_region_slug": "bie-province"
+                },
+                {
+                    "s_city_name": "Cuito",
+                    "s_city_slug": "cuito",
+                    "s_country_code": "ao",
+                    "s_region_slug": "bie-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Bie Province",
-            "s_region_slug": "bie-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "bie-province",
-                    "s_city_name": "Camacupa",
-                    "s_city_slug": "camacupa"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "bie-province",
-                    "s_city_name": "Catabola",
-                    "s_city_slug": "catabola"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "bie-province",
-                    "s_city_name": "Chissamba",
-                    "s_city_slug": "chissamba"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "bie-province",
-                    "s_city_name": "Cuito",
-                    "s_city_slug": "cuito"
-                }
-            ]
+            "s_region_slug": "bie-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Cabinda",
+                    "s_city_slug": "cabinda",
+                    "s_country_code": "ao",
+                    "s_region_slug": "cabinda-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Cabinda Province",
-            "s_region_slug": "cabinda-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "cabinda-province",
-                    "s_city_name": "Cabinda",
-                    "s_city_slug": "cabinda"
-                }
-            ]
+            "s_region_slug": "cabinda-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Menongue",
+                    "s_city_slug": "menongue",
+                    "s_country_code": "ao",
+                    "s_region_slug": "cuando-cubango-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Cuando Cubango Province",
-            "s_region_slug": "cuando-cubango-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "cuando-cubango-province",
-                    "s_city_name": "Menongue",
-                    "s_city_slug": "menongue"
-                }
-            ]
+            "s_region_slug": "cuando-cubango-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Camabatela",
+                    "s_city_slug": "camabatela",
+                    "s_country_code": "ao",
+                    "s_region_slug": "cuanza-norte-province"
+                },
+                {
+                    "s_city_name": "Ndalatando",
+                    "s_city_slug": "ndalatando",
+                    "s_country_code": "ao",
+                    "s_region_slug": "cuanza-norte-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Cuanza Norte Province",
-            "s_region_slug": "cuanza-norte-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "cuanza-norte-province",
-                    "s_city_name": "Camabatela",
-                    "s_city_slug": "camabatela"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "cuanza-norte-province",
-                    "s_city_name": "Ndalatando",
-                    "s_city_slug": "ndalatando"
-                }
-            ]
+            "s_region_slug": "cuanza-norte-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Quibala",
+                    "s_city_slug": "quibala",
+                    "s_country_code": "ao",
+                    "s_region_slug": "cuanza-sul"
+                },
+                {
+                    "s_city_name": "Sumbe",
+                    "s_city_slug": "sumbe",
+                    "s_country_code": "ao",
+                    "s_region_slug": "cuanza-sul"
+                },
+                {
+                    "s_city_name": "Uacu Cungo",
+                    "s_city_slug": "uacu-cungo",
+                    "s_country_code": "ao",
+                    "s_region_slug": "cuanza-sul"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Cuanza Sul",
-            "s_region_slug": "cuanza-sul",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "cuanza-sul",
-                    "s_city_name": "Quibala",
-                    "s_city_slug": "quibala"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "cuanza-sul",
-                    "s_city_name": "Sumbe",
-                    "s_city_slug": "sumbe"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "cuanza-sul",
-                    "s_city_name": "Uacu Cungo",
-                    "s_city_slug": "uacu-cungo"
-                }
-            ]
+            "s_region_slug": "cuanza-sul"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Ondjiva",
+                    "s_city_slug": "ondjiva",
+                    "s_country_code": "ao",
+                    "s_region_slug": "cunene-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Cunene Province",
-            "s_region_slug": "cunene-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "cunene-province",
-                    "s_city_name": "Ondjiva",
-                    "s_city_slug": "ondjiva"
-                }
-            ]
+            "s_region_slug": "cunene-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Caala",
+                    "s_city_slug": "caala",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huambo-province"
+                },
+                {
+                    "s_city_name": "Chela",
+                    "s_city_slug": "chela",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huambo-province"
+                },
+                {
+                    "s_city_name": "Huambo",
+                    "s_city_slug": "huambo",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huambo-province"
+                },
+                {
+                    "s_city_name": "Longonjo",
+                    "s_city_slug": "longonjo",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huambo-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Huambo Province",
-            "s_region_slug": "huambo-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huambo-province",
-                    "s_city_name": "Caala",
-                    "s_city_slug": "caala"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huambo-province",
-                    "s_city_name": "Chela",
-                    "s_city_slug": "chela"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huambo-province",
-                    "s_city_name": "Huambo",
-                    "s_city_slug": "huambo"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huambo-province",
-                    "s_city_name": "Longonjo",
-                    "s_city_slug": "longonjo"
-                }
-            ]
+            "s_region_slug": "huambo-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Caconda",
+                    "s_city_slug": "caconda",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                },
+                {
+                    "s_city_name": "Caluquembe",
+                    "s_city_slug": "caluquembe",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                },
+                {
+                    "s_city_name": "Chibia",
+                    "s_city_slug": "chibia",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                },
+                {
+                    "s_city_name": "Chicomba",
+                    "s_city_slug": "chicomba",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                },
+                {
+                    "s_city_name": "Chipindo",
+                    "s_city_slug": "chipindo",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                },
+                {
+                    "s_city_name": "Cuvango",
+                    "s_city_slug": "cuvango",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                },
+                {
+                    "s_city_name": "Gambos",
+                    "s_city_slug": "gambos",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                },
+                {
+                    "s_city_name": "Humpata",
+                    "s_city_slug": "humpata",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                },
+                {
+                    "s_city_name": "Jamba",
+                    "s_city_slug": "jamba",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                },
+                {
+                    "s_city_name": "Lubango",
+                    "s_city_slug": "lubango",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                },
+                {
+                    "s_city_name": "Matala",
+                    "s_city_slug": "matala",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                },
+                {
+                    "s_city_name": "Quilengues",
+                    "s_city_slug": "quilengues",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                },
+                {
+                    "s_city_name": "Quipungo",
+                    "s_city_slug": "quipungo",
+                    "s_country_code": "ao",
+                    "s_region_slug": "huila-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Huila Province",
-            "s_region_slug": "huila-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Caconda",
-                    "s_city_slug": "caconda"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Caluquembe",
-                    "s_city_slug": "caluquembe"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Chibia",
-                    "s_city_slug": "chibia"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Chicomba",
-                    "s_city_slug": "chicomba"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Chipindo",
-                    "s_city_slug": "chipindo"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Cuvango",
-                    "s_city_slug": "cuvango"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Gambos",
-                    "s_city_slug": "gambos"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Humpata",
-                    "s_city_slug": "humpata"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Jamba",
-                    "s_city_slug": "jamba"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Lubango",
-                    "s_city_slug": "lubango"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Matala",
-                    "s_city_slug": "matala"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Quilengues",
-                    "s_city_slug": "quilengues"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "huila-province",
-                    "s_city_name": "Quipungo",
-                    "s_city_slug": "quipungo"
-                }
-            ]
+            "s_region_slug": "huila-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Belas",
+                    "s_city_slug": "belas",
+                    "s_country_code": "ao",
+                    "s_region_slug": "luanda-province"
+                },
+                {
+                    "s_city_name": "Icolo e Bengo",
+                    "s_city_slug": "icolo-e-bengo",
+                    "s_country_code": "ao",
+                    "s_region_slug": "luanda-province"
+                },
+                {
+                    "s_city_name": "Luanda",
+                    "s_city_slug": "luanda",
+                    "s_country_code": "ao",
+                    "s_region_slug": "luanda-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Luanda Province",
-            "s_region_slug": "luanda-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "luanda-province",
-                    "s_city_name": "Belas",
-                    "s_city_slug": "belas"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "luanda-province",
-                    "s_city_name": "Icolo e Bengo",
-                    "s_city_slug": "icolo-e-bengo"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "luanda-province",
-                    "s_city_name": "Luanda",
-                    "s_city_slug": "luanda"
-                }
-            ]
+            "s_region_slug": "luanda-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Lucapa",
+                    "s_city_slug": "lucapa",
+                    "s_country_code": "ao",
+                    "s_region_slug": "lunda-norte-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Lunda Norte Province",
-            "s_region_slug": "lunda-norte-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "lunda-norte-province",
-                    "s_city_name": "Lucapa",
-                    "s_city_slug": "lucapa"
-                }
-            ]
+            "s_region_slug": "lunda-norte-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Cazaji",
+                    "s_city_slug": "cazaji",
+                    "s_country_code": "ao",
+                    "s_region_slug": "lunda-sul-province"
+                },
+                {
+                    "s_city_name": "Saurimo",
+                    "s_city_slug": "saurimo",
+                    "s_country_code": "ao",
+                    "s_region_slug": "lunda-sul-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Lunda Sul Province",
-            "s_region_slug": "lunda-sul-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "lunda-sul-province",
-                    "s_city_name": "Cazaji",
-                    "s_city_slug": "cazaji"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "lunda-sul-province",
-                    "s_city_name": "Saurimo",
-                    "s_city_slug": "saurimo"
-                }
-            ]
+            "s_region_slug": "lunda-sul-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Malanje",
+                    "s_city_slug": "malanje",
+                    "s_country_code": "ao",
+                    "s_region_slug": "malanje-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Malanje Province",
-            "s_region_slug": "malanje-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "malanje-province",
-                    "s_city_name": "Malanje",
-                    "s_city_slug": "malanje"
-                }
-            ]
+            "s_region_slug": "malanje-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Leua",
+                    "s_city_slug": "leua",
+                    "s_country_code": "ao",
+                    "s_region_slug": "moxico-province"
+                },
+                {
+                    "s_city_name": "Luau",
+                    "s_city_slug": "luau",
+                    "s_country_code": "ao",
+                    "s_region_slug": "moxico-province"
+                },
+                {
+                    "s_city_name": "Luena",
+                    "s_city_slug": "luena",
+                    "s_country_code": "ao",
+                    "s_region_slug": "moxico-province"
+                },
+                {
+                    "s_city_name": "Lumeje",
+                    "s_city_slug": "lumeje",
+                    "s_country_code": "ao",
+                    "s_region_slug": "moxico-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Moxico Province",
-            "s_region_slug": "moxico-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "moxico-province",
-                    "s_city_name": "Leua",
-                    "s_city_slug": "leua"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "moxico-province",
-                    "s_city_name": "Luau",
-                    "s_city_slug": "luau"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "moxico-province",
-                    "s_city_name": "Luena",
-                    "s_city_slug": "luena"
-                },
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "moxico-province",
-                    "s_city_name": "Lumeje",
-                    "s_city_slug": "lumeje"
-                }
-            ]
+            "s_region_slug": "moxico-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Uige",
+                    "s_city_slug": "uige",
+                    "s_country_code": "ao",
+                    "s_region_slug": "uige-province"
+                }
+            ],
             "s_country_code": "ao",
             "s_region_name": "Uige Province",
-            "s_region_slug": "uige-province",
-            "cities": [
-                {
-                    "s_country_code": "ao",
-                    "s_region_slug": "uige-province",
-                    "s_city_name": "Uige",
-                    "s_city_slug": "uige"
-                }
-            ]
+            "s_region_slug": "uige-province"
         },
         {
-            "s_country_code": "ao",
-            "s_region_name": "Zaire Province",
-            "s_region_slug": "zaire-province",
             "cities": [
                 {
-                    "s_country_code": "ao",
-                    "s_region_slug": "zaire-province",
                     "s_city_name": "Mbanza Congo",
-                    "s_city_slug": "mbanza-congo"
+                    "s_city_slug": "mbanza-congo",
+                    "s_country_code": "ao",
+                    "s_region_slug": "zaire-province"
                 },
                 {
-                    "s_country_code": "ao",
-                    "s_region_slug": "zaire-province",
                     "s_city_name": "N'zeto",
-                    "s_city_slug": "nzeto"
+                    "s_city_slug": "nzeto",
+                    "s_country_code": "ao",
+                    "s_region_slug": "zaire-province"
                 },
                 {
-                    "s_country_code": "ao",
-                    "s_region_slug": "zaire-province",
                     "s_city_name": "Soio",
-                    "s_city_slug": "soio"
+                    "s_city_slug": "soio",
+                    "s_country_code": "ao",
+                    "s_region_slug": "zaire-province"
                 }
-            ]
+            ],
+            "s_country_code": "ao",
+            "s_region_name": "Zaire Province",
+            "s_region_slug": "zaire-province"
         }
-    ]
+    ],
+    "s_country_code": "AO",
+    "s_country_name": "Angola",
+    "s_country_slug": "angola"
 }

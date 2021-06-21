@@ -1,137 +1,137 @@
 {
-    "s_country_code": "SB",
-    "s_country_name": "Solomon Islands",
-    "s_country_slug": "solomon-islands",
     "regions": [
         {
+            "cities": [
+                {
+                    "s_city_name": "Tulagi",
+                    "s_city_slug": "tulagi",
+                    "s_country_code": "sb",
+                    "s_region_slug": "central-province"
+                }
+            ],
             "s_country_code": "sb",
             "s_region_name": "Central Province",
-            "s_region_slug": "central-province",
-            "cities": [
-                {
-                    "s_country_code": "sb",
-                    "s_region_slug": "central-province",
-                    "s_city_name": "Tulagi",
-                    "s_city_slug": "tulagi"
-                }
-            ]
+            "s_region_slug": "central-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Choiseul Province",
+                    "s_city_slug": "choiseul-province",
+                    "s_country_code": "sb",
+                    "s_region_slug": "choiseul-province"
+                }
+            ],
             "s_country_code": "sb",
             "s_region_name": "Choiseul Province",
-            "s_region_slug": "choiseul-province",
-            "cities": [
-                {
-                    "s_country_code": "sb",
-                    "s_region_slug": "choiseul-province",
-                    "s_city_name": "Choiseul Province",
-                    "s_city_slug": "choiseul-province"
-                }
-            ]
+            "s_region_slug": "choiseul-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Honiara",
+                    "s_city_slug": "honiara",
+                    "s_country_code": "sb",
+                    "s_region_slug": "guadalcanal-province"
+                }
+            ],
             "s_country_code": "sb",
             "s_region_name": "Guadalcanal Province",
-            "s_region_slug": "guadalcanal-province",
-            "cities": [
-                {
-                    "s_country_code": "sb",
-                    "s_region_slug": "guadalcanal-province",
-                    "s_city_name": "Honiara",
-                    "s_city_slug": "honiara"
-                }
-            ]
+            "s_region_slug": "guadalcanal-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Honiara",
+                    "s_city_slug": "honiara",
+                    "s_country_code": "sb",
+                    "s_region_slug": "honiara"
+                }
+            ],
             "s_country_code": "sb",
             "s_region_name": "Honiara",
-            "s_region_slug": "honiara",
-            "cities": [
-                {
-                    "s_country_code": "sb",
-                    "s_region_slug": "honiara",
-                    "s_city_name": "Honiara",
-                    "s_city_slug": "honiara"
-                }
-            ]
+            "s_region_slug": "honiara"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Buala",
+                    "s_city_slug": "buala",
+                    "s_country_code": "sb",
+                    "s_region_slug": "isabel-province"
+                }
+            ],
             "s_country_code": "sb",
             "s_region_name": "Isabel Province",
-            "s_region_slug": "isabel-province",
-            "cities": [
-                {
-                    "s_country_code": "sb",
-                    "s_region_slug": "isabel-province",
-                    "s_city_name": "Buala",
-                    "s_city_slug": "buala"
-                }
-            ]
+            "s_region_slug": "isabel-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Kirakira",
+                    "s_city_slug": "kirakira",
+                    "s_country_code": "sb",
+                    "s_region_slug": "makira-ulawa-province"
+                }
+            ],
             "s_country_code": "sb",
             "s_region_name": "Makira-Ulawa Province",
-            "s_region_slug": "makira-ulawa-province",
-            "cities": [
-                {
-                    "s_country_code": "sb",
-                    "s_region_slug": "makira-ulawa-province",
-                    "s_city_name": "Kirakira",
-                    "s_city_slug": "kirakira"
-                }
-            ]
+            "s_region_slug": "makira-ulawa-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Auki",
+                    "s_city_slug": "auki",
+                    "s_country_code": "sb",
+                    "s_region_slug": "malaita-province"
+                }
+            ],
             "s_country_code": "sb",
             "s_region_name": "Malaita Province",
-            "s_region_slug": "malaita-province",
-            "cities": [
-                {
-                    "s_country_code": "sb",
-                    "s_region_slug": "malaita-province",
-                    "s_city_name": "Auki",
-                    "s_city_slug": "auki"
-                }
-            ]
+            "s_region_slug": "malaita-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Rennell and Bellona Province",
+                    "s_city_slug": "rennell-and-bellona-province",
+                    "s_country_code": "sb",
+                    "s_region_slug": "rennell-and-bellona-province"
+                }
+            ],
             "s_country_code": "sb",
             "s_region_name": "Rennell and Bellona Province",
-            "s_region_slug": "rennell-and-bellona-province",
-            "cities": [
-                {
-                    "s_country_code": "sb",
-                    "s_region_slug": "rennell-and-bellona-province",
-                    "s_city_name": "Rennell and Bellona Province",
-                    "s_city_slug": "rennell-and-bellona-province"
-                }
-            ]
+            "s_region_slug": "rennell-and-bellona-province"
         },
         {
+            "cities": [
+                {
+                    "s_city_name": "Lata",
+                    "s_city_slug": "lata",
+                    "s_country_code": "sb",
+                    "s_region_slug": "temotu-province"
+                }
+            ],
             "s_country_code": "sb",
             "s_region_name": "Temotu Province",
-            "s_region_slug": "temotu-province",
-            "cities": [
-                {
-                    "s_country_code": "sb",
-                    "s_region_slug": "temotu-province",
-                    "s_city_name": "Lata",
-                    "s_city_slug": "lata"
-                }
-            ]
+            "s_region_slug": "temotu-province"
         },
         {
-            "s_country_code": "sb",
-            "s_region_name": "Western Province",
-            "s_region_slug": "western-province",
             "cities": [
                 {
-                    "s_country_code": "sb",
-                    "s_region_slug": "western-province",
                     "s_city_name": "Gizo",
-                    "s_city_slug": "gizo"
+                    "s_city_slug": "gizo",
+                    "s_country_code": "sb",
+                    "s_region_slug": "western-province"
                 }
-            ]
+            ],
+            "s_country_code": "sb",
+            "s_region_name": "Western Province",
+            "s_region_slug": "western-province"
         }
-    ]
+    ],
+    "s_country_code": "SB",
+    "s_country_name": "Solomon Islands",
+    "s_country_slug": "solomon-islands"
 }
