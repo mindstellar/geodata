@@ -4,18 +4,18 @@
     "s_country_slug": "congo",
     "regions": [
         {
-            "s_country_code": "CG",
+            "s_country_code": "cg",
             "s_region_name": "Bouenza Department",
             "s_region_slug": "bouenza-department",
             "cities": [
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "bouenza-department",
                     "s_city_name": "Kayes",
                     "s_city_slug": "kayes"
                 },
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "bouenza-department",
                     "s_city_name": "Madingou",
                     "s_city_slug": "madingou"
@@ -23,12 +23,12 @@
             ]
         },
         {
-            "s_country_code": "CG",
+            "s_country_code": "cg",
             "s_region_name": "Brazzaville",
             "s_region_slug": "brazzaville",
             "cities": [
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "brazzaville",
                     "s_city_name": "Brazzaville",
                     "s_city_slug": "brazzaville"
@@ -36,18 +36,18 @@
             ]
         },
         {
-            "s_country_code": "CG",
+            "s_country_code": "cg",
             "s_region_name": "Cuvette Department",
             "s_region_slug": "cuvette-department",
             "cities": [
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "cuvette-department",
                     "s_city_name": "Makoua",
                     "s_city_slug": "makoua"
                 },
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "cuvette-department",
                     "s_city_name": "Owando",
                     "s_city_slug": "owando"
@@ -55,12 +55,12 @@
             ]
         },
         {
-            "s_country_code": "CG",
+            "s_country_code": "cg",
             "s_region_name": "Cuvette-Ouest Department",
             "s_region_slug": "cuvette-ouest-department",
             "cities": [
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "cuvette-ouest-department",
                     "s_city_name": "Ewo",
                     "s_city_slug": "ewo"
@@ -68,12 +68,12 @@
             ]
         },
         {
-            "s_country_code": "CG",
+            "s_country_code": "cg",
             "s_region_name": "Kouilou Department",
             "s_region_slug": "kouilou-department",
             "cities": [
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "kouilou-department",
                     "s_city_name": "Kouilou Department",
                     "s_city_slug": "kouilou-department"
@@ -81,12 +81,12 @@
             ]
         },
         {
-            "s_country_code": "CG",
+            "s_country_code": "cg",
             "s_region_name": "Lekoumou Department",
             "s_region_slug": "lekoumou-department",
             "cities": [
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "lekoumou-department",
                     "s_city_name": "Sibiti",
                     "s_city_slug": "sibiti"
@@ -94,12 +94,12 @@
             ]
         },
         {
-            "s_country_code": "CG",
+            "s_country_code": "cg",
             "s_region_name": "Likouala Department",
             "s_region_slug": "likouala-department",
             "cities": [
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "likouala-department",
                     "s_city_name": "Impfondo",
                     "s_city_slug": "impfondo"
@@ -107,18 +107,18 @@
             ]
         },
         {
-            "s_country_code": "CG",
+            "s_country_code": "cg",
             "s_region_name": "Niari Department",
             "s_region_slug": "niari-department",
             "cities": [
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "niari-department",
                     "s_city_name": "Dolisie",
                     "s_city_slug": "dolisie"
                 },
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "niari-department",
                     "s_city_name": "Mossendjo",
                     "s_city_slug": "mossendjo"
@@ -126,18 +126,18 @@
             ]
         },
         {
-            "s_country_code": "CG",
+            "s_country_code": "cg",
             "s_region_name": "Plateaux Department",
             "s_region_slug": "plateaux-department",
             "cities": [
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "plateaux-department",
                     "s_city_name": "Djambala",
                     "s_city_slug": "djambala"
                 },
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "plateaux-department",
                     "s_city_name": "Gamboma",
                     "s_city_slug": "gamboma"
@@ -145,18 +145,18 @@
             ]
         },
         {
-            "s_country_code": "CG",
+            "s_country_code": "cg",
             "s_region_name": "Pointe-Noire",
             "s_region_slug": "pointe-noire",
             "cities": [
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "pointe-noire",
                     "s_city_name": "Loandjili",
                     "s_city_slug": "loandjili"
                 },
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "pointe-noire",
                     "s_city_name": "Pointe-Noire",
                     "s_city_slug": "pointe-noire"
@@ -164,12 +164,12 @@
             ]
         },
         {
-            "s_country_code": "CG",
+            "s_country_code": "cg",
             "s_region_name": "Pool Department",
             "s_region_slug": "pool-department",
             "cities": [
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "pool-department",
                     "s_city_name": "Kinkala",
                     "s_city_slug": "kinkala"
@@ -177,18 +177,18 @@
             ]
         },
         {
-            "s_country_code": "CG",
+            "s_country_code": "cg",
             "s_region_name": "Sangha Department",
             "s_region_slug": "sangha-department",
             "cities": [
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "sangha-department",
                     "s_city_name": "Ouesso",
                     "s_city_slug": "ouesso"
                 },
                 {
-                    "s_country_code": "CG",
+                    "s_country_code": "cg",
                     "s_region_slug": "sangha-department",
                     "s_city_name": "Sembe",
                     "s_city_slug": "sembe"

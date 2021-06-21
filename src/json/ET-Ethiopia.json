@@ -4,12 +4,12 @@
     "s_country_slug": "ethiopia",
     "regions": [
         {
-            "s_country_code": "ET",
+            "s_country_code": "et",
             "s_region_name": "Addis Ababa",
             "s_region_slug": "addis-ababa",
             "cities": [
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "addis-ababa",
                     "s_city_name": "Addis Ababa",
                     "s_city_slug": "addis-ababa"
@@ -17,48 +17,48 @@
             ]
         },
         {
-            "s_country_code": "ET",
+            "s_country_code": "et",
             "s_region_name": "Afar Region",
             "s_region_slug": "afar-region",
             "cities": [
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "afar-region",
                     "s_city_name": "Administrative Zone 2",
                     "s_city_slug": "administrative-zone-2"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "afar-region",
                     "s_city_name": "Administrative Zone 3",
                     "s_city_slug": "administrative-zone-3"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "afar-region",
                     "s_city_name": "Asaita",
                     "s_city_slug": "asaita"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "afar-region",
                     "s_city_name": "Awash",
                     "s_city_slug": "awash"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "afar-region",
                     "s_city_name": "Dubti",
                     "s_city_slug": "dubti"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "afar-region",
                     "s_city_name": "Gewane",
                     "s_city_slug": "gewane"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "afar-region",
                     "s_city_name": "Semera",
                     "s_city_slug": "semera"
@@ -66,180 +66,180 @@
             ]
         },
         {
-            "s_country_code": "ET",
+            "s_country_code": "et",
             "s_region_name": "Amhara Region",
             "s_region_slug": "amhara-region",
             "cities": [
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Abomsa",
                     "s_city_slug": "abomsa"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Addiet Canna",
                     "s_city_slug": "addiet-canna"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Adis Zemen",
                     "s_city_slug": "adis-zemen"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Bahir Dar",
                     "s_city_slug": "bahir-dar"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Bati",
                     "s_city_slug": "bati"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Bichena",
                     "s_city_slug": "bichena"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Bure",
                     "s_city_slug": "bure"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Dabat",
                     "s_city_slug": "dabat"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Debark",
                     "s_city_slug": "debark"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Debre Birhan",
                     "s_city_slug": "debre-birhan"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Debre Markos",
                     "s_city_slug": "debre-markos"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Debre Sina",
                     "s_city_slug": "debre-sina"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Debre Tabor",
                     "s_city_slug": "debre-tabor"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Debre Werk",
                     "s_city_slug": "debre-werk"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Dejen",
                     "s_city_slug": "dejen"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Dese",
                     "s_city_slug": "dese"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Finote Selam",
                     "s_city_slug": "finote-selam"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Gondar",
                     "s_city_slug": "gondar"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Kemise",
                     "s_city_slug": "kemise"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Kombolcha",
                     "s_city_slug": "kombolcha"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Lalibela",
                     "s_city_slug": "lalibela"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "North Shewa Zone",
                     "s_city_slug": "north-shewa-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "North Wollo Zone",
                     "s_city_slug": "north-wollo-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Robit",
                     "s_city_slug": "robit"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "South Gondar Zone",
                     "s_city_slug": "south-gondar-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "South Wollo Zone",
                     "s_city_slug": "south-wollo-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Wag Hemra Zone",
                     "s_city_slug": "wag-hemra-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Were Ilu",
                     "s_city_slug": "were-ilu"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "amhara-region",
                     "s_city_name": "Werota",
                     "s_city_slug": "werota"
@@ -247,24 +247,24 @@
             ]
         },
         {
-            "s_country_code": "ET",
+            "s_country_code": "et",
             "s_region_name": "Benishangul-Gumuz Region",
             "s_region_slug": "benishangul-gumuz-region",
             "cities": [
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "benishangul-gumuz-region",
                     "s_city_name": "Asosa",
                     "s_city_slug": "asosa"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "benishangul-gumuz-region",
                     "s_city_name": "Asosa",
                     "s_city_slug": "asosa"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "benishangul-gumuz-region",
                     "s_city_name": "Metekel",
                     "s_city_slug": "metekel"
@@ -272,12 +272,12 @@
             ]
         },
         {
-            "s_country_code": "ET",
+            "s_country_code": "et",
             "s_region_name": "Dire Dawa",
             "s_region_slug": "dire-dawa",
             "cities": [
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "dire-dawa",
                     "s_city_name": "Dire Dawa",
                     "s_city_slug": "dire-dawa"
@@ -285,18 +285,18 @@
             ]
         },
         {
-            "s_country_code": "ET",
+            "s_country_code": "et",
             "s_region_name": "Gambela Region",
             "s_region_slug": "gambela-region",
             "cities": [
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "gambela-region",
                     "s_city_name": "Administrative Zone 1",
                     "s_city_slug": "administrative-zone-1"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "gambela-region",
                     "s_city_name": "Gambela",
                     "s_city_slug": "gambela"
@@ -304,12 +304,12 @@
             ]
         },
         {
-            "s_country_code": "ET",
+            "s_country_code": "et",
             "s_region_name": "Harari Region",
             "s_region_slug": "harari-region",
             "cities": [
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "harari-region",
                     "s_city_name": "Harar",
                     "s_city_slug": "harar"
@@ -317,330 +317,330 @@
             ]
         },
         {
-            "s_country_code": "ET",
+            "s_country_code": "et",
             "s_region_name": "Oromia Region",
             "s_region_slug": "oromia-region",
             "cities": [
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Adis Alem",
                     "s_city_slug": "adis-alem"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Agaro",
                     "s_city_slug": "agaro"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Arsi Zone",
                     "s_city_slug": "arsi-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Asasa",
                     "s_city_slug": "asasa"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Asbe Teferi",
                     "s_city_slug": "asbe-teferi"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Bedele",
                     "s_city_slug": "bedele"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Bedesa",
                     "s_city_slug": "bedesa"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Bishoftu",
                     "s_city_slug": "bishoftu"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Deder",
                     "s_city_slug": "deder"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Dembi Dolo",
                     "s_city_slug": "dembi-dolo"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Dodola",
                     "s_city_slug": "dodola"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "East Harerghe Zone",
                     "s_city_slug": "east-harerghe-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "East Shewa Zone",
                     "s_city_slug": "east-shewa-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "East Wellega Zone",
                     "s_city_slug": "east-wellega-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Fiche",
                     "s_city_slug": "fiche"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Gebre Guracha",
                     "s_city_slug": "gebre-guracha"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Gedo",
                     "s_city_slug": "gedo"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Gelemso",
                     "s_city_slug": "gelemso"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Genet",
                     "s_city_slug": "genet"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Gimbi",
                     "s_city_slug": "gimbi"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Ginir",
                     "s_city_slug": "ginir"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Goba",
                     "s_city_slug": "goba"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Gore",
                     "s_city_slug": "gore"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Guji Zone",
                     "s_city_slug": "guji-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Hagere Hiywet",
                     "s_city_slug": "hagere-hiywet"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Hagere Maryam",
                     "s_city_slug": "hagere-maryam"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Hirna",
                     "s_city_slug": "hirna"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Huruta",
                     "s_city_slug": "huruta"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Illubabor Zone",
                     "s_city_slug": "illubabor-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Jimma",
                     "s_city_slug": "jimma"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Jimma Zone",
                     "s_city_slug": "jimma-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Kibre Mengist",
                     "s_city_slug": "kibre-mengist"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Kofele",
                     "s_city_slug": "kofele"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Mega",
                     "s_city_slug": "mega"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Mendi",
                     "s_city_slug": "mendi"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Metahara",
                     "s_city_slug": "metahara"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Metu",
                     "s_city_slug": "metu"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Mojo",
                     "s_city_slug": "mojo"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Nazret",
                     "s_city_slug": "nazret"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Nejo",
                     "s_city_slug": "nejo"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "North Shewa Zone",
                     "s_city_slug": "north-shewa-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Sebeta",
                     "s_city_slug": "sebeta"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Sendafa",
                     "s_city_slug": "sendafa"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Shakiso",
                     "s_city_slug": "shakiso"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Shambu",
                     "s_city_slug": "shambu"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Shashemene",
                     "s_city_slug": "shashemene"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Sirre",
                     "s_city_slug": "sirre"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Tulu Bolo",
                     "s_city_slug": "tulu-bolo"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Waliso",
                     "s_city_slug": "waliso"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Wenji",
                     "s_city_slug": "wenji"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "West Harerghe Zone",
                     "s_city_slug": "west-harerghe-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "West Wellega Zone",
                     "s_city_slug": "west-wellega-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Yabelo",
                     "s_city_slug": "yabelo"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "oromia-region",
                     "s_city_name": "Ziway",
                     "s_city_slug": "ziway"
@@ -648,42 +648,42 @@
             ]
         },
         {
-            "s_country_code": "ET",
+            "s_country_code": "et",
             "s_region_name": "Somali Region",
             "s_region_slug": "somali-region",
             "cities": [
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "somali-region",
                     "s_city_name": "Afder Zone",
                     "s_city_slug": "afder-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "somali-region",
                     "s_city_name": "Degehabur Zone",
                     "s_city_slug": "degehabur-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "somali-region",
                     "s_city_name": "Gode Zone",
                     "s_city_slug": "gode-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "somali-region",
                     "s_city_name": "Jijiga",
                     "s_city_slug": "jijiga"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "somali-region",
                     "s_city_name": "Liben zone",
                     "s_city_slug": "liben-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "somali-region",
                     "s_city_name": "Shinile Zone",
                     "s_city_slug": "shinile-zone"
@@ -691,204 +691,204 @@
             ]
         },
         {
-            "s_country_code": "ET",
+            "s_country_code": "et",
             "s_region_name": "Southern Nations, Nationalities, and Peoples' Region",
             "s_region_slug": "southern-nations-nationalities-and-peoples-region",
             "cities": [
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Alaba Special Wereda",
                     "s_city_slug": "alaba-special-wereda"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Arba Minch",
                     "s_city_slug": "arba-minch"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Areka",
                     "s_city_slug": "areka"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Bako",
                     "s_city_slug": "bako"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Bench Maji Zone",
                     "s_city_slug": "bench-maji-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Boditi",
                     "s_city_slug": "boditi"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Bonga",
                     "s_city_slug": "bonga"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Butajira",
                     "s_city_slug": "butajira"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Dila",
                     "s_city_slug": "dila"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Felege Neway",
                     "s_city_slug": "felege-neway"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Gedeo Zone",
                     "s_city_slug": "gedeo-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Gidole",
                     "s_city_slug": "gidole"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Guraghe Zone",
                     "s_city_slug": "guraghe-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Hadiya Zone",
                     "s_city_slug": "hadiya-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Hagere Selam",
                     "s_city_slug": "hagere-selam"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Hawassa",
                     "s_city_slug": "hawassa"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Hosaina",
                     "s_city_slug": "hosaina"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Jinka",
                     "s_city_slug": "jinka"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Kolito",
                     "s_city_slug": "kolito"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Kembata Alaba Tembaro Zone",
                     "s_city_slug": "kembata-alaba-tembaro-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Konso",
                     "s_city_slug": "konso"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Leku",
                     "s_city_slug": "leku"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Lobuni",
                     "s_city_slug": "lobuni"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Mizan Teferi",
                     "s_city_slug": "mizan-teferi"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Sheka Zone",
                     "s_city_slug": "sheka-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Sidama Zone",
                     "s_city_slug": "sidama-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Sodo",
                     "s_city_slug": "sodo"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Tippi",
                     "s_city_slug": "tippi"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Turmi",
                     "s_city_slug": "turmi"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Wendo",
                     "s_city_slug": "wendo"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Wolayita Zone",
                     "s_city_slug": "wolayita-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Yem",
                     "s_city_slug": "yem"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "southern-nations-nationalities-and-peoples-region",
                     "s_city_name": "Yirga Alem",
                     "s_city_slug": "yirga-alem"
@@ -896,54 +896,54 @@
             ]
         },
         {
-            "s_country_code": "ET",
+            "s_country_code": "et",
             "s_region_name": "Tigray Region",
             "s_region_slug": "tigray-region",
             "cities": [
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "tigray-region",
                     "s_city_name": "Adigrat",
                     "s_city_slug": "adigrat"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "tigray-region",
                     "s_city_name": "Axum",
                     "s_city_slug": "axum"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "tigray-region",
                     "s_city_name": "Inda Silase",
                     "s_city_slug": "inda-silase"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "tigray-region",
                     "s_city_name": "Korem",
                     "s_city_slug": "korem"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "tigray-region",
                     "s_city_name": "Maychew",
                     "s_city_slug": "maychew"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "tigray-region",
                     "s_city_name": "Mek'ele",
                     "s_city_slug": "mekele"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "tigray-region",
                     "s_city_name": "Southeastern Tigray Zone",
                     "s_city_slug": "southeastern-tigray-zone"
                 },
                 {
-                    "s_country_code": "ET",
+                    "s_country_code": "et",
                     "s_region_slug": "tigray-region",
                     "s_city_name": "Southern Tigray Zone",
                     "s_city_slug": "southern-tigray-zone"

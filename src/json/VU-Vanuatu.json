@@ -4,18 +4,18 @@
     "s_country_slug": "vanuatu",
     "regions": [
         {
-            "s_country_code": "VU",
+            "s_country_code": "vu",
             "s_region_name": "Malampa",
             "s_region_slug": "malampa",
             "cities": [
                 {
-                    "s_country_code": "VU",
+                    "s_country_code": "vu",
                     "s_region_slug": "malampa",
                     "s_city_name": "Lakatoro",
                     "s_city_slug": "lakatoro"
                 },
                 {
-                    "s_country_code": "VU",
+                    "s_country_code": "vu",
                     "s_region_slug": "malampa",
                     "s_city_name": "Norsup",
                     "s_city_slug": "norsup"
@@ -23,12 +23,12 @@
             ]
         },
         {
-            "s_country_code": "VU",
+            "s_country_code": "vu",
             "s_region_name": "Penama",
             "s_region_slug": "penama",
             "cities": [
                 {
-                    "s_country_code": "VU",
+                    "s_country_code": "vu",
                     "s_region_slug": "penama",
                     "s_city_name": "Penama",
                     "s_city_slug": "penama"
@@ -36,18 +36,18 @@
             ]
         },
         {
-            "s_country_code": "VU",
+            "s_country_code": "vu",
             "s_region_name": "Sanma",
             "s_region_slug": "sanma",
             "cities": [
                 {
-                    "s_country_code": "VU",
+                    "s_country_code": "vu",
                     "s_region_slug": "sanma",
                     "s_city_name": "Luganville",
                     "s_city_slug": "luganville"
                 },
                 {
-                    "s_country_code": "VU",
+                    "s_country_code": "vu",
                     "s_region_slug": "sanma",
                     "s_city_name": "Port-Olry",
                     "s_city_slug": "port-olry"
@@ -55,12 +55,12 @@
             ]
         },
         {
-            "s_country_code": "VU",
+            "s_country_code": "vu",
             "s_region_name": "Shefa",
             "s_region_slug": "shefa",
             "cities": [
                 {
-                    "s_country_code": "VU",
+                    "s_country_code": "vu",
                     "s_region_slug": "shefa",
                     "s_city_name": "Port-Vila",
                     "s_city_slug": "port-vila"
@@ -68,12 +68,12 @@
             ]
         },
         {
-            "s_country_code": "VU",
+            "s_country_code": "vu",
             "s_region_name": "Tafea",
             "s_region_slug": "tafea",
             "cities": [
                 {
-                    "s_country_code": "VU",
+                    "s_country_code": "vu",
                     "s_region_slug": "tafea",
                     "s_city_name": "Isangel",
                     "s_city_slug": "isangel"
@@ -81,12 +81,12 @@
             ]
         },
         {
-            "s_country_code": "VU",
+            "s_country_code": "vu",
             "s_region_name": "Torba",
             "s_region_slug": "torba",
             "cities": [
                 {
-                    "s_country_code": "VU",
+                    "s_country_code": "vu",
                     "s_region_slug": "torba",
                     "s_city_name": "Sola",
                     "s_city_slug": "sola"

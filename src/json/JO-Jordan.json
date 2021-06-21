@@ -4,36 +4,36 @@
     "s_country_slug": "jordan",
     "regions": [
         {
-            "s_country_code": "JO",
+            "s_country_code": "jo",
             "s_region_name": "Ajloun Governorate",
             "s_region_slug": "ajloun-governorate",
             "cities": [
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "ajloun-governorate",
                     "s_city_name": "Ajlun",
                     "s_city_slug": "ajlun"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "ajloun-governorate",
                     "s_city_name": "Anjarah",
                     "s_city_slug": "anjarah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "ajloun-governorate",
                     "s_city_name": "Ayn Jannah",
                     "s_city_slug": "ayn-jannah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "ajloun-governorate",
                     "s_city_name": "Halawah",
                     "s_city_slug": "halawah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "ajloun-governorate",
                     "s_city_name": "Sakhrah",
                     "s_city_slug": "sakhrah"
@@ -41,60 +41,60 @@
             ]
         },
         {
-            "s_country_code": "JO",
+            "s_country_code": "jo",
             "s_region_name": "Amman Governorate",
             "s_region_slug": "amman-governorate",
             "cities": [
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "amman-governorate",
                     "s_city_name": "Al Jizah",
                     "s_city_slug": "al-jizah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "amman-governorate",
                     "s_city_name": "Al Jubayhah",
                     "s_city_slug": "al-jubayhah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "amman-governorate",
                     "s_city_name": "Amman",
                     "s_city_slug": "amman"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "amman-governorate",
                     "s_city_name": "Hayy al Bunayyat",
                     "s_city_slug": "hayy-al-bunayyat"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "amman-governorate",
                     "s_city_name": "Hayy al Quwaysimah",
                     "s_city_slug": "hayy-al-quwaysimah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "amman-governorate",
                     "s_city_name": "Jawa",
                     "s_city_slug": "jawa"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "amman-governorate",
                     "s_city_name": "Sahab",
                     "s_city_slug": "sahab"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "amman-governorate",
                     "s_city_name": "Umm as Summaq",
                     "s_city_slug": "umm-as-summaq"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "amman-governorate",
                     "s_city_name": "Wadi as Sir",
                     "s_city_slug": "wadi-as-sir"
@@ -102,18 +102,18 @@
             ]
         },
         {
-            "s_country_code": "JO",
+            "s_country_code": "jo",
             "s_region_name": "Aqaba Governorate",
             "s_region_slug": "aqaba-governorate",
             "cities": [
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "aqaba-governorate",
                     "s_city_name": "Aqaba",
                     "s_city_slug": "aqaba"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "aqaba-governorate",
                     "s_city_name": "Tala Bay",
                     "s_city_slug": "tala-bay"
@@ -121,24 +121,24 @@
             ]
         },
         {
-            "s_country_code": "JO",
+            "s_country_code": "jo",
             "s_region_name": "Balqa Governorate",
             "s_region_slug": "balqa-governorate",
             "cities": [
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "balqa-governorate",
                     "s_city_name": "Al Karamah",
                     "s_city_slug": "al-karamah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "balqa-governorate",
                     "s_city_name": "As Salt",
                     "s_city_slug": "as-salt"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "balqa-governorate",
                     "s_city_name": "Yarqa",
                     "s_city_slug": "yarqa"
@@ -146,168 +146,168 @@
             ]
         },
         {
-            "s_country_code": "JO",
+            "s_country_code": "jo",
             "s_region_name": "Irbid Governorate",
             "s_region_slug": "irbid-governorate",
             "cities": [
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Ar Ramtha",
                     "s_city_slug": "ar-ramtha"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Ash Shajarah",
                     "s_city_slug": "ash-shajarah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "At Tayyibah",
                     "s_city_slug": "at-tayyibah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "At Turrah",
                     "s_city_slug": "at-turrah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Aydun",
                     "s_city_slug": "aydun"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Bayt Idis",
                     "s_city_slug": "bayt-idis"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Bayt Yafa",
                     "s_city_slug": "bayt-yafa"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Dayr Yusuf",
                     "s_city_slug": "dayr-yusuf"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Hakama",
                     "s_city_slug": "hakama"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Hatim",
                     "s_city_slug": "hatim"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Irbid",
                     "s_city_slug": "irbid"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Judita",
                     "s_city_slug": "judita"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Kafr Abil",
                     "s_city_slug": "kafr-abil"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Kafr Asad",
                     "s_city_slug": "kafr-asad"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Kafr Sawm",
                     "s_city_slug": "kafr-sawm"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Kharja",
                     "s_city_slug": "kharja"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Kitim",
                     "s_city_slug": "kitim"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Kurayyimah",
                     "s_city_slug": "kurayyimah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Malka",
                     "s_city_slug": "malka"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Qumaym",
                     "s_city_slug": "qumaym"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Saham al Kaffarat",
                     "s_city_slug": "saham-al-kaffarat"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Sal",
                     "s_city_slug": "sal"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Samma",
                     "s_city_slug": "samma"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Tibnah",
                     "s_city_slug": "tibnah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Umm Qays",
                     "s_city_slug": "umm-qays"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Waqqas",
                     "s_city_slug": "waqqas"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "irbid-governorate",
                     "s_city_name": "Zahar",
                     "s_city_slug": "zahar"
@@ -315,54 +315,54 @@
             ]
         },
         {
-            "s_country_code": "JO",
+            "s_country_code": "jo",
             "s_region_name": "Jerash Governorate",
             "s_region_slug": "jerash-governorate",
             "cities": [
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "jerash-governorate",
                     "s_city_name": "Al Kittah",
                     "s_city_slug": "al-kittah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "jerash-governorate",
                     "s_city_name": "Balila",
                     "s_city_slug": "balila"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "jerash-governorate",
                     "s_city_name": "Burma",
                     "s_city_slug": "burma"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "jerash-governorate",
                     "s_city_name": "Jarash",
                     "s_city_slug": "jarash"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "jerash-governorate",
                     "s_city_name": "Qafqafa",
                     "s_city_slug": "qafqafa"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "jerash-governorate",
                     "s_city_name": "Raymun",
                     "s_city_slug": "raymun"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "jerash-governorate",
                     "s_city_name": "Sakib",
                     "s_city_slug": "sakib"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "jerash-governorate",
                     "s_city_name": "Suf",
                     "s_city_slug": "suf"
@@ -370,60 +370,60 @@
             ]
         },
         {
-            "s_country_code": "JO",
+            "s_country_code": "jo",
             "s_region_name": "Karak Governorate",
             "s_region_slug": "karak-governorate",
             "cities": [
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "karak-governorate",
                     "s_city_name": "Ayy",
                     "s_city_slug": "ayy"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "karak-governorate",
                     "s_city_name": "Izra",
                     "s_city_slug": "izra"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "karak-governorate",
                     "s_city_name": "Adir",
                     "s_city_slug": "adir"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "karak-governorate",
                     "s_city_name": "Al Khinzirah",
                     "s_city_slug": "al-khinzirah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "karak-governorate",
                     "s_city_name": "Al Mazar al Janubi",
                     "s_city_slug": "al-mazar-al-janubi"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "karak-governorate",
                     "s_city_name": "Al Qasr",
                     "s_city_slug": "al-qasr"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "karak-governorate",
                     "s_city_name": "Ar Rabbah",
                     "s_city_slug": "ar-rabbah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "karak-governorate",
                     "s_city_name": "Karak City",
                     "s_city_slug": "karak-city"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "karak-governorate",
                     "s_city_name": "Safi",
                     "s_city_slug": "safi"
@@ -431,48 +431,48 @@
             ]
         },
         {
-            "s_country_code": "JO",
+            "s_country_code": "jo",
             "s_region_name": "Ma'an Governorate",
             "s_region_slug": "maan-governorate",
             "cities": [
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "maan-governorate",
                     "s_city_name": "Al Jafr",
                     "s_city_slug": "al-jafr"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "maan-governorate",
                     "s_city_name": "Al Quwayrah",
                     "s_city_slug": "al-quwayrah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "maan-governorate",
                     "s_city_name": "Ash Shawbak",
                     "s_city_slug": "ash-shawbak"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "maan-governorate",
                     "s_city_name": "At Tayyibah",
                     "s_city_slug": "at-tayyibah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "maan-governorate",
                     "s_city_name": "Ma'an",
                     "s_city_slug": "maan"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "maan-governorate",
                     "s_city_name": "Petra",
                     "s_city_slug": "petra"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "maan-governorate",
                     "s_city_name": "Qir Moav",
                     "s_city_slug": "qir-moav"
@@ -480,12 +480,12 @@
             ]
         },
         {
-            "s_country_code": "JO",
+            "s_country_code": "jo",
             "s_region_name": "Madaba Governorate",
             "s_region_slug": "madaba-governorate",
             "cities": [
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "madaba-governorate",
                     "s_city_name": "Madaba",
                     "s_city_slug": "madaba"
@@ -493,42 +493,42 @@
             ]
         },
         {
-            "s_country_code": "JO",
+            "s_country_code": "jo",
             "s_region_name": "Mafraq Governorate",
             "s_region_slug": "mafraq-governorate",
             "cities": [
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "mafraq-governorate",
                     "s_city_name": "Al Hamra",
                     "s_city_slug": "al-hamra"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "mafraq-governorate",
                     "s_city_name": "Mafraq",
                     "s_city_slug": "mafraq"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "mafraq-governorate",
                     "s_city_name": "Rehab",
                     "s_city_slug": "rehab"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "mafraq-governorate",
                     "s_city_name": "Rukban",
                     "s_city_slug": "rukban"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "mafraq-governorate",
                     "s_city_name": "Sabha",
                     "s_city_slug": "sabha"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "mafraq-governorate",
                     "s_city_name": "Umm al Qittayn",
                     "s_city_slug": "umm-al-qittayn"
@@ -536,18 +536,18 @@
             ]
         },
         {
-            "s_country_code": "JO",
+            "s_country_code": "jo",
             "s_region_name": "Tafilah Governorate",
             "s_region_slug": "tafilah-governorate",
             "cities": [
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "tafilah-governorate",
                     "s_city_name": "At Tafilah",
                     "s_city_slug": "at-tafilah"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "tafilah-governorate",
                     "s_city_name": "Busayra",
                     "s_city_slug": "busayra"
@@ -555,24 +555,24 @@
             ]
         },
         {
-            "s_country_code": "JO",
+            "s_country_code": "jo",
             "s_region_name": "Zarqa Governorate",
             "s_region_slug": "zarqa-governorate",
             "cities": [
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "zarqa-governorate",
                     "s_city_name": "Al Azraq ash Shamali",
                     "s_city_slug": "al-azraq-ash-shamali"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "zarqa-governorate",
                     "s_city_name": "Russeifa",
                     "s_city_slug": "russeifa"
                 },
                 {
-                    "s_country_code": "JO",
+                    "s_country_code": "jo",
                     "s_region_slug": "zarqa-governorate",
                     "s_city_name": "Zarqa",
                     "s_city_slug": "zarqa"

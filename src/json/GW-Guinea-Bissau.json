@@ -4,18 +4,18 @@
     "s_country_slug": "guinea-bissau",
     "regions": [
         {
-            "s_country_code": "GW",
+            "s_country_code": "gw",
             "s_region_name": "Bafata",
             "s_region_slug": "bafata",
             "cities": [
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "bafata",
                     "s_city_name": "Bafata",
                     "s_city_slug": "bafata"
                 },
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "bafata",
                     "s_city_name": "Contuboel Sector",
                     "s_city_slug": "contuboel-sector"
@@ -23,12 +23,12 @@
             ]
         },
         {
-            "s_country_code": "GW",
+            "s_country_code": "gw",
             "s_region_name": "Biombo Region",
             "s_region_slug": "biombo-region",
             "cities": [
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "biombo-region",
                     "s_city_name": "Quinhamel",
                     "s_city_slug": "quinhamel"
@@ -36,18 +36,18 @@
             ]
         },
         {
-            "s_country_code": "GW",
+            "s_country_code": "gw",
             "s_region_name": "Bolama Region",
             "s_region_slug": "bolama-region",
             "cities": [
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "bolama-region",
                     "s_city_name": "Bolama",
                     "s_city_slug": "bolama"
                 },
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "bolama-region",
                     "s_city_name": "Bubaque",
                     "s_city_slug": "bubaque"
@@ -55,18 +55,18 @@
             ]
         },
         {
-            "s_country_code": "GW",
+            "s_country_code": "gw",
             "s_region_name": "Cacheu Region",
             "s_region_slug": "cacheu-region",
             "cities": [
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "cacheu-region",
                     "s_city_name": "Cacheu",
                     "s_city_slug": "cacheu"
                 },
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "cacheu-region",
                     "s_city_name": "Canchungo",
                     "s_city_slug": "canchungo"
@@ -74,12 +74,12 @@
             ]
         },
         {
-            "s_country_code": "GW",
+            "s_country_code": "gw",
             "s_region_name": "Gabu Region",
             "s_region_slug": "gabu-region",
             "cities": [
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "gabu-region",
                     "s_city_name": "Gabu",
                     "s_city_slug": "gabu"
@@ -87,12 +87,12 @@
             ]
         },
         {
-            "s_country_code": "GW",
+            "s_country_code": "gw",
             "s_region_name": "Leste Province",
             "s_region_slug": "leste-province",
             "cities": [
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "leste-province",
                     "s_city_name": "Leste Province",
                     "s_city_slug": "leste-province"
@@ -100,12 +100,12 @@
             ]
         },
         {
-            "s_country_code": "GW",
+            "s_country_code": "gw",
             "s_region_name": "Norte Province",
             "s_region_slug": "norte-province",
             "cities": [
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "norte-province",
                     "s_city_name": "Norte Province",
                     "s_city_slug": "norte-province"
@@ -113,24 +113,24 @@
             ]
         },
         {
-            "s_country_code": "GW",
+            "s_country_code": "gw",
             "s_region_name": "Oio Region",
             "s_region_slug": "oio-region",
             "cities": [
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "oio-region",
                     "s_city_name": "Bissora",
                     "s_city_slug": "bissora"
                 },
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "oio-region",
                     "s_city_name": "Farim",
                     "s_city_slug": "farim"
                 },
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "oio-region",
                     "s_city_name": "Mansoa",
                     "s_city_slug": "mansoa"
@@ -138,12 +138,12 @@
             ]
         },
         {
-            "s_country_code": "GW",
+            "s_country_code": "gw",
             "s_region_name": "Quinara Region",
             "s_region_slug": "quinara-region",
             "cities": [
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "quinara-region",
                     "s_city_name": "Buba",
                     "s_city_slug": "buba"
@@ -151,12 +151,12 @@
             ]
         },
         {
-            "s_country_code": "GW",
+            "s_country_code": "gw",
             "s_region_name": "Sul Province",
             "s_region_slug": "sul-province",
             "cities": [
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "sul-province",
                     "s_city_name": "Sul Province",
                     "s_city_slug": "sul-province"
@@ -164,18 +164,18 @@
             ]
         },
         {
-            "s_country_code": "GW",
+            "s_country_code": "gw",
             "s_region_name": "Tombali Region",
             "s_region_slug": "tombali-region",
             "cities": [
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "tombali-region",
                     "s_city_name": "Catio",
                     "s_city_slug": "catio"
                 },
                 {
-                    "s_country_code": "GW",
+                    "s_country_code": "gw",
                     "s_region_slug": "tombali-region",
                     "s_city_name": "Quebo",
                     "s_city_slug": "quebo"

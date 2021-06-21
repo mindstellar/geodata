@@ -4,42 +4,42 @@
     "s_country_slug": "swaziland",
     "regions": [
         {
-            "s_country_code": "SZ",
+            "s_country_code": "sz",
             "s_region_name": "Hhohho District",
             "s_region_slug": "hhohho-district",
             "cities": [
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "hhohho-district",
                     "s_city_name": "Bulembu",
                     "s_city_slug": "bulembu"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "hhohho-district",
                     "s_city_name": "Hhukwini",
                     "s_city_slug": "hhukwini"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "hhohho-district",
                     "s_city_name": "Lobamba",
                     "s_city_slug": "lobamba"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "hhohho-district",
                     "s_city_name": "Mbabane",
                     "s_city_slug": "mbabane"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "hhohho-district",
                     "s_city_name": "Nkhaba",
                     "s_city_slug": "nkhaba"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "hhohho-district",
                     "s_city_name": "Piggs Peak",
                     "s_city_slug": "piggs-peak"
@@ -47,54 +47,54 @@
             ]
         },
         {
-            "s_country_code": "SZ",
+            "s_country_code": "sz",
             "s_region_name": "Lubombo District",
             "s_region_slug": "lubombo-district",
             "cities": [
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "lubombo-district",
                     "s_city_name": "Big Bend",
                     "s_city_slug": "big-bend"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "lubombo-district",
                     "s_city_name": "Dvokodvweni Inkhundla",
                     "s_city_slug": "dvokodvweni-inkhundla"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "lubombo-district",
                     "s_city_name": "Lomashasha",
                     "s_city_slug": "lomashasha"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "lubombo-district",
                     "s_city_name": "Mhlume",
                     "s_city_slug": "mhlume"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "lubombo-district",
                     "s_city_name": "Nsoko",
                     "s_city_slug": "nsoko"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "lubombo-district",
                     "s_city_name": "Siteki",
                     "s_city_slug": "siteki"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "lubombo-district",
                     "s_city_name": "Tshaneni",
                     "s_city_slug": "tshaneni"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "lubombo-district",
                     "s_city_name": "Vuvulane",
                     "s_city_slug": "vuvulane"
@@ -102,66 +102,66 @@
             ]
         },
         {
-            "s_country_code": "SZ",
+            "s_country_code": "sz",
             "s_region_name": "Manzini District",
             "s_region_slug": "manzini-district",
             "cities": [
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "manzini-district",
                     "s_city_name": "Bhunya",
                     "s_city_slug": "bhunya"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "manzini-district",
                     "s_city_name": "Ekukhanyeni",
                     "s_city_slug": "ekukhanyeni"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "manzini-district",
                     "s_city_name": "Kwaluseni",
                     "s_city_slug": "kwaluseni"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "manzini-district",
                     "s_city_name": "Malkerns",
                     "s_city_slug": "malkerns"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "manzini-district",
                     "s_city_name": "Manzini",
                     "s_city_slug": "manzini"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "manzini-district",
                     "s_city_name": "Manzini South",
                     "s_city_slug": "manzini-south"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "manzini-district",
                     "s_city_name": "Mhlambanyatsi",
                     "s_city_slug": "mhlambanyatsi"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "manzini-district",
                     "s_city_name": "Ngwempisi",
                     "s_city_slug": "ngwempisi"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "manzini-district",
                     "s_city_name": "Ntondozi",
                     "s_city_slug": "ntondozi"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "manzini-district",
                     "s_city_name": "Sidvokodvo",
                     "s_city_slug": "sidvokodvo"
@@ -169,66 +169,66 @@
             ]
         },
         {
-            "s_country_code": "SZ",
+            "s_country_code": "sz",
             "s_region_name": "Shiselweni District",
             "s_region_slug": "shiselweni-district",
             "cities": [
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "shiselweni-district",
                     "s_city_name": "Hlatikulu",
                     "s_city_slug": "hlatikulu"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "shiselweni-district",
                     "s_city_name": "Hluti",
                     "s_city_slug": "hluti"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "shiselweni-district",
                     "s_city_name": "Kubuta",
                     "s_city_slug": "kubuta"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "shiselweni-district",
                     "s_city_name": "Lavumisa",
                     "s_city_slug": "lavumisa"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "shiselweni-district",
                     "s_city_name": "Matsanjeni",
                     "s_city_slug": "matsanjeni"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "shiselweni-district",
                     "s_city_name": "Ngudzeni",
                     "s_city_slug": "ngudzeni"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "shiselweni-district",
                     "s_city_name": "Nhlangano",
                     "s_city_slug": "nhlangano"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "shiselweni-district",
                     "s_city_name": "Nkwene",
                     "s_city_slug": "nkwene"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "shiselweni-district",
                     "s_city_name": "Sigwe Inkhundla",
                     "s_city_slug": "sigwe-inkhundla"
                 },
                 {
-                    "s_country_code": "SZ",
+                    "s_country_code": "sz",
                     "s_region_slug": "shiselweni-district",
                     "s_city_name": "Zombodze Ikhundla",
                     "s_city_slug": "zombodze-ikhundla"

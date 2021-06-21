@@ -4,48 +4,48 @@
     "s_country_slug": "el-salvador",
     "regions": [
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "Ahuachapan Department",
             "s_region_slug": "ahuachapan-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "ahuachapan-department",
                     "s_city_name": "Ahuachapan",
                     "s_city_slug": "ahuachapan"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "ahuachapan-department",
                     "s_city_name": "Atiquizaya",
                     "s_city_slug": "atiquizaya"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "ahuachapan-department",
                     "s_city_name": "Concepcion de Ataco",
                     "s_city_slug": "concepcion-de-ataco"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "ahuachapan-department",
                     "s_city_name": "Guaymango",
                     "s_city_slug": "guaymango"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "ahuachapan-department",
                     "s_city_name": "Jujutla",
                     "s_city_slug": "jujutla"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "ahuachapan-department",
                     "s_city_name": "San Francisco Menendez",
                     "s_city_slug": "san-francisco-menendez"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "ahuachapan-department",
                     "s_city_name": "Tacuba",
                     "s_city_slug": "tacuba"
@@ -53,18 +53,18 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "Cabanas Department",
             "s_region_slug": "cabanas-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "cabanas-department",
                     "s_city_name": "Sensuntepeque",
                     "s_city_slug": "sensuntepeque"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "cabanas-department",
                     "s_city_name": "Victoria",
                     "s_city_slug": "victoria"
@@ -72,18 +72,18 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "Chalatenango Department",
             "s_region_slug": "chalatenango-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "chalatenango-department",
                     "s_city_name": "Chalatenango",
                     "s_city_slug": "chalatenango"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "chalatenango-department",
                     "s_city_name": "Nueva Concepcion",
                     "s_city_slug": "nueva-concepcion"
@@ -91,36 +91,36 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "Cuscatlan Department",
             "s_region_slug": "cuscatlan-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "cuscatlan-department",
                     "s_city_name": "Cojutepeque",
                     "s_city_slug": "cojutepeque"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "cuscatlan-department",
                     "s_city_name": "San Martin",
                     "s_city_slug": "san-martin"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "cuscatlan-department",
                     "s_city_name": "Suchitoto",
                     "s_city_slug": "suchitoto"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "cuscatlan-department",
                     "s_city_name": "Tecoluca",
                     "s_city_slug": "tecoluca"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "cuscatlan-department",
                     "s_city_name": "Tenancingo",
                     "s_city_slug": "tenancingo"
@@ -128,60 +128,60 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "La Libertad Department",
             "s_region_slug": "la-libertad-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-libertad-department",
                     "s_city_name": "Antiguo Cuscatlan",
                     "s_city_slug": "antiguo-cuscatlan"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-libertad-department",
                     "s_city_name": "Ciudad Arce",
                     "s_city_slug": "ciudad-arce"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-libertad-department",
                     "s_city_name": "La Libertad",
                     "s_city_slug": "la-libertad"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-libertad-department",
                     "s_city_name": "Nuevo Cuscatlan",
                     "s_city_slug": "nuevo-cuscatlan"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-libertad-department",
                     "s_city_name": "Quezaltepeque",
                     "s_city_slug": "quezaltepeque"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-libertad-department",
                     "s_city_name": "San Juan Opico",
                     "s_city_slug": "san-juan-opico"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-libertad-department",
                     "s_city_name": "San Pablo Tacachico",
                     "s_city_slug": "san-pablo-tacachico"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-libertad-department",
                     "s_city_name": "Santa Tecla",
                     "s_city_slug": "santa-tecla"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-libertad-department",
                     "s_city_name": "Zaragoza",
                     "s_city_slug": "zaragoza"
@@ -189,36 +189,36 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "La Paz Department",
             "s_region_slug": "la-paz-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-paz-department",
                     "s_city_name": "El Rosario",
                     "s_city_slug": "el-rosario"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-paz-department",
                     "s_city_name": "Olocuilta",
                     "s_city_slug": "olocuilta"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-paz-department",
                     "s_city_name": "San Pedro Masahuat",
                     "s_city_slug": "san-pedro-masahuat"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-paz-department",
                     "s_city_name": "Santiago Nonualco",
                     "s_city_slug": "santiago-nonualco"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-paz-department",
                     "s_city_name": "Zacatecoluca",
                     "s_city_slug": "zacatecoluca"
@@ -226,54 +226,54 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "La Union Department",
             "s_region_slug": "la-union-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-union-department",
                     "s_city_name": "Anamoros",
                     "s_city_slug": "anamoros"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-union-department",
                     "s_city_name": "Conchagua",
                     "s_city_slug": "conchagua"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-union-department",
                     "s_city_name": "Intipuca",
                     "s_city_slug": "intipuca"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-union-department",
                     "s_city_name": "La Union",
                     "s_city_slug": "la-union"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-union-department",
                     "s_city_name": "Nueva Esparta",
                     "s_city_slug": "nueva-esparta"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-union-department",
                     "s_city_name": "Pasaquina",
                     "s_city_slug": "pasaquina"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-union-department",
                     "s_city_name": "San Alejo",
                     "s_city_slug": "san-alejo"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "la-union-department",
                     "s_city_name": "Santa Rosa de Lima",
                     "s_city_slug": "santa-rosa-de-lima"
@@ -281,42 +281,42 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "Morazan Department",
             "s_region_slug": "morazan-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "morazan-department",
                     "s_city_name": "Cacaopera",
                     "s_city_slug": "cacaopera"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "morazan-department",
                     "s_city_name": "Corinto",
                     "s_city_slug": "corinto"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "morazan-department",
                     "s_city_name": "Guatajiagua",
                     "s_city_slug": "guatajiagua"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "morazan-department",
                     "s_city_name": "Jocoro",
                     "s_city_slug": "jocoro"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "morazan-department",
                     "s_city_name": "San Francisco",
                     "s_city_slug": "san-francisco"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "morazan-department",
                     "s_city_name": "Sociedad",
                     "s_city_slug": "sociedad"
@@ -324,72 +324,72 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "San Miguel Department",
             "s_region_slug": "san-miguel-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-miguel-department",
                     "s_city_name": "Chapeltique",
                     "s_city_slug": "chapeltique"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-miguel-department",
                     "s_city_name": "Chinameca",
                     "s_city_slug": "chinameca"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-miguel-department",
                     "s_city_name": "Chirilagua",
                     "s_city_slug": "chirilagua"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-miguel-department",
                     "s_city_name": "Ciudad Barrios",
                     "s_city_slug": "ciudad-barrios"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-miguel-department",
                     "s_city_name": "El Transito",
                     "s_city_slug": "el-transito"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-miguel-department",
                     "s_city_name": "Lolotique",
                     "s_city_slug": "lolotique"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-miguel-department",
                     "s_city_name": "Moncagua",
                     "s_city_slug": "moncagua"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-miguel-department",
                     "s_city_name": "Nueva Guadalupe",
                     "s_city_slug": "nueva-guadalupe"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-miguel-department",
                     "s_city_name": "San Miguel",
                     "s_city_slug": "san-miguel"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-miguel-department",
                     "s_city_name": "San Rafael Oriente",
                     "s_city_slug": "san-rafael-oriente"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-miguel-department",
                     "s_city_name": "Sesori",
                     "s_city_slug": "sesori"
@@ -397,102 +397,102 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "San Salvador Department",
             "s_region_slug": "san-salvador-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Aguilares",
                     "s_city_slug": "aguilares"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Apopa",
                     "s_city_slug": "apopa"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Ayutuxtepeque",
                     "s_city_slug": "ayutuxtepeque"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Cuscatancingo",
                     "s_city_slug": "cuscatancingo"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Delgado",
                     "s_city_slug": "delgado"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "El Paisnal",
                     "s_city_slug": "el-paisnal"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Guazapa",
                     "s_city_slug": "guazapa"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Ilopango",
                     "s_city_slug": "ilopango"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Mejicanos",
                     "s_city_slug": "mejicanos"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Panchimalco",
                     "s_city_slug": "panchimalco"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Rosario de Mora",
                     "s_city_slug": "rosario-de-mora"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "San Marcos",
                     "s_city_slug": "san-marcos"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "San Salvador",
                     "s_city_slug": "san-salvador"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Santo Tomas",
                     "s_city_slug": "santo-tomas"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Soyapango",
                     "s_city_slug": "soyapango"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-salvador-department",
                     "s_city_name": "Tonacatepeque",
                     "s_city_slug": "tonacatepeque"
@@ -500,24 +500,24 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "San Vicente Department",
             "s_region_slug": "san-vicente-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-vicente-department",
                     "s_city_name": "Apastepeque",
                     "s_city_slug": "apastepeque"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-vicente-department",
                     "s_city_name": "San Sebastian",
                     "s_city_slug": "san-sebastian"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "san-vicente-department",
                     "s_city_name": "San Vicente",
                     "s_city_slug": "san-vicente"
@@ -525,48 +525,48 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "Santa Ana Department",
             "s_region_slug": "santa-ana-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "santa-ana-department",
                     "s_city_name": "Candelaria de La Frontera",
                     "s_city_slug": "candelaria-de-la-frontera"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "santa-ana-department",
                     "s_city_name": "Chalchuapa",
                     "s_city_slug": "chalchuapa"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "santa-ana-department",
                     "s_city_name": "Coatepeque",
                     "s_city_slug": "coatepeque"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "santa-ana-department",
                     "s_city_name": "El Congo",
                     "s_city_slug": "el-congo"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "santa-ana-department",
                     "s_city_name": "Metapan",
                     "s_city_slug": "metapan"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "santa-ana-department",
                     "s_city_name": "Santa Ana",
                     "s_city_slug": "santa-ana"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "santa-ana-department",
                     "s_city_name": "Texistepeque",
                     "s_city_slug": "texistepeque"
@@ -574,54 +574,54 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "Sonsonate Department",
             "s_region_slug": "sonsonate-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "sonsonate-department",
                     "s_city_name": "Acajutla",
                     "s_city_slug": "acajutla"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "sonsonate-department",
                     "s_city_name": "Armenia",
                     "s_city_slug": "armenia"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "sonsonate-department",
                     "s_city_name": "Izalco",
                     "s_city_slug": "izalco"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "sonsonate-department",
                     "s_city_name": "Juayua",
                     "s_city_slug": "juayua"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "sonsonate-department",
                     "s_city_name": "Nahuizalco",
                     "s_city_slug": "nahuizalco"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "sonsonate-department",
                     "s_city_name": "San Antonio del Monte",
                     "s_city_slug": "san-antonio-del-monte"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "sonsonate-department",
                     "s_city_name": "Sonsonate",
                     "s_city_slug": "sonsonate"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "sonsonate-department",
                     "s_city_name": "Sonzacate",
                     "s_city_slug": "sonzacate"
@@ -629,72 +629,72 @@
             ]
         },
         {
-            "s_country_code": "SV",
+            "s_country_code": "sv",
             "s_region_name": "Usulutan Department",
             "s_region_slug": "usulutan-department",
             "cities": [
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "usulutan-department",
                     "s_city_name": "Berlin",
                     "s_city_slug": "berlin"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "usulutan-department",
                     "s_city_name": "Concepcion Batres",
                     "s_city_slug": "concepcion-batres"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "usulutan-department",
                     "s_city_name": "Jiquilisco",
                     "s_city_slug": "jiquilisco"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "usulutan-department",
                     "s_city_name": "Jucuapa",
                     "s_city_slug": "jucuapa"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "usulutan-department",
                     "s_city_name": "Jucuaran",
                     "s_city_slug": "jucuaran"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "usulutan-department",
                     "s_city_name": "Ozatlan",
                     "s_city_slug": "ozatlan"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "usulutan-department",
                     "s_city_name": "Puerto El Triunfo",
                     "s_city_slug": "puerto-el-triunfo"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "usulutan-department",
                     "s_city_name": "San Agustin",
                     "s_city_slug": "san-agustin"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "usulutan-department",
                     "s_city_name": "Santa Elena",
                     "s_city_slug": "santa-elena"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "usulutan-department",
                     "s_city_name": "Santiago de Maria",
                     "s_city_slug": "santiago-de-maria"
                 },
                 {
-                    "s_country_code": "SV",
+                    "s_country_code": "sv",
                     "s_region_slug": "usulutan-department",
                     "s_city_name": "Usulutan",
                     "s_city_slug": "usulutan"

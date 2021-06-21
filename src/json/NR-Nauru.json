@@ -4,12 +4,12 @@
     "s_country_slug": "nauru",
     "regions": [
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Aiwo District",
             "s_region_slug": "aiwo-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "aiwo-district",
                     "s_city_name": "Arijejen",
                     "s_city_slug": "arijejen"
@@ -17,12 +17,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Anabar District",
             "s_region_slug": "anabar-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "anabar-district",
                     "s_city_name": "Anabar",
                     "s_city_slug": "anabar"
@@ -30,12 +30,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Anetan District",
             "s_region_slug": "anetan-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "anetan-district",
                     "s_city_name": "Anetan District",
                     "s_city_slug": "anetan-district"
@@ -43,12 +43,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Anibare District",
             "s_region_slug": "anibare-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "anibare-district",
                     "s_city_name": "Anibare District",
                     "s_city_slug": "anibare-district"
@@ -56,12 +56,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Baiti District",
             "s_region_slug": "baiti-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "baiti-district",
                     "s_city_name": "Baiti",
                     "s_city_slug": "baiti"
@@ -69,12 +69,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Boe District",
             "s_region_slug": "boe-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "boe-district",
                     "s_city_name": "Boe District",
                     "s_city_slug": "boe-district"
@@ -82,12 +82,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Buada District",
             "s_region_slug": "buada-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "buada-district",
                     "s_city_name": "Buada District",
                     "s_city_slug": "buada-district"
@@ -95,12 +95,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Denigomodu District",
             "s_region_slug": "denigomodu-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "denigomodu-district",
                     "s_city_name": "Denigomodu District",
                     "s_city_slug": "denigomodu-district"
@@ -108,12 +108,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Ewa District",
             "s_region_slug": "ewa-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "ewa-district",
                     "s_city_name": "Ewa District",
                     "s_city_slug": "ewa-district"
@@ -121,12 +121,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Ijuw District",
             "s_region_slug": "ijuw-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "ijuw-district",
                     "s_city_name": "Ijuw",
                     "s_city_slug": "ijuw"
@@ -134,12 +134,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Meneng District",
             "s_region_slug": "meneng-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "meneng-district",
                     "s_city_name": "Menen",
                     "s_city_slug": "menen"
@@ -147,12 +147,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Nibok District",
             "s_region_slug": "nibok-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "nibok-district",
                     "s_city_name": "Nibok District",
                     "s_city_slug": "nibok-district"
@@ -160,12 +160,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Uaboe District",
             "s_region_slug": "uaboe-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "uaboe-district",
                     "s_city_name": "Uaboe",
                     "s_city_slug": "uaboe"
@@ -173,12 +173,12 @@
             ]
         },
         {
-            "s_country_code": "NR",
+            "s_country_code": "nr",
             "s_region_name": "Yaren District",
             "s_region_slug": "yaren-district",
             "cities": [
                 {
-                    "s_country_code": "NR",
+                    "s_country_code": "nr",
                     "s_region_slug": "yaren-district",
                     "s_city_name": "Yaren",
                     "s_city_slug": "yaren"

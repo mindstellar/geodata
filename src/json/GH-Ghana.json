@@ -4,54 +4,54 @@
     "s_country_slug": "ghana",
     "regions": [
         {
-            "s_country_code": "GH",
+            "s_country_code": "gh",
             "s_region_name": "Ashanti Region",
             "s_region_slug": "ashanti-region",
             "cities": [
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "ashanti-region",
                     "s_city_name": "Agogo",
                     "s_city_slug": "agogo"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "ashanti-region",
                     "s_city_name": "Bekwai",
                     "s_city_slug": "bekwai"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "ashanti-region",
                     "s_city_name": "Ejura",
                     "s_city_slug": "ejura"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "ashanti-region",
                     "s_city_name": "Konongo",
                     "s_city_slug": "konongo"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "ashanti-region",
                     "s_city_name": "Kumasi",
                     "s_city_slug": "kumasi"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "ashanti-region",
                     "s_city_name": "Mampong",
                     "s_city_slug": "mampong"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "ashanti-region",
                     "s_city_name": "Obuase",
                     "s_city_slug": "obuase"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "ashanti-region",
                     "s_city_name": "Tafo",
                     "s_city_slug": "tafo"
@@ -59,54 +59,54 @@
             ]
         },
         {
-            "s_country_code": "GH",
+            "s_country_code": "gh",
             "s_region_name": "Brong-Ahafo Region",
             "s_region_slug": "brong-ahafo-region",
             "cities": [
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "brong-ahafo-region",
                     "s_city_name": "Bechem",
                     "s_city_slug": "bechem"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "brong-ahafo-region",
                     "s_city_name": "Berekum",
                     "s_city_slug": "berekum"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "brong-ahafo-region",
                     "s_city_name": "Duayaw-Nkwanta",
                     "s_city_slug": "duayaw-nkwanta"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "brong-ahafo-region",
                     "s_city_name": "Japekrom",
                     "s_city_slug": "japekrom"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "brong-ahafo-region",
                     "s_city_name": "Kintampo",
                     "s_city_slug": "kintampo"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "brong-ahafo-region",
                     "s_city_name": "Sunyani",
                     "s_city_slug": "sunyani"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "brong-ahafo-region",
                     "s_city_name": "Techiman",
                     "s_city_slug": "techiman"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "brong-ahafo-region",
                     "s_city_name": "Wenchi",
                     "s_city_slug": "wenchi"
@@ -114,66 +114,66 @@
             ]
         },
         {
-            "s_country_code": "GH",
+            "s_country_code": "gh",
             "s_region_name": "Central Region",
             "s_region_slug": "central-region",
             "cities": [
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "central-region",
                     "s_city_name": "Apam",
                     "s_city_slug": "apam"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "central-region",
                     "s_city_name": "Cape Coast",
                     "s_city_slug": "cape-coast"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "central-region",
                     "s_city_name": "Dunkwa",
                     "s_city_slug": "dunkwa"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "central-region",
                     "s_city_name": "Elmina",
                     "s_city_slug": "elmina"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "central-region",
                     "s_city_name": "Foso",
                     "s_city_slug": "foso"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "central-region",
                     "s_city_name": "Kasoa",
                     "s_city_slug": "kasoa"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "central-region",
                     "s_city_name": "Mumford",
                     "s_city_slug": "mumford"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "central-region",
                     "s_city_name": "Saltpond",
                     "s_city_slug": "saltpond"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "central-region",
                     "s_city_name": "Swedru",
                     "s_city_slug": "swedru"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "central-region",
                     "s_city_name": "Winneba",
                     "s_city_slug": "winneba"
@@ -181,78 +181,78 @@
             ]
         },
         {
-            "s_country_code": "GH",
+            "s_country_code": "gh",
             "s_region_name": "Eastern Region",
             "s_region_slug": "eastern-region",
             "cities": [
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Aburi",
                     "s_city_slug": "aburi"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Akim Oda",
                     "s_city_slug": "akim-oda"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Akim Swedru",
                     "s_city_slug": "akim-swedru"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Akropong",
                     "s_city_slug": "akropong"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Akwatia",
                     "s_city_slug": "akwatia"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Asamankese",
                     "s_city_slug": "asamankese"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Begoro",
                     "s_city_slug": "begoro"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Kibi",
                     "s_city_slug": "kibi"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Koforidua",
                     "s_city_slug": "koforidua"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Mpraeso",
                     "s_city_slug": "mpraeso"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Nsawam",
                     "s_city_slug": "nsawam"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Suhum",
                     "s_city_slug": "suhum"
@@ -260,54 +260,54 @@
             ]
         },
         {
-            "s_country_code": "GH",
+            "s_country_code": "gh",
             "s_region_name": "Greater Accra Region",
             "s_region_slug": "greater-accra-region",
             "cities": [
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "greater-accra-region",
                     "s_city_name": "Accra",
                     "s_city_slug": "accra"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "greater-accra-region",
                     "s_city_name": "Atsiaman",
                     "s_city_slug": "atsiaman"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "greater-accra-region",
                     "s_city_name": "Dome",
                     "s_city_slug": "dome"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "greater-accra-region",
                     "s_city_name": "Gbawe",
                     "s_city_slug": "gbawe"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "greater-accra-region",
                     "s_city_name": "Medina Estates",
                     "s_city_slug": "medina-estates"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "greater-accra-region",
                     "s_city_name": "Nungua",
                     "s_city_slug": "nungua"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "greater-accra-region",
                     "s_city_name": "Tema",
                     "s_city_slug": "tema"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "greater-accra-region",
                     "s_city_name": "Teshi Old Town",
                     "s_city_slug": "teshi-old-town"
@@ -315,36 +315,36 @@
             ]
         },
         {
-            "s_country_code": "GH",
+            "s_country_code": "gh",
             "s_region_name": "Northern Region",
             "s_region_slug": "northern-region",
             "cities": [
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "northern-region",
                     "s_city_name": "Kpandae",
                     "s_city_slug": "kpandae"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "northern-region",
                     "s_city_name": "Salaga",
                     "s_city_slug": "salaga"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "northern-region",
                     "s_city_name": "Savelugu",
                     "s_city_slug": "savelugu"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "northern-region",
                     "s_city_name": "Tamale",
                     "s_city_slug": "tamale"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "northern-region",
                     "s_city_name": "Yendi",
                     "s_city_slug": "yendi"
@@ -352,24 +352,24 @@
             ]
         },
         {
-            "s_country_code": "GH",
+            "s_country_code": "gh",
             "s_region_name": "Upper East Region",
             "s_region_slug": "upper-east-region",
             "cities": [
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "upper-east-region",
                     "s_city_name": "Bawku",
                     "s_city_slug": "bawku"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "upper-east-region",
                     "s_city_name": "Bolgatanga",
                     "s_city_slug": "bolgatanga"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "upper-east-region",
                     "s_city_name": "Navrongo",
                     "s_city_slug": "navrongo"
@@ -377,12 +377,12 @@
             ]
         },
         {
-            "s_country_code": "GH",
+            "s_country_code": "gh",
             "s_region_name": "Upper West Region",
             "s_region_slug": "upper-west-region",
             "cities": [
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "upper-west-region",
                     "s_city_name": "Wa",
                     "s_city_slug": "wa"
@@ -390,48 +390,48 @@
             ]
         },
         {
-            "s_country_code": "GH",
+            "s_country_code": "gh",
             "s_region_name": "Volta Region",
             "s_region_slug": "volta-region",
             "cities": [
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "volta-region",
                     "s_city_name": "Aflao",
                     "s_city_slug": "aflao"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "volta-region",
                     "s_city_name": "Anloga",
                     "s_city_slug": "anloga"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "volta-region",
                     "s_city_name": "Ho",
                     "s_city_slug": "ho"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "volta-region",
                     "s_city_name": "Hohoe",
                     "s_city_slug": "hohoe"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "volta-region",
                     "s_city_name": "Keta",
                     "s_city_slug": "keta"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "volta-region",
                     "s_city_name": "Kete Krachi",
                     "s_city_slug": "kete-krachi"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "volta-region",
                     "s_city_name": "Kpandu",
                     "s_city_slug": "kpandu"
@@ -439,54 +439,54 @@
             ]
         },
         {
-            "s_country_code": "GH",
+            "s_country_code": "gh",
             "s_region_name": "Western Region",
             "s_region_slug": "western-region",
             "cities": [
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "western-region",
                     "s_city_name": "Aboso",
                     "s_city_slug": "aboso"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "western-region",
                     "s_city_name": "Axim",
                     "s_city_slug": "axim"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "western-region",
                     "s_city_name": "Bibiani",
                     "s_city_slug": "bibiani"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "western-region",
                     "s_city_name": "Prestea",
                     "s_city_slug": "prestea"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "western-region",
                     "s_city_name": "Sekondi-Takoradi",
                     "s_city_slug": "sekondi-takoradi"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "western-region",
                     "s_city_name": "Shama Junction",
                     "s_city_slug": "shama-junction"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "western-region",
                     "s_city_name": "Takoradi",
                     "s_city_slug": "takoradi"
                 },
                 {
-                    "s_country_code": "GH",
+                    "s_country_code": "gh",
                     "s_region_slug": "western-region",
                     "s_city_name": "Tarkwa",
                     "s_city_slug": "tarkwa"

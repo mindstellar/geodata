@@ -30,14 +30,14 @@ def convertCsvToJson(csvFilePath):
 
         regionDict = {}
         j = groupedData.get_group(key).reset_index(drop=True)
-        regionDict['s_country_code'] = j.at[0, 's_country_code_iso2']
+        regionDict['s_country_code'] = j.at[0, 's_country_code_iso2'].lower()
         regionDict['s_region_name'] = j.at[0, 's_region_name']
         regionDict['s_region_slug'] = j.at[0, 's_region_slug']
 
         citiesList = []
         for i in j.index:
             cityDict = {}
-            cityDict['s_country_code'] = j.at[i, 's_country_code_iso2']
+            cityDict['s_country_code'] = j.at[i, 's_country_code_iso2'].lower()
             cityDict['s_region_slug'] = j.at[i, 's_region_slug']
             cityDict['s_city_name'] = j.at[i, 's_city_name']
             cityDict['s_city_slug'] = j.at[i, 's_city_slug']

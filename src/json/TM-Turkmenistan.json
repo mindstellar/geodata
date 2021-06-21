@@ -4,42 +4,42 @@
     "s_country_slug": "turkmenistan",
     "regions": [
         {
-            "s_country_code": "TM",
+            "s_country_code": "tm",
             "s_region_name": "Ahal Region",
             "s_region_slug": "ahal-region",
             "cities": [
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "ahal-region",
                     "s_city_name": "Abadan",
                     "s_city_slug": "abadan"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "ahal-region",
                     "s_city_name": "Annau",
                     "s_city_slug": "annau"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "ahal-region",
                     "s_city_name": "Arcabil",
                     "s_city_slug": "arcabil"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "ahal-region",
                     "s_city_name": "Baharly",
                     "s_city_slug": "baharly"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "ahal-region",
                     "s_city_name": "Kaka",
                     "s_city_slug": "kaka"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "ahal-region",
                     "s_city_name": "Tejen",
                     "s_city_slug": "tejen"
@@ -47,12 +47,12 @@
             ]
         },
         {
-            "s_country_code": "TM",
+            "s_country_code": "tm",
             "s_region_name": "Ashgabat",
             "s_region_slug": "ashgabat",
             "cities": [
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "ashgabat",
                     "s_city_name": "Ashgabat",
                     "s_city_slug": "ashgabat"
@@ -60,42 +60,42 @@
             ]
         },
         {
-            "s_country_code": "TM",
+            "s_country_code": "tm",
             "s_region_name": "Balkan Region",
             "s_region_slug": "balkan-region",
             "cities": [
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "balkan-region",
                     "s_city_name": "Balkanabat",
                     "s_city_slug": "balkanabat"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "balkan-region",
                     "s_city_name": "Bereket",
                     "s_city_slug": "bereket"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "balkan-region",
                     "s_city_name": "Gumdag",
                     "s_city_slug": "gumdag"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "balkan-region",
                     "s_city_name": "Magtymguly",
                     "s_city_slug": "magtymguly"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "balkan-region",
                     "s_city_name": "Serdar",
                     "s_city_slug": "serdar"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "balkan-region",
                     "s_city_name": "Turkmenbasy",
                     "s_city_slug": "turkmenbasy"
@@ -103,42 +103,42 @@
             ]
         },
         {
-            "s_country_code": "TM",
+            "s_country_code": "tm",
             "s_region_name": "Dasoguz Region",
             "s_region_slug": "dasoguz-region",
             "cities": [
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "dasoguz-region",
                     "s_city_name": "Akdepe",
                     "s_city_slug": "akdepe"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "dasoguz-region",
                     "s_city_name": "Boldumsaz",
                     "s_city_slug": "boldumsaz"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "dasoguz-region",
                     "s_city_name": "Dasoguz",
                     "s_city_slug": "dasoguz"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "dasoguz-region",
                     "s_city_name": "Koneurgench",
                     "s_city_slug": "koneurgench"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "dasoguz-region",
                     "s_city_name": "Tagta",
                     "s_city_slug": "tagta"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "dasoguz-region",
                     "s_city_name": "Yylanly",
                     "s_city_slug": "yylanly"
@@ -146,42 +146,42 @@
             ]
         },
         {
-            "s_country_code": "TM",
+            "s_country_code": "tm",
             "s_region_name": "Lebap Region",
             "s_region_slug": "lebap-region",
             "cities": [
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "lebap-region",
                     "s_city_name": "Atamyrat",
                     "s_city_slug": "atamyrat"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "lebap-region",
                     "s_city_name": "Farap",
                     "s_city_slug": "farap"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "lebap-region",
                     "s_city_name": "Gazojak",
                     "s_city_slug": "gazojak"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "lebap-region",
                     "s_city_name": "Gowurdak",
                     "s_city_slug": "gowurdak"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "lebap-region",
                     "s_city_name": "Sayat",
                     "s_city_slug": "sayat"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "lebap-region",
                     "s_city_name": "Turkmenabat",
                     "s_city_slug": "turkmenabat"
@@ -189,36 +189,36 @@
             ]
         },
         {
-            "s_country_code": "TM",
+            "s_country_code": "tm",
             "s_region_name": "Mary Region",
             "s_region_slug": "mary-region",
             "cities": [
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "mary-region",
                     "s_city_name": "Bayramaly",
                     "s_city_slug": "bayramaly"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "mary-region",
                     "s_city_name": "Mary",
                     "s_city_slug": "mary"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "mary-region",
                     "s_city_name": "Serhetabat",
                     "s_city_slug": "serhetabat"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "mary-region",
                     "s_city_name": "Seydi",
                     "s_city_slug": "seydi"
                 },
                 {
-                    "s_country_code": "TM",
+                    "s_country_code": "tm",
                     "s_region_slug": "mary-region",
                     "s_city_name": "Yoloten",
                     "s_city_slug": "yoloten"

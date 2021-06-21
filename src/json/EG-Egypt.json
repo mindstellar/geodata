@@ -4,12 +4,12 @@
     "s_country_slug": "egypt",
     "regions": [
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Alexandria Governorate",
             "s_region_slug": "alexandria-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "alexandria-governorate",
                     "s_city_name": "Alexandria",
                     "s_city_slug": "alexandria"
@@ -17,30 +17,30 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Aswan Governorate",
             "s_region_slug": "aswan-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "aswan-governorate",
                     "s_city_name": "Abu Simbel",
                     "s_city_slug": "abu-simbel"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "aswan-governorate",
                     "s_city_name": "Aswan",
                     "s_city_slug": "aswan"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "aswan-governorate",
                     "s_city_name": "Idfu",
                     "s_city_slug": "idfu"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "aswan-governorate",
                     "s_city_name": "Kawm Umbu",
                     "s_city_slug": "kawm-umbu"
@@ -48,48 +48,48 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Asyut Governorate",
             "s_region_slug": "asyut-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "asyut-governorate",
                     "s_city_name": "Abnub",
                     "s_city_slug": "abnub"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "asyut-governorate",
                     "s_city_name": "Abu Tij",
                     "s_city_slug": "abu-tij"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "asyut-governorate",
                     "s_city_name": "Al Badari",
                     "s_city_slug": "al-badari"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "asyut-governorate",
                     "s_city_name": "Al Qusiyah",
                     "s_city_slug": "al-qusiyah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "asyut-governorate",
                     "s_city_name": "Asyut",
                     "s_city_slug": "asyut"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "asyut-governorate",
                     "s_city_name": "Dayrut",
                     "s_city_slug": "dayrut"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "asyut-governorate",
                     "s_city_name": "Manfalut",
                     "s_city_slug": "manfalut"
@@ -97,54 +97,54 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Beheira Governorate",
             "s_region_slug": "beheira-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "beheira-governorate",
                     "s_city_name": "Abu al Matamir",
                     "s_city_slug": "abu-al-matamir"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "beheira-governorate",
                     "s_city_name": "Ad Dilinjat",
                     "s_city_slug": "ad-dilinjat"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "beheira-governorate",
                     "s_city_name": "Damanhur",
                     "s_city_slug": "damanhur"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "beheira-governorate",
                     "s_city_name": "Hawsh Isa",
                     "s_city_slug": "hawsh-isa"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "beheira-governorate",
                     "s_city_name": "Idku",
                     "s_city_slug": "idku"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "beheira-governorate",
                     "s_city_name": "Kafr ad Dawwar",
                     "s_city_slug": "kafr-ad-dawwar"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "beheira-governorate",
                     "s_city_name": "Kawm Hamadah",
                     "s_city_slug": "kawm-hamadah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "beheira-governorate",
                     "s_city_name": "Rosetta",
                     "s_city_slug": "rosetta"
@@ -152,30 +152,30 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Beni Suef Governorate",
             "s_region_slug": "beni-suef-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "beni-suef-governorate",
                     "s_city_name": "Al Fashn",
                     "s_city_slug": "al-fashn"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "beni-suef-governorate",
                     "s_city_name": "Bani Suwayf",
                     "s_city_slug": "bani-suwayf"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "beni-suef-governorate",
                     "s_city_name": "Bush",
                     "s_city_slug": "bush"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "beni-suef-governorate",
                     "s_city_name": "Sumusta as Sultani",
                     "s_city_slug": "sumusta-as-sultani"
@@ -183,24 +183,24 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Cairo Governorate",
             "s_region_slug": "cairo-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "cairo-governorate",
                     "s_city_name": "Cairo",
                     "s_city_slug": "cairo"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "cairo-governorate",
                     "s_city_name": "Halwan",
                     "s_city_slug": "halwan"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "cairo-governorate",
                     "s_city_name": "New Cairo",
                     "s_city_slug": "new-cairo"
@@ -208,72 +208,72 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Dakahlia Governorate",
             "s_region_slug": "dakahlia-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "dakahlia-governorate",
                     "s_city_name": "Izbat al Burj",
                     "s_city_slug": "izbat-al-burj"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "dakahlia-governorate",
                     "s_city_name": "Aja",
                     "s_city_slug": "aja"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "dakahlia-governorate",
                     "s_city_name": "Al Jammaliyah",
                     "s_city_slug": "al-jammaliyah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "dakahlia-governorate",
                     "s_city_name": "Al Mansurah",
                     "s_city_slug": "al-mansurah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "dakahlia-governorate",
                     "s_city_name": "Al Manzalah",
                     "s_city_slug": "al-manzalah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "dakahlia-governorate",
                     "s_city_name": "Al Matariyah",
                     "s_city_slug": "al-matariyah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "dakahlia-governorate",
                     "s_city_name": "Bilqas",
                     "s_city_slug": "bilqas"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "dakahlia-governorate",
                     "s_city_name": "Dikirnis",
                     "s_city_slug": "dikirnis"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "dakahlia-governorate",
                     "s_city_name": "Minyat an Nasr",
                     "s_city_slug": "minyat-an-nasr"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "dakahlia-governorate",
                     "s_city_name": "Shirbin",
                     "s_city_slug": "shirbin"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "dakahlia-governorate",
                     "s_city_name": "Talkha",
                     "s_city_slug": "talkha"
@@ -281,24 +281,24 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Damietta Governorate",
             "s_region_slug": "damietta-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "damietta-governorate",
                     "s_city_name": "Az Zarqa",
                     "s_city_slug": "az-zarqa"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "damietta-governorate",
                     "s_city_name": "Damietta",
                     "s_city_slug": "damietta"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "damietta-governorate",
                     "s_city_name": "Faraskur",
                     "s_city_slug": "faraskur"
@@ -306,36 +306,36 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Faiyum Governorate",
             "s_region_slug": "faiyum-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "faiyum-governorate",
                     "s_city_name": "Al Fayyum",
                     "s_city_slug": "al-fayyum"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "faiyum-governorate",
                     "s_city_name": "Al Wasitah",
                     "s_city_slug": "al-wasitah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "faiyum-governorate",
                     "s_city_name": "Ibshaway",
                     "s_city_slug": "ibshaway"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "faiyum-governorate",
                     "s_city_name": "Itsa",
                     "s_city_slug": "itsa"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "faiyum-governorate",
                     "s_city_name": "Tamiyah",
                     "s_city_slug": "tamiyah"
@@ -343,48 +343,48 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Gharbia Governorate",
             "s_region_slug": "gharbia-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "gharbia-governorate",
                     "s_city_name": "Al Mahallah al Kubra",
                     "s_city_slug": "al-mahallah-al-kubra"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "gharbia-governorate",
                     "s_city_name": "Basyun",
                     "s_city_slug": "basyun"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "gharbia-governorate",
                     "s_city_name": "Kafr az Zayyat",
                     "s_city_slug": "kafr-az-zayyat"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "gharbia-governorate",
                     "s_city_name": "Qutur",
                     "s_city_slug": "qutur"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "gharbia-governorate",
                     "s_city_name": "Samannud",
                     "s_city_slug": "samannud"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "gharbia-governorate",
                     "s_city_name": "Tanda",
                     "s_city_slug": "tanda"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "gharbia-governorate",
                     "s_city_name": "Zefta",
                     "s_city_slug": "zefta"
@@ -392,48 +392,48 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Giza Governorate",
             "s_region_slug": "giza-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "giza-governorate",
                     "s_city_name": "Al Ayyat",
                     "s_city_slug": "al-ayyat"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "giza-governorate",
                     "s_city_name": "Al Bawiti",
                     "s_city_slug": "al-bawiti"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "giza-governorate",
                     "s_city_name": "Al Hawamidiyah",
                     "s_city_slug": "al-hawamidiyah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "giza-governorate",
                     "s_city_name": "As Saff",
                     "s_city_slug": "as-saff"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "giza-governorate",
                     "s_city_name": "Awsim",
                     "s_city_slug": "awsim"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "giza-governorate",
                     "s_city_name": "Giza",
                     "s_city_slug": "giza"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "giza-governorate",
                     "s_city_name": "Madinat Sittah Uktubar",
                     "s_city_slug": "madinat-sittah-uktubar"
@@ -441,12 +441,12 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Ismailia Governorate",
             "s_region_slug": "ismailia-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "ismailia-governorate",
                     "s_city_name": "Ismailia",
                     "s_city_slug": "ismailia"
@@ -454,48 +454,48 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Kafr el-Sheikh Governorate",
             "s_region_slug": "kafr-el-sheikh-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "kafr-el-sheikh-governorate",
                     "s_city_name": "Al Hamul",
                     "s_city_slug": "al-hamul"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "kafr-el-sheikh-governorate",
                     "s_city_name": "Disuq",
                     "s_city_slug": "disuq"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "kafr-el-sheikh-governorate",
                     "s_city_name": "Fuwwah",
                     "s_city_slug": "fuwwah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "kafr-el-sheikh-governorate",
                     "s_city_name": "Kafr ash Shaykh",
                     "s_city_slug": "kafr-ash-shaykh"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "kafr-el-sheikh-governorate",
                     "s_city_name": "Markaz Disuq",
                     "s_city_slug": "markaz-disuq"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "kafr-el-sheikh-governorate",
                     "s_city_name": "Munshat Ali Agha",
                     "s_city_slug": "munshat-ali-agha"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "kafr-el-sheikh-governorate",
                     "s_city_name": "Sidi Salim",
                     "s_city_slug": "sidi-salim"
@@ -503,18 +503,18 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Luxor Governorate",
             "s_region_slug": "luxor-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "luxor-governorate",
                     "s_city_name": "Luxor",
                     "s_city_slug": "luxor"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "luxor-governorate",
                     "s_city_name": "Markaz al Uqsur",
                     "s_city_slug": "markaz-al-uqsur"
@@ -522,24 +522,24 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Matrouh Governorate",
             "s_region_slug": "matrouh-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "matrouh-governorate",
                     "s_city_name": "Al Alamayn",
                     "s_city_slug": "al-alamayn"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "matrouh-governorate",
                     "s_city_name": "Mersa Matruh",
                     "s_city_slug": "mersa-matruh"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "matrouh-governorate",
                     "s_city_name": "Siwa Oasis",
                     "s_city_slug": "siwa-oasis"
@@ -547,48 +547,48 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Minya Governorate",
             "s_region_slug": "minya-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "minya-governorate",
                     "s_city_name": "Abu Qurqas",
                     "s_city_slug": "abu-qurqas"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "minya-governorate",
                     "s_city_name": "Al Minya",
                     "s_city_slug": "al-minya"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "minya-governorate",
                     "s_city_name": "Bani Mazar",
                     "s_city_slug": "bani-mazar"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "minya-governorate",
                     "s_city_name": "Dayr Mawas",
                     "s_city_slug": "dayr-mawas"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "minya-governorate",
                     "s_city_name": "Mallawi",
                     "s_city_slug": "mallawi"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "minya-governorate",
                     "s_city_name": "Matay",
                     "s_city_slug": "matay"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "minya-governorate",
                     "s_city_name": "Samalut",
                     "s_city_slug": "samalut"
@@ -596,48 +596,48 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Monufia Governorate",
             "s_region_slug": "monufia-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "monufia-governorate",
                     "s_city_name": "Al Bajur",
                     "s_city_slug": "al-bajur"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "monufia-governorate",
                     "s_city_name": "Ash Shuhada",
                     "s_city_slug": "ash-shuhada"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "monufia-governorate",
                     "s_city_name": "Ashmun",
                     "s_city_slug": "ashmun"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "monufia-governorate",
                     "s_city_name": "Munuf",
                     "s_city_slug": "munuf"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "monufia-governorate",
                     "s_city_name": "Quwaysina",
                     "s_city_slug": "quwaysina"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "monufia-governorate",
                     "s_city_name": "Shibin al Kawm",
                     "s_city_slug": "shibin-al-kawm"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "monufia-governorate",
                     "s_city_name": "Tala",
                     "s_city_slug": "tala"
@@ -645,18 +645,18 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "New Valley Governorate",
             "s_region_slug": "new-valley-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "new-valley-governorate",
                     "s_city_name": "Al Kharijah",
                     "s_city_slug": "al-kharijah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "new-valley-governorate",
                     "s_city_name": "Qasr al Farafirah",
                     "s_city_slug": "qasr-al-farafirah"
@@ -664,12 +664,12 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "North Sinai Governorate",
             "s_region_slug": "north-sinai-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "north-sinai-governorate",
                     "s_city_name": "Arish",
                     "s_city_slug": "arish"
@@ -677,12 +677,12 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Port Said Governorate",
             "s_region_slug": "port-said-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "port-said-governorate",
                     "s_city_name": "Port Said",
                     "s_city_slug": "port-said"
@@ -690,42 +690,42 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Qalyubia Governorate",
             "s_region_slug": "qalyubia-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "qalyubia-governorate",
                     "s_city_name": "Al Khankah",
                     "s_city_slug": "al-khankah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "qalyubia-governorate",
                     "s_city_name": "Al Qanatir al Khayriyah",
                     "s_city_slug": "al-qanatir-al-khayriyah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "qalyubia-governorate",
                     "s_city_name": "Banha",
                     "s_city_slug": "banha"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "qalyubia-governorate",
                     "s_city_name": "Qalyub",
                     "s_city_slug": "qalyub"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "qalyubia-governorate",
                     "s_city_name": "Shibin al Qanatir",
                     "s_city_slug": "shibin-al-qanatir"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "qalyubia-governorate",
                     "s_city_name": "Toukh",
                     "s_city_slug": "toukh"
@@ -733,42 +733,42 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Qena Governorate",
             "s_region_slug": "qena-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "qena-governorate",
                     "s_city_name": "Dishna",
                     "s_city_slug": "dishna"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "qena-governorate",
                     "s_city_name": "Farshut",
                     "s_city_slug": "farshut"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "qena-governorate",
                     "s_city_name": "Isna",
                     "s_city_slug": "isna"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "qena-governorate",
                     "s_city_name": "Kousa",
                     "s_city_slug": "kousa"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "qena-governorate",
                     "s_city_name": "Naja' Hammadi",
                     "s_city_slug": "naja-hammadi"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "qena-governorate",
                     "s_city_name": "Qina",
                     "s_city_slug": "qina"
@@ -776,48 +776,48 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Red Sea Governorate",
             "s_region_slug": "red-sea-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "red-sea-governorate",
                     "s_city_name": "Al Qusayr",
                     "s_city_slug": "al-qusayr"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "red-sea-governorate",
                     "s_city_name": "El Gouna",
                     "s_city_slug": "el-gouna"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "red-sea-governorate",
                     "s_city_name": "Hurghada",
                     "s_city_slug": "hurghada"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "red-sea-governorate",
                     "s_city_name": "Makadi Bay",
                     "s_city_slug": "makadi-bay"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "red-sea-governorate",
                     "s_city_name": "Marsa Alam",
                     "s_city_slug": "marsa-alam"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "red-sea-governorate",
                     "s_city_name": "Ras Gharib",
                     "s_city_slug": "ras-gharib"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "red-sea-governorate",
                     "s_city_name": "Safaga",
                     "s_city_slug": "safaga"
@@ -825,60 +825,60 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Sohag Governorate",
             "s_region_slug": "sohag-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "sohag-governorate",
                     "s_city_name": "Akhmim",
                     "s_city_slug": "akhmim"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "sohag-governorate",
                     "s_city_name": "Al Balyana",
                     "s_city_slug": "al-balyana"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "sohag-governorate",
                     "s_city_name": "Al Manshah",
                     "s_city_slug": "al-manshah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "sohag-governorate",
                     "s_city_name": "Jirja",
                     "s_city_slug": "jirja"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "sohag-governorate",
                     "s_city_name": "Juhaynah",
                     "s_city_slug": "juhaynah"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "sohag-governorate",
                     "s_city_name": "Markaz Jirja",
                     "s_city_slug": "markaz-jirja"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "sohag-governorate",
                     "s_city_name": "Markaz Suhaj",
                     "s_city_slug": "markaz-suhaj"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "sohag-governorate",
                     "s_city_name": "Sohag",
                     "s_city_slug": "sohag"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "sohag-governorate",
                     "s_city_name": "Tahta",
                     "s_city_slug": "tahta"
@@ -886,36 +886,36 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "South Sinai Governorate",
             "s_region_slug": "south-sinai-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "south-sinai-governorate",
                     "s_city_name": "Dahab",
                     "s_city_slug": "dahab"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "south-sinai-governorate",
                     "s_city_name": "El-Tor",
                     "s_city_slug": "el-tor"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "south-sinai-governorate",
                     "s_city_name": "Nuwaybia",
                     "s_city_slug": "nuwaybia"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "south-sinai-governorate",
                     "s_city_name": "Saint Catherine",
                     "s_city_slug": "saint-catherine"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "south-sinai-governorate",
                     "s_city_name": "Sharm el-Sheikh",
                     "s_city_slug": "sharm-el-sheikh"
@@ -923,18 +923,18 @@
             ]
         },
         {
-            "s_country_code": "EG",
+            "s_country_code": "eg",
             "s_region_name": "Suez Governorate",
             "s_region_slug": "suez-governorate",
             "cities": [
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "suez-governorate",
                     "s_city_name": "Ain Sukhna",
                     "s_city_slug": "ain-sukhna"
                 },
                 {
-                    "s_country_code": "EG",
+                    "s_country_code": "eg",
                     "s_region_slug": "suez-governorate",
                     "s_city_name": "Suez",
                     "s_city_slug": "suez"

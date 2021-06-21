@@ -4,30 +4,30 @@
     "s_country_slug": "mozambique",
     "regions": [
         {
-            "s_country_code": "MZ",
+            "s_country_code": "mz",
             "s_region_name": "Cabo Delgado Province",
             "s_region_slug": "cabo-delgado-province",
             "cities": [
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "cabo-delgado-province",
                     "s_city_name": "Chiure",
                     "s_city_slug": "chiure"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "cabo-delgado-province",
                     "s_city_name": "Mocimboa",
                     "s_city_slug": "mocimboa"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "cabo-delgado-province",
                     "s_city_name": "Montepuez",
                     "s_city_slug": "montepuez"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "cabo-delgado-province",
                     "s_city_name": "Pemba",
                     "s_city_slug": "pemba"
@@ -35,30 +35,30 @@
             ]
         },
         {
-            "s_country_code": "MZ",
+            "s_country_code": "mz",
             "s_region_name": "Gaza Province",
             "s_region_slug": "gaza-province",
             "cities": [
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "gaza-province",
                     "s_city_name": "Chibuto",
                     "s_city_slug": "chibuto"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "gaza-province",
                     "s_city_name": "Chokwe",
                     "s_city_slug": "chokwe"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "gaza-province",
                     "s_city_name": "Macia",
                     "s_city_slug": "macia"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "gaza-province",
                     "s_city_name": "Xai-Xai",
                     "s_city_slug": "xai-xai"
@@ -66,18 +66,18 @@
             ]
         },
         {
-            "s_country_code": "MZ",
+            "s_country_code": "mz",
             "s_region_name": "Inhambane Province",
             "s_region_slug": "inhambane-province",
             "cities": [
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "inhambane-province",
                     "s_city_name": "Inhambane",
                     "s_city_slug": "inhambane"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "inhambane-province",
                     "s_city_name": "Maxixe",
                     "s_city_slug": "maxixe"
@@ -85,12 +85,12 @@
             ]
         },
         {
-            "s_country_code": "MZ",
+            "s_country_code": "mz",
             "s_region_name": "Manica Province",
             "s_region_slug": "manica-province",
             "cities": [
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "manica-province",
                     "s_city_name": "Chimoio",
                     "s_city_slug": "chimoio"
@@ -98,18 +98,18 @@
             ]
         },
         {
-            "s_country_code": "MZ",
+            "s_country_code": "mz",
             "s_region_name": "Maputo",
             "s_region_slug": "maputo",
             "cities": [
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "maputo",
                     "s_city_name": "KaTembe",
                     "s_city_slug": "katembe"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "maputo",
                     "s_city_name": "Maputo",
                     "s_city_slug": "maputo"
@@ -117,66 +117,66 @@
             ]
         },
         {
-            "s_country_code": "MZ",
+            "s_country_code": "mz",
             "s_region_name": "Maputo Province",
             "s_region_slug": "maputo-province",
             "cities": [
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "maputo-province",
                     "s_city_name": "Boane District",
                     "s_city_slug": "boane-district"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "maputo-province",
                     "s_city_name": "Concelho de Matola",
                     "s_city_slug": "concelho-de-matola"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "maputo-province",
                     "s_city_name": "Magude District",
                     "s_city_slug": "magude-district"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "maputo-province",
                     "s_city_name": "Manhica",
                     "s_city_slug": "manhica"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "maputo-province",
                     "s_city_name": "Marracuene District",
                     "s_city_slug": "marracuene-district"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "maputo-province",
                     "s_city_name": "Matola",
                     "s_city_slug": "matola"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "maputo-province",
                     "s_city_name": "Matutiune District",
                     "s_city_slug": "matutiune-district"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "maputo-province",
                     "s_city_name": "Moamba District",
                     "s_city_slug": "moamba-district"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "maputo-province",
                     "s_city_name": "Namaacha District",
                     "s_city_slug": "namaacha-district"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "maputo-province",
                     "s_city_name": "Ressano Garcia",
                     "s_city_slug": "ressano-garcia"
@@ -184,36 +184,36 @@
             ]
         },
         {
-            "s_country_code": "MZ",
+            "s_country_code": "mz",
             "s_region_name": "Nampula Province",
             "s_region_slug": "nampula-province",
             "cities": [
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "nampula-province",
                     "s_city_name": "Antonio Enes",
                     "s_city_slug": "antonio-enes"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "nampula-province",
                     "s_city_name": "Ilha de Mocambique",
                     "s_city_slug": "ilha-de-mocambique"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "nampula-province",
                     "s_city_name": "Mutuali",
                     "s_city_slug": "mutuali"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "nampula-province",
                     "s_city_name": "Nacala",
                     "s_city_slug": "nacala"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "nampula-province",
                     "s_city_name": "Nampula",
                     "s_city_slug": "nampula"
@@ -221,24 +221,24 @@
             ]
         },
         {
-            "s_country_code": "MZ",
+            "s_country_code": "mz",
             "s_region_name": "Niassa Province",
             "s_region_slug": "niassa-province",
             "cities": [
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "niassa-province",
                     "s_city_name": "Cuamba",
                     "s_city_slug": "cuamba"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "niassa-province",
                     "s_city_name": "Lichinga",
                     "s_city_slug": "lichinga"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "niassa-province",
                     "s_city_name": "Mandimba",
                     "s_city_slug": "mandimba"
@@ -246,24 +246,24 @@
             ]
         },
         {
-            "s_country_code": "MZ",
+            "s_country_code": "mz",
             "s_region_name": "Sofala Province",
             "s_region_slug": "sofala-province",
             "cities": [
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "sofala-province",
                     "s_city_name": "Beira",
                     "s_city_slug": "beira"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "sofala-province",
                     "s_city_name": "Dondo",
                     "s_city_slug": "dondo"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "sofala-province",
                     "s_city_name": "Nhamatanda District",
                     "s_city_slug": "nhamatanda-district"
@@ -271,12 +271,12 @@
             ]
         },
         {
-            "s_country_code": "MZ",
+            "s_country_code": "mz",
             "s_region_name": "Tete Province",
             "s_region_slug": "tete-province",
             "cities": [
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "tete-province",
                     "s_city_name": "Tete",
                     "s_city_slug": "tete"
@@ -284,24 +284,24 @@
             ]
         },
         {
-            "s_country_code": "MZ",
+            "s_country_code": "mz",
             "s_region_name": "Zambezia Province",
             "s_region_slug": "zambezia-province",
             "cities": [
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "zambezia-province",
                     "s_city_name": "Alto Molocue",
                     "s_city_slug": "alto-molocue"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "zambezia-province",
                     "s_city_name": "Chinde",
                     "s_city_slug": "chinde"
                 },
                 {
-                    "s_country_code": "MZ",
+                    "s_country_code": "mz",
                     "s_region_slug": "zambezia-province",
                     "s_city_name": "Quelimane",
                     "s_city_slug": "quelimane"

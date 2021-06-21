@@ -4,180 +4,180 @@
     "s_country_slug": "bulgaria",
     "regions": [
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Blagoevgrad Province",
             "s_region_slug": "blagoevgrad-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Bansko",
                     "s_city_slug": "bansko"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Belitsa",
                     "s_city_slug": "belitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Blagoevgrad",
                     "s_city_slug": "blagoevgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Garmen",
                     "s_city_slug": "garmen"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Gotse Delchev",
                     "s_city_slug": "gotse-delchev"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Hadzhidimovo",
                     "s_city_slug": "hadzhidimovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Kolarovo",
                     "s_city_slug": "kolarovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Kresna",
                     "s_city_slug": "kresna"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Bansko",
                     "s_city_slug": "obshtina-bansko"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Belitsa",
                     "s_city_slug": "obshtina-belitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Blagoevgrad",
                     "s_city_slug": "obshtina-blagoevgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Garmen",
                     "s_city_slug": "obshtina-garmen"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Gotse Delchev",
                     "s_city_slug": "obshtina-gotse-delchev"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Kresna",
                     "s_city_slug": "obshtina-kresna"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Petrich",
                     "s_city_slug": "obshtina-petrich"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Razlog",
                     "s_city_slug": "obshtina-razlog"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Sandanski",
                     "s_city_slug": "obshtina-sandanski"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Satovcha",
                     "s_city_slug": "obshtina-satovcha"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Simitli",
                     "s_city_slug": "obshtina-simitli"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Strumyani",
                     "s_city_slug": "obshtina-strumyani"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Obshtina Yakoruda",
                     "s_city_slug": "obshtina-yakoruda"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Petrich",
                     "s_city_slug": "petrich"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Razlog",
                     "s_city_slug": "razlog"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Sandanski",
                     "s_city_slug": "sandanski"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Satovcha",
                     "s_city_slug": "satovcha"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Simitli",
                     "s_city_slug": "simitli"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Stara Kresna",
                     "s_city_slug": "stara-kresna"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Strumyani",
                     "s_city_slug": "strumyani"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "blagoevgrad-province",
                     "s_city_name": "Yakoruda",
                     "s_city_slug": "yakoruda"
@@ -185,198 +185,198 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Burgas Province",
             "s_region_slug": "burgas-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Aheloy",
                     "s_city_slug": "aheloy"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Ahtopol",
                     "s_city_slug": "ahtopol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Aytos",
                     "s_city_slug": "aytos"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Bata",
                     "s_city_slug": "bata"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Burgas",
                     "s_city_slug": "burgas"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Chernomorets",
                     "s_city_slug": "chernomorets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Kameno",
                     "s_city_slug": "kameno"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Karnobat",
                     "s_city_slug": "karnobat"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Kiten",
                     "s_city_slug": "kiten"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Malko Tarnovo",
                     "s_city_slug": "malko-tarnovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Nesebar",
                     "s_city_slug": "nesebar"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Obshtina Aytos",
                     "s_city_slug": "obshtina-aytos"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Obshtina Burgas",
                     "s_city_slug": "obshtina-burgas"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Obshtina Kameno",
                     "s_city_slug": "obshtina-kameno"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Obshtina Karnobat",
                     "s_city_slug": "obshtina-karnobat"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Obshtina Malko Tarnovo",
                     "s_city_slug": "obshtina-malko-tarnovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Obshtina Nesebar",
                     "s_city_slug": "obshtina-nesebar"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Obshtina Pomorie",
                     "s_city_slug": "obshtina-pomorie"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Obshtina Primorsko",
                     "s_city_slug": "obshtina-primorsko"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Obshtina Sozopol",
                     "s_city_slug": "obshtina-sozopol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Obshtina Sungurlare",
                     "s_city_slug": "obshtina-sungurlare"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Obzor",
                     "s_city_slug": "obzor"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Pomorie",
                     "s_city_slug": "pomorie"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Primorsko",
                     "s_city_slug": "primorsko"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Ravda",
                     "s_city_slug": "ravda"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Ruen",
                     "s_city_slug": "ruen"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Sarafovo",
                     "s_city_slug": "sarafovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Sozopol",
                     "s_city_slug": "sozopol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Sredets",
                     "s_city_slug": "sredets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Sungurlare",
                     "s_city_slug": "sungurlare"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Sveti Vlas",
                     "s_city_slug": "sveti-vlas"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "burgas-province",
                     "s_city_name": "Tsarevo",
                     "s_city_slug": "tsarevo"
@@ -384,96 +384,96 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Dobrich Province",
             "s_region_slug": "dobrich-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Balchik",
                     "s_city_slug": "balchik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Dobrich",
                     "s_city_slug": "dobrich"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "General Toshevo",
                     "s_city_slug": "general-toshevo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Kavarna",
                     "s_city_slug": "kavarna"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Krushari",
                     "s_city_slug": "krushari"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Obshtina Balchik",
                     "s_city_slug": "obshtina-balchik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Obshtina Dobrich",
                     "s_city_slug": "obshtina-dobrich"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Obshtina Dobrich-Selska",
                     "s_city_slug": "obshtina-dobrich-selska"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Obshtina General Toshevo",
                     "s_city_slug": "obshtina-general-toshevo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Obshtina Kavarna",
                     "s_city_slug": "obshtina-kavarna"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Obshtina Krushari",
                     "s_city_slug": "obshtina-krushari"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Obshtina Shabla",
                     "s_city_slug": "obshtina-shabla"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Obshtina Tervel",
                     "s_city_slug": "obshtina-tervel"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Shabla",
                     "s_city_slug": "shabla"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "dobrich-province",
                     "s_city_name": "Tervel",
                     "s_city_slug": "tervel"
@@ -481,54 +481,54 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Gabrovo Province",
             "s_region_slug": "gabrovo-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "gabrovo-province",
                     "s_city_name": "Dryanovo",
                     "s_city_slug": "dryanovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "gabrovo-province",
                     "s_city_name": "Gabrovo",
                     "s_city_slug": "gabrovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "gabrovo-province",
                     "s_city_name": "Obshtina Dryanovo",
                     "s_city_slug": "obshtina-dryanovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "gabrovo-province",
                     "s_city_name": "Obshtina Gabrovo",
                     "s_city_slug": "obshtina-gabrovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "gabrovo-province",
                     "s_city_name": "Obshtina Sevlievo",
                     "s_city_slug": "obshtina-sevlievo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "gabrovo-province",
                     "s_city_name": "Obshtina Tryavna",
                     "s_city_slug": "obshtina-tryavna"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "gabrovo-province",
                     "s_city_name": "Sevlievo",
                     "s_city_slug": "sevlievo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "gabrovo-province",
                     "s_city_name": "Tryavna",
                     "s_city_slug": "tryavna"
@@ -536,120 +536,120 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Haskovo Province",
             "s_region_slug": "haskovo-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Dimitrovgrad",
                     "s_city_slug": "dimitrovgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Harmanli",
                     "s_city_slug": "harmanli"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Haskovo",
                     "s_city_slug": "haskovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Ivaylovgrad",
                     "s_city_slug": "ivaylovgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Lyubimets",
                     "s_city_slug": "lyubimets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Madzharovo",
                     "s_city_slug": "madzharovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Mineralni Bani",
                     "s_city_slug": "mineralni-bani"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Obshtina Dimitrovgrad",
                     "s_city_slug": "obshtina-dimitrovgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Obshtina Harmanli",
                     "s_city_slug": "obshtina-harmanli"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Obshtina Haskovo",
                     "s_city_slug": "obshtina-haskovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Obshtina Ivaylovgrad",
                     "s_city_slug": "obshtina-ivaylovgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Obshtina Madzharovo",
                     "s_city_slug": "obshtina-madzharovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Obshtina Mineralni Bani",
                     "s_city_slug": "obshtina-mineralni-bani"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Obshtina Stambolovo",
                     "s_city_slug": "obshtina-stambolovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Obshtina Svilengrad",
                     "s_city_slug": "obshtina-svilengrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Obshtina Topolovgrad",
                     "s_city_slug": "obshtina-topolovgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Simeonovgrad",
                     "s_city_slug": "simeonovgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Svilengrad",
                     "s_city_slug": "svilengrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "haskovo-province",
                     "s_city_name": "Topolovgrad",
                     "s_city_slug": "topolovgrad"
@@ -657,72 +657,72 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Kardzhali Province",
             "s_region_slug": "kardzhali-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kardzhali-province",
                     "s_city_name": "Ardino",
                     "s_city_slug": "ardino"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kardzhali-province",
                     "s_city_name": "Dzhebel",
                     "s_city_slug": "dzhebel"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kardzhali-province",
                     "s_city_name": "Kardzhali",
                     "s_city_slug": "kardzhali"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kardzhali-province",
                     "s_city_name": "Kirkovo",
                     "s_city_slug": "kirkovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kardzhali-province",
                     "s_city_name": "Krumovgrad",
                     "s_city_slug": "krumovgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kardzhali-province",
                     "s_city_name": "Obshtina Ardino",
                     "s_city_slug": "obshtina-ardino"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kardzhali-province",
                     "s_city_name": "Obshtina Chernoochene",
                     "s_city_slug": "obshtina-chernoochene"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kardzhali-province",
                     "s_city_name": "Obshtina Dzhebel",
                     "s_city_slug": "obshtina-dzhebel"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kardzhali-province",
                     "s_city_name": "Obshtina Kardzhali",
                     "s_city_slug": "obshtina-kardzhali"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kardzhali-province",
                     "s_city_name": "Obshtina Kirkovo",
                     "s_city_slug": "obshtina-kirkovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kardzhali-province",
                     "s_city_name": "Obshtina Momchilgrad",
                     "s_city_slug": "obshtina-momchilgrad"
@@ -730,108 +730,108 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Kyustendil Province",
             "s_region_slug": "kyustendil-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Boboshevo",
                     "s_city_slug": "boboshevo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Bobov Dol",
                     "s_city_slug": "bobov-dol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Dupnitsa",
                     "s_city_slug": "dupnitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Kocherinovo",
                     "s_city_slug": "kocherinovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Kyustendil",
                     "s_city_slug": "kyustendil"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Nevestino",
                     "s_city_slug": "nevestino"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Obshtina Boboshevo",
                     "s_city_slug": "obshtina-boboshevo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Obshtina Bobov Dol",
                     "s_city_slug": "obshtina-bobov-dol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Obshtina Dupnitsa",
                     "s_city_slug": "obshtina-dupnitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Obshtina Kocherinovo",
                     "s_city_slug": "obshtina-kocherinovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Obshtina Kyustendil",
                     "s_city_slug": "obshtina-kyustendil"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Obshtina Nevestino",
                     "s_city_slug": "obshtina-nevestino"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Obshtina Rila",
                     "s_city_slug": "obshtina-rila"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Obshtina Sapareva Banya",
                     "s_city_slug": "obshtina-sapareva-banya"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Obshtina Treklyano",
                     "s_city_slug": "obshtina-treklyano"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Rila",
                     "s_city_slug": "rila"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "kyustendil-province",
                     "s_city_name": "Sapareva Banya",
                     "s_city_slug": "sapareva-banya"
@@ -839,72 +839,72 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Lovech Province",
             "s_region_slug": "lovech-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "lovech-province",
                     "s_city_name": "Apriltsi",
                     "s_city_slug": "apriltsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "lovech-province",
                     "s_city_name": "Letnitsa",
                     "s_city_slug": "letnitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "lovech-province",
                     "s_city_name": "Lovech",
                     "s_city_slug": "lovech"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "lovech-province",
                     "s_city_name": "Lukovit",
                     "s_city_slug": "lukovit"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "lovech-province",
                     "s_city_name": "Obshtina Lovech",
                     "s_city_slug": "obshtina-lovech"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "lovech-province",
                     "s_city_name": "Obshtina Teteven",
                     "s_city_slug": "obshtina-teteven"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "lovech-province",
                     "s_city_name": "Obshtina Ugarchin",
                     "s_city_slug": "obshtina-ugarchin"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "lovech-province",
                     "s_city_name": "Teteven",
                     "s_city_slug": "teteven"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "lovech-province",
                     "s_city_name": "Troyan",
                     "s_city_slug": "troyan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "lovech-province",
                     "s_city_name": "Ugarchin",
                     "s_city_slug": "ugarchin"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "lovech-province",
                     "s_city_name": "Yablanitsa",
                     "s_city_slug": "yablanitsa"
@@ -912,114 +912,114 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Montana Province",
             "s_region_slug": "montana-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Berkovitsa",
                     "s_city_slug": "berkovitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Boychinovtsi",
                     "s_city_slug": "boychinovtsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Brusartsi",
                     "s_city_slug": "brusartsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Chiprovtsi",
                     "s_city_slug": "chiprovtsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Lom",
                     "s_city_slug": "lom"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Medkovets",
                     "s_city_slug": "medkovets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Montana",
                     "s_city_slug": "montana"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Obshtina Boychinovtsi",
                     "s_city_slug": "obshtina-boychinovtsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Obshtina Chiprovtsi",
                     "s_city_slug": "obshtina-chiprovtsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Obshtina Georgi Damyanovo",
                     "s_city_slug": "obshtina-georgi-damyanovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Obshtina Lom",
                     "s_city_slug": "obshtina-lom"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Obshtina Montana",
                     "s_city_slug": "obshtina-montana"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Obshtina Valchedram",
                     "s_city_slug": "obshtina-valchedram"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Obshtina Varshets",
                     "s_city_slug": "obshtina-varshets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Obshtina Yakimovo",
                     "s_city_slug": "obshtina-yakimovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Valchedram",
                     "s_city_slug": "valchedram"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Varshets",
                     "s_city_slug": "varshets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "montana-province",
                     "s_city_name": "Yakimovo",
                     "s_city_slug": "yakimovo"
@@ -1027,150 +1027,150 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Pazardzhik Province",
             "s_region_slug": "pazardzhik-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Batak",
                     "s_city_slug": "batak"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Belovo",
                     "s_city_slug": "belovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Bratsigovo",
                     "s_city_slug": "bratsigovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Lesichovo",
                     "s_city_slug": "lesichovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Obshtina Batak",
                     "s_city_slug": "obshtina-batak"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Obshtina Belovo",
                     "s_city_slug": "obshtina-belovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Obshtina Bratsigovo",
                     "s_city_slug": "obshtina-bratsigovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Obshtina Lesichovo",
                     "s_city_slug": "obshtina-lesichovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Obshtina Panagyurishte",
                     "s_city_slug": "obshtina-panagyurishte"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Obshtina Pazardzhik",
                     "s_city_slug": "obshtina-pazardzhik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Obshtina Peshtera",
                     "s_city_slug": "obshtina-peshtera"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Obshtina Rakitovo",
                     "s_city_slug": "obshtina-rakitovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Obshtina Septemvri",
                     "s_city_slug": "obshtina-septemvri"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Obshtina Strelcha",
                     "s_city_slug": "obshtina-strelcha"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Obshtina Velingrad",
                     "s_city_slug": "obshtina-velingrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Panagyurishte",
                     "s_city_slug": "panagyurishte"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Pazardzhik",
                     "s_city_slug": "pazardzhik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Peshtera",
                     "s_city_slug": "peshtera"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Rakitovo",
                     "s_city_slug": "rakitovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Sarnitsa",
                     "s_city_slug": "sarnitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Sarnitsa Obshtina",
                     "s_city_slug": "sarnitsa-obshtina"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Septemvri",
                     "s_city_slug": "septemvri"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Strelcha",
                     "s_city_slug": "strelcha"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pazardzhik-province",
                     "s_city_name": "Velingrad",
                     "s_city_slug": "velingrad"
@@ -1178,66 +1178,66 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Pernik Province",
             "s_region_slug": "pernik-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pernik-province",
                     "s_city_name": "Batanovtsi",
                     "s_city_slug": "batanovtsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pernik-province",
                     "s_city_name": "Breznik",
                     "s_city_slug": "breznik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pernik-province",
                     "s_city_name": "Obshtina Kovachevtsi",
                     "s_city_slug": "obshtina-kovachevtsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pernik-province",
                     "s_city_name": "Obshtina Pernik",
                     "s_city_slug": "obshtina-pernik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pernik-province",
                     "s_city_name": "Obshtina Radomir",
                     "s_city_slug": "obshtina-radomir"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pernik-province",
                     "s_city_name": "Obshtina Zemen",
                     "s_city_slug": "obshtina-zemen"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pernik-province",
                     "s_city_name": "Pernik",
                     "s_city_slug": "pernik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pernik-province",
                     "s_city_name": "Radomir",
                     "s_city_slug": "radomir"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pernik-province",
                     "s_city_name": "Tran",
                     "s_city_slug": "tran"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pernik-province",
                     "s_city_name": "Zemen",
                     "s_city_slug": "zemen"
@@ -1245,150 +1245,150 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Pleven Province",
             "s_region_slug": "pleven-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Belene",
                     "s_city_slug": "belene"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Cherven Bryag",
                     "s_city_slug": "cherven-bryag"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Dolna Mitropolia",
                     "s_city_slug": "dolna-mitropolia"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Dolni Dabnik",
                     "s_city_slug": "dolni-dabnik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Gulyantsi",
                     "s_city_slug": "gulyantsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Iskar",
                     "s_city_slug": "iskar"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Knezha",
                     "s_city_slug": "knezha"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Koynare",
                     "s_city_slug": "koynare"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Levski",
                     "s_city_slug": "levski"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Nikopol",
                     "s_city_slug": "nikopol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Obshtina Belene",
                     "s_city_slug": "obshtina-belene"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Obshtina Cherven Bryag",
                     "s_city_slug": "obshtina-cherven-bryag"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Obshtina Dolna Mitropolia",
                     "s_city_slug": "obshtina-dolna-mitropolia"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Obshtina Dolni Dabnik",
                     "s_city_slug": "obshtina-dolni-dabnik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Obshtina Gulyantsi",
                     "s_city_slug": "obshtina-gulyantsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Obshtina Iskar",
                     "s_city_slug": "obshtina-iskar"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Obshtina Knezha",
                     "s_city_slug": "obshtina-knezha"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Obshtina Levski",
                     "s_city_slug": "obshtina-levski"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Obshtina Nikopol",
                     "s_city_slug": "obshtina-nikopol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Obshtina Pleven",
                     "s_city_slug": "obshtina-pleven"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Obshtina Pordim",
                     "s_city_slug": "obshtina-pordim"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Pleven",
                     "s_city_slug": "pleven"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Pordim",
                     "s_city_slug": "pordim"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "pleven-province",
                     "s_city_name": "Slavyanovo",
                     "s_city_slug": "slavyanovo"
@@ -1396,210 +1396,210 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Plovdiv Province",
             "s_region_slug": "plovdiv-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Asenovgrad",
                     "s_city_slug": "asenovgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Brezovo",
                     "s_city_slug": "brezovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Hisarya",
                     "s_city_slug": "hisarya"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Kalofer",
                     "s_city_slug": "kalofer"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Kaloyanovo",
                     "s_city_slug": "kaloyanovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Karlovo",
                     "s_city_slug": "karlovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Klisura",
                     "s_city_slug": "klisura"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Krichim",
                     "s_city_slug": "krichim"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Laki",
                     "s_city_slug": "laki"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Asenovgrad",
                     "s_city_slug": "obshtina-asenovgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Hisarya",
                     "s_city_slug": "obshtina-hisarya"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Kaloyanovo",
                     "s_city_slug": "obshtina-kaloyanovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Karlovo",
                     "s_city_slug": "obshtina-karlovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Krichim",
                     "s_city_slug": "obshtina-krichim"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Kuklen",
                     "s_city_slug": "obshtina-kuklen"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Laki",
                     "s_city_slug": "obshtina-laki"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Maritsa",
                     "s_city_slug": "obshtina-maritsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Parvomay",
                     "s_city_slug": "obshtina-parvomay"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Perushtitsa",
                     "s_city_slug": "obshtina-perushtitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Plovdiv",
                     "s_city_slug": "obshtina-plovdiv"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Rakovski",
                     "s_city_slug": "obshtina-rakovski"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Rodopi",
                     "s_city_slug": "obshtina-rodopi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Sadovo",
                     "s_city_slug": "obshtina-sadovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Saedinenie",
                     "s_city_slug": "obshtina-saedinenie"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Sopot",
                     "s_city_slug": "obshtina-sopot"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Obshtina Stamboliyski",
                     "s_city_slug": "obshtina-stamboliyski"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Parvomay",
                     "s_city_slug": "parvomay"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Perushtitsa",
                     "s_city_slug": "perushtitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Plovdiv",
                     "s_city_slug": "plovdiv"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Rakovski",
                     "s_city_slug": "rakovski"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Sadovo",
                     "s_city_slug": "sadovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Saedinenie",
                     "s_city_slug": "saedinenie"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Stamboliyski",
                     "s_city_slug": "stamboliyski"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "plovdiv-province",
                     "s_city_name": "Topolovo",
                     "s_city_slug": "topolovo"
@@ -1607,96 +1607,96 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Razgrad Province",
             "s_region_slug": "razgrad-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Isperih",
                     "s_city_slug": "isperih"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Kubrat",
                     "s_city_slug": "kubrat"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Loznitsa",
                     "s_city_slug": "loznitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Medovene",
                     "s_city_slug": "medovene"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Obshtina Isperih",
                     "s_city_slug": "obshtina-isperih"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Obshtina Kubrat",
                     "s_city_slug": "obshtina-kubrat"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Obshtina Loznitsa",
                     "s_city_slug": "obshtina-loznitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Obshtina Razgrad",
                     "s_city_slug": "obshtina-razgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Obshtina Samuil",
                     "s_city_slug": "obshtina-samuil"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Obshtina Tsar Kaloyan",
                     "s_city_slug": "obshtina-tsar-kaloyan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Obshtina Zavet",
                     "s_city_slug": "obshtina-zavet"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Razgrad",
                     "s_city_slug": "razgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Samuil",
                     "s_city_slug": "samuil"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Tsar Kaloyan",
                     "s_city_slug": "tsar-kaloyan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "razgrad-province",
                     "s_city_name": "Zavet",
                     "s_city_slug": "zavet"
@@ -1704,102 +1704,102 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Ruse Province",
             "s_region_slug": "ruse-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Borovo",
                     "s_city_slug": "borovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Dve Mogili",
                     "s_city_slug": "dve-mogili"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Ivanovo",
                     "s_city_slug": "ivanovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Obshtina Borovo",
                     "s_city_slug": "obshtina-borovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Obshtina Byala",
                     "s_city_slug": "obshtina-byala"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Obshtina Dve Mogili",
                     "s_city_slug": "obshtina-dve-mogili"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Obshtina Ivanovo",
                     "s_city_slug": "obshtina-ivanovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Obshtina Ruse",
                     "s_city_slug": "obshtina-ruse"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Obshtina Slivo Pole",
                     "s_city_slug": "obshtina-slivo-pole"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Obshtina Tsenovo",
                     "s_city_slug": "obshtina-tsenovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Obshtina Vetovo",
                     "s_city_slug": "obshtina-vetovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Ruse",
                     "s_city_slug": "ruse"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Senovo",
                     "s_city_slug": "senovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Slivo Pole",
                     "s_city_slug": "slivo-pole"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Tsenovo",
                     "s_city_slug": "tsenovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "ruse-province",
                     "s_city_name": "Vetovo",
                     "s_city_slug": "vetovo"
@@ -1807,90 +1807,90 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Silistra Province",
             "s_region_slug": "silistra-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Alfatar",
                     "s_city_slug": "alfatar"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Dulovo",
                     "s_city_slug": "dulovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Glavinitsa",
                     "s_city_slug": "glavinitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Kaynardzha",
                     "s_city_slug": "kaynardzha"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Obshtina Alfatar",
                     "s_city_slug": "obshtina-alfatar"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Obshtina Dulovo",
                     "s_city_slug": "obshtina-dulovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Obshtina Glavinitsa",
                     "s_city_slug": "obshtina-glavinitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Obshtina Kaynardzha",
                     "s_city_slug": "obshtina-kaynardzha"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Obshtina Silistra",
                     "s_city_slug": "obshtina-silistra"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Obshtina Sitovo",
                     "s_city_slug": "obshtina-sitovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Obshtina Tutrakan",
                     "s_city_slug": "obshtina-tutrakan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Silistra",
                     "s_city_slug": "silistra"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Sitovo",
                     "s_city_slug": "sitovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "silistra-province",
                     "s_city_name": "Tutrakan",
                     "s_city_slug": "tutrakan"
@@ -1898,60 +1898,60 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Sliven Province",
             "s_region_slug": "sliven-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sliven-province",
                     "s_city_name": "Kermen",
                     "s_city_slug": "kermen"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sliven-province",
                     "s_city_name": "Kotel",
                     "s_city_slug": "kotel"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sliven-province",
                     "s_city_name": "Nova Zagora",
                     "s_city_slug": "nova-zagora"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sliven-province",
                     "s_city_name": "Obshtina Kotel",
                     "s_city_slug": "obshtina-kotel"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sliven-province",
                     "s_city_name": "Obshtina Nova Zagora",
                     "s_city_slug": "obshtina-nova-zagora"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sliven-province",
                     "s_city_name": "Obshtina Sliven",
                     "s_city_slug": "obshtina-sliven"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sliven-province",
                     "s_city_name": "Obshtina Tvarditsa",
                     "s_city_slug": "obshtina-tvarditsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sliven-province",
                     "s_city_name": "Sliven",
                     "s_city_slug": "sliven"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sliven-province",
                     "s_city_name": "Tvarditsa",
                     "s_city_slug": "tvarditsa"
@@ -1959,132 +1959,132 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Smolyan Province",
             "s_region_slug": "smolyan-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Banite",
                     "s_city_slug": "banite"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Borino",
                     "s_city_slug": "borino"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Chepelare",
                     "s_city_slug": "chepelare"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Devin",
                     "s_city_slug": "devin"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Dospat",
                     "s_city_slug": "dospat"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Gyovren",
                     "s_city_slug": "gyovren"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Madan",
                     "s_city_slug": "madan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Nedelino",
                     "s_city_slug": "nedelino"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Obshtina Banite",
                     "s_city_slug": "obshtina-banite"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Obshtina Borino",
                     "s_city_slug": "obshtina-borino"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Obshtina Chepelare",
                     "s_city_slug": "obshtina-chepelare"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Obshtina Devin",
                     "s_city_slug": "obshtina-devin"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Obshtina Dospat",
                     "s_city_slug": "obshtina-dospat"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Obshtina Madan",
                     "s_city_slug": "obshtina-madan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Obshtina Nedelino",
                     "s_city_slug": "obshtina-nedelino"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Obshtina Rudozem",
                     "s_city_slug": "obshtina-rudozem"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Obshtina Smolyan",
                     "s_city_slug": "obshtina-smolyan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Obshtina Zlatograd",
                     "s_city_slug": "obshtina-zlatograd"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Rudozem",
                     "s_city_slug": "rudozem"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Smolyan",
                     "s_city_slug": "smolyan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "smolyan-province",
                     "s_city_name": "Zlatograd",
                     "s_city_slug": "zlatograd"
@@ -2092,24 +2092,24 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Sofia City Province",
             "s_region_slug": "sofia-city-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-city-province",
                     "s_city_name": "Buhovo",
                     "s_city_slug": "buhovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-city-province",
                     "s_city_name": "Sofia",
                     "s_city_slug": "sofia"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-city-province",
                     "s_city_name": "Stolichna Obshtina",
                     "s_city_slug": "stolichna-obshtina"
@@ -2117,258 +2117,258 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Sofia Province",
             "s_region_slug": "sofia-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Anton",
                     "s_city_slug": "anton"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Botevgrad",
                     "s_city_slug": "botevgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Bozhurishte",
                     "s_city_slug": "bozhurishte"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Chavdar",
                     "s_city_slug": "chavdar"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Chelopech",
                     "s_city_slug": "chelopech"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Dolna Banya",
                     "s_city_slug": "dolna-banya"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Dragoman",
                     "s_city_slug": "dragoman"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Elin Pelin",
                     "s_city_slug": "elin-pelin"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Etropole",
                     "s_city_slug": "etropole"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Godech",
                     "s_city_slug": "godech"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Gorna Malina",
                     "s_city_slug": "gorna-malina"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Ihtiman",
                     "s_city_slug": "ihtiman"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Koprivshtitsa",
                     "s_city_slug": "koprivshtitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Kostinbrod",
                     "s_city_slug": "kostinbrod"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Lakatnik",
                     "s_city_slug": "lakatnik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Mirkovo",
                     "s_city_slug": "mirkovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Anton",
                     "s_city_slug": "obshtina-anton"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Botevgrad",
                     "s_city_slug": "obshtina-botevgrad"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Bozhurishte",
                     "s_city_slug": "obshtina-bozhurishte"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Chavdar",
                     "s_city_slug": "obshtina-chavdar"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Chelopech",
                     "s_city_slug": "obshtina-chelopech"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Dolna Banya",
                     "s_city_slug": "obshtina-dolna-banya"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Dragoman",
                     "s_city_slug": "obshtina-dragoman"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Elin Pelin",
                     "s_city_slug": "obshtina-elin-pelin"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Etropole",
                     "s_city_slug": "obshtina-etropole"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Gorna Malina",
                     "s_city_slug": "obshtina-gorna-malina"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Koprivshtitsa",
                     "s_city_slug": "obshtina-koprivshtitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Kostenets",
                     "s_city_slug": "obshtina-kostenets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Kostinbrod",
                     "s_city_slug": "obshtina-kostinbrod"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Mirkovo",
                     "s_city_slug": "obshtina-mirkovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Pirdop",
                     "s_city_slug": "obshtina-pirdop"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Pravets",
                     "s_city_slug": "obshtina-pravets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Samokov",
                     "s_city_slug": "obshtina-samokov"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Slivnitsa",
                     "s_city_slug": "obshtina-slivnitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Svoge",
                     "s_city_slug": "obshtina-svoge"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Obshtina Zlatitsa",
                     "s_city_slug": "obshtina-zlatitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Pirdop",
                     "s_city_slug": "pirdop"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Pravets",
                     "s_city_slug": "pravets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Samokov",
                     "s_city_slug": "samokov"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Slivnitsa",
                     "s_city_slug": "slivnitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Svoge",
                     "s_city_slug": "svoge"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "sofia-province",
                     "s_city_name": "Zlatitsa",
                     "s_city_slug": "zlatitsa"
@@ -2376,138 +2376,138 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Stara Zagora Province",
             "s_region_slug": "stara-zagora-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Asen",
                     "s_city_slug": "asen"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Chirpan",
                     "s_city_slug": "chirpan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Gulubovo",
                     "s_city_slug": "gulubovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Gurkovo",
                     "s_city_slug": "gurkovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Kazanlak",
                     "s_city_slug": "kazanlak"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Maglizh",
                     "s_city_slug": "maglizh"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Nikolaevo",
                     "s_city_slug": "nikolaevo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Obshtina Bratya Daskalovi",
                     "s_city_slug": "obshtina-bratya-daskalovi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Obshtina Chirpan",
                     "s_city_slug": "obshtina-chirpan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Obshtina Galabovo",
                     "s_city_slug": "obshtina-galabovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Obshtina Gurkovo",
                     "s_city_slug": "obshtina-gurkovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Obshtina Kazanluk",
                     "s_city_slug": "obshtina-kazanluk"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Obshtina Maglizh",
                     "s_city_slug": "obshtina-maglizh"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Obshtina Nikolaevo",
                     "s_city_slug": "obshtina-nikolaevo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Obshtina Opan",
                     "s_city_slug": "obshtina-opan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Obshtina Pavel Banya",
                     "s_city_slug": "obshtina-pavel-banya"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Obshtina Radnevo",
                     "s_city_slug": "obshtina-radnevo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Obshtina Stara Zagora",
                     "s_city_slug": "obshtina-stara-zagora"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Pavel Banya",
                     "s_city_slug": "pavel-banya"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Radnevo",
                     "s_city_slug": "radnevo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Shipka",
                     "s_city_slug": "shipka"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "stara-zagora-province",
                     "s_city_name": "Stara Zagora",
                     "s_city_slug": "stara-zagora"
@@ -2515,66 +2515,66 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Targovishte Province",
             "s_region_slug": "targovishte-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "targovishte-province",
                     "s_city_name": "Antonovo",
                     "s_city_slug": "antonovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "targovishte-province",
                     "s_city_name": "Obshtina Antonovo",
                     "s_city_slug": "obshtina-antonovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "targovishte-province",
                     "s_city_name": "Obshtina Omurtag",
                     "s_city_slug": "obshtina-omurtag"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "targovishte-province",
                     "s_city_name": "Obshtina Opaka",
                     "s_city_slug": "obshtina-opaka"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "targovishte-province",
                     "s_city_name": "Obshtina Popovo",
                     "s_city_slug": "obshtina-popovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "targovishte-province",
                     "s_city_name": "Obshtina Targovishte",
                     "s_city_slug": "obshtina-targovishte"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "targovishte-province",
                     "s_city_name": "Omurtag",
                     "s_city_slug": "omurtag"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "targovishte-province",
                     "s_city_name": "Opaka",
                     "s_city_slug": "opaka"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "targovishte-province",
                     "s_city_name": "Popovo",
                     "s_city_slug": "popovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "targovishte-province",
                     "s_city_name": "Targovishte",
                     "s_city_slug": "targovishte"
@@ -2582,168 +2582,168 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Varna Province",
             "s_region_slug": "varna-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Aksakovo",
                     "s_city_slug": "aksakovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Asparuhovo",
                     "s_city_slug": "asparuhovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Balgarevo",
                     "s_city_slug": "balgarevo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Beloslav",
                     "s_city_slug": "beloslav"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Byala",
                     "s_city_slug": "byala"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Dalgopol",
                     "s_city_slug": "dalgopol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Devnya",
                     "s_city_slug": "devnya"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Dolni Chiflik",
                     "s_city_slug": "dolni-chiflik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Kiten",
                     "s_city_slug": "kiten"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Obshtina Aksakovo",
                     "s_city_slug": "obshtina-aksakovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Obshtina Avren",
                     "s_city_slug": "obshtina-avren"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Obshtina Beloslav",
                     "s_city_slug": "obshtina-beloslav"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Obshtina Byala",
                     "s_city_slug": "obshtina-byala"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Obshtina Dalgopol",
                     "s_city_slug": "obshtina-dalgopol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Obshtina Devnya",
                     "s_city_slug": "obshtina-devnya"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Obshtina Dolni Chiflik",
                     "s_city_slug": "obshtina-dolni-chiflik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Obshtina Provadia",
                     "s_city_slug": "obshtina-provadia"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Obshtina Suvorovo",
                     "s_city_slug": "obshtina-suvorovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Obshtina Valchidol",
                     "s_city_slug": "obshtina-valchidol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Obshtina Varna",
                     "s_city_slug": "obshtina-varna"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Obshtina Vetrino",
                     "s_city_slug": "obshtina-vetrino"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Provadia",
                     "s_city_slug": "provadia"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Suvorovo",
                     "s_city_slug": "suvorovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Valchidol",
                     "s_city_slug": "valchidol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Varna",
                     "s_city_slug": "varna"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Vetrino",
                     "s_city_slug": "vetrino"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "varna-province",
                     "s_city_name": "Zlatni Pyasatsi",
                     "s_city_slug": "zlatni-pyasatsi"
@@ -2751,150 +2751,150 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Veliko Tarnovo Province",
             "s_region_slug": "veliko-tarnovo-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Byala Cherkva",
                     "s_city_slug": "byala-cherkva"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Debelets",
                     "s_city_slug": "debelets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Elena",
                     "s_city_slug": "elena"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Gorna Oryahovitsa",
                     "s_city_slug": "gorna-oryahovitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Kilifarevo",
                     "s_city_slug": "kilifarevo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Lyaskovets",
                     "s_city_slug": "lyaskovets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Obshtina Elena",
                     "s_city_slug": "obshtina-elena"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Obshtina Gorna Oryahovitsa",
                     "s_city_slug": "obshtina-gorna-oryahovitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Obshtina Lyaskovets",
                     "s_city_slug": "obshtina-lyaskovets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Obshtina Pavlikeni",
                     "s_city_slug": "obshtina-pavlikeni"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Obshtina Polski Trambesh",
                     "s_city_slug": "obshtina-polski-trambesh"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Obshtina Strazhitsa",
                     "s_city_slug": "obshtina-strazhitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Obshtina Suhindol",
                     "s_city_slug": "obshtina-suhindol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Obshtina Svishtov",
                     "s_city_slug": "obshtina-svishtov"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Obshtina Veliko Turnovo",
                     "s_city_slug": "obshtina-veliko-turnovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Obshtina Zlataritsa",
                     "s_city_slug": "obshtina-zlataritsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Parvomaytsi",
                     "s_city_slug": "parvomaytsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Pavlikeni",
                     "s_city_slug": "pavlikeni"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Polski Trambesh",
                     "s_city_slug": "polski-trambesh"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Strazhitsa",
                     "s_city_slug": "strazhitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Suhindol",
                     "s_city_slug": "suhindol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Svishtov",
                     "s_city_slug": "svishtov"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Veliko Turnovo",
                     "s_city_slug": "veliko-turnovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "veliko-tarnovo-province",
                     "s_city_name": "Zlataritsa",
                     "s_city_slug": "zlataritsa"
@@ -2902,126 +2902,126 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Vidin Province",
             "s_region_slug": "vidin-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Belogradchik",
                     "s_city_slug": "belogradchik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Boynitsa",
                     "s_city_slug": "boynitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Bregovo",
                     "s_city_slug": "bregovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Chuprene",
                     "s_city_slug": "chuprene"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Dimovo",
                     "s_city_slug": "dimovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Drenovets",
                     "s_city_slug": "drenovets"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Dunavtsi",
                     "s_city_slug": "dunavtsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Gramada",
                     "s_city_slug": "gramada"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Kula",
                     "s_city_slug": "kula"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Makresh",
                     "s_city_slug": "makresh"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Novo Selo",
                     "s_city_slug": "novo-selo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Obshtina Belogradchik",
                     "s_city_slug": "obshtina-belogradchik"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Obshtina Boynitsa",
                     "s_city_slug": "obshtina-boynitsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Obshtina Dimovo",
                     "s_city_slug": "obshtina-dimovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Obshtina Gramada",
                     "s_city_slug": "obshtina-gramada"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Obshtina Kula",
                     "s_city_slug": "obshtina-kula"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Obshtina Ruzhintsi",
                     "s_city_slug": "obshtina-ruzhintsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Obshtina Vidin",
                     "s_city_slug": "obshtina-vidin"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Ruzhintsi",
                     "s_city_slug": "ruzhintsi"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vidin-province",
                     "s_city_name": "Vidin",
                     "s_city_slug": "vidin"
@@ -3029,120 +3029,120 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Vratsa Province",
             "s_region_slug": "vratsa-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Borovan",
                     "s_city_slug": "borovan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Byala Slatina",
                     "s_city_slug": "byala-slatina"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Hayredin",
                     "s_city_slug": "hayredin"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Kozloduy",
                     "s_city_slug": "kozloduy"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Krivodol",
                     "s_city_slug": "krivodol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Mezdra",
                     "s_city_slug": "mezdra"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Mizia",
                     "s_city_slug": "mizia"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Obshtina Borovan",
                     "s_city_slug": "obshtina-borovan"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Obshtina Hayredin",
                     "s_city_slug": "obshtina-hayredin"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Obshtina Kozloduy",
                     "s_city_slug": "obshtina-kozloduy"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Obshtina Krivodol",
                     "s_city_slug": "obshtina-krivodol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Obshtina Mezdra",
                     "s_city_slug": "obshtina-mezdra"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Obshtina Mizia",
                     "s_city_slug": "obshtina-mizia"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Obshtina Oryahovo",
                     "s_city_slug": "obshtina-oryahovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Obshtina Roman",
                     "s_city_slug": "obshtina-roman"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Obshtina Vratsa",
                     "s_city_slug": "obshtina-vratsa"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Oryahovo",
                     "s_city_slug": "oryahovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Roman",
                     "s_city_slug": "roman"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "vratsa-province",
                     "s_city_name": "Vratsa",
                     "s_city_slug": "vratsa"
@@ -3150,60 +3150,60 @@
             ]
         },
         {
-            "s_country_code": "BG",
+            "s_country_code": "bg",
             "s_region_name": "Yambol Province",
             "s_region_slug": "yambol-province",
             "cities": [
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "yambol-province",
                     "s_city_name": "Bolyarovo",
                     "s_city_slug": "bolyarovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "yambol-province",
                     "s_city_name": "Elhovo",
                     "s_city_slug": "elhovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "yambol-province",
                     "s_city_name": "Obshtina Bolyarovo",
                     "s_city_slug": "obshtina-bolyarovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "yambol-province",
                     "s_city_name": "Obshtina Elhovo",
                     "s_city_slug": "obshtina-elhovo"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "yambol-province",
                     "s_city_name": "Obshtina Straldzha",
                     "s_city_slug": "obshtina-straldzha"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "yambol-province",
                     "s_city_name": "Obshtina Tundzha",
                     "s_city_slug": "obshtina-tundzha"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "yambol-province",
                     "s_city_name": "Obshtina Yambol",
                     "s_city_slug": "obshtina-yambol"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "yambol-province",
                     "s_city_name": "Straldzha",
                     "s_city_slug": "straldzha"
                 },
                 {
-                    "s_country_code": "BG",
+                    "s_country_code": "bg",
                     "s_region_slug": "yambol-province",
                     "s_city_name": "Yambol",
                     "s_city_slug": "yambol"

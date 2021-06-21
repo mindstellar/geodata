@@ -4,60 +4,60 @@
     "s_country_slug": "iceland",
     "regions": [
         {
-            "s_country_code": "IS",
+            "s_country_code": "is",
             "s_region_name": "Capital Region",
             "s_region_slug": "capital-region",
             "cities": [
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "capital-region",
                     "s_city_name": "Alftanes",
                     "s_city_slug": "alftanes"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "capital-region",
                     "s_city_name": "Garabr",
                     "s_city_slug": "garabr"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "capital-region",
                     "s_city_name": "Hafnarfjorur",
                     "s_city_slug": "hafnarfjorur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "capital-region",
                     "s_city_name": "Kjosarhreppur",
                     "s_city_slug": "kjosarhreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "capital-region",
                     "s_city_name": "Kopavogur",
                     "s_city_slug": "kopavogur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "capital-region",
                     "s_city_name": "Mosfellsbaer",
                     "s_city_slug": "mosfellsbaer"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "capital-region",
                     "s_city_name": "Mosfellsbr",
                     "s_city_slug": "mosfellsbr"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "capital-region",
                     "s_city_name": "Reykjavik",
                     "s_city_slug": "reykjavik"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "capital-region",
                     "s_city_name": "Seltjarnarnes",
                     "s_city_slug": "seltjarnarnes"
@@ -65,66 +65,66 @@
             ]
         },
         {
-            "s_country_code": "IS",
+            "s_country_code": "is",
             "s_region_name": "Eastern Region",
             "s_region_slug": "eastern-region",
             "cities": [
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Borgarfjararhreppur",
                     "s_city_slug": "borgarfjararhreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Breidalshreppur",
                     "s_city_slug": "breidalshreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Egilsstair",
                     "s_city_slug": "egilsstair"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Eskifjorur",
                     "s_city_slug": "eskifjorur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Fjarabygg",
                     "s_city_slug": "fjarabygg"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Fljotsdalshera",
                     "s_city_slug": "fljotsdalshera"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Fljotsdalshreppur",
                     "s_city_slug": "fljotsdalshreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Hofn",
                     "s_city_slug": "hofn"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Neskaupstaur",
                     "s_city_slug": "neskaupstaur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "eastern-region",
                     "s_city_name": "Reyarfjorur",
                     "s_city_slug": "reyarfjorur"
@@ -132,96 +132,96 @@
             ]
         },
         {
-            "s_country_code": "IS",
+            "s_country_code": "is",
             "s_region_name": "Northeastern Region",
             "s_region_slug": "northeastern-region",
             "cities": [
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Akureyri",
                     "s_city_slug": "akureyri"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Dalvik",
                     "s_city_slug": "dalvik"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Dalvikurbygg",
                     "s_city_slug": "dalvikurbygg"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Eyjafjararsveit",
                     "s_city_slug": "eyjafjararsveit"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Fjallabygg",
                     "s_city_slug": "fjallabygg"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Grytubakkahreppur",
                     "s_city_slug": "grytubakkahreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Horgarsveit",
                     "s_city_slug": "horgarsveit"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Husavik",
                     "s_city_slug": "husavik"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Langanesbygg",
                     "s_city_slug": "langanesbygg"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Laugar",
                     "s_city_slug": "laugar"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Siglufjorur",
                     "s_city_slug": "siglufjorur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Skutustaahreppur",
                     "s_city_slug": "skutustaahreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Svalbarsstrandarhreppur",
                     "s_city_slug": "svalbarsstrandarhreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "Tjorneshreppur",
                     "s_city_slug": "tjorneshreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northeastern-region",
                     "s_city_name": "ingeyjarsveit",
                     "s_city_slug": "ingeyjarsveit"
@@ -229,36 +229,36 @@
             ]
         },
         {
-            "s_country_code": "IS",
+            "s_country_code": "is",
             "s_region_name": "Northwestern Region",
             "s_region_slug": "northwestern-region",
             "cities": [
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northwestern-region",
                     "s_city_name": "Akrahreppur",
                     "s_city_slug": "akrahreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northwestern-region",
                     "s_city_name": "Hunaing Vestra",
                     "s_city_slug": "hunaing-vestra"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northwestern-region",
                     "s_city_name": "Sauarkrokur",
                     "s_city_slug": "sauarkrokur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northwestern-region",
                     "s_city_name": "Skagabygg",
                     "s_city_slug": "skagabygg"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "northwestern-region",
                     "s_city_name": "Sveitarfelagi Skagafjorur",
                     "s_city_slug": "sveitarfelagi-skagafjorur"
@@ -266,42 +266,42 @@
             ]
         },
         {
-            "s_country_code": "IS",
+            "s_country_code": "is",
             "s_region_name": "Southern Peninsula Region",
             "s_region_slug": "southern-peninsula-region",
             "cities": [
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-peninsula-region",
                     "s_city_name": "Garur",
                     "s_city_slug": "garur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-peninsula-region",
                     "s_city_name": "Grindavik",
                     "s_city_slug": "grindavik"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-peninsula-region",
                     "s_city_name": "Keflavik",
                     "s_city_slug": "keflavik"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-peninsula-region",
                     "s_city_name": "Reykjanesbr",
                     "s_city_slug": "reykjanesbr"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-peninsula-region",
                     "s_city_name": "Sandgeri",
                     "s_city_slug": "sandgeri"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-peninsula-region",
                     "s_city_name": "Vogar",
                     "s_city_slug": "vogar"
@@ -309,84 +309,84 @@
             ]
         },
         {
-            "s_country_code": "IS",
+            "s_country_code": "is",
             "s_region_name": "Southern Region",
             "s_region_slug": "southern-region",
             "cities": [
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "Asahreppur",
                     "s_city_slug": "asahreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "Blaskogabygg",
                     "s_city_slug": "blaskogabygg"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "Floahreppur",
                     "s_city_slug": "floahreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "Grimsnes- og Grafningshreppur",
                     "s_city_slug": "grimsnes-og-grafningshreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "Hrunamannahreppur",
                     "s_city_slug": "hrunamannahreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "Hverageri",
                     "s_city_slug": "hverageri"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "Myrdalshreppur",
                     "s_city_slug": "myrdalshreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "Selfoss",
                     "s_city_slug": "selfoss"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "Skaftarhreppur",
                     "s_city_slug": "skaftarhreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "Skeia- og Gnupverjahreppur",
                     "s_city_slug": "skeia-og-gnupverjahreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "Vestmannaeyjabr",
                     "s_city_slug": "vestmannaeyjabr"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "Vestmannaeyjar",
                     "s_city_slug": "vestmannaeyjar"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "southern-region",
                     "s_city_name": "orlakshofn",
                     "s_city_slug": "orlakshofn"
@@ -394,72 +394,72 @@
             ]
         },
         {
-            "s_country_code": "IS",
+            "s_country_code": "is",
             "s_region_name": "Western Region",
             "s_region_slug": "western-region",
             "cities": [
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "western-region",
                     "s_city_name": "Akranes",
                     "s_city_slug": "akranes"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "western-region",
                     "s_city_name": "Borgarbygg",
                     "s_city_slug": "borgarbygg"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "western-region",
                     "s_city_name": "Borgarnes",
                     "s_city_slug": "borgarnes"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "western-region",
                     "s_city_name": "Dalabygg",
                     "s_city_slug": "dalabygg"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "western-region",
                     "s_city_name": "Eyja- og Miklaholtshreppur",
                     "s_city_slug": "eyja-og-miklaholtshreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "western-region",
                     "s_city_name": "Helgafellssveit",
                     "s_city_slug": "helgafellssveit"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "western-region",
                     "s_city_name": "Hvalfjararsveit",
                     "s_city_slug": "hvalfjararsveit"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "western-region",
                     "s_city_name": "Olafsvik",
                     "s_city_slug": "olafsvik"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "western-region",
                     "s_city_name": "Skorradalshreppur",
                     "s_city_slug": "skorradalshreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "western-region",
                     "s_city_name": "Snfellsbr",
                     "s_city_slug": "snfellsbr"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "western-region",
                     "s_city_name": "Stykkisholmur",
                     "s_city_slug": "stykkisholmur"
@@ -467,36 +467,36 @@
             ]
         },
         {
-            "s_country_code": "IS",
+            "s_country_code": "is",
             "s_region_name": "Westfjords",
             "s_region_slug": "westfjords",
             "cities": [
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "westfjords",
                     "s_city_name": "Isafjararbr",
                     "s_city_slug": "isafjararbr"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "westfjords",
                     "s_city_name": "Isafjorur",
                     "s_city_slug": "isafjorur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "westfjords",
                     "s_city_name": "Reykholahreppur",
                     "s_city_slug": "reykholahreppur"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "westfjords",
                     "s_city_name": "Strandabygg",
                     "s_city_slug": "strandabygg"
                 },
                 {
-                    "s_country_code": "IS",
+                    "s_country_code": "is",
                     "s_region_slug": "westfjords",
                     "s_city_name": "Talknafjararhreppur",
                     "s_city_slug": "talknafjararhreppur"

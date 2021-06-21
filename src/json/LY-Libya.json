@@ -4,42 +4,42 @@
     "s_country_slug": "libya",
     "regions": [
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Al Wahat District",
             "s_region_slug": "al-wahat-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "al-wahat-district",
                     "s_city_name": "Ajdabiya",
                     "s_city_slug": "ajdabiya"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "al-wahat-district",
                     "s_city_name": "Al Burayqah",
                     "s_city_slug": "al-burayqah"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "al-wahat-district",
                     "s_city_name": "Awjilah",
                     "s_city_slug": "awjilah"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "al-wahat-district",
                     "s_city_name": "Az Zuwaytinah",
                     "s_city_slug": "az-zuwaytinah"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "al-wahat-district",
                     "s_city_name": "Gialo",
                     "s_city_slug": "gialo"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "al-wahat-district",
                     "s_city_name": "Maradah",
                     "s_city_slug": "maradah"
@@ -47,18 +47,18 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Benghazi",
             "s_region_slug": "benghazi",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "benghazi",
                     "s_city_name": "Benghazi",
                     "s_city_slug": "benghazi"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "benghazi",
                     "s_city_name": "Qaryat Suluq",
                     "s_city_slug": "qaryat-suluq"
@@ -66,18 +66,18 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Derna District",
             "s_region_slug": "derna-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "derna-district",
                     "s_city_name": "Al Qubbah",
                     "s_city_slug": "al-qubbah"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "derna-district",
                     "s_city_name": "Darnah",
                     "s_city_slug": "darnah"
@@ -85,12 +85,12 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Ghat District",
             "s_region_slug": "ghat-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "ghat-district",
                     "s_city_name": "Ghat",
                     "s_city_slug": "ghat"
@@ -98,12 +98,12 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Jabal al Akhdar",
             "s_region_slug": "jabal-al-akhdar",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "jabal-al-akhdar",
                     "s_city_name": "Al Bayda",
                     "s_city_slug": "al-bayda"
@@ -111,36 +111,36 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Jabal al Gharbi District",
             "s_region_slug": "jabal-al-gharbi-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "jabal-al-gharbi-district",
                     "s_city_name": "Gharyan",
                     "s_city_slug": "gharyan"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "jabal-al-gharbi-district",
                     "s_city_name": "Giado",
                     "s_city_slug": "giado"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "jabal-al-gharbi-district",
                     "s_city_name": "Mizdah",
                     "s_city_slug": "mizdah"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "jabal-al-gharbi-district",
                     "s_city_name": "Yafran",
                     "s_city_slug": "yafran"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "jabal-al-gharbi-district",
                     "s_city_name": "Zintan",
                     "s_city_slug": "zintan"
@@ -148,12 +148,12 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Jafara",
             "s_region_slug": "jafara",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "jafara",
                     "s_city_name": "Al Aziziyah",
                     "s_city_slug": "al-aziziyah"
@@ -161,18 +161,18 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Jufra",
             "s_region_slug": "jufra",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "jufra",
                     "s_city_name": "Hun",
                     "s_city_slug": "hun"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "jufra",
                     "s_city_name": "Waddan",
                     "s_city_slug": "waddan"
@@ -180,18 +180,18 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Kufra District",
             "s_region_slug": "kufra-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "kufra-district",
                     "s_city_name": "Al Jawf",
                     "s_city_slug": "al-jawf"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "kufra-district",
                     "s_city_name": "At Taj",
                     "s_city_slug": "at-taj"
@@ -199,24 +199,24 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Marj District",
             "s_region_slug": "marj-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "marj-district",
                     "s_city_name": "Al Abyar",
                     "s_city_slug": "al-abyar"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "marj-district",
                     "s_city_name": "Al Marj",
                     "s_city_slug": "al-marj"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "marj-district",
                     "s_city_name": "Tukrah",
                     "s_city_slug": "tukrah"
@@ -224,24 +224,24 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Misrata District",
             "s_region_slug": "misrata-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "misrata-district",
                     "s_city_name": "Bani Walid",
                     "s_city_slug": "bani-walid"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "misrata-district",
                     "s_city_name": "Misratah",
                     "s_city_slug": "misratah"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "misrata-district",
                     "s_city_name": "Zliten",
                     "s_city_slug": "zliten"
@@ -249,24 +249,24 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Murqub",
             "s_region_slug": "murqub",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "murqub",
                     "s_city_name": "Al Khums",
                     "s_city_slug": "al-khums"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "murqub",
                     "s_city_name": "Masallatah",
                     "s_city_slug": "masallatah"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "murqub",
                     "s_city_name": "Tarhuna",
                     "s_city_slug": "tarhuna"
@@ -274,18 +274,18 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Murzuq District",
             "s_region_slug": "murzuq-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "murzuq-district",
                     "s_city_name": "Al Qatrun",
                     "s_city_slug": "al-qatrun"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "murzuq-district",
                     "s_city_name": "Murzuq",
                     "s_city_slug": "murzuq"
@@ -293,18 +293,18 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Nalut District",
             "s_region_slug": "nalut-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "nalut-district",
                     "s_city_name": "Ghadamis",
                     "s_city_slug": "ghadamis"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "nalut-district",
                     "s_city_name": "Nalut",
                     "s_city_slug": "nalut"
@@ -312,24 +312,24 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Nuqat al Khams",
             "s_region_slug": "nuqat-al-khams",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "nuqat-al-khams",
                     "s_city_name": "Al Ajaylat",
                     "s_city_slug": "al-ajaylat"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "nuqat-al-khams",
                     "s_city_name": "Zaltan",
                     "s_city_slug": "zaltan"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "nuqat-al-khams",
                     "s_city_name": "Zuwarah",
                     "s_city_slug": "zuwarah"
@@ -337,18 +337,18 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Sabha District",
             "s_region_slug": "sabha-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "sabha-district",
                     "s_city_name": "Al Jadid",
                     "s_city_slug": "al-jadid"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "sabha-district",
                     "s_city_name": "Sabha",
                     "s_city_slug": "sabha"
@@ -356,18 +356,18 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Sirte District",
             "s_region_slug": "sirte-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "sirte-district",
                     "s_city_name": "Qasr Abu Hadi",
                     "s_city_slug": "qasr-abu-hadi"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "sirte-district",
                     "s_city_name": "Sirte",
                     "s_city_slug": "sirte"
@@ -375,18 +375,18 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Tripoli District",
             "s_region_slug": "tripoli-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "tripoli-district",
                     "s_city_name": "Tagiura",
                     "s_city_slug": "tagiura"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "tripoli-district",
                     "s_city_name": "Tripoli",
                     "s_city_slug": "tripoli"
@@ -394,12 +394,12 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Wadi al Hayaa District",
             "s_region_slug": "wadi-al-hayaa-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "wadi-al-hayaa-district",
                     "s_city_name": "Ubari",
                     "s_city_slug": "ubari"
@@ -407,18 +407,18 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Wadi al Shatii District",
             "s_region_slug": "wadi-al-shatii-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "wadi-al-shatii-district",
                     "s_city_name": "Brak",
                     "s_city_slug": "brak"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "wadi-al-shatii-district",
                     "s_city_name": "Idri",
                     "s_city_slug": "idri"
@@ -426,30 +426,30 @@
             ]
         },
         {
-            "s_country_code": "LY",
+            "s_country_code": "ly",
             "s_region_name": "Zawiya District",
             "s_region_slug": "zawiya-district",
             "cities": [
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "zawiya-district",
                     "s_city_name": "Az Zawiyah",
                     "s_city_slug": "az-zawiyah"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "zawiya-district",
                     "s_city_name": "Sabratah",
                     "s_city_slug": "sabratah"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "zawiya-district",
                     "s_city_name": "Surman",
                     "s_city_slug": "surman"
                 },
                 {
-                    "s_country_code": "LY",
+                    "s_country_code": "ly",
                     "s_region_slug": "zawiya-district",
                     "s_city_name": "Zawiya",
                     "s_city_slug": "zawiya"

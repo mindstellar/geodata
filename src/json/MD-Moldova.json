@@ -4,18 +4,18 @@
     "s_country_slug": "moldova",
     "regions": [
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Anenii Noi District",
             "s_region_slug": "anenii-noi-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "anenii-noi-district",
                     "s_city_name": "Anenii Noi",
                     "s_city_slug": "anenii-noi"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "anenii-noi-district",
                     "s_city_name": "Varnita",
                     "s_city_slug": "varnita"
@@ -23,12 +23,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Balti Municipality",
             "s_region_slug": "balti-municipality",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "balti-municipality",
                     "s_city_name": "Balti",
                     "s_city_slug": "balti"
@@ -36,12 +36,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Basarabeasca District",
             "s_region_slug": "basarabeasca-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "basarabeasca-district",
                     "s_city_name": "Basarabeasca",
                     "s_city_slug": "basarabeasca"
@@ -49,12 +49,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Bender Municipality",
             "s_region_slug": "bender-municipality",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "bender-municipality",
                     "s_city_name": "Bender",
                     "s_city_slug": "bender"
@@ -62,12 +62,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Briceni District",
             "s_region_slug": "briceni-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "briceni-district",
                     "s_city_name": "Briceni",
                     "s_city_slug": "briceni"
@@ -75,18 +75,18 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Cahul District",
             "s_region_slug": "cahul-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "cahul-district",
                     "s_city_name": "Cahul",
                     "s_city_slug": "cahul"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "cahul-district",
                     "s_city_name": "Giurgiulesti",
                     "s_city_slug": "giurgiulesti"
@@ -94,12 +94,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Calarasi District",
             "s_region_slug": "calarasi-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "calarasi-district",
                     "s_city_name": "Calarasi",
                     "s_city_slug": "calarasi"
@@ -107,24 +107,24 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Cantemir District",
             "s_region_slug": "cantemir-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "cantemir-district",
                     "s_city_name": "Cantemir",
                     "s_city_slug": "cantemir"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "cantemir-district",
                     "s_city_name": "Iargara",
                     "s_city_slug": "iargara"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "cantemir-district",
                     "s_city_name": "Visniovca",
                     "s_city_slug": "visniovca"
@@ -132,18 +132,18 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Causeni District",
             "s_region_slug": "causeni-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "causeni-district",
                     "s_city_name": "Causeni",
                     "s_city_slug": "causeni"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "causeni-district",
                     "s_city_name": "Chitcani",
                     "s_city_slug": "chitcani"
@@ -151,48 +151,48 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Chisinau Municipality",
             "s_region_slug": "chisinau-municipality",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "chisinau-municipality",
                     "s_city_name": "Chisinau",
                     "s_city_slug": "chisinau"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "chisinau-municipality",
                     "s_city_name": "Ciorescu",
                     "s_city_slug": "ciorescu"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "chisinau-municipality",
                     "s_city_name": "Cricova",
                     "s_city_slug": "cricova"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "chisinau-municipality",
                     "s_city_name": "Singera",
                     "s_city_slug": "singera"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "chisinau-municipality",
                     "s_city_name": "Stauceni",
                     "s_city_slug": "stauceni"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "chisinau-municipality",
                     "s_city_name": "Vadul lui Voda",
                     "s_city_slug": "vadul-lui-voda"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "chisinau-municipality",
                     "s_city_name": "Vatra",
                     "s_city_slug": "vatra"
@@ -200,12 +200,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Cimislia District",
             "s_region_slug": "cimislia-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "cimislia-district",
                     "s_city_name": "Cimislia",
                     "s_city_slug": "cimislia"
@@ -213,12 +213,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Criuleni District",
             "s_region_slug": "criuleni-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "criuleni-district",
                     "s_city_name": "Criuleni",
                     "s_city_slug": "criuleni"
@@ -226,18 +226,18 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Donduseni District",
             "s_region_slug": "donduseni-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "donduseni-district",
                     "s_city_name": "Briceni",
                     "s_city_slug": "briceni"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "donduseni-district",
                     "s_city_name": "Donduseni",
                     "s_city_slug": "donduseni"
@@ -245,12 +245,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Drochia District",
             "s_region_slug": "drochia-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "drochia-district",
                     "s_city_name": "Drochia",
                     "s_city_slug": "drochia"
@@ -258,18 +258,18 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Dubasari District",
             "s_region_slug": "dubasari-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "dubasari-district",
                     "s_city_name": "Cocieri",
                     "s_city_slug": "cocieri"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "dubasari-district",
                     "s_city_name": "Ustia",
                     "s_city_slug": "ustia"
@@ -277,12 +277,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Edinet District",
             "s_region_slug": "edinet-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "edinet-district",
                     "s_city_name": "Edinet",
                     "s_city_slug": "edinet"
@@ -290,12 +290,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Falesti District",
             "s_region_slug": "falesti-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "falesti-district",
                     "s_city_name": "Falesti",
                     "s_city_slug": "falesti"
@@ -303,24 +303,24 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Floresti District",
             "s_region_slug": "floresti-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "floresti-district",
                     "s_city_name": "Floresti",
                     "s_city_slug": "floresti"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "floresti-district",
                     "s_city_name": "Ghindesti",
                     "s_city_slug": "ghindesti"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "floresti-district",
                     "s_city_name": "Marculesti",
                     "s_city_slug": "marculesti"
@@ -328,30 +328,30 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Gagauzia",
             "s_region_slug": "gagauzia",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "gagauzia",
                     "s_city_name": "Bugeac",
                     "s_city_slug": "bugeac"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "gagauzia",
                     "s_city_name": "Ceadir-Lunga",
                     "s_city_slug": "ceadir-lunga"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "gagauzia",
                     "s_city_name": "Comrat",
                     "s_city_slug": "comrat"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "gagauzia",
                     "s_city_name": "Vulcanesti",
                     "s_city_slug": "vulcanesti"
@@ -359,12 +359,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Glodeni District",
             "s_region_slug": "glodeni-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "glodeni-district",
                     "s_city_name": "Glodeni",
                     "s_city_slug": "glodeni"
@@ -372,18 +372,18 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Hincesti District",
             "s_region_slug": "hincesti-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "hincesti-district",
                     "s_city_name": "Dancu",
                     "s_city_slug": "dancu"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "hincesti-district",
                     "s_city_name": "Hincesti",
                     "s_city_slug": "hincesti"
@@ -391,12 +391,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Ialoveni District",
             "s_region_slug": "ialoveni-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "ialoveni-district",
                     "s_city_name": "Ialoveni",
                     "s_city_slug": "ialoveni"
@@ -404,12 +404,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Nisporeni District",
             "s_region_slug": "nisporeni-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "nisporeni-district",
                     "s_city_name": "Nisporeni",
                     "s_city_slug": "nisporeni"
@@ -417,18 +417,18 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Ocnita District",
             "s_region_slug": "ocnita-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "ocnita-district",
                     "s_city_name": "Ocnita",
                     "s_city_slug": "ocnita"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "ocnita-district",
                     "s_city_name": "Otaci",
                     "s_city_slug": "otaci"
@@ -436,12 +436,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Orhei District",
             "s_region_slug": "orhei-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "orhei-district",
                     "s_city_name": "Orhei",
                     "s_city_slug": "orhei"
@@ -449,18 +449,18 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Rezina District",
             "s_region_slug": "rezina-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "rezina-district",
                     "s_city_name": "Rezina",
                     "s_city_slug": "rezina"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "rezina-district",
                     "s_city_name": "Saharna",
                     "s_city_slug": "saharna"
@@ -468,12 +468,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Riscani District",
             "s_region_slug": "riscani-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "riscani-district",
                     "s_city_name": "Riscani",
                     "s_city_slug": "riscani"
@@ -481,24 +481,24 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Singerei District",
             "s_region_slug": "singerei-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "singerei-district",
                     "s_city_name": "Bilicenii Vechi",
                     "s_city_slug": "bilicenii-vechi"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "singerei-district",
                     "s_city_name": "Biruinta",
                     "s_city_slug": "biruinta"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "singerei-district",
                     "s_city_name": "Singerei",
                     "s_city_slug": "singerei"
@@ -506,12 +506,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Soldanesti District",
             "s_region_slug": "soldanesti-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "soldanesti-district",
                     "s_city_name": "Soldanesti",
                     "s_city_slug": "soldanesti"
@@ -519,12 +519,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Soroca District",
             "s_region_slug": "soroca-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "soroca-district",
                     "s_city_name": "Soroca",
                     "s_city_slug": "soroca"
@@ -532,12 +532,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Stefan Voda District",
             "s_region_slug": "stefan-voda-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "stefan-voda-district",
                     "s_city_name": "Stefan Voda",
                     "s_city_slug": "stefan-voda"
@@ -545,18 +545,18 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Straseni District",
             "s_region_slug": "straseni-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "straseni-district",
                     "s_city_name": "Bucovat",
                     "s_city_slug": "bucovat"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "straseni-district",
                     "s_city_name": "Straseni",
                     "s_city_slug": "straseni"
@@ -564,18 +564,18 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Taraclia District",
             "s_region_slug": "taraclia-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "taraclia-district",
                     "s_city_name": "Taraclia",
                     "s_city_slug": "taraclia"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "taraclia-district",
                     "s_city_name": "Tvardita",
                     "s_city_slug": "tvardita"
@@ -583,18 +583,18 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Telenesti District",
             "s_region_slug": "telenesti-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "telenesti-district",
                     "s_city_name": "Mindresti",
                     "s_city_slug": "mindresti"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "telenesti-district",
                     "s_city_name": "Telenesti",
                     "s_city_slug": "telenesti"
@@ -602,72 +602,72 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Transnistria autonomous territorial unit",
             "s_region_slug": "transnistria-autonomous-territorial-unit",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "transnistria-autonomous-territorial-unit",
                     "s_city_name": "Camenca",
                     "s_city_slug": "camenca"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "transnistria-autonomous-territorial-unit",
                     "s_city_name": "Crasnoe",
                     "s_city_slug": "crasnoe"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "transnistria-autonomous-territorial-unit",
                     "s_city_name": "Dnestrovsc",
                     "s_city_slug": "dnestrovsc"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "transnistria-autonomous-territorial-unit",
                     "s_city_name": "Dubasari",
                     "s_city_slug": "dubasari"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "transnistria-autonomous-territorial-unit",
                     "s_city_name": "Hryhoriopol",
                     "s_city_slug": "hryhoriopol"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "transnistria-autonomous-territorial-unit",
                     "s_city_name": "Maiac",
                     "s_city_slug": "maiac"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "transnistria-autonomous-territorial-unit",
                     "s_city_name": "Pervomaisc",
                     "s_city_slug": "pervomaisc"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "transnistria-autonomous-territorial-unit",
                     "s_city_name": "Ribnita",
                     "s_city_slug": "ribnita"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "transnistria-autonomous-territorial-unit",
                     "s_city_name": "Slobozia",
                     "s_city_slug": "slobozia"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "transnistria-autonomous-territorial-unit",
                     "s_city_name": "Tiraspol",
                     "s_city_slug": "tiraspol"
                 },
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "transnistria-autonomous-territorial-unit",
                     "s_city_name": "Tiraspolul Nou",
                     "s_city_slug": "tiraspolul-nou"
@@ -675,12 +675,12 @@
             ]
         },
         {
-            "s_country_code": "MD",
+            "s_country_code": "md",
             "s_region_name": "Ungheni District",
             "s_region_slug": "ungheni-district",
             "cities": [
                 {
-                    "s_country_code": "MD",
+                    "s_country_code": "md",
                     "s_region_slug": "ungheni-district",
                     "s_city_name": "Ungheni",
                     "s_city_slug": "ungheni"

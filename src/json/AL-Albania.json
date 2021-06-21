@@ -4,12 +4,12 @@
     "s_country_slug": "albania",
     "regions": [
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Berat County",
             "s_region_slug": "berat-county",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-county",
                     "s_city_name": "Berat County",
                     "s_city_slug": "berat-county"
@@ -17,84 +17,84 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Berat District",
             "s_region_slug": "berat-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Banaj",
                     "s_city_slug": "banaj"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Bashkia Berat",
                     "s_city_slug": "bashkia-berat"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Bashkia Kucove",
                     "s_city_slug": "bashkia-kucove"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Bashkia Polican",
                     "s_city_slug": "bashkia-polican"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Bashkia Skrapar",
                     "s_city_slug": "bashkia-skrapar"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Berat",
                     "s_city_slug": "berat"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Corovode",
                     "s_city_slug": "corovode"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Kucove",
                     "s_city_slug": "kucove"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Polican",
                     "s_city_slug": "polican"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Rrethi i Beratit",
                     "s_city_slug": "rrethi-i-beratit"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Rrethi i Kucoves",
                     "s_city_slug": "rrethi-i-kucoves"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Rrethi i Skraparit",
                     "s_city_slug": "rrethi-i-skraparit"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "berat-district",
                     "s_city_name": "Ura Vajgurore",
                     "s_city_slug": "ura-vajgurore"
@@ -102,12 +102,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Bulqize District",
             "s_region_slug": "bulqize-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "bulqize-district",
                     "s_city_name": "Bulqize District",
                     "s_city_slug": "bulqize-district"
@@ -115,12 +115,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Delvine District",
             "s_region_slug": "delvine-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "delvine-district",
                     "s_city_name": "Delvine District",
                     "s_city_slug": "delvine-district"
@@ -128,12 +128,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Devoll District",
             "s_region_slug": "devoll-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "devoll-district",
                     "s_city_name": "Devoll District",
                     "s_city_slug": "devoll-district"
@@ -141,72 +141,72 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Diber County",
             "s_region_slug": "diber-county",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "diber-county",
                     "s_city_name": "Bashkia Bulqize",
                     "s_city_slug": "bashkia-bulqize"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "diber-county",
                     "s_city_name": "Bashkia Klos",
                     "s_city_slug": "bashkia-klos"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "diber-county",
                     "s_city_name": "Bashkia Mat",
                     "s_city_slug": "bashkia-mat"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "diber-county",
                     "s_city_name": "Bulqize",
                     "s_city_slug": "bulqize"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "diber-county",
                     "s_city_name": "Burrel",
                     "s_city_slug": "burrel"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "diber-county",
                     "s_city_name": "Klos",
                     "s_city_slug": "klos"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "diber-county",
                     "s_city_name": "Peshkopi",
                     "s_city_slug": "peshkopi"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "diber-county",
                     "s_city_name": "Rrethi i Bulqizes",
                     "s_city_slug": "rrethi-i-bulqizes"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "diber-county",
                     "s_city_name": "Rrethi i Dibres",
                     "s_city_slug": "rrethi-i-dibres"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "diber-county",
                     "s_city_name": "Rrethi i Matit",
                     "s_city_slug": "rrethi-i-matit"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "diber-county",
                     "s_city_name": "Ulez",
                     "s_city_slug": "ulez"
@@ -214,12 +214,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Diber District",
             "s_region_slug": "diber-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "diber-district",
                     "s_city_name": "Diber District",
                     "s_city_slug": "diber-district"
@@ -227,12 +227,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Durres County",
             "s_region_slug": "durres-county",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "durres-county",
                     "s_city_name": "Durres County",
                     "s_city_slug": "durres-county"
@@ -240,66 +240,66 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Durres District",
             "s_region_slug": "durres-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "durres-district",
                     "s_city_name": "Bashkia Durres",
                     "s_city_slug": "bashkia-durres"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "durres-district",
                     "s_city_name": "Bashkia Kruje",
                     "s_city_slug": "bashkia-kruje"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "durres-district",
                     "s_city_name": "Bashkia Shijak",
                     "s_city_slug": "bashkia-shijak"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "durres-district",
                     "s_city_name": "Durres",
                     "s_city_slug": "durres"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "durres-district",
                     "s_city_name": "Durres District",
                     "s_city_slug": "durres-district"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "durres-district",
                     "s_city_name": "Fushe-Kruje",
                     "s_city_slug": "fushe-kruje"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "durres-district",
                     "s_city_name": "Kruje",
                     "s_city_slug": "kruje"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "durres-district",
                     "s_city_name": "Rrethi i Krujes",
                     "s_city_slug": "rrethi-i-krujes"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "durres-district",
                     "s_city_name": "Shijak",
                     "s_city_slug": "shijak"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "durres-district",
                     "s_city_name": "Sukth",
                     "s_city_slug": "sukth"
@@ -307,12 +307,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Elbasan County",
             "s_region_slug": "elbasan-county",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "elbasan-county",
                     "s_city_name": "Elbasan County",
                     "s_city_slug": "elbasan-county"
@@ -320,84 +320,84 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Fier County",
             "s_region_slug": "fier-county",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Ballsh",
                     "s_city_slug": "ballsh"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Bashkia Divjake",
                     "s_city_slug": "bashkia-divjake"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Bashkia Fier",
                     "s_city_slug": "bashkia-fier"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Bashkia Mallakaster",
                     "s_city_slug": "bashkia-mallakaster"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Bashkia Patos",
                     "s_city_slug": "bashkia-patos"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Divjake",
                     "s_city_slug": "divjake"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Fier",
                     "s_city_slug": "fier"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Fier-Cifci",
                     "s_city_slug": "fier-cifci"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Lushnje",
                     "s_city_slug": "lushnje"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Patos",
                     "s_city_slug": "patos"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Patos Fshat",
                     "s_city_slug": "patos-fshat"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Roskovec",
                     "s_city_slug": "roskovec"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-county",
                     "s_city_name": "Rrethi i Mallakastres",
                     "s_city_slug": "rrethi-i-mallakastres"
@@ -405,12 +405,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Fier District",
             "s_region_slug": "fier-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "fier-district",
                     "s_city_name": "Fier District",
                     "s_city_slug": "fier-district"
@@ -418,12 +418,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Gjirokaster County",
             "s_region_slug": "gjirokaster-county",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-county",
                     "s_city_name": "Gjirokaster County",
                     "s_city_slug": "gjirokaster-county"
@@ -431,90 +431,90 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Gjirokaster District",
             "s_region_slug": "gjirokaster-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Bashkia Dropull",
                     "s_city_slug": "bashkia-dropull"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Bashkia Kelcyre",
                     "s_city_slug": "bashkia-kelcyre"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Bashkia Libohove",
                     "s_city_slug": "bashkia-libohove"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Bashkia Memaliaj",
                     "s_city_slug": "bashkia-memaliaj"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Bashkia Permet",
                     "s_city_slug": "bashkia-permet"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Bashkia Tepelene",
                     "s_city_slug": "bashkia-tepelene"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Gjinkar",
                     "s_city_slug": "gjinkar"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Gjirokaster",
                     "s_city_slug": "gjirokaster"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Kelcyre",
                     "s_city_slug": "kelcyre"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Lazarat",
                     "s_city_slug": "lazarat"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Libohove",
                     "s_city_slug": "libohove"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Memaliaj",
                     "s_city_slug": "memaliaj"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Permet",
                     "s_city_slug": "permet"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gjirokaster-district",
                     "s_city_name": "Tepelene",
                     "s_city_slug": "tepelene"
@@ -522,12 +522,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Gramsh District",
             "s_region_slug": "gramsh-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "gramsh-district",
                     "s_city_name": "Gramsh District",
                     "s_city_slug": "gramsh-district"
@@ -535,12 +535,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Has District",
             "s_region_slug": "has-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "has-district",
                     "s_city_name": "Has District",
                     "s_city_slug": "has-district"
@@ -548,12 +548,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Kavaje District",
             "s_region_slug": "kavaje-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "kavaje-district",
                     "s_city_name": "Kavaje District",
                     "s_city_slug": "kavaje-district"
@@ -561,12 +561,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Kolonje District",
             "s_region_slug": "kolonje-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "kolonje-district",
                     "s_city_name": "Kolonje District",
                     "s_city_slug": "kolonje-district"
@@ -574,102 +574,102 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Korce County",
             "s_region_slug": "korce-county",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Bashkia Devoll",
                     "s_city_slug": "bashkia-devoll"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Bashkia Kolonje",
                     "s_city_slug": "bashkia-kolonje"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Bashkia Maliq",
                     "s_city_slug": "bashkia-maliq"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Bashkia Pustec",
                     "s_city_slug": "bashkia-pustec"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Bilisht",
                     "s_city_slug": "bilisht"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Erseke",
                     "s_city_slug": "erseke"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Korce",
                     "s_city_slug": "korce"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Leskovik",
                     "s_city_slug": "leskovik"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Libonik",
                     "s_city_slug": "libonik"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Maliq",
                     "s_city_slug": "maliq"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Mborje",
                     "s_city_slug": "mborje"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Pogradec",
                     "s_city_slug": "pogradec"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Rrethi i Devollit",
                     "s_city_slug": "rrethi-i-devollit"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Rrethi i Kolonjes",
                     "s_city_slug": "rrethi-i-kolonjes"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Velcan",
                     "s_city_slug": "velcan"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-county",
                     "s_city_name": "Voskopoje",
                     "s_city_slug": "voskopoje"
@@ -677,12 +677,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Korce District",
             "s_region_slug": "korce-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "korce-district",
                     "s_city_name": "Korce District",
                     "s_city_slug": "korce-district"
@@ -690,12 +690,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Kruje District",
             "s_region_slug": "kruje-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "kruje-district",
                     "s_city_name": "Kruje District",
                     "s_city_slug": "kruje-district"
@@ -703,12 +703,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Kucove District",
             "s_region_slug": "kucove-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "kucove-district",
                     "s_city_name": "Kucove District",
                     "s_city_slug": "kucove-district"
@@ -716,12 +716,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Kukes County",
             "s_region_slug": "kukes-county",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "kukes-county",
                     "s_city_name": "Kukes County",
                     "s_city_slug": "kukes-county"
@@ -729,36 +729,36 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Kukes District",
             "s_region_slug": "kukes-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "kukes-district",
                     "s_city_name": "Bajram Curri",
                     "s_city_slug": "bajram-curri"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "kukes-district",
                     "s_city_name": "Krume",
                     "s_city_slug": "krume"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "kukes-district",
                     "s_city_name": "Kukes",
                     "s_city_slug": "kukes"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "kukes-district",
                     "s_city_name": "Rrethi i Hasit",
                     "s_city_slug": "rrethi-i-hasit"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "kukes-district",
                     "s_city_name": "Rrethi i Kukesit",
                     "s_city_slug": "rrethi-i-kukesit"
@@ -766,12 +766,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Kurbin District",
             "s_region_slug": "kurbin-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "kurbin-district",
                     "s_city_name": "Kurbin District",
                     "s_city_slug": "kurbin-district"
@@ -779,78 +779,78 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Lezhe County",
             "s_region_slug": "lezhe-county",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-county",
                     "s_city_name": "Bashkia Kurbin",
                     "s_city_slug": "bashkia-kurbin"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-county",
                     "s_city_name": "Bashkia Lezhe",
                     "s_city_slug": "bashkia-lezhe"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-county",
                     "s_city_name": "Bashkia Mirdite",
                     "s_city_slug": "bashkia-mirdite"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-county",
                     "s_city_name": "Kurbnesh",
                     "s_city_slug": "kurbnesh"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-county",
                     "s_city_name": "Lac",
                     "s_city_slug": "lac"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-county",
                     "s_city_name": "Lezhe",
                     "s_city_slug": "lezhe"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-county",
                     "s_city_name": "Mamurras",
                     "s_city_slug": "mamurras"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-county",
                     "s_city_name": "Milot",
                     "s_city_slug": "milot"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-county",
                     "s_city_name": "Rreshen",
                     "s_city_slug": "rreshen"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-county",
                     "s_city_name": "Rrethi i Kurbinit",
                     "s_city_slug": "rrethi-i-kurbinit"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-county",
                     "s_city_name": "Rubik",
                     "s_city_slug": "rubik"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-county",
                     "s_city_name": "Shengjin",
                     "s_city_slug": "shengjin"
@@ -858,12 +858,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Lezhe District",
             "s_region_slug": "lezhe-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lezhe-district",
                     "s_city_name": "Lezhe District",
                     "s_city_slug": "lezhe-district"
@@ -871,12 +871,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Librazhd District",
             "s_region_slug": "librazhd-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "librazhd-district",
                     "s_city_name": "Librazhd District",
                     "s_city_slug": "librazhd-district"
@@ -884,12 +884,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Lushnje District",
             "s_region_slug": "lushnje-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "lushnje-district",
                     "s_city_name": "Lushnje District",
                     "s_city_slug": "lushnje-district"
@@ -897,12 +897,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Malesi e Madhe District",
             "s_region_slug": "malesi-e-madhe-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "malesi-e-madhe-district",
                     "s_city_name": "Malesi e Madhe District",
                     "s_city_slug": "malesi-e-madhe-district"
@@ -910,12 +910,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Mallakaster District",
             "s_region_slug": "mallakaster-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "mallakaster-district",
                     "s_city_name": "Mallakaster District",
                     "s_city_slug": "mallakaster-district"
@@ -923,12 +923,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Mat District",
             "s_region_slug": "mat-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "mat-district",
                     "s_city_name": "Mat District",
                     "s_city_slug": "mat-district"
@@ -936,12 +936,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Mirdite District",
             "s_region_slug": "mirdite-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "mirdite-district",
                     "s_city_name": "Mirdite District",
                     "s_city_slug": "mirdite-district"
@@ -949,12 +949,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Peqin District",
             "s_region_slug": "peqin-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "peqin-district",
                     "s_city_name": "Peqin District",
                     "s_city_slug": "peqin-district"
@@ -962,12 +962,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Permet District",
             "s_region_slug": "permet-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "permet-district",
                     "s_city_name": "Permet District",
                     "s_city_slug": "permet-district"
@@ -975,12 +975,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Pogradec District",
             "s_region_slug": "pogradec-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "pogradec-district",
                     "s_city_name": "Pogradec District",
                     "s_city_slug": "pogradec-district"
@@ -988,12 +988,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Puke District",
             "s_region_slug": "puke-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "puke-district",
                     "s_city_name": "Puke District",
                     "s_city_slug": "puke-district"
@@ -1001,12 +1001,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Sarande District",
             "s_region_slug": "sarande-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "sarande-district",
                     "s_city_name": "Sarande District",
                     "s_city_slug": "sarande-district"
@@ -1014,12 +1014,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Shkoder County",
             "s_region_slug": "shkoder-county",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "shkoder-county",
                     "s_city_name": "Shkoder County",
                     "s_city_slug": "shkoder-county"
@@ -1027,72 +1027,72 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Shkoder District",
             "s_region_slug": "shkoder-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "shkoder-district",
                     "s_city_name": "Bashkia Malesi e Madhe",
                     "s_city_slug": "bashkia-malesi-e-madhe"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "shkoder-district",
                     "s_city_name": "Bashkia Puke",
                     "s_city_slug": "bashkia-puke"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "shkoder-district",
                     "s_city_name": "Bashkia Vau i Dejes",
                     "s_city_slug": "bashkia-vau-i-dejes"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "shkoder-district",
                     "s_city_name": "Fushe-Arrez",
                     "s_city_slug": "fushe-arrez"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "shkoder-district",
                     "s_city_name": "Koplik",
                     "s_city_slug": "koplik"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "shkoder-district",
                     "s_city_name": "Puke",
                     "s_city_slug": "puke"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "shkoder-district",
                     "s_city_name": "Rrethi i Malesia e Madhe",
                     "s_city_slug": "rrethi-i-malesia-e-madhe"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "shkoder-district",
                     "s_city_name": "Rrethi i Shkodres",
                     "s_city_slug": "rrethi-i-shkodres"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "shkoder-district",
                     "s_city_name": "Shkoder",
                     "s_city_slug": "shkoder"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "shkoder-district",
                     "s_city_name": "Vau i Dejes",
                     "s_city_slug": "vau-i-dejes"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "shkoder-district",
                     "s_city_name": "Vukatane",
                     "s_city_slug": "vukatane"
@@ -1100,12 +1100,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Skrapar District",
             "s_region_slug": "skrapar-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "skrapar-district",
                     "s_city_name": "Skrapar District",
                     "s_city_slug": "skrapar-district"
@@ -1113,12 +1113,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Tepelene District",
             "s_region_slug": "tepelene-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tepelene-district",
                     "s_city_name": "Tepelene District",
                     "s_city_slug": "tepelene-district"
@@ -1126,12 +1126,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Tirana County",
             "s_region_slug": "tirana-county",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tirana-county",
                     "s_city_name": "Tirana County",
                     "s_city_slug": "tirana-county"
@@ -1139,72 +1139,72 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Tirana District",
             "s_region_slug": "tirana-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tirana-district",
                     "s_city_name": "Bashkia Kavaje",
                     "s_city_slug": "bashkia-kavaje"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tirana-district",
                     "s_city_name": "Bashkia Vore",
                     "s_city_slug": "bashkia-vore"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tirana-district",
                     "s_city_name": "Kamez",
                     "s_city_slug": "kamez"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tirana-district",
                     "s_city_name": "Kavaje",
                     "s_city_slug": "kavaje"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tirana-district",
                     "s_city_name": "Krrabe",
                     "s_city_slug": "krrabe"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tirana-district",
                     "s_city_name": "Rrethi i Kavajes",
                     "s_city_slug": "rrethi-i-kavajes"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tirana-district",
                     "s_city_name": "Rrethi i Tiranes",
                     "s_city_slug": "rrethi-i-tiranes"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tirana-district",
                     "s_city_name": "Rrogozhine",
                     "s_city_slug": "rrogozhine"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tirana-district",
                     "s_city_name": "Sinaballaj",
                     "s_city_slug": "sinaballaj"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tirana-district",
                     "s_city_name": "Tirana",
                     "s_city_slug": "tirana"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tirana-district",
                     "s_city_name": "Vore",
                     "s_city_slug": "vore"
@@ -1212,12 +1212,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Tropoje District",
             "s_region_slug": "tropoje-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "tropoje-district",
                     "s_city_name": "Tropoje District",
                     "s_city_slug": "tropoje-district"
@@ -1225,90 +1225,90 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Vlore County",
             "s_region_slug": "vlore-county",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Bashkia Finiq",
                     "s_city_slug": "bashkia-finiq"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Bashkia Himare",
                     "s_city_slug": "bashkia-himare"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Bashkia Konispol",
                     "s_city_slug": "bashkia-konispol"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Bashkia Selenice",
                     "s_city_slug": "bashkia-selenice"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Bashkia Vlore",
                     "s_city_slug": "bashkia-vlore"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Delvine",
                     "s_city_slug": "delvine"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Himare",
                     "s_city_slug": "himare"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Konispol",
                     "s_city_slug": "konispol"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Ksamil",
                     "s_city_slug": "ksamil"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Orikum",
                     "s_city_slug": "orikum"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Rrethi i Delvines",
                     "s_city_slug": "rrethi-i-delvines"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Sarande",
                     "s_city_slug": "sarande"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Selenice",
                     "s_city_slug": "selenice"
                 },
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-county",
                     "s_city_name": "Vlore",
                     "s_city_slug": "vlore"
@@ -1316,12 +1316,12 @@
             ]
         },
         {
-            "s_country_code": "AL",
+            "s_country_code": "al",
             "s_region_name": "Vlore District",
             "s_region_slug": "vlore-district",
             "cities": [
                 {
-                    "s_country_code": "AL",
+                    "s_country_code": "al",
                     "s_region_slug": "vlore-district",
                     "s_city_name": "Vlore District",
                     "s_city_slug": "vlore-district"

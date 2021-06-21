@@ -4,12 +4,12 @@
     "s_country_slug": "guyana",
     "regions": [
         {
-            "s_country_code": "GY",
+            "s_country_code": "gy",
             "s_region_name": "Barima-Waini",
             "s_region_slug": "barima-waini",
             "cities": [
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "barima-waini",
                     "s_city_name": "Mabaruma",
                     "s_city_slug": "mabaruma"
@@ -17,12 +17,12 @@
             ]
         },
         {
-            "s_country_code": "GY",
+            "s_country_code": "gy",
             "s_region_name": "Cuyuni-Mazaruni",
             "s_region_slug": "cuyuni-mazaruni",
             "cities": [
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "cuyuni-mazaruni",
                     "s_city_name": "Bartica",
                     "s_city_slug": "bartica"
@@ -30,18 +30,18 @@
             ]
         },
         {
-            "s_country_code": "GY",
+            "s_country_code": "gy",
             "s_region_name": "Demerara-Mahaica",
             "s_region_slug": "demerara-mahaica",
             "cities": [
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "demerara-mahaica",
                     "s_city_name": "Georgetown",
                     "s_city_slug": "georgetown"
                 },
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "demerara-mahaica",
                     "s_city_name": "Mahaica Village",
                     "s_city_slug": "mahaica-village"
@@ -49,18 +49,18 @@
             ]
         },
         {
-            "s_country_code": "GY",
+            "s_country_code": "gy",
             "s_region_name": "East Berbice-Corentyne",
             "s_region_slug": "east-berbice-corentyne",
             "cities": [
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "east-berbice-corentyne",
                     "s_city_name": "New Amsterdam",
                     "s_city_slug": "new-amsterdam"
                 },
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "east-berbice-corentyne",
                     "s_city_name": "Skeldon",
                     "s_city_slug": "skeldon"
@@ -68,18 +68,18 @@
             ]
         },
         {
-            "s_country_code": "GY",
+            "s_country_code": "gy",
             "s_region_name": "Essequibo Islands-West Demerara",
             "s_region_slug": "essequibo-islands-west-demerara",
             "cities": [
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "essequibo-islands-west-demerara",
                     "s_city_name": "Parika",
                     "s_city_slug": "parika"
                 },
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "essequibo-islands-west-demerara",
                     "s_city_name": "Vreed-en-Hoop",
                     "s_city_slug": "vreed-en-hoop"
@@ -87,18 +87,18 @@
             ]
         },
         {
-            "s_country_code": "GY",
+            "s_country_code": "gy",
             "s_region_name": "Mahaica-Berbice",
             "s_region_slug": "mahaica-berbice",
             "cities": [
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "mahaica-berbice",
                     "s_city_name": "Mahaicony Village",
                     "s_city_slug": "mahaicony-village"
                 },
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "mahaica-berbice",
                     "s_city_name": "Rosignol",
                     "s_city_slug": "rosignol"
@@ -106,12 +106,12 @@
             ]
         },
         {
-            "s_country_code": "GY",
+            "s_country_code": "gy",
             "s_region_name": "Pomeroon-Supenaam",
             "s_region_slug": "pomeroon-supenaam",
             "cities": [
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "pomeroon-supenaam",
                     "s_city_name": "Anna Regina",
                     "s_city_slug": "anna-regina"
@@ -119,12 +119,12 @@
             ]
         },
         {
-            "s_country_code": "GY",
+            "s_country_code": "gy",
             "s_region_name": "Potaro-Siparuni",
             "s_region_slug": "potaro-siparuni",
             "cities": [
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "potaro-siparuni",
                     "s_city_name": "Mahdia",
                     "s_city_slug": "mahdia"
@@ -132,12 +132,12 @@
             ]
         },
         {
-            "s_country_code": "GY",
+            "s_country_code": "gy",
             "s_region_name": "Upper Demerara-Berbice",
             "s_region_slug": "upper-demerara-berbice",
             "cities": [
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "upper-demerara-berbice",
                     "s_city_name": "Linden",
                     "s_city_slug": "linden"
@@ -145,12 +145,12 @@
             ]
         },
         {
-            "s_country_code": "GY",
+            "s_country_code": "gy",
             "s_region_name": "Upper Takutu-Upper Essequibo",
             "s_region_slug": "upper-takutu-upper-essequibo",
             "cities": [
                 {
-                    "s_country_code": "GY",
+                    "s_country_code": "gy",
                     "s_region_slug": "upper-takutu-upper-essequibo",
                     "s_city_name": "Lethem",
                     "s_city_slug": "lethem"

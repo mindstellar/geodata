@@ -4,12 +4,12 @@
     "s_country_slug": "serbia",
     "regions": [
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Autonomous Province of Kosovo and Metohija",
             "s_region_slug": "autonomous-province-of-kosovo-and-metohija",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "autonomous-province-of-kosovo-and-metohija",
                     "s_city_name": "Autonomous Province of Kosovo and Metohija",
                     "s_city_slug": "autonomous-province-of-kosovo-and-metohija"
@@ -17,12 +17,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Belgrade",
             "s_region_slug": "belgrade",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "belgrade",
                     "s_city_name": "Belgrade",
                     "s_city_slug": "belgrade"
@@ -30,12 +30,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Bor District",
             "s_region_slug": "bor-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "bor-district",
                     "s_city_name": "Bor District",
                     "s_city_slug": "bor-district"
@@ -43,12 +43,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Branicevo District",
             "s_region_slug": "branicevo-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "branicevo-district",
                     "s_city_name": "Branicevo District",
                     "s_city_slug": "branicevo-district"
@@ -56,864 +56,864 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Central Banat District",
             "s_region_slug": "central-banat-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Aranelovac",
                     "s_city_slug": "aranelovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Arilje",
                     "s_city_slug": "arilje"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Badovinci",
                     "s_city_slug": "badovinci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Bajina Basta",
                     "s_city_slug": "bajina-basta"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Banovo Polje",
                     "s_city_slug": "banovo-polje"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Baric",
                     "s_city_slug": "baric"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Becmen",
                     "s_city_slug": "becmen"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Belgrade",
                     "s_city_slug": "belgrade"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Belotic",
                     "s_city_slug": "belotic"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Biljaca",
                     "s_city_slug": "biljaca"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Bogatic",
                     "s_city_slug": "bogatic"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Bogosavac",
                     "s_city_slug": "bogosavac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Boljevci",
                     "s_city_slug": "boljevci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Bor",
                     "s_city_slug": "bor"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Brdarica",
                     "s_city_slug": "brdarica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Bukor",
                     "s_city_slug": "bukor"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Cacak",
                     "s_city_slug": "cacak"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Cajetina",
                     "s_city_slug": "cajetina"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Cicevac",
                     "s_city_slug": "cicevac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Cokesina",
                     "s_city_slug": "cokesina"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Crna Bara",
                     "s_city_slug": "crna-bara"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Cuprija",
                     "s_city_slug": "cuprija"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Dobanovci",
                     "s_city_slug": "dobanovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Dobric",
                     "s_city_slug": "dobric"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Donji Dobric",
                     "s_city_slug": "donji-dobric"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Donji Milanovac",
                     "s_city_slug": "donji-milanovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Draginje",
                     "s_city_slug": "draginje"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Drenovac",
                     "s_city_slug": "drenovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Dublje",
                     "s_city_slug": "dublje"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Duboka",
                     "s_city_slug": "duboka"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "urici",
                     "s_city_slug": "urici"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Glusci",
                     "s_city_slug": "glusci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Golubac",
                     "s_city_slug": "golubac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Gornja Bukovica",
                     "s_city_slug": "gornja-bukovica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Gornji Milanovac",
                     "s_city_slug": "gornji-milanovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Grabovac",
                     "s_city_slug": "grabovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Jablanica",
                     "s_city_slug": "jablanica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Jadranska Lesnica",
                     "s_city_slug": "jadranska-lesnica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Jagodina",
                     "s_city_slug": "jagodina"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Jarebice",
                     "s_city_slug": "jarebice"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Jelenca",
                     "s_city_slug": "jelenca"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Jevremovac",
                     "s_city_slug": "jevremovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Joseva",
                     "s_city_slug": "joseva"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Kamenica",
                     "s_city_slug": "kamenica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Klenje",
                     "s_city_slug": "klenje"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Knjazevac",
                     "s_city_slug": "knjazevac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Kolubara",
                     "s_city_slug": "kolubara"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Kozjak",
                     "s_city_slug": "kozjak"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Kragujevac",
                     "s_city_slug": "kragujevac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Kraljevo",
                     "s_city_slug": "kraljevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Krivaja",
                     "s_city_slug": "krivaja"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Krupanj",
                     "s_city_slug": "krupanj"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Krusevac",
                     "s_city_slug": "krusevac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Lagja e Poshtme",
                     "s_city_slug": "lagja-e-poshtme"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Lapovo",
                     "s_city_slug": "lapovo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Lazarevac",
                     "s_city_slug": "lazarevac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Leskovac",
                     "s_city_slug": "leskovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Lesnica",
                     "s_city_slug": "lesnica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Lipnicki Sor",
                     "s_city_slug": "lipnicki-sor"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Lipolist",
                     "s_city_slug": "lipolist"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Ljig",
                     "s_city_slug": "ljig"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Ljubovija",
                     "s_city_slug": "ljubovija"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Lugavcina",
                     "s_city_slug": "lugavcina"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Macva",
                     "s_city_slug": "macva"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Majdanpek",
                     "s_city_slug": "majdanpek"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Majur",
                     "s_city_slug": "majur"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Mala Mostanica",
                     "s_city_slug": "mala-mostanica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Mali Zvornik",
                     "s_city_slug": "mali-zvornik"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Metkovic",
                     "s_city_slug": "metkovic"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Miratovac",
                     "s_city_slug": "miratovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Morava",
                     "s_city_slug": "morava"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Negotin",
                     "s_city_slug": "negotin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Nis",
                     "s_city_slug": "nis"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Nisava",
                     "s_city_slug": "nisava"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Novi Pazar",
                     "s_city_slug": "novi-pazar"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Novo Selo",
                     "s_city_slug": "novo-selo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Obrenovac",
                     "s_city_slug": "obrenovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Osecina",
                     "s_city_slug": "osecina"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Osjecenik",
                     "s_city_slug": "osjecenik"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Ostruznica",
                     "s_city_slug": "ostruznica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Ovca",
                     "s_city_slug": "ovca"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Paracin",
                     "s_city_slug": "paracin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Pcinja",
                     "s_city_slug": "pcinja"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Petkovica",
                     "s_city_slug": "petkovica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Pirot",
                     "s_city_slug": "pirot"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Pocerski Pricinovic",
                     "s_city_slug": "pocerski-pricinovic"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Podunavlje District",
                     "s_city_slug": "podunavlje-district"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Pomoravlje",
                     "s_city_slug": "pomoravlje"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Pozarevac",
                     "s_city_slug": "pozarevac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Priboj",
                     "s_city_slug": "priboj"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Prijepolje",
                     "s_city_slug": "prijepolje"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Prislonica",
                     "s_city_slug": "prislonica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Prnjavor",
                     "s_city_slug": "prnjavor"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Prokuplje",
                     "s_city_slug": "prokuplje"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Radenka",
                     "s_city_slug": "radenka"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Radovnica",
                     "s_city_slug": "radovnica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Rajince",
                     "s_city_slug": "rajince"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Rasina",
                     "s_city_slug": "rasina"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Raska",
                     "s_city_slug": "raska"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Ribari",
                     "s_city_slug": "ribari"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Rumska",
                     "s_city_slug": "rumska"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Rusanj",
                     "s_city_slug": "rusanj"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Sabac",
                     "s_city_slug": "sabac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Salas Crnobarski",
                     "s_city_slug": "salas-crnobarski"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Samoljica",
                     "s_city_slug": "samoljica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Sevarice",
                     "s_city_slug": "sevarice"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Sevica",
                     "s_city_slug": "sevica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Sinosevic",
                     "s_city_slug": "sinosevic"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Sjenica",
                     "s_city_slug": "sjenica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Smederevo",
                     "s_city_slug": "smederevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Smederevska Palanka",
                     "s_city_slug": "smederevska-palanka"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Sokolovica",
                     "s_city_slug": "sokolovica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Sokolovo Brdo",
                     "s_city_slug": "sokolovo-brdo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Sremcica",
                     "s_city_slug": "sremcica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Stepojevac",
                     "s_city_slug": "stepojevac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Stitar",
                     "s_city_slug": "stitar"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Stubline",
                     "s_city_slug": "stubline"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Sumadija",
                     "s_city_slug": "sumadija"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Sumulice",
                     "s_city_slug": "sumulice"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Surcin",
                     "s_city_slug": "surcin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Tabanovic",
                     "s_city_slug": "tabanovic"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Toplica",
                     "s_city_slug": "toplica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Trsic",
                     "s_city_slug": "trsic"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Trstenik",
                     "s_city_slug": "trstenik"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Turija",
                     "s_city_slug": "turija"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Tutin",
                     "s_city_slug": "tutin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Ugrinovci",
                     "s_city_slug": "ugrinovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Umka",
                     "s_city_slug": "umka"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Uzice",
                     "s_city_slug": "uzice"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Uzvece",
                     "s_city_slug": "uzvece"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Valjevo",
                     "s_city_slug": "valjevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Varna",
                     "s_city_slug": "varna"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Velika Mostanica",
                     "s_city_slug": "velika-mostanica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Vladimirci",
                     "s_city_slug": "vladimirci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Vranic",
                     "s_city_slug": "vranic"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Vranje",
                     "s_city_slug": "vranje"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Vrnjacka Banja",
                     "s_city_slug": "vrnjacka-banja"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Zajecar",
                     "s_city_slug": "zajecar"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Zemun",
                     "s_city_slug": "zemun"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Zlatibor",
                     "s_city_slug": "zlatibor"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Zminjak",
                     "s_city_slug": "zminjak"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Zujince",
                     "s_city_slug": "zujince"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "central-banat-district",
                     "s_city_name": "Zvecka",
                     "s_city_slug": "zvecka"
@@ -921,12 +921,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Jablanica District",
             "s_region_slug": "jablanica-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "jablanica-district",
                     "s_city_name": "Jablanica District",
                     "s_city_slug": "jablanica-district"
@@ -934,12 +934,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Kolubara District",
             "s_region_slug": "kolubara-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "kolubara-district",
                     "s_city_name": "Kolubara District",
                     "s_city_slug": "kolubara-district"
@@ -947,12 +947,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Kosovo-Pomoravlje District",
             "s_region_slug": "kosovo-pomoravlje-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "kosovo-pomoravlje-district",
                     "s_city_name": "Kosovo-Pomoravlje District",
                     "s_city_slug": "kosovo-pomoravlje-district"
@@ -960,12 +960,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Kosovska Mitrovica District",
             "s_region_slug": "kosovska-mitrovica-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "kosovska-mitrovica-district",
                     "s_city_name": "Kosovska Mitrovica District",
                     "s_city_slug": "kosovska-mitrovica-district"
@@ -973,12 +973,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Macva District",
             "s_region_slug": "macva-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "macva-district",
                     "s_city_name": "Macva District",
                     "s_city_slug": "macva-district"
@@ -986,12 +986,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Moravica District",
             "s_region_slug": "moravica-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "moravica-district",
                     "s_city_name": "Moravica District",
                     "s_city_slug": "moravica-district"
@@ -999,12 +999,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Nisava District",
             "s_region_slug": "nisava-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "nisava-district",
                     "s_city_name": "Nisava District",
                     "s_city_slug": "nisava-district"
@@ -1012,12 +1012,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "North Backa District",
             "s_region_slug": "north-backa-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "north-backa-district",
                     "s_city_name": "North Backa District",
                     "s_city_slug": "north-backa-district"
@@ -1025,12 +1025,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "North Banat District",
             "s_region_slug": "north-banat-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "north-banat-district",
                     "s_city_name": "North Banat District",
                     "s_city_slug": "north-banat-district"
@@ -1038,12 +1038,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Pcinja District",
             "s_region_slug": "pcinja-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "pcinja-district",
                     "s_city_name": "Pcinja District",
                     "s_city_slug": "pcinja-district"
@@ -1051,12 +1051,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Pec District",
             "s_region_slug": "pec-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "pec-district",
                     "s_city_name": "Pec District",
                     "s_city_slug": "pec-district"
@@ -1064,12 +1064,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Pirot District",
             "s_region_slug": "pirot-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "pirot-district",
                     "s_city_name": "Pirot District",
                     "s_city_slug": "pirot-district"
@@ -1077,12 +1077,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Podunavlje District",
             "s_region_slug": "podunavlje-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "podunavlje-district",
                     "s_city_name": "Podunavlje District",
                     "s_city_slug": "podunavlje-district"
@@ -1090,12 +1090,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Pomoravlje District",
             "s_region_slug": "pomoravlje-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "pomoravlje-district",
                     "s_city_name": "Pomoravlje District",
                     "s_city_slug": "pomoravlje-district"
@@ -1103,12 +1103,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Prizren District",
             "s_region_slug": "prizren-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "prizren-district",
                     "s_city_name": "Prizren District",
                     "s_city_slug": "prizren-district"
@@ -1116,12 +1116,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Rasina District",
             "s_region_slug": "rasina-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "rasina-district",
                     "s_city_name": "Rasina District",
                     "s_city_slug": "rasina-district"
@@ -1129,12 +1129,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Raska District",
             "s_region_slug": "raska-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "raska-district",
                     "s_city_name": "Raska District",
                     "s_city_slug": "raska-district"
@@ -1142,12 +1142,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "South Backa District",
             "s_region_slug": "south-backa-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "south-backa-district",
                     "s_city_name": "South Backa District",
                     "s_city_slug": "south-backa-district"
@@ -1155,12 +1155,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "South Banat District",
             "s_region_slug": "south-banat-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "south-banat-district",
                     "s_city_name": "South Banat District",
                     "s_city_slug": "south-banat-district"
@@ -1168,12 +1168,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Srem District",
             "s_region_slug": "srem-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "srem-district",
                     "s_city_name": "Srem District",
                     "s_city_slug": "srem-district"
@@ -1181,12 +1181,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Sumadija District",
             "s_region_slug": "sumadija-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "sumadija-district",
                     "s_city_name": "Sumadija District",
                     "s_city_slug": "sumadija-district"
@@ -1194,12 +1194,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Toplica District",
             "s_region_slug": "toplica-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "toplica-district",
                     "s_city_name": "Toplica District",
                     "s_city_slug": "toplica-district"
@@ -1207,1152 +1207,1152 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Vojvodina",
             "s_region_slug": "vojvodina",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Adorjan",
                     "s_city_slug": "adorjan"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Aleksandrovo",
                     "s_city_slug": "aleksandrovo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Alibunar",
                     "s_city_slug": "alibunar"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Apatin",
                     "s_city_slug": "apatin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Aradac",
                     "s_city_slug": "aradac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Backa Palanka",
                     "s_city_slug": "backa-palanka"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Backa Topola",
                     "s_city_slug": "backa-topola"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Backi Breg",
                     "s_city_slug": "backi-breg"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Backi Petrovac",
                     "s_city_slug": "backi-petrovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Backo Gradiste",
                     "s_city_slug": "backo-gradiste"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Backo Petrovo Selo",
                     "s_city_slug": "backo-petrovo-selo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Banatska Topola",
                     "s_city_slug": "banatska-topola"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Banatski Despotovac",
                     "s_city_slug": "banatski-despotovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Banatski Dvor",
                     "s_city_slug": "banatski-dvor"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Banatski Karlovac",
                     "s_city_slug": "banatski-karlovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Banatsko Karaorevo",
                     "s_city_slug": "banatsko-karaorevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Banatsko Veliko Selo",
                     "s_city_slug": "banatsko-veliko-selo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Baranda",
                     "s_city_slug": "baranda"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Barice",
                     "s_city_slug": "barice"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Basaid",
                     "s_city_slug": "basaid"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Becej",
                     "s_city_slug": "becej"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Bela Crkva",
                     "s_city_slug": "bela-crkva"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Belegis",
                     "s_city_slug": "belegis"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Belo Blato",
                     "s_city_slug": "belo-blato"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Beska",
                     "s_city_slug": "beska"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Bocar",
                     "s_city_slug": "bocar"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Bogojevo",
                     "s_city_slug": "bogojevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Boka",
                     "s_city_slug": "boka"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Bosut",
                     "s_city_slug": "bosut"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Botos",
                     "s_city_slug": "botos"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Buanovci",
                     "s_city_slug": "buanovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Celarevo",
                     "s_city_slug": "celarevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Centa",
                     "s_city_slug": "centa"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Cestereg",
                     "s_city_slug": "cestereg"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Coka",
                     "s_city_slug": "coka"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Cortanovci",
                     "s_city_slug": "cortanovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Crepaja",
                     "s_city_slug": "crepaja"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Curug",
                     "s_city_slug": "curug"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Debeljaca",
                     "s_city_slug": "debeljaca"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Despotovo",
                     "s_city_slug": "despotovo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Dobrica",
                     "s_city_slug": "dobrica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Doroslovo",
                     "s_city_slug": "doroslovo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "urevo",
                     "s_city_slug": "urevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Ecka",
                     "s_city_slug": "ecka"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Elemir",
                     "s_city_slug": "elemir"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Farkazdin",
                     "s_city_slug": "farkazdin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Gakovo",
                     "s_city_slug": "gakovo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Gardinovci",
                     "s_city_slug": "gardinovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Glozan",
                     "s_city_slug": "glozan"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Golubinci",
                     "s_city_slug": "golubinci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Gornji Breg",
                     "s_city_slug": "gornji-breg"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Grabovci",
                     "s_city_slug": "grabovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Gudurica",
                     "s_city_slug": "gudurica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Hajducica",
                     "s_city_slug": "hajducica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Hetin",
                     "s_city_slug": "hetin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Hrtkovci",
                     "s_city_slug": "hrtkovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Idvor",
                     "s_city_slug": "idvor"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Ilandza",
                     "s_city_slug": "ilandza"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Inija",
                     "s_city_slug": "inija"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Irig",
                     "s_city_slug": "irig"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Izbiste",
                     "s_city_slug": "izbiste"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Janosik",
                     "s_city_slug": "janosik"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Jarak",
                     "s_city_slug": "jarak"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Jarkovac",
                     "s_city_slug": "jarkovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Jasa Tomic",
                     "s_city_slug": "jasa-tomic"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Jazovo",
                     "s_city_slug": "jazovo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Jermenovci",
                     "s_city_slug": "jermenovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kanjiza",
                     "s_city_slug": "kanjiza"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kikinda",
                     "s_city_slug": "kikinda"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kisac",
                     "s_city_slug": "kisac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Klek",
                     "s_city_slug": "klek"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Klenak",
                     "s_city_slug": "klenak"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Knicanin",
                     "s_city_slug": "knicanin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kolut",
                     "s_city_slug": "kolut"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Konak",
                     "s_city_slug": "konak"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kovacica",
                     "s_city_slug": "kovacica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kovilj",
                     "s_city_slug": "kovilj"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kovin",
                     "s_city_slug": "kovin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kozjak",
                     "s_city_slug": "kozjak"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Krajisnik",
                     "s_city_slug": "krajisnik"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Krcedin",
                     "s_city_slug": "krcedin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kulpin",
                     "s_city_slug": "kulpin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kumane",
                     "s_city_slug": "kumane"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kupinovo",
                     "s_city_slug": "kupinovo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kupusina",
                     "s_city_slug": "kupusina"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Kustilj",
                     "s_city_slug": "kustilj"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Lazarevo",
                     "s_city_slug": "lazarevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Ljukovo",
                     "s_city_slug": "ljukovo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Lok",
                     "s_city_slug": "lok"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Lokve",
                     "s_city_slug": "lokve"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Lukicevo",
                     "s_city_slug": "lukicevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Macvanska Mitrovica",
                     "s_city_slug": "macvanska-mitrovica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Maglic",
                     "s_city_slug": "maglic"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Margita",
                     "s_city_slug": "margita"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Mea",
                     "s_city_slug": "mea"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Melenci",
                     "s_city_slug": "melenci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Mihajlovo",
                     "s_city_slug": "mihajlovo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Mokrin",
                     "s_city_slug": "mokrin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Mol",
                     "s_city_slug": "mol"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Mosorin",
                     "s_city_slug": "mosorin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Nakovo",
                     "s_city_slug": "nakovo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Neuzina",
                     "s_city_slug": "neuzina"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Nikinci",
                     "s_city_slug": "nikinci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Nikolinci",
                     "s_city_slug": "nikolinci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Nova Crnja",
                     "s_city_slug": "nova-crnja"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Nova Pazova",
                     "s_city_slug": "nova-pazova"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Novi Banovci",
                     "s_city_slug": "novi-banovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Novi Itebej",
                     "s_city_slug": "novi-itebej"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Novi Karlovci",
                     "s_city_slug": "novi-karlovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Novi Knezevac",
                     "s_city_slug": "novi-knezevac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Novi Kozarci",
                     "s_city_slug": "novi-kozarci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Novi Sad",
                     "s_city_slug": "novi-sad"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Novi Slankamen",
                     "s_city_slug": "novi-slankamen"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Novo Milosevo",
                     "s_city_slug": "novo-milosevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Obrovac",
                     "s_city_slug": "obrovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Opovo",
                     "s_city_slug": "opovo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Orlovat",
                     "s_city_slug": "orlovat"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Ostojicevo",
                     "s_city_slug": "ostojicevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Padej",
                     "s_city_slug": "padej"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Padina",
                     "s_city_slug": "padina"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Pancevo",
                     "s_city_slug": "pancevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Pavlis",
                     "s_city_slug": "pavlis"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Pecinci",
                     "s_city_slug": "pecinci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Perlez",
                     "s_city_slug": "perlez"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Petrovaradin",
                     "s_city_slug": "petrovaradin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Plandiste",
                     "s_city_slug": "plandiste"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Platicevo",
                     "s_city_slug": "platicevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Prigrevica",
                     "s_city_slug": "prigrevica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Putinci",
                     "s_city_slug": "putinci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Radenkovic",
                     "s_city_slug": "radenkovic"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Radojevo",
                     "s_city_slug": "radojevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Ravni Topolovac",
                     "s_city_slug": "ravni-topolovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Ravnje",
                     "s_city_slug": "ravnje"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Ravno Selo",
                     "s_city_slug": "ravno-selo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Riica",
                     "s_city_slug": "riica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Ruma",
                     "s_city_slug": "ruma"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Rumenka",
                     "s_city_slug": "rumenka"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Rusko Selo",
                     "s_city_slug": "rusko-selo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Sajan",
                     "s_city_slug": "sajan"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Sajkas",
                     "s_city_slug": "sajkas"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Sakule",
                     "s_city_slug": "sakule"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Salas Nocajski",
                     "s_city_slug": "salas-nocajski"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Samos",
                     "s_city_slug": "samos"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Sanad",
                     "s_city_slug": "sanad"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Sasinci",
                     "s_city_slug": "sasinci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Secanj",
                     "s_city_slug": "secanj"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Sefkerin",
                     "s_city_slug": "sefkerin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Seleus",
                     "s_city_slug": "seleus"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Senta",
                     "s_city_slug": "senta"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Simanovci",
                     "s_city_slug": "simanovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Sombor",
                     "s_city_slug": "sombor"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Sonta",
                     "s_city_slug": "sonta"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Sremska Mitrovica",
                     "s_city_slug": "sremska-mitrovica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Sremski Karlovci",
                     "s_city_slug": "sremski-karlovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Srpska Crnja",
                     "s_city_slug": "srpska-crnja"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Srpski Itebej",
                     "s_city_slug": "srpski-itebej"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Stajicevo",
                     "s_city_slug": "stajicevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Stanisic",
                     "s_city_slug": "stanisic"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Stara Pazova",
                     "s_city_slug": "stara-pazova"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Stari Banovci",
                     "s_city_slug": "stari-banovci"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Stari Lec",
                     "s_city_slug": "stari-lec"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Stepanovicevo",
                     "s_city_slug": "stepanovicevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Subotica",
                     "s_city_slug": "subotica"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Surduk",
                     "s_city_slug": "surduk"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Sutjeska",
                     "s_city_slug": "sutjeska"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Taras",
                     "s_city_slug": "taras"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Tiszahegyes",
                     "s_city_slug": "tiszahegyes"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Titel",
                     "s_city_slug": "titel"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Toba",
                     "s_city_slug": "toba"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Tomasevac",
                     "s_city_slug": "tomasevac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Torak",
                     "s_city_slug": "torak"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Torda",
                     "s_city_slug": "torda"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Uljma",
                     "s_city_slug": "uljma"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Uzdin",
                     "s_city_slug": "uzdin"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Velika Greda",
                     "s_city_slug": "velika-greda"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Veliki Gaj",
                     "s_city_slug": "veliki-gaj"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Veliko Srediste",
                     "s_city_slug": "veliko-srediste"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Veternik",
                     "s_city_slug": "veternik"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Vilovo",
                     "s_city_slug": "vilovo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Visnjicevo",
                     "s_city_slug": "visnjicevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Vladimirovac",
                     "s_city_slug": "vladimirovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Vlajkovac",
                     "s_city_slug": "vlajkovac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Vojka",
                     "s_city_slug": "vojka"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Vojvoda Stepa",
                     "s_city_slug": "vojvoda-stepa"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Vrbas",
                     "s_city_slug": "vrbas"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Vrdnik",
                     "s_city_slug": "vrdnik"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Vrsac",
                     "s_city_slug": "vrsac"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Zabalj",
                     "s_city_slug": "zabalj"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Zitiste",
                     "s_city_slug": "zitiste"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Zmajevo",
                     "s_city_slug": "zmajevo"
                 },
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "vojvodina",
                     "s_city_name": "Zrenjanin",
                     "s_city_slug": "zrenjanin"
@@ -2360,12 +2360,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "West Backa District",
             "s_region_slug": "west-backa-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "west-backa-district",
                     "s_city_name": "West Backa District",
                     "s_city_slug": "west-backa-district"
@@ -2373,12 +2373,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Zajecar District",
             "s_region_slug": "zajecar-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "zajecar-district",
                     "s_city_name": "Zajecar District",
                     "s_city_slug": "zajecar-district"
@@ -2386,12 +2386,12 @@
             ]
         },
         {
-            "s_country_code": "RS",
+            "s_country_code": "rs",
             "s_region_name": "Zlatibor District",
             "s_region_slug": "zlatibor-district",
             "cities": [
                 {
-                    "s_country_code": "RS",
+                    "s_country_code": "rs",
                     "s_region_slug": "zlatibor-district",
                     "s_city_name": "Zlatibor District",
                     "s_city_slug": "zlatibor-district"

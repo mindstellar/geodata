@@ -4,216 +4,216 @@
     "s_country_slug": "estonia",
     "regions": [
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Harju County",
             "s_region_slug": "harju-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Anija vald",
                     "s_city_slug": "anija-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Arukula",
                     "s_city_slug": "arukula"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Haabneeme",
                     "s_city_slug": "haabneeme"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Harku",
                     "s_city_slug": "harku"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Harku vald",
                     "s_city_slug": "harku-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Joelahtme vald",
                     "s_city_slug": "joelahtme-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Juri",
                     "s_city_slug": "juri"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Kehra",
                     "s_city_slug": "kehra"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Keila",
                     "s_city_slug": "keila"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Kiili",
                     "s_city_slug": "kiili"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Kiili vald",
                     "s_city_slug": "kiili-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Kose",
                     "s_city_slug": "kose"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Kuusalu",
                     "s_city_slug": "kuusalu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Laagri",
                     "s_city_slug": "laagri"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Loksa",
                     "s_city_slug": "loksa"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Loksa linn",
                     "s_city_slug": "loksa-linn"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Loo",
                     "s_city_slug": "loo"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Maardu",
                     "s_city_slug": "maardu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Maardu linn",
                     "s_city_slug": "maardu-linn"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Paldiski",
                     "s_city_slug": "paldiski"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Pringi",
                     "s_city_slug": "pringi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Raasiku",
                     "s_city_slug": "raasiku"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Rae vald",
                     "s_city_slug": "rae-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Riisipere",
                     "s_city_slug": "riisipere"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Rummu",
                     "s_city_slug": "rummu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Saku",
                     "s_city_slug": "saku"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Saku vald",
                     "s_city_slug": "saku-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Saue",
                     "s_city_slug": "saue"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Saue vald",
                     "s_city_slug": "saue-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Tabasalu",
                     "s_city_slug": "tabasalu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Tallinn",
                     "s_city_slug": "tallinn"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Turba",
                     "s_city_slug": "turba"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Vaida",
                     "s_city_slug": "vaida"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Viimsi",
                     "s_city_slug": "viimsi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "harju-county",
                     "s_city_name": "Viimsi vald",
                     "s_city_slug": "viimsi-vald"
@@ -221,12 +221,12 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Hiiu County",
             "s_region_slug": "hiiu-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "hiiu-county",
                     "s_city_name": "Kardla",
                     "s_city_slug": "kardla"
@@ -234,90 +234,90 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Ida-Viru County",
             "s_region_slug": "ida-viru-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Iisaku",
                     "s_city_slug": "iisaku"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Johvi",
                     "s_city_slug": "johvi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Johvi vald",
                     "s_city_slug": "johvi-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Kivioli",
                     "s_city_slug": "kivioli"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Kohtla-Jarve",
                     "s_city_slug": "kohtla-jarve"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Kohtla-Nomme",
                     "s_city_slug": "kohtla-nomme"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Luganuse vald",
                     "s_city_slug": "luganuse-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Narva",
                     "s_city_slug": "narva"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Narva-Joesuu",
                     "s_city_slug": "narva-joesuu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Narva-Joesuu linn",
                     "s_city_slug": "narva-joesuu-linn"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Pussi",
                     "s_city_slug": "pussi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Sillamae",
                     "s_city_slug": "sillamae"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Toila",
                     "s_city_slug": "toila"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "ida-viru-county",
                     "s_city_name": "Voka",
                     "s_city_slug": "voka"
@@ -325,48 +325,48 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Jarva County",
             "s_region_slug": "jarva-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "jarva-county",
                     "s_city_name": "Jarva-Jaani",
                     "s_city_slug": "jarva-jaani"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "jarva-county",
                     "s_city_name": "Koeru",
                     "s_city_slug": "koeru"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "jarva-county",
                     "s_city_name": "Paide",
                     "s_city_slug": "paide"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "jarva-county",
                     "s_city_name": "Paide linn",
                     "s_city_slug": "paide-linn"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "jarva-county",
                     "s_city_name": "Sarevere",
                     "s_city_slug": "sarevere"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "jarva-county",
                     "s_city_name": "Turi",
                     "s_city_slug": "turi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "jarva-county",
                     "s_city_name": "Turi vald",
                     "s_city_slug": "turi-vald"
@@ -374,36 +374,36 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Jogeva County",
             "s_region_slug": "jogeva-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "jogeva-county",
                     "s_city_name": "Jogeva",
                     "s_city_slug": "jogeva"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "jogeva-county",
                     "s_city_name": "Jogeva vald",
                     "s_city_slug": "jogeva-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "jogeva-county",
                     "s_city_name": "Mustvee",
                     "s_city_slug": "mustvee"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "jogeva-county",
                     "s_city_name": "Poltsamaa",
                     "s_city_slug": "poltsamaa"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "jogeva-county",
                     "s_city_name": "Poltsamaa vald",
                     "s_city_slug": "poltsamaa-vald"
@@ -411,48 +411,48 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Laane County",
             "s_region_slug": "laane-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-county",
                     "s_city_name": "Haapsalu",
                     "s_city_slug": "haapsalu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-county",
                     "s_city_name": "Haapsalu linn",
                     "s_city_slug": "haapsalu-linn"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-county",
                     "s_city_name": "Hullo",
                     "s_city_slug": "hullo"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-county",
                     "s_city_name": "Laane-Nigula vald",
                     "s_city_slug": "laane-nigula-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-county",
                     "s_city_name": "Taebla",
                     "s_city_slug": "taebla"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-county",
                     "s_city_name": "Uuemoisa",
                     "s_city_slug": "uuemoisa"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-county",
                     "s_city_name": "Vormsi vald",
                     "s_city_slug": "vormsi-vald"
@@ -460,126 +460,126 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Laane-Viru County",
             "s_region_slug": "laane-viru-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Aseri",
                     "s_city_slug": "aseri"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Haljala",
                     "s_city_slug": "haljala"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Haljala vald",
                     "s_city_slug": "haljala-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Kadrina",
                     "s_city_slug": "kadrina"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Kadrina vald",
                     "s_city_slug": "kadrina-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Kunda",
                     "s_city_slug": "kunda"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Pajusti",
                     "s_city_slug": "pajusti"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Rakke",
                     "s_city_slug": "rakke"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Rakvere",
                     "s_city_slug": "rakvere"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Rakvere vald",
                     "s_city_slug": "rakvere-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Someru",
                     "s_city_slug": "someru"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Tamsalu",
                     "s_city_slug": "tamsalu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Tapa",
                     "s_city_slug": "tapa"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Tapa vald",
                     "s_city_slug": "tapa-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Vaiatu",
                     "s_city_slug": "vaiatu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Vaike-Maarja",
                     "s_city_slug": "vaike-maarja"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Vaike-Maarja vald",
                     "s_city_slug": "vaike-maarja-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Vinni",
                     "s_city_slug": "vinni"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Vinni vald",
                     "s_city_slug": "vinni-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "laane-viru-county",
                     "s_city_name": "Viru-Nigula vald",
                     "s_city_slug": "viru-nigula-vald"
@@ -587,102 +587,102 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Parnu County",
             "s_region_slug": "parnu-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Audru",
                     "s_city_slug": "audru"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Kihnu vald",
                     "s_city_slug": "kihnu-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Kilingi-Nomme",
                     "s_city_slug": "kilingi-nomme"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Lihula",
                     "s_city_slug": "lihula"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Linakula",
                     "s_city_slug": "linakula"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Paikuse",
                     "s_city_slug": "paikuse"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Parnu",
                     "s_city_slug": "parnu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Parnu linn",
                     "s_city_slug": "parnu-linn"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Parnu-Jaagupi",
                     "s_city_slug": "parnu-jaagupi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Saarde vald",
                     "s_city_slug": "saarde-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Sauga",
                     "s_city_slug": "sauga"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Sindi",
                     "s_city_slug": "sindi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Tootsi",
                     "s_city_slug": "tootsi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Tori vald",
                     "s_city_slug": "tori-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Uulu",
                     "s_city_slug": "uulu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "parnu-county",
                     "s_city_name": "Vandra",
                     "s_city_slug": "vandra"
@@ -690,42 +690,42 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Polva County",
             "s_region_slug": "polva-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "polva-county",
                     "s_city_name": "Kanepi",
                     "s_city_slug": "kanepi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "polva-county",
                     "s_city_name": "Kanepi vald",
                     "s_city_slug": "kanepi-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "polva-county",
                     "s_city_name": "Polva",
                     "s_city_slug": "polva"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "polva-county",
                     "s_city_name": "Polva vald",
                     "s_city_slug": "polva-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "polva-county",
                     "s_city_name": "Rapina",
                     "s_city_slug": "rapina"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "polva-county",
                     "s_city_name": "Rapina vald",
                     "s_city_slug": "rapina-vald"
@@ -733,60 +733,60 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Rapla County",
             "s_region_slug": "rapla-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "rapla-county",
                     "s_city_name": "Jarvakandi",
                     "s_city_slug": "jarvakandi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "rapla-county",
                     "s_city_name": "Kehtna",
                     "s_city_slug": "kehtna"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "rapla-county",
                     "s_city_name": "Kehtna vald",
                     "s_city_slug": "kehtna-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "rapla-county",
                     "s_city_name": "Kohila",
                     "s_city_slug": "kohila"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "rapla-county",
                     "s_city_name": "Kohila vald",
                     "s_city_slug": "kohila-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "rapla-county",
                     "s_city_name": "Marjamaa",
                     "s_city_slug": "marjamaa"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "rapla-county",
                     "s_city_name": "Marjamaa vald",
                     "s_city_slug": "marjamaa-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "rapla-county",
                     "s_city_name": "Rapla",
                     "s_city_slug": "rapla"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "rapla-county",
                     "s_city_name": "Rapla vald",
                     "s_city_slug": "rapla-vald"
@@ -794,48 +794,48 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Saare County",
             "s_region_slug": "saare-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "saare-county",
                     "s_city_name": "Kuressaare",
                     "s_city_slug": "kuressaare"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "saare-county",
                     "s_city_name": "Liiva",
                     "s_city_slug": "liiva"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "saare-county",
                     "s_city_name": "Muhu vald",
                     "s_city_slug": "muhu-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "saare-county",
                     "s_city_name": "Orissaare",
                     "s_city_slug": "orissaare"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "saare-county",
                     "s_city_name": "Ruhnu",
                     "s_city_slug": "ruhnu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "saare-county",
                     "s_city_name": "Ruhnu vald",
                     "s_city_slug": "ruhnu-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "saare-county",
                     "s_city_name": "Tehumardi",
                     "s_city_slug": "tehumardi"
@@ -843,102 +843,102 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Tartu County",
             "s_region_slug": "tartu-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Alatskivi",
                     "s_city_slug": "alatskivi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Elva",
                     "s_city_slug": "elva"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Kallaste",
                     "s_city_slug": "kallaste"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Kambja vald",
                     "s_city_slug": "kambja-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Korvekula",
                     "s_city_slug": "korvekula"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Kurepalu",
                     "s_city_slug": "kurepalu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Luunja",
                     "s_city_slug": "luunja"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Luunja vald",
                     "s_city_slug": "luunja-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Noo",
                     "s_city_slug": "noo"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Noo vald",
                     "s_city_slug": "noo-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Peipsiaare vald",
                     "s_city_slug": "peipsiaare-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Puhja",
                     "s_city_slug": "puhja"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Tartu",
                     "s_city_slug": "tartu"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Tartu linn",
                     "s_city_slug": "tartu-linn"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Tartu vald",
                     "s_city_slug": "tartu-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "tartu-county",
                     "s_city_name": "Ulenurme",
                     "s_city_slug": "ulenurme"
@@ -946,24 +946,24 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Valga County",
             "s_region_slug": "valga-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "valga-county",
                     "s_city_name": "Otepaa vald",
                     "s_city_slug": "otepaa-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "valga-county",
                     "s_city_name": "Torva",
                     "s_city_slug": "torva"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "valga-county",
                     "s_city_name": "Valga",
                     "s_city_slug": "valga"
@@ -971,54 +971,54 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Viljandi County",
             "s_region_slug": "viljandi-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "viljandi-county",
                     "s_city_name": "Abja-Paluoja",
                     "s_city_slug": "abja-paluoja"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "viljandi-county",
                     "s_city_name": "Karksi-Nuia",
                     "s_city_slug": "karksi-nuia"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "viljandi-county",
                     "s_city_name": "Moisakula",
                     "s_city_slug": "moisakula"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "viljandi-county",
                     "s_city_name": "Suure-Jaani",
                     "s_city_slug": "suure-jaani"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "viljandi-county",
                     "s_city_name": "Viiratsi",
                     "s_city_slug": "viiratsi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "viljandi-county",
                     "s_city_name": "Viljandi",
                     "s_city_slug": "viljandi"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "viljandi-county",
                     "s_city_name": "Viljandi vald",
                     "s_city_slug": "viljandi-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "viljandi-county",
                     "s_city_name": "Vohma",
                     "s_city_slug": "vohma"
@@ -1026,54 +1026,54 @@
             ]
         },
         {
-            "s_country_code": "EE",
+            "s_country_code": "ee",
             "s_region_name": "Voru County",
             "s_region_slug": "voru-county",
             "cities": [
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "voru-county",
                     "s_city_name": "Antsla",
                     "s_city_slug": "antsla"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "voru-county",
                     "s_city_name": "Antsla vald",
                     "s_city_slug": "antsla-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "voru-county",
                     "s_city_name": "Rouge",
                     "s_city_slug": "rouge"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "voru-county",
                     "s_city_name": "Rouge vald",
                     "s_city_slug": "rouge-vald"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "voru-county",
                     "s_city_name": "Vana-Antsla",
                     "s_city_slug": "vana-antsla"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "voru-county",
                     "s_city_name": "Varska",
                     "s_city_slug": "varska"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "voru-county",
                     "s_city_name": "Voru",
                     "s_city_slug": "voru"
                 },
                 {
-                    "s_country_code": "EE",
+                    "s_country_code": "ee",
                     "s_region_slug": "voru-county",
                     "s_city_name": "Voru vald",
                     "s_city_slug": "voru-vald"

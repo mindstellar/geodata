@@ -4,42 +4,42 @@
     "s_country_slug": "venezuela",
     "regions": [
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Amazonas",
             "s_region_slug": "amazonas",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "amazonas",
                     "s_city_name": "Maroa",
                     "s_city_slug": "maroa"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "amazonas",
                     "s_city_name": "Municipio Autonomo Alto Orinoco",
                     "s_city_slug": "municipio-autonomo-alto-orinoco"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "amazonas",
                     "s_city_name": "Puerto Ayacucho",
                     "s_city_slug": "puerto-ayacucho"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "amazonas",
                     "s_city_name": "San Carlos de Rio Negro",
                     "s_city_slug": "san-carlos-de-rio-negro"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "amazonas",
                     "s_city_name": "San Fernando de Atabapo",
                     "s_city_slug": "san-fernando-de-atabapo"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "amazonas",
                     "s_city_name": "San Juan de Manapiare",
                     "s_city_slug": "san-juan-de-manapiare"
@@ -47,66 +47,66 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Anzoategui",
             "s_region_slug": "anzoategui",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "anzoategui",
                     "s_city_name": "Anaco",
                     "s_city_slug": "anaco"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "anzoategui",
                     "s_city_name": "Aragua de Barcelona",
                     "s_city_slug": "aragua-de-barcelona"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "anzoategui",
                     "s_city_name": "Barcelona",
                     "s_city_slug": "barcelona"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "anzoategui",
                     "s_city_name": "Cantaura",
                     "s_city_slug": "cantaura"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "anzoategui",
                     "s_city_name": "El Tigre",
                     "s_city_slug": "el-tigre"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "anzoategui",
                     "s_city_name": "Municipio Jose Gregorio Monagas",
                     "s_city_slug": "municipio-jose-gregorio-monagas"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "anzoategui",
                     "s_city_name": "Onoto",
                     "s_city_slug": "onoto"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "anzoategui",
                     "s_city_name": "Puerto La Cruz",
                     "s_city_slug": "puerto-la-cruz"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "anzoategui",
                     "s_city_name": "Puerto Piritu",
                     "s_city_slug": "puerto-piritu"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "anzoategui",
                     "s_city_name": "San Jose de Guanipa",
                     "s_city_slug": "san-jose-de-guanipa"
@@ -114,12 +114,12 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Apure",
             "s_region_slug": "apure",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "apure",
                     "s_city_name": "Apure",
                     "s_city_slug": "apure"
@@ -127,66 +127,66 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Aragua",
             "s_region_slug": "aragua",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "aragua",
                     "s_city_name": "Cagua",
                     "s_city_slug": "cagua"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "aragua",
                     "s_city_name": "El Limon",
                     "s_city_slug": "el-limon"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "aragua",
                     "s_city_name": "La Victoria",
                     "s_city_slug": "la-victoria"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "aragua",
                     "s_city_name": "Las Tejerias",
                     "s_city_slug": "las-tejerias"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "aragua",
                     "s_city_name": "Maracay",
                     "s_city_slug": "maracay"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "aragua",
                     "s_city_name": "Palo Negro",
                     "s_city_slug": "palo-negro"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "aragua",
                     "s_city_name": "San Mateo",
                     "s_city_slug": "san-mateo"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "aragua",
                     "s_city_name": "Santa Rita",
                     "s_city_slug": "santa-rita"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "aragua",
                     "s_city_name": "Turmero",
                     "s_city_slug": "turmero"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "aragua",
                     "s_city_name": "Villa de Cura",
                     "s_city_slug": "villa-de-cura"
@@ -194,30 +194,30 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Barinas",
             "s_region_slug": "barinas",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "barinas",
                     "s_city_name": "Alto Barinas",
                     "s_city_slug": "alto-barinas"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "barinas",
                     "s_city_name": "Barinas",
                     "s_city_slug": "barinas"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "barinas",
                     "s_city_name": "Barinitas",
                     "s_city_slug": "barinitas"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "barinas",
                     "s_city_name": "Municipio Barinas",
                     "s_city_slug": "municipio-barinas"
@@ -225,36 +225,36 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Bolivar",
             "s_region_slug": "bolivar",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "bolivar",
                     "s_city_name": "Ciudad Bolivar",
                     "s_city_slug": "ciudad-bolivar"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "bolivar",
                     "s_city_name": "Ciudad Guayana",
                     "s_city_slug": "ciudad-guayana"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "bolivar",
                     "s_city_name": "Municipio Padre Pedro Chien",
                     "s_city_slug": "municipio-padre-pedro-chien"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "bolivar",
                     "s_city_name": "Santa Elena de Uairen",
                     "s_city_slug": "santa-elena-de-uairen"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "bolivar",
                     "s_city_name": "Upata",
                     "s_city_slug": "upata"
@@ -262,12 +262,12 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Capital District",
             "s_region_slug": "capital-district",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "capital-district",
                     "s_city_name": "Capital District",
                     "s_city_slug": "capital-district"
@@ -275,66 +275,66 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Carabobo",
             "s_region_slug": "carabobo",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "carabobo",
                     "s_city_name": "Guacara",
                     "s_city_slug": "guacara"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "carabobo",
                     "s_city_name": "Guigue",
                     "s_city_slug": "guigue"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "carabobo",
                     "s_city_name": "Los Guayos",
                     "s_city_slug": "los-guayos"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "carabobo",
                     "s_city_name": "Mariara",
                     "s_city_slug": "mariara"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "carabobo",
                     "s_city_name": "Moron",
                     "s_city_slug": "moron"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "carabobo",
                     "s_city_name": "Puerto Cabello",
                     "s_city_slug": "puerto-cabello"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "carabobo",
                     "s_city_name": "San Joaquin",
                     "s_city_slug": "san-joaquin"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "carabobo",
                     "s_city_name": "Tacarigua",
                     "s_city_slug": "tacarigua"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "carabobo",
                     "s_city_name": "Tocuyito",
                     "s_city_slug": "tocuyito"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "carabobo",
                     "s_city_name": "Valencia",
                     "s_city_slug": "valencia"
@@ -342,18 +342,18 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Cojedes",
             "s_region_slug": "cojedes",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "cojedes",
                     "s_city_name": "San Carlos",
                     "s_city_slug": "san-carlos"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "cojedes",
                     "s_city_name": "Tinaquillo",
                     "s_city_slug": "tinaquillo"
@@ -361,12 +361,12 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Delta Amacuro",
             "s_region_slug": "delta-amacuro",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "delta-amacuro",
                     "s_city_name": "Tucupita",
                     "s_city_slug": "tucupita"
@@ -374,48 +374,48 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Falcon",
             "s_region_slug": "falcon",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "falcon",
                     "s_city_name": "Chichiriviche",
                     "s_city_slug": "chichiriviche"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "falcon",
                     "s_city_name": "Coro",
                     "s_city_slug": "coro"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "falcon",
                     "s_city_name": "Municipio Los Taques",
                     "s_city_slug": "municipio-los-taques"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "falcon",
                     "s_city_name": "Municipio Miranda",
                     "s_city_slug": "municipio-miranda"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "falcon",
                     "s_city_name": "Punta Cardon",
                     "s_city_slug": "punta-cardon"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "falcon",
                     "s_city_name": "Punto Fijo",
                     "s_city_slug": "punto-fijo"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "falcon",
                     "s_city_name": "Tucacas",
                     "s_city_slug": "tucacas"
@@ -423,12 +423,12 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Federal Dependencies of Venezuela",
             "s_region_slug": "federal-dependencies-of-venezuela",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "federal-dependencies-of-venezuela",
                     "s_city_name": "Federal Dependencies of Venezuela",
                     "s_city_slug": "federal-dependencies-of-venezuela"
@@ -436,36 +436,36 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Guarico",
             "s_region_slug": "guarico",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "guarico",
                     "s_city_name": "Altagracia de Orituco",
                     "s_city_slug": "altagracia-de-orituco"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "guarico",
                     "s_city_name": "Calabozo",
                     "s_city_slug": "calabozo"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "guarico",
                     "s_city_name": "San Juan de los Morros",
                     "s_city_slug": "san-juan-de-los-morros"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "guarico",
                     "s_city_name": "Valle de La Pascua",
                     "s_city_slug": "valle-de-la-pascua"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "guarico",
                     "s_city_name": "Zaraza",
                     "s_city_slug": "zaraza"
@@ -473,42 +473,42 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Lara",
             "s_region_slug": "lara",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "lara",
                     "s_city_name": "Barquisimeto",
                     "s_city_slug": "barquisimeto"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "lara",
                     "s_city_name": "Cabudare",
                     "s_city_slug": "cabudare"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "lara",
                     "s_city_name": "Carora",
                     "s_city_slug": "carora"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "lara",
                     "s_city_name": "El Tocuyo",
                     "s_city_slug": "el-tocuyo"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "lara",
                     "s_city_name": "Los Rastrojos",
                     "s_city_slug": "los-rastrojos"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "lara",
                     "s_city_name": "Quibor",
                     "s_city_slug": "quibor"
@@ -516,36 +516,36 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Merida",
             "s_region_slug": "merida",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "merida",
                     "s_city_name": "Ejido",
                     "s_city_slug": "ejido"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "merida",
                     "s_city_name": "El Vigia",
                     "s_city_slug": "el-vigia"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "merida",
                     "s_city_name": "Merida",
                     "s_city_slug": "merida"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "merida",
                     "s_city_name": "Mucumpiz",
                     "s_city_slug": "mucumpiz"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "merida",
                     "s_city_name": "Municipio Libertador",
                     "s_city_slug": "municipio-libertador"
@@ -553,114 +553,114 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Miranda",
             "s_region_slug": "miranda",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Baruta",
                     "s_city_slug": "baruta"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Carrizal",
                     "s_city_slug": "carrizal"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Caucaguita",
                     "s_city_slug": "caucaguita"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Caucaguito",
                     "s_city_slug": "caucaguito"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Chacao",
                     "s_city_slug": "chacao"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Charallave",
                     "s_city_slug": "charallave"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Cua",
                     "s_city_slug": "cua"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "El Cafetal",
                     "s_city_slug": "el-cafetal"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "El Hatillo",
                     "s_city_slug": "el-hatillo"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Guarenas",
                     "s_city_slug": "guarenas"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Guatire",
                     "s_city_slug": "guatire"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "La Dolorita",
                     "s_city_slug": "la-dolorita"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Los Dos Caminos",
                     "s_city_slug": "los-dos-caminos"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Los Teques",
                     "s_city_slug": "los-teques"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Ocumare del Tuy",
                     "s_city_slug": "ocumare-del-tuy"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Petare",
                     "s_city_slug": "petare"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "San Antonio de Los Altos",
                     "s_city_slug": "san-antonio-de-los-altos"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "miranda",
                     "s_city_name": "Santa Teresa del Tuy",
                     "s_city_slug": "santa-teresa-del-tuy"
@@ -668,30 +668,30 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Monagas",
             "s_region_slug": "monagas",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "monagas",
                     "s_city_name": "Caripito",
                     "s_city_slug": "caripito"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "monagas",
                     "s_city_name": "Maturin",
                     "s_city_slug": "maturin"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "monagas",
                     "s_city_name": "Municipio Maturin",
                     "s_city_slug": "municipio-maturin"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "monagas",
                     "s_city_name": "Municipio Uracoa",
                     "s_city_slug": "municipio-uracoa"
@@ -699,24 +699,24 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Nueva Esparta",
             "s_region_slug": "nueva-esparta",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "nueva-esparta",
                     "s_city_name": "Juan Griego",
                     "s_city_slug": "juan-griego"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "nueva-esparta",
                     "s_city_name": "La Asuncion",
                     "s_city_slug": "la-asuncion"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "nueva-esparta",
                     "s_city_name": "Porlamar",
                     "s_city_slug": "porlamar"
@@ -724,30 +724,30 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Portuguesa",
             "s_region_slug": "portuguesa",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "portuguesa",
                     "s_city_name": "Acarigua",
                     "s_city_slug": "acarigua"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "portuguesa",
                     "s_city_name": "Araure",
                     "s_city_slug": "araure"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "portuguesa",
                     "s_city_name": "Guanare",
                     "s_city_slug": "guanare"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "portuguesa",
                     "s_city_name": "Villa Bruzual",
                     "s_city_slug": "villa-bruzual"
@@ -755,30 +755,30 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Sucre",
             "s_region_slug": "sucre",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "sucre",
                     "s_city_name": "Carupano",
                     "s_city_slug": "carupano"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "sucre",
                     "s_city_name": "Cumana",
                     "s_city_slug": "cumana"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "sucre",
                     "s_city_name": "Guiria",
                     "s_city_slug": "guiria"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "sucre",
                     "s_city_name": "Municipio Valdez",
                     "s_city_slug": "municipio-valdez"
@@ -786,54 +786,54 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Tachira",
             "s_region_slug": "tachira",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "tachira",
                     "s_city_name": "Colon",
                     "s_city_slug": "colon"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "tachira",
                     "s_city_name": "La Fria",
                     "s_city_slug": "la-fria"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "tachira",
                     "s_city_name": "La Grita",
                     "s_city_slug": "la-grita"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "tachira",
                     "s_city_name": "Municipio Jose Maria Vargas",
                     "s_city_slug": "municipio-jose-maria-vargas"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "tachira",
                     "s_city_name": "Rubio",
                     "s_city_slug": "rubio"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "tachira",
                     "s_city_name": "San Antonio del Tachira",
                     "s_city_slug": "san-antonio-del-tachira"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "tachira",
                     "s_city_name": "San Cristobal",
                     "s_city_slug": "san-cristobal"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "tachira",
                     "s_city_name": "Tariba",
                     "s_city_slug": "tariba"
@@ -841,36 +841,36 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Trujillo",
             "s_region_slug": "trujillo",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "trujillo",
                     "s_city_name": "Bocono",
                     "s_city_slug": "bocono"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "trujillo",
                     "s_city_name": "Municipio Pampanito",
                     "s_city_slug": "municipio-pampanito"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "trujillo",
                     "s_city_name": "Municipio San Rafael de Carvajal",
                     "s_city_slug": "municipio-san-rafael-de-carvajal"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "trujillo",
                     "s_city_name": "Trujillo",
                     "s_city_slug": "trujillo"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "trujillo",
                     "s_city_name": "Valera",
                     "s_city_slug": "valera"
@@ -878,30 +878,30 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Vargas",
             "s_region_slug": "vargas",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "vargas",
                     "s_city_name": "Caraballeda",
                     "s_city_slug": "caraballeda"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "vargas",
                     "s_city_name": "Catia La Mar",
                     "s_city_slug": "catia-la-mar"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "vargas",
                     "s_city_name": "La Guaira",
                     "s_city_slug": "la-guaira"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "vargas",
                     "s_city_name": "Maiquetia",
                     "s_city_slug": "maiquetia"
@@ -909,36 +909,36 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Yaracuy",
             "s_region_slug": "yaracuy",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "yaracuy",
                     "s_city_name": "Chivacoa",
                     "s_city_slug": "chivacoa"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "yaracuy",
                     "s_city_name": "Municipio Independencia",
                     "s_city_slug": "municipio-independencia"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "yaracuy",
                     "s_city_name": "Nirgua",
                     "s_city_slug": "nirgua"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "yaracuy",
                     "s_city_name": "San Felipe",
                     "s_city_slug": "san-felipe"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "yaracuy",
                     "s_city_name": "Yaritagua",
                     "s_city_slug": "yaritagua"
@@ -946,54 +946,54 @@
             ]
         },
         {
-            "s_country_code": "VE",
+            "s_country_code": "ve",
             "s_region_name": "Zulia",
             "s_region_slug": "zulia",
             "cities": [
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "zulia",
                     "s_city_name": "Cabimas",
                     "s_city_slug": "cabimas"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "zulia",
                     "s_city_name": "Ciudad Ojeda",
                     "s_city_slug": "ciudad-ojeda"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "zulia",
                     "s_city_name": "La Villa del Rosario",
                     "s_city_slug": "la-villa-del-rosario"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "zulia",
                     "s_city_name": "Lagunillas",
                     "s_city_slug": "lagunillas"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "zulia",
                     "s_city_name": "Machiques",
                     "s_city_slug": "machiques"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "zulia",
                     "s_city_name": "Maracaibo",
                     "s_city_slug": "maracaibo"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "zulia",
                     "s_city_name": "San Carlos del Zulia",
                     "s_city_slug": "san-carlos-del-zulia"
                 },
                 {
-                    "s_country_code": "VE",
+                    "s_country_code": "ve",
                     "s_region_slug": "zulia",
                     "s_city_name": "Santa Rita",
                     "s_city_slug": "santa-rita"

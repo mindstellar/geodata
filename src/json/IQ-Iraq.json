@@ -4,60 +4,60 @@
     "s_country_slug": "iraq",
     "regions": [
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Al Anbar Governorate",
             "s_region_slug": "al-anbar-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-anbar-governorate",
                     "s_city_name": "Anah",
                     "s_city_slug": "anah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-anbar-governorate",
                     "s_city_name": "Anat al Qadimah",
                     "s_city_slug": "anat-al-qadimah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-anbar-governorate",
                     "s_city_name": "Al Fallujah",
                     "s_city_slug": "al-fallujah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-anbar-governorate",
                     "s_city_name": "Ar Rutbah",
                     "s_city_slug": "ar-rutbah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-anbar-governorate",
                     "s_city_name": "Hadithah",
                     "s_city_slug": "hadithah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-anbar-governorate",
                     "s_city_name": "Hit",
                     "s_city_slug": "hit"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-anbar-governorate",
                     "s_city_name": "Hit District",
                     "s_city_slug": "hit-district"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-anbar-governorate",
                     "s_city_name": "Ramadi",
                     "s_city_slug": "ramadi"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-anbar-governorate",
                     "s_city_name": "Rawah",
                     "s_city_slug": "rawah"
@@ -65,18 +65,18 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Al Muthanna Governorate",
             "s_region_slug": "al-muthanna-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-muthanna-governorate",
                     "s_city_name": "Ar Rumaythah",
                     "s_city_slug": "ar-rumaythah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-muthanna-governorate",
                     "s_city_name": "As Samawah",
                     "s_city_slug": "as-samawah"
@@ -84,36 +84,36 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Al-Qadisiyyah Governorate",
             "s_region_slug": "al-qadisiyyah-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-qadisiyyah-governorate",
                     "s_city_name": "Afak",
                     "s_city_slug": "afak"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-qadisiyyah-governorate",
                     "s_city_name": "Ad Diwaniyah",
                     "s_city_slug": "ad-diwaniyah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-qadisiyyah-governorate",
                     "s_city_name": "Ash Shamiyah",
                     "s_city_slug": "ash-shamiyah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-qadisiyyah-governorate",
                     "s_city_name": "Nahiyat ash Shinafiyah",
                     "s_city_slug": "nahiyat-ash-shinafiyah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "al-qadisiyyah-governorate",
                     "s_city_name": "Nahiyat Ghammas",
                     "s_city_slug": "nahiyat-ghammas"
@@ -121,30 +121,30 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Babylon Governorate",
             "s_region_slug": "babylon-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "babylon-governorate",
                     "s_city_name": "Al Hillah",
                     "s_city_slug": "al-hillah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "babylon-governorate",
                     "s_city_name": "Al Musayyib",
                     "s_city_slug": "al-musayyib"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "babylon-governorate",
                     "s_city_name": "Imam Qasim",
                     "s_city_slug": "imam-qasim"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "babylon-governorate",
                     "s_city_name": "Nahiyat Saddat al Hindiyah",
                     "s_city_slug": "nahiyat-saddat-al-hindiyah"
@@ -152,24 +152,24 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Baghdad Governorate",
             "s_region_slug": "baghdad-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "baghdad-governorate",
                     "s_city_name": "Abu Ghraib District",
                     "s_city_slug": "abu-ghraib-district"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "baghdad-governorate",
                     "s_city_name": "Abu Ghurayb",
                     "s_city_slug": "abu-ghurayb"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "baghdad-governorate",
                     "s_city_name": "Baghdad",
                     "s_city_slug": "baghdad"
@@ -177,42 +177,42 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Basra Governorate",
             "s_region_slug": "basra-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "basra-governorate",
                     "s_city_name": "Al Basrah al Qadimah",
                     "s_city_slug": "al-basrah-al-qadimah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "basra-governorate",
                     "s_city_name": "Al Faw",
                     "s_city_slug": "al-faw"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "basra-governorate",
                     "s_city_name": "Al Harithah",
                     "s_city_slug": "al-harithah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "basra-governorate",
                     "s_city_name": "Az Zubayr",
                     "s_city_slug": "az-zubayr"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "basra-governorate",
                     "s_city_name": "Basrah",
                     "s_city_slug": "basrah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "basra-governorate",
                     "s_city_name": "Umm Qasr",
                     "s_city_slug": "umm-qasr"
@@ -220,24 +220,24 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Dhi Qar Governorate",
             "s_region_slug": "dhi-qar-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "dhi-qar-governorate",
                     "s_city_name": "Ash Shatrah",
                     "s_city_slug": "ash-shatrah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "dhi-qar-governorate",
                     "s_city_name": "Nahiyat al Fuhud",
                     "s_city_slug": "nahiyat-al-fuhud"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "dhi-qar-governorate",
                     "s_city_name": "Nasiriyah",
                     "s_city_slug": "nasiriyah"
@@ -245,48 +245,48 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Diyala Governorate",
             "s_region_slug": "diyala-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "diyala-governorate",
                     "s_city_name": "Al Miqdadiyah",
                     "s_city_slug": "al-miqdadiyah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "diyala-governorate",
                     "s_city_name": "Baladruz",
                     "s_city_slug": "baladruz"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "diyala-governorate",
                     "s_city_name": "Baqubah",
                     "s_city_slug": "baqubah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "diyala-governorate",
                     "s_city_name": "Khalis",
                     "s_city_slug": "khalis"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "diyala-governorate",
                     "s_city_name": "Kifri",
                     "s_city_slug": "kifri"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "diyala-governorate",
                     "s_city_name": "Mandali",
                     "s_city_slug": "mandali"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "diyala-governorate",
                     "s_city_name": "Qada Kifri",
                     "s_city_slug": "qada-kifri"
@@ -294,36 +294,36 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Dohuk Governorate",
             "s_region_slug": "dohuk-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "dohuk-governorate",
                     "s_city_name": "Al Amadiyah",
                     "s_city_slug": "al-amadiyah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "dohuk-governorate",
                     "s_city_name": "Batifa",
                     "s_city_slug": "batifa"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "dohuk-governorate",
                     "s_city_name": "Dihok",
                     "s_city_slug": "dihok"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "dohuk-governorate",
                     "s_city_name": "Sinah",
                     "s_city_slug": "sinah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "dohuk-governorate",
                     "s_city_name": "Zaxo",
                     "s_city_slug": "zaxo"
@@ -331,42 +331,42 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Erbil Governorate",
             "s_region_slug": "erbil-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "erbil-governorate",
                     "s_city_name": "Arbil",
                     "s_city_slug": "arbil"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "erbil-governorate",
                     "s_city_name": "Erbil",
                     "s_city_slug": "erbil"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "erbil-governorate",
                     "s_city_name": "Koysinceq",
                     "s_city_slug": "koysinceq"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "erbil-governorate",
                     "s_city_name": "Ruwandiz",
                     "s_city_slug": "ruwandiz"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "erbil-governorate",
                     "s_city_name": "Shaqlawah",
                     "s_city_slug": "shaqlawah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "erbil-governorate",
                     "s_city_name": "Soran",
                     "s_city_slug": "soran"
@@ -374,18 +374,18 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Karbala Governorate",
             "s_region_slug": "karbala-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "karbala-governorate",
                     "s_city_name": "Al Hindiyah",
                     "s_city_slug": "al-hindiyah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "karbala-governorate",
                     "s_city_name": "Karbala",
                     "s_city_slug": "karbala"
@@ -393,12 +393,12 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Kirkuk Governorate",
             "s_region_slug": "kirkuk-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "kirkuk-governorate",
                     "s_city_name": "Kirkuk",
                     "s_city_slug": "kirkuk"
@@ -406,24 +406,24 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Maysan Governorate",
             "s_region_slug": "maysan-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "maysan-governorate",
                     "s_city_name": "Ali al Gharbi",
                     "s_city_slug": "ali-al-gharbi"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "maysan-governorate",
                     "s_city_name": "Al Amarah",
                     "s_city_slug": "al-amarah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "maysan-governorate",
                     "s_city_name": "Al-Mejar Al-Kabi District",
                     "s_city_slug": "al-mejar-al-kabi-district"
@@ -431,24 +431,24 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Najaf Governorate",
             "s_region_slug": "najaf-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "najaf-governorate",
                     "s_city_name": "Al Mishkhab",
                     "s_city_slug": "al-mishkhab"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "najaf-governorate",
                     "s_city_name": "Kufa",
                     "s_city_slug": "kufa"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "najaf-governorate",
                     "s_city_name": "Najaf",
                     "s_city_slug": "najaf"
@@ -456,60 +456,60 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Nineveh Governorate",
             "s_region_slug": "nineveh-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "nineveh-governorate",
                     "s_city_name": "Aqrah",
                     "s_city_slug": "aqrah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "nineveh-governorate",
                     "s_city_name": "Al Mawsil al Jadidah",
                     "s_city_slug": "al-mawsil-al-jadidah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "nineveh-governorate",
                     "s_city_name": "Al-Hamdaniya",
                     "s_city_slug": "al-hamdaniya"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "nineveh-governorate",
                     "s_city_name": "Ash Shaykhan",
                     "s_city_slug": "ash-shaykhan"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "nineveh-governorate",
                     "s_city_name": "Mosul",
                     "s_city_slug": "mosul"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "nineveh-governorate",
                     "s_city_name": "Sinjar",
                     "s_city_slug": "sinjar"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "nineveh-governorate",
                     "s_city_name": "Sinjar",
                     "s_city_slug": "sinjar"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "nineveh-governorate",
                     "s_city_name": "Tall Afar",
                     "s_city_slug": "tall-afar"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "nineveh-governorate",
                     "s_city_name": "Tallkayf",
                     "s_city_slug": "tallkayf"
@@ -517,42 +517,42 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Saladin Governorate",
             "s_region_slug": "saladin-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "saladin-governorate",
                     "s_city_name": "Ad Dujayl",
                     "s_city_slug": "ad-dujayl"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "saladin-governorate",
                     "s_city_name": "Balad",
                     "s_city_slug": "balad"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "saladin-governorate",
                     "s_city_name": "Bayji",
                     "s_city_slug": "bayji"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "saladin-governorate",
                     "s_city_name": "Samarra",
                     "s_city_slug": "samarra"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "saladin-governorate",
                     "s_city_name": "Tikrit",
                     "s_city_slug": "tikrit"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "saladin-governorate",
                     "s_city_name": "Tozkhurmato",
                     "s_city_slug": "tozkhurmato"
@@ -560,30 +560,30 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Sulaymaniyah Governorate",
             "s_region_slug": "sulaymaniyah-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "sulaymaniyah-governorate",
                     "s_city_name": "As Sulaymaniyah",
                     "s_city_slug": "as-sulaymaniyah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "sulaymaniyah-governorate",
                     "s_city_name": "Baynjiwayn",
                     "s_city_slug": "baynjiwayn"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "sulaymaniyah-governorate",
                     "s_city_name": "Halabjah",
                     "s_city_slug": "halabjah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "sulaymaniyah-governorate",
                     "s_city_name": "Jamjamal",
                     "s_city_slug": "jamjamal"
@@ -591,30 +591,30 @@
             ]
         },
         {
-            "s_country_code": "IQ",
+            "s_country_code": "iq",
             "s_region_name": "Wasit Governorate",
             "s_region_slug": "wasit-governorate",
             "cities": [
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "wasit-governorate",
                     "s_city_name": "Al Aziziyah",
                     "s_city_slug": "al-aziziyah"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "wasit-governorate",
                     "s_city_name": "Al Hayy",
                     "s_city_slug": "al-hayy"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "wasit-governorate",
                     "s_city_name": "Al Kut",
                     "s_city_slug": "al-kut"
                 },
                 {
-                    "s_country_code": "IQ",
+                    "s_country_code": "iq",
                     "s_region_slug": "wasit-governorate",
                     "s_city_name": "As Suwayrah",
                     "s_city_slug": "as-suwayrah"

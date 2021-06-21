@@ -4,18 +4,18 @@
     "s_country_slug": "belize",
     "regions": [
         {
-            "s_country_code": "BZ",
+            "s_country_code": "bz",
             "s_region_name": "Belize District",
             "s_region_slug": "belize-district",
             "cities": [
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "belize-district",
                     "s_city_name": "Belize City",
                     "s_city_slug": "belize-city"
                 },
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "belize-district",
                     "s_city_name": "San Pedro",
                     "s_city_slug": "san-pedro"
@@ -23,30 +23,30 @@
             ]
         },
         {
-            "s_country_code": "BZ",
+            "s_country_code": "bz",
             "s_region_name": "Cayo District",
             "s_region_slug": "cayo-district",
             "cities": [
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "cayo-district",
                     "s_city_name": "Belmopan",
                     "s_city_slug": "belmopan"
                 },
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "cayo-district",
                     "s_city_name": "Benque Viejo el Carmen",
                     "s_city_slug": "benque-viejo-el-carmen"
                 },
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "cayo-district",
                     "s_city_name": "San Ignacio",
                     "s_city_slug": "san-ignacio"
                 },
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "cayo-district",
                     "s_city_name": "Valley of Peace",
                     "s_city_slug": "valley-of-peace"
@@ -54,12 +54,12 @@
             ]
         },
         {
-            "s_country_code": "BZ",
+            "s_country_code": "bz",
             "s_region_name": "Corozal District",
             "s_region_slug": "corozal-district",
             "cities": [
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "corozal-district",
                     "s_city_name": "Corozal",
                     "s_city_slug": "corozal"
@@ -67,24 +67,24 @@
             ]
         },
         {
-            "s_country_code": "BZ",
+            "s_country_code": "bz",
             "s_region_name": "Orange Walk District",
             "s_region_slug": "orange-walk-district",
             "cities": [
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "orange-walk-district",
                     "s_city_name": "Hopelchen",
                     "s_city_slug": "hopelchen"
                 },
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "orange-walk-district",
                     "s_city_name": "Orange Walk",
                     "s_city_slug": "orange-walk"
                 },
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "orange-walk-district",
                     "s_city_name": "Shipyard",
                     "s_city_slug": "shipyard"
@@ -92,18 +92,18 @@
             ]
         },
         {
-            "s_country_code": "BZ",
+            "s_country_code": "bz",
             "s_region_name": "Stann Creek District",
             "s_region_slug": "stann-creek-district",
             "cities": [
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "stann-creek-district",
                     "s_city_name": "Dangriga",
                     "s_city_slug": "dangriga"
                 },
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "stann-creek-district",
                     "s_city_name": "Placencia",
                     "s_city_slug": "placencia"
@@ -111,12 +111,12 @@
             ]
         },
         {
-            "s_country_code": "BZ",
+            "s_country_code": "bz",
             "s_region_name": "Toledo District",
             "s_region_slug": "toledo-district",
             "cities": [
                 {
-                    "s_country_code": "BZ",
+                    "s_country_code": "bz",
                     "s_region_slug": "toledo-district",
                     "s_city_name": "Punta Gorda",
                     "s_city_slug": "punta-gorda"

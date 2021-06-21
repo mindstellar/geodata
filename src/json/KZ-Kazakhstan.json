@@ -4,138 +4,138 @@
     "s_country_slug": "kazakhstan",
     "regions": [
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Akmola Region",
             "s_region_slug": "akmola-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Akkol",
                     "s_city_slug": "akkol"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Akkol",
                     "s_city_slug": "akkol"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Aksu",
                     "s_city_slug": "aksu"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Astrakhan",
                     "s_city_slug": "astrakhan"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Atbasar",
                     "s_city_slug": "atbasar"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Balkashino",
                     "s_city_slug": "balkashino"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Bestobe",
                     "s_city_slug": "bestobe"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Derzhavinsk",
                     "s_city_slug": "derzhavinsk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Egindikol",
                     "s_city_slug": "egindikol"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Esil",
                     "s_city_slug": "esil"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Kokshetau",
                     "s_city_slug": "kokshetau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Krasnogorskiy",
                     "s_city_slug": "krasnogorskiy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Makinsk",
                     "s_city_slug": "makinsk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Shantobe",
                     "s_city_slug": "shantobe"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Shchuchinsk",
                     "s_city_slug": "shchuchinsk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Shortandy",
                     "s_city_slug": "shortandy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Stepnogorsk",
                     "s_city_slug": "stepnogorsk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Stepnyak",
                     "s_city_slug": "stepnyak"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Yermentau",
                     "s_city_slug": "yermentau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Zavodskoy",
                     "s_city_slug": "zavodskoy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Zhaqsy",
                     "s_city_slug": "zhaqsy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "akmola-region",
                     "s_city_name": "Zholymbet",
                     "s_city_slug": "zholymbet"
@@ -143,78 +143,78 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Aktobe Region",
             "s_region_slug": "aktobe-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "aktobe-region",
                     "s_city_name": "Aktobe",
                     "s_city_slug": "aktobe"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "aktobe-region",
                     "s_city_name": "Batamshinskiy",
                     "s_city_slug": "batamshinskiy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "aktobe-region",
                     "s_city_name": "Bayganin",
                     "s_city_slug": "bayganin"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "aktobe-region",
                     "s_city_name": "Embi",
                     "s_city_slug": "embi"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "aktobe-region",
                     "s_city_name": "Kandyagash",
                     "s_city_slug": "kandyagash"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "aktobe-region",
                     "s_city_name": "Khromtau",
                     "s_city_slug": "khromtau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "aktobe-region",
                     "s_city_name": "Martuk",
                     "s_city_slug": "martuk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "aktobe-region",
                     "s_city_name": "Shalqar",
                     "s_city_slug": "shalqar"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "aktobe-region",
                     "s_city_name": "Shubarkuduk",
                     "s_city_slug": "shubarkuduk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "aktobe-region",
                     "s_city_name": "Shubarshi",
                     "s_city_slug": "shubarshi"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "aktobe-region",
                     "s_city_name": "Temir",
                     "s_city_slug": "temir"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "aktobe-region",
                     "s_city_name": "Yrghyz",
                     "s_city_slug": "yrghyz"
@@ -222,12 +222,12 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Almaty",
             "s_region_slug": "almaty",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty",
                     "s_city_name": "Almaty",
                     "s_city_slug": "almaty"
@@ -235,132 +235,132 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Almaty Region",
             "s_region_slug": "almaty-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Bakanas",
                     "s_city_slug": "bakanas"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Balpyk Bi",
                     "s_city_slug": "balpyk-bi"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Burunday",
                     "s_city_slug": "burunday"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Chemolgan",
                     "s_city_slug": "chemolgan"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Druzhba",
                     "s_city_slug": "druzhba"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Esik",
                     "s_city_slug": "esik"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Kapshagay",
                     "s_city_slug": "kapshagay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Kegen",
                     "s_city_slug": "kegen"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Lepsy",
                     "s_city_slug": "lepsy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Matay",
                     "s_city_slug": "matay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Otegen Batyra",
                     "s_city_slug": "otegen-batyra"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Pervomayka",
                     "s_city_slug": "pervomayka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Sarkand",
                     "s_city_slug": "sarkand"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Saryozek",
                     "s_city_slug": "saryozek"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Taldykorgan",
                     "s_city_slug": "taldykorgan"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Talghar",
                     "s_city_slug": "talghar"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Tekeli",
                     "s_city_slug": "tekeli"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Turgen",
                     "s_city_slug": "turgen"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Ulken",
                     "s_city_slug": "ulken"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Ush-Tyube",
                     "s_city_slug": "ush-tyube"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "almaty-region",
                     "s_city_name": "Zharkent",
                     "s_city_slug": "zharkent"
@@ -368,84 +368,84 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Atyrau Region",
             "s_region_slug": "atyrau-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Akkol",
                     "s_city_slug": "akkol"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Atyrau",
                     "s_city_slug": "atyrau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Balykshi",
                     "s_city_slug": "balykshi"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Bayshonas",
                     "s_city_slug": "bayshonas"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Dossor",
                     "s_city_slug": "dossor"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Inderbor",
                     "s_city_slug": "inderbor"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Makhambet",
                     "s_city_slug": "makhambet"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Maloye Ganyushkino",
                     "s_city_slug": "maloye-ganyushkino"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Maqat",
                     "s_city_slug": "maqat"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Miyaly",
                     "s_city_slug": "miyaly"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Qaraton",
                     "s_city_slug": "qaraton"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Qulsary",
                     "s_city_slug": "qulsary"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "atyrau-region",
                     "s_city_name": "Shalkar",
                     "s_city_slug": "shalkar"
@@ -453,12 +453,12 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Baikonur",
             "s_region_slug": "baikonur",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "baikonur",
                     "s_city_name": "Baikonur",
                     "s_city_slug": "baikonur"
@@ -466,186 +466,186 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "East Kazakhstan Region",
             "s_region_slug": "east-kazakhstan-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Altayskiy",
                     "s_city_slug": "altayskiy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Aqtoghay",
                     "s_city_slug": "aqtoghay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Asubulaq",
                     "s_city_slug": "asubulaq"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Auezov",
                     "s_city_slug": "auezov"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Ayagoz",
                     "s_city_slug": "ayagoz"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Belogorskiy",
                     "s_city_slug": "belogorskiy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Belousovka",
                     "s_city_slug": "belousovka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Borodulikha",
                     "s_city_slug": "borodulikha"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Georgievka",
                     "s_city_slug": "georgievka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Glubokoye",
                     "s_city_slug": "glubokoye"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Kurchatov",
                     "s_city_slug": "kurchatov"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Kurchum",
                     "s_city_slug": "kurchum"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Maleyevsk",
                     "s_city_slug": "maleyevsk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Ognevka",
                     "s_city_slug": "ognevka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Priisk Boko",
                     "s_city_slug": "priisk-boko"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Qarauyl",
                     "s_city_slug": "qarauyl"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Ridder",
                     "s_city_slug": "ridder"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Semey",
                     "s_city_slug": "semey"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Shar",
                     "s_city_slug": "shar"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Shemonaikha",
                     "s_city_slug": "shemonaikha"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Suykbulak",
                     "s_city_slug": "suykbulak"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Tughyl",
                     "s_city_slug": "tughyl"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Urzhar",
                     "s_city_slug": "urzhar"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Ust-Kamenogorsk",
                     "s_city_slug": "ust-kamenogorsk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Ust-Talovka",
                     "s_city_slug": "ust-talovka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Zaysan",
                     "s_city_slug": "zaysan"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Zhalghyztobe",
                     "s_city_slug": "zhalghyztobe"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Zhanga Buqtyrma",
                     "s_city_slug": "zhanga-buqtyrma"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Zhezkent",
                     "s_city_slug": "zhezkent"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "east-kazakhstan-region",
                     "s_city_name": "Zyryanovsk",
                     "s_city_slug": "zyryanovsk"
@@ -653,102 +653,102 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Jambyl Region",
             "s_region_slug": "jambyl-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Aqbaqay",
                     "s_city_slug": "aqbaqay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Chu",
                     "s_city_slug": "chu"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Georgiyevka",
                     "s_city_slug": "georgiyevka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Granitogorsk",
                     "s_city_slug": "granitogorsk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Karatau",
                     "s_city_slug": "karatau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Khantau",
                     "s_city_slug": "khantau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Lugovoy",
                     "s_city_slug": "lugovoy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Lugovoye",
                     "s_city_slug": "lugovoye"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Merke",
                     "s_city_slug": "merke"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Moyynkum",
                     "s_city_slug": "moyynkum"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Mynaral",
                     "s_city_slug": "mynaral"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Oytal",
                     "s_city_slug": "oytal"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Sarykemer",
                     "s_city_slug": "sarykemer"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Shyghanaq",
                     "s_city_slug": "shyghanaq"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Taraz",
                     "s_city_slug": "taraz"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "jambyl-region",
                     "s_city_name": "Zhangatas",
                     "s_city_slug": "zhangatas"
@@ -756,234 +756,234 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Karaganda Region",
             "s_region_slug": "karaganda-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Abay",
                     "s_city_slug": "abay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Abay Qalasy",
                     "s_city_slug": "abay-qalasy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Aksu-Ayuly",
                     "s_city_slug": "aksu-ayuly"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Aktas",
                     "s_city_slug": "aktas"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Aktau",
                     "s_city_slug": "aktau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Aktogay",
                     "s_city_slug": "aktogay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Aqadyr",
                     "s_city_slug": "aqadyr"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Aqshatau",
                     "s_city_slug": "aqshatau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Aqtoghay Audany",
                     "s_city_slug": "aqtoghay-audany"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Atasu",
                     "s_city_slug": "atasu"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Balqash",
                     "s_city_slug": "balqash"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Bukhar-Zhyrau",
                     "s_city_slug": "bukhar-zhyrau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Dolinka",
                     "s_city_slug": "dolinka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Karagandy",
                     "s_city_slug": "karagandy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Kievka",
                     "s_city_slug": "kievka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Koktal",
                     "s_city_slug": "koktal"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Kushoky",
                     "s_city_slug": "kushoky"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Kyzylzhar",
                     "s_city_slug": "kyzylzhar"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Moyynty",
                     "s_city_slug": "moyynty"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Novodolinskiy",
                     "s_city_slug": "novodolinskiy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Osakarovka",
                     "s_city_slug": "osakarovka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Prigorodnoye",
                     "s_city_slug": "prigorodnoye"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Priozersk",
                     "s_city_slug": "priozersk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Qarazhal",
                     "s_city_slug": "qarazhal"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Qarqaraly",
                     "s_city_slug": "qarqaraly"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Saryshaghan",
                     "s_city_slug": "saryshaghan"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Sayaq",
                     "s_city_slug": "sayaq"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Shakhan",
                     "s_city_slug": "shakhan"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Shakhtinsk",
                     "s_city_slug": "shakhtinsk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Shashubay",
                     "s_city_slug": "shashubay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Shubarkol",
                     "s_city_slug": "shubarkol"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Soran",
                     "s_city_slug": "soran"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Temirtau",
                     "s_city_slug": "temirtau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Tokarevka",
                     "s_city_slug": "tokarevka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Verkhniye Kayrakty",
                     "s_city_slug": "verkhniye-kayrakty"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Zhambyl",
                     "s_city_slug": "zhambyl"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Zharyk",
                     "s_city_slug": "zharyk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "karaganda-region",
                     "s_city_name": "Zhezqazghan",
                     "s_city_slug": "zhezqazghan"
@@ -991,102 +991,102 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Kostanay Region",
             "s_region_slug": "kostanay-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Arkalyk",
                     "s_city_slug": "arkalyk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Ayat",
                     "s_city_slug": "ayat"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Borovskoy",
                     "s_city_slug": "borovskoy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Dzhetygara",
                     "s_city_slug": "dzhetygara"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Fyodorovka",
                     "s_city_slug": "fyodorovka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Karasu",
                     "s_city_slug": "karasu"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Komsomolets",
                     "s_city_slug": "komsomolets"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Kostanay",
                     "s_city_slug": "kostanay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Lisakovsk",
                     "s_city_slug": "lisakovsk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Ordzhonikidze",
                     "s_city_slug": "ordzhonikidze"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Qashar",
                     "s_city_slug": "qashar"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Qusmuryn",
                     "s_city_slug": "qusmuryn"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Rudnyy",
                     "s_city_slug": "rudnyy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Tobol",
                     "s_city_slug": "tobol"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Torghay",
                     "s_city_slug": "torghay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kostanay-region",
                     "s_city_name": "Troyebratskiy",
                     "s_city_slug": "troyebratskiy"
@@ -1094,84 +1094,84 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Kyzylorda Region",
             "s_region_slug": "kyzylorda-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Aral",
                     "s_city_slug": "aral"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Ayteke Bi",
                     "s_city_slug": "ayteke-bi"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Belkol",
                     "s_city_slug": "belkol"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Dzhalagash",
                     "s_city_slug": "dzhalagash"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Kyzylorda",
                     "s_city_slug": "kyzylorda"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Qazaly",
                     "s_city_slug": "qazaly"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Sekseuil",
                     "s_city_slug": "sekseuil"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Shalqiya",
                     "s_city_slug": "shalqiya"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Shieli",
                     "s_city_slug": "shieli"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Tasboget",
                     "s_city_slug": "tasboget"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Terenozek",
                     "s_city_slug": "terenozek"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Yanykurgan",
                     "s_city_slug": "yanykurgan"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "kyzylorda-region",
                     "s_city_name": "Zhosaly",
                     "s_city_slug": "zhosaly"
@@ -1179,78 +1179,78 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Mangystau Region",
             "s_region_slug": "mangystau-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "mangystau-region",
                     "s_city_name": "Aktau",
                     "s_city_slug": "aktau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "mangystau-region",
                     "s_city_name": "Bautino",
                     "s_city_slug": "bautino"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "mangystau-region",
                     "s_city_name": "Beyneu",
                     "s_city_slug": "beyneu"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "mangystau-region",
                     "s_city_name": "Fort-Shevchenko",
                     "s_city_slug": "fort-shevchenko"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "mangystau-region",
                     "s_city_name": "Munayshy",
                     "s_city_slug": "munayshy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "mangystau-region",
                     "s_city_name": "Omirzaq",
                     "s_city_slug": "omirzaq"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "mangystau-region",
                     "s_city_name": "Sayotesh",
                     "s_city_slug": "sayotesh"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "mangystau-region",
                     "s_city_name": "Shetpe",
                     "s_city_slug": "shetpe"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "mangystau-region",
                     "s_city_name": "Taushyq",
                     "s_city_slug": "taushyq"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "mangystau-region",
                     "s_city_name": "Yeraliyev",
                     "s_city_slug": "yeraliyev"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "mangystau-region",
                     "s_city_name": "Zhanaozen",
                     "s_city_slug": "zhanaozen"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "mangystau-region",
                     "s_city_name": "Zhetibay",
                     "s_city_slug": "zhetibay"
@@ -1258,90 +1258,90 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "North Kazakhstan Region",
             "s_region_slug": "north-kazakhstan-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Birlestik",
                     "s_city_slug": "birlestik"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Bishkul",
                     "s_city_slug": "bishkul"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Bulayevo",
                     "s_city_slug": "bulayevo"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Burabay",
                     "s_city_slug": "burabay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Kzyltu",
                     "s_city_slug": "kzyltu"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Novoishimskiy",
                     "s_city_slug": "novoishimskiy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Petropavl",
                     "s_city_slug": "petropavl"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Sergeyevka",
                     "s_city_slug": "sergeyevka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Smirnovo",
                     "s_city_slug": "smirnovo"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Taiynsha",
                     "s_city_slug": "taiynsha"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Talshik",
                     "s_city_slug": "talshik"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Timiryazevo",
                     "s_city_slug": "timiryazevo"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Volodarskoye",
                     "s_city_slug": "volodarskoye"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "north-kazakhstan-region",
                     "s_city_name": "Yavlenka",
                     "s_city_slug": "yavlenka"
@@ -1349,12 +1349,12 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Nur-Sultan",
             "s_region_slug": "nur-sultan",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "nur-sultan",
                     "s_city_name": "Nur-Sultan",
                     "s_city_slug": "nur-sultan"
@@ -1362,72 +1362,72 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Pavlodar Region",
             "s_region_slug": "pavlodar-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "pavlodar-region",
                     "s_city_name": "Aksu",
                     "s_city_slug": "aksu"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "pavlodar-region",
                     "s_city_name": "Bayanaul",
                     "s_city_slug": "bayanaul"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "pavlodar-region",
                     "s_city_name": "Belogorye",
                     "s_city_slug": "belogorye"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "pavlodar-region",
                     "s_city_name": "Ekibastuz",
                     "s_city_slug": "ekibastuz"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "pavlodar-region",
                     "s_city_name": "Irtyshsk",
                     "s_city_slug": "irtyshsk"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "pavlodar-region",
                     "s_city_name": "Kalkaman",
                     "s_city_slug": "kalkaman"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "pavlodar-region",
                     "s_city_name": "Leninskiy",
                     "s_city_slug": "leninskiy"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "pavlodar-region",
                     "s_city_name": "Mayqayyng",
                     "s_city_slug": "mayqayyng"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "pavlodar-region",
                     "s_city_name": "Pavlodar",
                     "s_city_slug": "pavlodar"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "pavlodar-region",
                     "s_city_name": "Qashyr",
                     "s_city_slug": "qashyr"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "pavlodar-region",
                     "s_city_name": "Zhelezinka",
                     "s_city_slug": "zhelezinka"
@@ -1435,162 +1435,162 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "Turkestan Region",
             "s_region_slug": "turkestan-region",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Arys",
                     "s_city_slug": "arys"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Ashchysay",
                     "s_city_slug": "ashchysay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Asyqata",
                     "s_city_slug": "asyqata"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Atakent",
                     "s_city_slug": "atakent"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Bayzhansay",
                     "s_city_slug": "bayzhansay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Belyye Vody",
                     "s_city_slug": "belyye-vody"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Chardara",
                     "s_city_slug": "chardara"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Chayan",
                     "s_city_slug": "chayan"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Chulakkurgan",
                     "s_city_slug": "chulakkurgan"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Kantagi",
                     "s_city_slug": "kantagi"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Kentau",
                     "s_city_slug": "kentau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Kokterek",
                     "s_city_slug": "kokterek"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Lenger",
                     "s_city_slug": "lenger"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Leninskoye",
                     "s_city_slug": "leninskoye"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Maqtaaral Audany",
                     "s_city_slug": "maqtaaral-audany"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Myrzakent",
                     "s_city_slug": "myrzakent"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Qogham",
                     "s_city_slug": "qogham"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Saryaghash",
                     "s_city_slug": "saryaghash"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Saryaghash Audany",
                     "s_city_slug": "saryaghash-audany"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Sastobe",
                     "s_city_slug": "sastobe"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Sozaq Audany",
                     "s_city_slug": "sozaq-audany"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Temirlanovka",
                     "s_city_slug": "temirlanovka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Turar Ryskulov",
                     "s_city_slug": "turar-ryskulov"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Turkestan",
                     "s_city_slug": "turkestan"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Tyulkubas",
                     "s_city_slug": "tyulkubas"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "turkestan-region",
                     "s_city_name": "Zhabagly",
                     "s_city_slug": "zhabagly"
@@ -1598,84 +1598,84 @@
             ]
         },
         {
-            "s_country_code": "KZ",
+            "s_country_code": "kz",
             "s_region_name": "West Kazakhstan Province",
             "s_region_slug": "west-kazakhstan-province",
             "cities": [
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Aqsay",
                     "s_city_slug": "aqsay"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Burlin",
                     "s_city_slug": "burlin"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Chapaev",
                     "s_city_slug": "chapaev"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Chingirlau",
                     "s_city_slug": "chingirlau"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Dzhambeyty",
                     "s_city_slug": "dzhambeyty"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Fedorovka",
                     "s_city_slug": "fedorovka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Kaztalovka",
                     "s_city_slug": "kaztalovka"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Krugloozernoe",
                     "s_city_slug": "krugloozernoe"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Oral",
                     "s_city_slug": "oral"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Peremetnoe",
                     "s_city_slug": "peremetnoe"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Saykhin",
                     "s_city_slug": "saykhin"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Tasqala",
                     "s_city_slug": "tasqala"
                 },
                 {
-                    "s_country_code": "KZ",
+                    "s_country_code": "kz",
                     "s_region_slug": "west-kazakhstan-province",
                     "s_city_name": "Zhanibek",
                     "s_city_slug": "zhanibek"

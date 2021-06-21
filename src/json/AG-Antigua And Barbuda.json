@@ -4,12 +4,12 @@
     "s_country_slug": "antigua-and-barbuda",
     "regions": [
         {
-            "s_country_code": "AG",
+            "s_country_code": "ag",
             "s_region_name": "Barbuda",
             "s_region_slug": "barbuda",
             "cities": [
                 {
-                    "s_country_code": "AG",
+                    "s_country_code": "ag",
                     "s_region_slug": "barbuda",
                     "s_city_name": "Codrington",
                     "s_city_slug": "codrington"
@@ -17,12 +17,12 @@
             ]
         },
         {
-            "s_country_code": "AG",
+            "s_country_code": "ag",
             "s_region_name": "Redonda",
             "s_region_slug": "redonda",
             "cities": [
                 {
-                    "s_country_code": "AG",
+                    "s_country_code": "ag",
                     "s_region_slug": "redonda",
                     "s_city_name": "Redonda",
                     "s_city_slug": "redonda"
@@ -30,12 +30,12 @@
             ]
         },
         {
-            "s_country_code": "AG",
+            "s_country_code": "ag",
             "s_region_name": "Saint George Parish",
             "s_region_slug": "saint-george-parish",
             "cities": [
                 {
-                    "s_country_code": "AG",
+                    "s_country_code": "ag",
                     "s_region_slug": "saint-george-parish",
                     "s_city_name": "Piggotts",
                     "s_city_slug": "piggotts"
@@ -43,18 +43,18 @@
             ]
         },
         {
-            "s_country_code": "AG",
+            "s_country_code": "ag",
             "s_region_name": "Saint John Parish",
             "s_region_slug": "saint-john-parish",
             "cities": [
                 {
-                    "s_country_code": "AG",
+                    "s_country_code": "ag",
                     "s_region_slug": "saint-john-parish",
                     "s_city_name": "Potters Village",
                     "s_city_slug": "potters-village"
                 },
                 {
-                    "s_country_code": "AG",
+                    "s_country_code": "ag",
                     "s_region_slug": "saint-john-parish",
                     "s_city_name": "Saint Johns",
                     "s_city_slug": "saint-johns"
@@ -62,12 +62,12 @@
             ]
         },
         {
-            "s_country_code": "AG",
+            "s_country_code": "ag",
             "s_region_name": "Saint Mary Parish",
             "s_region_slug": "saint-mary-parish",
             "cities": [
                 {
-                    "s_country_code": "AG",
+                    "s_country_code": "ag",
                     "s_region_slug": "saint-mary-parish",
                     "s_city_name": "Bolands",
                     "s_city_slug": "bolands"
@@ -75,18 +75,18 @@
             ]
         },
         {
-            "s_country_code": "AG",
+            "s_country_code": "ag",
             "s_region_name": "Saint Paul Parish",
             "s_region_slug": "saint-paul-parish",
             "cities": [
                 {
-                    "s_country_code": "AG",
+                    "s_country_code": "ag",
                     "s_region_slug": "saint-paul-parish",
                     "s_city_name": "Falmouth",
                     "s_city_slug": "falmouth"
                 },
                 {
-                    "s_country_code": "AG",
+                    "s_country_code": "ag",
                     "s_region_slug": "saint-paul-parish",
                     "s_city_name": "Liberta",
                     "s_city_slug": "liberta"
@@ -94,18 +94,18 @@
             ]
         },
         {
-            "s_country_code": "AG",
+            "s_country_code": "ag",
             "s_region_name": "Saint Peter Parish",
             "s_region_slug": "saint-peter-parish",
             "cities": [
                 {
-                    "s_country_code": "AG",
+                    "s_country_code": "ag",
                     "s_region_slug": "saint-peter-parish",
                     "s_city_name": "All Saints",
                     "s_city_slug": "all-saints"
                 },
                 {
-                    "s_country_code": "AG",
+                    "s_country_code": "ag",
                     "s_region_slug": "saint-peter-parish",
                     "s_city_name": "Parham",
                     "s_city_slug": "parham"
@@ -113,12 +113,12 @@
             ]
         },
         {
-            "s_country_code": "AG",
+            "s_country_code": "ag",
             "s_region_name": "Saint Philip Parish",
             "s_region_slug": "saint-philip-parish",
             "cities": [
                 {
-                    "s_country_code": "AG",
+                    "s_country_code": "ag",
                     "s_region_slug": "saint-philip-parish",
                     "s_city_name": "Saint Philip Parish",
                     "s_city_slug": "saint-philip-parish"

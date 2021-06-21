@@ -4,12 +4,12 @@
     "s_country_slug": "congo-republic",
     "regions": [
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Bandundu Province",
             "s_region_slug": "bandundu-province",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "bandundu-province",
                     "s_city_name": "Bandundu Province",
                     "s_city_slug": "bandundu-province"
@@ -17,42 +17,42 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Bas-Congo province",
             "s_region_slug": "bas-congo-province",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "bas-congo-province",
                     "s_city_name": "Boma",
                     "s_city_slug": "boma"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "bas-congo-province",
                     "s_city_name": "Kasangulu",
                     "s_city_slug": "kasangulu"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "bas-congo-province",
                     "s_city_name": "Matadi",
                     "s_city_slug": "matadi"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "bas-congo-province",
                     "s_city_name": "Mbanza-Ngungu",
                     "s_city_slug": "mbanza-ngungu"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "bas-congo-province",
                     "s_city_name": "Moanda",
                     "s_city_slug": "moanda"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "bas-congo-province",
                     "s_city_name": "Tshela",
                     "s_city_slug": "tshela"
@@ -60,24 +60,24 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Bas-Uele",
             "s_region_slug": "bas-uele",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "bas-uele",
                     "s_city_name": "Aketi",
                     "s_city_slug": "aketi"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "bas-uele",
                     "s_city_name": "Bondo",
                     "s_city_slug": "bondo"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "bas-uele",
                     "s_city_name": "Buta",
                     "s_city_slug": "buta"
@@ -85,30 +85,30 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Equateur",
             "s_region_slug": "equateur",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "equateur",
                     "s_city_name": "Gemena",
                     "s_city_slug": "gemena"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "equateur",
                     "s_city_name": "Lisala",
                     "s_city_slug": "lisala"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "equateur",
                     "s_city_name": "Lukolela",
                     "s_city_slug": "lukolela"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "equateur",
                     "s_city_name": "Mbandaka",
                     "s_city_slug": "mbandaka"
@@ -116,36 +116,36 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Haut-Katanga Province",
             "s_region_slug": "haut-katanga-province",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "haut-katanga-province",
                     "s_city_name": "Haut Katanga",
                     "s_city_slug": "haut-katanga"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "haut-katanga-province",
                     "s_city_name": "Kambove",
                     "s_city_slug": "kambove"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "haut-katanga-province",
                     "s_city_name": "Kipushi",
                     "s_city_slug": "kipushi"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "haut-katanga-province",
                     "s_city_name": "Likasi",
                     "s_city_slug": "likasi"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "haut-katanga-province",
                     "s_city_name": "Lubumbashi",
                     "s_city_slug": "lubumbashi"
@@ -153,18 +153,18 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Haut-Lomami District",
             "s_region_slug": "haut-lomami-district",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "haut-lomami-district",
                     "s_city_name": "Bukama",
                     "s_city_slug": "bukama"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "haut-lomami-district",
                     "s_city_name": "Kamina",
                     "s_city_slug": "kamina"
@@ -172,24 +172,24 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Haut-Uele",
             "s_region_slug": "haut-uele",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "haut-uele",
                     "s_city_name": "Isiro",
                     "s_city_slug": "isiro"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "haut-uele",
                     "s_city_name": "Wamba",
                     "s_city_slug": "wamba"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "haut-uele",
                     "s_city_name": "Watsa",
                     "s_city_slug": "watsa"
@@ -197,12 +197,12 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Ituri Interim Administration",
             "s_region_slug": "ituri-interim-administration",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "ituri-interim-administration",
                     "s_city_name": "Bunia",
                     "s_city_slug": "bunia"
@@ -210,30 +210,30 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Kasai District",
             "s_region_slug": "kasai-district",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kasai-district",
                     "s_city_name": "Ilebo",
                     "s_city_slug": "ilebo"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kasai-district",
                     "s_city_name": "Luebo",
                     "s_city_slug": "luebo"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kasai-district",
                     "s_city_name": "Mweka",
                     "s_city_slug": "mweka"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kasai-district",
                     "s_city_name": "Tshikapa",
                     "s_city_slug": "tshikapa"
@@ -241,12 +241,12 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Kasai-Occidental",
             "s_region_slug": "kasai-occidental",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kasai-occidental",
                     "s_city_name": "Kasai-Occidental",
                     "s_city_slug": "kasai-occidental"
@@ -254,24 +254,24 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Kasai-Oriental",
             "s_region_slug": "kasai-oriental",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kasai-oriental",
                     "s_city_name": "Gandajika",
                     "s_city_slug": "gandajika"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kasai-oriental",
                     "s_city_name": "Kabinda",
                     "s_city_slug": "kabinda"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kasai-oriental",
                     "s_city_name": "Mbuji-Mayi",
                     "s_city_slug": "mbuji-mayi"
@@ -279,12 +279,12 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Katanga Province",
             "s_region_slug": "katanga-province",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "katanga-province",
                     "s_city_name": "Katanga Province",
                     "s_city_slug": "katanga-province"
@@ -292,18 +292,18 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Kinshasa",
             "s_region_slug": "kinshasa",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kinshasa",
                     "s_city_name": "Kinshasa",
                     "s_city_slug": "kinshasa"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kinshasa",
                     "s_city_name": "Masina",
                     "s_city_slug": "masina"
@@ -311,12 +311,12 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Kwango District",
             "s_region_slug": "kwango-district",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kwango-district",
                     "s_city_name": "Kasongo-Lunda",
                     "s_city_slug": "kasongo-lunda"
@@ -324,30 +324,30 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Kwilu District",
             "s_region_slug": "kwilu-district",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kwilu-district",
                     "s_city_name": "Bandundu",
                     "s_city_slug": "bandundu"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kwilu-district",
                     "s_city_name": "Bulungu",
                     "s_city_slug": "bulungu"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kwilu-district",
                     "s_city_name": "Kikwit",
                     "s_city_slug": "kikwit"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "kwilu-district",
                     "s_city_name": "Mangai",
                     "s_city_slug": "mangai"
@@ -355,18 +355,18 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Lomami Province",
             "s_region_slug": "lomami-province",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "lomami-province",
                     "s_city_name": "Lubao",
                     "s_city_slug": "lubao"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "lomami-province",
                     "s_city_name": "Mwene-Ditu",
                     "s_city_slug": "mwene-ditu"
@@ -374,30 +374,30 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Mai-Ndombe Province",
             "s_region_slug": "mai-ndombe-province",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "mai-ndombe-province",
                     "s_city_name": "Bolobo",
                     "s_city_slug": "bolobo"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "mai-ndombe-province",
                     "s_city_name": "Inongo",
                     "s_city_slug": "inongo"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "mai-ndombe-province",
                     "s_city_name": "Mushie",
                     "s_city_slug": "mushie"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "mai-ndombe-province",
                     "s_city_name": "Nioki",
                     "s_city_slug": "nioki"
@@ -405,24 +405,24 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Maniema",
             "s_region_slug": "maniema",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "maniema",
                     "s_city_name": "Kampene",
                     "s_city_slug": "kampene"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "maniema",
                     "s_city_name": "Kasongo",
                     "s_city_slug": "kasongo"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "maniema",
                     "s_city_name": "Kindu",
                     "s_city_slug": "kindu"
@@ -430,12 +430,12 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Mongala District",
             "s_region_slug": "mongala-district",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "mongala-district",
                     "s_city_name": "Bumba",
                     "s_city_slug": "bumba"
@@ -443,24 +443,24 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Nord-Ubangi District",
             "s_region_slug": "nord-ubangi-district",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "nord-ubangi-district",
                     "s_city_name": "Bosobolo",
                     "s_city_slug": "bosobolo"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "nord-ubangi-district",
                     "s_city_name": "Businga",
                     "s_city_slug": "businga"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "nord-ubangi-district",
                     "s_city_name": "Gbadolite",
                     "s_city_slug": "gbadolite"
@@ -468,30 +468,30 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "North Kivu",
             "s_region_slug": "north-kivu",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "north-kivu",
                     "s_city_name": "Beni",
                     "s_city_slug": "beni"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "north-kivu",
                     "s_city_name": "Butembo",
                     "s_city_slug": "butembo"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "north-kivu",
                     "s_city_name": "Goma",
                     "s_city_slug": "goma"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "north-kivu",
                     "s_city_name": "Sake",
                     "s_city_slug": "sake"
@@ -499,12 +499,12 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Orientale Province",
             "s_region_slug": "orientale-province",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "orientale-province",
                     "s_city_name": "Orientale Province",
                     "s_city_slug": "orientale-province"
@@ -512,18 +512,18 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Sankuru District",
             "s_region_slug": "sankuru-district",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "sankuru-district",
                     "s_city_name": "Lodja",
                     "s_city_slug": "lodja"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "sankuru-district",
                     "s_city_name": "Lusambo",
                     "s_city_slug": "lusambo"
@@ -531,24 +531,24 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "South Kivu",
             "s_region_slug": "south-kivu",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "south-kivu",
                     "s_city_name": "Bukavu",
                     "s_city_slug": "bukavu"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "south-kivu",
                     "s_city_name": "Kabare",
                     "s_city_slug": "kabare"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "south-kivu",
                     "s_city_name": "Uvira",
                     "s_city_slug": "uvira"
@@ -556,18 +556,18 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Sud-Ubangi",
             "s_region_slug": "sud-ubangi",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "sud-ubangi",
                     "s_city_name": "Bongandanga",
                     "s_city_slug": "bongandanga"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "sud-ubangi",
                     "s_city_name": "Libenge",
                     "s_city_slug": "libenge"
@@ -575,24 +575,24 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Tanganyika Province",
             "s_region_slug": "tanganyika-province",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "tanganyika-province",
                     "s_city_name": "Kabalo",
                     "s_city_slug": "kabalo"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "tanganyika-province",
                     "s_city_name": "Kalemie",
                     "s_city_slug": "kalemie"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "tanganyika-province",
                     "s_city_name": "Kongolo",
                     "s_city_slug": "kongolo"
@@ -600,24 +600,24 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Tshopo District",
             "s_region_slug": "tshopo-district",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "tshopo-district",
                     "s_city_name": "Basoko",
                     "s_city_slug": "basoko"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "tshopo-district",
                     "s_city_name": "Kisangani",
                     "s_city_slug": "kisangani"
                 },
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "tshopo-district",
                     "s_city_name": "Yangambi",
                     "s_city_slug": "yangambi"
@@ -625,12 +625,12 @@
             ]
         },
         {
-            "s_country_code": "CD",
+            "s_country_code": "cd",
             "s_region_name": "Tshuapa District",
             "s_region_slug": "tshuapa-district",
             "cities": [
                 {
-                    "s_country_code": "CD",
+                    "s_country_code": "cd",
                     "s_region_slug": "tshuapa-district",
                     "s_city_name": "Boende",
                     "s_city_slug": "boende"

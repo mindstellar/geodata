@@ -4,78 +4,78 @@
     "s_country_slug": "united-arab-emirates",
     "regions": [
         {
-            "s_country_code": "AE",
+            "s_country_code": "ae",
             "s_region_name": "Abu Dhabi Emirate",
             "s_region_slug": "abu-dhabi-emirate",
             "cities": [
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "abu-dhabi-emirate",
                     "s_city_name": "Abu Dhabi Island and Internal Islands City",
                     "s_city_slug": "abu-dhabi-island-and-internal-islands-city"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "abu-dhabi-emirate",
                     "s_city_name": "Abu Dhabi Municipality",
                     "s_city_slug": "abu-dhabi-municipality"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "abu-dhabi-emirate",
                     "s_city_name": "Al Ain City",
                     "s_city_slug": "al-ain-city"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "abu-dhabi-emirate",
                     "s_city_name": "Al Ain Municipality",
                     "s_city_slug": "al-ain-municipality"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "abu-dhabi-emirate",
                     "s_city_name": "Al Dhafra",
                     "s_city_slug": "al-dhafra"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "abu-dhabi-emirate",
                     "s_city_name": "Al Shamkhah City",
                     "s_city_slug": "al-shamkhah-city"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "abu-dhabi-emirate",
                     "s_city_name": "Ar Ruways",
                     "s_city_slug": "ar-ruways"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "abu-dhabi-emirate",
                     "s_city_name": "Bani Yas City",
                     "s_city_slug": "bani-yas-city"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "abu-dhabi-emirate",
                     "s_city_name": "Khalifah A City",
                     "s_city_slug": "khalifah-a-city"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "abu-dhabi-emirate",
                     "s_city_name": "Musaffah",
                     "s_city_slug": "musaffah"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "abu-dhabi-emirate",
                     "s_city_name": "Muzayri",
                     "s_city_slug": "muzayri"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "abu-dhabi-emirate",
                     "s_city_name": "Zayed City",
                     "s_city_slug": "zayed-city"
@@ -83,30 +83,30 @@
             ]
         },
         {
-            "s_country_code": "AE",
+            "s_country_code": "ae",
             "s_region_name": "Ajman Emirate",
             "s_region_slug": "ajman-emirate",
             "cities": [
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "ajman-emirate",
                     "s_city_name": "Ajman",
                     "s_city_slug": "ajman"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "ajman-emirate",
                     "s_city_name": "Ajman City",
                     "s_city_slug": "ajman-city"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "ajman-emirate",
                     "s_city_name": "Manama",
                     "s_city_slug": "manama"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "ajman-emirate",
                     "s_city_name": "Masfout",
                     "s_city_slug": "masfout"
@@ -114,12 +114,12 @@
             ]
         },
         {
-            "s_country_code": "AE",
+            "s_country_code": "ae",
             "s_region_name": "Dubai",
             "s_region_slug": "dubai",
             "cities": [
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "dubai",
                     "s_city_name": "Dubai",
                     "s_city_slug": "dubai"
@@ -127,42 +127,42 @@
             ]
         },
         {
-            "s_country_code": "AE",
+            "s_country_code": "ae",
             "s_region_name": "Fujairah",
             "s_region_slug": "fujairah",
             "cities": [
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "fujairah",
                     "s_city_name": "Al Fujairah City",
                     "s_city_slug": "al-fujairah-city"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "fujairah",
                     "s_city_name": "Al Fujairah Municipality",
                     "s_city_slug": "al-fujairah-municipality"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "fujairah",
                     "s_city_name": "Dibba Al Fujairah Municipality",
                     "s_city_slug": "dibba-al-fujairah-municipality"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "fujairah",
                     "s_city_name": "Dibba Al-Fujairah",
                     "s_city_slug": "dibba-al-fujairah"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "fujairah",
                     "s_city_name": "Dibba Al-Hisn",
                     "s_city_slug": "dibba-al-hisn"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "fujairah",
                     "s_city_name": "Reef Al Fujairah City",
                     "s_city_slug": "reef-al-fujairah-city"
@@ -170,18 +170,18 @@
             ]
         },
         {
-            "s_country_code": "AE",
+            "s_country_code": "ae",
             "s_region_name": "Ras al-Khaimah",
             "s_region_slug": "ras-al-khaimah",
             "cities": [
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "ras-al-khaimah",
                     "s_city_name": "Ras Al Khaimah",
                     "s_city_slug": "ras-al-khaimah"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "ras-al-khaimah",
                     "s_city_name": "Ras Al Khaimah City",
                     "s_city_slug": "ras-al-khaimah-city"
@@ -189,78 +189,78 @@
             ]
         },
         {
-            "s_country_code": "AE",
+            "s_country_code": "ae",
             "s_region_name": "Sharjah Emirate",
             "s_region_slug": "sharjah-emirate",
             "cities": [
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "sharjah-emirate",
                     "s_city_name": "Adh Dhayd",
                     "s_city_slug": "adh-dhayd"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "sharjah-emirate",
                     "s_city_name": "Al Batayih",
                     "s_city_slug": "al-batayih"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "sharjah-emirate",
                     "s_city_name": "Al Hamriyah",
                     "s_city_slug": "al-hamriyah"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "sharjah-emirate",
                     "s_city_name": "Al Madam",
                     "s_city_slug": "al-madam"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "sharjah-emirate",
                     "s_city_name": "Dhaid",
                     "s_city_slug": "dhaid"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "sharjah-emirate",
                     "s_city_name": "Dibba Al Hesn",
                     "s_city_slug": "dibba-al-hesn"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "sharjah-emirate",
                     "s_city_name": "Kalba",
                     "s_city_slug": "kalba"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "sharjah-emirate",
                     "s_city_name": "Khawr Fakkan",
                     "s_city_slug": "khawr-fakkan"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "sharjah-emirate",
                     "s_city_name": "Khor Fakkan",
                     "s_city_slug": "khor-fakkan"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "sharjah-emirate",
                     "s_city_name": "Milehah",
                     "s_city_slug": "milehah"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "sharjah-emirate",
                     "s_city_name": "Murbah",
                     "s_city_slug": "murbah"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "sharjah-emirate",
                     "s_city_name": "Sharjah",
                     "s_city_slug": "sharjah"
@@ -268,18 +268,18 @@
             ]
         },
         {
-            "s_country_code": "AE",
+            "s_country_code": "ae",
             "s_region_name": "Umm al-Quwain",
             "s_region_slug": "umm-al-quwain",
             "cities": [
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "umm-al-quwain",
                     "s_city_name": "Umm AL Quwain",
                     "s_city_slug": "umm-al-quwain"
                 },
                 {
-                    "s_country_code": "AE",
+                    "s_country_code": "ae",
                     "s_region_slug": "umm-al-quwain",
                     "s_city_name": "Umm Al Quwain City",
                     "s_city_slug": "umm-al-quwain-city"

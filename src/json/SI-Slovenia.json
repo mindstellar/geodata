@@ -4,24 +4,24 @@
     "s_country_slug": "slovenia",
     "regions": [
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ajdovscina Municipality",
             "s_region_slug": "ajdovscina-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ajdovscina-municipality",
                     "s_city_name": "Ajdovscina",
                     "s_city_slug": "ajdovscina"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ajdovscina-municipality",
                     "s_city_name": "Cirkulane",
                     "s_city_slug": "cirkulane"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ajdovscina-municipality",
                     "s_city_name": "Lokavec",
                     "s_city_slug": "lokavec"
@@ -29,12 +29,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ankaran Municipality",
             "s_region_slug": "ankaran-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ankaran-municipality",
                     "s_city_name": "Ankaran",
                     "s_city_slug": "ankaran"
@@ -42,30 +42,30 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Beltinci Municipality",
             "s_region_slug": "beltinci-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "beltinci-municipality",
                     "s_city_name": "Beltinci",
                     "s_city_slug": "beltinci"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "beltinci-municipality",
                     "s_city_name": "Gancani",
                     "s_city_slug": "gancani"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "beltinci-municipality",
                     "s_city_name": "Lipovci",
                     "s_city_slug": "lipovci"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "beltinci-municipality",
                     "s_city_name": "Zgornje Gorje",
                     "s_city_slug": "zgornje-gorje"
@@ -73,12 +73,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Benedikt Municipality",
             "s_region_slug": "benedikt-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "benedikt-municipality",
                     "s_city_name": "Benedikt",
                     "s_city_slug": "benedikt"
@@ -86,12 +86,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Bistrica ob Sotli Municipality",
             "s_region_slug": "bistrica-ob-sotli-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "bistrica-ob-sotli-municipality",
                     "s_city_name": "Bistrica ob Sotli",
                     "s_city_slug": "bistrica-ob-sotli"
@@ -99,24 +99,24 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Bled Municipality",
             "s_region_slug": "bled-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "bled-municipality",
                     "s_city_name": "Bled",
                     "s_city_slug": "bled"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "bled-municipality",
                     "s_city_name": "Kostanjevica na Krki",
                     "s_city_slug": "kostanjevica-na-krki"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "bled-municipality",
                     "s_city_name": "Zasip",
                     "s_city_slug": "zasip"
@@ -124,12 +124,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Bloke Municipality",
             "s_region_slug": "bloke-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "bloke-municipality",
                     "s_city_name": "Nova Vas",
                     "s_city_slug": "nova-vas"
@@ -137,24 +137,24 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Bohinj Municipality",
             "s_region_slug": "bohinj-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "bohinj-municipality",
                     "s_city_name": "Bohinjska Bistrica",
                     "s_city_slug": "bohinjska-bistrica"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "bohinj-municipality",
                     "s_city_name": "Dragomer",
                     "s_city_slug": "dragomer"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "bohinj-municipality",
                     "s_city_name": "Log pri Brezovici",
                     "s_city_slug": "log-pri-brezovici"
@@ -162,18 +162,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Borovnica Municipality",
             "s_region_slug": "borovnica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "borovnica-municipality",
                     "s_city_name": "Borovnica",
                     "s_city_slug": "borovnica"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "borovnica-municipality",
                     "s_city_name": "Makole",
                     "s_city_slug": "makole"
@@ -181,18 +181,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Bovec Municipality",
             "s_region_slug": "bovec-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "bovec-municipality",
                     "s_city_name": "Bovec",
                     "s_city_slug": "bovec"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "bovec-municipality",
                     "s_city_name": "Mirna",
                     "s_city_slug": "mirna"
@@ -200,12 +200,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Braslovce Municipality",
             "s_region_slug": "braslovce-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "braslovce-municipality",
                     "s_city_name": "Braslovce",
                     "s_city_slug": "braslovce"
@@ -213,18 +213,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Brda Municipality",
             "s_region_slug": "brda-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "brda-municipality",
                     "s_city_name": "Dobrovo",
                     "s_city_slug": "dobrovo"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "brda-municipality",
                     "s_city_name": "Mokronog",
                     "s_city_slug": "mokronog"
@@ -232,18 +232,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Brezice Municipality",
             "s_region_slug": "brezice-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "brezice-municipality",
                     "s_city_name": "Brezice",
                     "s_city_slug": "brezice"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "brezice-municipality",
                     "s_city_name": "Poljcane",
                     "s_city_slug": "poljcane"
@@ -251,36 +251,36 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Brezovica Municipality",
             "s_region_slug": "brezovica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "brezovica-municipality",
                     "s_city_name": "Brezovica pri Ljubljani",
                     "s_city_slug": "brezovica-pri-ljubljani"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "brezovica-municipality",
                     "s_city_name": "Notranje Gorice",
                     "s_city_slug": "notranje-gorice"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "brezovica-municipality",
                     "s_city_name": "Opstina Ljubljana-Vic-Rudnik",
                     "s_city_slug": "opstina-ljubljana-vic-rudnik"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "brezovica-municipality",
                     "s_city_name": "Recica ob Savinji",
                     "s_city_slug": "recica-ob-savinji"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "brezovica-municipality",
                     "s_city_name": "Vnanje Gorice",
                     "s_city_slug": "vnanje-gorice"
@@ -288,12 +288,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Cankova Municipality",
             "s_region_slug": "cankova-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "cankova-municipality",
                     "s_city_name": "Cankova",
                     "s_city_slug": "cankova"
@@ -301,12 +301,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Cerklje na Gorenjskem Municipality",
             "s_region_slug": "cerklje-na-gorenjskem-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "cerklje-na-gorenjskem-municipality",
                     "s_city_name": "Cerklje na Gorenjskem",
                     "s_city_slug": "cerklje-na-gorenjskem"
@@ -314,18 +314,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Cerknica Municipality",
             "s_region_slug": "cerknica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "cerknica-municipality",
                     "s_city_name": "Cerknica",
                     "s_city_slug": "cerknica"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "cerknica-municipality",
                     "s_city_name": "Rakek",
                     "s_city_slug": "rakek"
@@ -333,12 +333,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Cerkno Municipality",
             "s_region_slug": "cerkno-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "cerkno-municipality",
                     "s_city_name": "Cerkno",
                     "s_city_slug": "cerkno"
@@ -346,12 +346,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Cerkvenjak Municipality",
             "s_region_slug": "cerkvenjak-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "cerkvenjak-municipality",
                     "s_city_name": "Cerkvenjak",
                     "s_city_slug": "cerkvenjak"
@@ -359,24 +359,24 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "City Municipality of Celje",
             "s_region_slug": "city-municipality-of-celje",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "city-municipality-of-celje",
                     "s_city_name": "Celje",
                     "s_city_slug": "celje"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "city-municipality-of-celje",
                     "s_city_name": "Ljubecna",
                     "s_city_slug": "ljubecna"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "city-municipality-of-celje",
                     "s_city_name": "Trnovlje pri Celju",
                     "s_city_slug": "trnovlje-pri-celju"
@@ -384,12 +384,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "City Municipality of Novo Mesto",
             "s_region_slug": "city-municipality-of-novo-mesto",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "city-municipality-of-novo-mesto",
                     "s_city_name": "Novo Mesto",
                     "s_city_slug": "novo-mesto"
@@ -397,12 +397,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Crensovci Municipality",
             "s_region_slug": "crensovci-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "crensovci-municipality",
                     "s_city_name": "Crensovci",
                     "s_city_slug": "crensovci"
@@ -410,12 +410,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Crna na Koroskem Municipality",
             "s_region_slug": "crna-na-koroskem-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "crna-na-koroskem-municipality",
                     "s_city_name": "Crna na Koroskem",
                     "s_city_slug": "crna-na-koroskem"
@@ -423,12 +423,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Crnomelj Municipality",
             "s_region_slug": "crnomelj-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "crnomelj-municipality",
                     "s_city_name": "Crnomelj",
                     "s_city_slug": "crnomelj"
@@ -436,12 +436,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Destrnik Municipality",
             "s_region_slug": "destrnik-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "destrnik-municipality",
                     "s_city_name": "Destrnik",
                     "s_city_slug": "destrnik"
@@ -449,12 +449,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Divaca Municipality",
             "s_region_slug": "divaca-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "divaca-municipality",
                     "s_city_name": "Divaca",
                     "s_city_slug": "divaca"
@@ -462,12 +462,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Dobje Municipality",
             "s_region_slug": "dobje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "dobje-municipality",
                     "s_city_name": "Dobje pri Planini",
                     "s_city_slug": "dobje-pri-planini"
@@ -475,12 +475,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Dobrepolje Municipality",
             "s_region_slug": "dobrepolje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "dobrepolje-municipality",
                     "s_city_name": "Videm",
                     "s_city_slug": "videm"
@@ -488,12 +488,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Dobrna Municipality",
             "s_region_slug": "dobrna-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "dobrna-municipality",
                     "s_city_name": "Dobrna",
                     "s_city_slug": "dobrna"
@@ -501,12 +501,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "DobrovaPolhov Gradec Municipality",
             "s_region_slug": "dobrovapolhov-gradec-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "dobrovapolhov-gradec-municipality",
                     "s_city_name": "Dobrova",
                     "s_city_slug": "dobrova"
@@ -514,12 +514,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Dobrovnik Municipality",
             "s_region_slug": "dobrovnik-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "dobrovnik-municipality",
                     "s_city_name": "Dobrovnik",
                     "s_city_slug": "dobrovnik"
@@ -527,12 +527,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Dol pri Ljubljani Municipality",
             "s_region_slug": "dol-pri-ljubljani-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "dol-pri-ljubljani-municipality",
                     "s_city_name": "Dol pri Ljubljani",
                     "s_city_slug": "dol-pri-ljubljani"
@@ -540,12 +540,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Dolenjske Toplice Municipality",
             "s_region_slug": "dolenjske-toplice-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "dolenjske-toplice-municipality",
                     "s_city_name": "Dolenjske Toplice",
                     "s_city_slug": "dolenjske-toplice"
@@ -553,30 +553,30 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Domzale Municipality",
             "s_region_slug": "domzale-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "domzale-municipality",
                     "s_city_name": "Dob",
                     "s_city_slug": "dob"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "domzale-municipality",
                     "s_city_name": "Domzale",
                     "s_city_slug": "domzale"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "domzale-municipality",
                     "s_city_name": "Radomlje",
                     "s_city_slug": "radomlje"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "domzale-municipality",
                     "s_city_name": "Vir",
                     "s_city_slug": "vir"
@@ -584,12 +584,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Dornava Municipality",
             "s_region_slug": "dornava-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "dornava-municipality",
                     "s_city_name": "Dornava",
                     "s_city_slug": "dornava"
@@ -597,12 +597,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Dravograd Municipality",
             "s_region_slug": "dravograd-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "dravograd-municipality",
                     "s_city_name": "Dravograd",
                     "s_city_slug": "dravograd"
@@ -610,18 +610,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Duplek Municipality",
             "s_region_slug": "duplek-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "duplek-municipality",
                     "s_city_name": "Spodnji Duplek",
                     "s_city_slug": "spodnji-duplek"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "duplek-municipality",
                     "s_city_name": "Zgornji Duplek",
                     "s_city_slug": "zgornji-duplek"
@@ -629,12 +629,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Gorenja VasPoljane Municipality",
             "s_region_slug": "gorenja-vaspoljane-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "gorenja-vaspoljane-municipality",
                     "s_city_name": "Gorenja Vas",
                     "s_city_slug": "gorenja-vas"
@@ -642,12 +642,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Gorisnica Municipality",
             "s_region_slug": "gorisnica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "gorisnica-municipality",
                     "s_city_name": "Gorisnica",
                     "s_city_slug": "gorisnica"
@@ -655,12 +655,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Gorje Municipality",
             "s_region_slug": "gorje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "gorje-municipality",
                     "s_city_name": "Gorje Municipality",
                     "s_city_slug": "gorje-municipality"
@@ -668,12 +668,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Gornja Radgona Municipality",
             "s_region_slug": "gornja-radgona-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "gornja-radgona-municipality",
                     "s_city_name": "Gornja Radgona",
                     "s_city_slug": "gornja-radgona"
@@ -681,12 +681,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Gornji Grad Municipality",
             "s_region_slug": "gornji-grad-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "gornji-grad-municipality",
                     "s_city_name": "Gornji Grad",
                     "s_city_slug": "gornji-grad"
@@ -694,12 +694,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Gornji Petrovci Municipality",
             "s_region_slug": "gornji-petrovci-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "gornji-petrovci-municipality",
                     "s_city_name": "Gornji Petrovci",
                     "s_city_slug": "gornji-petrovci"
@@ -707,12 +707,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Grad Municipality",
             "s_region_slug": "grad-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "grad-municipality",
                     "s_city_name": "Grad",
                     "s_city_slug": "grad"
@@ -720,18 +720,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Grosuplje Municipality",
             "s_region_slug": "grosuplje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "grosuplje-municipality",
                     "s_city_name": "Grosuplje",
                     "s_city_slug": "grosuplje"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "grosuplje-municipality",
                     "s_city_name": "Smarje-Sap",
                     "s_city_slug": "smarje-sap"
@@ -739,12 +739,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Hajdina Municipality",
             "s_region_slug": "hajdina-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "hajdina-municipality",
                     "s_city_name": "Spodnja Hajdina",
                     "s_city_slug": "spodnja-hajdina"
@@ -752,30 +752,30 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "HoceSlivnica Municipality",
             "s_region_slug": "hoceslivnica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "hoceslivnica-municipality",
                     "s_city_name": "Hotinja Vas",
                     "s_city_slug": "hotinja-vas"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "hoceslivnica-municipality",
                     "s_city_name": "Radizel",
                     "s_city_slug": "radizel"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "hoceslivnica-municipality",
                     "s_city_name": "Rogoza",
                     "s_city_slug": "rogoza"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "hoceslivnica-municipality",
                     "s_city_name": "Spodnje Hoce",
                     "s_city_slug": "spodnje-hoce"
@@ -783,12 +783,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Hodos Municipality",
             "s_region_slug": "hodos-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "hodos-municipality",
                     "s_city_name": "Hodos",
                     "s_city_slug": "hodos"
@@ -796,12 +796,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Horjul Municipality",
             "s_region_slug": "horjul-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "horjul-municipality",
                     "s_city_name": "Horjul",
                     "s_city_slug": "horjul"
@@ -809,18 +809,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Hrastnik Municipality",
             "s_region_slug": "hrastnik-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "hrastnik-municipality",
                     "s_city_name": "Dol pri Hrastniku",
                     "s_city_slug": "dol-pri-hrastniku"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "hrastnik-municipality",
                     "s_city_name": "Hrastnik",
                     "s_city_slug": "hrastnik"
@@ -828,12 +828,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "HrpeljeKozina Municipality",
             "s_region_slug": "hrpeljekozina-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "hrpeljekozina-municipality",
                     "s_city_name": "Kozina",
                     "s_city_slug": "kozina"
@@ -841,18 +841,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Idrija Municipality",
             "s_region_slug": "idrija-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "idrija-municipality",
                     "s_city_name": "Idrija",
                     "s_city_slug": "idrija"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "idrija-municipality",
                     "s_city_name": "Spodnja Idrija",
                     "s_city_slug": "spodnja-idrija"
@@ -860,12 +860,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ig Municipality",
             "s_region_slug": "ig-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ig-municipality",
                     "s_city_name": "Ig",
                     "s_city_slug": "ig"
@@ -873,18 +873,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ivancna Gorica Municipality",
             "s_region_slug": "ivancna-gorica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ivancna-gorica-municipality",
                     "s_city_name": "Ivancna Gorica",
                     "s_city_slug": "ivancna-gorica"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ivancna-gorica-municipality",
                     "s_city_name": "Sentvid pri Sticni",
                     "s_city_slug": "sentvid-pri-sticni"
@@ -892,18 +892,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Izola Municipality",
             "s_region_slug": "izola-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "izola-municipality",
                     "s_city_name": "Izola",
                     "s_city_slug": "izola"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "izola-municipality",
                     "s_city_name": "Jagodje",
                     "s_city_slug": "jagodje"
@@ -911,30 +911,30 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Jesenice Municipality",
             "s_region_slug": "jesenice-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "jesenice-municipality",
                     "s_city_name": "Hrusica",
                     "s_city_slug": "hrusica"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "jesenice-municipality",
                     "s_city_name": "Jesenice",
                     "s_city_slug": "jesenice"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "jesenice-municipality",
                     "s_city_name": "Koroska Bela",
                     "s_city_slug": "koroska-bela"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "jesenice-municipality",
                     "s_city_name": "Slovenski Javornik",
                     "s_city_slug": "slovenski-javornik"
@@ -942,12 +942,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Jezersko Municipality",
             "s_region_slug": "jezersko-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "jezersko-municipality",
                     "s_city_name": "Zgornje Jezersko",
                     "s_city_slug": "zgornje-jezersko"
@@ -955,12 +955,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Jursinci Municipality",
             "s_region_slug": "jursinci-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "jursinci-municipality",
                     "s_city_name": "Jursinci",
                     "s_city_slug": "jursinci"
@@ -968,24 +968,24 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kamnik Municipality",
             "s_region_slug": "kamnik-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kamnik-municipality",
                     "s_city_name": "Kamnik",
                     "s_city_slug": "kamnik"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kamnik-municipality",
                     "s_city_name": "Mekinje",
                     "s_city_slug": "mekinje"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kamnik-municipality",
                     "s_city_name": "Smarca",
                     "s_city_slug": "smarca"
@@ -993,18 +993,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kanal ob Soci Municipality",
             "s_region_slug": "kanal-ob-soci-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kanal-ob-soci-municipality",
                     "s_city_name": "Deskle",
                     "s_city_slug": "deskle"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kanal-ob-soci-municipality",
                     "s_city_name": "Kanal",
                     "s_city_slug": "kanal"
@@ -1012,12 +1012,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kidricevo Municipality",
             "s_region_slug": "kidricevo-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kidricevo-municipality",
                     "s_city_name": "Kidricevo",
                     "s_city_slug": "kidricevo"
@@ -1025,12 +1025,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kobarid Municipality",
             "s_region_slug": "kobarid-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kobarid-municipality",
                     "s_city_name": "Kobarid",
                     "s_city_slug": "kobarid"
@@ -1038,12 +1038,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kobilje Municipality",
             "s_region_slug": "kobilje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kobilje-municipality",
                     "s_city_name": "Kobilje",
                     "s_city_slug": "kobilje"
@@ -1051,12 +1051,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kocevje Municipality",
             "s_region_slug": "kocevje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kocevje-municipality",
                     "s_city_name": "Kocevje",
                     "s_city_slug": "kocevje"
@@ -1064,12 +1064,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Komen Municipality",
             "s_region_slug": "komen-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "komen-municipality",
                     "s_city_name": "Komen",
                     "s_city_slug": "komen"
@@ -1077,18 +1077,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Komenda Municipality",
             "s_region_slug": "komenda-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "komenda-municipality",
                     "s_city_name": "Komenda",
                     "s_city_slug": "komenda"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "komenda-municipality",
                     "s_city_name": "Moste",
                     "s_city_slug": "moste"
@@ -1096,48 +1096,48 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Koper City Municipality",
             "s_region_slug": "koper-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "koper-city-municipality",
                     "s_city_name": "Dekani",
                     "s_city_slug": "dekani"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "koper-city-municipality",
                     "s_city_name": "Hrvatini",
                     "s_city_slug": "hrvatini"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "koper-city-municipality",
                     "s_city_name": "Koper",
                     "s_city_slug": "koper"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "koper-city-municipality",
                     "s_city_name": "Pobegi",
                     "s_city_slug": "pobegi"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "koper-city-municipality",
                     "s_city_name": "Prade",
                     "s_city_slug": "prade"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "koper-city-municipality",
                     "s_city_name": "Spodnje Skofije",
                     "s_city_slug": "spodnje-skofije"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "koper-city-municipality",
                     "s_city_name": "Sv. Anton",
                     "s_city_slug": "sv-anton"
@@ -1145,12 +1145,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kostanjevica na Krki Municipality",
             "s_region_slug": "kostanjevica-na-krki-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kostanjevica-na-krki-municipality",
                     "s_city_name": "Kostanjevica na Krki Municipality",
                     "s_city_slug": "kostanjevica-na-krki-municipality"
@@ -1158,12 +1158,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kostel Municipality",
             "s_region_slug": "kostel-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kostel-municipality",
                     "s_city_name": "Kostel",
                     "s_city_slug": "kostel"
@@ -1171,12 +1171,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kozje Municipality",
             "s_region_slug": "kozje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kozje-municipality",
                     "s_city_name": "Kozje",
                     "s_city_slug": "kozje"
@@ -1184,42 +1184,42 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kranj City Municipality",
             "s_region_slug": "kranj-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kranj-city-municipality",
                     "s_city_name": "Britof",
                     "s_city_slug": "britof"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kranj-city-municipality",
                     "s_city_name": "Golnik",
                     "s_city_slug": "golnik"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kranj-city-municipality",
                     "s_city_name": "Kokrica",
                     "s_city_slug": "kokrica"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kranj-city-municipality",
                     "s_city_name": "Kranj",
                     "s_city_slug": "kranj"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kranj-city-municipality",
                     "s_city_name": "Mlaka pri Kranju",
                     "s_city_slug": "mlaka-pri-kranju"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kranj-city-municipality",
                     "s_city_name": "Zgornje Bitnje",
                     "s_city_slug": "zgornje-bitnje"
@@ -1227,18 +1227,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kranjska Gora Municipality",
             "s_region_slug": "kranjska-gora-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kranjska-gora-municipality",
                     "s_city_name": "Kranjska Gora",
                     "s_city_slug": "kranjska-gora"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kranjska-gora-municipality",
                     "s_city_name": "Mojstrana",
                     "s_city_slug": "mojstrana"
@@ -1246,12 +1246,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Krizevci Municipality",
             "s_region_slug": "krizevci-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "krizevci-municipality",
                     "s_city_name": "Krizevci pri Ljutomeru",
                     "s_city_slug": "krizevci-pri-ljutomeru"
@@ -1259,12 +1259,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kungota",
             "s_region_slug": "kungota",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kungota",
                     "s_city_name": "Zgornja Kungota",
                     "s_city_slug": "zgornja-kungota"
@@ -1272,12 +1272,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Kuzma Municipality",
             "s_region_slug": "kuzma-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "kuzma-municipality",
                     "s_city_name": "Kuzma",
                     "s_city_slug": "kuzma"
@@ -1285,12 +1285,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Lasko Municipality",
             "s_region_slug": "lasko-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "lasko-municipality",
                     "s_city_name": "Lasko",
                     "s_city_slug": "lasko"
@@ -1298,12 +1298,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Lenart Municipality",
             "s_region_slug": "lenart-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "lenart-municipality",
                     "s_city_name": "Lenart v Slov. Goricah",
                     "s_city_slug": "lenart-v-slov-goricah"
@@ -1311,12 +1311,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Lendava Municipality",
             "s_region_slug": "lendava-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "lendava-municipality",
                     "s_city_name": "Lendava",
                     "s_city_slug": "lendava"
@@ -1324,12 +1324,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Litija Municipality",
             "s_region_slug": "litija-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "litija-municipality",
                     "s_city_name": "Litija",
                     "s_city_slug": "litija"
@@ -1337,72 +1337,72 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ljubljana City Municipality",
             "s_region_slug": "ljubljana-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljubljana-city-municipality",
                     "s_city_name": "Dravlje District",
                     "s_city_slug": "dravlje-district"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljubljana-city-municipality",
                     "s_city_name": "Jarse District",
                     "s_city_slug": "jarse-district"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljubljana-city-municipality",
                     "s_city_name": "Ljubljana",
                     "s_city_slug": "ljubljana"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljubljana-city-municipality",
                     "s_city_name": "Opcina Ljubljana-Bezigrad",
                     "s_city_slug": "opcina-ljubljana-bezigrad"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljubljana-city-municipality",
                     "s_city_name": "Opstina Ljubljana-Center",
                     "s_city_slug": "opstina-ljubljana-center"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljubljana-city-municipality",
                     "s_city_name": "Opstina Ljubljana-Moste-Polje",
                     "s_city_slug": "opstina-ljubljana-moste-polje"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljubljana-city-municipality",
                     "s_city_name": "Roznik District",
                     "s_city_slug": "roznik-district"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljubljana-city-municipality",
                     "s_city_name": "Sentvid District",
                     "s_city_slug": "sentvid-district"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljubljana-city-municipality",
                     "s_city_name": "Sostro District",
                     "s_city_slug": "sostro-district"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljubljana-city-municipality",
                     "s_city_name": "Trnovo District",
                     "s_city_slug": "trnovo-district"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljubljana-city-municipality",
                     "s_city_name": "Vic District",
                     "s_city_slug": "vic-district"
@@ -1410,12 +1410,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ljubno Municipality",
             "s_region_slug": "ljubno-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljubno-municipality",
                     "s_city_name": "Ljubno ob Savinji",
                     "s_city_slug": "ljubno-ob-savinji"
@@ -1423,12 +1423,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ljutomer Municipality",
             "s_region_slug": "ljutomer-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ljutomer-municipality",
                     "s_city_name": "Ljutomer",
                     "s_city_slug": "ljutomer"
@@ -1436,12 +1436,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "LogDragomer Municipality",
             "s_region_slug": "logdragomer-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "logdragomer-municipality",
                     "s_city_name": "LogDragomer Municipality",
                     "s_city_slug": "logdragomer-municipality"
@@ -1449,12 +1449,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Logatec Municipality",
             "s_region_slug": "logatec-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "logatec-municipality",
                     "s_city_name": "Logatec",
                     "s_city_slug": "logatec"
@@ -1462,12 +1462,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Loska Dolina Municipality",
             "s_region_slug": "loska-dolina-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "loska-dolina-municipality",
                     "s_city_name": "Leskova Dolina",
                     "s_city_slug": "leskova-dolina"
@@ -1475,12 +1475,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Loski Potok Municipality",
             "s_region_slug": "loski-potok-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "loski-potok-municipality",
                     "s_city_name": "Hrib-Loski Potok",
                     "s_city_slug": "hrib-loski-potok"
@@ -1488,12 +1488,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Lovrenc na Pohorju Municipality",
             "s_region_slug": "lovrenc-na-pohorju-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "lovrenc-na-pohorju-municipality",
                     "s_city_name": "Lovrenc na Pohorju",
                     "s_city_slug": "lovrenc-na-pohorju"
@@ -1501,12 +1501,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Luce Municipality",
             "s_region_slug": "luce-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "luce-municipality",
                     "s_city_name": "Luce",
                     "s_city_slug": "luce"
@@ -1514,12 +1514,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Lukovica Municipality",
             "s_region_slug": "lukovica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "lukovica-municipality",
                     "s_city_name": "Lukovica pri Domzalah",
                     "s_city_slug": "lukovica-pri-domzalah"
@@ -1527,12 +1527,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Majsperk Municipality",
             "s_region_slug": "majsperk-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "majsperk-municipality",
                     "s_city_name": "Majsperk",
                     "s_city_slug": "majsperk"
@@ -1540,12 +1540,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Makole Municipality",
             "s_region_slug": "makole-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "makole-municipality",
                     "s_city_name": "Makole Municipality",
                     "s_city_slug": "makole-municipality"
@@ -1553,42 +1553,42 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Maribor City Municipality",
             "s_region_slug": "maribor-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "maribor-city-municipality",
                     "s_city_name": "Bresternica",
                     "s_city_slug": "bresternica"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "maribor-city-municipality",
                     "s_city_name": "Kamnica",
                     "s_city_slug": "kamnica"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "maribor-city-municipality",
                     "s_city_name": "Limbus",
                     "s_city_slug": "limbus"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "maribor-city-municipality",
                     "s_city_name": "Maribor",
                     "s_city_slug": "maribor"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "maribor-city-municipality",
                     "s_city_name": "Pekre",
                     "s_city_slug": "pekre"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "maribor-city-municipality",
                     "s_city_name": "Razvanje",
                     "s_city_slug": "razvanje"
@@ -1596,12 +1596,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Markovci Municipality",
             "s_region_slug": "markovci-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "markovci-municipality",
                     "s_city_name": "Markovci",
                     "s_city_slug": "markovci"
@@ -1609,24 +1609,24 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Medvode Municipality",
             "s_region_slug": "medvode-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "medvode-municipality",
                     "s_city_name": "Medvode",
                     "s_city_slug": "medvode"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "medvode-municipality",
                     "s_city_name": "Opstina [historical] Ljubljana-Siska",
                     "s_city_slug": "opstina-historical-ljubljana-siska"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "medvode-municipality",
                     "s_city_name": "Zgornje Pirnice",
                     "s_city_slug": "zgornje-pirnice"
@@ -1634,18 +1634,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Menges Municipality",
             "s_region_slug": "menges-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "menges-municipality",
                     "s_city_name": "Menges",
                     "s_city_slug": "menges"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "menges-municipality",
                     "s_city_name": "Preserje pri Radomljah",
                     "s_city_slug": "preserje-pri-radomljah"
@@ -1653,12 +1653,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Metlika Municipality",
             "s_region_slug": "metlika-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "metlika-municipality",
                     "s_city_name": "Metlika",
                     "s_city_slug": "metlika"
@@ -1666,12 +1666,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Mezica Municipality",
             "s_region_slug": "mezica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "mezica-municipality",
                     "s_city_name": "Mezica",
                     "s_city_slug": "mezica"
@@ -1679,12 +1679,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Miklavz na Dravskem Polju Municipality",
             "s_region_slug": "miklavz-na-dravskem-polju-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "miklavz-na-dravskem-polju-municipality",
                     "s_city_name": "Miklavz na Dravskem Polju",
                     "s_city_slug": "miklavz-na-dravskem-polju"
@@ -1692,18 +1692,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "MirenKostanjevica Municipality",
             "s_region_slug": "mirenkostanjevica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "mirenkostanjevica-municipality",
                     "s_city_name": "Bilje",
                     "s_city_slug": "bilje"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "mirenkostanjevica-municipality",
                     "s_city_name": "Miren",
                     "s_city_slug": "miren"
@@ -1711,12 +1711,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Mirna Municipality",
             "s_region_slug": "mirna-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "mirna-municipality",
                     "s_city_name": "Mirna Municipality",
                     "s_city_slug": "mirna-municipality"
@@ -1724,12 +1724,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Mirna Pec Municipality",
             "s_region_slug": "mirna-pec-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "mirna-pec-municipality",
                     "s_city_name": "Mirna Pec",
                     "s_city_slug": "mirna-pec"
@@ -1737,12 +1737,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Mislinja Municipality",
             "s_region_slug": "mislinja-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "mislinja-municipality",
                     "s_city_name": "Mislinja",
                     "s_city_slug": "mislinja"
@@ -1750,12 +1750,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "MokronogTrebelno Municipality",
             "s_region_slug": "mokronogtrebelno-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "mokronogtrebelno-municipality",
                     "s_city_name": "MokronogTrebelno Municipality",
                     "s_city_slug": "mokronogtrebelno-municipality"
@@ -1763,12 +1763,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Moravce Municipality",
             "s_region_slug": "moravce-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "moravce-municipality",
                     "s_city_name": "Moravce",
                     "s_city_slug": "moravce"
@@ -1776,12 +1776,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Moravske Toplice Municipality",
             "s_region_slug": "moravske-toplice-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "moravske-toplice-municipality",
                     "s_city_name": "Moravske Toplice",
                     "s_city_slug": "moravske-toplice"
@@ -1789,12 +1789,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Mozirje Municipality",
             "s_region_slug": "mozirje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "mozirje-municipality",
                     "s_city_name": "Mozirje",
                     "s_city_slug": "mozirje"
@@ -1802,12 +1802,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Municipality of Apace",
             "s_region_slug": "municipality-of-apace",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "municipality-of-apace",
                     "s_city_name": "Apace",
                     "s_city_slug": "apace"
@@ -1815,12 +1815,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Municipality of Cirkulane",
             "s_region_slug": "municipality-of-cirkulane",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "municipality-of-cirkulane",
                     "s_city_name": "Municipality of Cirkulane",
                     "s_city_slug": "municipality-of-cirkulane"
@@ -1828,12 +1828,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Municipality of Ilirska Bistrica",
             "s_region_slug": "municipality-of-ilirska-bistrica",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "municipality-of-ilirska-bistrica",
                     "s_city_name": "Ilirska Bistrica",
                     "s_city_slug": "ilirska-bistrica"
@@ -1841,24 +1841,24 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Municipality of Krsko",
             "s_region_slug": "municipality-of-krsko",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "municipality-of-krsko",
                     "s_city_name": "Krsko",
                     "s_city_slug": "krsko"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "municipality-of-krsko",
                     "s_city_name": "Leskovec pri Krskem",
                     "s_city_slug": "leskovec-pri-krskem"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "municipality-of-krsko",
                     "s_city_name": "Senovo",
                     "s_city_slug": "senovo"
@@ -1866,18 +1866,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Municipality of Skofljica",
             "s_region_slug": "municipality-of-skofljica",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "municipality-of-skofljica",
                     "s_city_name": "Lavrica",
                     "s_city_slug": "lavrica"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "municipality-of-skofljica",
                     "s_city_name": "Skofljica",
                     "s_city_slug": "skofljica"
@@ -1885,36 +1885,36 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Murska Sobota City Municipality",
             "s_region_slug": "murska-sobota-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "murska-sobota-city-municipality",
                     "s_city_name": "Bakovci",
                     "s_city_slug": "bakovci"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "murska-sobota-city-municipality",
                     "s_city_name": "Cernelavci",
                     "s_city_slug": "cernelavci"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "murska-sobota-city-municipality",
                     "s_city_name": "Krog",
                     "s_city_slug": "krog"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "murska-sobota-city-municipality",
                     "s_city_name": "Murska Sobota",
                     "s_city_slug": "murska-sobota"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "murska-sobota-city-municipality",
                     "s_city_name": "Rakican",
                     "s_city_slug": "rakican"
@@ -1922,12 +1922,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Muta Municipality",
             "s_region_slug": "muta-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "muta-municipality",
                     "s_city_name": "Muta",
                     "s_city_slug": "muta"
@@ -1935,12 +1935,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Naklo Municipality",
             "s_region_slug": "naklo-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "naklo-municipality",
                     "s_city_name": "Naklo",
                     "s_city_slug": "naklo"
@@ -1948,12 +1948,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Nazarje Municipality",
             "s_region_slug": "nazarje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "nazarje-municipality",
                     "s_city_name": "Nazarje",
                     "s_city_slug": "nazarje"
@@ -1961,36 +1961,36 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Nova Gorica City Municipality",
             "s_region_slug": "nova-gorica-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "nova-gorica-city-municipality",
                     "s_city_name": "Kromberk",
                     "s_city_slug": "kromberk"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "nova-gorica-city-municipality",
                     "s_city_name": "Nova Gorica",
                     "s_city_slug": "nova-gorica"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "nova-gorica-city-municipality",
                     "s_city_name": "Prvacina",
                     "s_city_slug": "prvacina"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "nova-gorica-city-municipality",
                     "s_city_name": "Sempas",
                     "s_city_slug": "sempas"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "nova-gorica-city-municipality",
                     "s_city_name": "Solkan",
                     "s_city_slug": "solkan"
@@ -1998,12 +1998,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Odranci Municipality",
             "s_region_slug": "odranci-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "odranci-municipality",
                     "s_city_name": "Odranci",
                     "s_city_slug": "odranci"
@@ -2011,12 +2011,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Oplotnica",
             "s_region_slug": "oplotnica",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "oplotnica",
                     "s_city_name": "Oplotnica",
                     "s_city_slug": "oplotnica"
@@ -2024,12 +2024,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ormoz Municipality",
             "s_region_slug": "ormoz-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ormoz-municipality",
                     "s_city_name": "Ormoz",
                     "s_city_slug": "ormoz"
@@ -2037,12 +2037,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Osilnica Municipality",
             "s_region_slug": "osilnica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "osilnica-municipality",
                     "s_city_name": "Osilnica",
                     "s_city_slug": "osilnica"
@@ -2050,12 +2050,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Pesnica Municipality",
             "s_region_slug": "pesnica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "pesnica-municipality",
                     "s_city_name": "Pesnica pri Mariboru",
                     "s_city_slug": "pesnica-pri-mariboru"
@@ -2063,30 +2063,30 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Piran Municipality",
             "s_region_slug": "piran-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "piran-municipality",
                     "s_city_name": "Lucija",
                     "s_city_slug": "lucija"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "piran-municipality",
                     "s_city_name": "Piran",
                     "s_city_slug": "piran"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "piran-municipality",
                     "s_city_name": "Portoroz",
                     "s_city_slug": "portoroz"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "piran-municipality",
                     "s_city_name": "Seca",
                     "s_city_slug": "seca"
@@ -2094,12 +2094,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Pivka Municipality",
             "s_region_slug": "pivka-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "pivka-municipality",
                     "s_city_name": "Pivka",
                     "s_city_slug": "pivka"
@@ -2107,12 +2107,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Podcetrtek Municipality",
             "s_region_slug": "podcetrtek-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "podcetrtek-municipality",
                     "s_city_name": "Podcetrtek",
                     "s_city_slug": "podcetrtek"
@@ -2120,12 +2120,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Podlehnik Municipality",
             "s_region_slug": "podlehnik-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "podlehnik-municipality",
                     "s_city_name": "Podlehnik",
                     "s_city_slug": "podlehnik"
@@ -2133,12 +2133,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Podvelka Municipality",
             "s_region_slug": "podvelka-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "podvelka-municipality",
                     "s_city_name": "Podvelka",
                     "s_city_slug": "podvelka"
@@ -2146,12 +2146,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Poljcane Municipality",
             "s_region_slug": "poljcane-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "poljcane-municipality",
                     "s_city_name": "Poljcane Municipality",
                     "s_city_slug": "poljcane-municipality"
@@ -2159,12 +2159,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Polzela Municipality",
             "s_region_slug": "polzela-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "polzela-municipality",
                     "s_city_name": "Polzela",
                     "s_city_slug": "polzela"
@@ -2172,12 +2172,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Postojna Municipality",
             "s_region_slug": "postojna-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "postojna-municipality",
                     "s_city_name": "Postojna",
                     "s_city_slug": "postojna"
@@ -2185,12 +2185,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Prebold Municipality",
             "s_region_slug": "prebold-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "prebold-municipality",
                     "s_city_name": "Prebold",
                     "s_city_slug": "prebold"
@@ -2198,12 +2198,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Preddvor Municipality",
             "s_region_slug": "preddvor-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "preddvor-municipality",
                     "s_city_name": "Preddvor",
                     "s_city_slug": "preddvor"
@@ -2211,12 +2211,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Prevalje Municipality",
             "s_region_slug": "prevalje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "prevalje-municipality",
                     "s_city_name": "Prevalje",
                     "s_city_slug": "prevalje"
@@ -2224,12 +2224,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ptuj City Municipality",
             "s_region_slug": "ptuj-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ptuj-city-municipality",
                     "s_city_name": "Ptuj",
                     "s_city_slug": "ptuj"
@@ -2237,12 +2237,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Puconci Municipality",
             "s_region_slug": "puconci-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "puconci-municipality",
                     "s_city_name": "Puconci",
                     "s_city_slug": "puconci"
@@ -2250,24 +2250,24 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "RaceFram Municipality",
             "s_region_slug": "racefram-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "racefram-municipality",
                     "s_city_name": "Fram",
                     "s_city_slug": "fram"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "racefram-municipality",
                     "s_city_name": "Morje",
                     "s_city_slug": "morje"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "racefram-municipality",
                     "s_city_name": "Race",
                     "s_city_slug": "race"
@@ -2275,12 +2275,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Radece Municipality",
             "s_region_slug": "radece-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "radece-municipality",
                     "s_city_name": "Radece",
                     "s_city_slug": "radece"
@@ -2288,12 +2288,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Radenci Municipality",
             "s_region_slug": "radenci-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "radenci-municipality",
                     "s_city_name": "Radenci",
                     "s_city_slug": "radenci"
@@ -2301,12 +2301,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Radlje ob Dravi Municipality",
             "s_region_slug": "radlje-ob-dravi-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "radlje-ob-dravi-municipality",
                     "s_city_name": "Radlje ob Dravi",
                     "s_city_slug": "radlje-ob-dravi"
@@ -2314,18 +2314,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Radovljica Municipality",
             "s_region_slug": "radovljica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "radovljica-municipality",
                     "s_city_name": "Lesce",
                     "s_city_slug": "lesce"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "radovljica-municipality",
                     "s_city_name": "Radovljica",
                     "s_city_slug": "radovljica"
@@ -2333,18 +2333,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ravne na Koroskem Municipality",
             "s_region_slug": "ravne-na-koroskem-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ravne-na-koroskem-municipality",
                     "s_city_name": "Kotlje",
                     "s_city_slug": "kotlje"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ravne-na-koroskem-municipality",
                     "s_city_name": "Ravne na Koroskem",
                     "s_city_slug": "ravne-na-koroskem"
@@ -2352,12 +2352,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Razkrizje Municipality",
             "s_region_slug": "razkrizje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "razkrizje-municipality",
                     "s_city_name": "Razkrizje",
                     "s_city_slug": "razkrizje"
@@ -2365,12 +2365,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Recica ob Savinji Municipality",
             "s_region_slug": "recica-ob-savinji-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "recica-ob-savinji-municipality",
                     "s_city_name": "Recica ob Savinji Municipality",
                     "s_city_slug": "recica-ob-savinji-municipality"
@@ -2378,18 +2378,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "RenceVogrsko Municipality",
             "s_region_slug": "rencevogrsko-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "rencevogrsko-municipality",
                     "s_city_name": "Rence",
                     "s_city_slug": "rence"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "rencevogrsko-municipality",
                     "s_city_name": "Volcja Draga",
                     "s_city_slug": "volcja-draga"
@@ -2397,12 +2397,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ribnica Municipality",
             "s_region_slug": "ribnica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ribnica-municipality",
                     "s_city_name": "Ribnica",
                     "s_city_slug": "ribnica"
@@ -2410,12 +2410,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ribnica na Pohorju Municipality",
             "s_region_slug": "ribnica-na-pohorju-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ribnica-na-pohorju-municipality",
                     "s_city_name": "Ribnica na Pohorju",
                     "s_city_slug": "ribnica-na-pohorju"
@@ -2423,12 +2423,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Rogaska Slatina Municipality",
             "s_region_slug": "rogaska-slatina-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "rogaska-slatina-municipality",
                     "s_city_name": "Rogaska Slatina",
                     "s_city_slug": "rogaska-slatina"
@@ -2436,12 +2436,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Rogasovci Municipality",
             "s_region_slug": "rogasovci-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "rogasovci-municipality",
                     "s_city_name": "Rogasovci",
                     "s_city_slug": "rogasovci"
@@ -2449,12 +2449,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Rogatec Municipality",
             "s_region_slug": "rogatec-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "rogatec-municipality",
                     "s_city_name": "Rogatec",
                     "s_city_slug": "rogatec"
@@ -2462,18 +2462,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ruse Municipality",
             "s_region_slug": "ruse-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ruse-municipality",
                     "s_city_name": "Bistrica ob Dravi",
                     "s_city_slug": "bistrica-ob-dravi"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ruse-municipality",
                     "s_city_name": "Ruse",
                     "s_city_slug": "ruse"
@@ -2481,12 +2481,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Salovci Municipality",
             "s_region_slug": "salovci-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "salovci-municipality",
                     "s_city_name": "Salovci",
                     "s_city_slug": "salovci"
@@ -2494,12 +2494,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Selnica ob Dravi Municipality",
             "s_region_slug": "selnica-ob-dravi-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "selnica-ob-dravi-municipality",
                     "s_city_name": "Selnica ob Dravi",
                     "s_city_slug": "selnica-ob-dravi"
@@ -2507,12 +2507,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Semic Municipality",
             "s_region_slug": "semic-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "semic-municipality",
                     "s_city_name": "Semic",
                     "s_city_slug": "semic"
@@ -2520,24 +2520,24 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "SempeterVrtojba Municipality",
             "s_region_slug": "sempetervrtojba-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sempetervrtojba-municipality",
                     "s_city_name": "Rozna Dolina",
                     "s_city_slug": "rozna-dolina"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sempetervrtojba-municipality",
                     "s_city_name": "Sempeter pri Gorici",
                     "s_city_slug": "sempeter-pri-gorici"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sempetervrtojba-municipality",
                     "s_city_name": "Vrtojba",
                     "s_city_slug": "vrtojba"
@@ -2545,18 +2545,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sencur Municipality",
             "s_region_slug": "sencur-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sencur-municipality",
                     "s_city_name": "Hrastje",
                     "s_city_slug": "hrastje"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sencur-municipality",
                     "s_city_name": "Sencur",
                     "s_city_slug": "sencur"
@@ -2564,18 +2564,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sentilj Municipality",
             "s_region_slug": "sentilj-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sentilj-municipality",
                     "s_city_name": "Selnica ob Muri",
                     "s_city_slug": "selnica-ob-muri"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sentilj-municipality",
                     "s_city_name": "Sentilj v Slov. Goricah",
                     "s_city_slug": "sentilj-v-slov-goricah"
@@ -2583,12 +2583,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sentjernej Municipality",
             "s_region_slug": "sentjernej-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sentjernej-municipality",
                     "s_city_name": "Sentjernej",
                     "s_city_slug": "sentjernej"
@@ -2596,12 +2596,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sentjur Municipality",
             "s_region_slug": "sentjur-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sentjur-municipality",
                     "s_city_name": "Sentjur",
                     "s_city_slug": "sentjur"
@@ -2609,12 +2609,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sentrupert Municipality",
             "s_region_slug": "sentrupert-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sentrupert-municipality",
                     "s_city_name": "Sentrupert",
                     "s_city_slug": "sentrupert"
@@ -2622,12 +2622,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sevnica Municipality",
             "s_region_slug": "sevnica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sevnica-municipality",
                     "s_city_name": "Sevnica",
                     "s_city_slug": "sevnica"
@@ -2635,12 +2635,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sezana Municipality",
             "s_region_slug": "sezana-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sezana-municipality",
                     "s_city_name": "Sezana",
                     "s_city_slug": "sezana"
@@ -2648,12 +2648,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Skocjan Municipality",
             "s_region_slug": "skocjan-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "skocjan-municipality",
                     "s_city_name": "Skocjan",
                     "s_city_slug": "skocjan"
@@ -2661,18 +2661,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Skofja Loka Municipality",
             "s_region_slug": "skofja-loka-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "skofja-loka-municipality",
                     "s_city_name": "Skofja Loka",
                     "s_city_slug": "skofja-loka"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "skofja-loka-municipality",
                     "s_city_name": "Sv. Duh",
                     "s_city_slug": "sv-duh"
@@ -2680,30 +2680,30 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Slovenj Gradec City Municipality",
             "s_region_slug": "slovenj-gradec-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "slovenj-gradec-city-municipality",
                     "s_city_name": "Legen",
                     "s_city_slug": "legen"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "slovenj-gradec-city-municipality",
                     "s_city_name": "Pamece",
                     "s_city_slug": "pamece"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "slovenj-gradec-city-municipality",
                     "s_city_name": "Slovenj Gradec",
                     "s_city_slug": "slovenj-gradec"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "slovenj-gradec-city-municipality",
                     "s_city_name": "Smartno pri Slovenj Gradcu",
                     "s_city_slug": "smartno-pri-slovenj-gradcu"
@@ -2711,24 +2711,24 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Slovenska Bistrica Municipality",
             "s_region_slug": "slovenska-bistrica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "slovenska-bistrica-municipality",
                     "s_city_name": "Pragersko",
                     "s_city_slug": "pragersko"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "slovenska-bistrica-municipality",
                     "s_city_name": "Slovenska Bistrica",
                     "s_city_slug": "slovenska-bistrica"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "slovenska-bistrica-municipality",
                     "s_city_name": "Zgornja Polskava",
                     "s_city_slug": "zgornja-polskava"
@@ -2736,12 +2736,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Slovenske Konjice Municipality",
             "s_region_slug": "slovenske-konjice-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "slovenske-konjice-municipality",
                     "s_city_name": "Slovenske Konjice",
                     "s_city_slug": "slovenske-konjice"
@@ -2749,12 +2749,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Smarje pri Jelsah Municipality",
             "s_region_slug": "smarje-pri-jelsah-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "smarje-pri-jelsah-municipality",
                     "s_city_name": "Smarje pri Jelsah",
                     "s_city_slug": "smarje-pri-jelsah"
@@ -2762,12 +2762,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Smarjeske Toplice Municipality",
             "s_region_slug": "smarjeske-toplice-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "smarjeske-toplice-municipality",
                     "s_city_name": "Smarjeta",
                     "s_city_slug": "smarjeta"
@@ -2775,12 +2775,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Smartno ob Paki Municipality",
             "s_region_slug": "smartno-ob-paki-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "smartno-ob-paki-municipality",
                     "s_city_name": "Smartno ob Paki",
                     "s_city_slug": "smartno-ob-paki"
@@ -2788,12 +2788,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Smartno pri Litiji Municipality",
             "s_region_slug": "smartno-pri-litiji-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "smartno-pri-litiji-municipality",
                     "s_city_name": "Smartno pri Litiji",
                     "s_city_slug": "smartno-pri-litiji"
@@ -2801,12 +2801,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sodrazica Municipality",
             "s_region_slug": "sodrazica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sodrazica-municipality",
                     "s_city_name": "Sodrazica",
                     "s_city_slug": "sodrazica"
@@ -2814,12 +2814,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Solcava Municipality",
             "s_region_slug": "solcava-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "solcava-municipality",
                     "s_city_name": "Solcava",
                     "s_city_slug": "solcava"
@@ -2827,24 +2827,24 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sostanj Municipality",
             "s_region_slug": "sostanj-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sostanj-municipality",
                     "s_city_name": "Ravne",
                     "s_city_slug": "ravne"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sostanj-municipality",
                     "s_city_name": "Sostanj",
                     "s_city_slug": "sostanj"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sostanj-municipality",
                     "s_city_name": "Topolsica",
                     "s_city_slug": "topolsica"
@@ -2852,12 +2852,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sredisce ob Dravi",
             "s_region_slug": "sredisce-ob-dravi",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sredisce-ob-dravi",
                     "s_city_name": "Sredisce ob Dravi",
                     "s_city_slug": "sredisce-ob-dravi"
@@ -2865,12 +2865,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Starse Municipality",
             "s_region_slug": "starse-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "starse-municipality",
                     "s_city_name": "Starse",
                     "s_city_slug": "starse"
@@ -2878,12 +2878,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Store Municipality",
             "s_region_slug": "store-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "store-municipality",
                     "s_city_name": "Store",
                     "s_city_slug": "store"
@@ -2891,12 +2891,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Straza Municipality",
             "s_region_slug": "straza-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "straza-municipality",
                     "s_city_name": "Straza",
                     "s_city_slug": "straza"
@@ -2904,12 +2904,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sveta Ana Municipality",
             "s_region_slug": "sveta-ana-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sveta-ana-municipality",
                     "s_city_name": "Sv. Ana v Slov. Goricah",
                     "s_city_slug": "sv-ana-v-slov-goricah"
@@ -2917,12 +2917,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sveta Trojica v Slovenskih Goricah Municipality",
             "s_region_slug": "sveta-trojica-v-slovenskih-goricah-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sveta-trojica-v-slovenskih-goricah-municipality",
                     "s_city_name": "Sv. Trojica v Slov. Goricah",
                     "s_city_slug": "sv-trojica-v-slov-goricah"
@@ -2930,12 +2930,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sveti Andraz v Slovenskih Goricah Municipality",
             "s_region_slug": "sveti-andraz-v-slovenskih-goricah-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sveti-andraz-v-slovenskih-goricah-municipality",
                     "s_city_name": "Vitomarci",
                     "s_city_slug": "vitomarci"
@@ -2943,12 +2943,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sveti Jurij ob Scavnici Municipality",
             "s_region_slug": "sveti-jurij-ob-scavnici-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sveti-jurij-ob-scavnici-municipality",
                     "s_city_name": "Sveti Jurij ob Scavnici Municipality",
                     "s_city_slug": "sveti-jurij-ob-scavnici-municipality"
@@ -2956,12 +2956,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sveti Jurij v Slovenskih Goricah Municipality",
             "s_region_slug": "sveti-jurij-v-slovenskih-goricah-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sveti-jurij-v-slovenskih-goricah-municipality",
                     "s_city_name": "Sveti Jurij ob Scavnici",
                     "s_city_slug": "sveti-jurij-ob-scavnici"
@@ -2969,12 +2969,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Sveti Tomaz Municipality",
             "s_region_slug": "sveti-tomaz-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "sveti-tomaz-municipality",
                     "s_city_name": "Sveti Tomaz",
                     "s_city_slug": "sveti-tomaz"
@@ -2982,12 +2982,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Tabor Municipality",
             "s_region_slug": "tabor-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "tabor-municipality",
                     "s_city_name": "Tabor",
                     "s_city_slug": "tabor"
@@ -2995,12 +2995,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Tisina Municipality",
             "s_region_slug": "tisina-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "tisina-municipality",
                     "s_city_name": "Tisina",
                     "s_city_slug": "tisina"
@@ -3008,12 +3008,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Tolmin Municipality",
             "s_region_slug": "tolmin-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "tolmin-municipality",
                     "s_city_name": "Tolmin",
                     "s_city_slug": "tolmin"
@@ -3021,12 +3021,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Trbovlje Municipality",
             "s_region_slug": "trbovlje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "trbovlje-municipality",
                     "s_city_name": "Trbovlje",
                     "s_city_slug": "trbovlje"
@@ -3034,12 +3034,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Trebnje Municipality",
             "s_region_slug": "trebnje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "trebnje-municipality",
                     "s_city_name": "Trebnje",
                     "s_city_slug": "trebnje"
@@ -3047,12 +3047,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Trnovska Vas Municipality",
             "s_region_slug": "trnovska-vas-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "trnovska-vas-municipality",
                     "s_city_name": "Trnovska Vas",
                     "s_city_slug": "trnovska-vas"
@@ -3060,18 +3060,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Trzic Municipality",
             "s_region_slug": "trzic-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "trzic-municipality",
                     "s_city_name": "Bistrica pri Trzicu",
                     "s_city_slug": "bistrica-pri-trzicu"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "trzic-municipality",
                     "s_city_name": "Trzic",
                     "s_city_slug": "trzic"
@@ -3079,18 +3079,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Trzin Municipality",
             "s_region_slug": "trzin-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "trzin-municipality",
                     "s_city_name": "Crnuce District",
                     "s_city_slug": "crnuce-district"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "trzin-municipality",
                     "s_city_name": "Trzin",
                     "s_city_slug": "trzin"
@@ -3098,12 +3098,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Turnisce Municipality",
             "s_region_slug": "turnisce-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "turnisce-municipality",
                     "s_city_name": "Turnisce",
                     "s_city_slug": "turnisce"
@@ -3111,12 +3111,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Velika Polana Municipality",
             "s_region_slug": "velika-polana-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "velika-polana-municipality",
                     "s_city_name": "Velika Polana",
                     "s_city_slug": "velika-polana"
@@ -3124,12 +3124,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Velike Lasce Municipality",
             "s_region_slug": "velike-lasce-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "velike-lasce-municipality",
                     "s_city_name": "Velike Lasce",
                     "s_city_slug": "velike-lasce"
@@ -3137,12 +3137,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Verzej Municipality",
             "s_region_slug": "verzej-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "verzej-municipality",
                     "s_city_name": "Verzej",
                     "s_city_slug": "verzej"
@@ -3150,12 +3150,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Videm Municipality",
             "s_region_slug": "videm-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "videm-municipality",
                     "s_city_name": "Videm pri Ptuju",
                     "s_city_slug": "videm-pri-ptuju"
@@ -3163,12 +3163,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Vipava Municipality",
             "s_region_slug": "vipava-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "vipava-municipality",
                     "s_city_name": "Vipava",
                     "s_city_slug": "vipava"
@@ -3176,12 +3176,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Vitanje Municipality",
             "s_region_slug": "vitanje-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "vitanje-municipality",
                     "s_city_name": "Vitanje",
                     "s_city_slug": "vitanje"
@@ -3189,12 +3189,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Vodice Municipality",
             "s_region_slug": "vodice-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "vodice-municipality",
                     "s_city_name": "Vodice",
                     "s_city_slug": "vodice"
@@ -3202,12 +3202,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Vojnik Municipality",
             "s_region_slug": "vojnik-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "vojnik-municipality",
                     "s_city_name": "Vojnik",
                     "s_city_slug": "vojnik"
@@ -3215,12 +3215,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Vransko Municipality",
             "s_region_slug": "vransko-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "vransko-municipality",
                     "s_city_name": "Vransko",
                     "s_city_slug": "vransko"
@@ -3228,18 +3228,18 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Vrhnika Municipality",
             "s_region_slug": "vrhnika-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "vrhnika-municipality",
                     "s_city_name": "Verd",
                     "s_city_slug": "verd"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "vrhnika-municipality",
                     "s_city_name": "Vrhnika",
                     "s_city_slug": "vrhnika"
@@ -3247,12 +3247,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Vuzenica Municipality",
             "s_region_slug": "vuzenica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "vuzenica-municipality",
                     "s_city_name": "Vuzenica",
                     "s_city_slug": "vuzenica"
@@ -3260,24 +3260,24 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Zagorje ob Savi Municipality",
             "s_region_slug": "zagorje-ob-savi-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zagorje-ob-savi-municipality",
                     "s_city_name": "Izlake",
                     "s_city_slug": "izlake"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zagorje-ob-savi-municipality",
                     "s_city_name": "Kisovec",
                     "s_city_slug": "kisovec"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zagorje-ob-savi-municipality",
                     "s_city_name": "Zagorje ob Savi",
                     "s_city_slug": "zagorje-ob-savi"
@@ -3285,30 +3285,30 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Zalec Municipality",
             "s_region_slug": "zalec-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zalec-municipality",
                     "s_city_name": "Gotovlje",
                     "s_city_slug": "gotovlje"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zalec-municipality",
                     "s_city_name": "Sempeter v Savinj. Dolini",
                     "s_city_slug": "sempeter-v-savinj-dolini"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zalec-municipality",
                     "s_city_name": "Zabukovica",
                     "s_city_slug": "zabukovica"
                 },
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zalec-municipality",
                     "s_city_name": "Zalec",
                     "s_city_slug": "zalec"
@@ -3316,12 +3316,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Zavrc Municipality",
             "s_region_slug": "zavrc-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zavrc-municipality",
                     "s_city_name": "Zavrc",
                     "s_city_slug": "zavrc"
@@ -3329,12 +3329,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Zelezniki Municipality",
             "s_region_slug": "zelezniki-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zelezniki-municipality",
                     "s_city_name": "Zelezniki",
                     "s_city_slug": "zelezniki"
@@ -3342,12 +3342,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Zetale Municipality",
             "s_region_slug": "zetale-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zetale-municipality",
                     "s_city_name": "Zetale",
                     "s_city_slug": "zetale"
@@ -3355,12 +3355,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Ziri Municipality",
             "s_region_slug": "ziri-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "ziri-municipality",
                     "s_city_name": "Ziri",
                     "s_city_slug": "ziri"
@@ -3368,12 +3368,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Zirovnica Municipality",
             "s_region_slug": "zirovnica-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zirovnica-municipality",
                     "s_city_name": "Zirovnica",
                     "s_city_slug": "zirovnica"
@@ -3381,12 +3381,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Zrece Municipality",
             "s_region_slug": "zrece-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zrece-municipality",
                     "s_city_name": "Zrece",
                     "s_city_slug": "zrece"
@@ -3394,12 +3394,12 @@
             ]
         },
         {
-            "s_country_code": "SI",
+            "s_country_code": "si",
             "s_region_name": "Zuzemberk Municipality",
             "s_region_slug": "zuzemberk-municipality",
             "cities": [
                 {
-                    "s_country_code": "SI",
+                    "s_country_code": "si",
                     "s_region_slug": "zuzemberk-municipality",
                     "s_city_name": "Zuzemberk",
                     "s_city_slug": "zuzemberk"

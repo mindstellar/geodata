@@ -4,78 +4,78 @@
     "s_country_slug": "cameroon",
     "regions": [
         {
-            "s_country_code": "CM",
+            "s_country_code": "cm",
             "s_region_name": "Adamawa",
             "s_region_slug": "adamawa",
             "cities": [
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "adamawa",
                     "s_city_name": "Bankim",
                     "s_city_slug": "bankim"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "adamawa",
                     "s_city_name": "Banyo",
                     "s_city_slug": "banyo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "adamawa",
                     "s_city_name": "Belel",
                     "s_city_slug": "belel"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "adamawa",
                     "s_city_name": "Djohong",
                     "s_city_slug": "djohong"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "adamawa",
                     "s_city_name": "Kontcha",
                     "s_city_slug": "kontcha"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "adamawa",
                     "s_city_name": "Mayo-Banyo",
                     "s_city_slug": "mayo-banyo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "adamawa",
                     "s_city_name": "Meiganga",
                     "s_city_slug": "meiganga"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "adamawa",
                     "s_city_name": "Ngaoundere",
                     "s_city_slug": "ngaoundere"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "adamawa",
                     "s_city_name": "Somie",
                     "s_city_slug": "somie"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "adamawa",
                     "s_city_name": "Tibati",
                     "s_city_slug": "tibati"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "adamawa",
                     "s_city_name": "Tignere",
                     "s_city_slug": "tignere"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "adamawa",
                     "s_city_name": "Vina",
                     "s_city_slug": "vina"
@@ -83,162 +83,162 @@
             ]
         },
         {
-            "s_country_code": "CM",
+            "s_country_code": "cm",
             "s_region_name": "Centre",
             "s_region_slug": "centre",
             "cities": [
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Akono",
                     "s_city_slug": "akono"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Akonolinga",
                     "s_city_slug": "akonolinga"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Bafia",
                     "s_city_slug": "bafia"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Eseka",
                     "s_city_slug": "eseka"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Esse",
                     "s_city_slug": "esse"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Evodoula",
                     "s_city_slug": "evodoula"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Mbalmayo",
                     "s_city_slug": "mbalmayo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Mbam-Et-Inoubou",
                     "s_city_slug": "mbam-et-inoubou"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Mbandjok",
                     "s_city_slug": "mbandjok"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Mbankomo",
                     "s_city_slug": "mbankomo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Mefou-et-Akono",
                     "s_city_slug": "mefou-et-akono"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Mfoundi",
                     "s_city_slug": "mfoundi"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Minta",
                     "s_city_slug": "minta"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Nanga Eboko",
                     "s_city_slug": "nanga-eboko"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Ndikinimeki",
                     "s_city_slug": "ndikinimeki"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Ngomedzap",
                     "s_city_slug": "ngomedzap"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Ngoro",
                     "s_city_slug": "ngoro"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Nkoteng",
                     "s_city_slug": "nkoteng"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Ntui",
                     "s_city_slug": "ntui"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Obala",
                     "s_city_slug": "obala"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Okoa",
                     "s_city_slug": "okoa"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Okola",
                     "s_city_slug": "okola"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Ombesa",
                     "s_city_slug": "ombesa"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Saa",
                     "s_city_slug": "saa"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Yaounde",
                     "s_city_slug": "yaounde"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "centre",
                     "s_city_name": "Yoko",
                     "s_city_slug": "yoko"
@@ -246,72 +246,72 @@
             ]
         },
         {
-            "s_country_code": "CM",
+            "s_country_code": "cm",
             "s_region_name": "East",
             "s_region_slug": "east",
             "cities": [
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "east",
                     "s_city_name": "Abong Mbang",
                     "s_city_slug": "abong-mbang"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "east",
                     "s_city_name": "Batouri",
                     "s_city_slug": "batouri"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "east",
                     "s_city_name": "Belabo",
                     "s_city_slug": "belabo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "east",
                     "s_city_name": "Bertoua",
                     "s_city_slug": "bertoua"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "east",
                     "s_city_name": "Betare Oya",
                     "s_city_slug": "betare-oya"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "east",
                     "s_city_name": "Dimako",
                     "s_city_slug": "dimako"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "east",
                     "s_city_name": "Doume",
                     "s_city_slug": "doume"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "east",
                     "s_city_name": "Garoua Boulai",
                     "s_city_slug": "garoua-boulai"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "east",
                     "s_city_name": "Mbang",
                     "s_city_slug": "mbang"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "east",
                     "s_city_name": "Ndelele",
                     "s_city_slug": "ndelele"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "east",
                     "s_city_name": "Yokadouma",
                     "s_city_slug": "yokadouma"
@@ -319,78 +319,78 @@
             ]
         },
         {
-            "s_country_code": "CM",
+            "s_country_code": "cm",
             "s_region_name": "Far North",
             "s_region_slug": "far-north",
             "cities": [
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "far-north",
                     "s_city_name": "Bogo",
                     "s_city_slug": "bogo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "far-north",
                     "s_city_name": "Kaele",
                     "s_city_slug": "kaele"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "far-north",
                     "s_city_name": "Kousseri",
                     "s_city_slug": "kousseri"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "far-north",
                     "s_city_name": "Koza",
                     "s_city_slug": "koza"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "far-north",
                     "s_city_name": "Makary",
                     "s_city_slug": "makary"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "far-north",
                     "s_city_name": "Maroua",
                     "s_city_slug": "maroua"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "far-north",
                     "s_city_name": "Mayo-Sava",
                     "s_city_slug": "mayo-sava"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "far-north",
                     "s_city_name": "Mayo-Tsanaga",
                     "s_city_slug": "mayo-tsanaga"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "far-north",
                     "s_city_name": "Mindif",
                     "s_city_slug": "mindif"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "far-north",
                     "s_city_name": "Mokolo",
                     "s_city_slug": "mokolo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "far-north",
                     "s_city_name": "Mora",
                     "s_city_slug": "mora"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "far-north",
                     "s_city_name": "Yagoua",
                     "s_city_slug": "yagoua"
@@ -398,102 +398,102 @@
             ]
         },
         {
-            "s_country_code": "CM",
+            "s_country_code": "cm",
             "s_region_name": "Littoral",
             "s_region_slug": "littoral",
             "cities": [
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Bonaberi",
                     "s_city_slug": "bonaberi"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Diang",
                     "s_city_slug": "diang"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Dibombari",
                     "s_city_slug": "dibombari"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Dizangue",
                     "s_city_slug": "dizangue"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Douala",
                     "s_city_slug": "douala"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Edea",
                     "s_city_slug": "edea"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Loum",
                     "s_city_slug": "loum"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Manjo",
                     "s_city_slug": "manjo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Mbanga",
                     "s_city_slug": "mbanga"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Melong",
                     "s_city_slug": "melong"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Mouanko",
                     "s_city_slug": "mouanko"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Ndom",
                     "s_city_slug": "ndom"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Ngambe",
                     "s_city_slug": "ngambe"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Nkongsamba",
                     "s_city_slug": "nkongsamba"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Penja",
                     "s_city_slug": "penja"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "littoral",
                     "s_city_name": "Yabassi",
                     "s_city_slug": "yabassi"
@@ -501,66 +501,66 @@
             ]
         },
         {
-            "s_country_code": "CM",
+            "s_country_code": "cm",
             "s_region_name": "North",
             "s_region_slug": "north",
             "cities": [
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "north",
                     "s_city_name": "Faro Department",
                     "s_city_slug": "faro-department"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "north",
                     "s_city_name": "Garoua",
                     "s_city_slug": "garoua"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "north",
                     "s_city_name": "Guider",
                     "s_city_slug": "guider"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "north",
                     "s_city_name": "Lagdo",
                     "s_city_slug": "lagdo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "north",
                     "s_city_name": "Mayo-Louti",
                     "s_city_slug": "mayo-louti"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "north",
                     "s_city_name": "Mayo-Rey",
                     "s_city_slug": "mayo-rey"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "north",
                     "s_city_name": "Pitoa",
                     "s_city_slug": "pitoa"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "north",
                     "s_city_name": "Poli",
                     "s_city_slug": "poli"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "north",
                     "s_city_name": "Rey Bouba",
                     "s_city_slug": "rey-bouba"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "north",
                     "s_city_name": "Tchollire",
                     "s_city_slug": "tchollire"
@@ -568,84 +568,84 @@
             ]
         },
         {
-            "s_country_code": "CM",
+            "s_country_code": "cm",
             "s_region_name": "Northwest",
             "s_region_slug": "northwest",
             "cities": [
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Babanki",
                     "s_city_slug": "babanki"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Bali",
                     "s_city_slug": "bali"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Bamenda",
                     "s_city_slug": "bamenda"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Batibo",
                     "s_city_slug": "batibo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Belo",
                     "s_city_slug": "belo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Boyo",
                     "s_city_slug": "boyo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Fundong",
                     "s_city_slug": "fundong"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Jakiri",
                     "s_city_slug": "jakiri"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Kumbo",
                     "s_city_slug": "kumbo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Mbengwi",
                     "s_city_slug": "mbengwi"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Mme-Bafumen",
                     "s_city_slug": "mme-bafumen"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Njinikom",
                     "s_city_slug": "njinikom"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "northwest",
                     "s_city_name": "Wum",
                     "s_city_slug": "wum"
@@ -653,54 +653,54 @@
             ]
         },
         {
-            "s_country_code": "CM",
+            "s_country_code": "cm",
             "s_region_name": "South",
             "s_region_slug": "south",
             "cities": [
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "south",
                     "s_city_name": "Akom II",
                     "s_city_slug": "akom-ii"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "south",
                     "s_city_name": "Ambam",
                     "s_city_slug": "ambam"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "south",
                     "s_city_name": "Ebolowa",
                     "s_city_slug": "ebolowa"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "south",
                     "s_city_name": "Kribi",
                     "s_city_slug": "kribi"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "south",
                     "s_city_name": "Lolodorf",
                     "s_city_slug": "lolodorf"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "south",
                     "s_city_name": "Mvangue",
                     "s_city_slug": "mvangue"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "south",
                     "s_city_name": "Mvila",
                     "s_city_slug": "mvila"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "south",
                     "s_city_name": "Sangmelima",
                     "s_city_slug": "sangmelima"
@@ -708,90 +708,90 @@
             ]
         },
         {
-            "s_country_code": "CM",
+            "s_country_code": "cm",
             "s_region_name": "Southwest",
             "s_region_slug": "southwest",
             "cities": [
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Bamusso",
                     "s_city_slug": "bamusso"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Bekondo",
                     "s_city_slug": "bekondo"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Buea",
                     "s_city_slug": "buea"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Fako Division",
                     "s_city_slug": "fako-division"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Fontem",
                     "s_city_slug": "fontem"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Kumba",
                     "s_city_slug": "kumba"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Lebialem",
                     "s_city_slug": "lebialem"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Limbe",
                     "s_city_slug": "limbe"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Mamfe",
                     "s_city_slug": "mamfe"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Mundemba",
                     "s_city_slug": "mundemba"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Mutengene",
                     "s_city_slug": "mutengene"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Muyuka",
                     "s_city_slug": "muyuka"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Nguti",
                     "s_city_slug": "nguti"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "southwest",
                     "s_city_name": "Tiko",
                     "s_city_slug": "tiko"
@@ -799,108 +799,108 @@
             ]
         },
         {
-            "s_country_code": "CM",
+            "s_country_code": "cm",
             "s_region_name": "West",
             "s_region_slug": "west",
             "cities": [
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Bafang",
                     "s_city_slug": "bafang"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Bafoussam",
                     "s_city_slug": "bafoussam"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Bamendjou",
                     "s_city_slug": "bamendjou"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Bana",
                     "s_city_slug": "bana"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Bandjoun",
                     "s_city_slug": "bandjoun"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Bangangte",
                     "s_city_slug": "bangangte"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Bansoa",
                     "s_city_slug": "bansoa"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Bazou",
                     "s_city_slug": "bazou"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Dschang",
                     "s_city_slug": "dschang"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Foumban",
                     "s_city_slug": "foumban"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Foumbot",
                     "s_city_slug": "foumbot"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Hauts-Plateaux",
                     "s_city_slug": "hauts-plateaux"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Koung-Khi",
                     "s_city_slug": "koung-khi"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Mbouda",
                     "s_city_slug": "mbouda"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Ngou",
                     "s_city_slug": "ngou"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Noun",
                     "s_city_slug": "noun"
                 },
                 {
-                    "s_country_code": "CM",
+                    "s_country_code": "cm",
                     "s_region_slug": "west",
                     "s_city_name": "Tonga",
                     "s_city_slug": "tonga"

@@ -4,12 +4,12 @@
     "s_country_slug": "belgium",
     "regions": [
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "Antwerp",
             "s_region_slug": "antwerp",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "antwerp",
                     "s_city_name": "Antwerp",
                     "s_city_slug": "antwerp"
@@ -17,12 +17,12 @@
             ]
         },
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "Brussels-Capital Region",
             "s_region_slug": "brussels-capital-region",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "brussels-capital-region",
                     "s_city_name": "Brussels",
                     "s_city_slug": "brussels"
@@ -30,12 +30,12 @@
             ]
         },
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "East Flanders",
             "s_region_slug": "east-flanders",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "east-flanders",
                     "s_city_name": "East Flanders",
                     "s_city_slug": "east-flanders"
@@ -43,1806 +43,1806 @@
             ]
         },
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "Flanders",
             "s_region_slug": "flanders",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Aalst",
                     "s_city_slug": "aalst"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Aalter",
                     "s_city_slug": "aalter"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Aarschot",
                     "s_city_slug": "aarschot"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Aartselaar",
                     "s_city_slug": "aartselaar"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Alken",
                     "s_city_slug": "alken"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Alveringem",
                     "s_city_slug": "alveringem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Antwerpen",
                     "s_city_slug": "antwerpen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Anzegem",
                     "s_city_slug": "anzegem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ardooie",
                     "s_city_slug": "ardooie"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Arendonk",
                     "s_city_slug": "arendonk"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "As",
                     "s_city_slug": "as"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Asse",
                     "s_city_slug": "asse"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Assenede",
                     "s_city_slug": "assenede"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Avelgem",
                     "s_city_slug": "avelgem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Baarle-Hertog",
                     "s_city_slug": "baarle-hertog"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Balen",
                     "s_city_slug": "balen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Beernem",
                     "s_city_slug": "beernem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Beerse",
                     "s_city_slug": "beerse"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Beersel",
                     "s_city_slug": "beersel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Begijnendijk",
                     "s_city_slug": "begijnendijk"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Bekkevoort",
                     "s_city_slug": "bekkevoort"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Beringen",
                     "s_city_slug": "beringen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Berlaar",
                     "s_city_slug": "berlaar"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Berlare",
                     "s_city_slug": "berlare"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Bertem",
                     "s_city_slug": "bertem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Bever",
                     "s_city_slug": "bever"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Beveren",
                     "s_city_slug": "beveren"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Bierbeek",
                     "s_city_slug": "bierbeek"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Bilzen",
                     "s_city_slug": "bilzen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Blankenberge",
                     "s_city_slug": "blankenberge"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Bocholt",
                     "s_city_slug": "bocholt"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Boechout",
                     "s_city_slug": "boechout"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Bonheiden",
                     "s_city_slug": "bonheiden"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Boom",
                     "s_city_slug": "boom"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Boortmeerbeek",
                     "s_city_slug": "boortmeerbeek"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Borgloon",
                     "s_city_slug": "borgloon"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Bornem",
                     "s_city_slug": "bornem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Borsbeek",
                     "s_city_slug": "borsbeek"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Boutersem",
                     "s_city_slug": "boutersem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Brasschaat",
                     "s_city_slug": "brasschaat"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Brecht",
                     "s_city_slug": "brecht"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Bredene",
                     "s_city_slug": "bredene"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Bree",
                     "s_city_slug": "bree"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Brugge",
                     "s_city_slug": "brugge"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Buggenhout",
                     "s_city_slug": "buggenhout"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Damme",
                     "s_city_slug": "damme"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "De Haan",
                     "s_city_slug": "de-haan"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "De Panne",
                     "s_city_slug": "de-panne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "De Pinte",
                     "s_city_slug": "de-pinte"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Deerlijk",
                     "s_city_slug": "deerlijk"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Deinze",
                     "s_city_slug": "deinze"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Denderleeuw",
                     "s_city_slug": "denderleeuw"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Dendermonde",
                     "s_city_slug": "dendermonde"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Dentergem",
                     "s_city_slug": "dentergem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Dessel",
                     "s_city_slug": "dessel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Destelbergen",
                     "s_city_slug": "destelbergen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Deurne",
                     "s_city_slug": "deurne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Diegem",
                     "s_city_slug": "diegem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Diepenbeek",
                     "s_city_slug": "diepenbeek"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Diest",
                     "s_city_slug": "diest"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Diksmuide",
                     "s_city_slug": "diksmuide"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Dilbeek",
                     "s_city_slug": "dilbeek"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Drogenbos",
                     "s_city_slug": "drogenbos"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Duffel",
                     "s_city_slug": "duffel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Edegem",
                     "s_city_slug": "edegem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Eeklo",
                     "s_city_slug": "eeklo"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Essen",
                     "s_city_slug": "essen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Evergem",
                     "s_city_slug": "evergem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Galmaarden",
                     "s_city_slug": "galmaarden"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Gavere",
                     "s_city_slug": "gavere"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Geel",
                     "s_city_slug": "geel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Geetbets",
                     "s_city_slug": "geetbets"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Genk",
                     "s_city_slug": "genk"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Gent",
                     "s_city_slug": "gent"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Geraardsbergen",
                     "s_city_slug": "geraardsbergen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Gingelom",
                     "s_city_slug": "gingelom"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Gistel",
                     "s_city_slug": "gistel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Glabbeek",
                     "s_city_slug": "glabbeek"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Gooik",
                     "s_city_slug": "gooik"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Grimbergen",
                     "s_city_slug": "grimbergen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Grobbendonk",
                     "s_city_slug": "grobbendonk"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Haacht",
                     "s_city_slug": "haacht"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Haaltert",
                     "s_city_slug": "haaltert"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Halen",
                     "s_city_slug": "halen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Halle",
                     "s_city_slug": "halle"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Hamme",
                     "s_city_slug": "hamme"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Harelbeke",
                     "s_city_slug": "harelbeke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Hasselt",
                     "s_city_slug": "hasselt"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Heers",
                     "s_city_slug": "heers"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Heist-op-den-Berg",
                     "s_city_slug": "heist-op-den-berg"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Helchteren",
                     "s_city_slug": "helchteren"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Hemiksem",
                     "s_city_slug": "hemiksem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Herent",
                     "s_city_slug": "herent"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Herentals",
                     "s_city_slug": "herentals"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Herenthout",
                     "s_city_slug": "herenthout"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Herk-de-Stad",
                     "s_city_slug": "herk-de-stad"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Herne",
                     "s_city_slug": "herne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Herselt",
                     "s_city_slug": "herselt"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Herzele",
                     "s_city_slug": "herzele"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Heusden",
                     "s_city_slug": "heusden"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Hoboken",
                     "s_city_slug": "hoboken"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Hoegaarden",
                     "s_city_slug": "hoegaarden"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Hoeilaart",
                     "s_city_slug": "hoeilaart"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Hoeselt",
                     "s_city_slug": "hoeselt"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Holsbeek",
                     "s_city_slug": "holsbeek"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Hooglede",
                     "s_city_slug": "hooglede"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Hoogstraten",
                     "s_city_slug": "hoogstraten"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Houthalen",
                     "s_city_slug": "houthalen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Houthulst",
                     "s_city_slug": "houthulst"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Hove",
                     "s_city_slug": "hove"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Huldenberg",
                     "s_city_slug": "huldenberg"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Hulshout",
                     "s_city_slug": "hulshout"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ichtegem",
                     "s_city_slug": "ichtegem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ieper",
                     "s_city_slug": "ieper"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ingelmunster",
                     "s_city_slug": "ingelmunster"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Izegem",
                     "s_city_slug": "izegem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Jabbeke",
                     "s_city_slug": "jabbeke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kalmthout",
                     "s_city_slug": "kalmthout"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kampenhout",
                     "s_city_slug": "kampenhout"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kapelle-op-den-Bos",
                     "s_city_slug": "kapelle-op-den-bos"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kapellen",
                     "s_city_slug": "kapellen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kaprijke",
                     "s_city_slug": "kaprijke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kasterlee",
                     "s_city_slug": "kasterlee"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Keerbergen",
                     "s_city_slug": "keerbergen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kinrooi",
                     "s_city_slug": "kinrooi"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Knesselare",
                     "s_city_slug": "knesselare"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Knokke-Heist",
                     "s_city_slug": "knokke-heist"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Koekelare",
                     "s_city_slug": "koekelare"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Koksijde",
                     "s_city_slug": "koksijde"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kontich",
                     "s_city_slug": "kontich"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kortemark",
                     "s_city_slug": "kortemark"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kortenaken",
                     "s_city_slug": "kortenaken"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kortenberg",
                     "s_city_slug": "kortenberg"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kortessem",
                     "s_city_slug": "kortessem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kortrijk",
                     "s_city_slug": "kortrijk"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kraainem",
                     "s_city_slug": "kraainem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kruibeke",
                     "s_city_slug": "kruibeke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kruishoutem",
                     "s_city_slug": "kruishoutem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Kuurne",
                     "s_city_slug": "kuurne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Laarne",
                     "s_city_slug": "laarne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lanaken",
                     "s_city_slug": "lanaken"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Landen",
                     "s_city_slug": "landen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lebbeke",
                     "s_city_slug": "lebbeke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lede",
                     "s_city_slug": "lede"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ledeberg",
                     "s_city_slug": "ledeberg"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ledegem",
                     "s_city_slug": "ledegem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lendelede",
                     "s_city_slug": "lendelede"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Leopoldsburg",
                     "s_city_slug": "leopoldsburg"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Leuven",
                     "s_city_slug": "leuven"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lichtervelde",
                     "s_city_slug": "lichtervelde"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Liedekerke",
                     "s_city_slug": "liedekerke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lier",
                     "s_city_slug": "lier"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lille",
                     "s_city_slug": "lille"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Linkebeek",
                     "s_city_slug": "linkebeek"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lint",
                     "s_city_slug": "lint"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lochristi",
                     "s_city_slug": "lochristi"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lokeren",
                     "s_city_slug": "lokeren"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lommel",
                     "s_city_slug": "lommel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Londerzeel",
                     "s_city_slug": "londerzeel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lovendegem",
                     "s_city_slug": "lovendegem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lubbeek",
                     "s_city_slug": "lubbeek"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Lummen",
                     "s_city_slug": "lummen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Maaseik",
                     "s_city_slug": "maaseik"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Maasmechelen",
                     "s_city_slug": "maasmechelen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Machelen",
                     "s_city_slug": "machelen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Maldegem",
                     "s_city_slug": "maldegem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Mechelen",
                     "s_city_slug": "mechelen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Meerhout",
                     "s_city_slug": "meerhout"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Meise",
                     "s_city_slug": "meise"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Melle",
                     "s_city_slug": "melle"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Menen",
                     "s_city_slug": "menen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Merchtem",
                     "s_city_slug": "merchtem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Merelbeke",
                     "s_city_slug": "merelbeke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Merksplas",
                     "s_city_slug": "merksplas"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Meulebeke",
                     "s_city_slug": "meulebeke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Middelkerke",
                     "s_city_slug": "middelkerke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Moerbeke",
                     "s_city_slug": "moerbeke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Mol",
                     "s_city_slug": "mol"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Moorslede",
                     "s_city_slug": "moorslede"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Mortsel",
                     "s_city_slug": "mortsel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Nazareth",
                     "s_city_slug": "nazareth"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Neerpelt",
                     "s_city_slug": "neerpelt"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Nevele",
                     "s_city_slug": "nevele"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Niel",
                     "s_city_slug": "niel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Nieuwerkerken",
                     "s_city_slug": "nieuwerkerken"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Nieuwpoort",
                     "s_city_slug": "nieuwpoort"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Nijlen",
                     "s_city_slug": "nijlen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ninove",
                     "s_city_slug": "ninove"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Olen",
                     "s_city_slug": "olen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Oostduinkerke",
                     "s_city_slug": "oostduinkerke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Oosterzele",
                     "s_city_slug": "oosterzele"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Oostkamp",
                     "s_city_slug": "oostkamp"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Oostmalle",
                     "s_city_slug": "oostmalle"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Oostrozebeke",
                     "s_city_slug": "oostrozebeke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Opglabbeek",
                     "s_city_slug": "opglabbeek"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Opwijk",
                     "s_city_slug": "opwijk"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ostend",
                     "s_city_slug": "ostend"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Oud-Heverlee",
                     "s_city_slug": "oud-heverlee"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Oud-Turnhout",
                     "s_city_slug": "oud-turnhout"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Oudenaarde",
                     "s_city_slug": "oudenaarde"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Oudenburg",
                     "s_city_slug": "oudenburg"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Overijse",
                     "s_city_slug": "overijse"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Overpelt",
                     "s_city_slug": "overpelt"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Peer",
                     "s_city_slug": "peer"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Pepingen",
                     "s_city_slug": "pepingen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Perre",
                     "s_city_slug": "perre"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Pittem",
                     "s_city_slug": "pittem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Poperinge",
                     "s_city_slug": "poperinge"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Provincie Antwerpen",
                     "s_city_slug": "provincie-antwerpen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Provincie Limburg",
                     "s_city_slug": "provincie-limburg"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Provincie Oost-Vlaanderen",
                     "s_city_slug": "provincie-oost-vlaanderen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Provincie Vlaams-Brabant",
                     "s_city_slug": "provincie-vlaams-brabant"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Provincie West-Vlaanderen",
                     "s_city_slug": "provincie-west-vlaanderen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Putte",
                     "s_city_slug": "putte"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Puurs",
                     "s_city_slug": "puurs"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ranst",
                     "s_city_slug": "ranst"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ravels",
                     "s_city_slug": "ravels"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Retie",
                     "s_city_slug": "retie"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Riemst",
                     "s_city_slug": "riemst"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Rijkevorsel",
                     "s_city_slug": "rijkevorsel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Roeselare",
                     "s_city_slug": "roeselare"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ronse",
                     "s_city_slug": "ronse"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Rotselaar",
                     "s_city_slug": "rotselaar"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ruiselede",
                     "s_city_slug": "ruiselede"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Rumst",
                     "s_city_slug": "rumst"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Schelle",
                     "s_city_slug": "schelle"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Schilde",
                     "s_city_slug": "schilde"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Schoten",
                     "s_city_slug": "schoten"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Amands",
                     "s_city_slug": "sint-amands"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Genesius-Rode",
                     "s_city_slug": "sint-genesius-rode"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Gillis-Waas",
                     "s_city_slug": "sint-gillis-waas"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Joris",
                     "s_city_slug": "sint-joris"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Katelijne-Waver",
                     "s_city_slug": "sint-katelijne-waver"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Kruis",
                     "s_city_slug": "sint-kruis"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Laureins",
                     "s_city_slug": "sint-laureins"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Lievens-Houtem",
                     "s_city_slug": "sint-lievens-houtem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Maria-Lierde",
                     "s_city_slug": "sint-maria-lierde"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Martens-Latem",
                     "s_city_slug": "sint-martens-latem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Martens-Lennik",
                     "s_city_slug": "sint-martens-lennik"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Niklaas",
                     "s_city_slug": "sint-niklaas"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Pieters-Leeuw",
                     "s_city_slug": "sint-pieters-leeuw"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Pieters-Voeren",
                     "s_city_slug": "sint-pieters-voeren"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Sint-Truiden",
                     "s_city_slug": "sint-truiden"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Stabroek",
                     "s_city_slug": "stabroek"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Staden",
                     "s_city_slug": "staden"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Steenokkerzeel",
                     "s_city_slug": "steenokkerzeel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Stekene",
                     "s_city_slug": "stekene"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Temse",
                     "s_city_slug": "temse"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Terkoest",
                     "s_city_slug": "terkoest"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Ternat",
                     "s_city_slug": "ternat"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Tervuren",
                     "s_city_slug": "tervuren"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Tessenderlo",
                     "s_city_slug": "tessenderlo"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Tielt",
                     "s_city_slug": "tielt"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Tienen",
                     "s_city_slug": "tienen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Tongeren",
                     "s_city_slug": "tongeren"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Torhout",
                     "s_city_slug": "torhout"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Tremelo",
                     "s_city_slug": "tremelo"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Turnhout",
                     "s_city_slug": "turnhout"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Veurne",
                     "s_city_slug": "veurne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Vilvoorde",
                     "s_city_slug": "vilvoorde"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Vorselaar",
                     "s_city_slug": "vorselaar"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Vosselaar",
                     "s_city_slug": "vosselaar"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Waarschoot",
                     "s_city_slug": "waarschoot"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Waasmunster",
                     "s_city_slug": "waasmunster"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wachtebeke",
                     "s_city_slug": "wachtebeke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Waregem",
                     "s_city_slug": "waregem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wellen",
                     "s_city_slug": "wellen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wemmel",
                     "s_city_slug": "wemmel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wenduine",
                     "s_city_slug": "wenduine"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wervik",
                     "s_city_slug": "wervik"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Westerlo",
                     "s_city_slug": "westerlo"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wetteren",
                     "s_city_slug": "wetteren"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wevelgem",
                     "s_city_slug": "wevelgem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wezembeek-Oppem",
                     "s_city_slug": "wezembeek-oppem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wichelen",
                     "s_city_slug": "wichelen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wielsbeke",
                     "s_city_slug": "wielsbeke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wijnegem",
                     "s_city_slug": "wijnegem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Willebroek",
                     "s_city_slug": "willebroek"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wingene",
                     "s_city_slug": "wingene"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wommelgem",
                     "s_city_slug": "wommelgem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Wuustwezel",
                     "s_city_slug": "wuustwezel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zandhoven",
                     "s_city_slug": "zandhoven"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zaventem",
                     "s_city_slug": "zaventem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zedelgem",
                     "s_city_slug": "zedelgem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zeebrugge",
                     "s_city_slug": "zeebrugge"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zele",
                     "s_city_slug": "zele"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zelzate",
                     "s_city_slug": "zelzate"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zemst",
                     "s_city_slug": "zemst"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zingem",
                     "s_city_slug": "zingem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zoersel",
                     "s_city_slug": "zoersel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zomergem",
                     "s_city_slug": "zomergem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zonhoven",
                     "s_city_slug": "zonhoven"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zonnebeke",
                     "s_city_slug": "zonnebeke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zottegem",
                     "s_city_slug": "zottegem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zoutleeuw",
                     "s_city_slug": "zoutleeuw"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zuienkerke",
                     "s_city_slug": "zuienkerke"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zulte",
                     "s_city_slug": "zulte"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zutendaal",
                     "s_city_slug": "zutendaal"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zwevegem",
                     "s_city_slug": "zwevegem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flanders",
                     "s_city_name": "Zwijndrecht",
                     "s_city_slug": "zwijndrecht"
@@ -1850,12 +1850,12 @@
             ]
         },
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "Flemish Brabant",
             "s_region_slug": "flemish-brabant",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "flemish-brabant",
                     "s_city_name": "Flemish Brabant",
                     "s_city_slug": "flemish-brabant"
@@ -1863,12 +1863,12 @@
             ]
         },
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "Hainaut",
             "s_region_slug": "hainaut",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "hainaut",
                     "s_city_name": "Hainaut",
                     "s_city_slug": "hainaut"
@@ -1876,12 +1876,12 @@
             ]
         },
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "Liege",
             "s_region_slug": "liege",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "liege",
                     "s_city_name": "Liege",
                     "s_city_slug": "liege"
@@ -1889,12 +1889,12 @@
             ]
         },
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "Limburg",
             "s_region_slug": "limburg",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "limburg",
                     "s_city_name": "Limburg",
                     "s_city_slug": "limburg"
@@ -1902,12 +1902,12 @@
             ]
         },
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "Luxembourg",
             "s_region_slug": "luxembourg",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "luxembourg",
                     "s_city_name": "Luxembourg",
                     "s_city_slug": "luxembourg"
@@ -1915,12 +1915,12 @@
             ]
         },
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "Namur",
             "s_region_slug": "namur",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "namur",
                     "s_city_name": "Namur",
                     "s_city_slug": "namur"
@@ -1928,1500 +1928,1500 @@
             ]
         },
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "Wallonia",
             "s_region_slug": "wallonia",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Aiseau",
                     "s_city_slug": "aiseau"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Amay",
                     "s_city_slug": "amay"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Ambleve",
                     "s_city_slug": "ambleve"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Andenne",
                     "s_city_slug": "andenne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Anderlues",
                     "s_city_slug": "anderlues"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Anhee",
                     "s_city_slug": "anhee"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Ans",
                     "s_city_slug": "ans"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Anthisnes",
                     "s_city_slug": "anthisnes"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Antoing",
                     "s_city_slug": "antoing"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Arlon",
                     "s_city_slug": "arlon"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Assesse",
                     "s_city_slug": "assesse"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Ath",
                     "s_city_slug": "ath"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Attert",
                     "s_city_slug": "attert"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Aubange",
                     "s_city_slug": "aubange"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Aubel",
                     "s_city_slug": "aubel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Awans",
                     "s_city_slug": "awans"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Aywaille",
                     "s_city_slug": "aywaille"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Baelen",
                     "s_city_slug": "baelen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Basse Lasne",
                     "s_city_slug": "basse-lasne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Bassenge",
                     "s_city_slug": "bassenge"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Bastogne",
                     "s_city_slug": "bastogne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Beaumont",
                     "s_city_slug": "beaumont"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Beauraing",
                     "s_city_slug": "beauraing"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Beauvechain",
                     "s_city_slug": "beauvechain"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Beloeil",
                     "s_city_slug": "beloeil"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Berloz",
                     "s_city_slug": "berloz"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Bernissart",
                     "s_city_slug": "bernissart"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Bertogne",
                     "s_city_slug": "bertogne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Bertrix",
                     "s_city_slug": "bertrix"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Beyne-Heusay",
                     "s_city_slug": "beyne-heusay"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Bievre",
                     "s_city_slug": "bievre"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Binche",
                     "s_city_slug": "binche"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Blegny",
                     "s_city_slug": "blegny"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Bouillon",
                     "s_city_slug": "bouillon"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Boussu",
                     "s_city_slug": "boussu"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Braine-l'Alleud",
                     "s_city_slug": "braine-lalleud"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Braine-le-Chateau",
                     "s_city_slug": "braine-le-chateau"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Braine-le-Comte",
                     "s_city_slug": "braine-le-comte"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Braives",
                     "s_city_slug": "braives"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Brugelette",
                     "s_city_slug": "brugelette"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Brunehault",
                     "s_city_slug": "brunehault"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Bullange",
                     "s_city_slug": "bullange"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Burdinne",
                     "s_city_slug": "burdinne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Butgenbach",
                     "s_city_slug": "butgenbach"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Celles",
                     "s_city_slug": "celles"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Cerfontaine",
                     "s_city_slug": "cerfontaine"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Chapelle-lez-Herlaimont",
                     "s_city_slug": "chapelle-lez-herlaimont"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Charleroi",
                     "s_city_slug": "charleroi"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Chastre-Villeroux-Blanmont",
                     "s_city_slug": "chastre-villeroux-blanmont"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Chatelet",
                     "s_city_slug": "chatelet"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Chaudfontaine",
                     "s_city_slug": "chaudfontaine"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Chaumont-Gistoux",
                     "s_city_slug": "chaumont-gistoux"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Chievres",
                     "s_city_slug": "chievres"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Chimay",
                     "s_city_slug": "chimay"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Chiny",
                     "s_city_slug": "chiny"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Ciney",
                     "s_city_slug": "ciney"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Clavier",
                     "s_city_slug": "clavier"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Colfontaine",
                     "s_city_slug": "colfontaine"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Comblain-au-Pont",
                     "s_city_slug": "comblain-au-pont"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Courcelles",
                     "s_city_slug": "courcelles"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Court-Saint-Etienne",
                     "s_city_slug": "court-saint-etienne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Couvin",
                     "s_city_slug": "couvin"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Crisnee",
                     "s_city_slug": "crisnee"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Dalhem",
                     "s_city_slug": "dalhem"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Daverdisse",
                     "s_city_slug": "daverdisse"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Dinant",
                     "s_city_slug": "dinant"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Dison",
                     "s_city_slug": "dison"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Doische",
                     "s_city_slug": "doische"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Donceel",
                     "s_city_slug": "donceel"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Dour",
                     "s_city_slug": "dour"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Durbuy",
                     "s_city_slug": "durbuy"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Ecaussinnes-dEnghien",
                     "s_city_slug": "ecaussinnes-denghien"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Eghezee",
                     "s_city_slug": "eghezee"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Ellezelles",
                     "s_city_slug": "ellezelles"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Enghien",
                     "s_city_slug": "enghien"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Engis",
                     "s_city_slug": "engis"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Erezee",
                     "s_city_slug": "erezee"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Erquelinnes",
                     "s_city_slug": "erquelinnes"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Esneux",
                     "s_city_slug": "esneux"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Estaimpuis",
                     "s_city_slug": "estaimpuis"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Estinnes-au-Val",
                     "s_city_slug": "estinnes-au-val"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Etalle",
                     "s_city_slug": "etalle"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Eupen",
                     "s_city_slug": "eupen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Faimes",
                     "s_city_slug": "faimes"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Farciennes",
                     "s_city_slug": "farciennes"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Fauvillers",
                     "s_city_slug": "fauvillers"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Ferrieres",
                     "s_city_slug": "ferrieres"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Fexhe-le-Haut-Clocher",
                     "s_city_slug": "fexhe-le-haut-clocher"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Flemalle-Haute",
                     "s_city_slug": "flemalle-haute"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Fleron",
                     "s_city_slug": "fleron"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Fleurus",
                     "s_city_slug": "fleurus"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Flobecq",
                     "s_city_slug": "flobecq"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Floreffe",
                     "s_city_slug": "floreffe"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Florennes",
                     "s_city_slug": "florennes"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Florenville",
                     "s_city_slug": "florenville"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Forville",
                     "s_city_slug": "forville"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Fosses-la-Ville",
                     "s_city_slug": "fosses-la-ville"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Frameries",
                     "s_city_slug": "frameries"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Frasnes-lez-Buissenal",
                     "s_city_slug": "frasnes-lez-buissenal"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Froidchapelle",
                     "s_city_slug": "froidchapelle"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Gedinne",
                     "s_city_slug": "gedinne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Geer",
                     "s_city_slug": "geer"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Gembloux",
                     "s_city_slug": "gembloux"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Genappe",
                     "s_city_slug": "genappe"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Gerpinnes",
                     "s_city_slug": "gerpinnes"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Gesves",
                     "s_city_slug": "gesves"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Gouvy",
                     "s_city_slug": "gouvy"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Grez-Doiceau",
                     "s_city_slug": "grez-doiceau"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Habay-la-Vieille",
                     "s_city_slug": "habay-la-vieille"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Hamoir",
                     "s_city_slug": "hamoir"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Hamois",
                     "s_city_slug": "hamois"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Hannut",
                     "s_city_slug": "hannut"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Hastiere-Lavaux",
                     "s_city_slug": "hastiere-lavaux"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Havelange",
                     "s_city_slug": "havelange"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Hensies",
                     "s_city_slug": "hensies"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Herbeumont",
                     "s_city_slug": "herbeumont"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Heron",
                     "s_city_slug": "heron"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Herstal",
                     "s_city_slug": "herstal"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Herve",
                     "s_city_slug": "herve"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Hotton",
                     "s_city_slug": "hotton"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Houffalize",
                     "s_city_slug": "houffalize"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Houyet",
                     "s_city_slug": "houyet"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Huy",
                     "s_city_slug": "huy"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Incourt",
                     "s_city_slug": "incourt"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Ittre",
                     "s_city_slug": "ittre"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Jalhay",
                     "s_city_slug": "jalhay"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Jodoigne",
                     "s_city_slug": "jodoigne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Juprelle",
                     "s_city_slug": "juprelle"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Jurbise",
                     "s_city_slug": "jurbise"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "La Bruyere",
                     "s_city_slug": "la-bruyere"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "La Calamine",
                     "s_city_slug": "la-calamine"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "La Hulpe",
                     "s_city_slug": "la-hulpe"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "La Louviere",
                     "s_city_slug": "la-louviere"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "La Roche-en-Ardenne",
                     "s_city_slug": "la-roche-en-ardenne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Leglise",
                     "s_city_slug": "leglise"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Lens",
                     "s_city_slug": "lens"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Lessines",
                     "s_city_slug": "lessines"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Libin",
                     "s_city_slug": "libin"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Liege",
                     "s_city_slug": "liege"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Lierneux",
                     "s_city_slug": "lierneux"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Limbourg",
                     "s_city_slug": "limbourg"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Lincent",
                     "s_city_slug": "lincent"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Lobbes",
                     "s_city_slug": "lobbes"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Lontzen",
                     "s_city_slug": "lontzen"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Louvain-la-Neuve",
                     "s_city_slug": "louvain-la-neuve"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Malmedy",
                     "s_city_slug": "malmedy"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Manage",
                     "s_city_slug": "manage"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Manhay",
                     "s_city_slug": "manhay"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Marche-en-Famenne",
                     "s_city_slug": "marche-en-famenne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Marchin",
                     "s_city_slug": "marchin"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Martelange",
                     "s_city_slug": "martelange"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Meix-devant-Virton",
                     "s_city_slug": "meix-devant-virton"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Merbes-le-Chateau",
                     "s_city_slug": "merbes-le-chateau"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Messancy",
                     "s_city_slug": "messancy"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Mettet",
                     "s_city_slug": "mettet"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Modave",
                     "s_city_slug": "modave"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Momignies",
                     "s_city_slug": "momignies"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Mons",
                     "s_city_slug": "mons"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Mons-lez-Liege",
                     "s_city_slug": "mons-lez-liege"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Mont-Saint-Guibert",
                     "s_city_slug": "mont-saint-guibert"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Morlanwelz-Mariemont",
                     "s_city_slug": "morlanwelz-mariemont"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Mouscron",
                     "s_city_slug": "mouscron"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Musson",
                     "s_city_slug": "musson"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Namur",
                     "s_city_slug": "namur"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Nandrin",
                     "s_city_slug": "nandrin"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Nassogne",
                     "s_city_slug": "nassogne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Neufchateau",
                     "s_city_slug": "neufchateau"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Nivelles",
                     "s_city_slug": "nivelles"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Noville-les-Bois",
                     "s_city_slug": "noville-les-bois"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Ohey",
                     "s_city_slug": "ohey"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Olne",
                     "s_city_slug": "olne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Onhaye",
                     "s_city_slug": "onhaye"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Oreye",
                     "s_city_slug": "oreye"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Ottignies",
                     "s_city_slug": "ottignies"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Ouffet",
                     "s_city_slug": "ouffet"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Oupeye",
                     "s_city_slug": "oupeye"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Paliseul",
                     "s_city_slug": "paliseul"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Pecq",
                     "s_city_slug": "pecq"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Pepinster",
                     "s_city_slug": "pepinster"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Peruwelz",
                     "s_city_slug": "peruwelz"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Perwez",
                     "s_city_slug": "perwez"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Philippeville",
                     "s_city_slug": "philippeville"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Plombieres",
                     "s_city_slug": "plombieres"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Pont-a-Celles",
                     "s_city_slug": "pont-a-celles"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Profondeville",
                     "s_city_slug": "profondeville"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Province de Liege",
                     "s_city_slug": "province-de-liege"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Province de Namur",
                     "s_city_slug": "province-de-namur"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Province du Brabant Wallon",
                     "s_city_slug": "province-du-brabant-wallon"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Province du Hainaut",
                     "s_city_slug": "province-du-hainaut"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Province du Luxembourg",
                     "s_city_slug": "province-du-luxembourg"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Quaregnon",
                     "s_city_slug": "quaregnon"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Quevy-le-Petit",
                     "s_city_slug": "quevy-le-petit"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Quievrain",
                     "s_city_slug": "quievrain"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Raeren",
                     "s_city_slug": "raeren"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Ramillies",
                     "s_city_slug": "ramillies"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Rebecq-Rognon",
                     "s_city_slug": "rebecq-rognon"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Remicourt",
                     "s_city_slug": "remicourt"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Rendeux",
                     "s_city_slug": "rendeux"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Rixensart",
                     "s_city_slug": "rixensart"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Rochefort",
                     "s_city_slug": "rochefort"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Roeulx",
                     "s_city_slug": "roeulx"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Rouvroy",
                     "s_city_slug": "rouvroy"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Rumes",
                     "s_city_slug": "rumes"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Saint-Ghislain",
                     "s_city_slug": "saint-ghislain"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Saint-Hubert",
                     "s_city_slug": "saint-hubert"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Saint-Leger",
                     "s_city_slug": "saint-leger"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Saint-Nicolas",
                     "s_city_slug": "saint-nicolas"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Saint-Vith",
                     "s_city_slug": "saint-vith"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Sainte-Ode",
                     "s_city_slug": "sainte-ode"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Seneffe",
                     "s_city_slug": "seneffe"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Seraing",
                     "s_city_slug": "seraing"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Silly",
                     "s_city_slug": "silly"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Soignies",
                     "s_city_slug": "soignies"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Sombreffe",
                     "s_city_slug": "sombreffe"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Somme-Leuze",
                     "s_city_slug": "somme-leuze"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Soumagne",
                     "s_city_slug": "soumagne"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Spa",
                     "s_city_slug": "spa"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Sprimont",
                     "s_city_slug": "sprimont"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Stavelot",
                     "s_city_slug": "stavelot"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Stoumont",
                     "s_city_slug": "stoumont"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Tellin",
                     "s_city_slug": "tellin"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Tenneville",
                     "s_city_slug": "tenneville"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Theux",
                     "s_city_slug": "theux"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Thuin",
                     "s_city_slug": "thuin"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Tinlot",
                     "s_city_slug": "tinlot"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Tintigny",
                     "s_city_slug": "tintigny"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Tournai",
                     "s_city_slug": "tournai"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Trois-Ponts",
                     "s_city_slug": "trois-ponts"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Trooz",
                     "s_city_slug": "trooz"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Tubize",
                     "s_city_slug": "tubize"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Vaux-sur-Sure",
                     "s_city_slug": "vaux-sur-sure"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Verlaine",
                     "s_city_slug": "verlaine"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Verviers",
                     "s_city_slug": "verviers"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Vielsalm",
                     "s_city_slug": "vielsalm"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Villers-la-Ville",
                     "s_city_slug": "villers-la-ville"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Villers-le-Bouillet",
                     "s_city_slug": "villers-le-bouillet"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Virton",
                     "s_city_slug": "virton"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Vise",
                     "s_city_slug": "vise"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Waimes",
                     "s_city_slug": "waimes"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Walcourt",
                     "s_city_slug": "walcourt"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Walhain-Saint-Paul",
                     "s_city_slug": "walhain-saint-paul"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Wanze",
                     "s_city_slug": "wanze"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Waremme",
                     "s_city_slug": "waremme"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Wasseiges",
                     "s_city_slug": "wasseiges"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Waterloo",
                     "s_city_slug": "waterloo"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Wavre",
                     "s_city_slug": "wavre"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Welkenraedt",
                     "s_city_slug": "welkenraedt"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Wellin",
                     "s_city_slug": "wellin"
                 },
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "wallonia",
                     "s_city_name": "Yvoir",
                     "s_city_slug": "yvoir"
@@ -3429,12 +3429,12 @@
             ]
         },
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "Walloon Brabant",
             "s_region_slug": "walloon-brabant",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "walloon-brabant",
                     "s_city_name": "Walloon Brabant",
                     "s_city_slug": "walloon-brabant"
@@ -3442,12 +3442,12 @@
             ]
         },
         {
-            "s_country_code": "BE",
+            "s_country_code": "be",
             "s_region_name": "West Flanders",
             "s_region_slug": "west-flanders",
             "cities": [
                 {
-                    "s_country_code": "BE",
+                    "s_country_code": "be",
                     "s_region_slug": "west-flanders",
                     "s_city_name": "West Flanders",
                     "s_city_slug": "west-flanders"

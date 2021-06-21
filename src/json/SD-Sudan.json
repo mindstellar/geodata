@@ -4,48 +4,48 @@
     "s_country_slug": "sudan",
     "regions": [
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "Al Jazirah",
             "s_region_slug": "al-jazirah",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "al-jazirah",
                     "s_city_name": "Al Hasaheisa",
                     "s_city_slug": "al-hasaheisa"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "al-jazirah",
                     "s_city_name": "Al Hilaliyya",
                     "s_city_slug": "al-hilaliyya"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "al-jazirah",
                     "s_city_name": "Al Kiremit al Arakiyyin",
                     "s_city_slug": "al-kiremit-al-arakiyyin"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "al-jazirah",
                     "s_city_name": "Al Manaqil",
                     "s_city_slug": "al-manaqil"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "al-jazirah",
                     "s_city_name": "Al Masallamiyya",
                     "s_city_slug": "al-masallamiyya"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "al-jazirah",
                     "s_city_name": "Wad Medani",
                     "s_city_slug": "wad-medani"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "al-jazirah",
                     "s_city_name": "Wad Rawah",
                     "s_city_slug": "wad-rawah"
@@ -53,24 +53,24 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "Al Qadarif",
             "s_region_slug": "al-qadarif",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "al-qadarif",
                     "s_city_name": "Al Hawatah",
                     "s_city_slug": "al-hawatah"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "al-qadarif",
                     "s_city_name": "Al Qadarif",
                     "s_city_slug": "al-qadarif"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "al-qadarif",
                     "s_city_name": "Doka",
                     "s_city_slug": "doka"
@@ -78,24 +78,24 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "Blue Nile",
             "s_region_slug": "blue-nile",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "blue-nile",
                     "s_city_name": "Ad-Damazin",
                     "s_city_slug": "ad-damazin"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "blue-nile",
                     "s_city_name": "Ar Ruseris",
                     "s_city_slug": "ar-ruseris"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "blue-nile",
                     "s_city_name": "Kurmuk",
                     "s_city_slug": "kurmuk"
@@ -103,12 +103,12 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "Central Darfur",
             "s_region_slug": "central-darfur",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "central-darfur",
                     "s_city_name": "Zalingei",
                     "s_city_slug": "zalingei"
@@ -116,12 +116,12 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "East Darfur",
             "s_region_slug": "east-darfur",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "east-darfur",
                     "s_city_name": "El Daein",
                     "s_city_slug": "el-daein"
@@ -129,24 +129,24 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "Kassala",
             "s_region_slug": "kassala",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "kassala",
                     "s_city_name": "Aroma",
                     "s_city_slug": "aroma"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "kassala",
                     "s_city_name": "Kassala",
                     "s_city_slug": "kassala"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "kassala",
                     "s_city_name": "Wagar",
                     "s_city_slug": "wagar"
@@ -154,18 +154,18 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "Khartoum",
             "s_region_slug": "khartoum",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "khartoum",
                     "s_city_name": "Khartoum",
                     "s_city_slug": "khartoum"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "khartoum",
                     "s_city_name": "Omdurman",
                     "s_city_slug": "omdurman"
@@ -173,24 +173,24 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "North Darfur",
             "s_region_slug": "north-darfur",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "north-darfur",
                     "s_city_name": "El Fasher",
                     "s_city_slug": "el-fasher"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "north-darfur",
                     "s_city_name": "Kutum",
                     "s_city_slug": "kutum"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "north-darfur",
                     "s_city_name": "Umm Kaddadah",
                     "s_city_slug": "umm-kaddadah"
@@ -198,30 +198,30 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "North Kordofan",
             "s_region_slug": "north-kordofan",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "north-kordofan",
                     "s_city_name": "Ar Rahad",
                     "s_city_slug": "ar-rahad"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "north-kordofan",
                     "s_city_name": "Barah",
                     "s_city_slug": "barah"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "north-kordofan",
                     "s_city_name": "El Obeid",
                     "s_city_slug": "el-obeid"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "north-kordofan",
                     "s_city_name": "Umm Ruwaba",
                     "s_city_slug": "umm-ruwaba"
@@ -229,42 +229,42 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "Northern",
             "s_region_slug": "northern",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "northern",
                     "s_city_name": "Ad Dabbah",
                     "s_city_slug": "ad-dabbah"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "northern",
                     "s_city_name": "Argo",
                     "s_city_slug": "argo"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "northern",
                     "s_city_name": "Dongola",
                     "s_city_slug": "dongola"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "northern",
                     "s_city_name": "Karmah an Nuzul",
                     "s_city_slug": "karmah-an-nuzul"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "northern",
                     "s_city_name": "Kuraymah",
                     "s_city_slug": "kuraymah"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "northern",
                     "s_city_name": "Merowe",
                     "s_city_slug": "merowe"
@@ -272,30 +272,30 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "Red Sea",
             "s_region_slug": "red-sea",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "red-sea",
                     "s_city_name": "Gebeit",
                     "s_city_slug": "gebeit"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "red-sea",
                     "s_city_name": "Port Sudan",
                     "s_city_slug": "port-sudan"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "red-sea",
                     "s_city_name": "Sawakin",
                     "s_city_slug": "sawakin"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "red-sea",
                     "s_city_name": "Tokar",
                     "s_city_slug": "tokar"
@@ -303,42 +303,42 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "River Nile",
             "s_region_slug": "river-nile",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "river-nile",
                     "s_city_name": "Atbara",
                     "s_city_slug": "atbara"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "river-nile",
                     "s_city_name": "Berber",
                     "s_city_slug": "berber"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "river-nile",
                     "s_city_name": "Ed Damer",
                     "s_city_slug": "ed-damer"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "river-nile",
                     "s_city_name": "El Bauga",
                     "s_city_slug": "el-bauga"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "river-nile",
                     "s_city_name": "El Matama",
                     "s_city_slug": "el-matama"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "river-nile",
                     "s_city_name": "Shendi",
                     "s_city_slug": "shendi"
@@ -346,48 +346,48 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "Sennar",
             "s_region_slug": "sennar",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "sennar",
                     "s_city_name": "Ad Dindar",
                     "s_city_slug": "ad-dindar"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "sennar",
                     "s_city_name": "As Suki",
                     "s_city_slug": "as-suki"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "sennar",
                     "s_city_name": "Jalqani",
                     "s_city_slug": "jalqani"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "sennar",
                     "s_city_name": "Kinana",
                     "s_city_slug": "kinana"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "sennar",
                     "s_city_name": "Maiurno",
                     "s_city_slug": "maiurno"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "sennar",
                     "s_city_name": "Singa",
                     "s_city_slug": "singa"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "sennar",
                     "s_city_name": "Sinnar",
                     "s_city_slug": "sinnar"
@@ -395,18 +395,18 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "South Darfur",
             "s_region_slug": "south-darfur",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "south-darfur",
                     "s_city_name": "Gereida",
                     "s_city_slug": "gereida"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "south-darfur",
                     "s_city_name": "Nyala",
                     "s_city_slug": "nyala"
@@ -414,36 +414,36 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "South Kordofan",
             "s_region_slug": "south-kordofan",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "south-kordofan",
                     "s_city_name": "Abu Jibeha",
                     "s_city_slug": "abu-jibeha"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "south-kordofan",
                     "s_city_name": "Al Fulah",
                     "s_city_slug": "al-fulah"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "south-kordofan",
                     "s_city_name": "Dilling",
                     "s_city_slug": "dilling"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "south-kordofan",
                     "s_city_name": "Kadugli",
                     "s_city_slug": "kadugli"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "south-kordofan",
                     "s_city_name": "Talodi",
                     "s_city_slug": "talodi"
@@ -451,12 +451,12 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "West Darfur",
             "s_region_slug": "west-darfur",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "west-darfur",
                     "s_city_name": "Geneina",
                     "s_city_slug": "geneina"
@@ -464,30 +464,30 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "West Kordofan",
             "s_region_slug": "west-kordofan",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "west-kordofan",
                     "s_city_name": "Abu Zabad",
                     "s_city_slug": "abu-zabad"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "west-kordofan",
                     "s_city_name": "Al Lagowa",
                     "s_city_slug": "al-lagowa"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "west-kordofan",
                     "s_city_name": "Al Mijlad",
                     "s_city_slug": "al-mijlad"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "west-kordofan",
                     "s_city_name": "An Nuhud",
                     "s_city_slug": "an-nuhud"
@@ -495,60 +495,60 @@
             ]
         },
         {
-            "s_country_code": "SD",
+            "s_country_code": "sd",
             "s_region_name": "White Nile",
             "s_region_slug": "white-nile",
             "cities": [
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "white-nile",
                     "s_city_name": "Ad Douiem",
                     "s_city_slug": "ad-douiem"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "white-nile",
                     "s_city_name": "Al Kawa",
                     "s_city_slug": "al-kawa"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "white-nile",
                     "s_city_name": "Al Qitena",
                     "s_city_slug": "al-qitena"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "white-nile",
                     "s_city_name": "Kosti",
                     "s_city_slug": "kosti"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "white-nile",
                     "s_city_name": "Marabba",
                     "s_city_slug": "marabba"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "white-nile",
                     "s_city_name": "Rabak",
                     "s_city_slug": "rabak"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "white-nile",
                     "s_city_name": "Tandalti",
                     "s_city_slug": "tandalti"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "white-nile",
                     "s_city_name": "Um Jar Al Gharbiyya",
                     "s_city_slug": "um-jar-al-gharbiyya"
                 },
                 {
-                    "s_country_code": "SD",
+                    "s_country_code": "sd",
                     "s_region_slug": "white-nile",
                     "s_city_name": "Wad az Zaki",
                     "s_city_slug": "wad-az-zaki"

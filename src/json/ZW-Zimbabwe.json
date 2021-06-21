@@ -4,12 +4,12 @@
     "s_country_slug": "zimbabwe",
     "regions": [
         {
-            "s_country_code": "ZW",
+            "s_country_code": "zw",
             "s_region_name": "Bulawayo Province",
             "s_region_slug": "bulawayo-province",
             "cities": [
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "bulawayo-province",
                     "s_city_name": "Bulawayo",
                     "s_city_slug": "bulawayo"
@@ -17,24 +17,24 @@
             ]
         },
         {
-            "s_country_code": "ZW",
+            "s_country_code": "zw",
             "s_region_name": "Harare Province",
             "s_region_slug": "harare-province",
             "cities": [
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "harare-province",
                     "s_city_name": "Chitungwiza",
                     "s_city_slug": "chitungwiza"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "harare-province",
                     "s_city_name": "Epworth",
                     "s_city_slug": "epworth"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "harare-province",
                     "s_city_name": "Harare",
                     "s_city_slug": "harare"
@@ -42,108 +42,108 @@
             ]
         },
         {
-            "s_country_code": "ZW",
+            "s_country_code": "zw",
             "s_region_name": "Manicaland",
             "s_region_slug": "manicaland",
             "cities": [
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Buhera District",
                     "s_city_slug": "buhera-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Chimanimani",
                     "s_city_slug": "chimanimani"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Chimanimani District",
                     "s_city_slug": "chimanimani-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Chipinge",
                     "s_city_slug": "chipinge"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Chipinge District",
                     "s_city_slug": "chipinge-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Dorowa Mining Lease",
                     "s_city_slug": "dorowa-mining-lease"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Headlands",
                     "s_city_slug": "headlands"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Makoni District",
                     "s_city_slug": "makoni-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Mutare",
                     "s_city_slug": "mutare"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Mutare District",
                     "s_city_slug": "mutare-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Mutasa District",
                     "s_city_slug": "mutasa-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Nyanga",
                     "s_city_slug": "nyanga"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Nyanga District",
                     "s_city_slug": "nyanga-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Nyazura",
                     "s_city_slug": "nyazura"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Odzi",
                     "s_city_slug": "odzi"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Penhalonga",
                     "s_city_slug": "penhalonga"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "manicaland",
                     "s_city_name": "Rusape",
                     "s_city_slug": "rusape"
@@ -151,90 +151,90 @@
             ]
         },
         {
-            "s_country_code": "ZW",
+            "s_country_code": "zw",
             "s_region_name": "Mashonaland Central Province",
             "s_region_slug": "mashonaland-central-province",
             "cities": [
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Bindura",
                     "s_city_slug": "bindura"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Bindura District",
                     "s_city_slug": "bindura-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Centenary",
                     "s_city_slug": "centenary"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Centenary District",
                     "s_city_slug": "centenary-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Concession",
                     "s_city_slug": "concession"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Glendale",
                     "s_city_slug": "glendale"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Guruve District",
                     "s_city_slug": "guruve-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Mazowe",
                     "s_city_slug": "mazowe"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Mazowe District",
                     "s_city_slug": "mazowe-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Mount Darwin",
                     "s_city_slug": "mount-darwin"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Mvurwi",
                     "s_city_slug": "mvurwi"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Rushinga District",
                     "s_city_slug": "rushinga-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Shamva",
                     "s_city_slug": "shamva"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-central-province",
                     "s_city_name": "Shamva District",
                     "s_city_slug": "shamva-district"
@@ -242,72 +242,72 @@
             ]
         },
         {
-            "s_country_code": "ZW",
+            "s_country_code": "zw",
             "s_region_name": "Mashonaland East Province",
             "s_region_slug": "mashonaland-east-province",
             "cities": [
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-east-province",
                     "s_city_name": "Beatrice",
                     "s_city_slug": "beatrice"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-east-province",
                     "s_city_name": "Chivhu",
                     "s_city_slug": "chivhu"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-east-province",
                     "s_city_name": "Goromonzi District",
                     "s_city_slug": "goromonzi-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-east-province",
                     "s_city_name": "Macheke",
                     "s_city_slug": "macheke"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-east-province",
                     "s_city_name": "Marondera",
                     "s_city_slug": "marondera"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-east-province",
                     "s_city_name": "Marondera District",
                     "s_city_slug": "marondera-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-east-province",
                     "s_city_name": "Mudzi District",
                     "s_city_slug": "mudzi-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-east-province",
                     "s_city_name": "Murehwa",
                     "s_city_slug": "murehwa"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-east-province",
                     "s_city_name": "Murehwa District",
                     "s_city_slug": "murehwa-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-east-province",
                     "s_city_name": "Mutoko",
                     "s_city_slug": "mutoko"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-east-province",
                     "s_city_name": "Ruwa",
                     "s_city_slug": "ruwa"
@@ -315,102 +315,102 @@
             ]
         },
         {
-            "s_country_code": "ZW",
+            "s_country_code": "zw",
             "s_region_name": "Mashonaland West Province",
             "s_region_slug": "mashonaland-west-province",
             "cities": [
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Banket",
                     "s_city_slug": "banket"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Chakari",
                     "s_city_slug": "chakari"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Chegutu",
                     "s_city_slug": "chegutu"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Chegutu District",
                     "s_city_slug": "chegutu-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Chinhoyi",
                     "s_city_slug": "chinhoyi"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Chirundu",
                     "s_city_slug": "chirundu"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Hurungwe District",
                     "s_city_slug": "hurungwe-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Kadoma",
                     "s_city_slug": "kadoma"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Kadoma District",
                     "s_city_slug": "kadoma-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Kariba",
                     "s_city_slug": "kariba"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Kariba District",
                     "s_city_slug": "kariba-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Karoi",
                     "s_city_slug": "karoi"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Makonde District",
                     "s_city_slug": "makonde-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Mhangura",
                     "s_city_slug": "mhangura"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Norton",
                     "s_city_slug": "norton"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "mashonaland-west-province",
                     "s_city_name": "Raffingora",
                     "s_city_slug": "raffingora"
@@ -418,66 +418,66 @@
             ]
         },
         {
-            "s_country_code": "ZW",
+            "s_country_code": "zw",
             "s_region_name": "Masvingo Province",
             "s_region_slug": "masvingo-province",
             "cities": [
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "masvingo-province",
                     "s_city_name": "Bikita District",
                     "s_city_slug": "bikita-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "masvingo-province",
                     "s_city_name": "Chiredzi",
                     "s_city_slug": "chiredzi"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "masvingo-province",
                     "s_city_name": "Chiredzi District",
                     "s_city_slug": "chiredzi-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "masvingo-province",
                     "s_city_name": "Chivi District",
                     "s_city_slug": "chivi-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "masvingo-province",
                     "s_city_name": "Gutu District",
                     "s_city_slug": "gutu-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "masvingo-province",
                     "s_city_name": "Mashava",
                     "s_city_slug": "mashava"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "masvingo-province",
                     "s_city_name": "Masvingo",
                     "s_city_slug": "masvingo"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "masvingo-province",
                     "s_city_name": "Masvingo District",
                     "s_city_slug": "masvingo-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "masvingo-province",
                     "s_city_name": "Mwenezi District",
                     "s_city_slug": "mwenezi-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "masvingo-province",
                     "s_city_name": "Zvishavane",
                     "s_city_slug": "zvishavane"
@@ -485,78 +485,78 @@
             ]
         },
         {
-            "s_country_code": "ZW",
+            "s_country_code": "zw",
             "s_region_name": "Matabeleland North Province",
             "s_region_slug": "matabeleland-north-province",
             "cities": [
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-north-province",
                     "s_city_name": "Binga",
                     "s_city_slug": "binga"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-north-province",
                     "s_city_name": "Binga District",
                     "s_city_slug": "binga-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-north-province",
                     "s_city_name": "Bubi District",
                     "s_city_slug": "bubi-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-north-province",
                     "s_city_name": "Dete",
                     "s_city_slug": "dete"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-north-province",
                     "s_city_name": "Hwange",
                     "s_city_slug": "hwange"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-north-province",
                     "s_city_name": "Hwange District",
                     "s_city_slug": "hwange-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-north-province",
                     "s_city_name": "Inyati",
                     "s_city_slug": "inyati"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-north-province",
                     "s_city_name": "Kamativi Mine",
                     "s_city_slug": "kamativi-mine"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-north-province",
                     "s_city_name": "Lupane",
                     "s_city_slug": "lupane"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-north-province",
                     "s_city_name": "Lupane District",
                     "s_city_slug": "lupane-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-north-province",
                     "s_city_name": "Nkayi District",
                     "s_city_slug": "nkayi-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-north-province",
                     "s_city_name": "Victoria Falls",
                     "s_city_slug": "victoria-falls"
@@ -564,78 +564,78 @@
             ]
         },
         {
-            "s_country_code": "ZW",
+            "s_country_code": "zw",
             "s_region_name": "Matabeleland South Province",
             "s_region_slug": "matabeleland-south-province",
             "cities": [
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-south-province",
                     "s_city_name": "Beitbridge",
                     "s_city_slug": "beitbridge"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-south-province",
                     "s_city_name": "Beitbridge District",
                     "s_city_slug": "beitbridge-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-south-province",
                     "s_city_name": "Esigodini",
                     "s_city_slug": "esigodini"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-south-province",
                     "s_city_name": "Filabusi",
                     "s_city_slug": "filabusi"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-south-province",
                     "s_city_name": "Gwanda",
                     "s_city_slug": "gwanda"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-south-province",
                     "s_city_name": "Gwanda District",
                     "s_city_slug": "gwanda-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-south-province",
                     "s_city_name": "Insiza",
                     "s_city_slug": "insiza"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-south-province",
                     "s_city_name": "Insiza District",
                     "s_city_slug": "insiza-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-south-province",
                     "s_city_name": "Mangwe District",
                     "s_city_slug": "mangwe-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-south-province",
                     "s_city_name": "Matobo",
                     "s_city_slug": "matobo"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-south-province",
                     "s_city_name": "Plumtree",
                     "s_city_slug": "plumtree"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "matabeleland-south-province",
                     "s_city_name": "Umzingwane District",
                     "s_city_slug": "umzingwane-district"
@@ -643,84 +643,84 @@
             ]
         },
         {
-            "s_country_code": "ZW",
+            "s_country_code": "zw",
             "s_region_name": "Midlands Province",
             "s_region_slug": "midlands-province",
             "cities": [
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Gokwe",
                     "s_city_slug": "gokwe"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Gweru",
                     "s_city_slug": "gweru"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Gweru District",
                     "s_city_slug": "gweru-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Kwekwe",
                     "s_city_slug": "kwekwe"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Kwekwe District",
                     "s_city_slug": "kwekwe-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Lalapanzi",
                     "s_city_slug": "lalapanzi"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Mberengwa District",
                     "s_city_slug": "mberengwa-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Mvuma",
                     "s_city_slug": "mvuma"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Redcliff",
                     "s_city_slug": "redcliff"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Shangani",
                     "s_city_slug": "shangani"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Shurugwi",
                     "s_city_slug": "shurugwi"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Shurugwi District",
                     "s_city_slug": "shurugwi-district"
                 },
                 {
-                    "s_country_code": "ZW",
+                    "s_country_code": "zw",
                     "s_region_slug": "midlands-province",
                     "s_city_name": "Zvishavane District",
                     "s_city_slug": "zvishavane-district"

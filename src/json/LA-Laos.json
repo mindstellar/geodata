@@ -4,42 +4,42 @@
     "s_country_slug": "laos",
     "regions": [
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Attapeu Province",
             "s_region_slug": "attapeu-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "attapeu-province",
                     "s_city_name": "Attapeu",
                     "s_city_slug": "attapeu"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "attapeu-province",
                     "s_city_name": "Muang Phouvong",
                     "s_city_slug": "muang-phouvong"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "attapeu-province",
                     "s_city_name": "Muang Samakhixai",
                     "s_city_slug": "muang-samakhixai"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "attapeu-province",
                     "s_city_name": "Muang Sanamxai",
                     "s_city_slug": "muang-sanamxai"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "attapeu-province",
                     "s_city_name": "Muang Sanxai",
                     "s_city_slug": "muang-sanxai"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "attapeu-province",
                     "s_city_name": "Muang Xaisettha",
                     "s_city_slug": "muang-xaisettha"
@@ -47,48 +47,48 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Bokeo Province",
             "s_region_slug": "bokeo-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "bokeo-province",
                     "s_city_name": "Ban Houakhoua",
                     "s_city_slug": "ban-houakhoua"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "bokeo-province",
                     "s_city_name": "Ban Houayxay",
                     "s_city_slug": "ban-houayxay"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "bokeo-province",
                     "s_city_name": "Muang Houayxay",
                     "s_city_slug": "muang-houayxay"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "bokeo-province",
                     "s_city_name": "Muang Meung",
                     "s_city_slug": "muang-meung"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "bokeo-province",
                     "s_city_name": "Muang Paktha",
                     "s_city_slug": "muang-paktha"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "bokeo-province",
                     "s_city_name": "Muang Pha Oudom",
                     "s_city_slug": "muang-pha-oudom"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "bokeo-province",
                     "s_city_name": "Muang Tonpheung",
                     "s_city_slug": "muang-tonpheung"
@@ -96,18 +96,18 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Bolikhamsai Province",
             "s_region_slug": "bolikhamsai-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "bolikhamsai-province",
                     "s_city_name": "Ban Nahin",
                     "s_city_slug": "ban-nahin"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "bolikhamsai-province",
                     "s_city_name": "Pakxan",
                     "s_city_slug": "pakxan"
@@ -115,84 +115,84 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Champasak Province",
             "s_region_slug": "champasak-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Champasak",
                     "s_city_slug": "champasak"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Muang Bachiangchaleunsook",
                     "s_city_slug": "muang-bachiangchaleunsook"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Muang Champasak",
                     "s_city_slug": "muang-champasak"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Muang Khong",
                     "s_city_slug": "muang-khong"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Muang Mounlapamok",
                     "s_city_slug": "muang-mounlapamok"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Muang Pakxe",
                     "s_city_slug": "muang-pakxe"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Muang Pakxong",
                     "s_city_slug": "muang-pakxong"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Muang Pathoumphon",
                     "s_city_slug": "muang-pathoumphon"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Muang Phonthong",
                     "s_city_slug": "muang-phonthong"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Muang Soukhouma",
                     "s_city_slug": "muang-soukhouma"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Muang Xanasomboun",
                     "s_city_slug": "muang-xanasomboun"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Pakse",
                     "s_city_slug": "pakse"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "champasak-province",
                     "s_city_name": "Pakxong",
                     "s_city_slug": "pakxong"
@@ -200,18 +200,18 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Houaphanh Province",
             "s_region_slug": "houaphanh-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "houaphanh-province",
                     "s_city_name": "Xam Neua",
                     "s_city_slug": "xam-neua"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "houaphanh-province",
                     "s_city_name": "Xam Nua",
                     "s_city_slug": "xam-nua"
@@ -219,18 +219,18 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Khammouane Province",
             "s_region_slug": "khammouane-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "khammouane-province",
                     "s_city_name": "Muang Thakhek",
                     "s_city_slug": "muang-thakhek"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "khammouane-province",
                     "s_city_name": "Thakhek",
                     "s_city_slug": "thakhek"
@@ -238,18 +238,18 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Luang Namtha Province",
             "s_region_slug": "luang-namtha-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "luang-namtha-province",
                     "s_city_name": "Luang Namtha",
                     "s_city_slug": "luang-namtha"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "luang-namtha-province",
                     "s_city_name": "Muang Louang Namtha",
                     "s_city_slug": "muang-louang-namtha"
@@ -257,12 +257,12 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Luang Prabang Province",
             "s_region_slug": "luang-prabang-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "luang-prabang-province",
                     "s_city_name": "Luang Prabang",
                     "s_city_slug": "luang-prabang"
@@ -270,12 +270,12 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Oudomxay Province",
             "s_region_slug": "oudomxay-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "oudomxay-province",
                     "s_city_name": "Muang Xay",
                     "s_city_slug": "muang-xay"
@@ -283,12 +283,12 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Phongsaly Province",
             "s_region_slug": "phongsaly-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "phongsaly-province",
                     "s_city_name": "Phongsali",
                     "s_city_slug": "phongsali"
@@ -296,12 +296,12 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Sainyabuli Province",
             "s_region_slug": "sainyabuli-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "sainyabuli-province",
                     "s_city_name": "Sainyabuli",
                     "s_city_slug": "sainyabuli"
@@ -309,60 +309,60 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Salavan Province",
             "s_region_slug": "salavan-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "salavan-province",
                     "s_city_name": "Muang Khongxedon",
                     "s_city_slug": "muang-khongxedon"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "salavan-province",
                     "s_city_name": "Muang Lakhonpheng",
                     "s_city_slug": "muang-lakhonpheng"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "salavan-province",
                     "s_city_name": "Muang Laongam",
                     "s_city_slug": "muang-laongam"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "salavan-province",
                     "s_city_name": "Muang Samouay",
                     "s_city_slug": "muang-samouay"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "salavan-province",
                     "s_city_name": "Muang Saravan",
                     "s_city_slug": "muang-saravan"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "salavan-province",
                     "s_city_name": "Muang Ta-Oy",
                     "s_city_slug": "muang-ta-oy"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "salavan-province",
                     "s_city_name": "Muang Toumlan",
                     "s_city_slug": "muang-toumlan"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "salavan-province",
                     "s_city_name": "Muang Vapi",
                     "s_city_slug": "muang-vapi"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "salavan-province",
                     "s_city_name": "Salavan",
                     "s_city_slug": "salavan"
@@ -370,96 +370,96 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Savannakhet Province",
             "s_region_slug": "savannakhet-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Kaysone Phomvihane",
                     "s_city_slug": "kaysone-phomvihane"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Muang Alsaphangthong",
                     "s_city_slug": "muang-alsaphangthong"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Muang Atsaphan",
                     "s_city_slug": "muang-atsaphan"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Muang Champhon",
                     "s_city_slug": "muang-champhon"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Muang Nong",
                     "s_city_slug": "muang-nong"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Muang Outhoumphon",
                     "s_city_slug": "muang-outhoumphon"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Muang Phin",
                     "s_city_slug": "muang-phin"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Muang Songkhon",
                     "s_city_slug": "muang-songkhon"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Muang Thapangthong",
                     "s_city_slug": "muang-thapangthong"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Muang Vilabouli",
                     "s_city_slug": "muang-vilabouli"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Muang Xaibouli",
                     "s_city_slug": "muang-xaibouli"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Muang Xayphoothong",
                     "s_city_slug": "muang-xayphoothong"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Muang Xonbouli",
                     "s_city_slug": "muang-xonbouli"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Savannakhet",
                     "s_city_slug": "savannakhet"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "savannakhet-province",
                     "s_city_name": "Thaphalanxay",
                     "s_city_slug": "thaphalanxay"
@@ -467,42 +467,42 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Sekong Province",
             "s_region_slug": "sekong-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "sekong-province",
                     "s_city_name": "Ban Thateng",
                     "s_city_slug": "ban-thateng"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "sekong-province",
                     "s_city_name": "Lamam",
                     "s_city_slug": "lamam"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "sekong-province",
                     "s_city_name": "Muang Dakchung",
                     "s_city_slug": "muang-dakchung"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "sekong-province",
                     "s_city_name": "Muang Khaleum",
                     "s_city_slug": "muang-khaleum"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "sekong-province",
                     "s_city_name": "Muang Laman",
                     "s_city_slug": "muang-laman"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "sekong-province",
                     "s_city_name": "Muang Thateng",
                     "s_city_slug": "muang-thateng"
@@ -510,12 +510,12 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Vientiane Prefecture",
             "s_region_slug": "vientiane-prefecture",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "vientiane-prefecture",
                     "s_city_name": "Vientiane",
                     "s_city_slug": "vientiane"
@@ -523,18 +523,18 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Vientiane Province",
             "s_region_slug": "vientiane-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "vientiane-province",
                     "s_city_name": "Muang Phon-Hong",
                     "s_city_slug": "muang-phon-hong"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "vientiane-province",
                     "s_city_name": "Vangviang",
                     "s_city_slug": "vangviang"
@@ -542,12 +542,12 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Xaisomboun",
             "s_region_slug": "xaisomboun",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "xaisomboun",
                     "s_city_name": "Xaisomboun",
                     "s_city_slug": "xaisomboun"
@@ -555,30 +555,30 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Xaisomboun Province",
             "s_region_slug": "xaisomboun-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "xaisomboun-province",
                     "s_city_name": "Anouvong district",
                     "s_city_slug": "anouvong-district"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "xaisomboun-province",
                     "s_city_name": "Longchaeng",
                     "s_city_slug": "longchaeng"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "xaisomboun-province",
                     "s_city_name": "Muang Longxan",
                     "s_city_slug": "muang-longxan"
                 },
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "xaisomboun-province",
                     "s_city_name": "Muang Thathom",
                     "s_city_slug": "muang-thathom"
@@ -586,12 +586,12 @@
             ]
         },
         {
-            "s_country_code": "LA",
+            "s_country_code": "la",
             "s_region_name": "Xiangkhouang Province",
             "s_region_slug": "xiangkhouang-province",
             "cities": [
                 {
-                    "s_country_code": "LA",
+                    "s_country_code": "la",
                     "s_region_slug": "xiangkhouang-province",
                     "s_city_name": "Muang Phonsavan",
                     "s_city_slug": "muang-phonsavan"

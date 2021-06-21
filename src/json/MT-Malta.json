@@ -4,12 +4,12 @@
     "s_country_slug": "malta",
     "regions": [
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Attard",
             "s_region_slug": "attard",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "attard",
                     "s_city_name": "Attard",
                     "s_city_slug": "attard"
@@ -17,12 +17,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Balzan",
             "s_region_slug": "balzan",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "balzan",
                     "s_city_name": "Balzan",
                     "s_city_slug": "balzan"
@@ -30,12 +30,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Birgu",
             "s_region_slug": "birgu",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "birgu",
                     "s_city_name": "Vittoriosa",
                     "s_city_slug": "vittoriosa"
@@ -43,12 +43,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Birkirkara",
             "s_region_slug": "birkirkara",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "birkirkara",
                     "s_city_name": "Birkirkara",
                     "s_city_slug": "birkirkara"
@@ -56,12 +56,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Birzebbuga",
             "s_region_slug": "birzebbuga",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "birzebbuga",
                     "s_city_name": "Birzebbuga",
                     "s_city_slug": "birzebbuga"
@@ -69,12 +69,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Cospicua",
             "s_region_slug": "cospicua",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "cospicua",
                     "s_city_name": "Cospicua",
                     "s_city_slug": "cospicua"
@@ -82,12 +82,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Dingli",
             "s_region_slug": "dingli",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "dingli",
                     "s_city_name": "Dingli",
                     "s_city_slug": "dingli"
@@ -95,12 +95,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Fgura",
             "s_region_slug": "fgura",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "fgura",
                     "s_city_name": "Fgura",
                     "s_city_slug": "fgura"
@@ -108,12 +108,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Floriana",
             "s_region_slug": "floriana",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "floriana",
                     "s_city_name": "Floriana",
                     "s_city_slug": "floriana"
@@ -121,12 +121,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Fontana",
             "s_region_slug": "fontana",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "fontana",
                     "s_city_name": "Fontana",
                     "s_city_slug": "fontana"
@@ -134,18 +134,18 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Gajnsielem",
             "s_region_slug": "gajnsielem",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "gajnsielem",
                     "s_city_name": "Gajnsielem",
                     "s_city_slug": "gajnsielem"
                 },
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "gajnsielem",
                     "s_city_name": "Hal Gharghur",
                     "s_city_slug": "hal-gharghur"
@@ -153,12 +153,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Garb",
             "s_region_slug": "garb",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "garb",
                     "s_city_name": "Garb",
                     "s_city_slug": "garb"
@@ -166,12 +166,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Gargur",
             "s_region_slug": "gargur",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "gargur",
                     "s_city_name": "Gaxaq",
                     "s_city_slug": "gaxaq"
@@ -179,12 +179,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Gasri",
             "s_region_slug": "gasri",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "gasri",
                     "s_city_name": "Gudja",
                     "s_city_slug": "gudja"
@@ -192,12 +192,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Gaxaq",
             "s_region_slug": "gaxaq",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "gaxaq",
                     "s_city_name": "Gzira",
                     "s_city_slug": "gzira"
@@ -205,12 +205,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Gudja",
             "s_region_slug": "gudja",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "gudja",
                     "s_city_name": "Gudja",
                     "s_city_slug": "gudja"
@@ -218,12 +218,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Gzira",
             "s_region_slug": "gzira",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "gzira",
                     "s_city_name": "Garb",
                     "s_city_slug": "garb"
@@ -231,12 +231,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Iklin",
             "s_region_slug": "iklin",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "iklin",
                     "s_city_name": "L-Iklin",
                     "s_city_slug": "l-iklin"
@@ -244,18 +244,18 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Kalkara",
             "s_region_slug": "kalkara",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "kalkara",
                     "s_city_name": "Imgarr",
                     "s_city_slug": "imgarr"
                 },
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "kalkara",
                     "s_city_name": "Mgarr",
                     "s_city_slug": "mgarr"
@@ -263,12 +263,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Kercem",
             "s_region_slug": "kercem",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "kercem",
                     "s_city_name": "Mqabba",
                     "s_city_slug": "mqabba"
@@ -276,18 +276,18 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Kirkop",
             "s_region_slug": "kirkop",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "kirkop",
                     "s_city_name": "Imsida",
                     "s_city_slug": "imsida"
                 },
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "kirkop",
                     "s_city_name": "Kirkop",
                     "s_city_slug": "kirkop"
@@ -295,18 +295,18 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Lija",
             "s_region_slug": "lija",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "lija",
                     "s_city_name": "Imtarfa",
                     "s_city_slug": "imtarfa"
                 },
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "lija",
                     "s_city_name": "Lija",
                     "s_city_slug": "lija"
@@ -314,18 +314,18 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Luqa",
             "s_region_slug": "luqa",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "luqa",
                     "s_city_name": "Luqa",
                     "s_city_slug": "luqa"
                 },
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "luqa",
                     "s_city_name": "Senglea",
                     "s_city_slug": "senglea"
@@ -333,12 +333,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Marsa",
             "s_region_slug": "marsa",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "marsa",
                     "s_city_name": "Kalkara",
                     "s_city_slug": "kalkara"
@@ -346,18 +346,18 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Marsaskala",
             "s_region_slug": "marsaskala",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "marsaskala",
                     "s_city_name": "Kercem",
                     "s_city_slug": "kercem"
                 },
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "marsaskala",
                     "s_city_name": "Marsaskala",
                     "s_city_slug": "marsaskala"
@@ -365,12 +365,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Marsaxlokk",
             "s_region_slug": "marsaxlokk",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "marsaxlokk",
                     "s_city_name": "Marsaxlokk",
                     "s_city_slug": "marsaxlokk"
@@ -378,12 +378,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Mdina",
             "s_region_slug": "mdina",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "mdina",
                     "s_city_name": "Mdina",
                     "s_city_slug": "mdina"
@@ -391,12 +391,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Melliea",
             "s_region_slug": "melliea",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "melliea",
                     "s_city_name": "Melliea",
                     "s_city_slug": "melliea"
@@ -404,12 +404,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Mgarr",
             "s_region_slug": "mgarr",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "mgarr",
                     "s_city_name": "Marsa",
                     "s_city_slug": "marsa"
@@ -417,12 +417,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Mosta",
             "s_region_slug": "mosta",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "mosta",
                     "s_city_name": "Mosta",
                     "s_city_slug": "mosta"
@@ -430,12 +430,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Mqabba",
             "s_region_slug": "mqabba",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "mqabba",
                     "s_city_name": "Mqabba",
                     "s_city_slug": "mqabba"
@@ -443,12 +443,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Msida",
             "s_region_slug": "msida",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "msida",
                     "s_city_name": "Melliea",
                     "s_city_slug": "melliea"
@@ -456,12 +456,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Mtarfa",
             "s_region_slug": "mtarfa",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "mtarfa",
                     "s_city_name": "Mtarfa",
                     "s_city_slug": "mtarfa"
@@ -469,12 +469,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Munxar",
             "s_region_slug": "munxar",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "munxar",
                     "s_city_name": "Munxar",
                     "s_city_slug": "munxar"
@@ -482,12 +482,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Nadur",
             "s_region_slug": "nadur",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "nadur",
                     "s_city_name": "Nadur",
                     "s_city_slug": "nadur"
@@ -495,12 +495,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Naxxar",
             "s_region_slug": "naxxar",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "naxxar",
                     "s_city_name": "Naxxar",
                     "s_city_slug": "naxxar"
@@ -508,12 +508,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Paola",
             "s_region_slug": "paola",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "paola",
                     "s_city_name": "Paola",
                     "s_city_slug": "paola"
@@ -521,12 +521,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Pembroke",
             "s_region_slug": "pembroke",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "pembroke",
                     "s_city_name": "Pembroke",
                     "s_city_slug": "pembroke"
@@ -534,12 +534,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Pieta",
             "s_region_slug": "pieta",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "pieta",
                     "s_city_name": "Pieta",
                     "s_city_slug": "pieta"
@@ -547,12 +547,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Qala",
             "s_region_slug": "qala",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "qala",
                     "s_city_name": "Qala",
                     "s_city_slug": "qala"
@@ -560,12 +560,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Qormi",
             "s_region_slug": "qormi",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "qormi",
                     "s_city_name": "Qormi",
                     "s_city_slug": "qormi"
@@ -573,12 +573,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Qrendi",
             "s_region_slug": "qrendi",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "qrendi",
                     "s_city_name": "Qrendi",
                     "s_city_slug": "qrendi"
@@ -586,12 +586,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Rabat",
             "s_region_slug": "rabat",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "rabat",
                     "s_city_name": "Rabat",
                     "s_city_slug": "rabat"
@@ -599,12 +599,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Saint Lawrence",
             "s_region_slug": "saint-lawrence",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "saint-lawrence",
                     "s_city_name": "San Lawrenz",
                     "s_city_slug": "san-lawrenz"
@@ -612,12 +612,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "San Gwann",
             "s_region_slug": "san-gwann",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "san-gwann",
                     "s_city_name": "San Giljan",
                     "s_city_slug": "san-giljan"
@@ -625,18 +625,18 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Sannat",
             "s_region_slug": "sannat",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "sannat",
                     "s_city_name": "San Pawl il-Baar",
                     "s_city_slug": "san-pawl-il-baar"
                 },
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "sannat",
                     "s_city_name": "Sannat",
                     "s_city_slug": "sannat"
@@ -644,12 +644,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Santa Lucija",
             "s_region_slug": "santa-lucija",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "santa-lucija",
                     "s_city_name": "Santa Venera",
                     "s_city_slug": "santa-venera"
@@ -657,12 +657,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Santa Venera",
             "s_region_slug": "santa-venera",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "santa-venera",
                     "s_city_name": "Santa Venera",
                     "s_city_slug": "santa-venera"
@@ -670,12 +670,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Senglea",
             "s_region_slug": "senglea",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "senglea",
                     "s_city_name": "Imdina",
                     "s_city_slug": "imdina"
@@ -683,12 +683,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Siggiewi",
             "s_region_slug": "siggiewi",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "siggiewi",
                     "s_city_name": "Siggiewi",
                     "s_city_slug": "siggiewi"
@@ -696,12 +696,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Sliema",
             "s_region_slug": "sliema",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "sliema",
                     "s_city_name": "Sliema",
                     "s_city_slug": "sliema"
@@ -709,12 +709,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "St. Julian's",
             "s_region_slug": "st-julians",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "st-julians",
                     "s_city_name": "Saint John",
                     "s_city_slug": "saint-john"
@@ -722,24 +722,24 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "St. Paul's Bay",
             "s_region_slug": "st-pauls-bay",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "st-pauls-bay",
                     "s_city_name": "Mosta",
                     "s_city_slug": "mosta"
                 },
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "st-pauls-bay",
                     "s_city_name": "Saint Lucia",
                     "s_city_slug": "saint-lucia"
                 },
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "st-pauls-bay",
                     "s_city_name": "Santa Lucija",
                     "s_city_slug": "santa-lucija"
@@ -747,12 +747,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Swieqi",
             "s_region_slug": "swieqi",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "swieqi",
                     "s_city_name": "Swieqi",
                     "s_city_slug": "swieqi"
@@ -760,12 +760,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Ta' Xbiex",
             "s_region_slug": "ta-xbiex",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "ta-xbiex",
                     "s_city_name": "Ta Xbiex",
                     "s_city_slug": "ta-xbiex"
@@ -773,12 +773,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Tarxien",
             "s_region_slug": "tarxien",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "tarxien",
                     "s_city_name": "Tarxien",
                     "s_city_slug": "tarxien"
@@ -786,12 +786,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Valletta",
             "s_region_slug": "valletta",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "valletta",
                     "s_city_name": "Valletta",
                     "s_city_slug": "valletta"
@@ -799,18 +799,18 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Victoria",
             "s_region_slug": "victoria",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "victoria",
                     "s_city_name": "Rabat",
                     "s_city_slug": "rabat"
                 },
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "victoria",
                     "s_city_name": "Victoria",
                     "s_city_slug": "victoria"
@@ -818,12 +818,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Xagra",
             "s_region_slug": "xagra",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "xagra",
                     "s_city_name": "Xagra",
                     "s_city_slug": "xagra"
@@ -831,12 +831,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Xewkija",
             "s_region_slug": "xewkija",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "xewkija",
                     "s_city_name": "Xewkija",
                     "s_city_slug": "xewkija"
@@ -844,12 +844,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Xgajra",
             "s_region_slug": "xgajra",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "xgajra",
                     "s_city_name": "Xgajra",
                     "s_city_slug": "xgajra"
@@ -857,12 +857,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Zabbar",
             "s_region_slug": "zabbar",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "zabbar",
                     "s_city_name": "Zabbar",
                     "s_city_slug": "zabbar"
@@ -870,12 +870,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Zebbug Gozo",
             "s_region_slug": "zebbug-gozo",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "zebbug-gozo",
                     "s_city_name": "Haz-Zebbug",
                     "s_city_slug": "haz-zebbug"
@@ -883,12 +883,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Zebbug Malta",
             "s_region_slug": "zebbug-malta",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "zebbug-malta",
                     "s_city_name": "Zebbug",
                     "s_city_slug": "zebbug"
@@ -896,12 +896,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Zejtun",
             "s_region_slug": "zejtun",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "zejtun",
                     "s_city_name": "Zejtun",
                     "s_city_slug": "zejtun"
@@ -909,12 +909,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "Zurrieq",
             "s_region_slug": "zurrieq",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "zurrieq",
                     "s_city_name": "Zurrieq",
                     "s_city_slug": "zurrieq"
@@ -922,12 +922,12 @@
             ]
         },
         {
-            "s_country_code": "MT",
+            "s_country_code": "mt",
             "s_region_name": "amrun",
             "s_region_slug": "amrun",
             "cities": [
                 {
-                    "s_country_code": "MT",
+                    "s_country_code": "mt",
                     "s_region_slug": "amrun",
                     "s_city_name": "amrun",
                     "s_city_slug": "amrun"

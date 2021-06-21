@@ -4,276 +4,276 @@
     "s_country_slug": "belarus",
     "regions": [
         {
-            "s_country_code": "BY",
+            "s_country_code": "by",
             "s_region_name": "Brest Region",
             "s_region_slug": "brest-region",
             "cities": [
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Antopal",
                     "s_city_slug": "antopal"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Asnyezhytsy",
                     "s_city_slug": "asnyezhytsy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Baranovichi",
                     "s_city_slug": "baranovichi"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Baranovichskiy Rayon",
                     "s_city_slug": "baranovichskiy-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Brest",
                     "s_city_slug": "brest"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Brestski Rayon",
                     "s_city_slug": "brestski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Byaroza",
                     "s_city_slug": "byaroza"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Byarozawski Rayon",
                     "s_city_slug": "byarozawski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Byelaazyorsk",
                     "s_city_slug": "byelaazyorsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Charnawchytsy",
                     "s_city_slug": "charnawchytsy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Damachava",
                     "s_city_slug": "damachava"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Davyd-Haradok",
                     "s_city_slug": "davyd-haradok"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Drahichyn",
                     "s_city_slug": "drahichyn"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Drahichynski Rayon",
                     "s_city_slug": "drahichynski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Hantsavichy",
                     "s_city_slug": "hantsavichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Hantsavitski Rayon",
                     "s_city_slug": "hantsavitski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Haradzishcha",
                     "s_city_slug": "haradzishcha"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Horad Baranavichy",
                     "s_city_slug": "horad-baranavichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Horad Brest",
                     "s_city_slug": "horad-brest"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Ivanava",
                     "s_city_slug": "ivanava"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Ivanawski Rayon",
                     "s_city_slug": "ivanawski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Ivatsevichy",
                     "s_city_slug": "ivatsevichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Kamyanyets",
                     "s_city_slug": "kamyanyets"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Kamyanyetski Rayon",
                     "s_city_slug": "kamyanyetski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Kamyanyuki",
                     "s_city_slug": "kamyanyuki"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Kobryn",
                     "s_city_slug": "kobryn"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Kosava",
                     "s_city_slug": "kosava"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Lahishyn",
                     "s_city_slug": "lahishyn"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Luninyets",
                     "s_city_slug": "luninyets"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Lyakhavichy",
                     "s_city_slug": "lyakhavichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Malaryta",
                     "s_city_slug": "malaryta"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Mikashevichy",
                     "s_city_slug": "mikashevichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Motal",
                     "s_city_slug": "motal"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Nyakhachava",
                     "s_city_slug": "nyakhachava"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Pinsk",
                     "s_city_slug": "pinsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Pruzhanski Rayon",
                     "s_city_slug": "pruzhanski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Pruzhany",
                     "s_city_slug": "pruzhany"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Ruzhany",
                     "s_city_slug": "ruzhany"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Stolin",
                     "s_city_slug": "stolin"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Stolinski Rayon",
                     "s_city_slug": "stolinski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Tsyelyakhany",
                     "s_city_slug": "tsyelyakhany"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Vysokaye",
                     "s_city_slug": "vysokaye"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Zhabinka",
                     "s_city_slug": "zhabinka"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Zhabinkawski Rayon",
                     "s_city_slug": "zhabinkawski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "brest-region",
                     "s_city_name": "Znamenka",
                     "s_city_slug": "znamenka"
@@ -281,240 +281,240 @@
             ]
         },
         {
-            "s_country_code": "BY",
+            "s_country_code": "by",
             "s_region_name": "Gomel Region",
             "s_region_slug": "gomel-region",
             "cities": [
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Aktsyabrski",
                     "s_city_slug": "aktsyabrski"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Brahin",
                     "s_city_slug": "brahin"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Brahinski Rayon",
                     "s_city_slug": "brahinski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Buda-Kashalyova",
                     "s_city_slug": "buda-kashalyova"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Chachersk",
                     "s_city_slug": "chachersk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Chacherski Rayon",
                     "s_city_slug": "chacherski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Dobrush",
                     "s_city_slug": "dobrush"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Dowsk",
                     "s_city_slug": "dowsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Homyel'",
                     "s_city_slug": "homyel"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Homyelski Rayon",
                     "s_city_slug": "homyelski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Kalinkavichy",
                     "s_city_slug": "kalinkavichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Karanyowka",
                     "s_city_slug": "karanyowka"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Karma",
                     "s_city_slug": "karma"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Kastsyukowka",
                     "s_city_slug": "kastsyukowka"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Khalch",
                     "s_city_slug": "khalch"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Khoyniki",
                     "s_city_slug": "khoyniki"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Loyew",
                     "s_city_slug": "loyew"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Lyelchytski Rayon",
                     "s_city_slug": "lyelchytski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Lyelchytsy",
                     "s_city_slug": "lyelchytsy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Mazyr",
                     "s_city_slug": "mazyr"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Mazyrski Rayon",
                     "s_city_slug": "mazyrski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Narowlya",
                     "s_city_slug": "narowlya"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Novaya Huta",
                     "s_city_slug": "novaya-huta"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Parychy",
                     "s_city_slug": "parychy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Peramoga",
                     "s_city_slug": "peramoga"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Pyetrykaw",
                     "s_city_slug": "pyetrykaw"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Rahachow",
                     "s_city_slug": "rahachow"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Rahachowski Rayon",
                     "s_city_slug": "rahachowski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Rechytsa",
                     "s_city_slug": "rechytsa"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Sasnovy Bor",
                     "s_city_slug": "sasnovy-bor"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Svyetlahorsk",
                     "s_city_slug": "svyetlahorsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Turaw",
                     "s_city_slug": "turaw"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Vasilyevichy",
                     "s_city_slug": "vasilyevichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Vyetka",
                     "s_city_slug": "vyetka"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Vyetkawski Rayon",
                     "s_city_slug": "vyetkawski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Yelsk",
                     "s_city_slug": "yelsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Zhlobin",
                     "s_city_slug": "zhlobin"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Zhlobinski Rayon",
                     "s_city_slug": "zhlobinski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "gomel-region",
                     "s_city_name": "Zhytkavichy",
                     "s_city_slug": "zhytkavichy"
@@ -522,246 +522,246 @@
             ]
         },
         {
-            "s_country_code": "BY",
+            "s_country_code": "by",
             "s_region_name": "Grodno Region",
             "s_region_slug": "grodno-region",
             "cities": [
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Ashmyanski Rayon",
                     "s_city_slug": "ashmyanski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Ashmyany",
                     "s_city_slug": "ashmyany"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Astravyets",
                     "s_city_slug": "astravyets"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Astravyetski Rayon",
                     "s_city_slug": "astravyetski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Baruny",
                     "s_city_slug": "baruny"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Byarozawka",
                     "s_city_slug": "byarozawka"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Dyatlovo",
                     "s_city_slug": "dyatlovo"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Grodnenskiy Rayon",
                     "s_city_slug": "grodnenskiy-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Halshany",
                     "s_city_slug": "halshany"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Horad Hrodna",
                     "s_city_slug": "horad-hrodna"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Hrodna",
                     "s_city_slug": "hrodna"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Hyeranyony",
                     "s_city_slug": "hyeranyony"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Indura",
                     "s_city_slug": "indura"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Iwye",
                     "s_city_slug": "iwye"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Karelichy",
                     "s_city_slug": "karelichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Karelitski Rayon",
                     "s_city_slug": "karelitski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Krasnoselskiy",
                     "s_city_slug": "krasnoselskiy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Kreva",
                     "s_city_slug": "kreva"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Lida",
                     "s_city_slug": "lida"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Lidski Rayon",
                     "s_city_slug": "lidski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Lyubcha",
                     "s_city_slug": "lyubcha"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Mir",
                     "s_city_slug": "mir"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Mosty",
                     "s_city_slug": "mosty"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Novogrudok",
                     "s_city_slug": "novogrudok"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Ross",
                     "s_city_slug": "ross"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Sapotskin",
                     "s_city_slug": "sapotskin"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Shchuchyn",
                     "s_city_slug": "shchuchyn"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Shchuchynski Rayon",
                     "s_city_slug": "shchuchynski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Skidel",
                     "s_city_slug": "skidel"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Slonim",
                     "s_city_slug": "slonim"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Smarhon",
                     "s_city_slug": "smarhon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Soly",
                     "s_city_slug": "soly"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Svislach",
                     "s_city_slug": "svislach"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Vishnyeva",
                     "s_city_slug": "vishnyeva"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Volkovysk",
                     "s_city_slug": "volkovysk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Voranava",
                     "s_city_slug": "voranava"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Vyalikaya Byerastavitsa",
                     "s_city_slug": "vyalikaya-byerastavitsa"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Zelva",
                     "s_city_slug": "zelva"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Zhaludok",
                     "s_city_slug": "zhaludok"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "grodno-region",
                     "s_city_name": "Zhirovichi",
                     "s_city_slug": "zhirovichi"
@@ -769,60 +769,60 @@
             ]
         },
         {
-            "s_country_code": "BY",
+            "s_country_code": "by",
             "s_region_name": "Minsk",
             "s_region_slug": "minsk",
             "cities": [
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk",
                     "s_city_name": "Frunzyenski Rayon",
                     "s_city_slug": "frunzyenski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk",
                     "s_city_name": "Kastrychnitski Rayon",
                     "s_city_slug": "kastrychnitski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk",
                     "s_city_name": "Lyeninski Rayon",
                     "s_city_slug": "lyeninski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk",
                     "s_city_name": "Maskowski Rayon",
                     "s_city_slug": "maskowski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk",
                     "s_city_name": "Minsk",
                     "s_city_slug": "minsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk",
                     "s_city_name": "Partyzanski Rayon",
                     "s_city_slug": "partyzanski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk",
                     "s_city_name": "Savyetski Rayon",
                     "s_city_slug": "savyetski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk",
                     "s_city_name": "Tsentralny Rayon",
                     "s_city_slug": "tsentralny-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk",
                     "s_city_name": "Zavodski Rayon",
                     "s_city_slug": "zavodski-rayon"
@@ -830,612 +830,612 @@
             ]
         },
         {
-            "s_country_code": "BY",
+            "s_country_code": "by",
             "s_region_name": "Minsk Region",
             "s_region_slug": "minsk-region",
             "cities": [
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Astrashytski Haradok",
                     "s_city_slug": "astrashytski-haradok"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Atolina",
                     "s_city_slug": "atolina"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Azyartso",
                     "s_city_slug": "azyartso"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Balshavik",
                     "s_city_slug": "balshavik"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Barysaw",
                     "s_city_slug": "barysaw"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Barysawski Rayon",
                     "s_city_slug": "barysawski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Blon",
                     "s_city_slug": "blon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Bobr",
                     "s_city_slug": "bobr"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Borovlyany",
                     "s_city_slug": "borovlyany"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Byarezinski Rayon",
                     "s_city_slug": "byarezinski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Byerazino",
                     "s_city_slug": "byerazino"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Chervyen",
                     "s_city_slug": "chervyen"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Chervyenski Rayon",
                     "s_city_slug": "chervyenski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Chyrvonaya Slabada",
                     "s_city_slug": "chyrvonaya-slabada"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Chyst",
                     "s_city_slug": "chyst"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Druzhny",
                     "s_city_slug": "druzhny"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Dukora",
                     "s_city_slug": "dukora"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Dzyarzhynsk",
                     "s_city_slug": "dzyarzhynsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Enyerhyetykaw",
                     "s_city_slug": "enyerhyetykaw"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Fanipol",
                     "s_city_slug": "fanipol"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Haradzyeya",
                     "s_city_slug": "haradzyeya"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Hatava",
                     "s_city_slug": "hatava"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Horad Smalyavichy",
                     "s_city_slug": "horad-smalyavichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Horad Zhodzina",
                     "s_city_slug": "horad-zhodzina"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Hotsk",
                     "s_city_slug": "hotsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Ilya",
                     "s_city_slug": "ilya"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Ivyanyets",
                     "s_city_slug": "ivyanyets"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Kalodzishchy",
                     "s_city_slug": "kalodzishchy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Kapyl",
                     "s_city_slug": "kapyl"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Kapylski Rayon",
                     "s_city_slug": "kapylski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Khatsyezhyna",
                     "s_city_slug": "khatsyezhyna"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Kholopenichi",
                     "s_city_slug": "kholopenichi"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Klyetsk",
                     "s_city_slug": "klyetsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Klyetski Rayon",
                     "s_city_slug": "klyetski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Korolev Stan",
                     "s_city_slug": "korolev-stan"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Krasnaye",
                     "s_city_slug": "krasnaye"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Krupki",
                     "s_city_slug": "krupki"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Kryvichy",
                     "s_city_slug": "kryvichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Lahoysk",
                     "s_city_slug": "lahoysk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Loshnitsa",
                     "s_city_slug": "loshnitsa"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Luhavaya Slabada",
                     "s_city_slug": "luhavaya-slabada"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Lyasny",
                     "s_city_slug": "lyasny"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Lyeskawka",
                     "s_city_slug": "lyeskawka"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Lyuban",
                     "s_city_slug": "lyuban"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Machulishchy",
                     "s_city_slug": "machulishchy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Maladzyechna",
                     "s_city_slug": "maladzyechna"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Marina Horka",
                     "s_city_slug": "marina-horka"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Michanovichi",
                     "s_city_slug": "michanovichi"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Myadzyel",
                     "s_city_slug": "myadzyel"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Myadzyelski Rayon",
                     "s_city_slug": "myadzyelski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Narach",
                     "s_city_slug": "narach"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Nasilava",
                     "s_city_slug": "nasilava"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Novoselye",
                     "s_city_slug": "novoselye"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Novy Svyerzhan",
                     "s_city_slug": "novy-svyerzhan"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Nyasvizh",
                     "s_city_slug": "nyasvizh"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Nyasvizhski Rayon",
                     "s_city_slug": "nyasvizhski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Plyeshchanitsy",
                     "s_city_slug": "plyeshchanitsy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Prawdzinski",
                     "s_city_slug": "prawdzinski"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Pryvolny",
                     "s_city_slug": "pryvolny"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Pukhavichy",
                     "s_city_slug": "pukhavichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Pukhavichy Raion",
                     "s_city_slug": "pukhavichy-raion"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Pyatryshki",
                     "s_city_slug": "pyatryshki"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Radashkovichy",
                     "s_city_slug": "radashkovichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Rakaw",
                     "s_city_slug": "rakaw"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Rudzyensk",
                     "s_city_slug": "rudzyensk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Salihorsk",
                     "s_city_slug": "salihorsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Samakhvalavichy",
                     "s_city_slug": "samakhvalavichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Sarachy",
                     "s_city_slug": "sarachy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Schomyslitsa",
                     "s_city_slug": "schomyslitsa"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Slabada",
                     "s_city_slug": "slabada"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Slutsk",
                     "s_city_slug": "slutsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Slutski Rayon",
                     "s_city_slug": "slutski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Smalyavitski Rayon",
                     "s_city_slug": "smalyavitski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Smilavichy",
                     "s_city_slug": "smilavichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Snow",
                     "s_city_slug": "snow"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Stankava",
                     "s_city_slug": "stankava"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Staradarozhski Rayon",
                     "s_city_slug": "staradarozhski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Starobin",
                     "s_city_slug": "starobin"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Staryya Darohi",
                     "s_city_slug": "staryya-darohi"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Stawbtsowski Rayon",
                     "s_city_slug": "stawbtsowski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Stowbtsy",
                     "s_city_slug": "stowbtsy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Svir",
                     "s_city_slug": "svir"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Svislach",
                     "s_city_slug": "svislach"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Syenitsa",
                     "s_city_slug": "syenitsa"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Syomkava",
                     "s_city_slug": "syomkava"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Tsimkavichy",
                     "s_city_slug": "tsimkavichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Turets-Bayary",
                     "s_city_slug": "turets-bayary"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Urechcha",
                     "s_city_slug": "urechcha"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Usiazh",
                     "s_city_slug": "usiazh"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Uzda",
                     "s_city_slug": "uzda"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Uzdzyenski Rayon",
                     "s_city_slug": "uzdzyenski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Valozhyn",
                     "s_city_slug": "valozhyn"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Vilyeyka",
                     "s_city_slug": "vilyeyka"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Vilyeyski Rayon",
                     "s_city_slug": "vilyeyski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Vyaliki Trastsyanets",
                     "s_city_slug": "vyaliki-trastsyanets"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Yubilyeyny",
                     "s_city_slug": "yubilyeyny"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Zamostochye",
                     "s_city_slug": "zamostochye"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Zaslawye",
                     "s_city_slug": "zaslawye"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Zhdanovichy",
                     "s_city_slug": "zhdanovichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Zyembin",
                     "s_city_slug": "zyembin"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "minsk-region",
                     "s_city_name": "Oktyabrsky",
                     "s_city_slug": "oktyabrsky"
@@ -1443,288 +1443,288 @@
             ]
         },
         {
-            "s_country_code": "BY",
+            "s_country_code": "by",
             "s_region_name": "Mogilev Region",
             "s_region_slug": "mogilev-region",
             "cities": [
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Asipovichy",
                     "s_city_slug": "asipovichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Asipovitski Rayon",
                     "s_city_slug": "asipovitski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Babruysk",
                     "s_city_slug": "babruysk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Babruyski Rayon",
                     "s_city_slug": "babruyski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Buynichy",
                     "s_city_slug": "buynichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Byalynichy",
                     "s_city_slug": "byalynichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Byalynitski Rayon",
                     "s_city_slug": "byalynitski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Bykhaw",
                     "s_city_slug": "bykhaw"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Chavuski Rayon",
                     "s_city_slug": "chavuski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Chavusy",
                     "s_city_slug": "chavusy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Cherykaw",
                     "s_city_slug": "cherykaw"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Cherykawski Rayon",
                     "s_city_slug": "cherykawski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Dashkawka",
                     "s_city_slug": "dashkawka"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Drybin",
                     "s_city_slug": "drybin"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Drybinski Rayon",
                     "s_city_slug": "drybinski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Hlusha",
                     "s_city_slug": "hlusha"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Hlusk",
                     "s_city_slug": "hlusk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Horatski Rayon",
                     "s_city_slug": "horatski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Horki",
                     "s_city_slug": "horki"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Kadino",
                     "s_city_slug": "kadino"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Kamyennyya Lavy",
                     "s_city_slug": "kamyennyya-lavy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Kastsyukovichy",
                     "s_city_slug": "kastsyukovichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Khodasy",
                     "s_city_slug": "khodasy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Khotsimsk",
                     "s_city_slug": "khotsimsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Khotsimski Rayon",
                     "s_city_slug": "khotsimski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Kirawsk",
                     "s_city_slug": "kirawsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Klichaw",
                     "s_city_slug": "klichaw"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Klimavichy",
                     "s_city_slug": "klimavichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Krasnapolski Rayon",
                     "s_city_slug": "krasnapolski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Krasnapollye",
                     "s_city_slug": "krasnapollye"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Krasnyy Bereg",
                     "s_city_slug": "krasnyy-bereg"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Kruhlaye",
                     "s_city_slug": "kruhlaye"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Krychaw",
                     "s_city_slug": "krychaw"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Mahilyow",
                     "s_city_slug": "mahilyow"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Mahilyowski Rayon",
                     "s_city_slug": "mahilyowski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Mstsislaw",
                     "s_city_slug": "mstsislaw"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Myazhysyatki",
                     "s_city_slug": "myazhysyatki"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Myshkavichy",
                     "s_city_slug": "myshkavichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Palykavichy Pyershyya",
                     "s_city_slug": "palykavichy-pyershyya"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Poselok Voskhod",
                     "s_city_slug": "poselok-voskhod"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Ramanavichy",
                     "s_city_slug": "ramanavichy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Shklow",
                     "s_city_slug": "shklow"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Shklowski Rayon",
                     "s_city_slug": "shklowski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Slawharad",
                     "s_city_slug": "slawharad"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Veyno",
                     "s_city_slug": "veyno"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Vishow",
                     "s_city_slug": "vishow"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "mogilev-region",
                     "s_city_name": "Yalizava",
                     "s_city_slug": "yalizava"
@@ -1732,294 +1732,294 @@
             ]
         },
         {
-            "s_country_code": "BY",
+            "s_country_code": "by",
             "s_region_name": "Vitebsk Region",
             "s_region_slug": "vitebsk-region",
             "cities": [
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Balbasava",
                     "s_city_slug": "balbasava"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Baran",
                     "s_city_slug": "baran"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Braslaw",
                     "s_city_slug": "braslaw"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Braslawski Rayon",
                     "s_city_slug": "braslawski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Byahoml",
                     "s_city_slug": "byahoml"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Byeshankovitski Rayon",
                     "s_city_slug": "byeshankovitski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Chashniki",
                     "s_city_slug": "chashniki"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Chashnitski Rayon",
                     "s_city_slug": "chashnitski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Dokshytski Rayon",
                     "s_city_slug": "dokshytski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Dokshytsy",
                     "s_city_slug": "dokshytsy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Druya",
                     "s_city_slug": "druya"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Dubrowna",
                     "s_city_slug": "dubrowna"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Dzisna",
                     "s_city_slug": "dzisna"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Haradok",
                     "s_city_slug": "haradok"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Haradotski Rayon",
                     "s_city_slug": "haradotski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Hlybokaye",
                     "s_city_slug": "hlybokaye"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Hlybotski Rayon",
                     "s_city_slug": "hlybotski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Kokhanava",
                     "s_city_slug": "kokhanava"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Konstantinovo",
                     "s_city_slug": "konstantinovo"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Lyepyel",
                     "s_city_slug": "lyepyel"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Lyepyelski Rayon",
                     "s_city_slug": "lyepyelski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Lyntupy",
                     "s_city_slug": "lyntupy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Lyozna",
                     "s_city_slug": "lyozna"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Lyoznyenski Rayon",
                     "s_city_slug": "lyoznyenski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Mosar",
                     "s_city_slug": "mosar"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Myorski Rayon",
                     "s_city_slug": "myorski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Myory",
                     "s_city_slug": "myory"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Navapolatsk",
                     "s_city_slug": "navapolatsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Novolukoml",
                     "s_city_slug": "novolukoml"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Orsha",
                     "s_city_slug": "orsha"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Osveya",
                     "s_city_slug": "osveya"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Pastavy",
                     "s_city_slug": "pastavy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Pastawski Rayon",
                     "s_city_slug": "pastawski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Polatsk",
                     "s_city_slug": "polatsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Polatski Rayon",
                     "s_city_slug": "polatski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Rasonski Rayon",
                     "s_city_slug": "rasonski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Rasony",
                     "s_city_slug": "rasony"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Sharkawshchyna",
                     "s_city_slug": "sharkawshchyna"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Sharkawshchynski Rayon",
                     "s_city_slug": "sharkawshchynski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Shumilinski Rayon",
                     "s_city_slug": "shumilinski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Syanno",
                     "s_city_slug": "syanno"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Syennyenski Rayon",
                     "s_city_slug": "syennyenski-rayon"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Talachyn",
                     "s_city_slug": "talachyn"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Ushachy",
                     "s_city_slug": "ushachy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Vidzy",
                     "s_city_slug": "vidzy"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Vitebsk",
                     "s_city_slug": "vitebsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Vyerkhnyadzvinsk",
                     "s_city_slug": "vyerkhnyadzvinsk"
                 },
                 {
-                    "s_country_code": "BY",
+                    "s_country_code": "by",
                     "s_region_slug": "vitebsk-region",
                     "s_city_name": "Vyerkhnyadzvinski Rayon",
                     "s_city_slug": "vyerkhnyadzvinski-rayon"

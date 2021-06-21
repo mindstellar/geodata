@@ -4,12 +4,12 @@
     "s_country_slug": "bosnia-and-herzegovina",
     "regions": [
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "Bosnian Podrinje Canton",
             "s_region_slug": "bosnian-podrinje-canton",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "bosnian-podrinje-canton",
                     "s_city_name": "Bosnian Podrinje Canton",
                     "s_city_slug": "bosnian-podrinje-canton"
@@ -17,18 +17,18 @@
             ]
         },
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "Brcko District",
             "s_region_slug": "brcko-district",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "brcko-district",
                     "s_city_name": "Brcko",
                     "s_city_slug": "brcko"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "brcko-district",
                     "s_city_name": "Brka",
                     "s_city_slug": "brka"
@@ -36,12 +36,12 @@
             ]
         },
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "Canton 10",
             "s_region_slug": "canton-10",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "canton-10",
                     "s_city_name": "Canton 10",
                     "s_city_slug": "canton-10"
@@ -49,12 +49,12 @@
             ]
         },
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "Central Bosnia Canton",
             "s_region_slug": "central-bosnia-canton",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "central-bosnia-canton",
                     "s_city_name": "Central Bosnia Canton",
                     "s_city_slug": "central-bosnia-canton"
@@ -62,936 +62,936 @@
             ]
         },
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "Federation of Bosnia and Herzegovina",
             "s_region_slug": "federation-of-bosnia-and-herzegovina",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Banovici",
                     "s_city_slug": "banovici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Barice",
                     "s_city_slug": "barice"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Bihac",
                     "s_city_slug": "bihac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Bijela",
                     "s_city_slug": "bijela"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Bila",
                     "s_city_slug": "bila"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Blagaj",
                     "s_city_slug": "blagaj"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Bosanska Krupa",
                     "s_city_slug": "bosanska-krupa"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Bosanski Petrovac",
                     "s_city_slug": "bosanski-petrovac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Bosansko Grahovo",
                     "s_city_slug": "bosansko-grahovo"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Breza",
                     "s_city_slug": "breza"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Bugojno",
                     "s_city_slug": "bugojno"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Busovaca",
                     "s_city_slug": "busovaca"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Buzim",
                     "s_city_slug": "buzim"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Capljina",
                     "s_city_slug": "capljina"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Cazin",
                     "s_city_slug": "cazin"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Celic",
                     "s_city_slug": "celic"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Cim",
                     "s_city_slug": "cim"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Citluk",
                     "s_city_slug": "citluk"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Coralici",
                     "s_city_slug": "coralici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Crnici",
                     "s_city_slug": "crnici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Divicani",
                     "s_city_slug": "divicani"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Dobrinje",
                     "s_city_slug": "dobrinje"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Domaljevac",
                     "s_city_slug": "domaljevac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Donja Dubica",
                     "s_city_slug": "donja-dubica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Donja Mahala",
                     "s_city_slug": "donja-mahala"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Donja Meia",
                     "s_city_slug": "donja-meia"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Donji Vakuf",
                     "s_city_slug": "donji-vakuf"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Dreznica",
                     "s_city_slug": "dreznica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Drinovci",
                     "s_city_slug": "drinovci"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Drvar",
                     "s_city_slug": "drvar"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Dubrave Donje",
                     "s_city_slug": "dubrave-donje"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Dubrave Gornje",
                     "s_city_slug": "dubrave-gornje"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Dubravica",
                     "s_city_slug": "dubravica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Fojnica",
                     "s_city_slug": "fojnica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Glamoc",
                     "s_city_slug": "glamoc"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gnojnica",
                     "s_city_slug": "gnojnica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gorazde",
                     "s_city_slug": "gorazde"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gorica",
                     "s_city_slug": "gorica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gornja Breza",
                     "s_city_slug": "gornja-breza"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gornja Koprivna",
                     "s_city_slug": "gornja-koprivna"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gornja Tuzla",
                     "s_city_slug": "gornja-tuzla"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gornje Mostre",
                     "s_city_slug": "gornje-mostre"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gornje Zivinice",
                     "s_city_slug": "gornje-zivinice"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gornji Vakuf",
                     "s_city_slug": "gornji-vakuf"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gostovici",
                     "s_city_slug": "gostovici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gracanica",
                     "s_city_slug": "gracanica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gradacac",
                     "s_city_slug": "gradacac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Gromiljak",
                     "s_city_slug": "gromiljak"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Grude",
                     "s_city_slug": "grude"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Hadzici",
                     "s_city_slug": "hadzici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Hercegovacko-Neretvanski Kanton",
                     "s_city_slug": "hercegovacko-neretvanski-kanton"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Hotonj",
                     "s_city_slug": "hotonj"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Ilici",
                     "s_city_slug": "ilici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Ilijas",
                     "s_city_slug": "ilijas"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Izacic",
                     "s_city_slug": "izacic"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Jablanica",
                     "s_city_slug": "jablanica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Jajce",
                     "s_city_slug": "jajce"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Jelah",
                     "s_city_slug": "jelah"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Jezerski",
                     "s_city_slug": "jezerski"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Kacuni",
                     "s_city_slug": "kacuni"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Kakanj",
                     "s_city_slug": "kakanj"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Kanton Sarajevo",
                     "s_city_slug": "kanton-sarajevo"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Karadaglije",
                     "s_city_slug": "karadaglije"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Kiseljak",
                     "s_city_slug": "kiseljak"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Kladanj",
                     "s_city_slug": "kladanj"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Kljuc",
                     "s_city_slug": "kljuc"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Kobilja Glava",
                     "s_city_slug": "kobilja-glava"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Kocerin",
                     "s_city_slug": "kocerin"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Konjic",
                     "s_city_slug": "konjic"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Kovaci",
                     "s_city_slug": "kovaci"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Lijesnica",
                     "s_city_slug": "lijesnica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Livno",
                     "s_city_slug": "livno"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Ljubuski",
                     "s_city_slug": "ljubuski"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Lokvine",
                     "s_city_slug": "lokvine"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Lukavac",
                     "s_city_slug": "lukavac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Lukavica",
                     "s_city_slug": "lukavica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Maglaj",
                     "s_city_slug": "maglaj"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Mahala",
                     "s_city_slug": "mahala"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Mala Kladusa",
                     "s_city_slug": "mala-kladusa"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Malesici",
                     "s_city_slug": "malesici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Mionica",
                     "s_city_slug": "mionica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Mostar",
                     "s_city_slug": "mostar"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Mramor",
                     "s_city_slug": "mramor"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Neum",
                     "s_city_slug": "neum"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Novi Seher",
                     "s_city_slug": "novi-seher"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Novi Travnik",
                     "s_city_slug": "novi-travnik"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Odzak",
                     "s_city_slug": "odzak"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Olovo",
                     "s_city_slug": "olovo"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Omanjska",
                     "s_city_slug": "omanjska"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Orahovica Donja",
                     "s_city_slug": "orahovica-donja"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Orasac",
                     "s_city_slug": "orasac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Orasje",
                     "s_city_slug": "orasje"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Orguz",
                     "s_city_slug": "orguz"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Ostrozac",
                     "s_city_slug": "ostrozac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Otoka",
                     "s_city_slug": "otoka"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Pajic Polje",
                     "s_city_slug": "pajic-polje"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Pazaric",
                     "s_city_slug": "pazaric"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Peci",
                     "s_city_slug": "peci"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Pecigrad",
                     "s_city_slug": "pecigrad"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Pjanici",
                     "s_city_slug": "pjanici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Podhum",
                     "s_city_slug": "podhum"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Podzvizd",
                     "s_city_slug": "podzvizd"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Polje",
                     "s_city_slug": "polje"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Polje-Bijela",
                     "s_city_slug": "polje-bijela"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Potoci",
                     "s_city_slug": "potoci"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Prozor",
                     "s_city_slug": "prozor"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Puracic",
                     "s_city_slug": "puracic"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Radisici",
                     "s_city_slug": "radisici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Rodoc",
                     "s_city_slug": "rodoc"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Rumboci",
                     "s_city_slug": "rumboci"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Sanica",
                     "s_city_slug": "sanica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Sanski Most",
                     "s_city_slug": "sanski-most"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Sapna",
                     "s_city_slug": "sapna"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Sarajevo",
                     "s_city_slug": "sarajevo"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Serici",
                     "s_city_slug": "serici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Siroki Brijeg",
                     "s_city_slug": "siroki-brijeg"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Skokovi",
                     "s_city_slug": "skokovi"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Sladna",
                     "s_city_slug": "sladna"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Solina",
                     "s_city_slug": "solina"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Srebrenik",
                     "s_city_slug": "srebrenik"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Stijena",
                     "s_city_slug": "stijena"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Stjepan-Polje",
                     "s_city_slug": "stjepan-polje"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Stolac",
                     "s_city_slug": "stolac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Sturlic",
                     "s_city_slug": "sturlic"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Sumatac",
                     "s_city_slug": "sumatac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Tasovcici",
                     "s_city_slug": "tasovcici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Tesanj",
                     "s_city_slug": "tesanj"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Tesanjka",
                     "s_city_slug": "tesanjka"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Todorovo",
                     "s_city_slug": "todorovo"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Tojsici",
                     "s_city_slug": "tojsici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Tomislavgrad",
                     "s_city_slug": "tomislavgrad"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Travnik",
                     "s_city_slug": "travnik"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Trzacka Rastela",
                     "s_city_slug": "trzacka-rastela"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Turbe",
                     "s_city_slug": "turbe"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Tuzla",
                     "s_city_slug": "tuzla"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Ustikolina",
                     "s_city_slug": "ustikolina"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Vares",
                     "s_city_slug": "vares"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Varoska Rijeka",
                     "s_city_slug": "varoska-rijeka"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Velagici",
                     "s_city_slug": "velagici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Velika Kladusa",
                     "s_city_slug": "velika-kladusa"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Vidosi",
                     "s_city_slug": "vidosi"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Visoko",
                     "s_city_slug": "visoko"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Vitez",
                     "s_city_slug": "vitez"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Vitina",
                     "s_city_slug": "vitina"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Vogosca",
                     "s_city_slug": "vogosca"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Voljevac",
                     "s_city_slug": "voljevac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Vrnograc",
                     "s_city_slug": "vrnograc"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Vukovije Donje",
                     "s_city_slug": "vukovije-donje"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Zabrisce",
                     "s_city_slug": "zabrisce"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Zavidovici",
                     "s_city_slug": "zavidovici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Zboriste",
                     "s_city_slug": "zboriste"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Zeljezno Polje",
                     "s_city_slug": "zeljezno-polje"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Zenica",
                     "s_city_slug": "zenica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Zepce",
                     "s_city_slug": "zepce"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "federation-of-bosnia-and-herzegovina",
                     "s_city_name": "Zivinice",
                     "s_city_slug": "zivinice"
@@ -999,12 +999,12 @@
             ]
         },
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "Herzegovina-Neretva Canton",
             "s_region_slug": "herzegovina-neretva-canton",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "herzegovina-neretva-canton",
                     "s_city_name": "Herzegovina-Neretva Canton",
                     "s_city_slug": "herzegovina-neretva-canton"
@@ -1012,12 +1012,12 @@
             ]
         },
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "Posavina Canton",
             "s_region_slug": "posavina-canton",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "posavina-canton",
                     "s_city_name": "Posavina Canton",
                     "s_city_slug": "posavina-canton"
@@ -1025,456 +1025,456 @@
             ]
         },
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "Republika Srpska",
             "s_region_slug": "republika-srpska",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Balatun",
                     "s_city_slug": "balatun"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Banja Luka",
                     "s_city_slug": "banja-luka"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Bijeljina",
                     "s_city_slug": "bijeljina"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Bileca",
                     "s_city_slug": "bileca"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Blatnica",
                     "s_city_slug": "blatnica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Brod",
                     "s_city_slug": "brod"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Bronzani Majdan",
                     "s_city_slug": "bronzani-majdan"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Cajnice",
                     "s_city_slug": "cajnice"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Cecava",
                     "s_city_slug": "cecava"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Celinac",
                     "s_city_slug": "celinac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Derventa",
                     "s_city_slug": "derventa"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Doboj",
                     "s_city_slug": "doboj"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Dobrljin",
                     "s_city_slug": "dobrljin"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Dvorovi",
                     "s_city_slug": "dvorovi"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Foca",
                     "s_city_slug": "foca"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Gacko",
                     "s_city_slug": "gacko"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Gradiska",
                     "s_city_slug": "gradiska"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Hiseti",
                     "s_city_slug": "hiseti"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Istocni Mostar",
                     "s_city_slug": "istocni-mostar"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Janja",
                     "s_city_slug": "janja"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Kalenderovci Donji",
                     "s_city_slug": "kalenderovci-donji"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Knezevo",
                     "s_city_slug": "knezevo"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Knezica",
                     "s_city_slug": "knezica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Koran",
                     "s_city_slug": "koran"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Kostajnica",
                     "s_city_slug": "kostajnica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Kotor Varos",
                     "s_city_slug": "kotor-varos"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Kozarska Dubica",
                     "s_city_slug": "kozarska-dubica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Krupa na Vrbasu",
                     "s_city_slug": "krupa-na-vrbasu"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Laktasi",
                     "s_city_slug": "laktasi"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Lamovita",
                     "s_city_slug": "lamovita"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Ljubinje",
                     "s_city_slug": "ljubinje"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Lopare",
                     "s_city_slug": "lopare"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Maglajani",
                     "s_city_slug": "maglajani"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Maricka",
                     "s_city_slug": "maricka"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Maslovare",
                     "s_city_slug": "maslovare"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Mejdan - Obilicevo",
                     "s_city_slug": "mejdan-obilicevo"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Milici",
                     "s_city_slug": "milici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Modrica",
                     "s_city_slug": "modrica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Mrkonjic Grad",
                     "s_city_slug": "mrkonjic-grad"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Nevesinje",
                     "s_city_slug": "nevesinje"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Novi Grad",
                     "s_city_slug": "novi-grad"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Obudovac",
                     "s_city_slug": "obudovac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Omarska",
                     "s_city_slug": "omarska"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Opstina Ostra Luka",
                     "s_city_slug": "opstina-ostra-luka"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Opstina Visegrad",
                     "s_city_slug": "opstina-visegrad"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Ostra Luka",
                     "s_city_slug": "ostra-luka"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Pale",
                     "s_city_slug": "pale"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Pelagicevo",
                     "s_city_slug": "pelagicevo"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Petkovci",
                     "s_city_slug": "petkovci"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Piskavica",
                     "s_city_slug": "piskavica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Podbrdo",
                     "s_city_slug": "podbrdo"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Popovi",
                     "s_city_slug": "popovi"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Pribinic",
                     "s_city_slug": "pribinic"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Priboj",
                     "s_city_slug": "priboj"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Prijedor",
                     "s_city_slug": "prijedor"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Rogatica",
                     "s_city_slug": "rogatica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Rudo",
                     "s_city_slug": "rudo"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Samac",
                     "s_city_slug": "samac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Sekovici",
                     "s_city_slug": "sekovici"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Sipovo",
                     "s_city_slug": "sipovo"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Sokolac",
                     "s_city_slug": "sokolac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Srbac",
                     "s_city_slug": "srbac"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Srebrenica",
                     "s_city_slug": "srebrenica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Stanari",
                     "s_city_slug": "stanari"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Starcevica",
                     "s_city_slug": "starcevica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Svodna",
                     "s_city_slug": "svodna"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Teslic",
                     "s_city_slug": "teslic"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Trebinje",
                     "s_city_slug": "trebinje"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Trn",
                     "s_city_slug": "trn"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Ugljevik",
                     "s_city_slug": "ugljevik"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Velika Obarska",
                     "s_city_slug": "velika-obarska"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Visegrad",
                     "s_city_slug": "visegrad"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Vlasenica",
                     "s_city_slug": "vlasenica"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Zivinice",
                     "s_city_slug": "zivinice"
                 },
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "republika-srpska",
                     "s_city_name": "Zvornik",
                     "s_city_slug": "zvornik"
@@ -1482,12 +1482,12 @@
             ]
         },
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "Sarajevo Canton",
             "s_region_slug": "sarajevo-canton",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "sarajevo-canton",
                     "s_city_name": "Sarajevo Canton",
                     "s_city_slug": "sarajevo-canton"
@@ -1495,12 +1495,12 @@
             ]
         },
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "Tuzla Canton",
             "s_region_slug": "tuzla-canton",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "tuzla-canton",
                     "s_city_name": "Tuzla Canton",
                     "s_city_slug": "tuzla-canton"
@@ -1508,12 +1508,12 @@
             ]
         },
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "Una-Sana Canton",
             "s_region_slug": "una-sana-canton",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "una-sana-canton",
                     "s_city_name": "Una-Sana Canton",
                     "s_city_slug": "una-sana-canton"
@@ -1521,12 +1521,12 @@
             ]
         },
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "West Herzegovina Canton",
             "s_region_slug": "west-herzegovina-canton",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "west-herzegovina-canton",
                     "s_city_name": "West Herzegovina Canton",
                     "s_city_slug": "west-herzegovina-canton"
@@ -1534,12 +1534,12 @@
             ]
         },
         {
-            "s_country_code": "BA",
+            "s_country_code": "ba",
             "s_region_name": "Zenica-Doboj Canton",
             "s_region_slug": "zenica-doboj-canton",
             "cities": [
                 {
-                    "s_country_code": "BA",
+                    "s_country_code": "ba",
                     "s_region_slug": "zenica-doboj-canton",
                     "s_city_name": "Zenica-Doboj Canton",
                     "s_city_slug": "zenica-doboj-canton"

@@ -4,108 +4,108 @@
     "s_country_slug": "cuba",
     "regions": [
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Artemisa Province",
             "s_region_slug": "artemisa-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Alquizar",
                     "s_city_slug": "alquizar"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Artemisa",
                     "s_city_slug": "artemisa"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Bahia Honda",
                     "s_city_slug": "bahia-honda"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Bauta",
                     "s_city_slug": "bauta"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Cabanas",
                     "s_city_slug": "cabanas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Candelaria",
                     "s_city_slug": "candelaria"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Guanajay",
                     "s_city_slug": "guanajay"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Guira de Melena",
                     "s_city_slug": "guira-de-melena"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Mariel",
                     "s_city_slug": "mariel"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Municipio de Artemisa",
                     "s_city_slug": "municipio-de-artemisa"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Municipio de Bauta",
                     "s_city_slug": "municipio-de-bauta"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Municipio de Guanajay",
                     "s_city_slug": "municipio-de-guanajay"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Municipio de Mariel",
                     "s_city_slug": "municipio-de-mariel"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Municipio de San Cristobal",
                     "s_city_slug": "municipio-de-san-cristobal"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "San Antonio de los Banos",
                     "s_city_slug": "san-antonio-de-los-banos"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "San Cristobal",
                     "s_city_slug": "san-cristobal"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "artemisa-province",
                     "s_city_name": "Soroa",
                     "s_city_slug": "soroa"
@@ -113,84 +113,84 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Camaguey Province",
             "s_region_slug": "camaguey-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "Camaguey",
                     "s_city_slug": "camaguey"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "El Caney",
                     "s_city_slug": "el-caney"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "Esmeralda",
                     "s_city_slug": "esmeralda"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "Florida",
                     "s_city_slug": "florida"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "Guaimaro",
                     "s_city_slug": "guaimaro"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "Jimaguayu",
                     "s_city_slug": "jimaguayu"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "Minas",
                     "s_city_slug": "minas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "Municipio de Florida",
                     "s_city_slug": "municipio-de-florida"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "Municipio de Nuevitas",
                     "s_city_slug": "municipio-de-nuevitas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "Nuevitas",
                     "s_city_slug": "nuevitas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "Santa Cruz del Sur",
                     "s_city_slug": "santa-cruz-del-sur"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "Sibanicu",
                     "s_city_slug": "sibanicu"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "camaguey-province",
                     "s_city_name": "Vertientes",
                     "s_city_slug": "vertientes"
@@ -198,66 +198,66 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Ciego de Avila Province",
             "s_region_slug": "ciego-de-avila-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "ciego-de-avila-province",
                     "s_city_name": "Baragua",
                     "s_city_slug": "baragua"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "ciego-de-avila-province",
                     "s_city_name": "Chambas",
                     "s_city_slug": "chambas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "ciego-de-avila-province",
                     "s_city_name": "Ciego de Avila",
                     "s_city_slug": "ciego-de-avila"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "ciego-de-avila-province",
                     "s_city_name": "Ciro Redondo",
                     "s_city_slug": "ciro-redondo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "ciego-de-avila-province",
                     "s_city_name": "Florencia",
                     "s_city_slug": "florencia"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "ciego-de-avila-province",
                     "s_city_name": "Moron",
                     "s_city_slug": "moron"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "ciego-de-avila-province",
                     "s_city_name": "Municipio de Ciego de Avila",
                     "s_city_slug": "municipio-de-ciego-de-avila"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "ciego-de-avila-province",
                     "s_city_name": "Municipio de Moron",
                     "s_city_slug": "municipio-de-moron"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "ciego-de-avila-province",
                     "s_city_name": "Primero de Enero",
                     "s_city_slug": "primero-de-enero"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "ciego-de-avila-province",
                     "s_city_name": "Venezuela",
                     "s_city_slug": "venezuela"
@@ -265,66 +265,66 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Cienfuegos Province",
             "s_region_slug": "cienfuegos-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "cienfuegos-province",
                     "s_city_name": "Abreus",
                     "s_city_slug": "abreus"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "cienfuegos-province",
                     "s_city_name": "Aguada de Pasajeros",
                     "s_city_slug": "aguada-de-pasajeros"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "cienfuegos-province",
                     "s_city_name": "Cienfuegos",
                     "s_city_slug": "cienfuegos"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "cienfuegos-province",
                     "s_city_name": "Cruces",
                     "s_city_slug": "cruces"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "cienfuegos-province",
                     "s_city_name": "Cumanayagua",
                     "s_city_slug": "cumanayagua"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "cienfuegos-province",
                     "s_city_name": "Lajas",
                     "s_city_slug": "lajas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "cienfuegos-province",
                     "s_city_name": "Municipio de Abreus",
                     "s_city_slug": "municipio-de-abreus"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "cienfuegos-province",
                     "s_city_name": "Municipio de Cienfuegos",
                     "s_city_slug": "municipio-de-cienfuegos"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "cienfuegos-province",
                     "s_city_name": "Palmira",
                     "s_city_slug": "palmira"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "cienfuegos-province",
                     "s_city_name": "Rodas",
                     "s_city_slug": "rodas"
@@ -332,90 +332,90 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Granma Province",
             "s_region_slug": "granma-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Bartolome Maso",
                     "s_city_slug": "bartolome-maso"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Bayamo",
                     "s_city_slug": "bayamo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Campechuela",
                     "s_city_slug": "campechuela"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Cauto Cristo",
                     "s_city_slug": "cauto-cristo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Guisa",
                     "s_city_slug": "guisa"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Jiguani",
                     "s_city_slug": "jiguani"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Manzanillo",
                     "s_city_slug": "manzanillo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Media Luna",
                     "s_city_slug": "media-luna"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Municipio de Bayamo",
                     "s_city_slug": "municipio-de-bayamo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Municipio de Manzanillo",
                     "s_city_slug": "municipio-de-manzanillo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Municipio de Niquero",
                     "s_city_slug": "municipio-de-niquero"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Niquero",
                     "s_city_slug": "niquero"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Rio Cauto",
                     "s_city_slug": "rio-cauto"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "granma-province",
                     "s_city_name": "Yara",
                     "s_city_slug": "yara"
@@ -423,42 +423,42 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Guantanamo Province",
             "s_region_slug": "guantanamo-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "guantanamo-province",
                     "s_city_name": "Baracoa",
                     "s_city_slug": "baracoa"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "guantanamo-province",
                     "s_city_name": "Guantanamo",
                     "s_city_slug": "guantanamo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "guantanamo-province",
                     "s_city_name": "Maisi",
                     "s_city_slug": "maisi"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "guantanamo-province",
                     "s_city_name": "Municipio de Guantanamo",
                     "s_city_slug": "municipio-de-guantanamo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "guantanamo-province",
                     "s_city_name": "Rio Guayabal de Yateras",
                     "s_city_slug": "rio-guayabal-de-yateras"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "guantanamo-province",
                     "s_city_name": "San Antonio del Sur",
                     "s_city_slug": "san-antonio-del-sur"
@@ -466,84 +466,84 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Havana Province",
             "s_region_slug": "havana-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "Alamar",
                     "s_city_slug": "alamar"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "Arroyo Naranjo",
                     "s_city_slug": "arroyo-naranjo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "Boyeros",
                     "s_city_slug": "boyeros"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "Centro Habana",
                     "s_city_slug": "centro-habana"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "Cerro",
                     "s_city_slug": "cerro"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "Diez de Octubre",
                     "s_city_slug": "diez-de-octubre"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "Guanabacoa",
                     "s_city_slug": "guanabacoa"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "Habana del Este",
                     "s_city_slug": "habana-del-este"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "Havana",
                     "s_city_slug": "havana"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "La Habana Vieja",
                     "s_city_slug": "la-habana-vieja"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "Regla",
                     "s_city_slug": "regla"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "San Miguel del Padron",
                     "s_city_slug": "san-miguel-del-padron"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "havana-province",
                     "s_city_name": "Santiago de las Vegas",
                     "s_city_slug": "santiago-de-las-vegas"
@@ -551,72 +551,72 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Holguin Province",
             "s_region_slug": "holguin-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "holguin-province",
                     "s_city_name": "Banes",
                     "s_city_slug": "banes"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "holguin-province",
                     "s_city_name": "Cacocum",
                     "s_city_slug": "cacocum"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "holguin-province",
                     "s_city_name": "Cueto",
                     "s_city_slug": "cueto"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "holguin-province",
                     "s_city_name": "Gibara",
                     "s_city_slug": "gibara"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "holguin-province",
                     "s_city_name": "Holguin",
                     "s_city_slug": "holguin"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "holguin-province",
                     "s_city_name": "Jobabo",
                     "s_city_slug": "jobabo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "holguin-province",
                     "s_city_name": "Moa",
                     "s_city_slug": "moa"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "holguin-province",
                     "s_city_name": "Municipio de Banes",
                     "s_city_slug": "municipio-de-banes"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "holguin-province",
                     "s_city_name": "Municipio de Holguin",
                     "s_city_slug": "municipio-de-holguin"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "holguin-province",
                     "s_city_name": "Sagua de Tanamo",
                     "s_city_slug": "sagua-de-tanamo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "holguin-province",
                     "s_city_name": "San German",
                     "s_city_slug": "san-german"
@@ -624,12 +624,12 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Isla de la Juventud",
             "s_region_slug": "isla-de-la-juventud",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "isla-de-la-juventud",
                     "s_city_name": "Nueva Gerona",
                     "s_city_slug": "nueva-gerona"
@@ -637,48 +637,48 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Las Tunas Province",
             "s_region_slug": "las-tunas-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "las-tunas-province",
                     "s_city_name": "Amancio",
                     "s_city_slug": "amancio"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "las-tunas-province",
                     "s_city_name": "Colombia",
                     "s_city_slug": "colombia"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "las-tunas-province",
                     "s_city_name": "Jesus Menendez",
                     "s_city_slug": "jesus-menendez"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "las-tunas-province",
                     "s_city_name": "Jobabo",
                     "s_city_slug": "jobabo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "las-tunas-province",
                     "s_city_name": "Las Tunas",
                     "s_city_slug": "las-tunas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "las-tunas-province",
                     "s_city_name": "Manati",
                     "s_city_slug": "manati"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "las-tunas-province",
                     "s_city_name": "Puerto Padre",
                     "s_city_slug": "puerto-padre"
@@ -686,114 +686,114 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Matanzas Province",
             "s_region_slug": "matanzas-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Alacranes",
                     "s_city_slug": "alacranes"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Bolondron",
                     "s_city_slug": "bolondron"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Calimete",
                     "s_city_slug": "calimete"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Cardenas",
                     "s_city_slug": "cardenas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Colon",
                     "s_city_slug": "colon"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Jaguey Grande",
                     "s_city_slug": "jaguey-grande"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Jovellanos",
                     "s_city_slug": "jovellanos"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Limonar",
                     "s_city_slug": "limonar"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Los Arabos",
                     "s_city_slug": "los-arabos"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Manguito",
                     "s_city_slug": "manguito"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Marti",
                     "s_city_slug": "marti"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Matanzas",
                     "s_city_slug": "matanzas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Municipio de Cardenas",
                     "s_city_slug": "municipio-de-cardenas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Municipio de Matanzas",
                     "s_city_slug": "municipio-de-matanzas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Pedro Betancourt",
                     "s_city_slug": "pedro-betancourt"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Perico",
                     "s_city_slug": "perico"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Union de Reyes",
                     "s_city_slug": "union-de-reyes"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "matanzas-province",
                     "s_city_name": "Varadero",
                     "s_city_slug": "varadero"
@@ -801,84 +801,84 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Mayabeque Province",
             "s_region_slug": "mayabeque-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "Batabano",
                     "s_city_slug": "batabano"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "Bejucal",
                     "s_city_slug": "bejucal"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "Guines",
                     "s_city_slug": "guines"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "Jamaica",
                     "s_city_slug": "jamaica"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "Jaruco",
                     "s_city_slug": "jaruco"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "La Salud",
                     "s_city_slug": "la-salud"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "Madruga",
                     "s_city_slug": "madruga"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "Municipio de Guines",
                     "s_city_slug": "municipio-de-guines"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "Municipio de Melena del Sur",
                     "s_city_slug": "municipio-de-melena-del-sur"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "Quivican",
                     "s_city_slug": "quivican"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "San Jose de las Lajas",
                     "s_city_slug": "san-jose-de-las-lajas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "San Nicolas de Bari",
                     "s_city_slug": "san-nicolas-de-bari"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "mayabeque-province",
                     "s_city_name": "Santa Cruz del Norte",
                     "s_city_slug": "santa-cruz-del-norte"
@@ -886,90 +886,90 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Pinar del Rio Province",
             "s_region_slug": "pinar-del-rio-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "Consolacion del Sur",
                     "s_city_slug": "consolacion-del-sur"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "Guane",
                     "s_city_slug": "guane"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "Los Palacios",
                     "s_city_slug": "los-palacios"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "Mantua",
                     "s_city_slug": "mantua"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "Minas de Matahambre",
                     "s_city_slug": "minas-de-matahambre"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "Municipio de Consolacion del Sur",
                     "s_city_slug": "municipio-de-consolacion-del-sur"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "Municipio de Guane",
                     "s_city_slug": "municipio-de-guane"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "Municipio de La Palma",
                     "s_city_slug": "municipio-de-la-palma"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "Municipio de Los Palacios",
                     "s_city_slug": "municipio-de-los-palacios"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "Pinar del Rio",
                     "s_city_slug": "pinar-del-rio"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "Puerto Esperanza",
                     "s_city_slug": "puerto-esperanza"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "San Diego de Los Banos",
                     "s_city_slug": "san-diego-de-los-banos"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "San Luis",
                     "s_city_slug": "san-luis"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "pinar-del-rio-province",
                     "s_city_name": "Vinales",
                     "s_city_slug": "vinales"
@@ -977,96 +977,96 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Sancti Spiritus Province",
             "s_region_slug": "sancti-spiritus-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Cabaiguan",
                     "s_city_slug": "cabaiguan"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Condado",
                     "s_city_slug": "condado"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Fomento",
                     "s_city_slug": "fomento"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Guayos",
                     "s_city_slug": "guayos"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Jatibonico",
                     "s_city_slug": "jatibonico"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "La Sierpe",
                     "s_city_slug": "la-sierpe"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Municipio de Cabaiguan",
                     "s_city_slug": "municipio-de-cabaiguan"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Municipio de Jatibonico",
                     "s_city_slug": "municipio-de-jatibonico"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Municipio de Sancti Spiritus",
                     "s_city_slug": "municipio-de-sancti-spiritus"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Municipio de Trinidad",
                     "s_city_slug": "municipio-de-trinidad"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Sancti Spiritus",
                     "s_city_slug": "sancti-spiritus"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Topes de Collantes",
                     "s_city_slug": "topes-de-collantes"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Trinidad",
                     "s_city_slug": "trinidad"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Yaguajay",
                     "s_city_slug": "yaguajay"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "sancti-spiritus-province",
                     "s_city_name": "Zaza del Medio",
                     "s_city_slug": "zaza-del-medio"
@@ -1074,48 +1074,48 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Santiago de Cuba Province",
             "s_region_slug": "santiago-de-cuba-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "santiago-de-cuba-province",
                     "s_city_name": "Contramaestre",
                     "s_city_slug": "contramaestre"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "santiago-de-cuba-province",
                     "s_city_name": "El Cobre",
                     "s_city_slug": "el-cobre"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "santiago-de-cuba-province",
                     "s_city_name": "Municipio de Palma Soriano",
                     "s_city_slug": "municipio-de-palma-soriano"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "santiago-de-cuba-province",
                     "s_city_name": "Municipio de Santiago de Cuba",
                     "s_city_slug": "municipio-de-santiago-de-cuba"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "santiago-de-cuba-province",
                     "s_city_name": "Palma Soriano",
                     "s_city_slug": "palma-soriano"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "santiago-de-cuba-province",
                     "s_city_name": "San Luis",
                     "s_city_slug": "san-luis"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "santiago-de-cuba-province",
                     "s_city_name": "Santiago de Cuba",
                     "s_city_slug": "santiago-de-cuba"
@@ -1123,114 +1123,114 @@
             ]
         },
         {
-            "s_country_code": "CU",
+            "s_country_code": "cu",
             "s_region_name": "Villa Clara Province",
             "s_region_slug": "villa-clara-province",
             "cities": [
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Caibarien",
                     "s_city_slug": "caibarien"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Calabazar de Sagua",
                     "s_city_slug": "calabazar-de-sagua"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Camajuani",
                     "s_city_slug": "camajuani"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Cifuentes",
                     "s_city_slug": "cifuentes"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Corralillo",
                     "s_city_slug": "corralillo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Encrucijada",
                     "s_city_slug": "encrucijada"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Esperanza",
                     "s_city_slug": "esperanza"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Isabela de Sagua",
                     "s_city_slug": "isabela-de-sagua"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Manicaragua",
                     "s_city_slug": "manicaragua"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Municipio de Placetas",
                     "s_city_slug": "municipio-de-placetas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Municipio de Santa Clara",
                     "s_city_slug": "municipio-de-santa-clara"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Placetas",
                     "s_city_slug": "placetas"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Quemado de Guines",
                     "s_city_slug": "quemado-de-guines"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Rancho Veloz",
                     "s_city_slug": "rancho-veloz"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Ranchuelo",
                     "s_city_slug": "ranchuelo"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Sagua la Grande",
                     "s_city_slug": "sagua-la-grande"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Santa Clara",
                     "s_city_slug": "santa-clara"
                 },
                 {
-                    "s_country_code": "CU",
+                    "s_country_code": "cu",
                     "s_region_slug": "villa-clara-province",
                     "s_city_name": "Santo Domingo",
                     "s_city_slug": "santo-domingo"

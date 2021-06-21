@@ -4,24 +4,24 @@
     "s_country_slug": "tuvalu",
     "regions": [
         {
-            "s_country_code": "TV",
+            "s_country_code": "tv",
             "s_region_name": "Funafuti",
             "s_region_slug": "funafuti",
             "cities": [
                 {
-                    "s_country_code": "TV",
+                    "s_country_code": "tv",
                     "s_region_slug": "funafuti",
                     "s_city_name": "Alapi Village",
                     "s_city_slug": "alapi-village"
                 },
                 {
-                    "s_country_code": "TV",
+                    "s_country_code": "tv",
                     "s_region_slug": "funafuti",
                     "s_city_name": "Fakaifou Village",
                     "s_city_slug": "fakaifou-village"
                 },
                 {
-                    "s_country_code": "TV",
+                    "s_country_code": "tv",
                     "s_region_slug": "funafuti",
                     "s_city_name": "Funafuti",
                     "s_city_slug": "funafuti"
@@ -29,12 +29,12 @@
             ]
         },
         {
-            "s_country_code": "TV",
+            "s_country_code": "tv",
             "s_region_name": "Nanumanga",
             "s_region_slug": "nanumanga",
             "cities": [
                 {
-                    "s_country_code": "TV",
+                    "s_country_code": "tv",
                     "s_region_slug": "nanumanga",
                     "s_city_name": "Toga Village",
                     "s_city_slug": "toga-village"
@@ -42,12 +42,12 @@
             ]
         },
         {
-            "s_country_code": "TV",
+            "s_country_code": "tv",
             "s_region_name": "Nanumea",
             "s_region_slug": "nanumea",
             "cities": [
                 {
-                    "s_country_code": "TV",
+                    "s_country_code": "tv",
                     "s_region_slug": "nanumea",
                     "s_city_name": "Nanumea",
                     "s_city_slug": "nanumea"
@@ -55,18 +55,18 @@
             ]
         },
         {
-            "s_country_code": "TV",
+            "s_country_code": "tv",
             "s_region_name": "Niutao Island Council",
             "s_region_slug": "niutao-island-council",
             "cities": [
                 {
-                    "s_country_code": "TV",
+                    "s_country_code": "tv",
                     "s_region_slug": "niutao-island-council",
                     "s_city_name": "Kulia Village",
                     "s_city_slug": "kulia-village"
                 },
                 {
-                    "s_country_code": "TV",
+                    "s_country_code": "tv",
                     "s_region_slug": "niutao-island-council",
                     "s_city_name": "Niulakita",
                     "s_city_slug": "niulakita"
@@ -74,12 +74,12 @@
             ]
         },
         {
-            "s_country_code": "TV",
+            "s_country_code": "tv",
             "s_region_name": "Nui",
             "s_region_slug": "nui",
             "cities": [
                 {
-                    "s_country_code": "TV",
+                    "s_country_code": "tv",
                     "s_region_slug": "nui",
                     "s_city_name": "Tanrake Village",
                     "s_city_slug": "tanrake-village"
@@ -87,12 +87,12 @@
             ]
         },
         {
-            "s_country_code": "TV",
+            "s_country_code": "tv",
             "s_region_name": "Nukufetau",
             "s_region_slug": "nukufetau",
             "cities": [
                 {
-                    "s_country_code": "TV",
+                    "s_country_code": "tv",
                     "s_region_slug": "nukufetau",
                     "s_city_name": "Savave Village",
                     "s_city_slug": "savave-village"
@@ -100,12 +100,12 @@
             ]
         },
         {
-            "s_country_code": "TV",
+            "s_country_code": "tv",
             "s_region_name": "Nukulaelae",
             "s_region_slug": "nukulaelae",
             "cities": [
                 {
-                    "s_country_code": "TV",
+                    "s_country_code": "tv",
                     "s_region_slug": "nukulaelae",
                     "s_city_name": "Nukulaelae",
                     "s_city_slug": "nukulaelae"
@@ -113,12 +113,12 @@
             ]
         },
         {
-            "s_country_code": "TV",
+            "s_country_code": "tv",
             "s_region_name": "Vaitupu",
             "s_region_slug": "vaitupu",
             "cities": [
                 {
-                    "s_country_code": "TV",
+                    "s_country_code": "tv",
                     "s_region_slug": "vaitupu",
                     "s_city_name": "Asau Village",
                     "s_city_slug": "asau-village"

@@ -4,198 +4,198 @@
     "s_country_slug": "botswana",
     "regions": [
         {
-            "s_country_code": "BW",
+            "s_country_code": "bw",
             "s_region_name": "Central District",
             "s_region_slug": "central-district",
             "cities": [
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Gobojango",
                     "s_city_slug": "gobojango"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Gweta",
                     "s_city_slug": "gweta"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Kalamare",
                     "s_city_slug": "kalamare"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Letlhakane",
                     "s_city_slug": "letlhakane"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Letsheng",
                     "s_city_slug": "letsheng"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Maapi",
                     "s_city_slug": "maapi"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Machaneng",
                     "s_city_slug": "machaneng"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Mahalapye",
                     "s_city_slug": "mahalapye"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Makobeng",
                     "s_city_slug": "makobeng"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Makwata",
                     "s_city_slug": "makwata"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Mathakola",
                     "s_city_slug": "mathakola"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Mathambgwane",
                     "s_city_slug": "mathambgwane"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Mathathane",
                     "s_city_slug": "mathathane"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Maunatlala",
                     "s_city_slug": "maunatlala"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Mogapi",
                     "s_city_slug": "mogapi"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Moijabana",
                     "s_city_slug": "moijabana"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Mookane",
                     "s_city_slug": "mookane"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Mopipi",
                     "s_city_slug": "mopipi"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Mosetse",
                     "s_city_slug": "mosetse"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Nata",
                     "s_city_slug": "nata"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Orapa",
                     "s_city_slug": "orapa"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Palapye",
                     "s_city_slug": "palapye"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Pilikwe",
                     "s_city_slug": "pilikwe"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Rakops",
                     "s_city_slug": "rakops"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Ramokgonami",
                     "s_city_slug": "ramokgonami"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Ratholo",
                     "s_city_slug": "ratholo"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Sefophe",
                     "s_city_slug": "sefophe"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Serowe",
                     "s_city_slug": "serowe"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Sua",
                     "s_city_slug": "sua"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Tamasane",
                     "s_city_slug": "tamasane"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Tobane",
                     "s_city_slug": "tobane"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "central-district",
                     "s_city_name": "Tonota",
                     "s_city_slug": "tonota"
@@ -203,18 +203,18 @@
             ]
         },
         {
-            "s_country_code": "BW",
+            "s_country_code": "bw",
             "s_region_name": "Ghanzi District",
             "s_region_slug": "ghanzi-district",
             "cities": [
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "ghanzi-district",
                     "s_city_name": "Dekar",
                     "s_city_slug": "dekar"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "ghanzi-district",
                     "s_city_name": "Ghanzi",
                     "s_city_slug": "ghanzi"
@@ -222,42 +222,42 @@
             ]
         },
         {
-            "s_country_code": "BW",
+            "s_country_code": "bw",
             "s_region_name": "Kgalagadi District",
             "s_region_slug": "kgalagadi-district",
             "cities": [
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kgalagadi-district",
                     "s_city_name": "Hukuntsi",
                     "s_city_slug": "hukuntsi"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kgalagadi-district",
                     "s_city_name": "Kang",
                     "s_city_slug": "kang"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kgalagadi-district",
                     "s_city_name": "Lehututu",
                     "s_city_slug": "lehututu"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kgalagadi-district",
                     "s_city_name": "Manyana",
                     "s_city_slug": "manyana"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kgalagadi-district",
                     "s_city_name": "Tshabong",
                     "s_city_slug": "tshabong"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kgalagadi-district",
                     "s_city_name": "Werda",
                     "s_city_slug": "werda"
@@ -265,30 +265,30 @@
             ]
         },
         {
-            "s_country_code": "BW",
+            "s_country_code": "bw",
             "s_region_name": "Kgatleng District",
             "s_region_slug": "kgatleng-district",
             "cities": [
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kgatleng-district",
                     "s_city_name": "Bokaa",
                     "s_city_slug": "bokaa"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kgatleng-district",
                     "s_city_name": "Mmathubudukwane",
                     "s_city_slug": "mmathubudukwane"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kgatleng-district",
                     "s_city_name": "Mochudi",
                     "s_city_slug": "mochudi"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kgatleng-district",
                     "s_city_name": "Pilane",
                     "s_city_slug": "pilane"
@@ -296,84 +296,84 @@
             ]
         },
         {
-            "s_country_code": "BW",
+            "s_country_code": "bw",
             "s_region_name": "Kweneng District",
             "s_region_slug": "kweneng-district",
             "cities": [
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Botlhapatlou",
                     "s_city_slug": "botlhapatlou"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Dutlwe",
                     "s_city_slug": "dutlwe"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Gabane",
                     "s_city_slug": "gabane"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Gaphatshwe",
                     "s_city_slug": "gaphatshwe"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Khudumelapye",
                     "s_city_slug": "khudumelapye"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Lenchwe Le Tau",
                     "s_city_slug": "lenchwe-le-tau"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Letlhakeng",
                     "s_city_slug": "letlhakeng"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Metsemotlhaba",
                     "s_city_slug": "metsemotlhaba"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Mmopone",
                     "s_city_slug": "mmopone"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Mogoditshane",
                     "s_city_slug": "mogoditshane"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Molepolole",
                     "s_city_slug": "molepolole"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Nkoyaphiri",
                     "s_city_slug": "nkoyaphiri"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "kweneng-district",
                     "s_city_name": "Thamaga",
                     "s_city_slug": "thamaga"
@@ -381,12 +381,12 @@
             ]
         },
         {
-            "s_country_code": "BW",
+            "s_country_code": "bw",
             "s_region_name": "Ngamiland",
             "s_region_slug": "ngamiland",
             "cities": [
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "ngamiland",
                     "s_city_name": "Ngamiland",
                     "s_city_slug": "ngamiland"
@@ -394,30 +394,30 @@
             ]
         },
         {
-            "s_country_code": "BW",
+            "s_country_code": "bw",
             "s_region_name": "North-East District",
             "s_region_slug": "north-east-district",
             "cities": [
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "north-east-district",
                     "s_city_name": "Dukwe",
                     "s_city_slug": "dukwe"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "north-east-district",
                     "s_city_name": "Makaleng",
                     "s_city_slug": "makaleng"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "north-east-district",
                     "s_city_name": "Masunga",
                     "s_city_slug": "masunga"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "north-east-district",
                     "s_city_name": "Sebina",
                     "s_city_slug": "sebina"
@@ -425,36 +425,36 @@
             ]
         },
         {
-            "s_country_code": "BW",
+            "s_country_code": "bw",
             "s_region_name": "North-West District",
             "s_region_slug": "north-west-district",
             "cities": [
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "north-west-district",
                     "s_city_name": "Maun",
                     "s_city_slug": "maun"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "north-west-district",
                     "s_city_name": "Nokaneng",
                     "s_city_slug": "nokaneng"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "north-west-district",
                     "s_city_name": "Pandamatenga",
                     "s_city_slug": "pandamatenga"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "north-west-district",
                     "s_city_name": "Sehithwa",
                     "s_city_slug": "sehithwa"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "north-west-district",
                     "s_city_name": "Shakawe",
                     "s_city_slug": "shakawe"
@@ -462,36 +462,36 @@
             ]
         },
         {
-            "s_country_code": "BW",
+            "s_country_code": "bw",
             "s_region_name": "South-East District",
             "s_region_slug": "south-east-district",
             "cities": [
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "south-east-district",
                     "s_city_name": "Gaborone",
                     "s_city_slug": "gaborone"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "south-east-district",
                     "s_city_name": "Janeng",
                     "s_city_slug": "janeng"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "south-east-district",
                     "s_city_name": "Kopong",
                     "s_city_slug": "kopong"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "south-east-district",
                     "s_city_name": "Otse",
                     "s_city_slug": "otse"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "south-east-district",
                     "s_city_name": "Ramotswa",
                     "s_city_slug": "ramotswa"
@@ -499,30 +499,30 @@
             ]
         },
         {
-            "s_country_code": "BW",
+            "s_country_code": "bw",
             "s_region_name": "Southern District",
             "s_region_slug": "southern-district",
             "cities": [
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "southern-district",
                     "s_city_name": "Kanye",
                     "s_city_slug": "kanye"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "southern-district",
                     "s_city_name": "Khakhea",
                     "s_city_slug": "khakhea"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "southern-district",
                     "s_city_name": "Mosopa",
                     "s_city_slug": "mosopa"
                 },
                 {
-                    "s_country_code": "BW",
+                    "s_country_code": "bw",
                     "s_region_slug": "southern-district",
                     "s_city_name": "Sekoma",
                     "s_city_slug": "sekoma"

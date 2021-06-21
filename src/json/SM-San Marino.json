@@ -4,12 +4,12 @@
     "s_country_slug": "san-marino",
     "regions": [
         {
-            "s_country_code": "SM",
+            "s_country_code": "sm",
             "s_region_name": "Acquaviva",
             "s_region_slug": "acquaviva",
             "cities": [
                 {
-                    "s_country_code": "SM",
+                    "s_country_code": "sm",
                     "s_region_slug": "acquaviva",
                     "s_city_name": "Acquaviva",
                     "s_city_slug": "acquaviva"
@@ -17,12 +17,12 @@
             ]
         },
         {
-            "s_country_code": "SM",
+            "s_country_code": "sm",
             "s_region_name": "Borgo Maggiore",
             "s_region_slug": "borgo-maggiore",
             "cities": [
                 {
-                    "s_country_code": "SM",
+                    "s_country_code": "sm",
                     "s_region_slug": "borgo-maggiore",
                     "s_city_name": "Borgo Maggiore",
                     "s_city_slug": "borgo-maggiore"
@@ -30,12 +30,12 @@
             ]
         },
         {
-            "s_country_code": "SM",
+            "s_country_code": "sm",
             "s_region_name": "Chiesanuova",
             "s_region_slug": "chiesanuova",
             "cities": [
                 {
-                    "s_country_code": "SM",
+                    "s_country_code": "sm",
                     "s_region_slug": "chiesanuova",
                     "s_city_name": "Poggio di Chiesanuova",
                     "s_city_slug": "poggio-di-chiesanuova"
@@ -43,12 +43,12 @@
             ]
         },
         {
-            "s_country_code": "SM",
+            "s_country_code": "sm",
             "s_region_name": "Domagnano",
             "s_region_slug": "domagnano",
             "cities": [
                 {
-                    "s_country_code": "SM",
+                    "s_country_code": "sm",
                     "s_region_slug": "domagnano",
                     "s_city_name": "Domagnano",
                     "s_city_slug": "domagnano"
@@ -56,12 +56,12 @@
             ]
         },
         {
-            "s_country_code": "SM",
+            "s_country_code": "sm",
             "s_region_name": "Faetano",
             "s_region_slug": "faetano",
             "cities": [
                 {
-                    "s_country_code": "SM",
+                    "s_country_code": "sm",
                     "s_region_slug": "faetano",
                     "s_city_name": "Faetano",
                     "s_city_slug": "faetano"
@@ -69,12 +69,12 @@
             ]
         },
         {
-            "s_country_code": "SM",
+            "s_country_code": "sm",
             "s_region_name": "Fiorentino",
             "s_region_slug": "fiorentino",
             "cities": [
                 {
-                    "s_country_code": "SM",
+                    "s_country_code": "sm",
                     "s_region_slug": "fiorentino",
                     "s_city_name": "Fiorentino",
                     "s_city_slug": "fiorentino"
@@ -82,12 +82,12 @@
             ]
         },
         {
-            "s_country_code": "SM",
+            "s_country_code": "sm",
             "s_region_name": "Montegiardino",
             "s_region_slug": "montegiardino",
             "cities": [
                 {
-                    "s_country_code": "SM",
+                    "s_country_code": "sm",
                     "s_region_slug": "montegiardino",
                     "s_city_name": "Monte Giardino",
                     "s_city_slug": "monte-giardino"
@@ -95,12 +95,12 @@
             ]
         },
         {
-            "s_country_code": "SM",
+            "s_country_code": "sm",
             "s_region_name": "San Marino",
             "s_region_slug": "san-marino",
             "cities": [
                 {
-                    "s_country_code": "SM",
+                    "s_country_code": "sm",
                     "s_region_slug": "san-marino",
                     "s_city_name": "San Marino",
                     "s_city_slug": "san-marino"
@@ -108,12 +108,12 @@
             ]
         },
         {
-            "s_country_code": "SM",
+            "s_country_code": "sm",
             "s_region_name": "Serravalle",
             "s_region_slug": "serravalle",
             "cities": [
                 {
-                    "s_country_code": "SM",
+                    "s_country_code": "sm",
                     "s_region_slug": "serravalle",
                     "s_city_name": "Serravalle",
                     "s_city_slug": "serravalle"

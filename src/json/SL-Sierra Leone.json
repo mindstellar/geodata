@@ -4,186 +4,186 @@
     "s_country_slug": "sierra-leone",
     "regions": [
         {
-            "s_country_code": "SL",
+            "s_country_code": "sl",
             "s_region_name": "Eastern Province",
             "s_region_slug": "eastern-province",
             "cities": [
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Barma",
                     "s_city_slug": "barma"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Blama",
                     "s_city_slug": "blama"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Boajibu",
                     "s_city_slug": "boajibu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Buedu",
                     "s_city_slug": "buedu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Bunumbu",
                     "s_city_slug": "bunumbu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Daru",
                     "s_city_slug": "daru"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Giehun",
                     "s_city_slug": "giehun"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Gorahun",
                     "s_city_slug": "gorahun"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Hangha",
                     "s_city_slug": "hangha"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Jojoima",
                     "s_city_slug": "jojoima"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Kailahun",
                     "s_city_slug": "kailahun"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Kailahun District",
                     "s_city_slug": "kailahun-district"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Kayima",
                     "s_city_slug": "kayima"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Kenema",
                     "s_city_slug": "kenema"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Kenema District",
                     "s_city_slug": "kenema-district"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Koidu",
                     "s_city_slug": "koidu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Kono District",
                     "s_city_slug": "kono-district"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Koyima",
                     "s_city_slug": "koyima"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Manowa",
                     "s_city_slug": "manowa"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Mobai",
                     "s_city_slug": "mobai"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Motema",
                     "s_city_slug": "motema"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Panguma",
                     "s_city_slug": "panguma"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Pendembu",
                     "s_city_slug": "pendembu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Segbwema",
                     "s_city_slug": "segbwema"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Simbakoro",
                     "s_city_slug": "simbakoro"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Tefeya",
                     "s_city_slug": "tefeya"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Tombodu",
                     "s_city_slug": "tombodu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Tombu",
                     "s_city_slug": "tombu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Wima",
                     "s_city_slug": "wima"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "eastern-province",
                     "s_city_name": "Yengema",
                     "s_city_slug": "yengema"
@@ -191,186 +191,186 @@
             ]
         },
         {
-            "s_country_code": "SL",
+            "s_country_code": "sl",
             "s_region_name": "Northern Province",
             "s_region_slug": "northern-province",
             "cities": [
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Alikalia",
                     "s_city_slug": "alikalia"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Bindi",
                     "s_city_slug": "bindi"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Binkolo",
                     "s_city_slug": "binkolo"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Bombali District",
                     "s_city_slug": "bombali-district"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Bumbuna",
                     "s_city_slug": "bumbuna"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Gberia Fotombu",
                     "s_city_slug": "gberia-fotombu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Kabala",
                     "s_city_slug": "kabala"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Kamakwie",
                     "s_city_slug": "kamakwie"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Kambia",
                     "s_city_slug": "kambia"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Kassiri",
                     "s_city_slug": "kassiri"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Koinadugu District",
                     "s_city_slug": "koinadugu-district"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Konakridee",
                     "s_city_slug": "konakridee"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Kukuna",
                     "s_city_slug": "kukuna"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Loma",
                     "s_city_slug": "loma"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Lunsar",
                     "s_city_slug": "lunsar"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Magburaka",
                     "s_city_slug": "magburaka"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Makali",
                     "s_city_slug": "makali"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Makeni",
                     "s_city_slug": "makeni"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Mambolo",
                     "s_city_slug": "mambolo"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Mange",
                     "s_city_slug": "mange"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Masaka",
                     "s_city_slug": "masaka"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Masingbi",
                     "s_city_slug": "masingbi"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Masoyila",
                     "s_city_slug": "masoyila"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Pepel",
                     "s_city_slug": "pepel"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Rokupr",
                     "s_city_slug": "rokupr"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Sawkta",
                     "s_city_slug": "sawkta"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Seidu",
                     "s_city_slug": "seidu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Tintafor",
                     "s_city_slug": "tintafor"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Tonkolili District",
                     "s_city_slug": "tonkolili-district"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "northern-province",
                     "s_city_name": "Yonibana",
                     "s_city_slug": "yonibana"
@@ -378,162 +378,162 @@
             ]
         },
         {
-            "s_country_code": "SL",
+            "s_country_code": "sl",
             "s_region_name": "Southern Province",
             "s_region_slug": "southern-province",
             "cities": [
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Baiima",
                     "s_city_slug": "baiima"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Baoma",
                     "s_city_slug": "baoma"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Bo",
                     "s_city_slug": "bo"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Bo District",
                     "s_city_slug": "bo-district"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Bomi",
                     "s_city_slug": "bomi"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Bonthe",
                     "s_city_slug": "bonthe"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Bonthe District",
                     "s_city_slug": "bonthe-district"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Bumpe",
                     "s_city_slug": "bumpe"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Foindu",
                     "s_city_slug": "foindu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Gandorhun",
                     "s_city_slug": "gandorhun"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Gbewebu",
                     "s_city_slug": "gbewebu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Koribundu",
                     "s_city_slug": "koribundu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Largo",
                     "s_city_slug": "largo"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Mamboma",
                     "s_city_slug": "mamboma"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Mogbwemo",
                     "s_city_slug": "mogbwemo"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Moyamba",
                     "s_city_slug": "moyamba"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Moyamba District",
                     "s_city_slug": "moyamba-district"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Palima",
                     "s_city_slug": "palima"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Potoru",
                     "s_city_slug": "potoru"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Pujehun",
                     "s_city_slug": "pujehun"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Pujehun District",
                     "s_city_slug": "pujehun-district"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Rotifunk",
                     "s_city_slug": "rotifunk"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Serabu",
                     "s_city_slug": "serabu"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Sumbuya",
                     "s_city_slug": "sumbuya"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Tongole",
                     "s_city_slug": "tongole"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "southern-province",
                     "s_city_name": "Zimmi",
                     "s_city_slug": "zimmi"
@@ -541,30 +541,30 @@
             ]
         },
         {
-            "s_country_code": "SL",
+            "s_country_code": "sl",
             "s_region_name": "Western Area",
             "s_region_slug": "western-area",
             "cities": [
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "western-area",
                     "s_city_name": "Freetown",
                     "s_city_slug": "freetown"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "western-area",
                     "s_city_name": "Hastings",
                     "s_city_slug": "hastings"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "western-area",
                     "s_city_name": "Kent",
                     "s_city_slug": "kent"
                 },
                 {
-                    "s_country_code": "SL",
+                    "s_country_code": "sl",
                     "s_region_slug": "western-area",
                     "s_city_name": "Waterloo",
                     "s_city_slug": "waterloo"

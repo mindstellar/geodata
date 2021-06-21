@@ -4,24 +4,24 @@
     "s_country_slug": "bahrain",
     "regions": [
         {
-            "s_country_code": "BH",
+            "s_country_code": "bh",
             "s_region_name": "Capital Governorate",
             "s_region_slug": "capital-governorate",
             "cities": [
                 {
-                    "s_country_code": "BH",
+                    "s_country_code": "bh",
                     "s_region_slug": "capital-governorate",
                     "s_city_name": "Jidd Hafs",
                     "s_city_slug": "jidd-hafs"
                 },
                 {
-                    "s_country_code": "BH",
+                    "s_country_code": "bh",
                     "s_region_slug": "capital-governorate",
                     "s_city_name": "Manama",
                     "s_city_slug": "manama"
                 },
                 {
-                    "s_country_code": "BH",
+                    "s_country_code": "bh",
                     "s_region_slug": "capital-governorate",
                     "s_city_name": "Sitrah",
                     "s_city_slug": "sitrah"
@@ -29,12 +29,12 @@
             ]
         },
         {
-            "s_country_code": "BH",
+            "s_country_code": "bh",
             "s_region_name": "Central Governorate",
             "s_region_slug": "central-governorate",
             "cities": [
                 {
-                    "s_country_code": "BH",
+                    "s_country_code": "bh",
                     "s_region_slug": "central-governorate",
                     "s_city_name": "Madinat Hamad",
                     "s_city_slug": "madinat-hamad"
@@ -42,18 +42,18 @@
             ]
         },
         {
-            "s_country_code": "BH",
+            "s_country_code": "bh",
             "s_region_name": "Muharraq Governorate",
             "s_region_slug": "muharraq-governorate",
             "cities": [
                 {
-                    "s_country_code": "BH",
+                    "s_country_code": "bh",
                     "s_region_slug": "muharraq-governorate",
                     "s_city_name": "Al Hadd",
                     "s_city_slug": "al-hadd"
                 },
                 {
-                    "s_country_code": "BH",
+                    "s_country_code": "bh",
                     "s_region_slug": "muharraq-governorate",
                     "s_city_name": "Al Muharraq",
                     "s_city_slug": "al-muharraq"
@@ -61,12 +61,12 @@
             ]
         },
         {
-            "s_country_code": "BH",
+            "s_country_code": "bh",
             "s_region_name": "Northern Governorate",
             "s_region_slug": "northern-governorate",
             "cities": [
                 {
-                    "s_country_code": "BH",
+                    "s_country_code": "bh",
                     "s_region_slug": "northern-governorate",
                     "s_city_name": "Northern Governorate",
                     "s_city_slug": "northern-governorate"
@@ -74,24 +74,24 @@
             ]
         },
         {
-            "s_country_code": "BH",
+            "s_country_code": "bh",
             "s_region_name": "Southern Governorate",
             "s_region_slug": "southern-governorate",
             "cities": [
                 {
-                    "s_country_code": "BH",
+                    "s_country_code": "bh",
                     "s_region_slug": "southern-governorate",
                     "s_city_name": "Ar Rifa",
                     "s_city_slug": "ar-rifa"
                 },
                 {
-                    "s_country_code": "BH",
+                    "s_country_code": "bh",
                     "s_region_slug": "southern-governorate",
                     "s_city_name": "Dar Kulayb",
                     "s_city_slug": "dar-kulayb"
                 },
                 {
-                    "s_country_code": "BH",
+                    "s_country_code": "bh",
                     "s_region_slug": "southern-governorate",
                     "s_city_name": "Madinat Isa",
                     "s_city_slug": "madinat-isa"

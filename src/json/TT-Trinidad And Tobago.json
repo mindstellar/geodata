@@ -4,12 +4,12 @@
     "s_country_slug": "trinidad-and-tobago",
     "regions": [
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Arima",
             "s_region_slug": "arima",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "arima",
                     "s_city_name": "Arima",
                     "s_city_slug": "arima"
@@ -17,18 +17,18 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Chaguanas",
             "s_region_slug": "chaguanas",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "chaguanas",
                     "s_city_name": "Chaguanas",
                     "s_city_slug": "chaguanas"
                 },
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "chaguanas",
                     "s_city_name": "Ward of Chaguanas",
                     "s_city_slug": "ward-of-chaguanas"
@@ -36,18 +36,18 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Couva-Tabaquite-Talparo Regional Corporation",
             "s_region_slug": "couva-tabaquite-talparo-regional-corporation",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "couva-tabaquite-talparo-regional-corporation",
                     "s_city_name": "Couva",
                     "s_city_slug": "couva"
                 },
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "couva-tabaquite-talparo-regional-corporation",
                     "s_city_name": "Tabaquite",
                     "s_city_slug": "tabaquite"
@@ -55,18 +55,18 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Diego Martin Regional Corporation",
             "s_region_slug": "diego-martin-regional-corporation",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "diego-martin-regional-corporation",
                     "s_city_name": "Petit Valley",
                     "s_city_slug": "petit-valley"
                 },
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "diego-martin-regional-corporation",
                     "s_city_name": "Ward of Diego Martin",
                     "s_city_slug": "ward-of-diego-martin"
@@ -74,12 +74,12 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Eastern Tobago",
             "s_region_slug": "eastern-tobago",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "eastern-tobago",
                     "s_city_name": "Scarborough",
                     "s_city_slug": "scarborough"
@@ -87,18 +87,18 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Penal-Debe Regional Corporation",
             "s_region_slug": "penal-debe-regional-corporation",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "penal-debe-regional-corporation",
                     "s_city_name": "Debe",
                     "s_city_slug": "debe"
                 },
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "penal-debe-regional-corporation",
                     "s_city_name": "Penal",
                     "s_city_slug": "penal"
@@ -106,12 +106,12 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Point Fortin",
             "s_region_slug": "point-fortin",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "point-fortin",
                     "s_city_name": "Point Fortin",
                     "s_city_slug": "point-fortin"
@@ -119,18 +119,18 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Port of Spain",
             "s_region_slug": "port-of-spain",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "port-of-spain",
                     "s_city_name": "Mucurapo",
                     "s_city_slug": "mucurapo"
                 },
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "port-of-spain",
                     "s_city_name": "Port of Spain",
                     "s_city_slug": "port-of-spain"
@@ -138,12 +138,12 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Princes Town Regional Corporation",
             "s_region_slug": "princes-town-regional-corporation",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "princes-town-regional-corporation",
                     "s_city_name": "Princes Town",
                     "s_city_slug": "princes-town"
@@ -151,12 +151,12 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Rio Claro-Mayaro Regional Corporation",
             "s_region_slug": "rio-claro-mayaro-regional-corporation",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "rio-claro-mayaro-regional-corporation",
                     "s_city_name": "Rio Claro-Mayaro Regional Corporation",
                     "s_city_slug": "rio-claro-mayaro-regional-corporation"
@@ -164,24 +164,24 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "San Fernando",
             "s_region_slug": "san-fernando",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "san-fernando",
                     "s_city_name": "Marabella",
                     "s_city_slug": "marabella"
                 },
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "san-fernando",
                     "s_city_name": "Mon Repos",
                     "s_city_slug": "mon-repos"
                 },
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "san-fernando",
                     "s_city_name": "San Fernando",
                     "s_city_slug": "san-fernando"
@@ -189,12 +189,12 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "San Juan-Laventille Regional Corporation",
             "s_region_slug": "san-juan-laventille-regional-corporation",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "san-juan-laventille-regional-corporation",
                     "s_city_name": "Laventille",
                     "s_city_slug": "laventille"
@@ -202,12 +202,12 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Sangre Grande Regional Corporation",
             "s_region_slug": "sangre-grande-regional-corporation",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "sangre-grande-regional-corporation",
                     "s_city_name": "Sangre Grande",
                     "s_city_slug": "sangre-grande"
@@ -215,18 +215,18 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Siparia Regional Corporation",
             "s_region_slug": "siparia-regional-corporation",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "siparia-regional-corporation",
                     "s_city_name": "Siparia",
                     "s_city_slug": "siparia"
                 },
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "siparia-regional-corporation",
                     "s_city_name": "Ward of Siparia",
                     "s_city_slug": "ward-of-siparia"
@@ -234,24 +234,24 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Tunapuna-Piarco Regional Corporation",
             "s_region_slug": "tunapuna-piarco-regional-corporation",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "tunapuna-piarco-regional-corporation",
                     "s_city_name": "Arouca",
                     "s_city_slug": "arouca"
                 },
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "tunapuna-piarco-regional-corporation",
                     "s_city_name": "Paradise",
                     "s_city_slug": "paradise"
                 },
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "tunapuna-piarco-regional-corporation",
                     "s_city_name": "Tunapuna",
                     "s_city_slug": "tunapuna"
@@ -259,12 +259,12 @@
             ]
         },
         {
-            "s_country_code": "TT",
+            "s_country_code": "tt",
             "s_region_name": "Western Tobago",
             "s_region_slug": "western-tobago",
             "cities": [
                 {
-                    "s_country_code": "TT",
+                    "s_country_code": "tt",
                     "s_region_slug": "western-tobago",
                     "s_city_name": "Rio Claro",
                     "s_city_slug": "rio-claro"

@@ -4,12 +4,12 @@
     "s_country_slug": "lithuania",
     "regions": [
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Akmene District Municipality",
             "s_region_slug": "akmene-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "akmene-district-municipality",
                     "s_city_name": "Akmene District Municipality",
                     "s_city_slug": "akmene-district-municipality"
@@ -17,54 +17,54 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Alytus City Municipality",
             "s_region_slug": "alytus-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "alytus-city-municipality",
                     "s_city_name": "Alytaus rajonas",
                     "s_city_slug": "alytaus-rajonas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "alytus-city-municipality",
                     "s_city_name": "Alytus",
                     "s_city_slug": "alytus"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "alytus-city-municipality",
                     "s_city_name": "Daugai",
                     "s_city_slug": "daugai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "alytus-city-municipality",
                     "s_city_name": "Druskininkai",
                     "s_city_slug": "druskininkai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "alytus-city-municipality",
                     "s_city_name": "Lazdijai",
                     "s_city_slug": "lazdijai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "alytus-city-municipality",
                     "s_city_name": "Simnas",
                     "s_city_slug": "simnas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "alytus-city-municipality",
                     "s_city_name": "Varena",
                     "s_city_slug": "varena"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "alytus-city-municipality",
                     "s_city_name": "Veisiejai",
                     "s_city_slug": "veisiejai"
@@ -72,12 +72,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Alytus County",
             "s_region_slug": "alytus-county",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "alytus-county",
                     "s_city_name": "Alytus County",
                     "s_city_slug": "alytus-county"
@@ -85,12 +85,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Alytus District Municipality",
             "s_region_slug": "alytus-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "alytus-district-municipality",
                     "s_city_name": "Alytus District Municipality",
                     "s_city_slug": "alytus-district-municipality"
@@ -98,12 +98,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Birstonas Municipality",
             "s_region_slug": "birstonas-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "birstonas-municipality",
                     "s_city_name": "Birstonas Municipality",
                     "s_city_slug": "birstonas-municipality"
@@ -111,12 +111,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Birzai District Municipality",
             "s_region_slug": "birzai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "birzai-district-municipality",
                     "s_city_name": "Birzai District Municipality",
                     "s_city_slug": "birzai-district-municipality"
@@ -124,12 +124,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Druskininkai municipality",
             "s_region_slug": "druskininkai-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "druskininkai-municipality",
                     "s_city_name": "Druskininkai municipality",
                     "s_city_slug": "druskininkai-municipality"
@@ -137,12 +137,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Elektrenai municipality",
             "s_region_slug": "elektrenai-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "elektrenai-municipality",
                     "s_city_name": "Elektrenai municipality",
                     "s_city_slug": "elektrenai-municipality"
@@ -150,12 +150,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Ignalina District Municipality",
             "s_region_slug": "ignalina-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "ignalina-district-municipality",
                     "s_city_name": "Ignalina District Municipality",
                     "s_city_slug": "ignalina-district-municipality"
@@ -163,12 +163,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Jonava District Municipality",
             "s_region_slug": "jonava-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "jonava-district-municipality",
                     "s_city_name": "Jonava District Municipality",
                     "s_city_slug": "jonava-district-municipality"
@@ -176,12 +176,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Joniskis District Municipality",
             "s_region_slug": "joniskis-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "joniskis-district-municipality",
                     "s_city_name": "Joniskis District Municipality",
                     "s_city_slug": "joniskis-district-municipality"
@@ -189,12 +189,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Jurbarkas District Municipality",
             "s_region_slug": "jurbarkas-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "jurbarkas-district-municipality",
                     "s_city_name": "Jurbarkas District Municipality",
                     "s_city_slug": "jurbarkas-district-municipality"
@@ -202,12 +202,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Kaisiadorys District Municipality",
             "s_region_slug": "kaisiadorys-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaisiadorys-district-municipality",
                     "s_city_name": "Kaisiadorys District Municipality",
                     "s_city_slug": "kaisiadorys-district-municipality"
@@ -215,12 +215,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Kalvarija municipality",
             "s_region_slug": "kalvarija-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kalvarija-municipality",
                     "s_city_name": "Kalvarija municipality",
                     "s_city_slug": "kalvarija-municipality"
@@ -228,150 +228,150 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Kaunas City Municipality",
             "s_region_slug": "kaunas-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Akademija (Kaunas)",
                     "s_city_slug": "akademija-kaunas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Aleksotas",
                     "s_city_slug": "aleksotas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Ariogala",
                     "s_city_slug": "ariogala"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Birstonas",
                     "s_city_slug": "birstonas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Dainava (Kaunas)",
                     "s_city_slug": "dainava-kaunas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Eiguliai",
                     "s_city_slug": "eiguliai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Ezerelis",
                     "s_city_slug": "ezerelis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Garliava",
                     "s_city_slug": "garliava"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Jieznas",
                     "s_city_slug": "jieznas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Jonava",
                     "s_city_slug": "jonava"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Kaisiadorys",
                     "s_city_slug": "kaisiadorys"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Karmelava",
                     "s_city_slug": "karmelava"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Kaunas",
                     "s_city_slug": "kaunas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Kauno rajonas",
                     "s_city_slug": "kauno-rajonas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Kedainiai",
                     "s_city_slug": "kedainiai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Kulautuva",
                     "s_city_slug": "kulautuva"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Mastaiciai",
                     "s_city_slug": "mastaiciai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Prienai",
                     "s_city_slug": "prienai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Ramuciai",
                     "s_city_slug": "ramuciai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Raseiniai",
                     "s_city_slug": "raseiniai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Sargenai",
                     "s_city_slug": "sargenai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Silainiai",
                     "s_city_slug": "silainiai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Vilkija",
                     "s_city_slug": "vilkija"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-city-municipality",
                     "s_city_name": "Ziezmariai",
                     "s_city_slug": "ziezmariai"
@@ -379,12 +379,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Kaunas County",
             "s_region_slug": "kaunas-county",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-county",
                     "s_city_name": "Kaunas County",
                     "s_city_slug": "kaunas-county"
@@ -392,12 +392,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Kaunas District Municipality",
             "s_region_slug": "kaunas-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kaunas-district-municipality",
                     "s_city_name": "Kaunas District Municipality",
                     "s_city_slug": "kaunas-district-municipality"
@@ -405,12 +405,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Kazlu Ruda municipality",
             "s_region_slug": "kazlu-ruda-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kazlu-ruda-municipality",
                     "s_city_name": "Kazlu Ruda municipality",
                     "s_city_slug": "kazlu-ruda-municipality"
@@ -418,12 +418,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Kedainiai District Municipality",
             "s_region_slug": "kedainiai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kedainiai-district-municipality",
                     "s_city_name": "Kedainiai District Municipality",
                     "s_city_slug": "kedainiai-district-municipality"
@@ -431,12 +431,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Kelme District Municipality",
             "s_region_slug": "kelme-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kelme-district-municipality",
                     "s_city_name": "Kelme District Municipality",
                     "s_city_slug": "kelme-district-municipality"
@@ -444,12 +444,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Klaipeda City Municipality",
             "s_region_slug": "klaipeda-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-city-municipality",
                     "s_city_name": "Klaipeda City Municipality",
                     "s_city_slug": "klaipeda-city-municipality"
@@ -457,12 +457,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Klaipeda County",
             "s_region_slug": "klaipeda-county",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-county",
                     "s_city_name": "Klaipeda County",
                     "s_city_slug": "klaipeda-county"
@@ -470,96 +470,96 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Klaipeda District Municipality",
             "s_region_slug": "klaipeda-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Gargzdai",
                     "s_city_slug": "gargzdai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Klaipeda",
                     "s_city_slug": "klaipeda"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Klaipedos rajonas",
                     "s_city_slug": "klaipedos-rajonas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Kretinga",
                     "s_city_slug": "kretinga"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Neringa",
                     "s_city_slug": "neringa"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Nida",
                     "s_city_slug": "nida"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Palanga",
                     "s_city_slug": "palanga"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Priekule",
                     "s_city_slug": "priekule"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Rusne",
                     "s_city_slug": "rusne"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Salantai",
                     "s_city_slug": "salantai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Silute",
                     "s_city_slug": "silute"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Silute",
                     "s_city_slug": "silute"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Skuodas",
                     "s_city_slug": "skuodas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Sventoji",
                     "s_city_slug": "sventoji"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality",
                     "s_city_name": "Zemaiciu Naumiestis",
                     "s_city_slug": "zemaiciu-naumiestis"
@@ -567,12 +567,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Kretinga District Municipality",
             "s_region_slug": "kretinga-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kretinga-district-municipality",
                     "s_city_name": "Kretinga District Municipality",
                     "s_city_slug": "kretinga-district-municipality"
@@ -580,12 +580,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Kupiskis District Municipality",
             "s_region_slug": "kupiskis-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "kupiskis-district-municipality",
                     "s_city_name": "Kupiskis District Municipality",
                     "s_city_slug": "kupiskis-district-municipality"
@@ -593,12 +593,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Lazdijai District Municipality",
             "s_region_slug": "lazdijai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "lazdijai-district-municipality",
                     "s_city_name": "Lazdijai District Municipality",
                     "s_city_slug": "lazdijai-district-municipality"
@@ -606,12 +606,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Marijampole County",
             "s_region_slug": "marijampole-county",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-county",
                     "s_city_name": "Marijampole County",
                     "s_city_slug": "marijampole-county"
@@ -619,90 +619,90 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Marijampole Municipality",
             "s_region_slug": "marijampole-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Gelgaudiskis",
                     "s_city_slug": "gelgaudiskis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Kalvarija",
                     "s_city_slug": "kalvarija"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Kalvarija Municipality",
                     "s_city_slug": "kalvarija-municipality"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Kazlu Ruda",
                     "s_city_slug": "kazlu-ruda"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Kazlu Ruda Municipality",
                     "s_city_slug": "kazlu-ruda-municipality"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Kudirkos Naumiestis",
                     "s_city_slug": "kudirkos-naumiestis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Kybartai",
                     "s_city_slug": "kybartai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Marijampole",
                     "s_city_slug": "marijampole"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Marijampole Municipality",
                     "s_city_slug": "marijampole-municipality"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Sakiai",
                     "s_city_slug": "sakiai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Sakiai",
                     "s_city_slug": "sakiai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Vilkaviskis",
                     "s_city_slug": "vilkaviskis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Vilkaviskis District Municipality",
                     "s_city_slug": "vilkaviskis-district-municipality"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "marijampole-municipality",
                     "s_city_name": "Virbalis",
                     "s_city_slug": "virbalis"
@@ -710,12 +710,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Mazeikiai District Municipality",
             "s_region_slug": "mazeikiai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "mazeikiai-district-municipality",
                     "s_city_name": "Mazeikiai District Municipality",
                     "s_city_slug": "mazeikiai-district-municipality"
@@ -723,12 +723,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Moletai District Municipality",
             "s_region_slug": "moletai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "moletai-district-municipality",
                     "s_city_name": "Moletai District Municipality",
                     "s_city_slug": "moletai-district-municipality"
@@ -736,12 +736,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Neringa Municipality",
             "s_region_slug": "neringa-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "neringa-municipality",
                     "s_city_name": "Neringa Municipality",
                     "s_city_slug": "neringa-municipality"
@@ -749,12 +749,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Pagegiai municipality",
             "s_region_slug": "pagegiai-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "pagegiai-municipality",
                     "s_city_name": "Pagegiai municipality",
                     "s_city_slug": "pagegiai-municipality"
@@ -762,12 +762,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Pakruojis District Municipality",
             "s_region_slug": "pakruojis-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "pakruojis-district-municipality",
                     "s_city_name": "Pakruojis District Municipality",
                     "s_city_slug": "pakruojis-district-municipality"
@@ -775,12 +775,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Palanga City Municipality",
             "s_region_slug": "palanga-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "palanga-city-municipality",
                     "s_city_name": "Palanga City Municipality",
                     "s_city_slug": "palanga-city-municipality"
@@ -788,12 +788,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Panevezys City Municipality",
             "s_region_slug": "panevezys-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-city-municipality",
                     "s_city_name": "Panevezys City Municipality",
                     "s_city_slug": "panevezys-city-municipality"
@@ -801,12 +801,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Panevezys County",
             "s_region_slug": "panevezys-county",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-county",
                     "s_city_name": "Panevezys County",
                     "s_city_slug": "panevezys-county"
@@ -814,84 +814,84 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Panevezys District Municipality",
             "s_region_slug": "panevezys-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Birzai",
                     "s_city_slug": "birzai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Birzai",
                     "s_city_slug": "birzai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Juodupe",
                     "s_city_slug": "juodupe"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Kupiskis",
                     "s_city_slug": "kupiskis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Kupiskis",
                     "s_city_slug": "kupiskis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Obeliai",
                     "s_city_slug": "obeliai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Panevezys",
                     "s_city_slug": "panevezys"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Panevezys City",
                     "s_city_slug": "panevezys-city"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Panevezys District Municipality",
                     "s_city_slug": "panevezys-district-municipality"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Pasvalys",
                     "s_city_slug": "pasvalys"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Ramygala",
                     "s_city_slug": "ramygala"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Rokiskis",
                     "s_city_slug": "rokiskis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "panevezys-district-municipality",
                     "s_city_name": "Vabalninkas",
                     "s_city_slug": "vabalninkas"
@@ -899,12 +899,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Pasvalys District Municipality",
             "s_region_slug": "pasvalys-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "pasvalys-district-municipality",
                     "s_city_name": "Pasvalys District Municipality",
                     "s_city_slug": "pasvalys-district-municipality"
@@ -912,12 +912,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Plunge District Municipality",
             "s_region_slug": "plunge-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "plunge-district-municipality",
                     "s_city_name": "Plunge District Municipality",
                     "s_city_slug": "plunge-district-municipality"
@@ -925,12 +925,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Prienai District Municipality",
             "s_region_slug": "prienai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "prienai-district-municipality",
                     "s_city_name": "Prienai District Municipality",
                     "s_city_slug": "prienai-district-municipality"
@@ -938,12 +938,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Radviliskis District Municipality",
             "s_region_slug": "radviliskis-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "radviliskis-district-municipality",
                     "s_city_name": "Radviliskis District Municipality",
                     "s_city_slug": "radviliskis-district-municipality"
@@ -951,12 +951,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Raseiniai District Municipality",
             "s_region_slug": "raseiniai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "raseiniai-district-municipality",
                     "s_city_name": "Raseiniai District Municipality",
                     "s_city_slug": "raseiniai-district-municipality"
@@ -964,12 +964,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Rietavas municipality",
             "s_region_slug": "rietavas-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "rietavas-municipality",
                     "s_city_name": "Rietavas municipality",
                     "s_city_slug": "rietavas-municipality"
@@ -977,12 +977,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Rokiskis District Municipality",
             "s_region_slug": "rokiskis-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "rokiskis-district-municipality",
                     "s_city_name": "Rokiskis District Municipality",
                     "s_city_slug": "rokiskis-district-municipality"
@@ -990,12 +990,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Sakiai District Municipality",
             "s_region_slug": "sakiai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "sakiai-district-municipality",
                     "s_city_name": "Sakiai District Municipality",
                     "s_city_slug": "sakiai-district-municipality"
@@ -1003,12 +1003,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Salcininkai District Municipality",
             "s_region_slug": "salcininkai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "salcininkai-district-municipality",
                     "s_city_name": "Salcininkai District Municipality",
                     "s_city_slug": "salcininkai-district-municipality"
@@ -1016,102 +1016,102 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Siauliai City Municipality",
             "s_region_slug": "siauliai-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Akmene",
                     "s_city_slug": "akmene"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Akmenes Rajonas",
                     "s_city_slug": "akmenes-rajonas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Joniskis",
                     "s_city_slug": "joniskis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Kelme",
                     "s_city_slug": "kelme"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Kursenai",
                     "s_city_slug": "kursenai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Linkuva",
                     "s_city_slug": "linkuva"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Naujoji Akmene",
                     "s_city_slug": "naujoji-akmene"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Pakruojis",
                     "s_city_slug": "pakruojis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Radviliskis",
                     "s_city_slug": "radviliskis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Radviliskis",
                     "s_city_slug": "radviliskis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Seduva",
                     "s_city_slug": "seduva"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Siauliai",
                     "s_city_slug": "siauliai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Siauliu rajonas",
                     "s_city_slug": "siauliu-rajonas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Tytuveneliai",
                     "s_city_slug": "tytuveneliai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Venta",
                     "s_city_slug": "venta"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality",
                     "s_city_name": "Zagare",
                     "s_city_slug": "zagare"
@@ -1119,12 +1119,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Siauliai County",
             "s_region_slug": "siauliai-county",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-county",
                     "s_city_name": "Siauliai County",
                     "s_city_slug": "siauliai-county"
@@ -1132,12 +1132,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Siauliai District Municipality",
             "s_region_slug": "siauliai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "siauliai-district-municipality",
                     "s_city_name": "Siauliai District Municipality",
                     "s_city_slug": "siauliai-district-municipality"
@@ -1145,12 +1145,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Silale District Municipality",
             "s_region_slug": "silale-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "silale-district-municipality",
                     "s_city_name": "Silale District Municipality",
                     "s_city_slug": "silale-district-municipality"
@@ -1158,12 +1158,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Silute District Municipality",
             "s_region_slug": "silute-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "silute-district-municipality",
                     "s_city_name": "Silute District Municipality",
                     "s_city_slug": "silute-district-municipality"
@@ -1171,12 +1171,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Sirvintos District Municipality",
             "s_region_slug": "sirvintos-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "sirvintos-district-municipality",
                     "s_city_name": "Sirvintos District Municipality",
                     "s_city_slug": "sirvintos-district-municipality"
@@ -1184,12 +1184,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Skuodas District Municipality",
             "s_region_slug": "skuodas-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "skuodas-district-municipality",
                     "s_city_name": "Skuodas District Municipality",
                     "s_city_slug": "skuodas-district-municipality"
@@ -1197,12 +1197,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Svencionys District Municipality",
             "s_region_slug": "svencionys-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "svencionys-district-municipality",
                     "s_city_name": "Svencionys District Municipality",
                     "s_city_slug": "svencionys-district-municipality"
@@ -1210,42 +1210,42 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Taurage County",
             "s_region_slug": "taurage-county",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "taurage-county",
                     "s_city_name": "Bugai",
                     "s_city_slug": "bugai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "taurage-county",
                     "s_city_name": "Jurbarkas",
                     "s_city_slug": "jurbarkas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "taurage-county",
                     "s_city_name": "Pagegiai",
                     "s_city_slug": "pagegiai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "taurage-county",
                     "s_city_name": "Silale",
                     "s_city_slug": "silale"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "taurage-county",
                     "s_city_name": "Taurage",
                     "s_city_slug": "taurage"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "taurage-county",
                     "s_city_name": "Taurage",
                     "s_city_slug": "taurage"
@@ -1253,12 +1253,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Taurage District Municipality",
             "s_region_slug": "taurage-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "taurage-district-municipality",
                     "s_city_name": "Taurage District Municipality",
                     "s_city_slug": "taurage-district-municipality"
@@ -1266,12 +1266,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Telsiai County",
             "s_region_slug": "telsiai-county",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "telsiai-county",
                     "s_city_name": "Telsiai County",
                     "s_city_slug": "telsiai-county"
@@ -1279,72 +1279,72 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Telsiai District Municipality",
             "s_region_slug": "telsiai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "telsiai-district-municipality",
                     "s_city_name": "Mazeikiai",
                     "s_city_slug": "mazeikiai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "telsiai-district-municipality",
                     "s_city_name": "Mazeikiai",
                     "s_city_slug": "mazeikiai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "telsiai-district-municipality",
                     "s_city_name": "Plateliai",
                     "s_city_slug": "plateliai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "telsiai-district-municipality",
                     "s_city_name": "Plunge",
                     "s_city_slug": "plunge"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "telsiai-district-municipality",
                     "s_city_name": "Plunge",
                     "s_city_slug": "plunge"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "telsiai-district-municipality",
                     "s_city_name": "Rietavas",
                     "s_city_slug": "rietavas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "telsiai-district-municipality",
                     "s_city_name": "Seda",
                     "s_city_slug": "seda"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "telsiai-district-municipality",
                     "s_city_name": "Telsiai",
                     "s_city_slug": "telsiai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "telsiai-district-municipality",
                     "s_city_name": "Telsiai",
                     "s_city_slug": "telsiai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "telsiai-district-municipality",
                     "s_city_name": "Varniai",
                     "s_city_slug": "varniai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "telsiai-district-municipality",
                     "s_city_name": "Vieksniai",
                     "s_city_slug": "vieksniai"
@@ -1352,12 +1352,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Trakai District Municipality",
             "s_region_slug": "trakai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "trakai-district-municipality",
                     "s_city_name": "Trakai District Municipality",
                     "s_city_slug": "trakai-district-municipality"
@@ -1365,12 +1365,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Ukmerge District Municipality",
             "s_region_slug": "ukmerge-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "ukmerge-district-municipality",
                     "s_city_name": "Ukmerge District Municipality",
                     "s_city_slug": "ukmerge-district-municipality"
@@ -1378,60 +1378,60 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Utena County",
             "s_region_slug": "utena-county",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "utena-county",
                     "s_city_name": "Anyksciai",
                     "s_city_slug": "anyksciai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "utena-county",
                     "s_city_name": "Anyksciai",
                     "s_city_slug": "anyksciai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "utena-county",
                     "s_city_name": "Dukstas",
                     "s_city_slug": "dukstas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "utena-county",
                     "s_city_name": "Ignalina",
                     "s_city_slug": "ignalina"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "utena-county",
                     "s_city_name": "Moletai",
                     "s_city_slug": "moletai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "utena-county",
                     "s_city_name": "Moletai",
                     "s_city_slug": "moletai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "utena-county",
                     "s_city_name": "Utena",
                     "s_city_slug": "utena"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "utena-county",
                     "s_city_name": "Visaginas",
                     "s_city_slug": "visaginas"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "utena-county",
                     "s_city_name": "Zarasai",
                     "s_city_slug": "zarasai"
@@ -1439,12 +1439,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Utena District Municipality",
             "s_region_slug": "utena-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "utena-district-municipality",
                     "s_city_name": "Utena District Municipality",
                     "s_city_slug": "utena-district-municipality"
@@ -1452,12 +1452,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Varena District Municipality",
             "s_region_slug": "varena-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "varena-district-municipality",
                     "s_city_name": "Varena District Municipality",
                     "s_city_slug": "varena-district-municipality"
@@ -1465,12 +1465,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Vilkaviskis District Municipality",
             "s_region_slug": "vilkaviskis-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilkaviskis-district-municipality",
                     "s_city_name": "Vilkaviskis District Municipality",
                     "s_city_slug": "vilkaviskis-district-municipality"
@@ -1478,198 +1478,198 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Vilnius City Municipality",
             "s_region_slug": "vilnius-city-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Aukstadvaris",
                     "s_city_slug": "aukstadvaris"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Baltoji Voke",
                     "s_city_slug": "baltoji-voke"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Eisiskes",
                     "s_city_slug": "eisiskes"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Elektrenai",
                     "s_city_slug": "elektrenai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Fabijoniskes",
                     "s_city_slug": "fabijoniskes"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Grigiskes",
                     "s_city_slug": "grigiskes"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Justiniskes",
                     "s_city_slug": "justiniskes"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Lazdynai",
                     "s_city_slug": "lazdynai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Lentvaris",
                     "s_city_slug": "lentvaris"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Naujamiestis",
                     "s_city_slug": "naujamiestis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Nemencine",
                     "s_city_slug": "nemencine"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Pabrade",
                     "s_city_slug": "pabrade"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Pasilaiciai",
                     "s_city_slug": "pasilaiciai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Pilaite",
                     "s_city_slug": "pilaite"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Rasos",
                     "s_city_slug": "rasos"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Rudiskes",
                     "s_city_slug": "rudiskes"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Salcininkai",
                     "s_city_slug": "salcininkai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Senieji Trakai",
                     "s_city_slug": "senieji-trakai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Seskine",
                     "s_city_slug": "seskine"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Sirvintos",
                     "s_city_slug": "sirvintos"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Sirvintos",
                     "s_city_slug": "sirvintos"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Skaidiskes",
                     "s_city_slug": "skaidiskes"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Svencioneliai",
                     "s_city_slug": "svencioneliai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Svencionys",
                     "s_city_slug": "svencionys"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Svencionys",
                     "s_city_slug": "svencionys"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Trakai",
                     "s_city_slug": "trakai"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Ukmerge",
                     "s_city_slug": "ukmerge"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Ukmerge",
                     "s_city_slug": "ukmerge"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Vievis",
                     "s_city_slug": "vievis"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Vilkpede",
                     "s_city_slug": "vilkpede"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Vilnius",
                     "s_city_slug": "vilnius"
                 },
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-city-municipality",
                     "s_city_name": "Vilnius District Municipality",
                     "s_city_slug": "vilnius-district-municipality"
@@ -1677,12 +1677,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Vilnius County",
             "s_region_slug": "vilnius-county",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-county",
                     "s_city_name": "Vilnius County",
                     "s_city_slug": "vilnius-county"
@@ -1690,12 +1690,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Vilnius District Municipality",
             "s_region_slug": "vilnius-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "vilnius-district-municipality",
                     "s_city_name": "Vilnius District Municipality",
                     "s_city_slug": "vilnius-district-municipality"
@@ -1703,12 +1703,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Visaginas Municipality",
             "s_region_slug": "visaginas-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "visaginas-municipality",
                     "s_city_name": "Visaginas Municipality",
                     "s_city_slug": "visaginas-municipality"
@@ -1716,12 +1716,12 @@
             ]
         },
         {
-            "s_country_code": "LT",
+            "s_country_code": "lt",
             "s_region_name": "Zarasai District Municipality",
             "s_region_slug": "zarasai-district-municipality",
             "cities": [
                 {
-                    "s_country_code": "LT",
+                    "s_country_code": "lt",
                     "s_region_slug": "zarasai-district-municipality",
                     "s_city_name": "Zarasai District Municipality",
                     "s_city_slug": "zarasai-district-municipality"
