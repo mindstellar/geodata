@@ -1,1 +1,121 @@
-{"s_country_code": "DJ", "s_country_name": "Djibouti", "s_country_slug": "djibouti", "regions": [{"s_country_code": "DJ", "s_region_name": "Ali Sabieh Region", "s_region_slug": "ali-sabieh-region", "cities": [{"s_country_code": "DJ", "s_region_slug": "ali-sabieh-region", "s_city_name": "'Ali Sabieh", "s_city_slug": "ali-sabieh"}, {"s_country_code": "DJ", "s_region_slug": "ali-sabieh-region", "s_city_name": "Goubetto", "s_city_slug": "goubetto"}, {"s_country_code": "DJ", "s_region_slug": "ali-sabieh-region", "s_city_name": "Holhol", "s_city_slug": "holhol"}]}, {"s_country_code": "DJ", "s_region_name": "Arta Region", "s_region_slug": "arta-region", "cities": [{"s_country_code": "DJ", "s_region_slug": "arta-region", "s_city_name": "Arta", "s_city_slug": "arta"}]}, {"s_country_code": "DJ", "s_region_name": "Dikhil Region", "s_region_slug": "dikhil-region", "cities": [{"s_country_code": "DJ", "s_region_slug": "dikhil-region", "s_city_name": "Dikhil", "s_city_slug": "dikhil"}, {"s_country_code": "DJ", "s_region_slug": "dikhil-region", "s_city_name": "Galafi", "s_city_slug": "galafi"}]}, {"s_country_code": "DJ", "s_region_name": "Djibouti", "s_region_slug": "djibouti", "cities": [{"s_country_code": "DJ", "s_region_slug": "djibouti", "s_city_name": "Djibouti", "s_city_slug": "djibouti"}, {"s_country_code": "DJ", "s_region_slug": "djibouti", "s_city_name": "Loyada", "s_city_slug": "loyada"}]}, {"s_country_code": "DJ", "s_region_name": "Obock Region", "s_region_slug": "obock-region", "cities": [{"s_country_code": "DJ", "s_region_slug": "obock-region", "s_city_name": "Alaili Dadda", "s_city_slug": "alaili-dadda"}, {"s_country_code": "DJ", "s_region_slug": "obock-region", "s_city_name": "Obock", "s_city_slug": "obock"}]}, {"s_country_code": "DJ", "s_region_name": "Tadjourah Region", "s_region_slug": "tadjourah-region", "cities": [{"s_country_code": "DJ", "s_region_slug": "tadjourah-region", "s_city_name": "Dorra", "s_city_slug": "dorra"}, {"s_country_code": "DJ", "s_region_slug": "tadjourah-region", "s_city_name": "Tadjourah", "s_city_slug": "tadjourah"}]}]}
+{
+    "s_country_code": "DJ",
+    "s_country_name": "Djibouti",
+    "s_country_slug": "djibouti",
+    "regions": [
+        {
+            "s_country_code": "DJ",
+            "s_region_name": "Ali Sabieh Region",
+            "s_region_slug": "ali-sabieh-region",
+            "cities": [
+                {
+                    "s_country_code": "DJ",
+                    "s_region_slug": "ali-sabieh-region",
+                    "s_city_name": "'Ali Sabieh",
+                    "s_city_slug": "ali-sabieh"
+                },
+                {
+                    "s_country_code": "DJ",
+                    "s_region_slug": "ali-sabieh-region",
+                    "s_city_name": "Goubetto",
+                    "s_city_slug": "goubetto"
+                },
+                {
+                    "s_country_code": "DJ",
+                    "s_region_slug": "ali-sabieh-region",
+                    "s_city_name": "Holhol",
+                    "s_city_slug": "holhol"
+                }
+            ]
+        },
+        {
+            "s_country_code": "DJ",
+            "s_region_name": "Arta Region",
+            "s_region_slug": "arta-region",
+            "cities": [
+                {
+                    "s_country_code": "DJ",
+                    "s_region_slug": "arta-region",
+                    "s_city_name": "Arta",
+                    "s_city_slug": "arta"
+                }
+            ]
+        },
+        {
+            "s_country_code": "DJ",
+            "s_region_name": "Dikhil Region",
+            "s_region_slug": "dikhil-region",
+            "cities": [
+                {
+                    "s_country_code": "DJ",
+                    "s_region_slug": "dikhil-region",
+                    "s_city_name": "Dikhil",
+                    "s_city_slug": "dikhil"
+                },
+                {
+                    "s_country_code": "DJ",
+                    "s_region_slug": "dikhil-region",
+                    "s_city_name": "Galafi",
+                    "s_city_slug": "galafi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "DJ",
+            "s_region_name": "Djibouti",
+            "s_region_slug": "djibouti",
+            "cities": [
+                {
+                    "s_country_code": "DJ",
+                    "s_region_slug": "djibouti",
+                    "s_city_name": "Djibouti",
+                    "s_city_slug": "djibouti"
+                },
+                {
+                    "s_country_code": "DJ",
+                    "s_region_slug": "djibouti",
+                    "s_city_name": "Loyada",
+                    "s_city_slug": "loyada"
+                }
+            ]
+        },
+        {
+            "s_country_code": "DJ",
+            "s_region_name": "Obock Region",
+            "s_region_slug": "obock-region",
+            "cities": [
+                {
+                    "s_country_code": "DJ",
+                    "s_region_slug": "obock-region",
+                    "s_city_name": "Alaili Dadda",
+                    "s_city_slug": "alaili-dadda"
+                },
+                {
+                    "s_country_code": "DJ",
+                    "s_region_slug": "obock-region",
+                    "s_city_name": "Obock",
+                    "s_city_slug": "obock"
+                }
+            ]
+        },
+        {
+            "s_country_code": "DJ",
+            "s_region_name": "Tadjourah Region",
+            "s_region_slug": "tadjourah-region",
+            "cities": [
+                {
+                    "s_country_code": "DJ",
+                    "s_region_slug": "tadjourah-region",
+                    "s_city_name": "Dorra",
+                    "s_city_slug": "dorra"
+                },
+                {
+                    "s_country_code": "DJ",
+                    "s_region_slug": "tadjourah-region",
+                    "s_city_name": "Tadjourah",
+                    "s_city_slug": "tadjourah"
+                }
+            ]
+        }
+    ]
+}

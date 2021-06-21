@@ -1,1 +1,552 @@
-{"s_country_code": "BS", "s_country_name": "Bahamas", "s_country_slug": "bahamas-the", "regions": [{"s_country_code": "BS", "s_region_name": "Acklins", "s_region_slug": "acklins", "cities": [{"s_country_code": "BS", "s_region_slug": "acklins", "s_city_name": "Acklins", "s_city_slug": "acklins"}]}, {"s_country_code": "BS", "s_region_name": "Acklins and Crooked Islands", "s_region_slug": "acklins-and-crooked-islands", "cities": [{"s_country_code": "BS", "s_region_slug": "acklins-and-crooked-islands", "s_city_name": "Acklins and Crooked Islands", "s_city_slug": "acklins-and-crooked-islands"}]}, {"s_country_code": "BS", "s_region_name": "Berry Islands", "s_region_slug": "berry-islands", "cities": [{"s_country_code": "BS", "s_region_slug": "berry-islands", "s_city_name": "Berry Islands", "s_city_slug": "berry-islands"}]}, {"s_country_code": "BS", "s_region_name": "Bimini", "s_region_slug": "bimini", "cities": [{"s_country_code": "BS", "s_region_slug": "bimini", "s_city_name": "Alice Town", "s_city_slug": "alice-town"}]}, {"s_country_code": "BS", "s_region_name": "Black Point", "s_region_slug": "black-point", "cities": [{"s_country_code": "BS", "s_region_slug": "black-point", "s_city_name": "Black Point", "s_city_slug": "black-point"}]}, {"s_country_code": "BS", "s_region_name": "Cat Island", "s_region_slug": "cat-island", "cities": [{"s_country_code": "BS", "s_region_slug": "cat-island", "s_city_name": "Arthurs Town", "s_city_slug": "arthurs-town"}]}, {"s_country_code": "BS", "s_region_name": "Central Abaco", "s_region_slug": "central-abaco", "cities": [{"s_country_code": "BS", "s_region_slug": "central-abaco", "s_city_name": "Marsh Harbour", "s_city_slug": "marsh-harbour"}]}, {"s_country_code": "BS", "s_region_name": "Central Andros", "s_region_slug": "central-andros", "cities": [{"s_country_code": "BS", "s_region_slug": "central-andros", "s_city_name": "Central Andros", "s_city_slug": "central-andros"}]}, {"s_country_code": "BS", "s_region_name": "Central Eleuthera", "s_region_slug": "central-eleuthera", "cities": [{"s_country_code": "BS", "s_region_slug": "central-eleuthera", "s_city_name": "Central Eleuthera", "s_city_slug": "central-eleuthera"}]}, {"s_country_code": "BS", "s_region_name": "Crooked Island", "s_region_slug": "crooked-island", "cities": [{"s_country_code": "BS", "s_region_slug": "crooked-island", "s_city_name": "Colonel Hill", "s_city_slug": "colonel-hill"}]}, {"s_country_code": "BS", "s_region_name": "East Grand Bahama", "s_region_slug": "east-grand-bahama", "cities": [{"s_country_code": "BS", "s_region_slug": "east-grand-bahama", "s_city_name": "High Rock", "s_city_slug": "high-rock"}]}, {"s_country_code": "BS", "s_region_name": "Exuma", "s_region_slug": "exuma", "cities": [{"s_country_code": "BS", "s_region_slug": "exuma", "s_city_name": "George Town", "s_city_slug": "george-town"}]}, {"s_country_code": "BS", "s_region_name": "Freeport", "s_region_slug": "freeport", "cities": [{"s_country_code": "BS", "s_region_slug": "freeport", "s_city_name": "Freeport", "s_city_slug": "freeport"}, {"s_country_code": "BS", "s_region_slug": "freeport", "s_city_name": "Lucaya", "s_city_slug": "lucaya"}]}, {"s_country_code": "BS", "s_region_name": "Fresh Creek", "s_region_slug": "fresh-creek", "cities": [{"s_country_code": "BS", "s_region_slug": "fresh-creek", "s_city_name": "Fresh Creek", "s_city_slug": "fresh-creek"}]}, {"s_country_code": "BS", "s_region_name": "Governor's Harbour", "s_region_slug": "governors-harbour", "cities": [{"s_country_code": "BS", "s_region_slug": "governors-harbour", "s_city_name": "Governor's Harbour", "s_city_slug": "governors-harbour"}]}, {"s_country_code": "BS", "s_region_name": "Grand Cay", "s_region_slug": "grand-cay", "cities": [{"s_country_code": "BS", "s_region_slug": "grand-cay", "s_city_name": "Grand Cay", "s_city_slug": "grand-cay"}]}, {"s_country_code": "BS", "s_region_name": "Green Turtle Cay", "s_region_slug": "green-turtle-cay", "cities": [{"s_country_code": "BS", "s_region_slug": "green-turtle-cay", "s_city_name": "Green Turtle Cay", "s_city_slug": "green-turtle-cay"}]}, {"s_country_code": "BS", "s_region_name": "Harbour Island", "s_region_slug": "harbour-island", "cities": [{"s_country_code": "BS", "s_region_slug": "harbour-island", "s_city_name": "Dunmore Town", "s_city_slug": "dunmore-town"}]}, {"s_country_code": "BS", "s_region_name": "High Rock", "s_region_slug": "high-rock", "cities": [{"s_country_code": "BS", "s_region_slug": "high-rock", "s_city_name": "High Rock", "s_city_slug": "high-rock"}]}, {"s_country_code": "BS", "s_region_name": "Hope Town", "s_region_slug": "hope-town", "cities": [{"s_country_code": "BS", "s_region_slug": "hope-town", "s_city_name": "Hope Town", "s_city_slug": "hope-town"}]}, {"s_country_code": "BS", "s_region_name": "Inagua", "s_region_slug": "inagua", "cities": [{"s_country_code": "BS", "s_region_slug": "inagua", "s_city_name": "Matthew Town", "s_city_slug": "matthew-town"}]}, {"s_country_code": "BS", "s_region_name": "Kemps Bay", "s_region_slug": "kemps-bay", "cities": [{"s_country_code": "BS", "s_region_slug": "kemps-bay", "s_city_name": "Kemps Bay", "s_city_slug": "kemps-bay"}]}, {"s_country_code": "BS", "s_region_name": "Long Island", "s_region_slug": "long-island", "cities": [{"s_country_code": "BS", "s_region_slug": "long-island", "s_city_name": "Clarence Town", "s_city_slug": "clarence-town"}]}, {"s_country_code": "BS", "s_region_name": "Mangrove Cay", "s_region_slug": "mangrove-cay", "cities": [{"s_country_code": "BS", "s_region_slug": "mangrove-cay", "s_city_name": "Mangrove Cay", "s_city_slug": "mangrove-cay"}]}, {"s_country_code": "BS", "s_region_name": "Marsh Harbour", "s_region_slug": "marsh-harbour", "cities": [{"s_country_code": "BS", "s_region_slug": "marsh-harbour", "s_city_name": "Marsh Harbour", "s_city_slug": "marsh-harbour"}]}, {"s_country_code": "BS", "s_region_name": "Mayaguana District", "s_region_slug": "mayaguana-district", "cities": [{"s_country_code": "BS", "s_region_slug": "mayaguana-district", "s_city_name": "Abrahams Bay", "s_city_slug": "abrahams-bay"}]}, {"s_country_code": "BS", "s_region_name": "Nichollstown and Berry Islands", "s_region_slug": "nichollstown-and-berry-islands", "cities": [{"s_country_code": "BS", "s_region_slug": "nichollstown-and-berry-islands", "s_city_name": "Nichollstown and Berry Islands", "s_city_slug": "nichollstown-and-berry-islands"}]}, {"s_country_code": "BS", "s_region_name": "North Abaco", "s_region_slug": "north-abaco", "cities": [{"s_country_code": "BS", "s_region_slug": "north-abaco", "s_city_name": "Coopers Town", "s_city_slug": "coopers-town"}]}, {"s_country_code": "BS", "s_region_name": "North Andros", "s_region_slug": "north-andros", "cities": [{"s_country_code": "BS", "s_region_slug": "north-andros", "s_city_name": "Andros Town", "s_city_slug": "andros-town"}, {"s_country_code": "BS", "s_region_slug": "north-andros", "s_city_name": "San Andros", "s_city_slug": "san-andros"}]}, {"s_country_code": "BS", "s_region_name": "North Eleuthera", "s_region_slug": "north-eleuthera", "cities": [{"s_country_code": "BS", "s_region_slug": "north-eleuthera", "s_city_name": "North Eleuthera", "s_city_slug": "north-eleuthera"}]}, {"s_country_code": "BS", "s_region_name": "Ragged Island", "s_region_slug": "ragged-island", "cities": [{"s_country_code": "BS", "s_region_slug": "ragged-island", "s_city_name": "Duncan Town", "s_city_slug": "duncan-town"}]}, {"s_country_code": "BS", "s_region_name": "Rock Sound", "s_region_slug": "rock-sound", "cities": [{"s_country_code": "BS", "s_region_slug": "rock-sound", "s_city_name": "Rock Sound", "s_city_slug": "rock-sound"}]}, {"s_country_code": "BS", "s_region_name": "Rum Cay District", "s_region_slug": "rum-cay-district", "cities": [{"s_country_code": "BS", "s_region_slug": "rum-cay-district", "s_city_name": "Port Nelson", "s_city_slug": "port-nelson"}]}, {"s_country_code": "BS", "s_region_name": "San Salvador Island", "s_region_slug": "san-salvador-island", "cities": [{"s_country_code": "BS", "s_region_slug": "san-salvador-island", "s_city_name": "Cockburn Town", "s_city_slug": "cockburn-town"}]}, {"s_country_code": "BS", "s_region_name": "San Salvador and Rum Cay", "s_region_slug": "san-salvador-and-rum-cay", "cities": [{"s_country_code": "BS", "s_region_slug": "san-salvador-and-rum-cay", "s_city_name": "San Salvador and Rum Cay", "s_city_slug": "san-salvador-and-rum-cay"}]}, {"s_country_code": "BS", "s_region_name": "Sandy Point", "s_region_slug": "sandy-point", "cities": [{"s_country_code": "BS", "s_region_slug": "sandy-point", "s_city_name": "Sandy Point", "s_city_slug": "sandy-point"}]}, {"s_country_code": "BS", "s_region_name": "South Abaco", "s_region_slug": "south-abaco", "cities": [{"s_country_code": "BS", "s_region_slug": "south-abaco", "s_city_name": "South Abaco", "s_city_slug": "south-abaco"}]}, {"s_country_code": "BS", "s_region_name": "South Andros", "s_region_slug": "south-andros", "cities": [{"s_country_code": "BS", "s_region_slug": "south-andros", "s_city_name": "South Andros", "s_city_slug": "south-andros"}]}, {"s_country_code": "BS", "s_region_name": "South Eleuthera", "s_region_slug": "south-eleuthera", "cities": [{"s_country_code": "BS", "s_region_slug": "south-eleuthera", "s_city_name": "South Eleuthera", "s_city_slug": "south-eleuthera"}]}, {"s_country_code": "BS", "s_region_name": "Spanish Wells", "s_region_slug": "spanish-wells", "cities": [{"s_country_code": "BS", "s_region_slug": "spanish-wells", "s_city_name": "Spanish Wells", "s_city_slug": "spanish-wells"}]}, {"s_country_code": "BS", "s_region_name": "West Grand Bahama", "s_region_slug": "west-grand-bahama", "cities": [{"s_country_code": "BS", "s_region_slug": "west-grand-bahama", "s_city_name": "West End", "s_city_slug": "west-end"}]}]}
+{
+    "s_country_code": "BS",
+    "s_country_name": "Bahamas",
+    "s_country_slug": "bahamas-the",
+    "regions": [
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Acklins",
+            "s_region_slug": "acklins",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "acklins",
+                    "s_city_name": "Acklins",
+                    "s_city_slug": "acklins"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Acklins and Crooked Islands",
+            "s_region_slug": "acklins-and-crooked-islands",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "acklins-and-crooked-islands",
+                    "s_city_name": "Acklins and Crooked Islands",
+                    "s_city_slug": "acklins-and-crooked-islands"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Berry Islands",
+            "s_region_slug": "berry-islands",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "berry-islands",
+                    "s_city_name": "Berry Islands",
+                    "s_city_slug": "berry-islands"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Bimini",
+            "s_region_slug": "bimini",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "bimini",
+                    "s_city_name": "Alice Town",
+                    "s_city_slug": "alice-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Black Point",
+            "s_region_slug": "black-point",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "black-point",
+                    "s_city_name": "Black Point",
+                    "s_city_slug": "black-point"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Cat Island",
+            "s_region_slug": "cat-island",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "cat-island",
+                    "s_city_name": "Arthurs Town",
+                    "s_city_slug": "arthurs-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Central Abaco",
+            "s_region_slug": "central-abaco",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "central-abaco",
+                    "s_city_name": "Marsh Harbour",
+                    "s_city_slug": "marsh-harbour"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Central Andros",
+            "s_region_slug": "central-andros",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "central-andros",
+                    "s_city_name": "Central Andros",
+                    "s_city_slug": "central-andros"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Central Eleuthera",
+            "s_region_slug": "central-eleuthera",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "central-eleuthera",
+                    "s_city_name": "Central Eleuthera",
+                    "s_city_slug": "central-eleuthera"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Crooked Island",
+            "s_region_slug": "crooked-island",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "crooked-island",
+                    "s_city_name": "Colonel Hill",
+                    "s_city_slug": "colonel-hill"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "East Grand Bahama",
+            "s_region_slug": "east-grand-bahama",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "east-grand-bahama",
+                    "s_city_name": "High Rock",
+                    "s_city_slug": "high-rock"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Exuma",
+            "s_region_slug": "exuma",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "exuma",
+                    "s_city_name": "George Town",
+                    "s_city_slug": "george-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Freeport",
+            "s_region_slug": "freeport",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "freeport",
+                    "s_city_name": "Freeport",
+                    "s_city_slug": "freeport"
+                },
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "freeport",
+                    "s_city_name": "Lucaya",
+                    "s_city_slug": "lucaya"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Fresh Creek",
+            "s_region_slug": "fresh-creek",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "fresh-creek",
+                    "s_city_name": "Fresh Creek",
+                    "s_city_slug": "fresh-creek"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Governor's Harbour",
+            "s_region_slug": "governors-harbour",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "governors-harbour",
+                    "s_city_name": "Governor's Harbour",
+                    "s_city_slug": "governors-harbour"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Grand Cay",
+            "s_region_slug": "grand-cay",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "grand-cay",
+                    "s_city_name": "Grand Cay",
+                    "s_city_slug": "grand-cay"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Green Turtle Cay",
+            "s_region_slug": "green-turtle-cay",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "green-turtle-cay",
+                    "s_city_name": "Green Turtle Cay",
+                    "s_city_slug": "green-turtle-cay"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Harbour Island",
+            "s_region_slug": "harbour-island",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "harbour-island",
+                    "s_city_name": "Dunmore Town",
+                    "s_city_slug": "dunmore-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "High Rock",
+            "s_region_slug": "high-rock",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "high-rock",
+                    "s_city_name": "High Rock",
+                    "s_city_slug": "high-rock"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Hope Town",
+            "s_region_slug": "hope-town",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "hope-town",
+                    "s_city_name": "Hope Town",
+                    "s_city_slug": "hope-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Inagua",
+            "s_region_slug": "inagua",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "inagua",
+                    "s_city_name": "Matthew Town",
+                    "s_city_slug": "matthew-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Kemps Bay",
+            "s_region_slug": "kemps-bay",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "kemps-bay",
+                    "s_city_name": "Kemps Bay",
+                    "s_city_slug": "kemps-bay"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Long Island",
+            "s_region_slug": "long-island",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "long-island",
+                    "s_city_name": "Clarence Town",
+                    "s_city_slug": "clarence-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Mangrove Cay",
+            "s_region_slug": "mangrove-cay",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "mangrove-cay",
+                    "s_city_name": "Mangrove Cay",
+                    "s_city_slug": "mangrove-cay"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Marsh Harbour",
+            "s_region_slug": "marsh-harbour",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "marsh-harbour",
+                    "s_city_name": "Marsh Harbour",
+                    "s_city_slug": "marsh-harbour"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Mayaguana District",
+            "s_region_slug": "mayaguana-district",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "mayaguana-district",
+                    "s_city_name": "Abrahams Bay",
+                    "s_city_slug": "abrahams-bay"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Nichollstown and Berry Islands",
+            "s_region_slug": "nichollstown-and-berry-islands",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "nichollstown-and-berry-islands",
+                    "s_city_name": "Nichollstown and Berry Islands",
+                    "s_city_slug": "nichollstown-and-berry-islands"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "North Abaco",
+            "s_region_slug": "north-abaco",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "north-abaco",
+                    "s_city_name": "Coopers Town",
+                    "s_city_slug": "coopers-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "North Andros",
+            "s_region_slug": "north-andros",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "north-andros",
+                    "s_city_name": "Andros Town",
+                    "s_city_slug": "andros-town"
+                },
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "north-andros",
+                    "s_city_name": "San Andros",
+                    "s_city_slug": "san-andros"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "North Eleuthera",
+            "s_region_slug": "north-eleuthera",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "north-eleuthera",
+                    "s_city_name": "North Eleuthera",
+                    "s_city_slug": "north-eleuthera"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Ragged Island",
+            "s_region_slug": "ragged-island",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "ragged-island",
+                    "s_city_name": "Duncan Town",
+                    "s_city_slug": "duncan-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Rock Sound",
+            "s_region_slug": "rock-sound",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "rock-sound",
+                    "s_city_name": "Rock Sound",
+                    "s_city_slug": "rock-sound"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Rum Cay District",
+            "s_region_slug": "rum-cay-district",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "rum-cay-district",
+                    "s_city_name": "Port Nelson",
+                    "s_city_slug": "port-nelson"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "San Salvador Island",
+            "s_region_slug": "san-salvador-island",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "san-salvador-island",
+                    "s_city_name": "Cockburn Town",
+                    "s_city_slug": "cockburn-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "San Salvador and Rum Cay",
+            "s_region_slug": "san-salvador-and-rum-cay",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "san-salvador-and-rum-cay",
+                    "s_city_name": "San Salvador and Rum Cay",
+                    "s_city_slug": "san-salvador-and-rum-cay"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Sandy Point",
+            "s_region_slug": "sandy-point",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "sandy-point",
+                    "s_city_name": "Sandy Point",
+                    "s_city_slug": "sandy-point"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "South Abaco",
+            "s_region_slug": "south-abaco",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "south-abaco",
+                    "s_city_name": "South Abaco",
+                    "s_city_slug": "south-abaco"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "South Andros",
+            "s_region_slug": "south-andros",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "south-andros",
+                    "s_city_name": "South Andros",
+                    "s_city_slug": "south-andros"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "South Eleuthera",
+            "s_region_slug": "south-eleuthera",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "south-eleuthera",
+                    "s_city_name": "South Eleuthera",
+                    "s_city_slug": "south-eleuthera"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "Spanish Wells",
+            "s_region_slug": "spanish-wells",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "spanish-wells",
+                    "s_city_name": "Spanish Wells",
+                    "s_city_slug": "spanish-wells"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BS",
+            "s_region_name": "West Grand Bahama",
+            "s_region_slug": "west-grand-bahama",
+            "cities": [
+                {
+                    "s_country_code": "BS",
+                    "s_region_slug": "west-grand-bahama",
+                    "s_city_name": "West End",
+                    "s_city_slug": "west-end"
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,238 @@
-{"s_country_code": "GA", "s_country_name": "Gabon", "s_country_slug": "gabon", "regions": [{"s_country_code": "GA", "s_region_name": "Estuaire Province", "s_region_slug": "estuaire-province", "cities": [{"s_country_code": "GA", "s_region_slug": "estuaire-province", "s_city_name": "Cocobeach", "s_city_slug": "cocobeach"}, {"s_country_code": "GA", "s_region_slug": "estuaire-province", "s_city_name": "Libreville", "s_city_slug": "libreville"}, {"s_country_code": "GA", "s_region_slug": "estuaire-province", "s_city_name": "Ntoum", "s_city_slug": "ntoum"}]}, {"s_country_code": "GA", "s_region_name": "Haut-Ogooue Province", "s_region_slug": "haut-ogooue-province", "cities": [{"s_country_code": "GA", "s_region_slug": "haut-ogooue-province", "s_city_name": "Franceville", "s_city_slug": "franceville"}, {"s_country_code": "GA", "s_region_slug": "haut-ogooue-province", "s_city_name": "Lekoni", "s_city_slug": "lekoni"}, {"s_country_code": "GA", "s_region_slug": "haut-ogooue-province", "s_city_name": "Moanda", "s_city_slug": "moanda"}, {"s_country_code": "GA", "s_region_slug": "haut-ogooue-province", "s_city_name": "Mounana", "s_city_slug": "mounana"}, {"s_country_code": "GA", "s_region_slug": "haut-ogooue-province", "s_city_name": "Okondja", "s_city_slug": "okondja"}]}, {"s_country_code": "GA", "s_region_name": "Moyen-Ogooue Province", "s_region_slug": "moyen-ogooue-province", "cities": [{"s_country_code": "GA", "s_region_slug": "moyen-ogooue-province", "s_city_name": "Lambarene", "s_city_slug": "lambarene"}, {"s_country_code": "GA", "s_region_slug": "moyen-ogooue-province", "s_city_name": "Ndjole", "s_city_slug": "ndjole"}]}, {"s_country_code": "GA", "s_region_name": "Ngounie Province", "s_region_slug": "ngounie-province", "cities": [{"s_country_code": "GA", "s_region_slug": "ngounie-province", "s_city_name": "Fougamou", "s_city_slug": "fougamou"}, {"s_country_code": "GA", "s_region_slug": "ngounie-province", "s_city_name": "Mbigou", "s_city_slug": "mbigou"}, {"s_country_code": "GA", "s_region_slug": "ngounie-province", "s_city_name": "Mimongo", "s_city_slug": "mimongo"}, {"s_country_code": "GA", "s_region_slug": "ngounie-province", "s_city_name": "Mouila", "s_city_slug": "mouila"}, {"s_country_code": "GA", "s_region_slug": "ngounie-province", "s_city_name": "Ndende", "s_city_slug": "ndende"}]}, {"s_country_code": "GA", "s_region_name": "Nyanga Province", "s_region_slug": "nyanga-province", "cities": [{"s_country_code": "GA", "s_region_slug": "nyanga-province", "s_city_name": "Mayumba", "s_city_slug": "mayumba"}, {"s_country_code": "GA", "s_region_slug": "nyanga-province", "s_city_name": "Tchibanga", "s_city_slug": "tchibanga"}]}, {"s_country_code": "GA", "s_region_name": "Ogooue-Ivindo Province", "s_region_slug": "ogooue-ivindo-province", "cities": [{"s_country_code": "GA", "s_region_slug": "ogooue-ivindo-province", "s_city_name": "Booue", "s_city_slug": "booue"}, {"s_country_code": "GA", "s_region_slug": "ogooue-ivindo-province", "s_city_name": "Makokou", "s_city_slug": "makokou"}, {"s_country_code": "GA", "s_region_slug": "ogooue-ivindo-province", "s_city_name": "Zadie", "s_city_slug": "zadie"}]}, {"s_country_code": "GA", "s_region_name": "Ogooue-Lolo Province", "s_region_slug": "ogooue-lolo-province", "cities": [{"s_country_code": "GA", "s_region_slug": "ogooue-lolo-province", "s_city_name": "Koulamoutou", "s_city_slug": "koulamoutou"}, {"s_country_code": "GA", "s_region_slug": "ogooue-lolo-province", "s_city_name": "Lastoursville", "s_city_slug": "lastoursville"}]}, {"s_country_code": "GA", "s_region_name": "Ogooue-Maritime Province", "s_region_slug": "ogooue-maritime-province", "cities": [{"s_country_code": "GA", "s_region_slug": "ogooue-maritime-province", "s_city_name": "Gamba", "s_city_slug": "gamba"}, {"s_country_code": "GA", "s_region_slug": "ogooue-maritime-province", "s_city_name": "Omboue", "s_city_slug": "omboue"}, {"s_country_code": "GA", "s_region_slug": "ogooue-maritime-province", "s_city_name": "Port-Gentil", "s_city_slug": "port-gentil"}]}, {"s_country_code": "GA", "s_region_name": "Woleu-Ntem Province", "s_region_slug": "woleu-ntem-province", "cities": [{"s_country_code": "GA", "s_region_slug": "woleu-ntem-province", "s_city_name": "Bitam", "s_city_slug": "bitam"}, {"s_country_code": "GA", "s_region_slug": "woleu-ntem-province", "s_city_name": "Mitzic", "s_city_slug": "mitzic"}, {"s_country_code": "GA", "s_region_slug": "woleu-ntem-province", "s_city_name": "Oyem", "s_city_slug": "oyem"}]}]}
+{
+    "s_country_code": "GA",
+    "s_country_name": "Gabon",
+    "s_country_slug": "gabon",
+    "regions": [
+        {
+            "s_country_code": "GA",
+            "s_region_name": "Estuaire Province",
+            "s_region_slug": "estuaire-province",
+            "cities": [
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "estuaire-province",
+                    "s_city_name": "Cocobeach",
+                    "s_city_slug": "cocobeach"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "estuaire-province",
+                    "s_city_name": "Libreville",
+                    "s_city_slug": "libreville"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "estuaire-province",
+                    "s_city_name": "Ntoum",
+                    "s_city_slug": "ntoum"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GA",
+            "s_region_name": "Haut-Ogooue Province",
+            "s_region_slug": "haut-ogooue-province",
+            "cities": [
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "haut-ogooue-province",
+                    "s_city_name": "Franceville",
+                    "s_city_slug": "franceville"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "haut-ogooue-province",
+                    "s_city_name": "Lekoni",
+                    "s_city_slug": "lekoni"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "haut-ogooue-province",
+                    "s_city_name": "Moanda",
+                    "s_city_slug": "moanda"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "haut-ogooue-province",
+                    "s_city_name": "Mounana",
+                    "s_city_slug": "mounana"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "haut-ogooue-province",
+                    "s_city_name": "Okondja",
+                    "s_city_slug": "okondja"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GA",
+            "s_region_name": "Moyen-Ogooue Province",
+            "s_region_slug": "moyen-ogooue-province",
+            "cities": [
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "moyen-ogooue-province",
+                    "s_city_name": "Lambarene",
+                    "s_city_slug": "lambarene"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "moyen-ogooue-province",
+                    "s_city_name": "Ndjole",
+                    "s_city_slug": "ndjole"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GA",
+            "s_region_name": "Ngounie Province",
+            "s_region_slug": "ngounie-province",
+            "cities": [
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ngounie-province",
+                    "s_city_name": "Fougamou",
+                    "s_city_slug": "fougamou"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ngounie-province",
+                    "s_city_name": "Mbigou",
+                    "s_city_slug": "mbigou"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ngounie-province",
+                    "s_city_name": "Mimongo",
+                    "s_city_slug": "mimongo"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ngounie-province",
+                    "s_city_name": "Mouila",
+                    "s_city_slug": "mouila"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ngounie-province",
+                    "s_city_name": "Ndende",
+                    "s_city_slug": "ndende"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GA",
+            "s_region_name": "Nyanga Province",
+            "s_region_slug": "nyanga-province",
+            "cities": [
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "nyanga-province",
+                    "s_city_name": "Mayumba",
+                    "s_city_slug": "mayumba"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "nyanga-province",
+                    "s_city_name": "Tchibanga",
+                    "s_city_slug": "tchibanga"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GA",
+            "s_region_name": "Ogooue-Ivindo Province",
+            "s_region_slug": "ogooue-ivindo-province",
+            "cities": [
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ogooue-ivindo-province",
+                    "s_city_name": "Booue",
+                    "s_city_slug": "booue"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ogooue-ivindo-province",
+                    "s_city_name": "Makokou",
+                    "s_city_slug": "makokou"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ogooue-ivindo-province",
+                    "s_city_name": "Zadie",
+                    "s_city_slug": "zadie"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GA",
+            "s_region_name": "Ogooue-Lolo Province",
+            "s_region_slug": "ogooue-lolo-province",
+            "cities": [
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ogooue-lolo-province",
+                    "s_city_name": "Koulamoutou",
+                    "s_city_slug": "koulamoutou"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ogooue-lolo-province",
+                    "s_city_name": "Lastoursville",
+                    "s_city_slug": "lastoursville"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GA",
+            "s_region_name": "Ogooue-Maritime Province",
+            "s_region_slug": "ogooue-maritime-province",
+            "cities": [
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ogooue-maritime-province",
+                    "s_city_name": "Gamba",
+                    "s_city_slug": "gamba"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ogooue-maritime-province",
+                    "s_city_name": "Omboue",
+                    "s_city_slug": "omboue"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "ogooue-maritime-province",
+                    "s_city_name": "Port-Gentil",
+                    "s_city_slug": "port-gentil"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GA",
+            "s_region_name": "Woleu-Ntem Province",
+            "s_region_slug": "woleu-ntem-province",
+            "cities": [
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "woleu-ntem-province",
+                    "s_city_name": "Bitam",
+                    "s_city_slug": "bitam"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "woleu-ntem-province",
+                    "s_city_name": "Mitzic",
+                    "s_city_slug": "mitzic"
+                },
+                {
+                    "s_country_code": "GA",
+                    "s_region_slug": "woleu-ntem-province",
+                    "s_city_name": "Oyem",
+                    "s_city_slug": "oyem"
+                }
+            ]
+        }
+    ]
+}

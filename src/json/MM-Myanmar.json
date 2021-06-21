@@ -1,1 +1,556 @@
-{"s_country_code": "MM", "s_country_name": "Myanmar", "s_country_slug": "myanmar", "regions": [{"s_country_code": "MM", "s_region_name": "Ayeyarwady Region", "s_region_slug": "ayeyarwady-region", "cities": [{"s_country_code": "MM", "s_region_slug": "ayeyarwady-region", "s_city_name": "Bogale", "s_city_slug": "bogale"}, {"s_country_code": "MM", "s_region_slug": "ayeyarwady-region", "s_city_name": "Hinthada", "s_city_slug": "hinthada"}, {"s_country_code": "MM", "s_region_slug": "ayeyarwady-region", "s_city_name": "Kyaiklat", "s_city_slug": "kyaiklat"}, {"s_country_code": "MM", "s_region_slug": "ayeyarwady-region", "s_city_name": "Maubin", "s_city_slug": "maubin"}, {"s_country_code": "MM", "s_region_slug": "ayeyarwady-region", "s_city_name": "Mawlamyinegyunn", "s_city_slug": "mawlamyinegyunn"}, {"s_country_code": "MM", "s_region_slug": "ayeyarwady-region", "s_city_name": "Myanaung", "s_city_slug": "myanaung"}, {"s_country_code": "MM", "s_region_slug": "ayeyarwady-region", "s_city_name": "Nyaungdon", "s_city_slug": "nyaungdon"}, {"s_country_code": "MM", "s_region_slug": "ayeyarwady-region", "s_city_name": "Pathein", "s_city_slug": "pathein"}, {"s_country_code": "MM", "s_region_slug": "ayeyarwady-region", "s_city_name": "Pyapon", "s_city_slug": "pyapon"}, {"s_country_code": "MM", "s_region_slug": "ayeyarwady-region", "s_city_name": "Wakema", "s_city_slug": "wakema"}]}, {"s_country_code": "MM", "s_region_name": "Bago", "s_region_slug": "bago", "cities": [{"s_country_code": "MM", "s_region_slug": "bago", "s_city_name": "Bago", "s_city_slug": "bago"}, {"s_country_code": "MM", "s_region_slug": "bago", "s_city_name": "Letpandan", "s_city_slug": "letpandan"}, {"s_country_code": "MM", "s_region_slug": "bago", "s_city_name": "Nyaunglebin", "s_city_slug": "nyaunglebin"}, {"s_country_code": "MM", "s_region_slug": "bago", "s_city_name": "Paungde", "s_city_slug": "paungde"}, {"s_country_code": "MM", "s_region_slug": "bago", "s_city_name": "Pyay", "s_city_slug": "pyay"}, {"s_country_code": "MM", "s_region_slug": "bago", "s_city_name": "Pyu", "s_city_slug": "pyu"}, {"s_country_code": "MM", "s_region_slug": "bago", "s_city_name": "Taungoo", "s_city_slug": "taungoo"}, {"s_country_code": "MM", "s_region_slug": "bago", "s_city_name": "Thanatpin", "s_city_slug": "thanatpin"}, {"s_country_code": "MM", "s_region_slug": "bago", "s_city_name": "Tharyarwady", "s_city_slug": "tharyarwady"}]}, {"s_country_code": "MM", "s_region_name": "Chin State", "s_region_slug": "chin-state", "cities": [{"s_country_code": "MM", "s_region_slug": "chin-state", "s_city_name": "Falam", "s_city_slug": "falam"}, {"s_country_code": "MM", "s_region_slug": "chin-state", "s_city_name": "Hakha", "s_city_slug": "hakha"}]}, {"s_country_code": "MM", "s_region_name": "Kachin State", "s_region_slug": "kachin-state", "cities": [{"s_country_code": "MM", "s_region_slug": "kachin-state", "s_city_name": "Bhamo", "s_city_slug": "bhamo"}, {"s_country_code": "MM", "s_region_slug": "kachin-state", "s_city_name": "Myitkyina", "s_city_slug": "myitkyina"}]}, {"s_country_code": "MM", "s_region_name": "Kayah State", "s_region_slug": "kayah-state", "cities": [{"s_country_code": "MM", "s_region_slug": "kayah-state", "s_city_name": "Loikaw", "s_city_slug": "loikaw"}]}, {"s_country_code": "MM", "s_region_name": "Kayin State", "s_region_slug": "kayin-state", "cities": [{"s_country_code": "MM", "s_region_slug": "kayin-state", "s_city_name": "Dellok", "s_city_slug": "dellok"}, {"s_country_code": "MM", "s_region_slug": "kayin-state", "s_city_name": "Hpa-An", "s_city_slug": "hpa-an"}, {"s_country_code": "MM", "s_region_slug": "kayin-state", "s_city_name": "Klonhtoug", "s_city_slug": "klonhtoug"}, {"s_country_code": "MM", "s_region_slug": "kayin-state", "s_city_name": "Kyain Seikgyi Township", "s_city_slug": "kyain-seikgyi-township"}, {"s_country_code": "MM", "s_region_slug": "kayin-state", "s_city_name": "Mikenaungea", "s_city_slug": "mikenaungea"}, {"s_country_code": "MM", "s_region_slug": "kayin-state", "s_city_name": "Myawadi", "s_city_slug": "myawadi"}, {"s_country_code": "MM", "s_region_slug": "kayin-state", "s_city_name": "Pulei", "s_city_slug": "pulei"}, {"s_country_code": "MM", "s_region_slug": "kayin-state", "s_city_name": "Tagondaing", "s_city_slug": "tagondaing"}, {"s_country_code": "MM", "s_region_slug": "kayin-state", "s_city_name": "Tamoowoug", "s_city_slug": "tamoowoug"}]}, {"s_country_code": "MM", "s_region_name": "Magway Region", "s_region_slug": "magway-region", "cities": [{"s_country_code": "MM", "s_region_slug": "magway-region", "s_city_name": "Chauk", "s_city_slug": "chauk"}, {"s_country_code": "MM", "s_region_slug": "magway-region", "s_city_name": "Magway", "s_city_slug": "magway"}, {"s_country_code": "MM", "s_region_slug": "magway-region", "s_city_name": "Minbu", "s_city_slug": "minbu"}, {"s_country_code": "MM", "s_region_slug": "magway-region", "s_city_name": "Myaydo", "s_city_slug": "myaydo"}, {"s_country_code": "MM", "s_region_slug": "magway-region", "s_city_name": "Pakokku", "s_city_slug": "pakokku"}, {"s_country_code": "MM", "s_region_slug": "magway-region", "s_city_name": "Taungdwingyi", "s_city_slug": "taungdwingyi"}, {"s_country_code": "MM", "s_region_slug": "magway-region", "s_city_name": "Thayetmyo", "s_city_slug": "thayetmyo"}, {"s_country_code": "MM", "s_region_slug": "magway-region", "s_city_name": "Yenangyaung", "s_city_slug": "yenangyaung"}]}, {"s_country_code": "MM", "s_region_name": "Mandalay Region", "s_region_slug": "mandalay-region", "cities": [{"s_country_code": "MM", "s_region_slug": "mandalay-region", "s_city_name": "Kyaukse", "s_city_slug": "kyaukse"}, {"s_country_code": "MM", "s_region_slug": "mandalay-region", "s_city_name": "Mandalay", "s_city_slug": "mandalay"}, {"s_country_code": "MM", "s_region_slug": "mandalay-region", "s_city_name": "Meiktila", "s_city_slug": "meiktila"}, {"s_country_code": "MM", "s_region_slug": "mandalay-region", "s_city_name": "Mogok", "s_city_slug": "mogok"}, {"s_country_code": "MM", "s_region_slug": "mandalay-region", "s_city_name": "Myingyan", "s_city_slug": "myingyan"}, {"s_country_code": "MM", "s_region_slug": "mandalay-region", "s_city_name": "Nyaungshwe", "s_city_slug": "nyaungshwe"}, {"s_country_code": "MM", "s_region_slug": "mandalay-region", "s_city_name": "Pyin Oo Lwin", "s_city_slug": "pyin-oo-lwin"}, {"s_country_code": "MM", "s_region_slug": "mandalay-region", "s_city_name": "Yamethin", "s_city_slug": "yamethin"}]}, {"s_country_code": "MM", "s_region_name": "Mon State", "s_region_slug": "mon-state", "cities": [{"s_country_code": "MM", "s_region_slug": "mon-state", "s_city_name": "Kyaikkami", "s_city_slug": "kyaikkami"}, {"s_country_code": "MM", "s_region_slug": "mon-state", "s_city_name": "Kyaikto", "s_city_slug": "kyaikto"}, {"s_country_code": "MM", "s_region_slug": "mon-state", "s_city_name": "Martaban", "s_city_slug": "martaban"}, {"s_country_code": "MM", "s_region_slug": "mon-state", "s_city_name": "Mawlamyine", "s_city_slug": "mawlamyine"}, {"s_country_code": "MM", "s_region_slug": "mon-state", "s_city_name": "Mudon", "s_city_slug": "mudon"}, {"s_country_code": "MM", "s_region_slug": "mon-state", "s_city_name": "Thaton", "s_city_slug": "thaton"}]}, {"s_country_code": "MM", "s_region_name": "Naypyidaw Union Territory", "s_region_slug": "naypyidaw-union-territory", "cities": [{"s_country_code": "MM", "s_region_slug": "naypyidaw-union-territory", "s_city_name": "Nay Pyi Taw", "s_city_slug": "nay-pyi-taw"}, {"s_country_code": "MM", "s_region_slug": "naypyidaw-union-territory", "s_city_name": "Pyinmana", "s_city_slug": "pyinmana"}]}, {"s_country_code": "MM", "s_region_name": "Rakhine State", "s_region_slug": "rakhine-state", "cities": [{"s_country_code": "MM", "s_region_slug": "rakhine-state", "s_city_name": "Sittwe", "s_city_slug": "sittwe"}]}, {"s_country_code": "MM", "s_region_name": "Sagaing Region", "s_region_slug": "sagaing-region", "cities": [{"s_country_code": "MM", "s_region_slug": "sagaing-region", "s_city_name": "Mawlaik", "s_city_slug": "mawlaik"}, {"s_country_code": "MM", "s_region_slug": "sagaing-region", "s_city_name": "Monywa", "s_city_slug": "monywa"}, {"s_country_code": "MM", "s_region_slug": "sagaing-region", "s_city_name": "Sagaing", "s_city_slug": "sagaing"}, {"s_country_code": "MM", "s_region_slug": "sagaing-region", "s_city_name": "Shwebo", "s_city_slug": "shwebo"}]}, {"s_country_code": "MM", "s_region_name": "Shan State", "s_region_slug": "shan-state", "cities": [{"s_country_code": "MM", "s_region_slug": "shan-state", "s_city_name": "Lashio", "s_city_slug": "lashio"}, {"s_country_code": "MM", "s_region_slug": "shan-state", "s_city_name": "Tachilek", "s_city_slug": "tachilek"}, {"s_country_code": "MM", "s_region_slug": "shan-state", "s_city_name": "Taunggyi", "s_city_slug": "taunggyi"}]}, {"s_country_code": "MM", "s_region_name": "Tanintharyi Region", "s_region_slug": "tanintharyi-region", "cities": [{"s_country_code": "MM", "s_region_slug": "tanintharyi-region", "s_city_name": "Dawei", "s_city_slug": "dawei"}, {"s_country_code": "MM", "s_region_slug": "tanintharyi-region", "s_city_name": "Kawthoung", "s_city_slug": "kawthoung"}, {"s_country_code": "MM", "s_region_slug": "tanintharyi-region", "s_city_name": "Myeik", "s_city_slug": "myeik"}]}, {"s_country_code": "MM", "s_region_name": "Yangon Region", "s_region_slug": "yangon-region", "cities": [{"s_country_code": "MM", "s_region_slug": "yangon-region", "s_city_name": "Kanbe", "s_city_slug": "kanbe"}, {"s_country_code": "MM", "s_region_slug": "yangon-region", "s_city_name": "Kayan", "s_city_slug": "kayan"}, {"s_country_code": "MM", "s_region_slug": "yangon-region", "s_city_name": "Syriam", "s_city_slug": "syriam"}, {"s_country_code": "MM", "s_region_slug": "yangon-region", "s_city_name": "Thongwa", "s_city_slug": "thongwa"}, {"s_country_code": "MM", "s_region_slug": "yangon-region", "s_city_name": "Twante", "s_city_slug": "twante"}, {"s_country_code": "MM", "s_region_slug": "yangon-region", "s_city_name": "Yangon", "s_city_slug": "yangon"}]}]}
+{
+    "s_country_code": "MM",
+    "s_country_name": "Myanmar",
+    "s_country_slug": "myanmar",
+    "regions": [
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Ayeyarwady Region",
+            "s_region_slug": "ayeyarwady-region",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "ayeyarwady-region",
+                    "s_city_name": "Bogale",
+                    "s_city_slug": "bogale"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "ayeyarwady-region",
+                    "s_city_name": "Hinthada",
+                    "s_city_slug": "hinthada"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "ayeyarwady-region",
+                    "s_city_name": "Kyaiklat",
+                    "s_city_slug": "kyaiklat"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "ayeyarwady-region",
+                    "s_city_name": "Maubin",
+                    "s_city_slug": "maubin"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "ayeyarwady-region",
+                    "s_city_name": "Mawlamyinegyunn",
+                    "s_city_slug": "mawlamyinegyunn"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "ayeyarwady-region",
+                    "s_city_name": "Myanaung",
+                    "s_city_slug": "myanaung"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "ayeyarwady-region",
+                    "s_city_name": "Nyaungdon",
+                    "s_city_slug": "nyaungdon"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "ayeyarwady-region",
+                    "s_city_name": "Pathein",
+                    "s_city_slug": "pathein"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "ayeyarwady-region",
+                    "s_city_name": "Pyapon",
+                    "s_city_slug": "pyapon"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "ayeyarwady-region",
+                    "s_city_name": "Wakema",
+                    "s_city_slug": "wakema"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Bago",
+            "s_region_slug": "bago",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "bago",
+                    "s_city_name": "Bago",
+                    "s_city_slug": "bago"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "bago",
+                    "s_city_name": "Letpandan",
+                    "s_city_slug": "letpandan"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "bago",
+                    "s_city_name": "Nyaunglebin",
+                    "s_city_slug": "nyaunglebin"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "bago",
+                    "s_city_name": "Paungde",
+                    "s_city_slug": "paungde"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "bago",
+                    "s_city_name": "Pyay",
+                    "s_city_slug": "pyay"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "bago",
+                    "s_city_name": "Pyu",
+                    "s_city_slug": "pyu"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "bago",
+                    "s_city_name": "Taungoo",
+                    "s_city_slug": "taungoo"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "bago",
+                    "s_city_name": "Thanatpin",
+                    "s_city_slug": "thanatpin"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "bago",
+                    "s_city_name": "Tharyarwady",
+                    "s_city_slug": "tharyarwady"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Chin State",
+            "s_region_slug": "chin-state",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "chin-state",
+                    "s_city_name": "Falam",
+                    "s_city_slug": "falam"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "chin-state",
+                    "s_city_name": "Hakha",
+                    "s_city_slug": "hakha"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Kachin State",
+            "s_region_slug": "kachin-state",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "kachin-state",
+                    "s_city_name": "Bhamo",
+                    "s_city_slug": "bhamo"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "kachin-state",
+                    "s_city_name": "Myitkyina",
+                    "s_city_slug": "myitkyina"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Kayah State",
+            "s_region_slug": "kayah-state",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "kayah-state",
+                    "s_city_name": "Loikaw",
+                    "s_city_slug": "loikaw"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Kayin State",
+            "s_region_slug": "kayin-state",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "kayin-state",
+                    "s_city_name": "Dellok",
+                    "s_city_slug": "dellok"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "kayin-state",
+                    "s_city_name": "Hpa-An",
+                    "s_city_slug": "hpa-an"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "kayin-state",
+                    "s_city_name": "Klonhtoug",
+                    "s_city_slug": "klonhtoug"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "kayin-state",
+                    "s_city_name": "Kyain Seikgyi Township",
+                    "s_city_slug": "kyain-seikgyi-township"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "kayin-state",
+                    "s_city_name": "Mikenaungea",
+                    "s_city_slug": "mikenaungea"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "kayin-state",
+                    "s_city_name": "Myawadi",
+                    "s_city_slug": "myawadi"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "kayin-state",
+                    "s_city_name": "Pulei",
+                    "s_city_slug": "pulei"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "kayin-state",
+                    "s_city_name": "Tagondaing",
+                    "s_city_slug": "tagondaing"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "kayin-state",
+                    "s_city_name": "Tamoowoug",
+                    "s_city_slug": "tamoowoug"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Magway Region",
+            "s_region_slug": "magway-region",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "magway-region",
+                    "s_city_name": "Chauk",
+                    "s_city_slug": "chauk"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "magway-region",
+                    "s_city_name": "Magway",
+                    "s_city_slug": "magway"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "magway-region",
+                    "s_city_name": "Minbu",
+                    "s_city_slug": "minbu"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "magway-region",
+                    "s_city_name": "Myaydo",
+                    "s_city_slug": "myaydo"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "magway-region",
+                    "s_city_name": "Pakokku",
+                    "s_city_slug": "pakokku"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "magway-region",
+                    "s_city_name": "Taungdwingyi",
+                    "s_city_slug": "taungdwingyi"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "magway-region",
+                    "s_city_name": "Thayetmyo",
+                    "s_city_slug": "thayetmyo"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "magway-region",
+                    "s_city_name": "Yenangyaung",
+                    "s_city_slug": "yenangyaung"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Mandalay Region",
+            "s_region_slug": "mandalay-region",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mandalay-region",
+                    "s_city_name": "Kyaukse",
+                    "s_city_slug": "kyaukse"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mandalay-region",
+                    "s_city_name": "Mandalay",
+                    "s_city_slug": "mandalay"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mandalay-region",
+                    "s_city_name": "Meiktila",
+                    "s_city_slug": "meiktila"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mandalay-region",
+                    "s_city_name": "Mogok",
+                    "s_city_slug": "mogok"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mandalay-region",
+                    "s_city_name": "Myingyan",
+                    "s_city_slug": "myingyan"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mandalay-region",
+                    "s_city_name": "Nyaungshwe",
+                    "s_city_slug": "nyaungshwe"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mandalay-region",
+                    "s_city_name": "Pyin Oo Lwin",
+                    "s_city_slug": "pyin-oo-lwin"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mandalay-region",
+                    "s_city_name": "Yamethin",
+                    "s_city_slug": "yamethin"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Mon State",
+            "s_region_slug": "mon-state",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mon-state",
+                    "s_city_name": "Kyaikkami",
+                    "s_city_slug": "kyaikkami"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mon-state",
+                    "s_city_name": "Kyaikto",
+                    "s_city_slug": "kyaikto"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mon-state",
+                    "s_city_name": "Martaban",
+                    "s_city_slug": "martaban"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mon-state",
+                    "s_city_name": "Mawlamyine",
+                    "s_city_slug": "mawlamyine"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mon-state",
+                    "s_city_name": "Mudon",
+                    "s_city_slug": "mudon"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "mon-state",
+                    "s_city_name": "Thaton",
+                    "s_city_slug": "thaton"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Naypyidaw Union Territory",
+            "s_region_slug": "naypyidaw-union-territory",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "naypyidaw-union-territory",
+                    "s_city_name": "Nay Pyi Taw",
+                    "s_city_slug": "nay-pyi-taw"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "naypyidaw-union-territory",
+                    "s_city_name": "Pyinmana",
+                    "s_city_slug": "pyinmana"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Rakhine State",
+            "s_region_slug": "rakhine-state",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "rakhine-state",
+                    "s_city_name": "Sittwe",
+                    "s_city_slug": "sittwe"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Sagaing Region",
+            "s_region_slug": "sagaing-region",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "sagaing-region",
+                    "s_city_name": "Mawlaik",
+                    "s_city_slug": "mawlaik"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "sagaing-region",
+                    "s_city_name": "Monywa",
+                    "s_city_slug": "monywa"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "sagaing-region",
+                    "s_city_name": "Sagaing",
+                    "s_city_slug": "sagaing"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "sagaing-region",
+                    "s_city_name": "Shwebo",
+                    "s_city_slug": "shwebo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Shan State",
+            "s_region_slug": "shan-state",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "shan-state",
+                    "s_city_name": "Lashio",
+                    "s_city_slug": "lashio"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "shan-state",
+                    "s_city_name": "Tachilek",
+                    "s_city_slug": "tachilek"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "shan-state",
+                    "s_city_name": "Taunggyi",
+                    "s_city_slug": "taunggyi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Tanintharyi Region",
+            "s_region_slug": "tanintharyi-region",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "tanintharyi-region",
+                    "s_city_name": "Dawei",
+                    "s_city_slug": "dawei"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "tanintharyi-region",
+                    "s_city_name": "Kawthoung",
+                    "s_city_slug": "kawthoung"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "tanintharyi-region",
+                    "s_city_name": "Myeik",
+                    "s_city_slug": "myeik"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MM",
+            "s_region_name": "Yangon Region",
+            "s_region_slug": "yangon-region",
+            "cities": [
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "yangon-region",
+                    "s_city_name": "Kanbe",
+                    "s_city_slug": "kanbe"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "yangon-region",
+                    "s_city_name": "Kayan",
+                    "s_city_slug": "kayan"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "yangon-region",
+                    "s_city_name": "Syriam",
+                    "s_city_slug": "syriam"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "yangon-region",
+                    "s_city_name": "Thongwa",
+                    "s_city_slug": "thongwa"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "yangon-region",
+                    "s_city_name": "Twante",
+                    "s_city_slug": "twante"
+                },
+                {
+                    "s_country_code": "MM",
+                    "s_region_slug": "yangon-region",
+                    "s_city_name": "Yangon",
+                    "s_city_slug": "yangon"
+                }
+            ]
+        }
+    ]
+}

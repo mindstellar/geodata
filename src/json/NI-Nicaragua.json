@@ -1,1 +1,977 @@
-{"s_country_code": "NI", "s_country_name": "Nicaragua", "s_country_slug": "nicaragua", "regions": [{"s_country_code": "NI", "s_region_name": "Boaco Department", "s_region_slug": "boaco-department", "cities": [{"s_country_code": "NI", "s_region_slug": "boaco-department", "s_city_name": "Boaco", "s_city_slug": "boaco"}, {"s_country_code": "NI", "s_region_slug": "boaco-department", "s_city_name": "Camoapa", "s_city_slug": "camoapa"}, {"s_country_code": "NI", "s_region_slug": "boaco-department", "s_city_name": "San Jose de los Remates", "s_city_slug": "san-jose-de-los-remates"}, {"s_country_code": "NI", "s_region_slug": "boaco-department", "s_city_name": "San Lorenzo", "s_city_slug": "san-lorenzo"}, {"s_country_code": "NI", "s_region_slug": "boaco-department", "s_city_name": "Santa Lucia", "s_city_slug": "santa-lucia"}, {"s_country_code": "NI", "s_region_slug": "boaco-department", "s_city_name": "Teustepe", "s_city_slug": "teustepe"}]}, {"s_country_code": "NI", "s_region_name": "Carazo Department", "s_region_slug": "carazo-department", "cities": [{"s_country_code": "NI", "s_region_slug": "carazo-department", "s_city_name": "Diriamba", "s_city_slug": "diriamba"}, {"s_country_code": "NI", "s_region_slug": "carazo-department", "s_city_name": "Dolores", "s_city_slug": "dolores"}, {"s_country_code": "NI", "s_region_slug": "carazo-department", "s_city_name": "El Rosario", "s_city_slug": "el-rosario"}, {"s_country_code": "NI", "s_region_slug": "carazo-department", "s_city_name": "Jinotepe", "s_city_slug": "jinotepe"}, {"s_country_code": "NI", "s_region_slug": "carazo-department", "s_city_name": "La Conquista", "s_city_slug": "la-conquista"}, {"s_country_code": "NI", "s_region_slug": "carazo-department", "s_city_name": "La Paz de Carazo", "s_city_slug": "la-paz-de-carazo"}, {"s_country_code": "NI", "s_region_slug": "carazo-department", "s_city_name": "Municipio de San Marcos", "s_city_slug": "municipio-de-san-marcos"}, {"s_country_code": "NI", "s_region_slug": "carazo-department", "s_city_name": "San Marcos", "s_city_slug": "san-marcos"}, {"s_country_code": "NI", "s_region_slug": "carazo-department", "s_city_name": "Santa Teresa", "s_city_slug": "santa-teresa"}]}, {"s_country_code": "NI", "s_region_name": "Chinandega Department", "s_region_slug": "chinandega-department", "cities": [{"s_country_code": "NI", "s_region_slug": "chinandega-department", "s_city_name": "Chichigalpa", "s_city_slug": "chichigalpa"}, {"s_country_code": "NI", "s_region_slug": "chinandega-department", "s_city_name": "Chinandega", "s_city_slug": "chinandega"}, {"s_country_code": "NI", "s_region_slug": "chinandega-department", "s_city_name": "Cinco Pinos", "s_city_slug": "cinco-pinos"}, {"s_country_code": "NI", "s_region_slug": "chinandega-department", "s_city_name": "Corinto", "s_city_slug": "corinto"}, {"s_country_code": "NI", "s_region_slug": "chinandega-department", "s_city_name": "El Realejo", "s_city_slug": "el-realejo"}, {"s_country_code": "NI", "s_region_slug": "chinandega-department", "s_city_name": "El Viejo", "s_city_slug": "el-viejo"}, {"s_country_code": "NI", "s_region_slug": "chinandega-department", "s_city_name": "Jiquilillo", "s_city_slug": "jiquilillo"}, {"s_country_code": "NI", "s_region_slug": "chinandega-department", "s_city_name": "Municipio de San Francisco del Norte", "s_city_slug": "municipio-de-san-francisco-del-norte"}, {"s_country_code": "NI", "s_region_slug": "chinandega-department", "s_city_name": "Posoltega", "s_city_slug": "posoltega"}, {"s_country_code": "NI", "s_region_slug": "chinandega-department", "s_city_name": "Puerto Morazan", "s_city_slug": "puerto-morazan"}, {"s_country_code": "NI", "s_region_slug": "chinandega-department", "s_city_name": "Santo Tomas del Norte", "s_city_slug": "santo-tomas-del-norte"}, {"s_country_code": "NI", "s_region_slug": "chinandega-department", "s_city_name": "Somotillo", "s_city_slug": "somotillo"}]}, {"s_country_code": "NI", "s_region_name": "Chontales Department", "s_region_slug": "chontales-department", "cities": [{"s_country_code": "NI", "s_region_slug": "chontales-department", "s_city_name": "Acoyapa", "s_city_slug": "acoyapa"}, {"s_country_code": "NI", "s_region_slug": "chontales-department", "s_city_name": "Comalapa", "s_city_slug": "comalapa"}, {"s_country_code": "NI", "s_region_slug": "chontales-department", "s_city_name": "Cuapa", "s_city_slug": "cuapa"}, {"s_country_code": "NI", "s_region_slug": "chontales-department", "s_city_name": "El Ayote", "s_city_slug": "el-ayote"}, {"s_country_code": "NI", "s_region_slug": "chontales-department", "s_city_name": "Juigalpa", "s_city_slug": "juigalpa"}, {"s_country_code": "NI", "s_region_slug": "chontales-department", "s_city_name": "La Libertad", "s_city_slug": "la-libertad"}, {"s_country_code": "NI", "s_region_slug": "chontales-department", "s_city_name": "Santo Domingo", "s_city_slug": "santo-domingo"}, {"s_country_code": "NI", "s_region_slug": "chontales-department", "s_city_name": "Santo Tomas", "s_city_slug": "santo-tomas"}, {"s_country_code": "NI", "s_region_slug": "chontales-department", "s_city_name": "Villa Sandino", "s_city_slug": "villa-sandino"}]}, {"s_country_code": "NI", "s_region_name": "Esteli Department", "s_region_slug": "esteli-department", "cities": [{"s_country_code": "NI", "s_region_slug": "esteli-department", "s_city_name": "Condega", "s_city_slug": "condega"}, {"s_country_code": "NI", "s_region_slug": "esteli-department", "s_city_name": "Esteli", "s_city_slug": "esteli"}, {"s_country_code": "NI", "s_region_slug": "esteli-department", "s_city_name": "La Trinidad", "s_city_slug": "la-trinidad"}, {"s_country_code": "NI", "s_region_slug": "esteli-department", "s_city_name": "Pueblo Nuevo", "s_city_slug": "pueblo-nuevo"}, {"s_country_code": "NI", "s_region_slug": "esteli-department", "s_city_name": "San Juan de Limay", "s_city_slug": "san-juan-de-limay"}]}, {"s_country_code": "NI", "s_region_name": "Granada Department", "s_region_slug": "granada-department", "cities": [{"s_country_code": "NI", "s_region_slug": "granada-department", "s_city_name": "Diria", "s_city_slug": "diria"}, {"s_country_code": "NI", "s_region_slug": "granada-department", "s_city_name": "Diriomo", "s_city_slug": "diriomo"}, {"s_country_code": "NI", "s_region_slug": "granada-department", "s_city_name": "Granada", "s_city_slug": "granada"}, {"s_country_code": "NI", "s_region_slug": "granada-department", "s_city_name": "Nandaime", "s_city_slug": "nandaime"}]}, {"s_country_code": "NI", "s_region_name": "Jinotega Department", "s_region_slug": "jinotega-department", "cities": [{"s_country_code": "NI", "s_region_slug": "jinotega-department", "s_city_name": "El Cua", "s_city_slug": "el-cua"}, {"s_country_code": "NI", "s_region_slug": "jinotega-department", "s_city_name": "Jinotega", "s_city_slug": "jinotega"}, {"s_country_code": "NI", "s_region_slug": "jinotega-department", "s_city_name": "La Concordia", "s_city_slug": "la-concordia"}, {"s_country_code": "NI", "s_region_slug": "jinotega-department", "s_city_name": "Las Praderas", "s_city_slug": "las-praderas"}, {"s_country_code": "NI", "s_region_slug": "jinotega-department", "s_city_name": "LLano de La Cruz", "s_city_slug": "llano-de-la-cruz"}, {"s_country_code": "NI", "s_region_slug": "jinotega-department", "s_city_name": "San Jose de Bocay", "s_city_slug": "san-jose-de-bocay"}, {"s_country_code": "NI", "s_region_slug": "jinotega-department", "s_city_name": "San Rafael del Norte", "s_city_slug": "san-rafael-del-norte"}, {"s_country_code": "NI", "s_region_slug": "jinotega-department", "s_city_name": "San Sebastian de Yali", "s_city_slug": "san-sebastian-de-yali"}]}, {"s_country_code": "NI", "s_region_name": "Leon Department", "s_region_slug": "leon-department", "cities": [{"s_country_code": "NI", "s_region_slug": "leon-department", "s_city_name": "Achuapa", "s_city_slug": "achuapa"}, {"s_country_code": "NI", "s_region_slug": "leon-department", "s_city_name": "El Jicaral", "s_city_slug": "el-jicaral"}, {"s_country_code": "NI", "s_region_slug": "leon-department", "s_city_name": "El Sauce", "s_city_slug": "el-sauce"}, {"s_country_code": "NI", "s_region_slug": "leon-department", "s_city_name": "La Paz Centro", "s_city_slug": "la-paz-centro"}, {"s_country_code": "NI", "s_region_slug": "leon-department", "s_city_name": "Larreynaga", "s_city_slug": "larreynaga"}, {"s_country_code": "NI", "s_region_slug": "leon-department", "s_city_name": "Leon", "s_city_slug": "leon"}, {"s_country_code": "NI", "s_region_slug": "leon-department", "s_city_name": "Nagarote", "s_city_slug": "nagarote"}, {"s_country_code": "NI", "s_region_slug": "leon-department", "s_city_name": "Quezalguaque", "s_city_slug": "quezalguaque"}, {"s_country_code": "NI", "s_region_slug": "leon-department", "s_city_name": "Santa Rosa del Penon", "s_city_slug": "santa-rosa-del-penon"}, {"s_country_code": "NI", "s_region_slug": "leon-department", "s_city_name": "Telica", "s_city_slug": "telica"}]}, {"s_country_code": "NI", "s_region_name": "Madriz Department", "s_region_slug": "madriz-department", "cities": [{"s_country_code": "NI", "s_region_slug": "madriz-department", "s_city_name": "Las Sabanas", "s_city_slug": "las-sabanas"}, {"s_country_code": "NI", "s_region_slug": "madriz-department", "s_city_name": "Palacaguina", "s_city_slug": "palacaguina"}, {"s_country_code": "NI", "s_region_slug": "madriz-department", "s_city_name": "San Jose de Cusmapa", "s_city_slug": "san-jose-de-cusmapa"}, {"s_country_code": "NI", "s_region_slug": "madriz-department", "s_city_name": "San Juan de Rio Coco", "s_city_slug": "san-juan-de-rio-coco"}, {"s_country_code": "NI", "s_region_slug": "madriz-department", "s_city_name": "San Lucas", "s_city_slug": "san-lucas"}, {"s_country_code": "NI", "s_region_slug": "madriz-department", "s_city_name": "Somoto", "s_city_slug": "somoto"}, {"s_country_code": "NI", "s_region_slug": "madriz-department", "s_city_name": "Telpaneca", "s_city_slug": "telpaneca"}, {"s_country_code": "NI", "s_region_slug": "madriz-department", "s_city_name": "Totogalpa", "s_city_slug": "totogalpa"}, {"s_country_code": "NI", "s_region_slug": "madriz-department", "s_city_name": "Yalaguina", "s_city_slug": "yalaguina"}]}, {"s_country_code": "NI", "s_region_name": "Managua Department", "s_region_slug": "managua-department", "cities": [{"s_country_code": "NI", "s_region_slug": "managua-department", "s_city_name": "Ciudad Sandino", "s_city_slug": "ciudad-sandino"}, {"s_country_code": "NI", "s_region_slug": "managua-department", "s_city_name": "El Crucero", "s_city_slug": "el-crucero"}, {"s_country_code": "NI", "s_region_slug": "managua-department", "s_city_name": "Managua", "s_city_slug": "managua"}, {"s_country_code": "NI", "s_region_slug": "managua-department", "s_city_name": "Masachapa", "s_city_slug": "masachapa"}, {"s_country_code": "NI", "s_region_slug": "managua-department", "s_city_name": "San Rafael del Sur", "s_city_slug": "san-rafael-del-sur"}, {"s_country_code": "NI", "s_region_slug": "managua-department", "s_city_name": "Ticuantepe", "s_city_slug": "ticuantepe"}, {"s_country_code": "NI", "s_region_slug": "managua-department", "s_city_name": "Tipitapa", "s_city_slug": "tipitapa"}, {"s_country_code": "NI", "s_region_slug": "managua-department", "s_city_name": "Valle San Francisco", "s_city_slug": "valle-san-francisco"}, {"s_country_code": "NI", "s_region_slug": "managua-department", "s_city_name": "Villa El Carmen", "s_city_slug": "villa-el-carmen"}]}, {"s_country_code": "NI", "s_region_name": "Masaya Department", "s_region_slug": "masaya-department", "cities": [{"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "Catarina", "s_city_slug": "catarina"}, {"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "La Concepcion", "s_city_slug": "la-concepcion"}, {"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "Masatepe", "s_city_slug": "masatepe"}, {"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "Masaya", "s_city_slug": "masaya"}, {"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "Municipio de Masatepe", "s_city_slug": "municipio-de-masatepe"}, {"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "Municipio de Nandasmo", "s_city_slug": "municipio-de-nandasmo"}, {"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "Municipio de Niquinohomo", "s_city_slug": "municipio-de-niquinohomo"}, {"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "Municipio de San Juan de Oriente", "s_city_slug": "municipio-de-san-juan-de-oriente"}, {"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "Nandasmo", "s_city_slug": "nandasmo"}, {"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "Nindiri", "s_city_slug": "nindiri"}, {"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "Niquinohomo", "s_city_slug": "niquinohomo"}, {"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "San Juan de Oriente", "s_city_slug": "san-juan-de-oriente"}, {"s_country_code": "NI", "s_region_slug": "masaya-department", "s_city_name": "Tisma", "s_city_slug": "tisma"}]}, {"s_country_code": "NI", "s_region_name": "Matagalpa Department", "s_region_slug": "matagalpa-department", "cities": [{"s_country_code": "NI", "s_region_slug": "matagalpa-department", "s_city_name": "Ciudad Dario", "s_city_slug": "ciudad-dario"}, {"s_country_code": "NI", "s_region_slug": "matagalpa-department", "s_city_name": "Matagalpa", "s_city_slug": "matagalpa"}, {"s_country_code": "NI", "s_region_slug": "matagalpa-department", "s_city_name": "Matiguas", "s_city_slug": "matiguas"}, {"s_country_code": "NI", "s_region_slug": "matagalpa-department", "s_city_name": "Muy Muy", "s_city_slug": "muy-muy"}, {"s_country_code": "NI", "s_region_slug": "matagalpa-department", "s_city_name": "Rio Blanco", "s_city_slug": "rio-blanco"}, {"s_country_code": "NI", "s_region_slug": "matagalpa-department", "s_city_name": "San Dionisio", "s_city_slug": "san-dionisio"}, {"s_country_code": "NI", "s_region_slug": "matagalpa-department", "s_city_name": "San Ramon", "s_city_slug": "san-ramon"}, {"s_country_code": "NI", "s_region_slug": "matagalpa-department", "s_city_name": "Terrabona", "s_city_slug": "terrabona"}]}, {"s_country_code": "NI", "s_region_name": "North Caribbean Coast Autonomous Region", "s_region_slug": "north-caribbean-coast-autonomous-region", "cities": [{"s_country_code": "NI", "s_region_slug": "north-caribbean-coast-autonomous-region", "s_city_name": "Bonanza", "s_city_slug": "bonanza"}, {"s_country_code": "NI", "s_region_slug": "north-caribbean-coast-autonomous-region", "s_city_name": "Prinzapolka", "s_city_slug": "prinzapolka"}, {"s_country_code": "NI", "s_region_slug": "north-caribbean-coast-autonomous-region", "s_city_name": "Puerto Cabezas", "s_city_slug": "puerto-cabezas"}, {"s_country_code": "NI", "s_region_slug": "north-caribbean-coast-autonomous-region", "s_city_name": "Siuna", "s_city_slug": "siuna"}, {"s_country_code": "NI", "s_region_slug": "north-caribbean-coast-autonomous-region", "s_city_name": "Waslala", "s_city_slug": "waslala"}, {"s_country_code": "NI", "s_region_slug": "north-caribbean-coast-autonomous-region", "s_city_name": "Waspan", "s_city_slug": "waspan"}]}, {"s_country_code": "NI", "s_region_name": "Rio San Juan Department", "s_region_slug": "rio-san-juan-department", "cities": [{"s_country_code": "NI", "s_region_slug": "rio-san-juan-department", "s_city_name": "El Almendro", "s_city_slug": "el-almendro"}, {"s_country_code": "NI", "s_region_slug": "rio-san-juan-department", "s_city_name": "Greytown", "s_city_slug": "greytown"}, {"s_country_code": "NI", "s_region_slug": "rio-san-juan-department", "s_city_name": "Morrito", "s_city_slug": "morrito"}, {"s_country_code": "NI", "s_region_slug": "rio-san-juan-department", "s_city_name": "San Carlos", "s_city_slug": "san-carlos"}, {"s_country_code": "NI", "s_region_slug": "rio-san-juan-department", "s_city_name": "San Miguelito", "s_city_slug": "san-miguelito"}]}, {"s_country_code": "NI", "s_region_name": "Rivas Department", "s_region_slug": "rivas-department", "cities": [{"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Altagracia", "s_city_slug": "altagracia"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Belen", "s_city_slug": "belen"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Buenos Aires", "s_city_slug": "buenos-aires"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Cardenas", "s_city_slug": "cardenas"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Moyogalpa", "s_city_slug": "moyogalpa"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Municipio de Altagracia", "s_city_slug": "municipio-de-altagracia"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Municipio de Belen", "s_city_slug": "municipio-de-belen"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Municipio de Buenos Aires", "s_city_slug": "municipio-de-buenos-aires"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Municipio de Cardenas", "s_city_slug": "municipio-de-cardenas"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Municipio de Moyogalpa", "s_city_slug": "municipio-de-moyogalpa"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Municipio de Potosi", "s_city_slug": "municipio-de-potosi"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Municipio de Rivas", "s_city_slug": "municipio-de-rivas"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Municipio de San Jorge", "s_city_slug": "municipio-de-san-jorge"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Municipio de San Juan del Sur", "s_city_slug": "municipio-de-san-juan-del-sur"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Municipio de Tola", "s_city_slug": "municipio-de-tola"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Potosi", "s_city_slug": "potosi"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Rivas", "s_city_slug": "rivas"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "San Jorge", "s_city_slug": "san-jorge"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "San Juan del Sur", "s_city_slug": "san-juan-del-sur"}, {"s_country_code": "NI", "s_region_slug": "rivas-department", "s_city_name": "Tola", "s_city_slug": "tola"}]}, {"s_country_code": "NI", "s_region_name": "South Caribbean Coast Autonomous Region", "s_region_slug": "south-caribbean-coast-autonomous-region", "cities": [{"s_country_code": "NI", "s_region_slug": "south-caribbean-coast-autonomous-region", "s_city_name": "Bluefields", "s_city_slug": "bluefields"}, {"s_country_code": "NI", "s_region_slug": "south-caribbean-coast-autonomous-region", "s_city_name": "Bocana de Paiwas", "s_city_slug": "bocana-de-paiwas"}, {"s_country_code": "NI", "s_region_slug": "south-caribbean-coast-autonomous-region", "s_city_name": "Corn Island", "s_city_slug": "corn-island"}, {"s_country_code": "NI", "s_region_slug": "south-caribbean-coast-autonomous-region", "s_city_name": "El Rama", "s_city_slug": "el-rama"}, {"s_country_code": "NI", "s_region_slug": "south-caribbean-coast-autonomous-region", "s_city_name": "El Tortuguero", "s_city_slug": "el-tortuguero"}, {"s_country_code": "NI", "s_region_slug": "south-caribbean-coast-autonomous-region", "s_city_name": "Kukrahill", "s_city_slug": "kukrahill"}, {"s_country_code": "NI", "s_region_slug": "south-caribbean-coast-autonomous-region", "s_city_name": "La Cruz de Rio Grande", "s_city_slug": "la-cruz-de-rio-grande"}, {"s_country_code": "NI", "s_region_slug": "south-caribbean-coast-autonomous-region", "s_city_name": "Laguna de Perlas", "s_city_slug": "laguna-de-perlas"}, {"s_country_code": "NI", "s_region_slug": "south-caribbean-coast-autonomous-region", "s_city_name": "Muelle de los Bueyes", "s_city_slug": "muelle-de-los-bueyes"}, {"s_country_code": "NI", "s_region_slug": "south-caribbean-coast-autonomous-region", "s_city_name": "Nueva Guinea", "s_city_slug": "nueva-guinea"}]}]}
+{
+    "s_country_code": "NI",
+    "s_country_name": "Nicaragua",
+    "s_country_slug": "nicaragua",
+    "regions": [
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Boaco Department",
+            "s_region_slug": "boaco-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "boaco-department",
+                    "s_city_name": "Boaco",
+                    "s_city_slug": "boaco"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "boaco-department",
+                    "s_city_name": "Camoapa",
+                    "s_city_slug": "camoapa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "boaco-department",
+                    "s_city_name": "San Jose de los Remates",
+                    "s_city_slug": "san-jose-de-los-remates"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "boaco-department",
+                    "s_city_name": "San Lorenzo",
+                    "s_city_slug": "san-lorenzo"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "boaco-department",
+                    "s_city_name": "Santa Lucia",
+                    "s_city_slug": "santa-lucia"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "boaco-department",
+                    "s_city_name": "Teustepe",
+                    "s_city_slug": "teustepe"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Carazo Department",
+            "s_region_slug": "carazo-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "carazo-department",
+                    "s_city_name": "Diriamba",
+                    "s_city_slug": "diriamba"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "carazo-department",
+                    "s_city_name": "Dolores",
+                    "s_city_slug": "dolores"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "carazo-department",
+                    "s_city_name": "El Rosario",
+                    "s_city_slug": "el-rosario"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "carazo-department",
+                    "s_city_name": "Jinotepe",
+                    "s_city_slug": "jinotepe"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "carazo-department",
+                    "s_city_name": "La Conquista",
+                    "s_city_slug": "la-conquista"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "carazo-department",
+                    "s_city_name": "La Paz de Carazo",
+                    "s_city_slug": "la-paz-de-carazo"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "carazo-department",
+                    "s_city_name": "Municipio de San Marcos",
+                    "s_city_slug": "municipio-de-san-marcos"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "carazo-department",
+                    "s_city_name": "San Marcos",
+                    "s_city_slug": "san-marcos"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "carazo-department",
+                    "s_city_name": "Santa Teresa",
+                    "s_city_slug": "santa-teresa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Chinandega Department",
+            "s_region_slug": "chinandega-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chinandega-department",
+                    "s_city_name": "Chichigalpa",
+                    "s_city_slug": "chichigalpa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chinandega-department",
+                    "s_city_name": "Chinandega",
+                    "s_city_slug": "chinandega"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chinandega-department",
+                    "s_city_name": "Cinco Pinos",
+                    "s_city_slug": "cinco-pinos"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chinandega-department",
+                    "s_city_name": "Corinto",
+                    "s_city_slug": "corinto"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chinandega-department",
+                    "s_city_name": "El Realejo",
+                    "s_city_slug": "el-realejo"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chinandega-department",
+                    "s_city_name": "El Viejo",
+                    "s_city_slug": "el-viejo"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chinandega-department",
+                    "s_city_name": "Jiquilillo",
+                    "s_city_slug": "jiquilillo"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chinandega-department",
+                    "s_city_name": "Municipio de San Francisco del Norte",
+                    "s_city_slug": "municipio-de-san-francisco-del-norte"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chinandega-department",
+                    "s_city_name": "Posoltega",
+                    "s_city_slug": "posoltega"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chinandega-department",
+                    "s_city_name": "Puerto Morazan",
+                    "s_city_slug": "puerto-morazan"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chinandega-department",
+                    "s_city_name": "Santo Tomas del Norte",
+                    "s_city_slug": "santo-tomas-del-norte"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chinandega-department",
+                    "s_city_name": "Somotillo",
+                    "s_city_slug": "somotillo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Chontales Department",
+            "s_region_slug": "chontales-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chontales-department",
+                    "s_city_name": "Acoyapa",
+                    "s_city_slug": "acoyapa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chontales-department",
+                    "s_city_name": "Comalapa",
+                    "s_city_slug": "comalapa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chontales-department",
+                    "s_city_name": "Cuapa",
+                    "s_city_slug": "cuapa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chontales-department",
+                    "s_city_name": "El Ayote",
+                    "s_city_slug": "el-ayote"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chontales-department",
+                    "s_city_name": "Juigalpa",
+                    "s_city_slug": "juigalpa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chontales-department",
+                    "s_city_name": "La Libertad",
+                    "s_city_slug": "la-libertad"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chontales-department",
+                    "s_city_name": "Santo Domingo",
+                    "s_city_slug": "santo-domingo"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chontales-department",
+                    "s_city_name": "Santo Tomas",
+                    "s_city_slug": "santo-tomas"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "chontales-department",
+                    "s_city_name": "Villa Sandino",
+                    "s_city_slug": "villa-sandino"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Esteli Department",
+            "s_region_slug": "esteli-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "esteli-department",
+                    "s_city_name": "Condega",
+                    "s_city_slug": "condega"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "esteli-department",
+                    "s_city_name": "Esteli",
+                    "s_city_slug": "esteli"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "esteli-department",
+                    "s_city_name": "La Trinidad",
+                    "s_city_slug": "la-trinidad"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "esteli-department",
+                    "s_city_name": "Pueblo Nuevo",
+                    "s_city_slug": "pueblo-nuevo"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "esteli-department",
+                    "s_city_name": "San Juan de Limay",
+                    "s_city_slug": "san-juan-de-limay"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Granada Department",
+            "s_region_slug": "granada-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "granada-department",
+                    "s_city_name": "Diria",
+                    "s_city_slug": "diria"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "granada-department",
+                    "s_city_name": "Diriomo",
+                    "s_city_slug": "diriomo"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "granada-department",
+                    "s_city_name": "Granada",
+                    "s_city_slug": "granada"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "granada-department",
+                    "s_city_name": "Nandaime",
+                    "s_city_slug": "nandaime"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Jinotega Department",
+            "s_region_slug": "jinotega-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "jinotega-department",
+                    "s_city_name": "El Cua",
+                    "s_city_slug": "el-cua"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "jinotega-department",
+                    "s_city_name": "Jinotega",
+                    "s_city_slug": "jinotega"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "jinotega-department",
+                    "s_city_name": "La Concordia",
+                    "s_city_slug": "la-concordia"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "jinotega-department",
+                    "s_city_name": "Las Praderas",
+                    "s_city_slug": "las-praderas"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "jinotega-department",
+                    "s_city_name": "LLano de La Cruz",
+                    "s_city_slug": "llano-de-la-cruz"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "jinotega-department",
+                    "s_city_name": "San Jose de Bocay",
+                    "s_city_slug": "san-jose-de-bocay"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "jinotega-department",
+                    "s_city_name": "San Rafael del Norte",
+                    "s_city_slug": "san-rafael-del-norte"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "jinotega-department",
+                    "s_city_name": "San Sebastian de Yali",
+                    "s_city_slug": "san-sebastian-de-yali"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Leon Department",
+            "s_region_slug": "leon-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "leon-department",
+                    "s_city_name": "Achuapa",
+                    "s_city_slug": "achuapa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "leon-department",
+                    "s_city_name": "El Jicaral",
+                    "s_city_slug": "el-jicaral"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "leon-department",
+                    "s_city_name": "El Sauce",
+                    "s_city_slug": "el-sauce"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "leon-department",
+                    "s_city_name": "La Paz Centro",
+                    "s_city_slug": "la-paz-centro"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "leon-department",
+                    "s_city_name": "Larreynaga",
+                    "s_city_slug": "larreynaga"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "leon-department",
+                    "s_city_name": "Leon",
+                    "s_city_slug": "leon"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "leon-department",
+                    "s_city_name": "Nagarote",
+                    "s_city_slug": "nagarote"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "leon-department",
+                    "s_city_name": "Quezalguaque",
+                    "s_city_slug": "quezalguaque"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "leon-department",
+                    "s_city_name": "Santa Rosa del Penon",
+                    "s_city_slug": "santa-rosa-del-penon"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "leon-department",
+                    "s_city_name": "Telica",
+                    "s_city_slug": "telica"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Madriz Department",
+            "s_region_slug": "madriz-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "madriz-department",
+                    "s_city_name": "Las Sabanas",
+                    "s_city_slug": "las-sabanas"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "madriz-department",
+                    "s_city_name": "Palacaguina",
+                    "s_city_slug": "palacaguina"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "madriz-department",
+                    "s_city_name": "San Jose de Cusmapa",
+                    "s_city_slug": "san-jose-de-cusmapa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "madriz-department",
+                    "s_city_name": "San Juan de Rio Coco",
+                    "s_city_slug": "san-juan-de-rio-coco"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "madriz-department",
+                    "s_city_name": "San Lucas",
+                    "s_city_slug": "san-lucas"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "madriz-department",
+                    "s_city_name": "Somoto",
+                    "s_city_slug": "somoto"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "madriz-department",
+                    "s_city_name": "Telpaneca",
+                    "s_city_slug": "telpaneca"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "madriz-department",
+                    "s_city_name": "Totogalpa",
+                    "s_city_slug": "totogalpa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "madriz-department",
+                    "s_city_name": "Yalaguina",
+                    "s_city_slug": "yalaguina"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Managua Department",
+            "s_region_slug": "managua-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "managua-department",
+                    "s_city_name": "Ciudad Sandino",
+                    "s_city_slug": "ciudad-sandino"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "managua-department",
+                    "s_city_name": "El Crucero",
+                    "s_city_slug": "el-crucero"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "managua-department",
+                    "s_city_name": "Managua",
+                    "s_city_slug": "managua"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "managua-department",
+                    "s_city_name": "Masachapa",
+                    "s_city_slug": "masachapa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "managua-department",
+                    "s_city_name": "San Rafael del Sur",
+                    "s_city_slug": "san-rafael-del-sur"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "managua-department",
+                    "s_city_name": "Ticuantepe",
+                    "s_city_slug": "ticuantepe"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "managua-department",
+                    "s_city_name": "Tipitapa",
+                    "s_city_slug": "tipitapa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "managua-department",
+                    "s_city_name": "Valle San Francisco",
+                    "s_city_slug": "valle-san-francisco"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "managua-department",
+                    "s_city_name": "Villa El Carmen",
+                    "s_city_slug": "villa-el-carmen"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Masaya Department",
+            "s_region_slug": "masaya-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "Catarina",
+                    "s_city_slug": "catarina"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "La Concepcion",
+                    "s_city_slug": "la-concepcion"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "Masatepe",
+                    "s_city_slug": "masatepe"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "Masaya",
+                    "s_city_slug": "masaya"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "Municipio de Masatepe",
+                    "s_city_slug": "municipio-de-masatepe"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "Municipio de Nandasmo",
+                    "s_city_slug": "municipio-de-nandasmo"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "Municipio de Niquinohomo",
+                    "s_city_slug": "municipio-de-niquinohomo"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "Municipio de San Juan de Oriente",
+                    "s_city_slug": "municipio-de-san-juan-de-oriente"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "Nandasmo",
+                    "s_city_slug": "nandasmo"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "Nindiri",
+                    "s_city_slug": "nindiri"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "Niquinohomo",
+                    "s_city_slug": "niquinohomo"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "San Juan de Oriente",
+                    "s_city_slug": "san-juan-de-oriente"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "masaya-department",
+                    "s_city_name": "Tisma",
+                    "s_city_slug": "tisma"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Matagalpa Department",
+            "s_region_slug": "matagalpa-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "matagalpa-department",
+                    "s_city_name": "Ciudad Dario",
+                    "s_city_slug": "ciudad-dario"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "matagalpa-department",
+                    "s_city_name": "Matagalpa",
+                    "s_city_slug": "matagalpa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "matagalpa-department",
+                    "s_city_name": "Matiguas",
+                    "s_city_slug": "matiguas"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "matagalpa-department",
+                    "s_city_name": "Muy Muy",
+                    "s_city_slug": "muy-muy"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "matagalpa-department",
+                    "s_city_name": "Rio Blanco",
+                    "s_city_slug": "rio-blanco"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "matagalpa-department",
+                    "s_city_name": "San Dionisio",
+                    "s_city_slug": "san-dionisio"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "matagalpa-department",
+                    "s_city_name": "San Ramon",
+                    "s_city_slug": "san-ramon"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "matagalpa-department",
+                    "s_city_name": "Terrabona",
+                    "s_city_slug": "terrabona"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "North Caribbean Coast Autonomous Region",
+            "s_region_slug": "north-caribbean-coast-autonomous-region",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "north-caribbean-coast-autonomous-region",
+                    "s_city_name": "Bonanza",
+                    "s_city_slug": "bonanza"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "north-caribbean-coast-autonomous-region",
+                    "s_city_name": "Prinzapolka",
+                    "s_city_slug": "prinzapolka"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "north-caribbean-coast-autonomous-region",
+                    "s_city_name": "Puerto Cabezas",
+                    "s_city_slug": "puerto-cabezas"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "north-caribbean-coast-autonomous-region",
+                    "s_city_name": "Siuna",
+                    "s_city_slug": "siuna"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "north-caribbean-coast-autonomous-region",
+                    "s_city_name": "Waslala",
+                    "s_city_slug": "waslala"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "north-caribbean-coast-autonomous-region",
+                    "s_city_name": "Waspan",
+                    "s_city_slug": "waspan"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Rio San Juan Department",
+            "s_region_slug": "rio-san-juan-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rio-san-juan-department",
+                    "s_city_name": "El Almendro",
+                    "s_city_slug": "el-almendro"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rio-san-juan-department",
+                    "s_city_name": "Greytown",
+                    "s_city_slug": "greytown"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rio-san-juan-department",
+                    "s_city_name": "Morrito",
+                    "s_city_slug": "morrito"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rio-san-juan-department",
+                    "s_city_name": "San Carlos",
+                    "s_city_slug": "san-carlos"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rio-san-juan-department",
+                    "s_city_name": "San Miguelito",
+                    "s_city_slug": "san-miguelito"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "Rivas Department",
+            "s_region_slug": "rivas-department",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Altagracia",
+                    "s_city_slug": "altagracia"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Belen",
+                    "s_city_slug": "belen"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Buenos Aires",
+                    "s_city_slug": "buenos-aires"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Cardenas",
+                    "s_city_slug": "cardenas"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Moyogalpa",
+                    "s_city_slug": "moyogalpa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Municipio de Altagracia",
+                    "s_city_slug": "municipio-de-altagracia"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Municipio de Belen",
+                    "s_city_slug": "municipio-de-belen"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Municipio de Buenos Aires",
+                    "s_city_slug": "municipio-de-buenos-aires"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Municipio de Cardenas",
+                    "s_city_slug": "municipio-de-cardenas"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Municipio de Moyogalpa",
+                    "s_city_slug": "municipio-de-moyogalpa"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Municipio de Potosi",
+                    "s_city_slug": "municipio-de-potosi"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Municipio de Rivas",
+                    "s_city_slug": "municipio-de-rivas"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Municipio de San Jorge",
+                    "s_city_slug": "municipio-de-san-jorge"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Municipio de San Juan del Sur",
+                    "s_city_slug": "municipio-de-san-juan-del-sur"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Municipio de Tola",
+                    "s_city_slug": "municipio-de-tola"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Potosi",
+                    "s_city_slug": "potosi"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Rivas",
+                    "s_city_slug": "rivas"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "San Jorge",
+                    "s_city_slug": "san-jorge"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "San Juan del Sur",
+                    "s_city_slug": "san-juan-del-sur"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "rivas-department",
+                    "s_city_name": "Tola",
+                    "s_city_slug": "tola"
+                }
+            ]
+        },
+        {
+            "s_country_code": "NI",
+            "s_region_name": "South Caribbean Coast Autonomous Region",
+            "s_region_slug": "south-caribbean-coast-autonomous-region",
+            "cities": [
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "south-caribbean-coast-autonomous-region",
+                    "s_city_name": "Bluefields",
+                    "s_city_slug": "bluefields"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "south-caribbean-coast-autonomous-region",
+                    "s_city_name": "Bocana de Paiwas",
+                    "s_city_slug": "bocana-de-paiwas"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "south-caribbean-coast-autonomous-region",
+                    "s_city_name": "Corn Island",
+                    "s_city_slug": "corn-island"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "south-caribbean-coast-autonomous-region",
+                    "s_city_name": "El Rama",
+                    "s_city_slug": "el-rama"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "south-caribbean-coast-autonomous-region",
+                    "s_city_name": "El Tortuguero",
+                    "s_city_slug": "el-tortuguero"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "south-caribbean-coast-autonomous-region",
+                    "s_city_name": "Kukrahill",
+                    "s_city_slug": "kukrahill"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "south-caribbean-coast-autonomous-region",
+                    "s_city_name": "La Cruz de Rio Grande",
+                    "s_city_slug": "la-cruz-de-rio-grande"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "south-caribbean-coast-autonomous-region",
+                    "s_city_name": "Laguna de Perlas",
+                    "s_city_slug": "laguna-de-perlas"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "south-caribbean-coast-autonomous-region",
+                    "s_city_name": "Muelle de los Bueyes",
+                    "s_city_slug": "muelle-de-los-bueyes"
+                },
+                {
+                    "s_country_code": "NI",
+                    "s_region_slug": "south-caribbean-coast-autonomous-region",
+                    "s_city_name": "Nueva Guinea",
+                    "s_city_slug": "nueva-guinea"
+                }
+            ]
+        }
+    ]
+}

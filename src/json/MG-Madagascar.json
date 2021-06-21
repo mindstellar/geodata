@@ -1,1 +1,133 @@
-{"s_country_code": "MG", "s_country_name": "Madagascar", "s_country_slug": "madagascar", "regions": [{"s_country_code": "MG", "s_region_name": "Antananarivo Province", "s_region_slug": "antananarivo-province", "cities": [{"s_country_code": "MG", "s_region_slug": "antananarivo-province", "s_city_name": "Antananarivo Province", "s_city_slug": "antananarivo-province"}]}, {"s_country_code": "MG", "s_region_name": "Antsiranana Province", "s_region_slug": "antsiranana-province", "cities": [{"s_country_code": "MG", "s_region_slug": "antsiranana-province", "s_city_name": "Ampasimanolotra", "s_city_slug": "ampasimanolotra"}, {"s_country_code": "MG", "s_region_slug": "antsiranana-province", "s_city_name": "Andovoranto", "s_city_slug": "andovoranto"}, {"s_country_code": "MG", "s_region_slug": "antsiranana-province", "s_city_name": "Mahanoro", "s_city_slug": "mahanoro"}, {"s_country_code": "MG", "s_region_slug": "antsiranana-province", "s_city_name": "Mahavelona", "s_city_slug": "mahavelona"}, {"s_country_code": "MG", "s_region_slug": "antsiranana-province", "s_city_name": "Marolambo", "s_city_slug": "marolambo"}, {"s_country_code": "MG", "s_region_slug": "antsiranana-province", "s_city_name": "Toamasina", "s_city_slug": "toamasina"}, {"s_country_code": "MG", "s_region_slug": "antsiranana-province", "s_city_name": "Toamasina I", "s_city_slug": "toamasina-i"}, {"s_country_code": "MG", "s_region_slug": "antsiranana-province", "s_city_name": "Toamasina II", "s_city_slug": "toamasina-ii"}, {"s_country_code": "MG", "s_region_slug": "antsiranana-province", "s_city_name": "Vohibinany", "s_city_slug": "vohibinany"}]}, {"s_country_code": "MG", "s_region_name": "Fianarantsoa Province", "s_region_slug": "fianarantsoa-province", "cities": [{"s_country_code": "MG", "s_region_slug": "fianarantsoa-province", "s_city_name": "Fianarantsoa Province", "s_city_slug": "fianarantsoa-province"}]}, {"s_country_code": "MG", "s_region_name": "Mahajanga Province", "s_region_slug": "mahajanga-province", "cities": [{"s_country_code": "MG", "s_region_slug": "mahajanga-province", "s_city_name": "Mahajanga Province", "s_city_slug": "mahajanga-province"}]}, {"s_country_code": "MG", "s_region_name": "Toamasina Province", "s_region_slug": "toamasina-province", "cities": [{"s_country_code": "MG", "s_region_slug": "toamasina-province", "s_city_name": "Toamasina Province", "s_city_slug": "toamasina-province"}]}, {"s_country_code": "MG", "s_region_name": "Toliara Province", "s_region_slug": "toliara-province", "cities": [{"s_country_code": "MG", "s_region_slug": "toliara-province", "s_city_name": "Toliara Province", "s_city_slug": "toliara-province"}]}]}
+{
+    "s_country_code": "MG",
+    "s_country_name": "Madagascar",
+    "s_country_slug": "madagascar",
+    "regions": [
+        {
+            "s_country_code": "MG",
+            "s_region_name": "Antananarivo Province",
+            "s_region_slug": "antananarivo-province",
+            "cities": [
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "antananarivo-province",
+                    "s_city_name": "Antananarivo Province",
+                    "s_city_slug": "antananarivo-province"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MG",
+            "s_region_name": "Antsiranana Province",
+            "s_region_slug": "antsiranana-province",
+            "cities": [
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "antsiranana-province",
+                    "s_city_name": "Ampasimanolotra",
+                    "s_city_slug": "ampasimanolotra"
+                },
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "antsiranana-province",
+                    "s_city_name": "Andovoranto",
+                    "s_city_slug": "andovoranto"
+                },
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "antsiranana-province",
+                    "s_city_name": "Mahanoro",
+                    "s_city_slug": "mahanoro"
+                },
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "antsiranana-province",
+                    "s_city_name": "Mahavelona",
+                    "s_city_slug": "mahavelona"
+                },
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "antsiranana-province",
+                    "s_city_name": "Marolambo",
+                    "s_city_slug": "marolambo"
+                },
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "antsiranana-province",
+                    "s_city_name": "Toamasina",
+                    "s_city_slug": "toamasina"
+                },
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "antsiranana-province",
+                    "s_city_name": "Toamasina I",
+                    "s_city_slug": "toamasina-i"
+                },
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "antsiranana-province",
+                    "s_city_name": "Toamasina II",
+                    "s_city_slug": "toamasina-ii"
+                },
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "antsiranana-province",
+                    "s_city_name": "Vohibinany",
+                    "s_city_slug": "vohibinany"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MG",
+            "s_region_name": "Fianarantsoa Province",
+            "s_region_slug": "fianarantsoa-province",
+            "cities": [
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "fianarantsoa-province",
+                    "s_city_name": "Fianarantsoa Province",
+                    "s_city_slug": "fianarantsoa-province"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MG",
+            "s_region_name": "Mahajanga Province",
+            "s_region_slug": "mahajanga-province",
+            "cities": [
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "mahajanga-province",
+                    "s_city_name": "Mahajanga Province",
+                    "s_city_slug": "mahajanga-province"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MG",
+            "s_region_name": "Toamasina Province",
+            "s_region_slug": "toamasina-province",
+            "cities": [
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "toamasina-province",
+                    "s_city_name": "Toamasina Province",
+                    "s_city_slug": "toamasina-province"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MG",
+            "s_region_name": "Toliara Province",
+            "s_region_slug": "toliara-province",
+            "cities": [
+                {
+                    "s_country_code": "MG",
+                    "s_region_slug": "toliara-province",
+                    "s_city_name": "Toliara Province",
+                    "s_city_slug": "toliara-province"
+                }
+            ]
+        }
+    ]
+}

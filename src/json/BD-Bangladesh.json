@@ -1,1 +1,1793 @@
-{"s_country_code": "BD", "s_country_name": "Bangladesh", "s_country_slug": "bangladesh", "regions": [{"s_country_code": "BD", "s_region_name": "Bagerhat District", "s_region_slug": "bagerhat-district", "cities": [{"s_country_code": "BD", "s_region_slug": "bagerhat-district", "s_city_name": "Bagerhat District", "s_city_slug": "bagerhat-district"}]}, {"s_country_code": "BD", "s_region_name": "Bahadia", "s_region_slug": "bahadia", "cities": [{"s_country_code": "BD", "s_region_slug": "bahadia", "s_city_name": "Bahadia", "s_city_slug": "bahadia"}]}, {"s_country_code": "BD", "s_region_name": "Bandarban District", "s_region_slug": "bandarban-district", "cities": [{"s_country_code": "BD", "s_region_slug": "bandarban-district", "s_city_name": "Bandarban District", "s_city_slug": "bandarban-district"}]}, {"s_country_code": "BD", "s_region_name": "Barguna District", "s_region_slug": "barguna-district", "cities": [{"s_country_code": "BD", "s_region_slug": "barguna-district", "s_city_name": "Barguna District", "s_city_slug": "barguna-district"}]}, {"s_country_code": "BD", "s_region_name": "Barisal District", "s_region_slug": "barisal-district", "cities": [{"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Barguna", "s_city_slug": "barguna"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Barisal", "s_city_slug": "barisal"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Barisal", "s_city_slug": "barisal"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Bhandaria", "s_city_slug": "bhandaria"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Bhola", "s_city_slug": "bhola"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Burhanuddin", "s_city_slug": "burhanuddin"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Gaurnadi", "s_city_slug": "gaurnadi"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Jhalokati", "s_city_slug": "jhalokati"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Lalmohan", "s_city_slug": "lalmohan"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Mathba", "s_city_slug": "mathba"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Mehendiganj", "s_city_slug": "mehendiganj"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Nalchiti", "s_city_slug": "nalchiti"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Patuakhali", "s_city_slug": "patuakhali"}, {"s_country_code": "BD", "s_region_slug": "barisal-district", "s_city_name": "Pirojpur", "s_city_slug": "pirojpur"}]}, {"s_country_code": "BD", "s_region_name": "Barisal Division", "s_region_slug": "barisal-division", "cities": [{"s_country_code": "BD", "s_region_slug": "barisal-division", "s_city_name": "Barisal Division", "s_city_slug": "barisal-division"}]}, {"s_country_code": "BD", "s_region_name": "Bhola District", "s_region_slug": "bhola-district", "cities": [{"s_country_code": "BD", "s_region_slug": "bhola-district", "s_city_name": "Bhola District", "s_city_slug": "bhola-district"}]}, {"s_country_code": "BD", "s_region_name": "Bogra District", "s_region_slug": "bogra-district", "cities": [{"s_country_code": "BD", "s_region_slug": "bogra-district", "s_city_name": "Bogra District", "s_city_slug": "bogra-district"}]}, {"s_country_code": "BD", "s_region_name": "Brahmanbaria District", "s_region_slug": "brahmanbaria-district", "cities": [{"s_country_code": "BD", "s_region_slug": "brahmanbaria-district", "s_city_name": "Brahmanbaria District", "s_city_slug": "brahmanbaria-district"}]}, {"s_country_code": "BD", "s_region_name": "Chandpur District", "s_region_slug": "chandpur-district", "cities": [{"s_country_code": "BD", "s_region_slug": "chandpur-district", "s_city_name": "Chandpur District", "s_city_slug": "chandpur-district"}]}, {"s_country_code": "BD", "s_region_name": "Chapai Nawabganj District", "s_region_slug": "chapai-nawabganj-district", "cities": [{"s_country_code": "BD", "s_region_slug": "chapai-nawabganj-district", "s_city_name": "Chapai Nawabganj District", "s_city_slug": "chapai-nawabganj-district"}]}, {"s_country_code": "BD", "s_region_name": "Chittagong District", "s_region_slug": "chittagong-district", "cities": [{"s_country_code": "BD", "s_region_slug": "chittagong-district", "s_city_name": "Chittagong District", "s_city_slug": "chittagong-district"}]}, {"s_country_code": "BD", "s_region_name": "Chittagong Division", "s_region_slug": "chittagong-division", "cities": [{"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Bandarban", "s_city_slug": "bandarban"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Bandarban", "s_city_slug": "bandarban"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Bibir Hat", "s_city_slug": "bibir-hat"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Brahmanbaria", "s_city_slug": "brahmanbaria"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Chandpur", "s_city_slug": "chandpur"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Chhagalnaiya", "s_city_slug": "chhagalnaiya"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Chittagong", "s_city_slug": "chittagong"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Comilla", "s_city_slug": "comilla"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Cox's Bazar", "s_city_slug": "coxs-bazar"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Coxs Bazar", "s_city_slug": "coxs-bazar"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Feni", "s_city_slug": "feni"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Hajiganj", "s_city_slug": "hajiganj"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Khagrachhari", "s_city_slug": "khagrachhari"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Laksham", "s_city_slug": "laksham"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Lakshmipur", "s_city_slug": "lakshmipur"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Lakshmipur", "s_city_slug": "lakshmipur"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Manikchari", "s_city_slug": "manikchari"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Nabinagar", "s_city_slug": "nabinagar"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Noakhali", "s_city_slug": "noakhali"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Patiya", "s_city_slug": "patiya"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Raipur", "s_city_slug": "raipur"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Ramganj", "s_city_slug": "ramganj"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Rangamati", "s_city_slug": "rangamati"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Raojan", "s_city_slug": "raojan"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Sandwip", "s_city_slug": "sandwip"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Satkania", "s_city_slug": "satkania"}, {"s_country_code": "BD", "s_region_slug": "chittagong-division", "s_city_name": "Teknaf", "s_city_slug": "teknaf"}]}, {"s_country_code": "BD", "s_region_name": "Chuadanga District", "s_region_slug": "chuadanga-district", "cities": [{"s_country_code": "BD", "s_region_slug": "chuadanga-district", "s_city_name": "Chuadanga District", "s_city_slug": "chuadanga-district"}]}, {"s_country_code": "BD", "s_region_name": "Comilla District", "s_region_slug": "comilla-district", "cities": [{"s_country_code": "BD", "s_region_slug": "comilla-district", "s_city_name": "Comilla District", "s_city_slug": "comilla-district"}]}, {"s_country_code": "BD", "s_region_name": "Cox's Bazar District", "s_region_slug": "coxs-bazar-district", "cities": [{"s_country_code": "BD", "s_region_slug": "coxs-bazar-district", "s_city_name": "Cox's Bazar District", "s_city_slug": "coxs-bazar-district"}]}, {"s_country_code": "BD", "s_region_name": "Dhaka District", "s_region_slug": "dhaka-district", "cities": [{"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Azimpur", "s_city_slug": "azimpur"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Bajitpur", "s_city_slug": "bajitpur"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Bhairab Bazar", "s_city_slug": "bhairab-bazar"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Char Bhadrasan", "s_city_slug": "char-bhadrasan"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Char Golora", "s_city_slug": "char-golora"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Dhaka", "s_city_slug": "dhaka"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Dohar", "s_city_slug": "dohar"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Faridpur", "s_city_slug": "faridpur"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Faridpur", "s_city_slug": "faridpur"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Gazipur", "s_city_slug": "gazipur"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Gopalganj", "s_city_slug": "gopalganj"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Joymontop", "s_city_slug": "joymontop"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Khanbaniara", "s_city_slug": "khanbaniara"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Kishoregonj", "s_city_slug": "kishoregonj"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Kishorganj", "s_city_slug": "kishorganj"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Madaripur", "s_city_slug": "madaripur"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Madaripur", "s_city_slug": "madaripur"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Manikganj", "s_city_slug": "manikganj"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Mirzapur", "s_city_slug": "mirzapur"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Munshiganj", "s_city_slug": "munshiganj"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Nagarpur", "s_city_slug": "nagarpur"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Narayanganj", "s_city_slug": "narayanganj"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Narayanganj", "s_city_slug": "narayanganj"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Narsingdi", "s_city_slug": "narsingdi"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Palang", "s_city_slug": "palang"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Paltan", "s_city_slug": "paltan"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Parvez Ali", "s_city_slug": "parvez-ali"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Parvez Ali Hossain", "s_city_slug": "parvez-ali-hossain"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Rajbari", "s_city_slug": "rajbari"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Ramnagar", "s_city_slug": "ramnagar"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Sakhipur", "s_city_slug": "sakhipur"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Sayani", "s_city_slug": "sayani"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Shariatpur", "s_city_slug": "shariatpur"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Sonargaon", "s_city_slug": "sonargaon"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Tangail", "s_city_slug": "tangail"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Tangail", "s_city_slug": "tangail"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Tungi", "s_city_slug": "tungi"}, {"s_country_code": "BD", "s_region_slug": "dhaka-district", "s_city_name": "Tungipara", "s_city_slug": "tungipara"}]}, {"s_country_code": "BD", "s_region_name": "Dhaka Division", "s_region_slug": "dhaka-division", "cities": [{"s_country_code": "BD", "s_region_slug": "dhaka-division", "s_city_name": "Dhaka Division", "s_city_slug": "dhaka-division"}]}, {"s_country_code": "BD", "s_region_name": "Dinajpur District", "s_region_slug": "dinajpur-district", "cities": [{"s_country_code": "BD", "s_region_slug": "dinajpur-district", "s_city_name": "Dinajpur District", "s_city_slug": "dinajpur-district"}]}, {"s_country_code": "BD", "s_region_name": "Faridpur District", "s_region_slug": "faridpur-district", "cities": [{"s_country_code": "BD", "s_region_slug": "faridpur-district", "s_city_name": "Faridpur District", "s_city_slug": "faridpur-district"}]}, {"s_country_code": "BD", "s_region_name": "Feni District", "s_region_slug": "feni-district", "cities": [{"s_country_code": "BD", "s_region_slug": "feni-district", "s_city_name": "Feni District", "s_city_slug": "feni-district"}]}, {"s_country_code": "BD", "s_region_name": "Gaibandha District", "s_region_slug": "gaibandha-district", "cities": [{"s_country_code": "BD", "s_region_slug": "gaibandha-district", "s_city_name": "Gaibandha District", "s_city_slug": "gaibandha-district"}]}, {"s_country_code": "BD", "s_region_name": "Gazipur District", "s_region_slug": "gazipur-district", "cities": [{"s_country_code": "BD", "s_region_slug": "gazipur-district", "s_city_name": "Gazipur District", "s_city_slug": "gazipur-district"}]}, {"s_country_code": "BD", "s_region_name": "Gopalganj District", "s_region_slug": "gopalganj-district", "cities": [{"s_country_code": "BD", "s_region_slug": "gopalganj-district", "s_city_name": "Gopalganj District", "s_city_slug": "gopalganj-district"}]}, {"s_country_code": "BD", "s_region_name": "Habiganj District", "s_region_slug": "habiganj-district", "cities": [{"s_country_code": "BD", "s_region_slug": "habiganj-district", "s_city_name": "Habiganj District", "s_city_slug": "habiganj-district"}]}, {"s_country_code": "BD", "s_region_name": "Jamalpur District", "s_region_slug": "jamalpur-district", "cities": [{"s_country_code": "BD", "s_region_slug": "jamalpur-district", "s_city_name": "Jamalpur District", "s_city_slug": "jamalpur-district"}]}, {"s_country_code": "BD", "s_region_name": "Jessore District", "s_region_slug": "jessore-district", "cities": [{"s_country_code": "BD", "s_region_slug": "jessore-district", "s_city_name": "Jessore District", "s_city_slug": "jessore-district"}]}, {"s_country_code": "BD", "s_region_name": "Jhalokati District", "s_region_slug": "jhalokati-district", "cities": [{"s_country_code": "BD", "s_region_slug": "jhalokati-district", "s_city_name": "Jhalokati District", "s_city_slug": "jhalokati-district"}]}, {"s_country_code": "BD", "s_region_name": "Jhenaidah District", "s_region_slug": "jhenaidah-district", "cities": [{"s_country_code": "BD", "s_region_slug": "jhenaidah-district", "s_city_name": "Jhenaidah District", "s_city_slug": "jhenaidah-district"}]}, {"s_country_code": "BD", "s_region_name": "Joypurhat District", "s_region_slug": "joypurhat-district", "cities": [{"s_country_code": "BD", "s_region_slug": "joypurhat-district", "s_city_name": "Joypurhat District", "s_city_slug": "joypurhat-district"}]}, {"s_country_code": "BD", "s_region_name": "Khagrachari District", "s_region_slug": "khagrachari-district", "cities": [{"s_country_code": "BD", "s_region_slug": "khagrachari-district", "s_city_name": "Khagrachari District", "s_city_slug": "khagrachari-district"}]}, {"s_country_code": "BD", "s_region_name": "Khulna District", "s_region_slug": "khulna-district", "cities": [{"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Bagerhat", "s_city_slug": "bagerhat"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Bhatpara Abhaynagar", "s_city_slug": "bhatpara-abhaynagar"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Bheramara", "s_city_slug": "bheramara"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Chuadanga", "s_city_slug": "chuadanga"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Jessore", "s_city_slug": "jessore"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Jhenaidah", "s_city_slug": "jhenaidah"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Jhingergacha", "s_city_slug": "jhingergacha"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Kalia", "s_city_slug": "kalia"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Kaliganj", "s_city_slug": "kaliganj"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Kesabpur", "s_city_slug": "kesabpur"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Khulna", "s_city_slug": "khulna"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Kushtia", "s_city_slug": "kushtia"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Magura", "s_city_slug": "magura"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Meherpur", "s_city_slug": "meherpur"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Morrelgonj", "s_city_slug": "morrelgonj"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Narail", "s_city_slug": "narail"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Nowlamary", "s_city_slug": "nowlamary"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Phultala", "s_city_slug": "phultala"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Sarankhola", "s_city_slug": "sarankhola"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Satkhira", "s_city_slug": "satkhira"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Satkhira", "s_city_slug": "satkhira"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Ujalpur", "s_city_slug": "ujalpur"}, {"s_country_code": "BD", "s_region_slug": "khulna-district", "s_city_name": "Uttar Char Fasson", "s_city_slug": "uttar-char-fasson"}]}, {"s_country_code": "BD", "s_region_name": "Khulna Division", "s_region_slug": "khulna-division", "cities": [{"s_country_code": "BD", "s_region_slug": "khulna-division", "s_city_name": "Khulna Division", "s_city_slug": "khulna-division"}]}, {"s_country_code": "BD", "s_region_name": "Kishoreganj District", "s_region_slug": "kishoreganj-district", "cities": [{"s_country_code": "BD", "s_region_slug": "kishoreganj-district", "s_city_name": "Kishoreganj District", "s_city_slug": "kishoreganj-district"}]}, {"s_country_code": "BD", "s_region_name": "Kurigram District", "s_region_slug": "kurigram-district", "cities": [{"s_country_code": "BD", "s_region_slug": "kurigram-district", "s_city_name": "Kurigram District", "s_city_slug": "kurigram-district"}]}, {"s_country_code": "BD", "s_region_name": "Kushtia District", "s_region_slug": "kushtia-district", "cities": [{"s_country_code": "BD", "s_region_slug": "kushtia-district", "s_city_name": "Kushtia District", "s_city_slug": "kushtia-district"}]}, {"s_country_code": "BD", "s_region_name": "Lakshmipur District", "s_region_slug": "lakshmipur-district", "cities": [{"s_country_code": "BD", "s_region_slug": "lakshmipur-district", "s_city_name": "Lakshmipur District", "s_city_slug": "lakshmipur-district"}]}, {"s_country_code": "BD", "s_region_name": "Lalmonirhat District", "s_region_slug": "lalmonirhat-district", "cities": [{"s_country_code": "BD", "s_region_slug": "lalmonirhat-district", "s_city_name": "Lalmonirhat District", "s_city_slug": "lalmonirhat-district"}]}, {"s_country_code": "BD", "s_region_name": "Madaripur District", "s_region_slug": "madaripur-district", "cities": [{"s_country_code": "BD", "s_region_slug": "madaripur-district", "s_city_name": "Madaripur District", "s_city_slug": "madaripur-district"}]}, {"s_country_code": "BD", "s_region_name": "Meherpur District", "s_region_slug": "meherpur-district", "cities": [{"s_country_code": "BD", "s_region_slug": "meherpur-district", "s_city_name": "Meherpur District", "s_city_slug": "meherpur-district"}]}, {"s_country_code": "BD", "s_region_name": "Moulvibazar District", "s_region_slug": "moulvibazar-district", "cities": [{"s_country_code": "BD", "s_region_slug": "moulvibazar-district", "s_city_name": "Moulvibazar District", "s_city_slug": "moulvibazar-district"}]}, {"s_country_code": "BD", "s_region_name": "Munshiganj District", "s_region_slug": "munshiganj-district", "cities": [{"s_country_code": "BD", "s_region_slug": "munshiganj-district", "s_city_name": "Munshiganj District", "s_city_slug": "munshiganj-district"}]}, {"s_country_code": "BD", "s_region_name": "Mymensingh District", "s_region_slug": "mymensingh-district", "cities": [{"s_country_code": "BD", "s_region_slug": "mymensingh-district", "s_city_name": "Gafargaon", "s_city_slug": "gafargaon"}, {"s_country_code": "BD", "s_region_slug": "mymensingh-district", "s_city_name": "Jamalpur", "s_city_slug": "jamalpur"}, {"s_country_code": "BD", "s_region_slug": "mymensingh-district", "s_city_name": "Jamalpur", "s_city_slug": "jamalpur"}, {"s_country_code": "BD", "s_region_slug": "mymensingh-district", "s_city_name": "Muktagacha", "s_city_slug": "muktagacha"}, {"s_country_code": "BD", "s_region_slug": "mymensingh-district", "s_city_name": "Mymensingh", "s_city_slug": "mymensingh"}, {"s_country_code": "BD", "s_region_slug": "mymensingh-district", "s_city_name": "Netrakona", "s_city_slug": "netrakona"}, {"s_country_code": "BD", "s_region_slug": "mymensingh-district", "s_city_name": "Sarishabari", "s_city_slug": "sarishabari"}, {"s_country_code": "BD", "s_region_slug": "mymensingh-district", "s_city_name": "Sherpur", "s_city_slug": "sherpur"}]}, {"s_country_code": "BD", "s_region_name": "Mymensingh Division", "s_region_slug": "mymensingh-division", "cities": [{"s_country_code": "BD", "s_region_slug": "mymensingh-division", "s_city_name": "Mymensingh Division", "s_city_slug": "mymensingh-division"}]}, {"s_country_code": "BD", "s_region_name": "Naogaon District", "s_region_slug": "naogaon-district", "cities": [{"s_country_code": "BD", "s_region_slug": "naogaon-district", "s_city_name": "Naogaon District", "s_city_slug": "naogaon-district"}]}, {"s_country_code": "BD", "s_region_name": "Narail District", "s_region_slug": "narail-district", "cities": [{"s_country_code": "BD", "s_region_slug": "narail-district", "s_city_name": "Narail District", "s_city_slug": "narail-district"}]}, {"s_country_code": "BD", "s_region_name": "Narayanganj District", "s_region_slug": "narayanganj-district", "cities": [{"s_country_code": "BD", "s_region_slug": "narayanganj-district", "s_city_name": "Narayanganj District", "s_city_slug": "narayanganj-district"}]}, {"s_country_code": "BD", "s_region_name": "Natore District", "s_region_slug": "natore-district", "cities": [{"s_country_code": "BD", "s_region_slug": "natore-district", "s_city_name": "Natore District", "s_city_slug": "natore-district"}]}, {"s_country_code": "BD", "s_region_name": "Netrokona District", "s_region_slug": "netrokona-district", "cities": [{"s_country_code": "BD", "s_region_slug": "netrokona-district", "s_city_name": "Netrokona District", "s_city_slug": "netrokona-district"}]}, {"s_country_code": "BD", "s_region_name": "Nilphamari District", "s_region_slug": "nilphamari-district", "cities": [{"s_country_code": "BD", "s_region_slug": "nilphamari-district", "s_city_name": "Nilphamari District", "s_city_slug": "nilphamari-district"}]}, {"s_country_code": "BD", "s_region_name": "Noakhali District", "s_region_slug": "noakhali-district", "cities": [{"s_country_code": "BD", "s_region_slug": "noakhali-district", "s_city_name": "Noakhali District", "s_city_slug": "noakhali-district"}]}, {"s_country_code": "BD", "s_region_name": "Pabna District", "s_region_slug": "pabna-district", "cities": [{"s_country_code": "BD", "s_region_slug": "pabna-district", "s_city_name": "Pabna District", "s_city_slug": "pabna-district"}]}, {"s_country_code": "BD", "s_region_name": "Panchagarh District", "s_region_slug": "panchagarh-district", "cities": [{"s_country_code": "BD", "s_region_slug": "panchagarh-district", "s_city_name": "Panchagarh District", "s_city_slug": "panchagarh-district"}]}, {"s_country_code": "BD", "s_region_name": "Patuakhali District", "s_region_slug": "patuakhali-district", "cities": [{"s_country_code": "BD", "s_region_slug": "patuakhali-district", "s_city_name": "Patuakhali District", "s_city_slug": "patuakhali-district"}]}, {"s_country_code": "BD", "s_region_name": "Pirojpur District", "s_region_slug": "pirojpur-district", "cities": [{"s_country_code": "BD", "s_region_slug": "pirojpur-district", "s_city_name": "Pirojpur District", "s_city_slug": "pirojpur-district"}]}, {"s_country_code": "BD", "s_region_name": "Rajbari District", "s_region_slug": "rajbari-district", "cities": [{"s_country_code": "BD", "s_region_slug": "rajbari-district", "s_city_name": "Rajbari District", "s_city_slug": "rajbari-district"}]}, {"s_country_code": "BD", "s_region_name": "Rajshahi District", "s_region_slug": "rajshahi-district", "cities": [{"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Bera", "s_city_slug": "bera"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Bogra", "s_city_slug": "bogra"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Chapai Nababganj", "s_city_slug": "chapai-nababganj"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Ishurdi", "s_city_slug": "ishurdi"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Joypur Hat", "s_city_slug": "joypur-hat"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Joypurhat", "s_city_slug": "joypurhat"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Mahasthangarh", "s_city_slug": "mahasthangarh"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Naogaon", "s_city_slug": "naogaon"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Natore", "s_city_slug": "natore"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Nawabganj", "s_city_slug": "nawabganj"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Pabna", "s_city_slug": "pabna"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Pabna", "s_city_slug": "pabna"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Par Naogaon", "s_city_slug": "par-naogaon"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Puthia", "s_city_slug": "puthia"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Rajshahi", "s_city_slug": "rajshahi"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Rajshahi", "s_city_slug": "rajshahi"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Saidpur", "s_city_slug": "saidpur"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Shahzadpur", "s_city_slug": "shahzadpur"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Shibganj", "s_city_slug": "shibganj"}, {"s_country_code": "BD", "s_region_slug": "rajshahi-district", "s_city_name": "Sirajganj", "s_city_slug": "sirajganj"}]}, {"s_country_code": "BD", "s_region_name": "Rajshahi Division", "s_region_slug": "rajshahi-division", "cities": [{"s_country_code": "BD", "s_region_slug": "rajshahi-division", "s_city_name": "Rajshahi Division", "s_city_slug": "rajshahi-division"}]}, {"s_country_code": "BD", "s_region_name": "Rangamati Hill District", "s_region_slug": "rangamati-hill-district", "cities": [{"s_country_code": "BD", "s_region_slug": "rangamati-hill-district", "s_city_name": "Rangamati Hill District", "s_city_slug": "rangamati-hill-district"}]}, {"s_country_code": "BD", "s_region_name": "Rangpur District", "s_region_slug": "rangpur-district", "cities": [{"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Badarganj", "s_city_slug": "badarganj"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Chilmari", "s_city_slug": "chilmari"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Dinajpur", "s_city_slug": "dinajpur"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Dinajpur", "s_city_slug": "dinajpur"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Gaibandha", "s_city_slug": "gaibandha"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Kurigram", "s_city_slug": "kurigram"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Lalmonirhat", "s_city_slug": "lalmonirhat"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Lalmonirhat District", "s_city_slug": "lalmonirhat-district"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Nageswari", "s_city_slug": "nageswari"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Nilphamari Zila", "s_city_slug": "nilphamari-zila"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Panchagarh", "s_city_slug": "panchagarh"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Parbatipur", "s_city_slug": "parbatipur"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Pirgaaj", "s_city_slug": "pirgaaj"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Rangpur", "s_city_slug": "rangpur"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Thakurgaon", "s_city_slug": "thakurgaon"}, {"s_country_code": "BD", "s_region_slug": "rangpur-district", "s_city_name": "Thakurgaon", "s_city_slug": "thakurgaon"}]}, {"s_country_code": "BD", "s_region_name": "Rangpur Division", "s_region_slug": "rangpur-division", "cities": [{"s_country_code": "BD", "s_region_slug": "rangpur-division", "s_city_name": "Rangpur Division", "s_city_slug": "rangpur-division"}]}, {"s_country_code": "BD", "s_region_name": "Satkhira District", "s_region_slug": "satkhira-district", "cities": [{"s_country_code": "BD", "s_region_slug": "satkhira-district", "s_city_name": "Satkhira District", "s_city_slug": "satkhira-district"}]}, {"s_country_code": "BD", "s_region_name": "Shariatpur District", "s_region_slug": "shariatpur-district", "cities": [{"s_country_code": "BD", "s_region_slug": "shariatpur-district", "s_city_name": "Shariatpur District", "s_city_slug": "shariatpur-district"}]}, {"s_country_code": "BD", "s_region_name": "Sherpur District", "s_region_slug": "sherpur-district", "cities": [{"s_country_code": "BD", "s_region_slug": "sherpur-district", "s_city_name": "Sherpur District", "s_city_slug": "sherpur-district"}]}, {"s_country_code": "BD", "s_region_name": "Sirajganj District", "s_region_slug": "sirajganj-district", "cities": [{"s_country_code": "BD", "s_region_slug": "sirajganj-district", "s_city_name": "Sirajganj District", "s_city_slug": "sirajganj-district"}]}, {"s_country_code": "BD", "s_region_name": "Sunamganj District", "s_region_slug": "sunamganj-district", "cities": [{"s_country_code": "BD", "s_region_slug": "sunamganj-district", "s_city_name": "Sunamganj District", "s_city_slug": "sunamganj-district"}]}, {"s_country_code": "BD", "s_region_name": "Sylhet District", "s_region_slug": "sylhet-district", "cities": [{"s_country_code": "BD", "s_region_slug": "sylhet-district", "s_city_name": "Baniachang", "s_city_slug": "baniachang"}, {"s_country_code": "BD", "s_region_slug": "sylhet-district", "s_city_name": "Chhatak", "s_city_slug": "chhatak"}, {"s_country_code": "BD", "s_region_slug": "sylhet-district", "s_city_name": "Habiganj", "s_city_slug": "habiganj"}, {"s_country_code": "BD", "s_region_slug": "sylhet-district", "s_city_name": "Jahedpur", "s_city_slug": "jahedpur"}, {"s_country_code": "BD", "s_region_slug": "sylhet-district", "s_city_name": "Maulavi Bazar", "s_city_slug": "maulavi-bazar"}, {"s_country_code": "BD", "s_region_slug": "sylhet-district", "s_city_name": "Maulvibazar", "s_city_slug": "maulvibazar"}, {"s_country_code": "BD", "s_region_slug": "sylhet-district", "s_city_name": "Sunamganj", "s_city_slug": "sunamganj"}, {"s_country_code": "BD", "s_region_slug": "sylhet-district", "s_city_name": "Sylhet", "s_city_slug": "sylhet"}]}, {"s_country_code": "BD", "s_region_name": "Sylhet Division", "s_region_slug": "sylhet-division", "cities": [{"s_country_code": "BD", "s_region_slug": "sylhet-division", "s_city_name": "Sylhet Division", "s_city_slug": "sylhet-division"}]}, {"s_country_code": "BD", "s_region_name": "Tangail District", "s_region_slug": "tangail-district", "cities": [{"s_country_code": "BD", "s_region_slug": "tangail-district", "s_city_name": "Tangail District", "s_city_slug": "tangail-district"}]}, {"s_country_code": "BD", "s_region_name": "Thakurgaon District", "s_region_slug": "thakurgaon-district", "cities": [{"s_country_code": "BD", "s_region_slug": "thakurgaon-district", "s_city_name": "Thakurgaon District", "s_city_slug": "thakurgaon-district"}]}]}
+{
+    "s_country_code": "BD",
+    "s_country_name": "Bangladesh",
+    "s_country_slug": "bangladesh",
+    "regions": [
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Bagerhat District",
+            "s_region_slug": "bagerhat-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "bagerhat-district",
+                    "s_city_name": "Bagerhat District",
+                    "s_city_slug": "bagerhat-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Bahadia",
+            "s_region_slug": "bahadia",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "bahadia",
+                    "s_city_name": "Bahadia",
+                    "s_city_slug": "bahadia"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Bandarban District",
+            "s_region_slug": "bandarban-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "bandarban-district",
+                    "s_city_name": "Bandarban District",
+                    "s_city_slug": "bandarban-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Barguna District",
+            "s_region_slug": "barguna-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barguna-district",
+                    "s_city_name": "Barguna District",
+                    "s_city_slug": "barguna-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Barisal District",
+            "s_region_slug": "barisal-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Barguna",
+                    "s_city_slug": "barguna"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Barisal",
+                    "s_city_slug": "barisal"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Barisal",
+                    "s_city_slug": "barisal"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Bhandaria",
+                    "s_city_slug": "bhandaria"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Bhola",
+                    "s_city_slug": "bhola"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Burhanuddin",
+                    "s_city_slug": "burhanuddin"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Gaurnadi",
+                    "s_city_slug": "gaurnadi"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Jhalokati",
+                    "s_city_slug": "jhalokati"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Lalmohan",
+                    "s_city_slug": "lalmohan"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Mathba",
+                    "s_city_slug": "mathba"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Mehendiganj",
+                    "s_city_slug": "mehendiganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Nalchiti",
+                    "s_city_slug": "nalchiti"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Patuakhali",
+                    "s_city_slug": "patuakhali"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-district",
+                    "s_city_name": "Pirojpur",
+                    "s_city_slug": "pirojpur"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Barisal Division",
+            "s_region_slug": "barisal-division",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "barisal-division",
+                    "s_city_name": "Barisal Division",
+                    "s_city_slug": "barisal-division"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Bhola District",
+            "s_region_slug": "bhola-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "bhola-district",
+                    "s_city_name": "Bhola District",
+                    "s_city_slug": "bhola-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Bogra District",
+            "s_region_slug": "bogra-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "bogra-district",
+                    "s_city_name": "Bogra District",
+                    "s_city_slug": "bogra-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Brahmanbaria District",
+            "s_region_slug": "brahmanbaria-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "brahmanbaria-district",
+                    "s_city_name": "Brahmanbaria District",
+                    "s_city_slug": "brahmanbaria-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Chandpur District",
+            "s_region_slug": "chandpur-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chandpur-district",
+                    "s_city_name": "Chandpur District",
+                    "s_city_slug": "chandpur-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Chapai Nawabganj District",
+            "s_region_slug": "chapai-nawabganj-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chapai-nawabganj-district",
+                    "s_city_name": "Chapai Nawabganj District",
+                    "s_city_slug": "chapai-nawabganj-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Chittagong District",
+            "s_region_slug": "chittagong-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-district",
+                    "s_city_name": "Chittagong District",
+                    "s_city_slug": "chittagong-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Chittagong Division",
+            "s_region_slug": "chittagong-division",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Bandarban",
+                    "s_city_slug": "bandarban"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Bandarban",
+                    "s_city_slug": "bandarban"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Bibir Hat",
+                    "s_city_slug": "bibir-hat"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Brahmanbaria",
+                    "s_city_slug": "brahmanbaria"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Chandpur",
+                    "s_city_slug": "chandpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Chhagalnaiya",
+                    "s_city_slug": "chhagalnaiya"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Chittagong",
+                    "s_city_slug": "chittagong"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Comilla",
+                    "s_city_slug": "comilla"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Cox's Bazar",
+                    "s_city_slug": "coxs-bazar"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Coxs Bazar",
+                    "s_city_slug": "coxs-bazar"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Feni",
+                    "s_city_slug": "feni"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Hajiganj",
+                    "s_city_slug": "hajiganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Khagrachhari",
+                    "s_city_slug": "khagrachhari"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Laksham",
+                    "s_city_slug": "laksham"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Lakshmipur",
+                    "s_city_slug": "lakshmipur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Lakshmipur",
+                    "s_city_slug": "lakshmipur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Manikchari",
+                    "s_city_slug": "manikchari"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Nabinagar",
+                    "s_city_slug": "nabinagar"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Noakhali",
+                    "s_city_slug": "noakhali"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Patiya",
+                    "s_city_slug": "patiya"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Raipur",
+                    "s_city_slug": "raipur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Ramganj",
+                    "s_city_slug": "ramganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Rangamati",
+                    "s_city_slug": "rangamati"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Raojan",
+                    "s_city_slug": "raojan"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Sandwip",
+                    "s_city_slug": "sandwip"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Satkania",
+                    "s_city_slug": "satkania"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chittagong-division",
+                    "s_city_name": "Teknaf",
+                    "s_city_slug": "teknaf"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Chuadanga District",
+            "s_region_slug": "chuadanga-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "chuadanga-district",
+                    "s_city_name": "Chuadanga District",
+                    "s_city_slug": "chuadanga-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Comilla District",
+            "s_region_slug": "comilla-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "comilla-district",
+                    "s_city_name": "Comilla District",
+                    "s_city_slug": "comilla-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Cox's Bazar District",
+            "s_region_slug": "coxs-bazar-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "coxs-bazar-district",
+                    "s_city_name": "Cox's Bazar District",
+                    "s_city_slug": "coxs-bazar-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Dhaka District",
+            "s_region_slug": "dhaka-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Azimpur",
+                    "s_city_slug": "azimpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Bajitpur",
+                    "s_city_slug": "bajitpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Bhairab Bazar",
+                    "s_city_slug": "bhairab-bazar"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Char Bhadrasan",
+                    "s_city_slug": "char-bhadrasan"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Char Golora",
+                    "s_city_slug": "char-golora"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Dhaka",
+                    "s_city_slug": "dhaka"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Dohar",
+                    "s_city_slug": "dohar"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Faridpur",
+                    "s_city_slug": "faridpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Faridpur",
+                    "s_city_slug": "faridpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Gazipur",
+                    "s_city_slug": "gazipur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Gopalganj",
+                    "s_city_slug": "gopalganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Joymontop",
+                    "s_city_slug": "joymontop"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Khanbaniara",
+                    "s_city_slug": "khanbaniara"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Kishoregonj",
+                    "s_city_slug": "kishoregonj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Kishorganj",
+                    "s_city_slug": "kishorganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Madaripur",
+                    "s_city_slug": "madaripur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Madaripur",
+                    "s_city_slug": "madaripur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Manikganj",
+                    "s_city_slug": "manikganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Mirzapur",
+                    "s_city_slug": "mirzapur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Munshiganj",
+                    "s_city_slug": "munshiganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Nagarpur",
+                    "s_city_slug": "nagarpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Narayanganj",
+                    "s_city_slug": "narayanganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Narayanganj",
+                    "s_city_slug": "narayanganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Narsingdi",
+                    "s_city_slug": "narsingdi"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Palang",
+                    "s_city_slug": "palang"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Paltan",
+                    "s_city_slug": "paltan"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Parvez Ali",
+                    "s_city_slug": "parvez-ali"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Parvez Ali Hossain",
+                    "s_city_slug": "parvez-ali-hossain"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Rajbari",
+                    "s_city_slug": "rajbari"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Ramnagar",
+                    "s_city_slug": "ramnagar"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Sakhipur",
+                    "s_city_slug": "sakhipur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Sayani",
+                    "s_city_slug": "sayani"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Shariatpur",
+                    "s_city_slug": "shariatpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Sonargaon",
+                    "s_city_slug": "sonargaon"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Tangail",
+                    "s_city_slug": "tangail"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Tangail",
+                    "s_city_slug": "tangail"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Tungi",
+                    "s_city_slug": "tungi"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-district",
+                    "s_city_name": "Tungipara",
+                    "s_city_slug": "tungipara"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Dhaka Division",
+            "s_region_slug": "dhaka-division",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dhaka-division",
+                    "s_city_name": "Dhaka Division",
+                    "s_city_slug": "dhaka-division"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Dinajpur District",
+            "s_region_slug": "dinajpur-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "dinajpur-district",
+                    "s_city_name": "Dinajpur District",
+                    "s_city_slug": "dinajpur-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Faridpur District",
+            "s_region_slug": "faridpur-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "faridpur-district",
+                    "s_city_name": "Faridpur District",
+                    "s_city_slug": "faridpur-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Feni District",
+            "s_region_slug": "feni-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "feni-district",
+                    "s_city_name": "Feni District",
+                    "s_city_slug": "feni-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Gaibandha District",
+            "s_region_slug": "gaibandha-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "gaibandha-district",
+                    "s_city_name": "Gaibandha District",
+                    "s_city_slug": "gaibandha-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Gazipur District",
+            "s_region_slug": "gazipur-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "gazipur-district",
+                    "s_city_name": "Gazipur District",
+                    "s_city_slug": "gazipur-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Gopalganj District",
+            "s_region_slug": "gopalganj-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "gopalganj-district",
+                    "s_city_name": "Gopalganj District",
+                    "s_city_slug": "gopalganj-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Habiganj District",
+            "s_region_slug": "habiganj-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "habiganj-district",
+                    "s_city_name": "Habiganj District",
+                    "s_city_slug": "habiganj-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Jamalpur District",
+            "s_region_slug": "jamalpur-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "jamalpur-district",
+                    "s_city_name": "Jamalpur District",
+                    "s_city_slug": "jamalpur-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Jessore District",
+            "s_region_slug": "jessore-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "jessore-district",
+                    "s_city_name": "Jessore District",
+                    "s_city_slug": "jessore-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Jhalokati District",
+            "s_region_slug": "jhalokati-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "jhalokati-district",
+                    "s_city_name": "Jhalokati District",
+                    "s_city_slug": "jhalokati-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Jhenaidah District",
+            "s_region_slug": "jhenaidah-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "jhenaidah-district",
+                    "s_city_name": "Jhenaidah District",
+                    "s_city_slug": "jhenaidah-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Joypurhat District",
+            "s_region_slug": "joypurhat-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "joypurhat-district",
+                    "s_city_name": "Joypurhat District",
+                    "s_city_slug": "joypurhat-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Khagrachari District",
+            "s_region_slug": "khagrachari-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khagrachari-district",
+                    "s_city_name": "Khagrachari District",
+                    "s_city_slug": "khagrachari-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Khulna District",
+            "s_region_slug": "khulna-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Bagerhat",
+                    "s_city_slug": "bagerhat"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Bhatpara Abhaynagar",
+                    "s_city_slug": "bhatpara-abhaynagar"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Bheramara",
+                    "s_city_slug": "bheramara"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Chuadanga",
+                    "s_city_slug": "chuadanga"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Jessore",
+                    "s_city_slug": "jessore"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Jhenaidah",
+                    "s_city_slug": "jhenaidah"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Jhingergacha",
+                    "s_city_slug": "jhingergacha"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Kalia",
+                    "s_city_slug": "kalia"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Kaliganj",
+                    "s_city_slug": "kaliganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Kesabpur",
+                    "s_city_slug": "kesabpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Khulna",
+                    "s_city_slug": "khulna"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Kushtia",
+                    "s_city_slug": "kushtia"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Magura",
+                    "s_city_slug": "magura"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Meherpur",
+                    "s_city_slug": "meherpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Morrelgonj",
+                    "s_city_slug": "morrelgonj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Narail",
+                    "s_city_slug": "narail"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Nowlamary",
+                    "s_city_slug": "nowlamary"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Phultala",
+                    "s_city_slug": "phultala"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Sarankhola",
+                    "s_city_slug": "sarankhola"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Satkhira",
+                    "s_city_slug": "satkhira"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Satkhira",
+                    "s_city_slug": "satkhira"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Ujalpur",
+                    "s_city_slug": "ujalpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-district",
+                    "s_city_name": "Uttar Char Fasson",
+                    "s_city_slug": "uttar-char-fasson"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Khulna Division",
+            "s_region_slug": "khulna-division",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "khulna-division",
+                    "s_city_name": "Khulna Division",
+                    "s_city_slug": "khulna-division"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Kishoreganj District",
+            "s_region_slug": "kishoreganj-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "kishoreganj-district",
+                    "s_city_name": "Kishoreganj District",
+                    "s_city_slug": "kishoreganj-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Kurigram District",
+            "s_region_slug": "kurigram-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "kurigram-district",
+                    "s_city_name": "Kurigram District",
+                    "s_city_slug": "kurigram-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Kushtia District",
+            "s_region_slug": "kushtia-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "kushtia-district",
+                    "s_city_name": "Kushtia District",
+                    "s_city_slug": "kushtia-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Lakshmipur District",
+            "s_region_slug": "lakshmipur-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "lakshmipur-district",
+                    "s_city_name": "Lakshmipur District",
+                    "s_city_slug": "lakshmipur-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Lalmonirhat District",
+            "s_region_slug": "lalmonirhat-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "lalmonirhat-district",
+                    "s_city_name": "Lalmonirhat District",
+                    "s_city_slug": "lalmonirhat-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Madaripur District",
+            "s_region_slug": "madaripur-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "madaripur-district",
+                    "s_city_name": "Madaripur District",
+                    "s_city_slug": "madaripur-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Meherpur District",
+            "s_region_slug": "meherpur-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "meherpur-district",
+                    "s_city_name": "Meherpur District",
+                    "s_city_slug": "meherpur-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Moulvibazar District",
+            "s_region_slug": "moulvibazar-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "moulvibazar-district",
+                    "s_city_name": "Moulvibazar District",
+                    "s_city_slug": "moulvibazar-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Munshiganj District",
+            "s_region_slug": "munshiganj-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "munshiganj-district",
+                    "s_city_name": "Munshiganj District",
+                    "s_city_slug": "munshiganj-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Mymensingh District",
+            "s_region_slug": "mymensingh-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "mymensingh-district",
+                    "s_city_name": "Gafargaon",
+                    "s_city_slug": "gafargaon"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "mymensingh-district",
+                    "s_city_name": "Jamalpur",
+                    "s_city_slug": "jamalpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "mymensingh-district",
+                    "s_city_name": "Jamalpur",
+                    "s_city_slug": "jamalpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "mymensingh-district",
+                    "s_city_name": "Muktagacha",
+                    "s_city_slug": "muktagacha"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "mymensingh-district",
+                    "s_city_name": "Mymensingh",
+                    "s_city_slug": "mymensingh"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "mymensingh-district",
+                    "s_city_name": "Netrakona",
+                    "s_city_slug": "netrakona"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "mymensingh-district",
+                    "s_city_name": "Sarishabari",
+                    "s_city_slug": "sarishabari"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "mymensingh-district",
+                    "s_city_name": "Sherpur",
+                    "s_city_slug": "sherpur"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Mymensingh Division",
+            "s_region_slug": "mymensingh-division",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "mymensingh-division",
+                    "s_city_name": "Mymensingh Division",
+                    "s_city_slug": "mymensingh-division"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Naogaon District",
+            "s_region_slug": "naogaon-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "naogaon-district",
+                    "s_city_name": "Naogaon District",
+                    "s_city_slug": "naogaon-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Narail District",
+            "s_region_slug": "narail-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "narail-district",
+                    "s_city_name": "Narail District",
+                    "s_city_slug": "narail-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Narayanganj District",
+            "s_region_slug": "narayanganj-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "narayanganj-district",
+                    "s_city_name": "Narayanganj District",
+                    "s_city_slug": "narayanganj-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Natore District",
+            "s_region_slug": "natore-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "natore-district",
+                    "s_city_name": "Natore District",
+                    "s_city_slug": "natore-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Netrokona District",
+            "s_region_slug": "netrokona-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "netrokona-district",
+                    "s_city_name": "Netrokona District",
+                    "s_city_slug": "netrokona-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Nilphamari District",
+            "s_region_slug": "nilphamari-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "nilphamari-district",
+                    "s_city_name": "Nilphamari District",
+                    "s_city_slug": "nilphamari-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Noakhali District",
+            "s_region_slug": "noakhali-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "noakhali-district",
+                    "s_city_name": "Noakhali District",
+                    "s_city_slug": "noakhali-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Pabna District",
+            "s_region_slug": "pabna-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "pabna-district",
+                    "s_city_name": "Pabna District",
+                    "s_city_slug": "pabna-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Panchagarh District",
+            "s_region_slug": "panchagarh-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "panchagarh-district",
+                    "s_city_name": "Panchagarh District",
+                    "s_city_slug": "panchagarh-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Patuakhali District",
+            "s_region_slug": "patuakhali-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "patuakhali-district",
+                    "s_city_name": "Patuakhali District",
+                    "s_city_slug": "patuakhali-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Pirojpur District",
+            "s_region_slug": "pirojpur-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "pirojpur-district",
+                    "s_city_name": "Pirojpur District",
+                    "s_city_slug": "pirojpur-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Rajbari District",
+            "s_region_slug": "rajbari-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajbari-district",
+                    "s_city_name": "Rajbari District",
+                    "s_city_slug": "rajbari-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Rajshahi District",
+            "s_region_slug": "rajshahi-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Bera",
+                    "s_city_slug": "bera"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Bogra",
+                    "s_city_slug": "bogra"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Chapai Nababganj",
+                    "s_city_slug": "chapai-nababganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Ishurdi",
+                    "s_city_slug": "ishurdi"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Joypur Hat",
+                    "s_city_slug": "joypur-hat"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Joypurhat",
+                    "s_city_slug": "joypurhat"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Mahasthangarh",
+                    "s_city_slug": "mahasthangarh"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Naogaon",
+                    "s_city_slug": "naogaon"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Natore",
+                    "s_city_slug": "natore"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Nawabganj",
+                    "s_city_slug": "nawabganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Pabna",
+                    "s_city_slug": "pabna"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Pabna",
+                    "s_city_slug": "pabna"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Par Naogaon",
+                    "s_city_slug": "par-naogaon"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Puthia",
+                    "s_city_slug": "puthia"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Rajshahi",
+                    "s_city_slug": "rajshahi"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Rajshahi",
+                    "s_city_slug": "rajshahi"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Saidpur",
+                    "s_city_slug": "saidpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Shahzadpur",
+                    "s_city_slug": "shahzadpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Shibganj",
+                    "s_city_slug": "shibganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-district",
+                    "s_city_name": "Sirajganj",
+                    "s_city_slug": "sirajganj"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Rajshahi Division",
+            "s_region_slug": "rajshahi-division",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rajshahi-division",
+                    "s_city_name": "Rajshahi Division",
+                    "s_city_slug": "rajshahi-division"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Rangamati Hill District",
+            "s_region_slug": "rangamati-hill-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangamati-hill-district",
+                    "s_city_name": "Rangamati Hill District",
+                    "s_city_slug": "rangamati-hill-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Rangpur District",
+            "s_region_slug": "rangpur-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Badarganj",
+                    "s_city_slug": "badarganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Chilmari",
+                    "s_city_slug": "chilmari"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Dinajpur",
+                    "s_city_slug": "dinajpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Dinajpur",
+                    "s_city_slug": "dinajpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Gaibandha",
+                    "s_city_slug": "gaibandha"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Kurigram",
+                    "s_city_slug": "kurigram"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Lalmonirhat",
+                    "s_city_slug": "lalmonirhat"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Lalmonirhat District",
+                    "s_city_slug": "lalmonirhat-district"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Nageswari",
+                    "s_city_slug": "nageswari"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Nilphamari Zila",
+                    "s_city_slug": "nilphamari-zila"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Panchagarh",
+                    "s_city_slug": "panchagarh"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Parbatipur",
+                    "s_city_slug": "parbatipur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Pirgaaj",
+                    "s_city_slug": "pirgaaj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Rangpur",
+                    "s_city_slug": "rangpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Thakurgaon",
+                    "s_city_slug": "thakurgaon"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-district",
+                    "s_city_name": "Thakurgaon",
+                    "s_city_slug": "thakurgaon"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Rangpur Division",
+            "s_region_slug": "rangpur-division",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "rangpur-division",
+                    "s_city_name": "Rangpur Division",
+                    "s_city_slug": "rangpur-division"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Satkhira District",
+            "s_region_slug": "satkhira-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "satkhira-district",
+                    "s_city_name": "Satkhira District",
+                    "s_city_slug": "satkhira-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Shariatpur District",
+            "s_region_slug": "shariatpur-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "shariatpur-district",
+                    "s_city_name": "Shariatpur District",
+                    "s_city_slug": "shariatpur-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Sherpur District",
+            "s_region_slug": "sherpur-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "sherpur-district",
+                    "s_city_name": "Sherpur District",
+                    "s_city_slug": "sherpur-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Sirajganj District",
+            "s_region_slug": "sirajganj-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "sirajganj-district",
+                    "s_city_name": "Sirajganj District",
+                    "s_city_slug": "sirajganj-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Sunamganj District",
+            "s_region_slug": "sunamganj-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "sunamganj-district",
+                    "s_city_name": "Sunamganj District",
+                    "s_city_slug": "sunamganj-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Sylhet District",
+            "s_region_slug": "sylhet-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "sylhet-district",
+                    "s_city_name": "Baniachang",
+                    "s_city_slug": "baniachang"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "sylhet-district",
+                    "s_city_name": "Chhatak",
+                    "s_city_slug": "chhatak"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "sylhet-district",
+                    "s_city_name": "Habiganj",
+                    "s_city_slug": "habiganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "sylhet-district",
+                    "s_city_name": "Jahedpur",
+                    "s_city_slug": "jahedpur"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "sylhet-district",
+                    "s_city_name": "Maulavi Bazar",
+                    "s_city_slug": "maulavi-bazar"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "sylhet-district",
+                    "s_city_name": "Maulvibazar",
+                    "s_city_slug": "maulvibazar"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "sylhet-district",
+                    "s_city_name": "Sunamganj",
+                    "s_city_slug": "sunamganj"
+                },
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "sylhet-district",
+                    "s_city_name": "Sylhet",
+                    "s_city_slug": "sylhet"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Sylhet Division",
+            "s_region_slug": "sylhet-division",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "sylhet-division",
+                    "s_city_name": "Sylhet Division",
+                    "s_city_slug": "sylhet-division"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Tangail District",
+            "s_region_slug": "tangail-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "tangail-district",
+                    "s_city_name": "Tangail District",
+                    "s_city_slug": "tangail-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BD",
+            "s_region_name": "Thakurgaon District",
+            "s_region_slug": "thakurgaon-district",
+            "cities": [
+                {
+                    "s_country_code": "BD",
+                    "s_region_slug": "thakurgaon-district",
+                    "s_city_name": "Thakurgaon District",
+                    "s_city_slug": "thakurgaon-district"
+                }
+            ]
+        }
+    ]
+}

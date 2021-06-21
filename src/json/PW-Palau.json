@@ -1,1 +1,221 @@
-{"s_country_code": "PW", "s_country_name": "Palau", "s_country_slug": "palau", "regions": [{"s_country_code": "PW", "s_region_name": "Aimeliik", "s_region_slug": "aimeliik", "cities": [{"s_country_code": "PW", "s_region_slug": "aimeliik", "s_city_name": "Ngchemiangel", "s_city_slug": "ngchemiangel"}]}, {"s_country_code": "PW", "s_region_name": "Airai", "s_region_slug": "airai", "cities": [{"s_country_code": "PW", "s_region_slug": "airai", "s_city_name": "Ngetkib", "s_city_slug": "ngetkib"}]}, {"s_country_code": "PW", "s_region_name": "Angaur", "s_region_slug": "angaur", "cities": [{"s_country_code": "PW", "s_region_slug": "angaur", "s_city_name": "Angaur State", "s_city_slug": "angaur-state"}]}, {"s_country_code": "PW", "s_region_name": "Hatohobei", "s_region_slug": "hatohobei", "cities": [{"s_country_code": "PW", "s_region_slug": "hatohobei", "s_city_name": "Tobi Village", "s_city_slug": "tobi-village"}]}, {"s_country_code": "PW", "s_region_name": "Kayangel", "s_region_slug": "kayangel", "cities": [{"s_country_code": "PW", "s_region_slug": "kayangel", "s_city_name": "Kayangel", "s_city_slug": "kayangel"}]}, {"s_country_code": "PW", "s_region_name": "Koror", "s_region_slug": "koror", "cities": [{"s_country_code": "PW", "s_region_slug": "koror", "s_city_name": "Koror", "s_city_slug": "koror"}, {"s_country_code": "PW", "s_region_slug": "koror", "s_city_name": "Koror Town", "s_city_slug": "koror-town"}]}, {"s_country_code": "PW", "s_region_name": "Melekeok", "s_region_slug": "melekeok", "cities": [{"s_country_code": "PW", "s_region_slug": "melekeok", "s_city_name": "Melekeok Village", "s_city_slug": "melekeok-village"}]}, {"s_country_code": "PW", "s_region_name": "Ngaraard", "s_region_slug": "ngaraard", "cities": [{"s_country_code": "PW", "s_region_slug": "ngaraard", "s_city_name": "Ulimang", "s_city_slug": "ulimang"}]}, {"s_country_code": "PW", "s_region_name": "Ngarchelong", "s_region_slug": "ngarchelong", "cities": [{"s_country_code": "PW", "s_region_slug": "ngarchelong", "s_city_name": "Mengellang", "s_city_slug": "mengellang"}]}, {"s_country_code": "PW", "s_region_name": "Ngardmau", "s_region_slug": "ngardmau", "cities": [{"s_country_code": "PW", "s_region_slug": "ngardmau", "s_city_name": "Ngardmau", "s_city_slug": "ngardmau"}]}, {"s_country_code": "PW", "s_region_name": "Ngatpang", "s_region_slug": "ngatpang", "cities": [{"s_country_code": "PW", "s_region_slug": "ngatpang", "s_city_name": "Ngatpang", "s_city_slug": "ngatpang"}]}, {"s_country_code": "PW", "s_region_name": "Ngchesar", "s_region_slug": "ngchesar", "cities": [{"s_country_code": "PW", "s_region_slug": "ngchesar", "s_city_name": "Ngchesar Hamlet", "s_city_slug": "ngchesar-hamlet"}]}, {"s_country_code": "PW", "s_region_name": "Ngeremlengui", "s_region_slug": "ngeremlengui", "cities": [{"s_country_code": "PW", "s_region_slug": "ngeremlengui", "s_city_name": "Imeong Hamlet", "s_city_slug": "imeong-hamlet"}]}, {"s_country_code": "PW", "s_region_name": "Ngiwal", "s_region_slug": "ngiwal", "cities": [{"s_country_code": "PW", "s_region_slug": "ngiwal", "s_city_name": "Ngerkeai", "s_city_slug": "ngerkeai"}]}, {"s_country_code": "PW", "s_region_name": "Peleliu", "s_region_slug": "peleliu", "cities": [{"s_country_code": "PW", "s_region_slug": "peleliu", "s_city_name": "Kloulklubed", "s_city_slug": "kloulklubed"}]}, {"s_country_code": "PW", "s_region_name": "Sonsorol", "s_region_slug": "sonsorol", "cities": [{"s_country_code": "PW", "s_region_slug": "sonsorol", "s_city_name": "Sonsorol Village", "s_city_slug": "sonsorol-village"}]}]}
+{
+    "s_country_code": "PW",
+    "s_country_name": "Palau",
+    "s_country_slug": "palau",
+    "regions": [
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Aimeliik",
+            "s_region_slug": "aimeliik",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "aimeliik",
+                    "s_city_name": "Ngchemiangel",
+                    "s_city_slug": "ngchemiangel"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Airai",
+            "s_region_slug": "airai",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "airai",
+                    "s_city_name": "Ngetkib",
+                    "s_city_slug": "ngetkib"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Angaur",
+            "s_region_slug": "angaur",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "angaur",
+                    "s_city_name": "Angaur State",
+                    "s_city_slug": "angaur-state"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Hatohobei",
+            "s_region_slug": "hatohobei",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "hatohobei",
+                    "s_city_name": "Tobi Village",
+                    "s_city_slug": "tobi-village"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Kayangel",
+            "s_region_slug": "kayangel",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "kayangel",
+                    "s_city_name": "Kayangel",
+                    "s_city_slug": "kayangel"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Koror",
+            "s_region_slug": "koror",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "koror",
+                    "s_city_name": "Koror",
+                    "s_city_slug": "koror"
+                },
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "koror",
+                    "s_city_name": "Koror Town",
+                    "s_city_slug": "koror-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Melekeok",
+            "s_region_slug": "melekeok",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "melekeok",
+                    "s_city_name": "Melekeok Village",
+                    "s_city_slug": "melekeok-village"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Ngaraard",
+            "s_region_slug": "ngaraard",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "ngaraard",
+                    "s_city_name": "Ulimang",
+                    "s_city_slug": "ulimang"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Ngarchelong",
+            "s_region_slug": "ngarchelong",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "ngarchelong",
+                    "s_city_name": "Mengellang",
+                    "s_city_slug": "mengellang"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Ngardmau",
+            "s_region_slug": "ngardmau",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "ngardmau",
+                    "s_city_name": "Ngardmau",
+                    "s_city_slug": "ngardmau"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Ngatpang",
+            "s_region_slug": "ngatpang",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "ngatpang",
+                    "s_city_name": "Ngatpang",
+                    "s_city_slug": "ngatpang"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Ngchesar",
+            "s_region_slug": "ngchesar",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "ngchesar",
+                    "s_city_name": "Ngchesar Hamlet",
+                    "s_city_slug": "ngchesar-hamlet"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Ngeremlengui",
+            "s_region_slug": "ngeremlengui",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "ngeremlengui",
+                    "s_city_name": "Imeong Hamlet",
+                    "s_city_slug": "imeong-hamlet"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Ngiwal",
+            "s_region_slug": "ngiwal",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "ngiwal",
+                    "s_city_name": "Ngerkeai",
+                    "s_city_slug": "ngerkeai"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Peleliu",
+            "s_region_slug": "peleliu",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "peleliu",
+                    "s_city_name": "Kloulklubed",
+                    "s_city_slug": "kloulklubed"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PW",
+            "s_region_name": "Sonsorol",
+            "s_region_slug": "sonsorol",
+            "cities": [
+                {
+                    "s_country_code": "PW",
+                    "s_region_slug": "sonsorol",
+                    "s_city_name": "Sonsorol Village",
+                    "s_city_slug": "sonsorol-village"
+                }
+            ]
+        }
+    ]
+}

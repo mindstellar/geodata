@@ -1,1 +1,966 @@
-{"s_country_code": "PY", "s_country_name": "Paraguay", "s_country_slug": "paraguay", "regions": [{"s_country_code": "PY", "s_region_name": "Alto Paraguay Department", "s_region_slug": "alto-paraguay-department", "cities": [{"s_country_code": "PY", "s_region_slug": "alto-paraguay-department", "s_city_name": "Capitan Pablo Lagerenza", "s_city_slug": "capitan-pablo-lagerenza"}, {"s_country_code": "PY", "s_region_slug": "alto-paraguay-department", "s_city_name": "Fuerte Olimpo", "s_city_slug": "fuerte-olimpo"}]}, {"s_country_code": "PY", "s_region_name": "Alto Parana Department", "s_region_slug": "alto-parana-department", "cities": [{"s_country_code": "PY", "s_region_slug": "alto-parana-department", "s_city_name": "Cedrales", "s_city_slug": "cedrales"}, {"s_country_code": "PY", "s_region_slug": "alto-parana-department", "s_city_name": "Ciudad del Este", "s_city_slug": "ciudad-del-este"}, {"s_country_code": "PY", "s_region_slug": "alto-parana-department", "s_city_name": "Colonia Minga Pora", "s_city_slug": "colonia-minga-pora"}, {"s_country_code": "PY", "s_region_slug": "alto-parana-department", "s_city_name": "Doctor Juan Leon Mallorquin", "s_city_slug": "doctor-juan-leon-mallorquin"}, {"s_country_code": "PY", "s_region_slug": "alto-parana-department", "s_city_name": "Itakyry", "s_city_slug": "itakyry"}, {"s_country_code": "PY", "s_region_slug": "alto-parana-department", "s_city_name": "Naranjal", "s_city_slug": "naranjal"}, {"s_country_code": "PY", "s_region_slug": "alto-parana-department", "s_city_name": "Presidente Franco", "s_city_slug": "presidente-franco"}, {"s_country_code": "PY", "s_region_slug": "alto-parana-department", "s_city_name": "San Alberto", "s_city_slug": "san-alberto"}, {"s_country_code": "PY", "s_region_slug": "alto-parana-department", "s_city_name": "Santa Rita", "s_city_slug": "santa-rita"}, {"s_country_code": "PY", "s_region_slug": "alto-parana-department", "s_city_name": "Yguazu", "s_city_slug": "yguazu"}]}, {"s_country_code": "PY", "s_region_name": "Amambay Department", "s_region_slug": "amambay-department", "cities": [{"s_country_code": "PY", "s_region_slug": "amambay-department", "s_city_name": "Bella Vista", "s_city_slug": "bella-vista"}, {"s_country_code": "PY", "s_region_slug": "amambay-department", "s_city_name": "Capitan Bado", "s_city_slug": "capitan-bado"}, {"s_country_code": "PY", "s_region_slug": "amambay-department", "s_city_name": "Pedro Juan Caballero", "s_city_slug": "pedro-juan-caballero"}]}, {"s_country_code": "PY", "s_region_name": "Boqueron Department", "s_region_slug": "boqueron-department", "cities": [{"s_country_code": "PY", "s_region_slug": "boqueron-department", "s_city_name": "Colonia Menno", "s_city_slug": "colonia-menno"}, {"s_country_code": "PY", "s_region_slug": "boqueron-department", "s_city_name": "Colonia Neuland", "s_city_slug": "colonia-neuland"}, {"s_country_code": "PY", "s_region_slug": "boqueron-department", "s_city_name": "Filadelfia", "s_city_slug": "filadelfia"}]}, {"s_country_code": "PY", "s_region_name": "Caaguazu", "s_region_slug": "caaguazu", "cities": [{"s_country_code": "PY", "s_region_slug": "caaguazu", "s_city_name": "Caaguazu", "s_city_slug": "caaguazu"}, {"s_country_code": "PY", "s_region_slug": "caaguazu", "s_city_name": "Carayao", "s_city_slug": "carayao"}, {"s_country_code": "PY", "s_region_slug": "caaguazu", "s_city_name": "Cecilio Baez", "s_city_slug": "cecilio-baez"}, {"s_country_code": "PY", "s_region_slug": "caaguazu", "s_city_name": "Colonia General Alfredo Stroessner", "s_city_slug": "colonia-general-alfredo-stroessner"}, {"s_country_code": "PY", "s_region_slug": "caaguazu", "s_city_name": "Coronel Oviedo", "s_city_slug": "coronel-oviedo"}, {"s_country_code": "PY", "s_region_slug": "caaguazu", "s_city_name": "Doctor Juan Manuel Frutos", "s_city_slug": "doctor-juan-manuel-frutos"}, {"s_country_code": "PY", "s_region_slug": "caaguazu", "s_city_name": "Mbutuy", "s_city_slug": "mbutuy"}, {"s_country_code": "PY", "s_region_slug": "caaguazu", "s_city_name": "Repatriacion", "s_city_slug": "repatriacion"}, {"s_country_code": "PY", "s_region_slug": "caaguazu", "s_city_name": "San Joaquin", "s_city_slug": "san-joaquin"}, {"s_country_code": "PY", "s_region_slug": "caaguazu", "s_city_name": "San Jose", "s_city_slug": "san-jose"}, {"s_country_code": "PY", "s_region_slug": "caaguazu", "s_city_name": "Yhu", "s_city_slug": "yhu"}]}, {"s_country_code": "PY", "s_region_name": "Caazapa", "s_region_slug": "caazapa", "cities": [{"s_country_code": "PY", "s_region_slug": "caazapa", "s_city_name": "Abai", "s_city_slug": "abai"}, {"s_country_code": "PY", "s_region_slug": "caazapa", "s_city_name": "Buena Vista", "s_city_slug": "buena-vista"}, {"s_country_code": "PY", "s_region_slug": "caazapa", "s_city_name": "Caazapa", "s_city_slug": "caazapa"}, {"s_country_code": "PY", "s_region_slug": "caazapa", "s_city_name": "General Higinio Morinigo", "s_city_slug": "general-higinio-morinigo"}, {"s_country_code": "PY", "s_region_slug": "caazapa", "s_city_name": "San Juan Nepomuceno", "s_city_slug": "san-juan-nepomuceno"}, {"s_country_code": "PY", "s_region_slug": "caazapa", "s_city_name": "Yegros", "s_city_slug": "yegros"}, {"s_country_code": "PY", "s_region_slug": "caazapa", "s_city_name": "Yuty", "s_city_slug": "yuty"}]}, {"s_country_code": "PY", "s_region_name": "Canindeyu", "s_region_slug": "canindeyu", "cities": [{"s_country_code": "PY", "s_region_slug": "canindeyu", "s_city_name": "Colonia Catuete", "s_city_slug": "colonia-catuete"}, {"s_country_code": "PY", "s_region_slug": "canindeyu", "s_city_name": "Corpus Christi", "s_city_slug": "corpus-christi"}, {"s_country_code": "PY", "s_region_slug": "canindeyu", "s_city_name": "La Paloma", "s_city_slug": "la-paloma"}, {"s_country_code": "PY", "s_region_slug": "canindeyu", "s_city_name": "Nueva Esperanza", "s_city_slug": "nueva-esperanza"}, {"s_country_code": "PY", "s_region_slug": "canindeyu", "s_city_name": "Salto del Guaira", "s_city_slug": "salto-del-guaira"}, {"s_country_code": "PY", "s_region_slug": "canindeyu", "s_city_name": "San Isidro de Curuguaty", "s_city_slug": "san-isidro-de-curuguaty"}, {"s_country_code": "PY", "s_region_slug": "canindeyu", "s_city_name": "Ygatimi", "s_city_slug": "ygatimi"}]}, {"s_country_code": "PY", "s_region_name": "Central Department", "s_region_slug": "central-department", "cities": [{"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Aregua", "s_city_slug": "aregua"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Capiata", "s_city_slug": "capiata"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Fernando de la Mora", "s_city_slug": "fernando-de-la-mora"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Guarambare", "s_city_slug": "guarambare"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Ita", "s_city_slug": "ita"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Itaugua", "s_city_slug": "itaugua"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Lambare", "s_city_slug": "lambare"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Limpio", "s_city_slug": "limpio"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Mariano Roque Alonso", "s_city_slug": "mariano-roque-alonso"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Nemby", "s_city_slug": "nemby"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Nueva Italia", "s_city_slug": "nueva-italia"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "San Antonio", "s_city_slug": "san-antonio"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "San Lorenzo", "s_city_slug": "san-lorenzo"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Villa Elisa", "s_city_slug": "villa-elisa"}, {"s_country_code": "PY", "s_region_slug": "central-department", "s_city_name": "Ypacarai", "s_city_slug": "ypacarai"}]}, {"s_country_code": "PY", "s_region_name": "Concepcion Department", "s_region_slug": "concepcion-department", "cities": [{"s_country_code": "PY", "s_region_slug": "concepcion-department", "s_city_name": "Belen", "s_city_slug": "belen"}, {"s_country_code": "PY", "s_region_slug": "concepcion-department", "s_city_name": "Concepcion", "s_city_slug": "concepcion"}, {"s_country_code": "PY", "s_region_slug": "concepcion-department", "s_city_name": "Horqueta", "s_city_slug": "horqueta"}]}, {"s_country_code": "PY", "s_region_name": "Cordillera Department", "s_region_slug": "cordillera-department", "cities": [{"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "Altos", "s_city_slug": "altos"}, {"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "Arroyos y Esteros", "s_city_slug": "arroyos-y-esteros"}, {"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "Atyra", "s_city_slug": "atyra"}, {"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "Caacupe", "s_city_slug": "caacupe"}, {"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "Caraguatay", "s_city_slug": "caraguatay"}, {"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "Emboscada", "s_city_slug": "emboscada"}, {"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "Eusebio Ayala", "s_city_slug": "eusebio-ayala"}, {"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "Isla Pucu", "s_city_slug": "isla-pucu"}, {"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "Itacurubi de la Cordillera", "s_city_slug": "itacurubi-de-la-cordillera"}, {"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "Piribebuy", "s_city_slug": "piribebuy"}, {"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "San Bernardino", "s_city_slug": "san-bernardino"}, {"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "Santa Elena", "s_city_slug": "santa-elena"}, {"s_country_code": "PY", "s_region_slug": "cordillera-department", "s_city_name": "Tobati", "s_city_slug": "tobati"}]}, {"s_country_code": "PY", "s_region_name": "Guaira Department", "s_region_slug": "guaira-department", "cities": [{"s_country_code": "PY", "s_region_slug": "guaira-department", "s_city_name": "Colonia Mauricio Jose Troche", "s_city_slug": "colonia-mauricio-jose-troche"}, {"s_country_code": "PY", "s_region_slug": "guaira-department", "s_city_name": "Coronel Martinez", "s_city_slug": "coronel-martinez"}, {"s_country_code": "PY", "s_region_slug": "guaira-department", "s_city_name": "Independencia", "s_city_slug": "independencia"}, {"s_country_code": "PY", "s_region_slug": "guaira-department", "s_city_name": "Itape", "s_city_slug": "itape"}, {"s_country_code": "PY", "s_region_slug": "guaira-department", "s_city_name": "Iturbe", "s_city_slug": "iturbe"}, {"s_country_code": "PY", "s_region_slug": "guaira-department", "s_city_name": "Mbocayaty", "s_city_slug": "mbocayaty"}, {"s_country_code": "PY", "s_region_slug": "guaira-department", "s_city_name": "Natalicio Talavera", "s_city_slug": "natalicio-talavera"}, {"s_country_code": "PY", "s_region_slug": "guaira-department", "s_city_name": "Villarrica", "s_city_slug": "villarrica"}]}, {"s_country_code": "PY", "s_region_name": "Itapua", "s_region_slug": "itapua", "cities": [{"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Arquitecto Tomas Romero Pereira", "s_city_slug": "arquitecto-tomas-romero-pereira"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Bella Vista", "s_city_slug": "bella-vista"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Capitan Miranda", "s_city_slug": "capitan-miranda"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Carmen del Parana", "s_city_slug": "carmen-del-parana"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Colonia Carlos Antonio Lopez", "s_city_slug": "colonia-carlos-antonio-lopez"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Colonia San Lorenzo", "s_city_slug": "colonia-san-lorenzo"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Edelira", "s_city_slug": "edelira"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Encarnacion", "s_city_slug": "encarnacion"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Fram", "s_city_slug": "fram"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "General Artigas", "s_city_slug": "general-artigas"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "General Delgado", "s_city_slug": "general-delgado"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Hohenau", "s_city_slug": "hohenau"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Jesus", "s_city_slug": "jesus"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Natalio", "s_city_slug": "natalio"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Obligado", "s_city_slug": "obligado"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Pirapo", "s_city_slug": "pirapo"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Puerto Mayor Otano", "s_city_slug": "puerto-mayor-otano"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "San Cosme y Damian", "s_city_slug": "san-cosme-y-damian"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "San Juan del Parana", "s_city_slug": "san-juan-del-parana"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "San Pedro del Parana", "s_city_slug": "san-pedro-del-parana"}, {"s_country_code": "PY", "s_region_slug": "itapua", "s_city_name": "Trinidad", "s_city_slug": "trinidad"}]}, {"s_country_code": "PY", "s_region_name": "Misiones Department", "s_region_slug": "misiones-department", "cities": [{"s_country_code": "PY", "s_region_slug": "misiones-department", "s_city_name": "Juan de Ayolas", "s_city_slug": "juan-de-ayolas"}, {"s_country_code": "PY", "s_region_slug": "misiones-department", "s_city_name": "San Juan Bautista", "s_city_slug": "san-juan-bautista"}, {"s_country_code": "PY", "s_region_slug": "misiones-department", "s_city_name": "San Miguel", "s_city_slug": "san-miguel"}, {"s_country_code": "PY", "s_region_slug": "misiones-department", "s_city_name": "San Patricio", "s_city_slug": "san-patricio"}, {"s_country_code": "PY", "s_region_slug": "misiones-department", "s_city_name": "Santa Maria", "s_city_slug": "santa-maria"}, {"s_country_code": "PY", "s_region_slug": "misiones-department", "s_city_name": "Santa Rosa Misiones", "s_city_slug": "santa-rosa-misiones"}, {"s_country_code": "PY", "s_region_slug": "misiones-department", "s_city_name": "Santiago", "s_city_slug": "santiago"}, {"s_country_code": "PY", "s_region_slug": "misiones-department", "s_city_name": "Villa Florida", "s_city_slug": "villa-florida"}]}, {"s_country_code": "PY", "s_region_name": "Neembucu Department", "s_region_slug": "neembucu-department", "cities": [{"s_country_code": "PY", "s_region_slug": "neembucu-department", "s_city_name": "Cerrito", "s_city_slug": "cerrito"}, {"s_country_code": "PY", "s_region_slug": "neembucu-department", "s_city_name": "General Jose Eduvigis Diaz", "s_city_slug": "general-jose-eduvigis-diaz"}, {"s_country_code": "PY", "s_region_slug": "neembucu-department", "s_city_name": "Pilar", "s_city_slug": "pilar"}]}, {"s_country_code": "PY", "s_region_name": "Paraguari Department", "s_region_slug": "paraguari-department", "cities": [{"s_country_code": "PY", "s_region_slug": "paraguari-department", "s_city_name": "Acahay", "s_city_slug": "acahay"}, {"s_country_code": "PY", "s_region_slug": "paraguari-department", "s_city_name": "Caapucu", "s_city_slug": "caapucu"}, {"s_country_code": "PY", "s_region_slug": "paraguari-department", "s_city_name": "Carapegua", "s_city_slug": "carapegua"}, {"s_country_code": "PY", "s_region_slug": "paraguari-department", "s_city_name": "La Colmena", "s_city_slug": "la-colmena"}, {"s_country_code": "PY", "s_region_slug": "paraguari-department", "s_city_name": "Mbuyapey", "s_city_slug": "mbuyapey"}, {"s_country_code": "PY", "s_region_slug": "paraguari-department", "s_city_name": "Paraguari", "s_city_slug": "paraguari"}, {"s_country_code": "PY", "s_region_slug": "paraguari-department", "s_city_name": "Pirayu", "s_city_slug": "pirayu"}, {"s_country_code": "PY", "s_region_slug": "paraguari-department", "s_city_name": "Quiindy", "s_city_slug": "quiindy"}, {"s_country_code": "PY", "s_region_slug": "paraguari-department", "s_city_name": "Sapucai", "s_city_slug": "sapucai"}, {"s_country_code": "PY", "s_region_slug": "paraguari-department", "s_city_name": "Yaguaron", "s_city_slug": "yaguaron"}, {"s_country_code": "PY", "s_region_slug": "paraguari-department", "s_city_name": "Ybycui", "s_city_slug": "ybycui"}]}, {"s_country_code": "PY", "s_region_name": "Presidente Hayes Department", "s_region_slug": "presidente-hayes-department", "cities": [{"s_country_code": "PY", "s_region_slug": "presidente-hayes-department", "s_city_name": "Benjamin Aceval", "s_city_slug": "benjamin-aceval"}, {"s_country_code": "PY", "s_region_slug": "presidente-hayes-department", "s_city_name": "Nanawua", "s_city_slug": "nanawua"}, {"s_country_code": "PY", "s_region_slug": "presidente-hayes-department", "s_city_name": "Villa Hayes", "s_city_slug": "villa-hayes"}]}, {"s_country_code": "PY", "s_region_name": "San Pedro Department", "s_region_slug": "san-pedro-department", "cities": [{"s_country_code": "PY", "s_region_slug": "san-pedro-department", "s_city_name": "Antequera", "s_city_slug": "antequera"}, {"s_country_code": "PY", "s_region_slug": "san-pedro-department", "s_city_name": "Capiibary", "s_city_slug": "capiibary"}, {"s_country_code": "PY", "s_region_slug": "san-pedro-department", "s_city_name": "Colonia Nueva Germania", "s_city_slug": "colonia-nueva-germania"}, {"s_country_code": "PY", "s_region_slug": "san-pedro-department", "s_city_name": "General Elizardo Aquino", "s_city_slug": "general-elizardo-aquino"}, {"s_country_code": "PY", "s_region_slug": "san-pedro-department", "s_city_name": "Guayaybi", "s_city_slug": "guayaybi"}, {"s_country_code": "PY", "s_region_slug": "san-pedro-department", "s_city_name": "Itacurubi del Rosario", "s_city_slug": "itacurubi-del-rosario"}, {"s_country_code": "PY", "s_region_slug": "san-pedro-department", "s_city_name": "Lima", "s_city_slug": "lima"}, {"s_country_code": "PY", "s_region_slug": "san-pedro-department", "s_city_name": "Puerto Rosario", "s_city_slug": "puerto-rosario"}, {"s_country_code": "PY", "s_region_slug": "san-pedro-department", "s_city_name": "San Pedro de Ycuamandiyu", "s_city_slug": "san-pedro-de-ycuamandiyu"}, {"s_country_code": "PY", "s_region_slug": "san-pedro-department", "s_city_name": "Tacuati", "s_city_slug": "tacuati"}, {"s_country_code": "PY", "s_region_slug": "san-pedro-department", "s_city_name": "Union", "s_city_slug": "union"}, {"s_country_code": "PY", "s_region_slug": "san-pedro-department", "s_city_name": "Yataity del Norte", "s_city_slug": "yataity-del-norte"}]}]}
+{
+    "s_country_code": "PY",
+    "s_country_name": "Paraguay",
+    "s_country_slug": "paraguay",
+    "regions": [
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Alto Paraguay Department",
+            "s_region_slug": "alto-paraguay-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "alto-paraguay-department",
+                    "s_city_name": "Capitan Pablo Lagerenza",
+                    "s_city_slug": "capitan-pablo-lagerenza"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "alto-paraguay-department",
+                    "s_city_name": "Fuerte Olimpo",
+                    "s_city_slug": "fuerte-olimpo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Alto Parana Department",
+            "s_region_slug": "alto-parana-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "alto-parana-department",
+                    "s_city_name": "Cedrales",
+                    "s_city_slug": "cedrales"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "alto-parana-department",
+                    "s_city_name": "Ciudad del Este",
+                    "s_city_slug": "ciudad-del-este"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "alto-parana-department",
+                    "s_city_name": "Colonia Minga Pora",
+                    "s_city_slug": "colonia-minga-pora"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "alto-parana-department",
+                    "s_city_name": "Doctor Juan Leon Mallorquin",
+                    "s_city_slug": "doctor-juan-leon-mallorquin"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "alto-parana-department",
+                    "s_city_name": "Itakyry",
+                    "s_city_slug": "itakyry"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "alto-parana-department",
+                    "s_city_name": "Naranjal",
+                    "s_city_slug": "naranjal"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "alto-parana-department",
+                    "s_city_name": "Presidente Franco",
+                    "s_city_slug": "presidente-franco"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "alto-parana-department",
+                    "s_city_name": "San Alberto",
+                    "s_city_slug": "san-alberto"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "alto-parana-department",
+                    "s_city_name": "Santa Rita",
+                    "s_city_slug": "santa-rita"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "alto-parana-department",
+                    "s_city_name": "Yguazu",
+                    "s_city_slug": "yguazu"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Amambay Department",
+            "s_region_slug": "amambay-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "amambay-department",
+                    "s_city_name": "Bella Vista",
+                    "s_city_slug": "bella-vista"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "amambay-department",
+                    "s_city_name": "Capitan Bado",
+                    "s_city_slug": "capitan-bado"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "amambay-department",
+                    "s_city_name": "Pedro Juan Caballero",
+                    "s_city_slug": "pedro-juan-caballero"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Boqueron Department",
+            "s_region_slug": "boqueron-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "boqueron-department",
+                    "s_city_name": "Colonia Menno",
+                    "s_city_slug": "colonia-menno"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "boqueron-department",
+                    "s_city_name": "Colonia Neuland",
+                    "s_city_slug": "colonia-neuland"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "boqueron-department",
+                    "s_city_name": "Filadelfia",
+                    "s_city_slug": "filadelfia"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Caaguazu",
+            "s_region_slug": "caaguazu",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caaguazu",
+                    "s_city_name": "Caaguazu",
+                    "s_city_slug": "caaguazu"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caaguazu",
+                    "s_city_name": "Carayao",
+                    "s_city_slug": "carayao"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caaguazu",
+                    "s_city_name": "Cecilio Baez",
+                    "s_city_slug": "cecilio-baez"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caaguazu",
+                    "s_city_name": "Colonia General Alfredo Stroessner",
+                    "s_city_slug": "colonia-general-alfredo-stroessner"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caaguazu",
+                    "s_city_name": "Coronel Oviedo",
+                    "s_city_slug": "coronel-oviedo"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caaguazu",
+                    "s_city_name": "Doctor Juan Manuel Frutos",
+                    "s_city_slug": "doctor-juan-manuel-frutos"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caaguazu",
+                    "s_city_name": "Mbutuy",
+                    "s_city_slug": "mbutuy"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caaguazu",
+                    "s_city_name": "Repatriacion",
+                    "s_city_slug": "repatriacion"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caaguazu",
+                    "s_city_name": "San Joaquin",
+                    "s_city_slug": "san-joaquin"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caaguazu",
+                    "s_city_name": "San Jose",
+                    "s_city_slug": "san-jose"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caaguazu",
+                    "s_city_name": "Yhu",
+                    "s_city_slug": "yhu"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Caazapa",
+            "s_region_slug": "caazapa",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caazapa",
+                    "s_city_name": "Abai",
+                    "s_city_slug": "abai"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caazapa",
+                    "s_city_name": "Buena Vista",
+                    "s_city_slug": "buena-vista"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caazapa",
+                    "s_city_name": "Caazapa",
+                    "s_city_slug": "caazapa"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caazapa",
+                    "s_city_name": "General Higinio Morinigo",
+                    "s_city_slug": "general-higinio-morinigo"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caazapa",
+                    "s_city_name": "San Juan Nepomuceno",
+                    "s_city_slug": "san-juan-nepomuceno"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caazapa",
+                    "s_city_name": "Yegros",
+                    "s_city_slug": "yegros"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "caazapa",
+                    "s_city_name": "Yuty",
+                    "s_city_slug": "yuty"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Canindeyu",
+            "s_region_slug": "canindeyu",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "canindeyu",
+                    "s_city_name": "Colonia Catuete",
+                    "s_city_slug": "colonia-catuete"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "canindeyu",
+                    "s_city_name": "Corpus Christi",
+                    "s_city_slug": "corpus-christi"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "canindeyu",
+                    "s_city_name": "La Paloma",
+                    "s_city_slug": "la-paloma"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "canindeyu",
+                    "s_city_name": "Nueva Esperanza",
+                    "s_city_slug": "nueva-esperanza"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "canindeyu",
+                    "s_city_name": "Salto del Guaira",
+                    "s_city_slug": "salto-del-guaira"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "canindeyu",
+                    "s_city_name": "San Isidro de Curuguaty",
+                    "s_city_slug": "san-isidro-de-curuguaty"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "canindeyu",
+                    "s_city_name": "Ygatimi",
+                    "s_city_slug": "ygatimi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Central Department",
+            "s_region_slug": "central-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Aregua",
+                    "s_city_slug": "aregua"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Capiata",
+                    "s_city_slug": "capiata"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Fernando de la Mora",
+                    "s_city_slug": "fernando-de-la-mora"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Guarambare",
+                    "s_city_slug": "guarambare"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Ita",
+                    "s_city_slug": "ita"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Itaugua",
+                    "s_city_slug": "itaugua"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Lambare",
+                    "s_city_slug": "lambare"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Limpio",
+                    "s_city_slug": "limpio"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Mariano Roque Alonso",
+                    "s_city_slug": "mariano-roque-alonso"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Nemby",
+                    "s_city_slug": "nemby"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Nueva Italia",
+                    "s_city_slug": "nueva-italia"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "San Antonio",
+                    "s_city_slug": "san-antonio"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "San Lorenzo",
+                    "s_city_slug": "san-lorenzo"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Villa Elisa",
+                    "s_city_slug": "villa-elisa"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "central-department",
+                    "s_city_name": "Ypacarai",
+                    "s_city_slug": "ypacarai"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Concepcion Department",
+            "s_region_slug": "concepcion-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "concepcion-department",
+                    "s_city_name": "Belen",
+                    "s_city_slug": "belen"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "concepcion-department",
+                    "s_city_name": "Concepcion",
+                    "s_city_slug": "concepcion"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "concepcion-department",
+                    "s_city_name": "Horqueta",
+                    "s_city_slug": "horqueta"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Cordillera Department",
+            "s_region_slug": "cordillera-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "Altos",
+                    "s_city_slug": "altos"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "Arroyos y Esteros",
+                    "s_city_slug": "arroyos-y-esteros"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "Atyra",
+                    "s_city_slug": "atyra"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "Caacupe",
+                    "s_city_slug": "caacupe"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "Caraguatay",
+                    "s_city_slug": "caraguatay"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "Emboscada",
+                    "s_city_slug": "emboscada"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "Eusebio Ayala",
+                    "s_city_slug": "eusebio-ayala"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "Isla Pucu",
+                    "s_city_slug": "isla-pucu"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "Itacurubi de la Cordillera",
+                    "s_city_slug": "itacurubi-de-la-cordillera"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "Piribebuy",
+                    "s_city_slug": "piribebuy"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "San Bernardino",
+                    "s_city_slug": "san-bernardino"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "Santa Elena",
+                    "s_city_slug": "santa-elena"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "cordillera-department",
+                    "s_city_name": "Tobati",
+                    "s_city_slug": "tobati"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Guaira Department",
+            "s_region_slug": "guaira-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "guaira-department",
+                    "s_city_name": "Colonia Mauricio Jose Troche",
+                    "s_city_slug": "colonia-mauricio-jose-troche"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "guaira-department",
+                    "s_city_name": "Coronel Martinez",
+                    "s_city_slug": "coronel-martinez"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "guaira-department",
+                    "s_city_name": "Independencia",
+                    "s_city_slug": "independencia"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "guaira-department",
+                    "s_city_name": "Itape",
+                    "s_city_slug": "itape"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "guaira-department",
+                    "s_city_name": "Iturbe",
+                    "s_city_slug": "iturbe"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "guaira-department",
+                    "s_city_name": "Mbocayaty",
+                    "s_city_slug": "mbocayaty"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "guaira-department",
+                    "s_city_name": "Natalicio Talavera",
+                    "s_city_slug": "natalicio-talavera"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "guaira-department",
+                    "s_city_name": "Villarrica",
+                    "s_city_slug": "villarrica"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Itapua",
+            "s_region_slug": "itapua",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Arquitecto Tomas Romero Pereira",
+                    "s_city_slug": "arquitecto-tomas-romero-pereira"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Bella Vista",
+                    "s_city_slug": "bella-vista"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Capitan Miranda",
+                    "s_city_slug": "capitan-miranda"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Carmen del Parana",
+                    "s_city_slug": "carmen-del-parana"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Colonia Carlos Antonio Lopez",
+                    "s_city_slug": "colonia-carlos-antonio-lopez"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Colonia San Lorenzo",
+                    "s_city_slug": "colonia-san-lorenzo"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Edelira",
+                    "s_city_slug": "edelira"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Encarnacion",
+                    "s_city_slug": "encarnacion"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Fram",
+                    "s_city_slug": "fram"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "General Artigas",
+                    "s_city_slug": "general-artigas"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "General Delgado",
+                    "s_city_slug": "general-delgado"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Hohenau",
+                    "s_city_slug": "hohenau"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Jesus",
+                    "s_city_slug": "jesus"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Natalio",
+                    "s_city_slug": "natalio"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Obligado",
+                    "s_city_slug": "obligado"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Pirapo",
+                    "s_city_slug": "pirapo"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Puerto Mayor Otano",
+                    "s_city_slug": "puerto-mayor-otano"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "San Cosme y Damian",
+                    "s_city_slug": "san-cosme-y-damian"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "San Juan del Parana",
+                    "s_city_slug": "san-juan-del-parana"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "San Pedro del Parana",
+                    "s_city_slug": "san-pedro-del-parana"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "itapua",
+                    "s_city_name": "Trinidad",
+                    "s_city_slug": "trinidad"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Misiones Department",
+            "s_region_slug": "misiones-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "misiones-department",
+                    "s_city_name": "Juan de Ayolas",
+                    "s_city_slug": "juan-de-ayolas"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "misiones-department",
+                    "s_city_name": "San Juan Bautista",
+                    "s_city_slug": "san-juan-bautista"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "misiones-department",
+                    "s_city_name": "San Miguel",
+                    "s_city_slug": "san-miguel"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "misiones-department",
+                    "s_city_name": "San Patricio",
+                    "s_city_slug": "san-patricio"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "misiones-department",
+                    "s_city_name": "Santa Maria",
+                    "s_city_slug": "santa-maria"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "misiones-department",
+                    "s_city_name": "Santa Rosa Misiones",
+                    "s_city_slug": "santa-rosa-misiones"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "misiones-department",
+                    "s_city_name": "Santiago",
+                    "s_city_slug": "santiago"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "misiones-department",
+                    "s_city_name": "Villa Florida",
+                    "s_city_slug": "villa-florida"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Neembucu Department",
+            "s_region_slug": "neembucu-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "neembucu-department",
+                    "s_city_name": "Cerrito",
+                    "s_city_slug": "cerrito"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "neembucu-department",
+                    "s_city_name": "General Jose Eduvigis Diaz",
+                    "s_city_slug": "general-jose-eduvigis-diaz"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "neembucu-department",
+                    "s_city_name": "Pilar",
+                    "s_city_slug": "pilar"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Paraguari Department",
+            "s_region_slug": "paraguari-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "paraguari-department",
+                    "s_city_name": "Acahay",
+                    "s_city_slug": "acahay"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "paraguari-department",
+                    "s_city_name": "Caapucu",
+                    "s_city_slug": "caapucu"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "paraguari-department",
+                    "s_city_name": "Carapegua",
+                    "s_city_slug": "carapegua"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "paraguari-department",
+                    "s_city_name": "La Colmena",
+                    "s_city_slug": "la-colmena"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "paraguari-department",
+                    "s_city_name": "Mbuyapey",
+                    "s_city_slug": "mbuyapey"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "paraguari-department",
+                    "s_city_name": "Paraguari",
+                    "s_city_slug": "paraguari"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "paraguari-department",
+                    "s_city_name": "Pirayu",
+                    "s_city_slug": "pirayu"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "paraguari-department",
+                    "s_city_name": "Quiindy",
+                    "s_city_slug": "quiindy"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "paraguari-department",
+                    "s_city_name": "Sapucai",
+                    "s_city_slug": "sapucai"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "paraguari-department",
+                    "s_city_name": "Yaguaron",
+                    "s_city_slug": "yaguaron"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "paraguari-department",
+                    "s_city_name": "Ybycui",
+                    "s_city_slug": "ybycui"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "Presidente Hayes Department",
+            "s_region_slug": "presidente-hayes-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "presidente-hayes-department",
+                    "s_city_name": "Benjamin Aceval",
+                    "s_city_slug": "benjamin-aceval"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "presidente-hayes-department",
+                    "s_city_name": "Nanawua",
+                    "s_city_slug": "nanawua"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "presidente-hayes-department",
+                    "s_city_name": "Villa Hayes",
+                    "s_city_slug": "villa-hayes"
+                }
+            ]
+        },
+        {
+            "s_country_code": "PY",
+            "s_region_name": "San Pedro Department",
+            "s_region_slug": "san-pedro-department",
+            "cities": [
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "san-pedro-department",
+                    "s_city_name": "Antequera",
+                    "s_city_slug": "antequera"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "san-pedro-department",
+                    "s_city_name": "Capiibary",
+                    "s_city_slug": "capiibary"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "san-pedro-department",
+                    "s_city_name": "Colonia Nueva Germania",
+                    "s_city_slug": "colonia-nueva-germania"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "san-pedro-department",
+                    "s_city_name": "General Elizardo Aquino",
+                    "s_city_slug": "general-elizardo-aquino"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "san-pedro-department",
+                    "s_city_name": "Guayaybi",
+                    "s_city_slug": "guayaybi"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "san-pedro-department",
+                    "s_city_name": "Itacurubi del Rosario",
+                    "s_city_slug": "itacurubi-del-rosario"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "san-pedro-department",
+                    "s_city_name": "Lima",
+                    "s_city_slug": "lima"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "san-pedro-department",
+                    "s_city_name": "Puerto Rosario",
+                    "s_city_slug": "puerto-rosario"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "san-pedro-department",
+                    "s_city_name": "San Pedro de Ycuamandiyu",
+                    "s_city_slug": "san-pedro-de-ycuamandiyu"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "san-pedro-department",
+                    "s_city_name": "Tacuati",
+                    "s_city_slug": "tacuati"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "san-pedro-department",
+                    "s_city_name": "Union",
+                    "s_city_slug": "union"
+                },
+                {
+                    "s_country_code": "PY",
+                    "s_region_slug": "san-pedro-department",
+                    "s_city_name": "Yataity del Norte",
+                    "s_city_slug": "yataity-del-norte"
+                }
+            ]
+        }
+    ]
+}

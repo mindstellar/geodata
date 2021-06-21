@@ -1,1 +1,878 @@
-{"s_country_code": "UY", "s_country_name": "Uruguay", "s_country_slug": "uruguay", "regions": [{"s_country_code": "UY", "s_region_name": "Artigas Department", "s_region_slug": "artigas-department", "cities": [{"s_country_code": "UY", "s_region_slug": "artigas-department", "s_city_name": "Artigas", "s_city_slug": "artigas"}, {"s_country_code": "UY", "s_region_slug": "artigas-department", "s_city_name": "Baltasar Brum", "s_city_slug": "baltasar-brum"}, {"s_country_code": "UY", "s_region_slug": "artigas-department", "s_city_name": "Bella Union", "s_city_slug": "bella-union"}, {"s_country_code": "UY", "s_region_slug": "artigas-department", "s_city_name": "Las Piedras", "s_city_slug": "las-piedras"}, {"s_country_code": "UY", "s_region_slug": "artigas-department", "s_city_name": "Tomas Gomensoro", "s_city_slug": "tomas-gomensoro"}]}, {"s_country_code": "UY", "s_region_name": "Canelones Department", "s_region_slug": "canelones-department", "cities": [{"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Aguas Corrientes", "s_city_slug": "aguas-corrientes"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Atlantida", "s_city_slug": "atlantida"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Barra de Carrasco", "s_city_slug": "barra-de-carrasco"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Barros Blancos", "s_city_slug": "barros-blancos"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Canelones", "s_city_slug": "canelones"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Colonia Nicolich", "s_city_slug": "colonia-nicolich"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Empalme Olmos", "s_city_slug": "empalme-olmos"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Joaquin Suarez", "s_city_slug": "joaquin-suarez"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Juanico", "s_city_slug": "juanico"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "La Floresta", "s_city_slug": "la-floresta"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "La Paz", "s_city_slug": "la-paz"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Las Piedras", "s_city_slug": "las-piedras"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Las Toscas", "s_city_slug": "las-toscas"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Los Cerrillos", "s_city_slug": "los-cerrillos"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Migues", "s_city_slug": "migues"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Montes", "s_city_slug": "montes"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Pando", "s_city_slug": "pando"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Paso de Carrasco", "s_city_slug": "paso-de-carrasco"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Progreso", "s_city_slug": "progreso"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "San Antonio", "s_city_slug": "san-antonio"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "San Bautista", "s_city_slug": "san-bautista"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "San Jacinto", "s_city_slug": "san-jacinto"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "San Ramon", "s_city_slug": "san-ramon"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Santa Lucia", "s_city_slug": "santa-lucia"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Santa Rosa", "s_city_slug": "santa-rosa"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Sauce", "s_city_slug": "sauce"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Soca", "s_city_slug": "soca"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Tala", "s_city_slug": "tala"}, {"s_country_code": "UY", "s_region_slug": "canelones-department", "s_city_name": "Toledo", "s_city_slug": "toledo"}]}, {"s_country_code": "UY", "s_region_name": "Cerro Largo Department", "s_region_slug": "cerro-largo-department", "cities": [{"s_country_code": "UY", "s_region_slug": "cerro-largo-department", "s_city_name": "Acegua", "s_city_slug": "acegua"}, {"s_country_code": "UY", "s_region_slug": "cerro-largo-department", "s_city_name": "Isidoro Noblia", "s_city_slug": "isidoro-noblia"}, {"s_country_code": "UY", "s_region_slug": "cerro-largo-department", "s_city_name": "Melo", "s_city_slug": "melo"}, {"s_country_code": "UY", "s_region_slug": "cerro-largo-department", "s_city_name": "Rio Branco", "s_city_slug": "rio-branco"}, {"s_country_code": "UY", "s_region_slug": "cerro-largo-department", "s_city_name": "Tupambae", "s_city_slug": "tupambae"}]}, {"s_country_code": "UY", "s_region_name": "Colonia Department", "s_region_slug": "colonia-department", "cities": [{"s_country_code": "UY", "s_region_slug": "colonia-department", "s_city_name": "Carmelo", "s_city_slug": "carmelo"}, {"s_country_code": "UY", "s_region_slug": "colonia-department", "s_city_name": "Colonia del Sacramento", "s_city_slug": "colonia-del-sacramento"}, {"s_country_code": "UY", "s_region_slug": "colonia-department", "s_city_name": "Florencio Sanchez", "s_city_slug": "florencio-sanchez"}, {"s_country_code": "UY", "s_region_slug": "colonia-department", "s_city_name": "Juan L. Lacaze", "s_city_slug": "juan-l-lacaze"}, {"s_country_code": "UY", "s_region_slug": "colonia-department", "s_city_name": "Nueva Helvecia", "s_city_slug": "nueva-helvecia"}, {"s_country_code": "UY", "s_region_slug": "colonia-department", "s_city_name": "Nueva Palmira", "s_city_slug": "nueva-palmira"}, {"s_country_code": "UY", "s_region_slug": "colonia-department", "s_city_name": "Ombues de Lavalle", "s_city_slug": "ombues-de-lavalle"}, {"s_country_code": "UY", "s_region_slug": "colonia-department", "s_city_name": "Rosario", "s_city_slug": "rosario"}, {"s_country_code": "UY", "s_region_slug": "colonia-department", "s_city_name": "Tarariras", "s_city_slug": "tarariras"}]}, {"s_country_code": "UY", "s_region_name": "Durazno Department", "s_region_slug": "durazno-department", "cities": [{"s_country_code": "UY", "s_region_slug": "durazno-department", "s_city_name": "Blanquillo", "s_city_slug": "blanquillo"}, {"s_country_code": "UY", "s_region_slug": "durazno-department", "s_city_name": "Carlos Reyles", "s_city_slug": "carlos-reyles"}, {"s_country_code": "UY", "s_region_slug": "durazno-department", "s_city_name": "Durazno", "s_city_slug": "durazno"}, {"s_country_code": "UY", "s_region_slug": "durazno-department", "s_city_name": "La Paloma", "s_city_slug": "la-paloma"}, {"s_country_code": "UY", "s_region_slug": "durazno-department", "s_city_name": "Santa Bernardina", "s_city_slug": "santa-bernardina"}, {"s_country_code": "UY", "s_region_slug": "durazno-department", "s_city_name": "Sarandi del Yi", "s_city_slug": "sarandi-del-yi"}, {"s_country_code": "UY", "s_region_slug": "durazno-department", "s_city_name": "Villa del Carmen", "s_city_slug": "villa-del-carmen"}]}, {"s_country_code": "UY", "s_region_name": "Flores Department", "s_region_slug": "flores-department", "cities": [{"s_country_code": "UY", "s_region_slug": "flores-department", "s_city_name": "Trinidad", "s_city_slug": "trinidad"}]}, {"s_country_code": "UY", "s_region_name": "Florida Department", "s_region_slug": "florida-department", "cities": [{"s_country_code": "UY", "s_region_slug": "florida-department", "s_city_name": "25 de Agosto", "s_city_slug": "25-de-agosto"}, {"s_country_code": "UY", "s_region_slug": "florida-department", "s_city_name": "25 de Mayo", "s_city_slug": "25-de-mayo"}, {"s_country_code": "UY", "s_region_slug": "florida-department", "s_city_name": "Alejandro Gallinal", "s_city_slug": "alejandro-gallinal"}, {"s_country_code": "UY", "s_region_slug": "florida-department", "s_city_name": "Cardal", "s_city_slug": "cardal"}, {"s_country_code": "UY", "s_region_slug": "florida-department", "s_city_name": "Casupa", "s_city_slug": "casupa"}, {"s_country_code": "UY", "s_region_slug": "florida-department", "s_city_name": "Florida", "s_city_slug": "florida"}, {"s_country_code": "UY", "s_region_slug": "florida-department", "s_city_name": "Sarandi Grande", "s_city_slug": "sarandi-grande"}]}, {"s_country_code": "UY", "s_region_name": "Lavalleja Department", "s_region_slug": "lavalleja-department", "cities": [{"s_country_code": "UY", "s_region_slug": "lavalleja-department", "s_city_name": "Jose Batlle y Ordonez", "s_city_slug": "jose-batlle-y-ordonez"}, {"s_country_code": "UY", "s_region_slug": "lavalleja-department", "s_city_name": "Jose Pedro Varela", "s_city_slug": "jose-pedro-varela"}, {"s_country_code": "UY", "s_region_slug": "lavalleja-department", "s_city_name": "Mariscala", "s_city_slug": "mariscala"}, {"s_country_code": "UY", "s_region_slug": "lavalleja-department", "s_city_name": "Minas", "s_city_slug": "minas"}, {"s_country_code": "UY", "s_region_slug": "lavalleja-department", "s_city_name": "Solis de Mataojo", "s_city_slug": "solis-de-mataojo"}]}, {"s_country_code": "UY", "s_region_name": "Maldonado Department", "s_region_slug": "maldonado-department", "cities": [{"s_country_code": "UY", "s_region_slug": "maldonado-department", "s_city_name": "Aigua", "s_city_slug": "aigua"}, {"s_country_code": "UY", "s_region_slug": "maldonado-department", "s_city_name": "Maldonado", "s_city_slug": "maldonado"}, {"s_country_code": "UY", "s_region_slug": "maldonado-department", "s_city_name": "Pan de Azucar", "s_city_slug": "pan-de-azucar"}, {"s_country_code": "UY", "s_region_slug": "maldonado-department", "s_city_name": "Piriapolis", "s_city_slug": "piriapolis"}, {"s_country_code": "UY", "s_region_slug": "maldonado-department", "s_city_name": "Punta del Este", "s_city_slug": "punta-del-este"}, {"s_country_code": "UY", "s_region_slug": "maldonado-department", "s_city_name": "San Carlos", "s_city_slug": "san-carlos"}]}, {"s_country_code": "UY", "s_region_name": "Montevideo Department", "s_region_slug": "montevideo-department", "cities": [{"s_country_code": "UY", "s_region_slug": "montevideo-department", "s_city_name": "Montevideo", "s_city_slug": "montevideo"}, {"s_country_code": "UY", "s_region_slug": "montevideo-department", "s_city_name": "Pajas Blancas", "s_city_slug": "pajas-blancas"}, {"s_country_code": "UY", "s_region_slug": "montevideo-department", "s_city_name": "Santiago Vazquez", "s_city_slug": "santiago-vazquez"}]}, {"s_country_code": "UY", "s_region_name": "Paysandu Department", "s_region_slug": "paysandu-department", "cities": [{"s_country_code": "UY", "s_region_slug": "paysandu-department", "s_city_name": "Estacion Porvenir", "s_city_slug": "estacion-porvenir"}, {"s_country_code": "UY", "s_region_slug": "paysandu-department", "s_city_name": "Guichon", "s_city_slug": "guichon"}, {"s_country_code": "UY", "s_region_slug": "paysandu-department", "s_city_name": "Paysandu", "s_city_slug": "paysandu"}, {"s_country_code": "UY", "s_region_slug": "paysandu-department", "s_city_name": "Piedras Coloradas", "s_city_slug": "piedras-coloradas"}, {"s_country_code": "UY", "s_region_slug": "paysandu-department", "s_city_name": "Quebracho", "s_city_slug": "quebracho"}, {"s_country_code": "UY", "s_region_slug": "paysandu-department", "s_city_name": "San Felix", "s_city_slug": "san-felix"}]}, {"s_country_code": "UY", "s_region_name": "Rio Negro Department", "s_region_slug": "rio-negro-department", "cities": [{"s_country_code": "UY", "s_region_slug": "rio-negro-department", "s_city_name": "Fray Bentos", "s_city_slug": "fray-bentos"}, {"s_country_code": "UY", "s_region_slug": "rio-negro-department", "s_city_name": "Nuevo Berlin", "s_city_slug": "nuevo-berlin"}, {"s_country_code": "UY", "s_region_slug": "rio-negro-department", "s_city_name": "San Javier", "s_city_slug": "san-javier"}, {"s_country_code": "UY", "s_region_slug": "rio-negro-department", "s_city_name": "Young", "s_city_slug": "young"}]}, {"s_country_code": "UY", "s_region_name": "Rivera Department", "s_region_slug": "rivera-department", "cities": [{"s_country_code": "UY", "s_region_slug": "rivera-department", "s_city_name": "Minas de Corrales", "s_city_slug": "minas-de-corrales"}, {"s_country_code": "UY", "s_region_slug": "rivera-department", "s_city_name": "Rivera", "s_city_slug": "rivera"}, {"s_country_code": "UY", "s_region_slug": "rivera-department", "s_city_name": "Tranqueras", "s_city_slug": "tranqueras"}, {"s_country_code": "UY", "s_region_slug": "rivera-department", "s_city_name": "Vichadero", "s_city_slug": "vichadero"}]}, {"s_country_code": "UY", "s_region_name": "Rocha Department", "s_region_slug": "rocha-department", "cities": [{"s_country_code": "UY", "s_region_slug": "rocha-department", "s_city_name": "Castillos", "s_city_slug": "castillos"}, {"s_country_code": "UY", "s_region_slug": "rocha-department", "s_city_name": "Cebollati", "s_city_slug": "cebollati"}, {"s_country_code": "UY", "s_region_slug": "rocha-department", "s_city_name": "Chui", "s_city_slug": "chui"}, {"s_country_code": "UY", "s_region_slug": "rocha-department", "s_city_name": "Dieciocho de Julio", "s_city_slug": "dieciocho-de-julio"}, {"s_country_code": "UY", "s_region_slug": "rocha-department", "s_city_name": "La Paloma", "s_city_slug": "la-paloma"}, {"s_country_code": "UY", "s_region_slug": "rocha-department", "s_city_name": "Lascano", "s_city_slug": "lascano"}, {"s_country_code": "UY", "s_region_slug": "rocha-department", "s_city_name": "Rocha", "s_city_slug": "rocha"}, {"s_country_code": "UY", "s_region_slug": "rocha-department", "s_city_name": "Velazquez", "s_city_slug": "velazquez"}]}, {"s_country_code": "UY", "s_region_name": "Salto Department", "s_region_slug": "salto-department", "cities": [{"s_country_code": "UY", "s_region_slug": "salto-department", "s_city_name": "Belen", "s_city_slug": "belen"}, {"s_country_code": "UY", "s_region_slug": "salto-department", "s_city_name": "Salto", "s_city_slug": "salto"}, {"s_country_code": "UY", "s_region_slug": "salto-department", "s_city_name": "Villa Constitucion", "s_city_slug": "villa-constitucion"}]}, {"s_country_code": "UY", "s_region_name": "San Jose Department", "s_region_slug": "san-jose-department", "cities": [{"s_country_code": "UY", "s_region_slug": "san-jose-department", "s_city_name": "Delta del Tigre", "s_city_slug": "delta-del-tigre"}, {"s_country_code": "UY", "s_region_slug": "san-jose-department", "s_city_name": "Ecilda Paullier", "s_city_slug": "ecilda-paullier"}, {"s_country_code": "UY", "s_region_slug": "san-jose-department", "s_city_name": "Libertad", "s_city_slug": "libertad"}, {"s_country_code": "UY", "s_region_slug": "san-jose-department", "s_city_name": "Puntas de Valdez", "s_city_slug": "puntas-de-valdez"}, {"s_country_code": "UY", "s_region_slug": "san-jose-department", "s_city_name": "Rafael Perazza", "s_city_slug": "rafael-perazza"}, {"s_country_code": "UY", "s_region_slug": "san-jose-department", "s_city_name": "Rodriguez", "s_city_slug": "rodriguez"}, {"s_country_code": "UY", "s_region_slug": "san-jose-department", "s_city_name": "San Jose de Mayo", "s_city_slug": "san-jose-de-mayo"}]}, {"s_country_code": "UY", "s_region_name": "Soriano Department", "s_region_slug": "soriano-department", "cities": [{"s_country_code": "UY", "s_region_slug": "soriano-department", "s_city_name": "Cardona", "s_city_slug": "cardona"}, {"s_country_code": "UY", "s_region_slug": "soriano-department", "s_city_name": "Dolores", "s_city_slug": "dolores"}, {"s_country_code": "UY", "s_region_slug": "soriano-department", "s_city_name": "Jose Enrique Rodo", "s_city_slug": "jose-enrique-rodo"}, {"s_country_code": "UY", "s_region_slug": "soriano-department", "s_city_name": "Mercedes", "s_city_slug": "mercedes"}, {"s_country_code": "UY", "s_region_slug": "soriano-department", "s_city_name": "Palmitas", "s_city_slug": "palmitas"}, {"s_country_code": "UY", "s_region_slug": "soriano-department", "s_city_name": "Santa Catalina", "s_city_slug": "santa-catalina"}, {"s_country_code": "UY", "s_region_slug": "soriano-department", "s_city_name": "Villa Soriano", "s_city_slug": "villa-soriano"}]}, {"s_country_code": "UY", "s_region_name": "Tacuarembo Department", "s_region_slug": "tacuarembo-department", "cities": [{"s_country_code": "UY", "s_region_slug": "tacuarembo-department", "s_city_name": "Curtina", "s_city_slug": "curtina"}, {"s_country_code": "UY", "s_region_slug": "tacuarembo-department", "s_city_name": "Paso de los Toros", "s_city_slug": "paso-de-los-toros"}, {"s_country_code": "UY", "s_region_slug": "tacuarembo-department", "s_city_name": "Tacuarembo", "s_city_slug": "tacuarembo"}]}, {"s_country_code": "UY", "s_region_name": "Treinta y Tres Department", "s_region_slug": "treinta-y-tres-department", "cities": [{"s_country_code": "UY", "s_region_slug": "treinta-y-tres-department", "s_city_name": "Santa Clara de Olimar", "s_city_slug": "santa-clara-de-olimar"}, {"s_country_code": "UY", "s_region_slug": "treinta-y-tres-department", "s_city_name": "Treinta y Tres", "s_city_slug": "treinta-y-tres"}, {"s_country_code": "UY", "s_region_slug": "treinta-y-tres-department", "s_city_name": "Vergara", "s_city_slug": "vergara"}, {"s_country_code": "UY", "s_region_slug": "treinta-y-tres-department", "s_city_name": "Villa Sara", "s_city_slug": "villa-sara"}]}]}
+{
+    "s_country_code": "UY",
+    "s_country_name": "Uruguay",
+    "s_country_slug": "uruguay",
+    "regions": [
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Artigas Department",
+            "s_region_slug": "artigas-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "artigas-department",
+                    "s_city_name": "Artigas",
+                    "s_city_slug": "artigas"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "artigas-department",
+                    "s_city_name": "Baltasar Brum",
+                    "s_city_slug": "baltasar-brum"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "artigas-department",
+                    "s_city_name": "Bella Union",
+                    "s_city_slug": "bella-union"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "artigas-department",
+                    "s_city_name": "Las Piedras",
+                    "s_city_slug": "las-piedras"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "artigas-department",
+                    "s_city_name": "Tomas Gomensoro",
+                    "s_city_slug": "tomas-gomensoro"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Canelones Department",
+            "s_region_slug": "canelones-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Aguas Corrientes",
+                    "s_city_slug": "aguas-corrientes"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Atlantida",
+                    "s_city_slug": "atlantida"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Barra de Carrasco",
+                    "s_city_slug": "barra-de-carrasco"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Barros Blancos",
+                    "s_city_slug": "barros-blancos"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Canelones",
+                    "s_city_slug": "canelones"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Colonia Nicolich",
+                    "s_city_slug": "colonia-nicolich"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Empalme Olmos",
+                    "s_city_slug": "empalme-olmos"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Joaquin Suarez",
+                    "s_city_slug": "joaquin-suarez"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Juanico",
+                    "s_city_slug": "juanico"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "La Floresta",
+                    "s_city_slug": "la-floresta"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "La Paz",
+                    "s_city_slug": "la-paz"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Las Piedras",
+                    "s_city_slug": "las-piedras"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Las Toscas",
+                    "s_city_slug": "las-toscas"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Los Cerrillos",
+                    "s_city_slug": "los-cerrillos"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Migues",
+                    "s_city_slug": "migues"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Montes",
+                    "s_city_slug": "montes"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Pando",
+                    "s_city_slug": "pando"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Paso de Carrasco",
+                    "s_city_slug": "paso-de-carrasco"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Progreso",
+                    "s_city_slug": "progreso"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "San Antonio",
+                    "s_city_slug": "san-antonio"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "San Bautista",
+                    "s_city_slug": "san-bautista"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "San Jacinto",
+                    "s_city_slug": "san-jacinto"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "San Ramon",
+                    "s_city_slug": "san-ramon"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Santa Lucia",
+                    "s_city_slug": "santa-lucia"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Santa Rosa",
+                    "s_city_slug": "santa-rosa"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Sauce",
+                    "s_city_slug": "sauce"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Soca",
+                    "s_city_slug": "soca"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Tala",
+                    "s_city_slug": "tala"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "canelones-department",
+                    "s_city_name": "Toledo",
+                    "s_city_slug": "toledo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Cerro Largo Department",
+            "s_region_slug": "cerro-largo-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "cerro-largo-department",
+                    "s_city_name": "Acegua",
+                    "s_city_slug": "acegua"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "cerro-largo-department",
+                    "s_city_name": "Isidoro Noblia",
+                    "s_city_slug": "isidoro-noblia"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "cerro-largo-department",
+                    "s_city_name": "Melo",
+                    "s_city_slug": "melo"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "cerro-largo-department",
+                    "s_city_name": "Rio Branco",
+                    "s_city_slug": "rio-branco"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "cerro-largo-department",
+                    "s_city_name": "Tupambae",
+                    "s_city_slug": "tupambae"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Colonia Department",
+            "s_region_slug": "colonia-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "colonia-department",
+                    "s_city_name": "Carmelo",
+                    "s_city_slug": "carmelo"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "colonia-department",
+                    "s_city_name": "Colonia del Sacramento",
+                    "s_city_slug": "colonia-del-sacramento"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "colonia-department",
+                    "s_city_name": "Florencio Sanchez",
+                    "s_city_slug": "florencio-sanchez"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "colonia-department",
+                    "s_city_name": "Juan L. Lacaze",
+                    "s_city_slug": "juan-l-lacaze"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "colonia-department",
+                    "s_city_name": "Nueva Helvecia",
+                    "s_city_slug": "nueva-helvecia"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "colonia-department",
+                    "s_city_name": "Nueva Palmira",
+                    "s_city_slug": "nueva-palmira"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "colonia-department",
+                    "s_city_name": "Ombues de Lavalle",
+                    "s_city_slug": "ombues-de-lavalle"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "colonia-department",
+                    "s_city_name": "Rosario",
+                    "s_city_slug": "rosario"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "colonia-department",
+                    "s_city_name": "Tarariras",
+                    "s_city_slug": "tarariras"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Durazno Department",
+            "s_region_slug": "durazno-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "durazno-department",
+                    "s_city_name": "Blanquillo",
+                    "s_city_slug": "blanquillo"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "durazno-department",
+                    "s_city_name": "Carlos Reyles",
+                    "s_city_slug": "carlos-reyles"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "durazno-department",
+                    "s_city_name": "Durazno",
+                    "s_city_slug": "durazno"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "durazno-department",
+                    "s_city_name": "La Paloma",
+                    "s_city_slug": "la-paloma"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "durazno-department",
+                    "s_city_name": "Santa Bernardina",
+                    "s_city_slug": "santa-bernardina"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "durazno-department",
+                    "s_city_name": "Sarandi del Yi",
+                    "s_city_slug": "sarandi-del-yi"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "durazno-department",
+                    "s_city_name": "Villa del Carmen",
+                    "s_city_slug": "villa-del-carmen"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Flores Department",
+            "s_region_slug": "flores-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "flores-department",
+                    "s_city_name": "Trinidad",
+                    "s_city_slug": "trinidad"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Florida Department",
+            "s_region_slug": "florida-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "florida-department",
+                    "s_city_name": "25 de Agosto",
+                    "s_city_slug": "25-de-agosto"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "florida-department",
+                    "s_city_name": "25 de Mayo",
+                    "s_city_slug": "25-de-mayo"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "florida-department",
+                    "s_city_name": "Alejandro Gallinal",
+                    "s_city_slug": "alejandro-gallinal"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "florida-department",
+                    "s_city_name": "Cardal",
+                    "s_city_slug": "cardal"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "florida-department",
+                    "s_city_name": "Casupa",
+                    "s_city_slug": "casupa"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "florida-department",
+                    "s_city_name": "Florida",
+                    "s_city_slug": "florida"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "florida-department",
+                    "s_city_name": "Sarandi Grande",
+                    "s_city_slug": "sarandi-grande"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Lavalleja Department",
+            "s_region_slug": "lavalleja-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "lavalleja-department",
+                    "s_city_name": "Jose Batlle y Ordonez",
+                    "s_city_slug": "jose-batlle-y-ordonez"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "lavalleja-department",
+                    "s_city_name": "Jose Pedro Varela",
+                    "s_city_slug": "jose-pedro-varela"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "lavalleja-department",
+                    "s_city_name": "Mariscala",
+                    "s_city_slug": "mariscala"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "lavalleja-department",
+                    "s_city_name": "Minas",
+                    "s_city_slug": "minas"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "lavalleja-department",
+                    "s_city_name": "Solis de Mataojo",
+                    "s_city_slug": "solis-de-mataojo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Maldonado Department",
+            "s_region_slug": "maldonado-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "maldonado-department",
+                    "s_city_name": "Aigua",
+                    "s_city_slug": "aigua"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "maldonado-department",
+                    "s_city_name": "Maldonado",
+                    "s_city_slug": "maldonado"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "maldonado-department",
+                    "s_city_name": "Pan de Azucar",
+                    "s_city_slug": "pan-de-azucar"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "maldonado-department",
+                    "s_city_name": "Piriapolis",
+                    "s_city_slug": "piriapolis"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "maldonado-department",
+                    "s_city_name": "Punta del Este",
+                    "s_city_slug": "punta-del-este"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "maldonado-department",
+                    "s_city_name": "San Carlos",
+                    "s_city_slug": "san-carlos"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Montevideo Department",
+            "s_region_slug": "montevideo-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "montevideo-department",
+                    "s_city_name": "Montevideo",
+                    "s_city_slug": "montevideo"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "montevideo-department",
+                    "s_city_name": "Pajas Blancas",
+                    "s_city_slug": "pajas-blancas"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "montevideo-department",
+                    "s_city_name": "Santiago Vazquez",
+                    "s_city_slug": "santiago-vazquez"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Paysandu Department",
+            "s_region_slug": "paysandu-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "paysandu-department",
+                    "s_city_name": "Estacion Porvenir",
+                    "s_city_slug": "estacion-porvenir"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "paysandu-department",
+                    "s_city_name": "Guichon",
+                    "s_city_slug": "guichon"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "paysandu-department",
+                    "s_city_name": "Paysandu",
+                    "s_city_slug": "paysandu"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "paysandu-department",
+                    "s_city_name": "Piedras Coloradas",
+                    "s_city_slug": "piedras-coloradas"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "paysandu-department",
+                    "s_city_name": "Quebracho",
+                    "s_city_slug": "quebracho"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "paysandu-department",
+                    "s_city_name": "San Felix",
+                    "s_city_slug": "san-felix"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Rio Negro Department",
+            "s_region_slug": "rio-negro-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rio-negro-department",
+                    "s_city_name": "Fray Bentos",
+                    "s_city_slug": "fray-bentos"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rio-negro-department",
+                    "s_city_name": "Nuevo Berlin",
+                    "s_city_slug": "nuevo-berlin"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rio-negro-department",
+                    "s_city_name": "San Javier",
+                    "s_city_slug": "san-javier"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rio-negro-department",
+                    "s_city_name": "Young",
+                    "s_city_slug": "young"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Rivera Department",
+            "s_region_slug": "rivera-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rivera-department",
+                    "s_city_name": "Minas de Corrales",
+                    "s_city_slug": "minas-de-corrales"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rivera-department",
+                    "s_city_name": "Rivera",
+                    "s_city_slug": "rivera"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rivera-department",
+                    "s_city_name": "Tranqueras",
+                    "s_city_slug": "tranqueras"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rivera-department",
+                    "s_city_name": "Vichadero",
+                    "s_city_slug": "vichadero"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Rocha Department",
+            "s_region_slug": "rocha-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rocha-department",
+                    "s_city_name": "Castillos",
+                    "s_city_slug": "castillos"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rocha-department",
+                    "s_city_name": "Cebollati",
+                    "s_city_slug": "cebollati"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rocha-department",
+                    "s_city_name": "Chui",
+                    "s_city_slug": "chui"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rocha-department",
+                    "s_city_name": "Dieciocho de Julio",
+                    "s_city_slug": "dieciocho-de-julio"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rocha-department",
+                    "s_city_name": "La Paloma",
+                    "s_city_slug": "la-paloma"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rocha-department",
+                    "s_city_name": "Lascano",
+                    "s_city_slug": "lascano"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rocha-department",
+                    "s_city_name": "Rocha",
+                    "s_city_slug": "rocha"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "rocha-department",
+                    "s_city_name": "Velazquez",
+                    "s_city_slug": "velazquez"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Salto Department",
+            "s_region_slug": "salto-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "salto-department",
+                    "s_city_name": "Belen",
+                    "s_city_slug": "belen"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "salto-department",
+                    "s_city_name": "Salto",
+                    "s_city_slug": "salto"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "salto-department",
+                    "s_city_name": "Villa Constitucion",
+                    "s_city_slug": "villa-constitucion"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "San Jose Department",
+            "s_region_slug": "san-jose-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "san-jose-department",
+                    "s_city_name": "Delta del Tigre",
+                    "s_city_slug": "delta-del-tigre"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "san-jose-department",
+                    "s_city_name": "Ecilda Paullier",
+                    "s_city_slug": "ecilda-paullier"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "san-jose-department",
+                    "s_city_name": "Libertad",
+                    "s_city_slug": "libertad"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "san-jose-department",
+                    "s_city_name": "Puntas de Valdez",
+                    "s_city_slug": "puntas-de-valdez"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "san-jose-department",
+                    "s_city_name": "Rafael Perazza",
+                    "s_city_slug": "rafael-perazza"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "san-jose-department",
+                    "s_city_name": "Rodriguez",
+                    "s_city_slug": "rodriguez"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "san-jose-department",
+                    "s_city_name": "San Jose de Mayo",
+                    "s_city_slug": "san-jose-de-mayo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Soriano Department",
+            "s_region_slug": "soriano-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "soriano-department",
+                    "s_city_name": "Cardona",
+                    "s_city_slug": "cardona"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "soriano-department",
+                    "s_city_name": "Dolores",
+                    "s_city_slug": "dolores"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "soriano-department",
+                    "s_city_name": "Jose Enrique Rodo",
+                    "s_city_slug": "jose-enrique-rodo"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "soriano-department",
+                    "s_city_name": "Mercedes",
+                    "s_city_slug": "mercedes"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "soriano-department",
+                    "s_city_name": "Palmitas",
+                    "s_city_slug": "palmitas"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "soriano-department",
+                    "s_city_name": "Santa Catalina",
+                    "s_city_slug": "santa-catalina"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "soriano-department",
+                    "s_city_name": "Villa Soriano",
+                    "s_city_slug": "villa-soriano"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Tacuarembo Department",
+            "s_region_slug": "tacuarembo-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "tacuarembo-department",
+                    "s_city_name": "Curtina",
+                    "s_city_slug": "curtina"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "tacuarembo-department",
+                    "s_city_name": "Paso de los Toros",
+                    "s_city_slug": "paso-de-los-toros"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "tacuarembo-department",
+                    "s_city_name": "Tacuarembo",
+                    "s_city_slug": "tacuarembo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "UY",
+            "s_region_name": "Treinta y Tres Department",
+            "s_region_slug": "treinta-y-tres-department",
+            "cities": [
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "treinta-y-tres-department",
+                    "s_city_name": "Santa Clara de Olimar",
+                    "s_city_slug": "santa-clara-de-olimar"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "treinta-y-tres-department",
+                    "s_city_name": "Treinta y Tres",
+                    "s_city_slug": "treinta-y-tres"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "treinta-y-tres-department",
+                    "s_city_name": "Vergara",
+                    "s_city_slug": "vergara"
+                },
+                {
+                    "s_country_code": "UY",
+                    "s_region_slug": "treinta-y-tres-department",
+                    "s_city_name": "Villa Sara",
+                    "s_city_slug": "villa-sara"
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,970 @@
-{"s_country_code": "LK", "s_country_name": "Sri Lanka", "s_country_slug": "sri-lanka", "regions": [{"s_country_code": "LK", "s_region_name": "Ampara District", "s_region_slug": "ampara-district", "cities": [{"s_country_code": "LK", "s_region_slug": "ampara-district", "s_city_name": "Ampara District", "s_city_slug": "ampara-district"}]}, {"s_country_code": "LK", "s_region_name": "Anuradhapura District", "s_region_slug": "anuradhapura-district", "cities": [{"s_country_code": "LK", "s_region_slug": "anuradhapura-district", "s_city_name": "Anuradhapura District", "s_city_slug": "anuradhapura-district"}]}, {"s_country_code": "LK", "s_region_name": "Badulla District", "s_region_slug": "badulla-district", "cities": [{"s_country_code": "LK", "s_region_slug": "badulla-district", "s_city_name": "Badulla District", "s_city_slug": "badulla-district"}]}, {"s_country_code": "LK", "s_region_name": "Batticaloa District", "s_region_slug": "batticaloa-district", "cities": [{"s_country_code": "LK", "s_region_slug": "batticaloa-district", "s_city_name": "Batticaloa District", "s_city_slug": "batticaloa-district"}]}, {"s_country_code": "LK", "s_region_name": "Central Province", "s_region_slug": "central-province", "cities": [{"s_country_code": "LK", "s_region_slug": "central-province", "s_city_name": "Dambulla", "s_city_slug": "dambulla"}, {"s_country_code": "LK", "s_region_slug": "central-province", "s_city_name": "Gampola", "s_city_slug": "gampola"}, {"s_country_code": "LK", "s_region_slug": "central-province", "s_city_name": "Hatton", "s_city_slug": "hatton"}, {"s_country_code": "LK", "s_region_slug": "central-province", "s_city_name": "Kadugannawa", "s_city_slug": "kadugannawa"}, {"s_country_code": "LK", "s_region_slug": "central-province", "s_city_name": "Kandy", "s_city_slug": "kandy"}, {"s_country_code": "LK", "s_region_slug": "central-province", "s_city_name": "Kandy District", "s_city_slug": "kandy-district"}, {"s_country_code": "LK", "s_region_slug": "central-province", "s_city_name": "Matale", "s_city_slug": "matale"}, {"s_country_code": "LK", "s_region_slug": "central-province", "s_city_name": "Matale District", "s_city_slug": "matale-district"}, {"s_country_code": "LK", "s_region_slug": "central-province", "s_city_name": "Nuwara Eliya", "s_city_slug": "nuwara-eliya"}, {"s_country_code": "LK", "s_region_slug": "central-province", "s_city_name": "Nuwara Eliya District", "s_city_slug": "nuwara-eliya-district"}, {"s_country_code": "LK", "s_region_slug": "central-province", "s_city_name": "Sigiriya", "s_city_slug": "sigiriya"}, {"s_country_code": "LK", "s_region_slug": "central-province", "s_city_name": "Talawakele", "s_city_slug": "talawakele"}]}, {"s_country_code": "LK", "s_region_name": "Colombo District", "s_region_slug": "colombo-district", "cities": [{"s_country_code": "LK", "s_region_slug": "colombo-district", "s_city_name": "Colombo District", "s_city_slug": "colombo-district"}]}, {"s_country_code": "LK", "s_region_name": "Eastern Province", "s_region_slug": "eastern-province", "cities": [{"s_country_code": "LK", "s_region_slug": "eastern-province", "s_city_name": "Ampara", "s_city_slug": "ampara"}, {"s_country_code": "LK", "s_region_slug": "eastern-province", "s_city_name": "Ampara District", "s_city_slug": "ampara-district"}, {"s_country_code": "LK", "s_region_slug": "eastern-province", "s_city_name": "Batticaloa", "s_city_slug": "batticaloa"}, {"s_country_code": "LK", "s_region_slug": "eastern-province", "s_city_name": "Batticaloa District", "s_city_slug": "batticaloa-district"}, {"s_country_code": "LK", "s_region_slug": "eastern-province", "s_city_name": "Eravur Town", "s_city_slug": "eravur-town"}, {"s_country_code": "LK", "s_region_slug": "eastern-province", "s_city_name": "Kalmunai", "s_city_slug": "kalmunai"}, {"s_country_code": "LK", "s_region_slug": "eastern-province", "s_city_name": "Trincomalee", "s_city_slug": "trincomalee"}, {"s_country_code": "LK", "s_region_slug": "eastern-province", "s_city_name": "Trincomalee District", "s_city_slug": "trincomalee-district"}, {"s_country_code": "LK", "s_region_slug": "eastern-province", "s_city_name": "Vakarai", "s_city_slug": "vakarai"}]}, {"s_country_code": "LK", "s_region_name": "Galle District", "s_region_slug": "galle-district", "cities": [{"s_country_code": "LK", "s_region_slug": "galle-district", "s_city_name": "Galle District", "s_city_slug": "galle-district"}]}, {"s_country_code": "LK", "s_region_name": "Gampaha District", "s_region_slug": "gampaha-district", "cities": [{"s_country_code": "LK", "s_region_slug": "gampaha-district", "s_city_name": "Gampaha District", "s_city_slug": "gampaha-district"}]}, {"s_country_code": "LK", "s_region_name": "Hambantota District", "s_region_slug": "hambantota-district", "cities": [{"s_country_code": "LK", "s_region_slug": "hambantota-district", "s_city_name": "Hambantota District", "s_city_slug": "hambantota-district"}]}, {"s_country_code": "LK", "s_region_name": "Jaffna District", "s_region_slug": "jaffna-district", "cities": [{"s_country_code": "LK", "s_region_slug": "jaffna-district", "s_city_name": "Jaffna District", "s_city_slug": "jaffna-district"}]}, {"s_country_code": "LK", "s_region_name": "Kalutara District", "s_region_slug": "kalutara-district", "cities": [{"s_country_code": "LK", "s_region_slug": "kalutara-district", "s_city_name": "Kalutara District", "s_city_slug": "kalutara-district"}]}, {"s_country_code": "LK", "s_region_name": "Kandy District", "s_region_slug": "kandy-district", "cities": [{"s_country_code": "LK", "s_region_slug": "kandy-district", "s_city_name": "Kandy District", "s_city_slug": "kandy-district"}]}, {"s_country_code": "LK", "s_region_name": "Kegalle District", "s_region_slug": "kegalle-district", "cities": [{"s_country_code": "LK", "s_region_slug": "kegalle-district", "s_city_name": "Kegalle District", "s_city_slug": "kegalle-district"}]}, {"s_country_code": "LK", "s_region_name": "Kilinochchi District", "s_region_slug": "kilinochchi-district", "cities": [{"s_country_code": "LK", "s_region_slug": "kilinochchi-district", "s_city_name": "Kilinochchi District", "s_city_slug": "kilinochchi-district"}]}, {"s_country_code": "LK", "s_region_name": "Mannar District", "s_region_slug": "mannar-district", "cities": [{"s_country_code": "LK", "s_region_slug": "mannar-district", "s_city_name": "Mannar District", "s_city_slug": "mannar-district"}]}, {"s_country_code": "LK", "s_region_name": "Matale District", "s_region_slug": "matale-district", "cities": [{"s_country_code": "LK", "s_region_slug": "matale-district", "s_city_name": "Matale District", "s_city_slug": "matale-district"}]}, {"s_country_code": "LK", "s_region_name": "Matara District", "s_region_slug": "matara-district", "cities": [{"s_country_code": "LK", "s_region_slug": "matara-district", "s_city_name": "Matara District", "s_city_slug": "matara-district"}]}, {"s_country_code": "LK", "s_region_name": "Monaragala District", "s_region_slug": "monaragala-district", "cities": [{"s_country_code": "LK", "s_region_slug": "monaragala-district", "s_city_name": "Monaragala District", "s_city_slug": "monaragala-district"}]}, {"s_country_code": "LK", "s_region_name": "Mullaitivu District", "s_region_slug": "mullaitivu-district", "cities": [{"s_country_code": "LK", "s_region_slug": "mullaitivu-district", "s_city_name": "Mullaitivu District", "s_city_slug": "mullaitivu-district"}]}, {"s_country_code": "LK", "s_region_name": "North Central Province", "s_region_slug": "north-central-province", "cities": [{"s_country_code": "LK", "s_region_slug": "north-central-province", "s_city_name": "Anuradhapura", "s_city_slug": "anuradhapura"}, {"s_country_code": "LK", "s_region_slug": "north-central-province", "s_city_name": "Anuradhapura District", "s_city_slug": "anuradhapura-district"}, {"s_country_code": "LK", "s_region_slug": "north-central-province", "s_city_name": "Mihintale", "s_city_slug": "mihintale"}, {"s_country_code": "LK", "s_region_slug": "north-central-province", "s_city_name": "Polonnaruwa", "s_city_slug": "polonnaruwa"}, {"s_country_code": "LK", "s_region_slug": "north-central-province", "s_city_name": "Polonnaruwa District", "s_city_slug": "polonnaruwa-district"}]}, {"s_country_code": "LK", "s_region_name": "North Western Province", "s_region_slug": "north-western-province", "cities": [{"s_country_code": "LK", "s_region_slug": "north-western-province", "s_city_name": "Chilaw", "s_city_slug": "chilaw"}, {"s_country_code": "LK", "s_region_slug": "north-western-province", "s_city_name": "Kuliyapitiya", "s_city_slug": "kuliyapitiya"}, {"s_country_code": "LK", "s_region_slug": "north-western-province", "s_city_name": "Kurunegala", "s_city_slug": "kurunegala"}, {"s_country_code": "LK", "s_region_slug": "north-western-province", "s_city_name": "Kurunegala District", "s_city_slug": "kurunegala-district"}, {"s_country_code": "LK", "s_region_slug": "north-western-province", "s_city_name": "Puttalam", "s_city_slug": "puttalam"}, {"s_country_code": "LK", "s_region_slug": "north-western-province", "s_city_name": "Puttalam District", "s_city_slug": "puttalam-district"}]}, {"s_country_code": "LK", "s_region_name": "Northern Province", "s_region_slug": "northern-province", "cities": [{"s_country_code": "LK", "s_region_slug": "northern-province", "s_city_name": "Jaffna", "s_city_slug": "jaffna"}, {"s_country_code": "LK", "s_region_slug": "northern-province", "s_city_name": "Jaffna District", "s_city_slug": "jaffna-district"}, {"s_country_code": "LK", "s_region_slug": "northern-province", "s_city_name": "Kilinochchi", "s_city_slug": "kilinochchi"}, {"s_country_code": "LK", "s_region_slug": "northern-province", "s_city_name": "Kilinochchi District", "s_city_slug": "kilinochchi-district"}, {"s_country_code": "LK", "s_region_slug": "northern-province", "s_city_name": "Point Pedro", "s_city_slug": "point-pedro"}, {"s_country_code": "LK", "s_region_slug": "northern-province", "s_city_name": "Valvedditturai", "s_city_slug": "valvedditturai"}, {"s_country_code": "LK", "s_region_slug": "northern-province", "s_city_name": "Vavuniya", "s_city_slug": "vavuniya"}, {"s_country_code": "LK", "s_region_slug": "northern-province", "s_city_name": "Vavuniya District", "s_city_slug": "vavuniya-district"}]}, {"s_country_code": "LK", "s_region_name": "Nuwara Eliya District", "s_region_slug": "nuwara-eliya-district", "cities": [{"s_country_code": "LK", "s_region_slug": "nuwara-eliya-district", "s_city_name": "Nuwara Eliya District", "s_city_slug": "nuwara-eliya-district"}]}, {"s_country_code": "LK", "s_region_name": "Polonnaruwa District", "s_region_slug": "polonnaruwa-district", "cities": [{"s_country_code": "LK", "s_region_slug": "polonnaruwa-district", "s_city_name": "Polonnaruwa District", "s_city_slug": "polonnaruwa-district"}]}, {"s_country_code": "LK", "s_region_name": "Puttalam District", "s_region_slug": "puttalam-district", "cities": [{"s_country_code": "LK", "s_region_slug": "puttalam-district", "s_city_name": "Puttalam District", "s_city_slug": "puttalam-district"}]}, {"s_country_code": "LK", "s_region_name": "Ratnapura district", "s_region_slug": "ratnapura-district", "cities": [{"s_country_code": "LK", "s_region_slug": "ratnapura-district", "s_city_name": "Ratnapura district", "s_city_slug": "ratnapura-district"}]}, {"s_country_code": "LK", "s_region_name": "Sabaragamuwa Province", "s_region_slug": "sabaragamuwa-province", "cities": [{"s_country_code": "LK", "s_region_slug": "sabaragamuwa-province", "s_city_name": "Kegalle", "s_city_slug": "kegalle"}, {"s_country_code": "LK", "s_region_slug": "sabaragamuwa-province", "s_city_name": "Kegalle District", "s_city_slug": "kegalle-district"}, {"s_country_code": "LK", "s_region_slug": "sabaragamuwa-province", "s_city_name": "Ratnapura", "s_city_slug": "ratnapura"}, {"s_country_code": "LK", "s_region_slug": "sabaragamuwa-province", "s_city_name": "Ratnapura District", "s_city_slug": "ratnapura-district"}]}, {"s_country_code": "LK", "s_region_name": "Southern Province", "s_region_slug": "southern-province", "cities": [{"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Ambalangoda", "s_city_slug": "ambalangoda"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Bentota", "s_city_slug": "bentota"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Devinuwara", "s_city_slug": "devinuwara"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Galle", "s_city_slug": "galle"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Galle District", "s_city_slug": "galle-district"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Hambantota District", "s_city_slug": "hambantota-district"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Hikkaduwa", "s_city_slug": "hikkaduwa"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Koggala", "s_city_slug": "koggala"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Matara", "s_city_slug": "matara"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Matara District", "s_city_slug": "matara-district"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Mirissa city", "s_city_slug": "mirissa-city"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Talpe", "s_city_slug": "talpe"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Tangalle", "s_city_slug": "tangalle"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Unawatuna", "s_city_slug": "unawatuna"}, {"s_country_code": "LK", "s_region_slug": "southern-province", "s_city_name": "Weligama", "s_city_slug": "weligama"}]}, {"s_country_code": "LK", "s_region_name": "Trincomalee District", "s_region_slug": "trincomalee-district", "cities": [{"s_country_code": "LK", "s_region_slug": "trincomalee-district", "s_city_name": "Trincomalee District", "s_city_slug": "trincomalee-district"}]}, {"s_country_code": "LK", "s_region_name": "Uva Province", "s_region_slug": "uva-province", "cities": [{"s_country_code": "LK", "s_region_slug": "uva-province", "s_city_name": "Badulla", "s_city_slug": "badulla"}, {"s_country_code": "LK", "s_region_slug": "uva-province", "s_city_name": "Badulla District", "s_city_slug": "badulla-district"}, {"s_country_code": "LK", "s_region_slug": "uva-province", "s_city_name": "Ella Town", "s_city_slug": "ella-town"}, {"s_country_code": "LK", "s_region_slug": "uva-province", "s_city_name": "Haputale", "s_city_slug": "haputale"}, {"s_country_code": "LK", "s_region_slug": "uva-province", "s_city_name": "Kataragama", "s_city_slug": "kataragama"}, {"s_country_code": "LK", "s_region_slug": "uva-province", "s_city_name": "Monaragala", "s_city_slug": "monaragala"}, {"s_country_code": "LK", "s_region_slug": "uva-province", "s_city_name": "Moneragala District", "s_city_slug": "moneragala-district"}, {"s_country_code": "LK", "s_region_slug": "uva-province", "s_city_name": "Wattegama", "s_city_slug": "wattegama"}, {"s_country_code": "LK", "s_region_slug": "uva-province", "s_city_name": "Wellawaya", "s_city_slug": "wellawaya"}]}, {"s_country_code": "LK", "s_region_name": "Vavuniya District", "s_region_slug": "vavuniya-district", "cities": [{"s_country_code": "LK", "s_region_slug": "vavuniya-district", "s_city_name": "Vavuniya District", "s_city_slug": "vavuniya-district"}]}, {"s_country_code": "LK", "s_region_name": "Western Province", "s_region_slug": "western-province", "cities": [{"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Battaramulla South", "s_city_slug": "battaramulla-south"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Beruwala", "s_city_slug": "beruwala"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Colombo", "s_city_slug": "colombo"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Colombo District", "s_city_slug": "colombo-district"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Dehiwala-Mount Lavinia", "s_city_slug": "dehiwala-mount-lavinia"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Gampaha", "s_city_slug": "gampaha"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Gampaha District", "s_city_slug": "gampaha-district"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Hanwella Ihala", "s_city_slug": "hanwella-ihala"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Hendala", "s_city_slug": "hendala"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Homagama", "s_city_slug": "homagama"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Horana South", "s_city_slug": "horana-south"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Horawala Junction", "s_city_slug": "horawala-junction"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Ja Ela", "s_city_slug": "ja-ela"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Kalutara", "s_city_slug": "kalutara"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Kandana", "s_city_slug": "kandana"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Katunayaka", "s_city_slug": "katunayaka"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Kelaniya", "s_city_slug": "kelaniya"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Kolonnawa", "s_city_slug": "kolonnawa"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Kotikawatta", "s_city_slug": "kotikawatta"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Maharagama", "s_city_slug": "maharagama"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Minuwangoda", "s_city_slug": "minuwangoda"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Moratuwa", "s_city_slug": "moratuwa"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Mulleriyawa", "s_city_slug": "mulleriyawa"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Negombo", "s_city_slug": "negombo"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Panadura", "s_city_slug": "panadura"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Peliyagoda", "s_city_slug": "peliyagoda"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Pita Kotte", "s_city_slug": "pita-kotte"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Sri Jayewardenepura Kotte", "s_city_slug": "sri-jayewardenepura-kotte"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Wattala", "s_city_slug": "wattala"}, {"s_country_code": "LK", "s_region_slug": "western-province", "s_city_name": "Welisara", "s_city_slug": "welisara"}]}]}
+{
+    "s_country_code": "LK",
+    "s_country_name": "Sri Lanka",
+    "s_country_slug": "sri-lanka",
+    "regions": [
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Ampara District",
+            "s_region_slug": "ampara-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "ampara-district",
+                    "s_city_name": "Ampara District",
+                    "s_city_slug": "ampara-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Anuradhapura District",
+            "s_region_slug": "anuradhapura-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "anuradhapura-district",
+                    "s_city_name": "Anuradhapura District",
+                    "s_city_slug": "anuradhapura-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Badulla District",
+            "s_region_slug": "badulla-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "badulla-district",
+                    "s_city_name": "Badulla District",
+                    "s_city_slug": "badulla-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Batticaloa District",
+            "s_region_slug": "batticaloa-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "batticaloa-district",
+                    "s_city_name": "Batticaloa District",
+                    "s_city_slug": "batticaloa-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Central Province",
+            "s_region_slug": "central-province",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Dambulla",
+                    "s_city_slug": "dambulla"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Gampola",
+                    "s_city_slug": "gampola"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Hatton",
+                    "s_city_slug": "hatton"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Kadugannawa",
+                    "s_city_slug": "kadugannawa"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Kandy",
+                    "s_city_slug": "kandy"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Kandy District",
+                    "s_city_slug": "kandy-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Matale",
+                    "s_city_slug": "matale"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Matale District",
+                    "s_city_slug": "matale-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Nuwara Eliya",
+                    "s_city_slug": "nuwara-eliya"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Nuwara Eliya District",
+                    "s_city_slug": "nuwara-eliya-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Sigiriya",
+                    "s_city_slug": "sigiriya"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Talawakele",
+                    "s_city_slug": "talawakele"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Colombo District",
+            "s_region_slug": "colombo-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "colombo-district",
+                    "s_city_name": "Colombo District",
+                    "s_city_slug": "colombo-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Eastern Province",
+            "s_region_slug": "eastern-province",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Ampara",
+                    "s_city_slug": "ampara"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Ampara District",
+                    "s_city_slug": "ampara-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Batticaloa",
+                    "s_city_slug": "batticaloa"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Batticaloa District",
+                    "s_city_slug": "batticaloa-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Eravur Town",
+                    "s_city_slug": "eravur-town"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Kalmunai",
+                    "s_city_slug": "kalmunai"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Trincomalee",
+                    "s_city_slug": "trincomalee"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Trincomalee District",
+                    "s_city_slug": "trincomalee-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Vakarai",
+                    "s_city_slug": "vakarai"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Galle District",
+            "s_region_slug": "galle-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "galle-district",
+                    "s_city_name": "Galle District",
+                    "s_city_slug": "galle-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Gampaha District",
+            "s_region_slug": "gampaha-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "gampaha-district",
+                    "s_city_name": "Gampaha District",
+                    "s_city_slug": "gampaha-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Hambantota District",
+            "s_region_slug": "hambantota-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "hambantota-district",
+                    "s_city_name": "Hambantota District",
+                    "s_city_slug": "hambantota-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Jaffna District",
+            "s_region_slug": "jaffna-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "jaffna-district",
+                    "s_city_name": "Jaffna District",
+                    "s_city_slug": "jaffna-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Kalutara District",
+            "s_region_slug": "kalutara-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "kalutara-district",
+                    "s_city_name": "Kalutara District",
+                    "s_city_slug": "kalutara-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Kandy District",
+            "s_region_slug": "kandy-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "kandy-district",
+                    "s_city_name": "Kandy District",
+                    "s_city_slug": "kandy-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Kegalle District",
+            "s_region_slug": "kegalle-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "kegalle-district",
+                    "s_city_name": "Kegalle District",
+                    "s_city_slug": "kegalle-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Kilinochchi District",
+            "s_region_slug": "kilinochchi-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "kilinochchi-district",
+                    "s_city_name": "Kilinochchi District",
+                    "s_city_slug": "kilinochchi-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Mannar District",
+            "s_region_slug": "mannar-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "mannar-district",
+                    "s_city_name": "Mannar District",
+                    "s_city_slug": "mannar-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Matale District",
+            "s_region_slug": "matale-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "matale-district",
+                    "s_city_name": "Matale District",
+                    "s_city_slug": "matale-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Matara District",
+            "s_region_slug": "matara-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "matara-district",
+                    "s_city_name": "Matara District",
+                    "s_city_slug": "matara-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Monaragala District",
+            "s_region_slug": "monaragala-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "monaragala-district",
+                    "s_city_name": "Monaragala District",
+                    "s_city_slug": "monaragala-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Mullaitivu District",
+            "s_region_slug": "mullaitivu-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "mullaitivu-district",
+                    "s_city_name": "Mullaitivu District",
+                    "s_city_slug": "mullaitivu-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "North Central Province",
+            "s_region_slug": "north-central-province",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "north-central-province",
+                    "s_city_name": "Anuradhapura",
+                    "s_city_slug": "anuradhapura"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "north-central-province",
+                    "s_city_name": "Anuradhapura District",
+                    "s_city_slug": "anuradhapura-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "north-central-province",
+                    "s_city_name": "Mihintale",
+                    "s_city_slug": "mihintale"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "north-central-province",
+                    "s_city_name": "Polonnaruwa",
+                    "s_city_slug": "polonnaruwa"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "north-central-province",
+                    "s_city_name": "Polonnaruwa District",
+                    "s_city_slug": "polonnaruwa-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "North Western Province",
+            "s_region_slug": "north-western-province",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "north-western-province",
+                    "s_city_name": "Chilaw",
+                    "s_city_slug": "chilaw"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "north-western-province",
+                    "s_city_name": "Kuliyapitiya",
+                    "s_city_slug": "kuliyapitiya"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "north-western-province",
+                    "s_city_name": "Kurunegala",
+                    "s_city_slug": "kurunegala"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "north-western-province",
+                    "s_city_name": "Kurunegala District",
+                    "s_city_slug": "kurunegala-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "north-western-province",
+                    "s_city_name": "Puttalam",
+                    "s_city_slug": "puttalam"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "north-western-province",
+                    "s_city_name": "Puttalam District",
+                    "s_city_slug": "puttalam-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Northern Province",
+            "s_region_slug": "northern-province",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Jaffna",
+                    "s_city_slug": "jaffna"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Jaffna District",
+                    "s_city_slug": "jaffna-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Kilinochchi",
+                    "s_city_slug": "kilinochchi"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Kilinochchi District",
+                    "s_city_slug": "kilinochchi-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Point Pedro",
+                    "s_city_slug": "point-pedro"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Valvedditturai",
+                    "s_city_slug": "valvedditturai"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Vavuniya",
+                    "s_city_slug": "vavuniya"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Vavuniya District",
+                    "s_city_slug": "vavuniya-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Nuwara Eliya District",
+            "s_region_slug": "nuwara-eliya-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "nuwara-eliya-district",
+                    "s_city_name": "Nuwara Eliya District",
+                    "s_city_slug": "nuwara-eliya-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Polonnaruwa District",
+            "s_region_slug": "polonnaruwa-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "polonnaruwa-district",
+                    "s_city_name": "Polonnaruwa District",
+                    "s_city_slug": "polonnaruwa-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Puttalam District",
+            "s_region_slug": "puttalam-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "puttalam-district",
+                    "s_city_name": "Puttalam District",
+                    "s_city_slug": "puttalam-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Ratnapura district",
+            "s_region_slug": "ratnapura-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "ratnapura-district",
+                    "s_city_name": "Ratnapura district",
+                    "s_city_slug": "ratnapura-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Sabaragamuwa Province",
+            "s_region_slug": "sabaragamuwa-province",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "sabaragamuwa-province",
+                    "s_city_name": "Kegalle",
+                    "s_city_slug": "kegalle"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "sabaragamuwa-province",
+                    "s_city_name": "Kegalle District",
+                    "s_city_slug": "kegalle-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "sabaragamuwa-province",
+                    "s_city_name": "Ratnapura",
+                    "s_city_slug": "ratnapura"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "sabaragamuwa-province",
+                    "s_city_name": "Ratnapura District",
+                    "s_city_slug": "ratnapura-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Southern Province",
+            "s_region_slug": "southern-province",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Ambalangoda",
+                    "s_city_slug": "ambalangoda"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Bentota",
+                    "s_city_slug": "bentota"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Devinuwara",
+                    "s_city_slug": "devinuwara"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Galle",
+                    "s_city_slug": "galle"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Galle District",
+                    "s_city_slug": "galle-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Hambantota District",
+                    "s_city_slug": "hambantota-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Hikkaduwa",
+                    "s_city_slug": "hikkaduwa"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Koggala",
+                    "s_city_slug": "koggala"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Matara",
+                    "s_city_slug": "matara"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Matara District",
+                    "s_city_slug": "matara-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Mirissa city",
+                    "s_city_slug": "mirissa-city"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Talpe",
+                    "s_city_slug": "talpe"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Tangalle",
+                    "s_city_slug": "tangalle"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Unawatuna",
+                    "s_city_slug": "unawatuna"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Weligama",
+                    "s_city_slug": "weligama"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Trincomalee District",
+            "s_region_slug": "trincomalee-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "trincomalee-district",
+                    "s_city_name": "Trincomalee District",
+                    "s_city_slug": "trincomalee-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Uva Province",
+            "s_region_slug": "uva-province",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "uva-province",
+                    "s_city_name": "Badulla",
+                    "s_city_slug": "badulla"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "uva-province",
+                    "s_city_name": "Badulla District",
+                    "s_city_slug": "badulla-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "uva-province",
+                    "s_city_name": "Ella Town",
+                    "s_city_slug": "ella-town"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "uva-province",
+                    "s_city_name": "Haputale",
+                    "s_city_slug": "haputale"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "uva-province",
+                    "s_city_name": "Kataragama",
+                    "s_city_slug": "kataragama"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "uva-province",
+                    "s_city_name": "Monaragala",
+                    "s_city_slug": "monaragala"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "uva-province",
+                    "s_city_name": "Moneragala District",
+                    "s_city_slug": "moneragala-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "uva-province",
+                    "s_city_name": "Wattegama",
+                    "s_city_slug": "wattegama"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "uva-province",
+                    "s_city_name": "Wellawaya",
+                    "s_city_slug": "wellawaya"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Vavuniya District",
+            "s_region_slug": "vavuniya-district",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "vavuniya-district",
+                    "s_city_name": "Vavuniya District",
+                    "s_city_slug": "vavuniya-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LK",
+            "s_region_name": "Western Province",
+            "s_region_slug": "western-province",
+            "cities": [
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Battaramulla South",
+                    "s_city_slug": "battaramulla-south"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Beruwala",
+                    "s_city_slug": "beruwala"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Colombo",
+                    "s_city_slug": "colombo"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Colombo District",
+                    "s_city_slug": "colombo-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Dehiwala-Mount Lavinia",
+                    "s_city_slug": "dehiwala-mount-lavinia"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Gampaha",
+                    "s_city_slug": "gampaha"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Gampaha District",
+                    "s_city_slug": "gampaha-district"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Hanwella Ihala",
+                    "s_city_slug": "hanwella-ihala"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Hendala",
+                    "s_city_slug": "hendala"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Homagama",
+                    "s_city_slug": "homagama"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Horana South",
+                    "s_city_slug": "horana-south"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Horawala Junction",
+                    "s_city_slug": "horawala-junction"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Ja Ela",
+                    "s_city_slug": "ja-ela"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Kalutara",
+                    "s_city_slug": "kalutara"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Kandana",
+                    "s_city_slug": "kandana"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Katunayaka",
+                    "s_city_slug": "katunayaka"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Kelaniya",
+                    "s_city_slug": "kelaniya"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Kolonnawa",
+                    "s_city_slug": "kolonnawa"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Kotikawatta",
+                    "s_city_slug": "kotikawatta"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Maharagama",
+                    "s_city_slug": "maharagama"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Minuwangoda",
+                    "s_city_slug": "minuwangoda"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Moratuwa",
+                    "s_city_slug": "moratuwa"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Mulleriyawa",
+                    "s_city_slug": "mulleriyawa"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Negombo",
+                    "s_city_slug": "negombo"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Panadura",
+                    "s_city_slug": "panadura"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Peliyagoda",
+                    "s_city_slug": "peliyagoda"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Pita Kotte",
+                    "s_city_slug": "pita-kotte"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Sri Jayewardenepura Kotte",
+                    "s_city_slug": "sri-jayewardenepura-kotte"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Wattala",
+                    "s_city_slug": "wattala"
+                },
+                {
+                    "s_country_code": "LK",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Welisara",
+                    "s_city_slug": "welisara"
+                }
+            ]
+        }
+    ]
+}

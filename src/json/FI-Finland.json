@@ -1,1 +1,2596 @@
-{"s_country_code": "FI", "s_country_name": "Finland", "s_country_slug": "finland", "regions": [{"s_country_code": "FI", "s_region_name": "Aland Islands", "s_region_slug": "aland-islands", "cities": [{"s_country_code": "FI", "s_region_slug": "aland-islands", "s_city_name": "Aland Islands", "s_city_slug": "aland-islands"}]}, {"s_country_code": "FI", "s_region_name": "Central Finland", "s_region_slug": "central-finland", "cities": [{"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Aanekoski", "s_city_slug": "aanekoski"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Hankasalmi", "s_city_slug": "hankasalmi"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Jamsa", "s_city_slug": "jamsa"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Jamsankoski", "s_city_slug": "jamsankoski"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Joutsa", "s_city_slug": "joutsa"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Jyvaskyla", "s_city_slug": "jyvaskyla"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Kannonkoski", "s_city_slug": "kannonkoski"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Karstula", "s_city_slug": "karstula"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Keuruu", "s_city_slug": "keuruu"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Kinnula", "s_city_slug": "kinnula"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Kivijarvi", "s_city_slug": "kivijarvi"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Konnevesi", "s_city_slug": "konnevesi"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Korpilahti", "s_city_slug": "korpilahti"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Kuhmoinen", "s_city_slug": "kuhmoinen"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Kyyjarvi", "s_city_slug": "kyyjarvi"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Laukaa", "s_city_slug": "laukaa"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Leivonmaki", "s_city_slug": "leivonmaki"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Luhanka", "s_city_slug": "luhanka"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Multia", "s_city_slug": "multia"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Muurame", "s_city_slug": "muurame"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Petajavesi", "s_city_slug": "petajavesi"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Pihtipudas", "s_city_slug": "pihtipudas"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Pylkonmaki", "s_city_slug": "pylkonmaki"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Saarijarvi", "s_city_slug": "saarijarvi"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Saynatsalo", "s_city_slug": "saynatsalo"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Sumiainen", "s_city_slug": "sumiainen"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Suolahti", "s_city_slug": "suolahti"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Toivakka", "s_city_slug": "toivakka"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Uurainen", "s_city_slug": "uurainen"}, {"s_country_code": "FI", "s_region_slug": "central-finland", "s_city_name": "Viitasaari", "s_city_slug": "viitasaari"}]}, {"s_country_code": "FI", "s_region_name": "Central Ostrobothnia", "s_region_slug": "central-ostrobothnia", "cities": [{"s_country_code": "FI", "s_region_slug": "central-ostrobothnia", "s_city_name": "Halsua", "s_city_slug": "halsua"}, {"s_country_code": "FI", "s_region_slug": "central-ostrobothnia", "s_city_name": "Kalvia", "s_city_slug": "kalvia"}, {"s_country_code": "FI", "s_region_slug": "central-ostrobothnia", "s_city_name": "Kannus", "s_city_slug": "kannus"}, {"s_country_code": "FI", "s_region_slug": "central-ostrobothnia", "s_city_name": "Kaustinen", "s_city_slug": "kaustinen"}, {"s_country_code": "FI", "s_region_slug": "central-ostrobothnia", "s_city_name": "Kokkola", "s_city_slug": "kokkola"}, {"s_country_code": "FI", "s_region_slug": "central-ostrobothnia", "s_city_name": "Lestijarvi", "s_city_slug": "lestijarvi"}, {"s_country_code": "FI", "s_region_slug": "central-ostrobothnia", "s_city_name": "Lohtaja", "s_city_slug": "lohtaja"}, {"s_country_code": "FI", "s_region_slug": "central-ostrobothnia", "s_city_name": "Perho", "s_city_slug": "perho"}, {"s_country_code": "FI", "s_region_slug": "central-ostrobothnia", "s_city_name": "Toholampi", "s_city_slug": "toholampi"}, {"s_country_code": "FI", "s_region_slug": "central-ostrobothnia", "s_city_name": "Ullava", "s_city_slug": "ullava"}, {"s_country_code": "FI", "s_region_slug": "central-ostrobothnia", "s_city_name": "Veteli", "s_city_slug": "veteli"}]}, {"s_country_code": "FI", "s_region_name": "Eastern Finland Province", "s_region_slug": "eastern-finland-province", "cities": [{"s_country_code": "FI", "s_region_slug": "eastern-finland-province", "s_city_name": "Eastern Finland Province", "s_city_slug": "eastern-finland-province"}]}, {"s_country_code": "FI", "s_region_name": "Finland Proper", "s_region_slug": "finland-proper", "cities": [{"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Alastaro", "s_city_slug": "alastaro"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Askainen", "s_city_slug": "askainen"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Aura", "s_city_slug": "aura"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Dragsfjard", "s_city_slug": "dragsfjard"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Halikko", "s_city_slug": "halikko"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Houtskar", "s_city_slug": "houtskar"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Inio", "s_city_slug": "inio"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Kaarina", "s_city_slug": "kaarina"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Karinainen", "s_city_slug": "karinainen"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Kiikala", "s_city_slug": "kiikala"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Kimito", "s_city_slug": "kimito"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Kisko", "s_city_slug": "kisko"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Kustavi", "s_city_slug": "kustavi"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Kuusjoki", "s_city_slug": "kuusjoki"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Laitila", "s_city_slug": "laitila"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Lemu", "s_city_slug": "lemu"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Lieto", "s_city_slug": "lieto"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Marttila", "s_city_slug": "marttila"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Masku", "s_city_slug": "masku"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Mellila", "s_city_slug": "mellila"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Merimasku", "s_city_slug": "merimasku"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Mietoinen", "s_city_slug": "mietoinen"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Muurla", "s_city_slug": "muurla"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Mynamaki", "s_city_slug": "mynamaki"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Naantali", "s_city_slug": "naantali"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Nagu", "s_city_slug": "nagu"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Nousiainen", "s_city_slug": "nousiainen"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Oripaa", "s_city_slug": "oripaa"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Paimio", "s_city_slug": "paimio"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Pargas", "s_city_slug": "pargas"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Pernio", "s_city_slug": "pernio"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Pertteli", "s_city_slug": "pertteli"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Piikkio", "s_city_slug": "piikkio"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Poytya", "s_city_slug": "poytya"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Pyharanta", "s_city_slug": "pyharanta"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Raisio", "s_city_slug": "raisio"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Rusko", "s_city_slug": "rusko"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Rymattyla", "s_city_slug": "rymattyla"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Salo", "s_city_slug": "salo"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Sarkisalo", "s_city_slug": "sarkisalo"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Sauvo", "s_city_slug": "sauvo"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Somero", "s_city_slug": "somero"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Suomusjarvi", "s_city_slug": "suomusjarvi"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Taivassalo", "s_city_slug": "taivassalo"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Tarvasjoki", "s_city_slug": "tarvasjoki"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Turku", "s_city_slug": "turku"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Uusikaupunki", "s_city_slug": "uusikaupunki"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Vahto", "s_city_slug": "vahto"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Vastaboland", "s_city_slug": "vastaboland"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Vastanfjard", "s_city_slug": "vastanfjard"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Vehmaa", "s_city_slug": "vehmaa"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Velkua", "s_city_slug": "velkua"}, {"s_country_code": "FI", "s_region_slug": "finland-proper", "s_city_name": "Ylane", "s_city_slug": "ylane"}]}, {"s_country_code": "FI", "s_region_name": "Kainuu", "s_region_slug": "kainuu", "cities": [{"s_country_code": "FI", "s_region_slug": "kainuu", "s_city_name": "Hyrynsalmi", "s_city_slug": "hyrynsalmi"}, {"s_country_code": "FI", "s_region_slug": "kainuu", "s_city_name": "Kajaani", "s_city_slug": "kajaani"}, {"s_country_code": "FI", "s_region_slug": "kainuu", "s_city_name": "Kuhmo", "s_city_slug": "kuhmo"}, {"s_country_code": "FI", "s_region_slug": "kainuu", "s_city_name": "Paltamo", "s_city_slug": "paltamo"}, {"s_country_code": "FI", "s_region_slug": "kainuu", "s_city_name": "Puolanka", "s_city_slug": "puolanka"}, {"s_country_code": "FI", "s_region_slug": "kainuu", "s_city_name": "Ristijarvi", "s_city_slug": "ristijarvi"}, {"s_country_code": "FI", "s_region_slug": "kainuu", "s_city_name": "Sotkamo", "s_city_slug": "sotkamo"}, {"s_country_code": "FI", "s_region_slug": "kainuu", "s_city_name": "Suomussalmi", "s_city_slug": "suomussalmi"}, {"s_country_code": "FI", "s_region_slug": "kainuu", "s_city_name": "Vaala", "s_city_slug": "vaala"}, {"s_country_code": "FI", "s_region_slug": "kainuu", "s_city_name": "Vuokatti", "s_city_slug": "vuokatti"}, {"s_country_code": "FI", "s_region_slug": "kainuu", "s_city_name": "Vuolijoki", "s_city_slug": "vuolijoki"}]}, {"s_country_code": "FI", "s_region_name": "Kymenlaakso", "s_region_slug": "kymenlaakso", "cities": [{"s_country_code": "FI", "s_region_slug": "kymenlaakso", "s_city_name": "Anjala", "s_city_slug": "anjala"}, {"s_country_code": "FI", "s_region_slug": "kymenlaakso", "s_city_name": "Elimaki", "s_city_slug": "elimaki"}, {"s_country_code": "FI", "s_region_slug": "kymenlaakso", "s_city_name": "Hamina", "s_city_slug": "hamina"}, {"s_country_code": "FI", "s_region_slug": "kymenlaakso", "s_city_name": "Iitti", "s_city_slug": "iitti"}, {"s_country_code": "FI", "s_region_slug": "kymenlaakso", "s_city_name": "Jaala", "s_city_slug": "jaala"}, {"s_country_code": "FI", "s_region_slug": "kymenlaakso", "s_city_name": "Karhula", "s_city_slug": "karhula"}, {"s_country_code": "FI", "s_region_slug": "kymenlaakso", "s_city_name": "Kotka", "s_city_slug": "kotka"}, {"s_country_code": "FI", "s_region_slug": "kymenlaakso", "s_city_name": "Kouvola", "s_city_slug": "kouvola"}, {"s_country_code": "FI", "s_region_slug": "kymenlaakso", "s_city_name": "Miehikkala", "s_city_slug": "miehikkala"}, {"s_country_code": "FI", "s_region_slug": "kymenlaakso", "s_city_name": "Pyhtaa", "s_city_slug": "pyhtaa"}, {"s_country_code": "FI", "s_region_slug": "kymenlaakso", "s_city_name": "Virojoki", "s_city_slug": "virojoki"}]}, {"s_country_code": "FI", "s_region_name": "Lapland", "s_region_slug": "lapland", "cities": [{"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Enontekio", "s_city_slug": "enontekio"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Inari", "s_city_slug": "inari"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Ivalo", "s_city_slug": "ivalo"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Kemi", "s_city_slug": "kemi"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Kemijarvi", "s_city_slug": "kemijarvi"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Keminmaa", "s_city_slug": "keminmaa"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Kittila", "s_city_slug": "kittila"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Kolari", "s_city_slug": "kolari"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Muonio", "s_city_slug": "muonio"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Pelkosenniemi", "s_city_slug": "pelkosenniemi"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Pello", "s_city_slug": "pello"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Posio", "s_city_slug": "posio"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Pyhajarvi", "s_city_slug": "pyhajarvi"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Ranua", "s_city_slug": "ranua"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Rovaniemi", "s_city_slug": "rovaniemi"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Salla", "s_city_slug": "salla"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Savukoski", "s_city_slug": "savukoski"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Simo", "s_city_slug": "simo"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Sodankyla", "s_city_slug": "sodankyla"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Tervola", "s_city_slug": "tervola"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Tornio", "s_city_slug": "tornio"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Utsjoki", "s_city_slug": "utsjoki"}, {"s_country_code": "FI", "s_region_slug": "lapland", "s_city_name": "Ylitornio", "s_city_slug": "ylitornio"}]}, {"s_country_code": "FI", "s_region_name": "North Karelia", "s_region_slug": "north-karelia", "cities": [{"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Eno", "s_city_slug": "eno"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Ilomantsi", "s_city_slug": "ilomantsi"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Joensuu", "s_city_slug": "joensuu"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Juuka", "s_city_slug": "juuka"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Kesalahti", "s_city_slug": "kesalahti"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Kiihtelysvaara", "s_city_slug": "kiihtelysvaara"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Kitee", "s_city_slug": "kitee"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Kontiolahti", "s_city_slug": "kontiolahti"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Lieksa", "s_city_slug": "lieksa"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Liperi", "s_city_slug": "liperi"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Nurmes", "s_city_slug": "nurmes"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Outokumpu", "s_city_slug": "outokumpu"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Polvijarvi", "s_city_slug": "polvijarvi"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Pyhaselka", "s_city_slug": "pyhaselka"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Raakkyla", "s_city_slug": "raakkyla"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Tohmajarvi", "s_city_slug": "tohmajarvi"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Tuupovaara", "s_city_slug": "tuupovaara"}, {"s_country_code": "FI", "s_region_slug": "north-karelia", "s_city_name": "Valtimo", "s_city_slug": "valtimo"}]}, {"s_country_code": "FI", "s_region_name": "Northern Ostrobothnia", "s_region_slug": "northern-ostrobothnia", "cities": [{"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Alavieska", "s_city_slug": "alavieska"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Haapajarvi", "s_city_slug": "haapajarvi"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Haapavesi", "s_city_slug": "haapavesi"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Hailuoto", "s_city_slug": "hailuoto"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Haukipudas", "s_city_slug": "haukipudas"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Himanka", "s_city_slug": "himanka"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Ii", "s_city_slug": "ii"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Kalajoki", "s_city_slug": "kalajoki"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Karsamaki", "s_city_slug": "karsamaki"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Kempele", "s_city_slug": "kempele"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Kestila", "s_city_slug": "kestila"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Kiiminki", "s_city_slug": "kiiminki"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Kuivaniemi", "s_city_slug": "kuivaniemi"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Kuusamo", "s_city_slug": "kuusamo"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Liminka", "s_city_slug": "liminka"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Lumijoki", "s_city_slug": "lumijoki"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Merijarvi", "s_city_slug": "merijarvi"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Muhos", "s_city_slug": "muhos"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Nivala", "s_city_slug": "nivala"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Oulainen", "s_city_slug": "oulainen"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Oulu", "s_city_slug": "oulu"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Oulunsalo", "s_city_slug": "oulunsalo"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Piippola", "s_city_slug": "piippola"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Pudasjarvi", "s_city_slug": "pudasjarvi"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Pulkkila", "s_city_slug": "pulkkila"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Pyhajarvi", "s_city_slug": "pyhajarvi"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Pyhajoki", "s_city_slug": "pyhajoki"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Pyhanta", "s_city_slug": "pyhanta"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Raahe", "s_city_slug": "raahe"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Rantsila", "s_city_slug": "rantsila"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Reisjarvi", "s_city_slug": "reisjarvi"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Ruukki", "s_city_slug": "ruukki"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Sievi", "s_city_slug": "sievi"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Siikajoki", "s_city_slug": "siikajoki"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Taivalkoski", "s_city_slug": "taivalkoski"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Tyrnava", "s_city_slug": "tyrnava"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Utajarvi", "s_city_slug": "utajarvi"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Vihanti", "s_city_slug": "vihanti"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Yli-Ii", "s_city_slug": "yli-ii"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Ylikiiminki", "s_city_slug": "ylikiiminki"}, {"s_country_code": "FI", "s_region_slug": "northern-ostrobothnia", "s_city_name": "Ylivieska", "s_city_slug": "ylivieska"}]}, {"s_country_code": "FI", "s_region_name": "Northern Savonia", "s_region_slug": "northern-savonia", "cities": [{"s_country_code": "FI", "s_region_slug": "northern-savonia", "s_city_name": "Northern Savonia", "s_city_slug": "northern-savonia"}]}, {"s_country_code": "FI", "s_region_name": "Ostrobothnia", "s_region_slug": "ostrobothnia", "cities": [{"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Hietalahti", "s_city_slug": "hietalahti"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Isokyro", "s_city_slug": "isokyro"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Jakobstad", "s_city_slug": "jakobstad"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Kaskinen", "s_city_slug": "kaskinen"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Korsholm", "s_city_slug": "korsholm"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Korsnas", "s_city_slug": "korsnas"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Kristinestad", "s_city_slug": "kristinestad"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Kronoby", "s_city_slug": "kronoby"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Laihia", "s_city_slug": "laihia"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Larsmo", "s_city_slug": "larsmo"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Malax", "s_city_slug": "malax"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Nykarleby", "s_city_slug": "nykarleby"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Oravais", "s_city_slug": "oravais"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Pedersore", "s_city_slug": "pedersore"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Replot", "s_city_slug": "replot"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Ristinummi", "s_city_slug": "ristinummi"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Teeriniemi", "s_city_slug": "teeriniemi"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Vaasa", "s_city_slug": "vaasa"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Vahakyro", "s_city_slug": "vahakyro"}, {"s_country_code": "FI", "s_region_slug": "ostrobothnia", "s_city_name": "Vora", "s_city_slug": "vora"}]}, {"s_country_code": "FI", "s_region_name": "Oulu Province", "s_region_slug": "oulu-province", "cities": [{"s_country_code": "FI", "s_region_slug": "oulu-province", "s_city_name": "Oulu Province", "s_city_slug": "oulu-province"}]}, {"s_country_code": "FI", "s_region_name": "Paijanne Tavastia", "s_region_slug": "paijanne-tavastia", "cities": [{"s_country_code": "FI", "s_region_slug": "paijanne-tavastia", "s_city_name": "Artjarvi", "s_city_slug": "artjarvi"}, {"s_country_code": "FI", "s_region_slug": "paijanne-tavastia", "s_city_name": "Asikkala", "s_city_slug": "asikkala"}, {"s_country_code": "FI", "s_region_slug": "paijanne-tavastia", "s_city_name": "Auttoinen", "s_city_slug": "auttoinen"}, {"s_country_code": "FI", "s_region_slug": "paijanne-tavastia", "s_city_name": "Hameenkoski", "s_city_slug": "hameenkoski"}, {"s_country_code": "FI", "s_region_slug": "paijanne-tavastia", "s_city_name": "Hartola", "s_city_slug": "hartola"}, {"s_country_code": "FI", "s_region_slug": "paijanne-tavastia", "s_city_name": "Heinola", "s_city_slug": "heinola"}, {"s_country_code": "FI", "s_region_slug": "paijanne-tavastia", "s_city_name": "Hollola", "s_city_slug": "hollola"}, {"s_country_code": "FI", "s_region_slug": "paijanne-tavastia", "s_city_name": "Lahti", "s_city_slug": "lahti"}, {"s_country_code": "FI", "s_region_slug": "paijanne-tavastia", "s_city_name": "Nastola", "s_city_slug": "nastola"}, {"s_country_code": "FI", "s_region_slug": "paijanne-tavastia", "s_city_name": "Orimattila", "s_city_slug": "orimattila"}, {"s_country_code": "FI", "s_region_slug": "paijanne-tavastia", "s_city_name": "Padasjoki", "s_city_slug": "padasjoki"}, {"s_country_code": "FI", "s_region_slug": "paijanne-tavastia", "s_city_name": "Sysma", "s_city_slug": "sysma"}]}, {"s_country_code": "FI", "s_region_name": "Pirkanmaa", "s_region_slug": "pirkanmaa", "cities": [{"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Iisalmi", "s_city_slug": "iisalmi"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Juankoski", "s_city_slug": "juankoski"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Kaavi", "s_city_slug": "kaavi"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Kangaslampi", "s_city_slug": "kangaslampi"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Karttula", "s_city_slug": "karttula"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Keitele", "s_city_slug": "keitele"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Kiuruvesi", "s_city_slug": "kiuruvesi"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Kuopio", "s_city_slug": "kuopio"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Lapinlahti", "s_city_slug": "lapinlahti"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Leppavirta", "s_city_slug": "leppavirta"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Maaninka", "s_city_slug": "maaninka"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Nilsia", "s_city_slug": "nilsia"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Pielavesi", "s_city_slug": "pielavesi"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Rautalampi", "s_city_slug": "rautalampi"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Rautavaara", "s_city_slug": "rautavaara"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Siilinjarvi", "s_city_slug": "siilinjarvi"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Sonkajarvi", "s_city_slug": "sonkajarvi"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Suonenjoki", "s_city_slug": "suonenjoki"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Tervo", "s_city_slug": "tervo"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Tuusniemi", "s_city_slug": "tuusniemi"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Varkaus", "s_city_slug": "varkaus"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Varpaisjarvi", "s_city_slug": "varpaisjarvi"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Vehmersalmi", "s_city_slug": "vehmersalmi"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Vesanto", "s_city_slug": "vesanto"}, {"s_country_code": "FI", "s_region_slug": "pirkanmaa", "s_city_name": "Vierema", "s_city_slug": "vierema"}]}, {"s_country_code": "FI", "s_region_name": "Satakunta", "s_region_slug": "satakunta", "cities": [{"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Eura", "s_city_slug": "eura"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Eurajoki", "s_city_slug": "eurajoki"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Harjavalta", "s_city_slug": "harjavalta"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Huittinen", "s_city_slug": "huittinen"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Jamijarvi", "s_city_slug": "jamijarvi"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Kankaanpaa", "s_city_slug": "kankaanpaa"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Karvia", "s_city_slug": "karvia"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Kiukainen", "s_city_slug": "kiukainen"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Kokemaki", "s_city_slug": "kokemaki"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Koylio", "s_city_slug": "koylio"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Kullaa", "s_city_slug": "kullaa"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Langelmaki", "s_city_slug": "langelmaki"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Lappi", "s_city_slug": "lappi"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Lavia", "s_city_slug": "lavia"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Luvia", "s_city_slug": "luvia"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Merikarvia", "s_city_slug": "merikarvia"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Nakkila", "s_city_slug": "nakkila"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Noormarkku", "s_city_slug": "noormarkku"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Pomarkku", "s_city_slug": "pomarkku"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Pori", "s_city_slug": "pori"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Rauma", "s_city_slug": "rauma"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Sakyla", "s_city_slug": "sakyla"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Siikainen", "s_city_slug": "siikainen"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Ulvila", "s_city_slug": "ulvila"}, {"s_country_code": "FI", "s_region_slug": "satakunta", "s_city_name": "Vampula", "s_city_slug": "vampula"}]}, {"s_country_code": "FI", "s_region_name": "South Karelia", "s_region_slug": "south-karelia", "cities": [{"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Imatra", "s_city_slug": "imatra"}, {"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Joutseno", "s_city_slug": "joutseno"}, {"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Lappeenranta", "s_city_slug": "lappeenranta"}, {"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Lemi", "s_city_slug": "lemi"}, {"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Luumaki", "s_city_slug": "luumaki"}, {"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Nuijamaa", "s_city_slug": "nuijamaa"}, {"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Parikkala", "s_city_slug": "parikkala"}, {"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Rautjarvi", "s_city_slug": "rautjarvi"}, {"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Ruokolahti", "s_city_slug": "ruokolahti"}, {"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Saari", "s_city_slug": "saari"}, {"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Savitaipale", "s_city_slug": "savitaipale"}, {"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Taipalsaari", "s_city_slug": "taipalsaari"}, {"s_country_code": "FI", "s_region_slug": "south-karelia", "s_city_name": "Ylamaa", "s_city_slug": "ylamaa"}]}, {"s_country_code": "FI", "s_region_name": "Southern Ostrobothnia", "s_region_slug": "southern-ostrobothnia", "cities": [{"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Ahtari", "s_city_slug": "ahtari"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Alaharma", "s_city_slug": "alaharma"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Alajarvi", "s_city_slug": "alajarvi"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Alajarvi", "s_city_slug": "alajarvi"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Alavus", "s_city_slug": "alavus"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Evijarvi", "s_city_slug": "evijarvi"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Ilmajoki", "s_city_slug": "ilmajoki"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Isojoki", "s_city_slug": "isojoki"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Jalasjarvi", "s_city_slug": "jalasjarvi"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Jurva", "s_city_slug": "jurva"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Karijoki", "s_city_slug": "karijoki"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Kauhajoki", "s_city_slug": "kauhajoki"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Kauhava", "s_city_slug": "kauhava"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Kortesjarvi", "s_city_slug": "kortesjarvi"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Kuortane", "s_city_slug": "kuortane"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Kurikka", "s_city_slug": "kurikka"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Lappajarvi", "s_city_slug": "lappajarvi"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Lapua", "s_city_slug": "lapua"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Lehtimaki", "s_city_slug": "lehtimaki"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Nurmo", "s_city_slug": "nurmo"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Seinajoki", "s_city_slug": "seinajoki"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Soini", "s_city_slug": "soini"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Teuva", "s_city_slug": "teuva"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Toysa", "s_city_slug": "toysa"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Vimpeli", "s_city_slug": "vimpeli"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Yliharma", "s_city_slug": "yliharma"}, {"s_country_code": "FI", "s_region_slug": "southern-ostrobothnia", "s_city_name": "Ylistaro", "s_city_slug": "ylistaro"}]}, {"s_country_code": "FI", "s_region_name": "Southern Savonia", "s_region_slug": "southern-savonia", "cities": [{"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Enonkoski", "s_city_slug": "enonkoski"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Haukivuori", "s_city_slug": "haukivuori"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Heinavesi", "s_city_slug": "heinavesi"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Hirvensalmi", "s_city_slug": "hirvensalmi"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Jappila", "s_city_slug": "jappila"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Joroinen", "s_city_slug": "joroinen"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Juva", "s_city_slug": "juva"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Kangasniemi", "s_city_slug": "kangasniemi"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Kerimaki", "s_city_slug": "kerimaki"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Mantyharju", "s_city_slug": "mantyharju"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Mikkeli", "s_city_slug": "mikkeli"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Pertunmaa", "s_city_slug": "pertunmaa"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Pieksamaki", "s_city_slug": "pieksamaki"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Punkaharju", "s_city_slug": "punkaharju"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Puumala", "s_city_slug": "puumala"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Rantasalmi", "s_city_slug": "rantasalmi"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Ristiina", "s_city_slug": "ristiina"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Savonlinna", "s_city_slug": "savonlinna"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Savonranta", "s_city_slug": "savonranta"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Sulkava", "s_city_slug": "sulkava"}, {"s_country_code": "FI", "s_region_slug": "southern-savonia", "s_city_name": "Virtasalmi", "s_city_slug": "virtasalmi"}]}, {"s_country_code": "FI", "s_region_name": "Tavastia Proper", "s_region_slug": "tavastia-proper", "cities": [{"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Forssa", "s_city_slug": "forssa"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Hameenlinna", "s_city_slug": "hameenlinna"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Hauho", "s_city_slug": "hauho"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Hausjarvi", "s_city_slug": "hausjarvi"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Humppila", "s_city_slug": "humppila"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Janakkala", "s_city_slug": "janakkala"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Jokioinen", "s_city_slug": "jokioinen"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Kalvola", "s_city_slug": "kalvola"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Lammi", "s_city_slug": "lammi"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Loppi", "s_city_slug": "loppi"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Renko", "s_city_slug": "renko"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Riihimaki", "s_city_slug": "riihimaki"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Tammela", "s_city_slug": "tammela"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Tervakoski", "s_city_slug": "tervakoski"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Tuulos", "s_city_slug": "tuulos"}, {"s_country_code": "FI", "s_region_slug": "tavastia-proper", "s_city_name": "Ypaja", "s_city_slug": "ypaja"}]}, {"s_country_code": "FI", "s_region_name": "Uusimaa", "s_region_slug": "uusimaa", "cities": [{"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Askola", "s_city_slug": "askola"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Ekenas", "s_city_slug": "ekenas"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Espoo", "s_city_slug": "espoo"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Gumbole", "s_city_slug": "gumbole"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Hanko", "s_city_slug": "hanko"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Helsinki", "s_city_slug": "helsinki"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Hyvinge", "s_city_slug": "hyvinge"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Inga", "s_city_slug": "inga"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Jarvenpaa", "s_city_slug": "jarvenpaa"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Kaarela", "s_city_slug": "kaarela"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Kallio", "s_city_slug": "kallio"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Karis", "s_city_slug": "karis"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Karjalohja", "s_city_slug": "karjalohja"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Karkkila", "s_city_slug": "karkkila"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Karkola", "s_city_slug": "karkola"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Kauniainen", "s_city_slug": "kauniainen"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Kellokoski", "s_city_slug": "kellokoski"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Kerava", "s_city_slug": "kerava"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Kilo", "s_city_slug": "kilo"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Kirkkonummi", "s_city_slug": "kirkkonummi"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Koukkuniemi", "s_city_slug": "koukkuniemi"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Lapinjarvi", "s_city_slug": "lapinjarvi"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Lauttasaari", "s_city_slug": "lauttasaari"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Liljendal", "s_city_slug": "liljendal"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Lohja", "s_city_slug": "lohja"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Lovisa", "s_city_slug": "lovisa"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Mantsala", "s_city_slug": "mantsala"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Mellunkyla", "s_city_slug": "mellunkyla"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Munkkiniemi", "s_city_slug": "munkkiniemi"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Myrskyla", "s_city_slug": "myrskyla"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Nurmijarvi", "s_city_slug": "nurmijarvi"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Otaniemi", "s_city_slug": "otaniemi"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Perna", "s_city_slug": "perna"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Pohja", "s_city_slug": "pohja"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Pornainen", "s_city_slug": "pornainen"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Porvoo", "s_city_slug": "porvoo"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Pukkila", "s_city_slug": "pukkila"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Raaseporin", "s_city_slug": "raaseporin"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Ruotsinpyhtaa", "s_city_slug": "ruotsinpyhtaa"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Sammatti", "s_city_slug": "sammatti"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Sibbo", "s_city_slug": "sibbo"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Siuntio", "s_city_slug": "siuntio"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Tuusula", "s_city_slug": "tuusula"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Vantaa", "s_city_slug": "vantaa"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Vihti", "s_city_slug": "vihti"}, {"s_country_code": "FI", "s_region_slug": "uusimaa", "s_city_name": "Vuosaari", "s_city_slug": "vuosaari"}]}]}
+{
+    "s_country_code": "FI",
+    "s_country_name": "Finland",
+    "s_country_slug": "finland",
+    "regions": [
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Aland Islands",
+            "s_region_slug": "aland-islands",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "aland-islands",
+                    "s_city_name": "Aland Islands",
+                    "s_city_slug": "aland-islands"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Central Finland",
+            "s_region_slug": "central-finland",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Aanekoski",
+                    "s_city_slug": "aanekoski"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Hankasalmi",
+                    "s_city_slug": "hankasalmi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Jamsa",
+                    "s_city_slug": "jamsa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Jamsankoski",
+                    "s_city_slug": "jamsankoski"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Joutsa",
+                    "s_city_slug": "joutsa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Jyvaskyla",
+                    "s_city_slug": "jyvaskyla"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Kannonkoski",
+                    "s_city_slug": "kannonkoski"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Karstula",
+                    "s_city_slug": "karstula"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Keuruu",
+                    "s_city_slug": "keuruu"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Kinnula",
+                    "s_city_slug": "kinnula"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Kivijarvi",
+                    "s_city_slug": "kivijarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Konnevesi",
+                    "s_city_slug": "konnevesi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Korpilahti",
+                    "s_city_slug": "korpilahti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Kuhmoinen",
+                    "s_city_slug": "kuhmoinen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Kyyjarvi",
+                    "s_city_slug": "kyyjarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Laukaa",
+                    "s_city_slug": "laukaa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Leivonmaki",
+                    "s_city_slug": "leivonmaki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Luhanka",
+                    "s_city_slug": "luhanka"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Multia",
+                    "s_city_slug": "multia"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Muurame",
+                    "s_city_slug": "muurame"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Petajavesi",
+                    "s_city_slug": "petajavesi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Pihtipudas",
+                    "s_city_slug": "pihtipudas"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Pylkonmaki",
+                    "s_city_slug": "pylkonmaki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Saarijarvi",
+                    "s_city_slug": "saarijarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Saynatsalo",
+                    "s_city_slug": "saynatsalo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Sumiainen",
+                    "s_city_slug": "sumiainen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Suolahti",
+                    "s_city_slug": "suolahti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Toivakka",
+                    "s_city_slug": "toivakka"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Uurainen",
+                    "s_city_slug": "uurainen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-finland",
+                    "s_city_name": "Viitasaari",
+                    "s_city_slug": "viitasaari"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Central Ostrobothnia",
+            "s_region_slug": "central-ostrobothnia",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-ostrobothnia",
+                    "s_city_name": "Halsua",
+                    "s_city_slug": "halsua"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-ostrobothnia",
+                    "s_city_name": "Kalvia",
+                    "s_city_slug": "kalvia"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-ostrobothnia",
+                    "s_city_name": "Kannus",
+                    "s_city_slug": "kannus"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-ostrobothnia",
+                    "s_city_name": "Kaustinen",
+                    "s_city_slug": "kaustinen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-ostrobothnia",
+                    "s_city_name": "Kokkola",
+                    "s_city_slug": "kokkola"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-ostrobothnia",
+                    "s_city_name": "Lestijarvi",
+                    "s_city_slug": "lestijarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-ostrobothnia",
+                    "s_city_name": "Lohtaja",
+                    "s_city_slug": "lohtaja"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-ostrobothnia",
+                    "s_city_name": "Perho",
+                    "s_city_slug": "perho"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-ostrobothnia",
+                    "s_city_name": "Toholampi",
+                    "s_city_slug": "toholampi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-ostrobothnia",
+                    "s_city_name": "Ullava",
+                    "s_city_slug": "ullava"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "central-ostrobothnia",
+                    "s_city_name": "Veteli",
+                    "s_city_slug": "veteli"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Eastern Finland Province",
+            "s_region_slug": "eastern-finland-province",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "eastern-finland-province",
+                    "s_city_name": "Eastern Finland Province",
+                    "s_city_slug": "eastern-finland-province"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Finland Proper",
+            "s_region_slug": "finland-proper",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Alastaro",
+                    "s_city_slug": "alastaro"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Askainen",
+                    "s_city_slug": "askainen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Aura",
+                    "s_city_slug": "aura"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Dragsfjard",
+                    "s_city_slug": "dragsfjard"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Halikko",
+                    "s_city_slug": "halikko"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Houtskar",
+                    "s_city_slug": "houtskar"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Inio",
+                    "s_city_slug": "inio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Kaarina",
+                    "s_city_slug": "kaarina"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Karinainen",
+                    "s_city_slug": "karinainen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Kiikala",
+                    "s_city_slug": "kiikala"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Kimito",
+                    "s_city_slug": "kimito"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Kisko",
+                    "s_city_slug": "kisko"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Kustavi",
+                    "s_city_slug": "kustavi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Kuusjoki",
+                    "s_city_slug": "kuusjoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Laitila",
+                    "s_city_slug": "laitila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Lemu",
+                    "s_city_slug": "lemu"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Lieto",
+                    "s_city_slug": "lieto"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Marttila",
+                    "s_city_slug": "marttila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Masku",
+                    "s_city_slug": "masku"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Mellila",
+                    "s_city_slug": "mellila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Merimasku",
+                    "s_city_slug": "merimasku"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Mietoinen",
+                    "s_city_slug": "mietoinen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Muurla",
+                    "s_city_slug": "muurla"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Mynamaki",
+                    "s_city_slug": "mynamaki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Naantali",
+                    "s_city_slug": "naantali"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Nagu",
+                    "s_city_slug": "nagu"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Nousiainen",
+                    "s_city_slug": "nousiainen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Oripaa",
+                    "s_city_slug": "oripaa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Paimio",
+                    "s_city_slug": "paimio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Pargas",
+                    "s_city_slug": "pargas"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Pernio",
+                    "s_city_slug": "pernio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Pertteli",
+                    "s_city_slug": "pertteli"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Piikkio",
+                    "s_city_slug": "piikkio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Poytya",
+                    "s_city_slug": "poytya"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Pyharanta",
+                    "s_city_slug": "pyharanta"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Raisio",
+                    "s_city_slug": "raisio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Rusko",
+                    "s_city_slug": "rusko"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Rymattyla",
+                    "s_city_slug": "rymattyla"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Salo",
+                    "s_city_slug": "salo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Sarkisalo",
+                    "s_city_slug": "sarkisalo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Sauvo",
+                    "s_city_slug": "sauvo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Somero",
+                    "s_city_slug": "somero"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Suomusjarvi",
+                    "s_city_slug": "suomusjarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Taivassalo",
+                    "s_city_slug": "taivassalo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Tarvasjoki",
+                    "s_city_slug": "tarvasjoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Turku",
+                    "s_city_slug": "turku"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Uusikaupunki",
+                    "s_city_slug": "uusikaupunki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Vahto",
+                    "s_city_slug": "vahto"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Vastaboland",
+                    "s_city_slug": "vastaboland"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Vastanfjard",
+                    "s_city_slug": "vastanfjard"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Vehmaa",
+                    "s_city_slug": "vehmaa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Velkua",
+                    "s_city_slug": "velkua"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "finland-proper",
+                    "s_city_name": "Ylane",
+                    "s_city_slug": "ylane"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Kainuu",
+            "s_region_slug": "kainuu",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kainuu",
+                    "s_city_name": "Hyrynsalmi",
+                    "s_city_slug": "hyrynsalmi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kainuu",
+                    "s_city_name": "Kajaani",
+                    "s_city_slug": "kajaani"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kainuu",
+                    "s_city_name": "Kuhmo",
+                    "s_city_slug": "kuhmo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kainuu",
+                    "s_city_name": "Paltamo",
+                    "s_city_slug": "paltamo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kainuu",
+                    "s_city_name": "Puolanka",
+                    "s_city_slug": "puolanka"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kainuu",
+                    "s_city_name": "Ristijarvi",
+                    "s_city_slug": "ristijarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kainuu",
+                    "s_city_name": "Sotkamo",
+                    "s_city_slug": "sotkamo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kainuu",
+                    "s_city_name": "Suomussalmi",
+                    "s_city_slug": "suomussalmi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kainuu",
+                    "s_city_name": "Vaala",
+                    "s_city_slug": "vaala"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kainuu",
+                    "s_city_name": "Vuokatti",
+                    "s_city_slug": "vuokatti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kainuu",
+                    "s_city_name": "Vuolijoki",
+                    "s_city_slug": "vuolijoki"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Kymenlaakso",
+            "s_region_slug": "kymenlaakso",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kymenlaakso",
+                    "s_city_name": "Anjala",
+                    "s_city_slug": "anjala"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kymenlaakso",
+                    "s_city_name": "Elimaki",
+                    "s_city_slug": "elimaki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kymenlaakso",
+                    "s_city_name": "Hamina",
+                    "s_city_slug": "hamina"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kymenlaakso",
+                    "s_city_name": "Iitti",
+                    "s_city_slug": "iitti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kymenlaakso",
+                    "s_city_name": "Jaala",
+                    "s_city_slug": "jaala"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kymenlaakso",
+                    "s_city_name": "Karhula",
+                    "s_city_slug": "karhula"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kymenlaakso",
+                    "s_city_name": "Kotka",
+                    "s_city_slug": "kotka"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kymenlaakso",
+                    "s_city_name": "Kouvola",
+                    "s_city_slug": "kouvola"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kymenlaakso",
+                    "s_city_name": "Miehikkala",
+                    "s_city_slug": "miehikkala"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kymenlaakso",
+                    "s_city_name": "Pyhtaa",
+                    "s_city_slug": "pyhtaa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "kymenlaakso",
+                    "s_city_name": "Virojoki",
+                    "s_city_slug": "virojoki"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Lapland",
+            "s_region_slug": "lapland",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Enontekio",
+                    "s_city_slug": "enontekio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Inari",
+                    "s_city_slug": "inari"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Ivalo",
+                    "s_city_slug": "ivalo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Kemi",
+                    "s_city_slug": "kemi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Kemijarvi",
+                    "s_city_slug": "kemijarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Keminmaa",
+                    "s_city_slug": "keminmaa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Kittila",
+                    "s_city_slug": "kittila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Kolari",
+                    "s_city_slug": "kolari"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Muonio",
+                    "s_city_slug": "muonio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Pelkosenniemi",
+                    "s_city_slug": "pelkosenniemi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Pello",
+                    "s_city_slug": "pello"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Posio",
+                    "s_city_slug": "posio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Pyhajarvi",
+                    "s_city_slug": "pyhajarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Ranua",
+                    "s_city_slug": "ranua"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Rovaniemi",
+                    "s_city_slug": "rovaniemi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Salla",
+                    "s_city_slug": "salla"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Savukoski",
+                    "s_city_slug": "savukoski"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Simo",
+                    "s_city_slug": "simo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Sodankyla",
+                    "s_city_slug": "sodankyla"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Tervola",
+                    "s_city_slug": "tervola"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Tornio",
+                    "s_city_slug": "tornio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Utsjoki",
+                    "s_city_slug": "utsjoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "lapland",
+                    "s_city_name": "Ylitornio",
+                    "s_city_slug": "ylitornio"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "North Karelia",
+            "s_region_slug": "north-karelia",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Eno",
+                    "s_city_slug": "eno"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Ilomantsi",
+                    "s_city_slug": "ilomantsi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Joensuu",
+                    "s_city_slug": "joensuu"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Juuka",
+                    "s_city_slug": "juuka"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Kesalahti",
+                    "s_city_slug": "kesalahti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Kiihtelysvaara",
+                    "s_city_slug": "kiihtelysvaara"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Kitee",
+                    "s_city_slug": "kitee"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Kontiolahti",
+                    "s_city_slug": "kontiolahti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Lieksa",
+                    "s_city_slug": "lieksa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Liperi",
+                    "s_city_slug": "liperi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Nurmes",
+                    "s_city_slug": "nurmes"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Outokumpu",
+                    "s_city_slug": "outokumpu"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Polvijarvi",
+                    "s_city_slug": "polvijarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Pyhaselka",
+                    "s_city_slug": "pyhaselka"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Raakkyla",
+                    "s_city_slug": "raakkyla"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Tohmajarvi",
+                    "s_city_slug": "tohmajarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Tuupovaara",
+                    "s_city_slug": "tuupovaara"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "north-karelia",
+                    "s_city_name": "Valtimo",
+                    "s_city_slug": "valtimo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Northern Ostrobothnia",
+            "s_region_slug": "northern-ostrobothnia",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Alavieska",
+                    "s_city_slug": "alavieska"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Haapajarvi",
+                    "s_city_slug": "haapajarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Haapavesi",
+                    "s_city_slug": "haapavesi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Hailuoto",
+                    "s_city_slug": "hailuoto"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Haukipudas",
+                    "s_city_slug": "haukipudas"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Himanka",
+                    "s_city_slug": "himanka"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Ii",
+                    "s_city_slug": "ii"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Kalajoki",
+                    "s_city_slug": "kalajoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Karsamaki",
+                    "s_city_slug": "karsamaki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Kempele",
+                    "s_city_slug": "kempele"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Kestila",
+                    "s_city_slug": "kestila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Kiiminki",
+                    "s_city_slug": "kiiminki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Kuivaniemi",
+                    "s_city_slug": "kuivaniemi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Kuusamo",
+                    "s_city_slug": "kuusamo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Liminka",
+                    "s_city_slug": "liminka"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Lumijoki",
+                    "s_city_slug": "lumijoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Merijarvi",
+                    "s_city_slug": "merijarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Muhos",
+                    "s_city_slug": "muhos"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Nivala",
+                    "s_city_slug": "nivala"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Oulainen",
+                    "s_city_slug": "oulainen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Oulu",
+                    "s_city_slug": "oulu"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Oulunsalo",
+                    "s_city_slug": "oulunsalo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Piippola",
+                    "s_city_slug": "piippola"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Pudasjarvi",
+                    "s_city_slug": "pudasjarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Pulkkila",
+                    "s_city_slug": "pulkkila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Pyhajarvi",
+                    "s_city_slug": "pyhajarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Pyhajoki",
+                    "s_city_slug": "pyhajoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Pyhanta",
+                    "s_city_slug": "pyhanta"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Raahe",
+                    "s_city_slug": "raahe"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Rantsila",
+                    "s_city_slug": "rantsila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Reisjarvi",
+                    "s_city_slug": "reisjarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Ruukki",
+                    "s_city_slug": "ruukki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Sievi",
+                    "s_city_slug": "sievi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Siikajoki",
+                    "s_city_slug": "siikajoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Taivalkoski",
+                    "s_city_slug": "taivalkoski"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Tyrnava",
+                    "s_city_slug": "tyrnava"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Utajarvi",
+                    "s_city_slug": "utajarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Vihanti",
+                    "s_city_slug": "vihanti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Yli-Ii",
+                    "s_city_slug": "yli-ii"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Ylikiiminki",
+                    "s_city_slug": "ylikiiminki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-ostrobothnia",
+                    "s_city_name": "Ylivieska",
+                    "s_city_slug": "ylivieska"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Northern Savonia",
+            "s_region_slug": "northern-savonia",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "northern-savonia",
+                    "s_city_name": "Northern Savonia",
+                    "s_city_slug": "northern-savonia"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Ostrobothnia",
+            "s_region_slug": "ostrobothnia",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Hietalahti",
+                    "s_city_slug": "hietalahti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Isokyro",
+                    "s_city_slug": "isokyro"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Jakobstad",
+                    "s_city_slug": "jakobstad"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Kaskinen",
+                    "s_city_slug": "kaskinen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Korsholm",
+                    "s_city_slug": "korsholm"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Korsnas",
+                    "s_city_slug": "korsnas"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Kristinestad",
+                    "s_city_slug": "kristinestad"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Kronoby",
+                    "s_city_slug": "kronoby"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Laihia",
+                    "s_city_slug": "laihia"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Larsmo",
+                    "s_city_slug": "larsmo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Malax",
+                    "s_city_slug": "malax"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Nykarleby",
+                    "s_city_slug": "nykarleby"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Oravais",
+                    "s_city_slug": "oravais"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Pedersore",
+                    "s_city_slug": "pedersore"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Replot",
+                    "s_city_slug": "replot"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Ristinummi",
+                    "s_city_slug": "ristinummi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Teeriniemi",
+                    "s_city_slug": "teeriniemi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Vaasa",
+                    "s_city_slug": "vaasa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Vahakyro",
+                    "s_city_slug": "vahakyro"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "ostrobothnia",
+                    "s_city_name": "Vora",
+                    "s_city_slug": "vora"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Oulu Province",
+            "s_region_slug": "oulu-province",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "oulu-province",
+                    "s_city_name": "Oulu Province",
+                    "s_city_slug": "oulu-province"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Paijanne Tavastia",
+            "s_region_slug": "paijanne-tavastia",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "paijanne-tavastia",
+                    "s_city_name": "Artjarvi",
+                    "s_city_slug": "artjarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "paijanne-tavastia",
+                    "s_city_name": "Asikkala",
+                    "s_city_slug": "asikkala"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "paijanne-tavastia",
+                    "s_city_name": "Auttoinen",
+                    "s_city_slug": "auttoinen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "paijanne-tavastia",
+                    "s_city_name": "Hameenkoski",
+                    "s_city_slug": "hameenkoski"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "paijanne-tavastia",
+                    "s_city_name": "Hartola",
+                    "s_city_slug": "hartola"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "paijanne-tavastia",
+                    "s_city_name": "Heinola",
+                    "s_city_slug": "heinola"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "paijanne-tavastia",
+                    "s_city_name": "Hollola",
+                    "s_city_slug": "hollola"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "paijanne-tavastia",
+                    "s_city_name": "Lahti",
+                    "s_city_slug": "lahti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "paijanne-tavastia",
+                    "s_city_name": "Nastola",
+                    "s_city_slug": "nastola"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "paijanne-tavastia",
+                    "s_city_name": "Orimattila",
+                    "s_city_slug": "orimattila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "paijanne-tavastia",
+                    "s_city_name": "Padasjoki",
+                    "s_city_slug": "padasjoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "paijanne-tavastia",
+                    "s_city_name": "Sysma",
+                    "s_city_slug": "sysma"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Pirkanmaa",
+            "s_region_slug": "pirkanmaa",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Iisalmi",
+                    "s_city_slug": "iisalmi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Juankoski",
+                    "s_city_slug": "juankoski"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Kaavi",
+                    "s_city_slug": "kaavi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Kangaslampi",
+                    "s_city_slug": "kangaslampi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Karttula",
+                    "s_city_slug": "karttula"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Keitele",
+                    "s_city_slug": "keitele"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Kiuruvesi",
+                    "s_city_slug": "kiuruvesi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Kuopio",
+                    "s_city_slug": "kuopio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Lapinlahti",
+                    "s_city_slug": "lapinlahti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Leppavirta",
+                    "s_city_slug": "leppavirta"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Maaninka",
+                    "s_city_slug": "maaninka"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Nilsia",
+                    "s_city_slug": "nilsia"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Pielavesi",
+                    "s_city_slug": "pielavesi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Rautalampi",
+                    "s_city_slug": "rautalampi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Rautavaara",
+                    "s_city_slug": "rautavaara"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Siilinjarvi",
+                    "s_city_slug": "siilinjarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Sonkajarvi",
+                    "s_city_slug": "sonkajarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Suonenjoki",
+                    "s_city_slug": "suonenjoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Tervo",
+                    "s_city_slug": "tervo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Tuusniemi",
+                    "s_city_slug": "tuusniemi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Varkaus",
+                    "s_city_slug": "varkaus"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Varpaisjarvi",
+                    "s_city_slug": "varpaisjarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Vehmersalmi",
+                    "s_city_slug": "vehmersalmi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Vesanto",
+                    "s_city_slug": "vesanto"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "pirkanmaa",
+                    "s_city_name": "Vierema",
+                    "s_city_slug": "vierema"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Satakunta",
+            "s_region_slug": "satakunta",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Eura",
+                    "s_city_slug": "eura"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Eurajoki",
+                    "s_city_slug": "eurajoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Harjavalta",
+                    "s_city_slug": "harjavalta"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Huittinen",
+                    "s_city_slug": "huittinen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Jamijarvi",
+                    "s_city_slug": "jamijarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Kankaanpaa",
+                    "s_city_slug": "kankaanpaa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Karvia",
+                    "s_city_slug": "karvia"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Kiukainen",
+                    "s_city_slug": "kiukainen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Kokemaki",
+                    "s_city_slug": "kokemaki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Koylio",
+                    "s_city_slug": "koylio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Kullaa",
+                    "s_city_slug": "kullaa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Langelmaki",
+                    "s_city_slug": "langelmaki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Lappi",
+                    "s_city_slug": "lappi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Lavia",
+                    "s_city_slug": "lavia"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Luvia",
+                    "s_city_slug": "luvia"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Merikarvia",
+                    "s_city_slug": "merikarvia"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Nakkila",
+                    "s_city_slug": "nakkila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Noormarkku",
+                    "s_city_slug": "noormarkku"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Pomarkku",
+                    "s_city_slug": "pomarkku"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Pori",
+                    "s_city_slug": "pori"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Rauma",
+                    "s_city_slug": "rauma"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Sakyla",
+                    "s_city_slug": "sakyla"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Siikainen",
+                    "s_city_slug": "siikainen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Ulvila",
+                    "s_city_slug": "ulvila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "satakunta",
+                    "s_city_name": "Vampula",
+                    "s_city_slug": "vampula"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "South Karelia",
+            "s_region_slug": "south-karelia",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Imatra",
+                    "s_city_slug": "imatra"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Joutseno",
+                    "s_city_slug": "joutseno"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Lappeenranta",
+                    "s_city_slug": "lappeenranta"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Lemi",
+                    "s_city_slug": "lemi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Luumaki",
+                    "s_city_slug": "luumaki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Nuijamaa",
+                    "s_city_slug": "nuijamaa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Parikkala",
+                    "s_city_slug": "parikkala"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Rautjarvi",
+                    "s_city_slug": "rautjarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Ruokolahti",
+                    "s_city_slug": "ruokolahti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Saari",
+                    "s_city_slug": "saari"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Savitaipale",
+                    "s_city_slug": "savitaipale"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Taipalsaari",
+                    "s_city_slug": "taipalsaari"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "south-karelia",
+                    "s_city_name": "Ylamaa",
+                    "s_city_slug": "ylamaa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Southern Ostrobothnia",
+            "s_region_slug": "southern-ostrobothnia",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Ahtari",
+                    "s_city_slug": "ahtari"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Alaharma",
+                    "s_city_slug": "alaharma"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Alajarvi",
+                    "s_city_slug": "alajarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Alajarvi",
+                    "s_city_slug": "alajarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Alavus",
+                    "s_city_slug": "alavus"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Evijarvi",
+                    "s_city_slug": "evijarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Ilmajoki",
+                    "s_city_slug": "ilmajoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Isojoki",
+                    "s_city_slug": "isojoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Jalasjarvi",
+                    "s_city_slug": "jalasjarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Jurva",
+                    "s_city_slug": "jurva"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Karijoki",
+                    "s_city_slug": "karijoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Kauhajoki",
+                    "s_city_slug": "kauhajoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Kauhava",
+                    "s_city_slug": "kauhava"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Kortesjarvi",
+                    "s_city_slug": "kortesjarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Kuortane",
+                    "s_city_slug": "kuortane"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Kurikka",
+                    "s_city_slug": "kurikka"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Lappajarvi",
+                    "s_city_slug": "lappajarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Lapua",
+                    "s_city_slug": "lapua"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Lehtimaki",
+                    "s_city_slug": "lehtimaki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Nurmo",
+                    "s_city_slug": "nurmo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Seinajoki",
+                    "s_city_slug": "seinajoki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Soini",
+                    "s_city_slug": "soini"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Teuva",
+                    "s_city_slug": "teuva"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Toysa",
+                    "s_city_slug": "toysa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Vimpeli",
+                    "s_city_slug": "vimpeli"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Yliharma",
+                    "s_city_slug": "yliharma"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-ostrobothnia",
+                    "s_city_name": "Ylistaro",
+                    "s_city_slug": "ylistaro"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Southern Savonia",
+            "s_region_slug": "southern-savonia",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Enonkoski",
+                    "s_city_slug": "enonkoski"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Haukivuori",
+                    "s_city_slug": "haukivuori"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Heinavesi",
+                    "s_city_slug": "heinavesi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Hirvensalmi",
+                    "s_city_slug": "hirvensalmi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Jappila",
+                    "s_city_slug": "jappila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Joroinen",
+                    "s_city_slug": "joroinen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Juva",
+                    "s_city_slug": "juva"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Kangasniemi",
+                    "s_city_slug": "kangasniemi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Kerimaki",
+                    "s_city_slug": "kerimaki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Mantyharju",
+                    "s_city_slug": "mantyharju"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Mikkeli",
+                    "s_city_slug": "mikkeli"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Pertunmaa",
+                    "s_city_slug": "pertunmaa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Pieksamaki",
+                    "s_city_slug": "pieksamaki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Punkaharju",
+                    "s_city_slug": "punkaharju"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Puumala",
+                    "s_city_slug": "puumala"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Rantasalmi",
+                    "s_city_slug": "rantasalmi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Ristiina",
+                    "s_city_slug": "ristiina"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Savonlinna",
+                    "s_city_slug": "savonlinna"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Savonranta",
+                    "s_city_slug": "savonranta"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Sulkava",
+                    "s_city_slug": "sulkava"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "southern-savonia",
+                    "s_city_name": "Virtasalmi",
+                    "s_city_slug": "virtasalmi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Tavastia Proper",
+            "s_region_slug": "tavastia-proper",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Forssa",
+                    "s_city_slug": "forssa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Hameenlinna",
+                    "s_city_slug": "hameenlinna"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Hauho",
+                    "s_city_slug": "hauho"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Hausjarvi",
+                    "s_city_slug": "hausjarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Humppila",
+                    "s_city_slug": "humppila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Janakkala",
+                    "s_city_slug": "janakkala"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Jokioinen",
+                    "s_city_slug": "jokioinen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Kalvola",
+                    "s_city_slug": "kalvola"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Lammi",
+                    "s_city_slug": "lammi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Loppi",
+                    "s_city_slug": "loppi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Renko",
+                    "s_city_slug": "renko"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Riihimaki",
+                    "s_city_slug": "riihimaki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Tammela",
+                    "s_city_slug": "tammela"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Tervakoski",
+                    "s_city_slug": "tervakoski"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Tuulos",
+                    "s_city_slug": "tuulos"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "tavastia-proper",
+                    "s_city_name": "Ypaja",
+                    "s_city_slug": "ypaja"
+                }
+            ]
+        },
+        {
+            "s_country_code": "FI",
+            "s_region_name": "Uusimaa",
+            "s_region_slug": "uusimaa",
+            "cities": [
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Askola",
+                    "s_city_slug": "askola"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Ekenas",
+                    "s_city_slug": "ekenas"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Espoo",
+                    "s_city_slug": "espoo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Gumbole",
+                    "s_city_slug": "gumbole"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Hanko",
+                    "s_city_slug": "hanko"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Helsinki",
+                    "s_city_slug": "helsinki"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Hyvinge",
+                    "s_city_slug": "hyvinge"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Inga",
+                    "s_city_slug": "inga"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Jarvenpaa",
+                    "s_city_slug": "jarvenpaa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Kaarela",
+                    "s_city_slug": "kaarela"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Kallio",
+                    "s_city_slug": "kallio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Karis",
+                    "s_city_slug": "karis"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Karjalohja",
+                    "s_city_slug": "karjalohja"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Karkkila",
+                    "s_city_slug": "karkkila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Karkola",
+                    "s_city_slug": "karkola"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Kauniainen",
+                    "s_city_slug": "kauniainen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Kellokoski",
+                    "s_city_slug": "kellokoski"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Kerava",
+                    "s_city_slug": "kerava"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Kilo",
+                    "s_city_slug": "kilo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Kirkkonummi",
+                    "s_city_slug": "kirkkonummi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Koukkuniemi",
+                    "s_city_slug": "koukkuniemi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Lapinjarvi",
+                    "s_city_slug": "lapinjarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Lauttasaari",
+                    "s_city_slug": "lauttasaari"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Liljendal",
+                    "s_city_slug": "liljendal"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Lohja",
+                    "s_city_slug": "lohja"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Lovisa",
+                    "s_city_slug": "lovisa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Mantsala",
+                    "s_city_slug": "mantsala"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Mellunkyla",
+                    "s_city_slug": "mellunkyla"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Munkkiniemi",
+                    "s_city_slug": "munkkiniemi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Myrskyla",
+                    "s_city_slug": "myrskyla"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Nurmijarvi",
+                    "s_city_slug": "nurmijarvi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Otaniemi",
+                    "s_city_slug": "otaniemi"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Perna",
+                    "s_city_slug": "perna"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Pohja",
+                    "s_city_slug": "pohja"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Pornainen",
+                    "s_city_slug": "pornainen"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Porvoo",
+                    "s_city_slug": "porvoo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Pukkila",
+                    "s_city_slug": "pukkila"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Raaseporin",
+                    "s_city_slug": "raaseporin"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Ruotsinpyhtaa",
+                    "s_city_slug": "ruotsinpyhtaa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Sammatti",
+                    "s_city_slug": "sammatti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Sibbo",
+                    "s_city_slug": "sibbo"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Siuntio",
+                    "s_city_slug": "siuntio"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Tuusula",
+                    "s_city_slug": "tuusula"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Vantaa",
+                    "s_city_slug": "vantaa"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Vihti",
+                    "s_city_slug": "vihti"
+                },
+                {
+                    "s_country_code": "FI",
+                    "s_region_slug": "uusimaa",
+                    "s_city_name": "Vuosaari",
+                    "s_city_slug": "vuosaari"
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,455 @@
-{"s_country_code": "TJ", "s_country_name": "Tajikistan", "s_country_slug": "tajikistan", "regions": [{"s_country_code": "TJ", "s_region_name": "Gorno-Badakhshan Autonomous Province", "s_region_slug": "gorno-badakhshan-autonomous-province", "cities": [{"s_country_code": "TJ", "s_region_slug": "gorno-badakhshan-autonomous-province", "s_city_name": "Ishqoshim", "s_city_slug": "ishqoshim"}, {"s_country_code": "TJ", "s_region_slug": "gorno-badakhshan-autonomous-province", "s_city_name": "Khorugh", "s_city_slug": "khorugh"}, {"s_country_code": "TJ", "s_region_slug": "gorno-badakhshan-autonomous-province", "s_city_name": "Murghob", "s_city_slug": "murghob"}, {"s_country_code": "TJ", "s_region_slug": "gorno-badakhshan-autonomous-province", "s_city_name": "Nohiyai Shughnon", "s_city_slug": "nohiyai-shughnon"}]}, {"s_country_code": "TJ", "s_region_name": "Khatlon Province", "s_region_slug": "khatlon-province", "cities": [{"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Abdurahmoni Jomi", "s_city_slug": "abdurahmoni-jomi"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Boshchorbogh", "s_city_slug": "boshchorbogh"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Bustonqala", "s_city_slug": "bustonqala"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Chubek", "s_city_slug": "chubek"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Danghara", "s_city_slug": "danghara"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Dusti", "s_city_slug": "dusti"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Farkhor", "s_city_slug": "farkhor"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Gharavuti", "s_city_slug": "gharavuti"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Jilikul", "s_city_slug": "jilikul"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Kirov", "s_city_slug": "kirov"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Kolkhozobod", "s_city_slug": "kolkhozobod"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Kulob", "s_city_slug": "kulob"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Moskovskiy", "s_city_slug": "moskovskiy"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Muminobod", "s_city_slug": "muminobod"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Nohiyai Kolkhozobod", "s_city_slug": "nohiyai-kolkhozobod"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Nohiyai Panj", "s_city_slug": "nohiyai-panj"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Nohiyai Vakhsh", "s_city_slug": "nohiyai-vakhsh"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Norak", "s_city_slug": "norak"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Orzu", "s_city_slug": "orzu"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Panj", "s_city_slug": "panj"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Qurghonteppa", "s_city_slug": "qurghonteppa"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Shahritus", "s_city_slug": "shahritus"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Sovet", "s_city_slug": "sovet"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Tartiki", "s_city_slug": "tartiki"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Vakhsh", "s_city_slug": "vakhsh"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Vose", "s_city_slug": "vose"}, {"s_country_code": "TJ", "s_region_slug": "khatlon-province", "s_city_name": "Yovon", "s_city_slug": "yovon"}]}, {"s_country_code": "TJ", "s_region_name": "Sughd Province", "s_region_slug": "sughd-province", "cities": [{"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Adrasmon", "s_city_slug": "adrasmon"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Ayni", "s_city_slug": "ayni"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Buston", "s_city_slug": "buston"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Chkalov", "s_city_slug": "chkalov"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Ghafurov", "s_city_slug": "ghafurov"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Isfara", "s_city_slug": "isfara"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Istaravshan", "s_city_slug": "istaravshan"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Khujand", "s_city_slug": "khujand"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Kim", "s_city_slug": "kim"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Konibodom", "s_city_slug": "konibodom"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Konsoy", "s_city_slug": "konsoy"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Neftobod", "s_city_slug": "neftobod"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Nohiyai Konibodom", "s_city_slug": "nohiyai-konibodom"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Nov", "s_city_slug": "nov"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Oltintopkan", "s_city_slug": "oltintopkan"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Pakhtakoron", "s_city_slug": "pakhtakoron"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Palos", "s_city_slug": "palos"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Panjakent", "s_city_slug": "panjakent"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Proletar", "s_city_slug": "proletar"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Quruqsoy", "s_city_slug": "quruqsoy"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Shaydon", "s_city_slug": "shaydon"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Shurob", "s_city_slug": "shurob"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Taboshar", "s_city_slug": "taboshar"}, {"s_country_code": "TJ", "s_region_slug": "sughd-province", "s_city_name": "Vorukh", "s_city_slug": "vorukh"}]}, {"s_country_code": "TJ", "s_region_name": "districts of Republican Subordination", "s_region_slug": "districts-of-republican-subordination", "cities": [{"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Darband", "s_city_slug": "darband"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Hisor", "s_city_slug": "hisor"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Karakenja", "s_city_slug": "karakenja"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Khodzha-Maston", "s_city_slug": "khodzha-maston"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Novobod", "s_city_slug": "novobod"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Obigarm", "s_city_slug": "obigarm"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Rasht", "s_city_slug": "rasht"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Roghun", "s_city_slug": "roghun"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Shahrinav", "s_city_slug": "shahrinav"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Tagob", "s_city_slug": "tagob"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Tursunzoda", "s_city_slug": "tursunzoda"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Vahdat", "s_city_slug": "vahdat"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Vahdat District", "s_city_slug": "vahdat-district"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Varzob", "s_city_slug": "varzob"}, {"s_country_code": "TJ", "s_region_slug": "districts-of-republican-subordination", "s_city_name": "Varzob District", "s_city_slug": "varzob-district"}]}]}
+{
+    "s_country_code": "TJ",
+    "s_country_name": "Tajikistan",
+    "s_country_slug": "tajikistan",
+    "regions": [
+        {
+            "s_country_code": "TJ",
+            "s_region_name": "Gorno-Badakhshan Autonomous Province",
+            "s_region_slug": "gorno-badakhshan-autonomous-province",
+            "cities": [
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "gorno-badakhshan-autonomous-province",
+                    "s_city_name": "Ishqoshim",
+                    "s_city_slug": "ishqoshim"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "gorno-badakhshan-autonomous-province",
+                    "s_city_name": "Khorugh",
+                    "s_city_slug": "khorugh"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "gorno-badakhshan-autonomous-province",
+                    "s_city_name": "Murghob",
+                    "s_city_slug": "murghob"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "gorno-badakhshan-autonomous-province",
+                    "s_city_name": "Nohiyai Shughnon",
+                    "s_city_slug": "nohiyai-shughnon"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TJ",
+            "s_region_name": "Khatlon Province",
+            "s_region_slug": "khatlon-province",
+            "cities": [
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Abdurahmoni Jomi",
+                    "s_city_slug": "abdurahmoni-jomi"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Boshchorbogh",
+                    "s_city_slug": "boshchorbogh"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Bustonqala",
+                    "s_city_slug": "bustonqala"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Chubek",
+                    "s_city_slug": "chubek"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Danghara",
+                    "s_city_slug": "danghara"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Dusti",
+                    "s_city_slug": "dusti"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Farkhor",
+                    "s_city_slug": "farkhor"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Gharavuti",
+                    "s_city_slug": "gharavuti"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Jilikul",
+                    "s_city_slug": "jilikul"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Kirov",
+                    "s_city_slug": "kirov"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Kolkhozobod",
+                    "s_city_slug": "kolkhozobod"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Kulob",
+                    "s_city_slug": "kulob"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Moskovskiy",
+                    "s_city_slug": "moskovskiy"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Muminobod",
+                    "s_city_slug": "muminobod"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Nohiyai Kolkhozobod",
+                    "s_city_slug": "nohiyai-kolkhozobod"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Nohiyai Panj",
+                    "s_city_slug": "nohiyai-panj"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Nohiyai Vakhsh",
+                    "s_city_slug": "nohiyai-vakhsh"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Norak",
+                    "s_city_slug": "norak"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Orzu",
+                    "s_city_slug": "orzu"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Panj",
+                    "s_city_slug": "panj"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Qurghonteppa",
+                    "s_city_slug": "qurghonteppa"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Shahritus",
+                    "s_city_slug": "shahritus"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Sovet",
+                    "s_city_slug": "sovet"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Tartiki",
+                    "s_city_slug": "tartiki"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Vakhsh",
+                    "s_city_slug": "vakhsh"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Vose",
+                    "s_city_slug": "vose"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "khatlon-province",
+                    "s_city_name": "Yovon",
+                    "s_city_slug": "yovon"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TJ",
+            "s_region_name": "Sughd Province",
+            "s_region_slug": "sughd-province",
+            "cities": [
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Adrasmon",
+                    "s_city_slug": "adrasmon"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Ayni",
+                    "s_city_slug": "ayni"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Buston",
+                    "s_city_slug": "buston"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Chkalov",
+                    "s_city_slug": "chkalov"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Ghafurov",
+                    "s_city_slug": "ghafurov"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Isfara",
+                    "s_city_slug": "isfara"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Istaravshan",
+                    "s_city_slug": "istaravshan"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Khujand",
+                    "s_city_slug": "khujand"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Kim",
+                    "s_city_slug": "kim"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Konibodom",
+                    "s_city_slug": "konibodom"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Konsoy",
+                    "s_city_slug": "konsoy"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Neftobod",
+                    "s_city_slug": "neftobod"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Nohiyai Konibodom",
+                    "s_city_slug": "nohiyai-konibodom"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Nov",
+                    "s_city_slug": "nov"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Oltintopkan",
+                    "s_city_slug": "oltintopkan"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Pakhtakoron",
+                    "s_city_slug": "pakhtakoron"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Palos",
+                    "s_city_slug": "palos"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Panjakent",
+                    "s_city_slug": "panjakent"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Proletar",
+                    "s_city_slug": "proletar"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Quruqsoy",
+                    "s_city_slug": "quruqsoy"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Shaydon",
+                    "s_city_slug": "shaydon"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Shurob",
+                    "s_city_slug": "shurob"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Taboshar",
+                    "s_city_slug": "taboshar"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "sughd-province",
+                    "s_city_name": "Vorukh",
+                    "s_city_slug": "vorukh"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TJ",
+            "s_region_name": "districts of Republican Subordination",
+            "s_region_slug": "districts-of-republican-subordination",
+            "cities": [
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Darband",
+                    "s_city_slug": "darband"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Hisor",
+                    "s_city_slug": "hisor"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Karakenja",
+                    "s_city_slug": "karakenja"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Khodzha-Maston",
+                    "s_city_slug": "khodzha-maston"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Novobod",
+                    "s_city_slug": "novobod"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Obigarm",
+                    "s_city_slug": "obigarm"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Rasht",
+                    "s_city_slug": "rasht"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Roghun",
+                    "s_city_slug": "roghun"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Shahrinav",
+                    "s_city_slug": "shahrinav"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Tagob",
+                    "s_city_slug": "tagob"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Tursunzoda",
+                    "s_city_slug": "tursunzoda"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Vahdat",
+                    "s_city_slug": "vahdat"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Vahdat District",
+                    "s_city_slug": "vahdat-district"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Varzob",
+                    "s_city_slug": "varzob"
+                },
+                {
+                    "s_country_code": "TJ",
+                    "s_region_slug": "districts-of-republican-subordination",
+                    "s_city_name": "Varzob District",
+                    "s_city_slug": "varzob-district"
+                }
+            ]
+        }
+    ]
+}

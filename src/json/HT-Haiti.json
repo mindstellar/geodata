@@ -1,1 +1,821 @@
-{"s_country_code": "HT", "s_country_name": "Haiti", "s_country_slug": "haiti", "regions": [{"s_country_code": "HT", "s_region_name": "Artibonite", "s_region_slug": "artibonite", "cities": [{"s_country_code": "HT", "s_region_slug": "artibonite", "s_city_name": "Anse Rouge", "s_city_slug": "anse-rouge"}, {"s_country_code": "HT", "s_region_slug": "artibonite", "s_city_name": "Arrondissement de Saint-Marc", "s_city_slug": "arrondissement-de-saint-marc"}, {"s_country_code": "HT", "s_region_slug": "artibonite", "s_city_name": "Desarmes", "s_city_slug": "desarmes"}, {"s_country_code": "HT", "s_region_slug": "artibonite", "s_city_name": "Dessalines", "s_city_slug": "dessalines"}, {"s_country_code": "HT", "s_region_slug": "artibonite", "s_city_name": "Ennery", "s_city_slug": "ennery"}, {"s_country_code": "HT", "s_region_slug": "artibonite", "s_city_name": "Gonaives", "s_city_slug": "gonaives"}, {"s_country_code": "HT", "s_region_slug": "artibonite", "s_city_name": "Grande Saline", "s_city_slug": "grande-saline"}, {"s_country_code": "HT", "s_region_slug": "artibonite", "s_city_name": "Gros Morne", "s_city_slug": "gros-morne"}, {"s_country_code": "HT", "s_region_slug": "artibonite", "s_city_name": "Marmelade", "s_city_slug": "marmelade"}, {"s_country_code": "HT", "s_region_slug": "artibonite", "s_city_name": "Saint-Marc", "s_city_slug": "saint-marc"}, {"s_country_code": "HT", "s_region_slug": "artibonite", "s_city_name": "Verrettes", "s_city_slug": "verrettes"}]}, {"s_country_code": "HT", "s_region_name": "Centre", "s_region_slug": "centre", "cities": [{"s_country_code": "HT", "s_region_slug": "centre", "s_city_name": "Arrondissement de Cerca La Source", "s_city_slug": "arrondissement-de-cerca-la-source"}, {"s_country_code": "HT", "s_region_slug": "centre", "s_city_name": "Cerca la Source", "s_city_slug": "cerca-la-source"}, {"s_country_code": "HT", "s_region_slug": "centre", "s_city_name": "Hinche", "s_city_slug": "hinche"}, {"s_country_code": "HT", "s_region_slug": "centre", "s_city_name": "Lascahobas", "s_city_slug": "lascahobas"}, {"s_country_code": "HT", "s_region_slug": "centre", "s_city_name": "Mayisad", "s_city_slug": "mayisad"}, {"s_country_code": "HT", "s_region_slug": "centre", "s_city_name": "Mirebalais", "s_city_slug": "mirebalais"}, {"s_country_code": "HT", "s_region_slug": "centre", "s_city_name": "Thomassique", "s_city_slug": "thomassique"}, {"s_country_code": "HT", "s_region_slug": "centre", "s_city_name": "Thomonde", "s_city_slug": "thomonde"}]}, {"s_country_code": "HT", "s_region_name": "Grand'Anse", "s_region_slug": "grandanse", "cities": [{"s_country_code": "HT", "s_region_slug": "grandanse", "s_city_name": "Anse-a-Veau", "s_city_slug": "anse-a-veau"}, {"s_country_code": "HT", "s_region_slug": "grandanse", "s_city_name": "Chambellan", "s_city_slug": "chambellan"}, {"s_country_code": "HT", "s_region_slug": "grandanse", "s_city_name": "Corail", "s_city_slug": "corail"}, {"s_country_code": "HT", "s_region_slug": "grandanse", "s_city_name": "Dame-Marie", "s_city_slug": "dame-marie"}, {"s_country_code": "HT", "s_region_slug": "grandanse", "s_city_name": "Jeremi", "s_city_slug": "jeremi"}, {"s_country_code": "HT", "s_region_slug": "grandanse", "s_city_name": "Jeremie", "s_city_slug": "jeremie"}, {"s_country_code": "HT", "s_region_slug": "grandanse", "s_city_name": "Les Abricots", "s_city_slug": "les-abricots"}, {"s_country_code": "HT", "s_region_slug": "grandanse", "s_city_name": "Les Irois", "s_city_slug": "les-irois"}, {"s_country_code": "HT", "s_region_slug": "grandanse", "s_city_name": "Moron", "s_city_slug": "moron"}, {"s_country_code": "HT", "s_region_slug": "grandanse", "s_city_name": "Petite Riviere de Nippes", "s_city_slug": "petite-riviere-de-nippes"}]}, {"s_country_code": "HT", "s_region_name": "Nippes", "s_region_slug": "nippes", "cities": [{"s_country_code": "HT", "s_region_slug": "nippes", "s_city_name": "Ansavo", "s_city_slug": "ansavo"}, {"s_country_code": "HT", "s_region_slug": "nippes", "s_city_name": "Baraderes", "s_city_slug": "baraderes"}, {"s_country_code": "HT", "s_region_slug": "nippes", "s_city_name": "Miragoane", "s_city_slug": "miragoane"}, {"s_country_code": "HT", "s_region_slug": "nippes", "s_city_name": "Petit Trou de Nippes", "s_city_slug": "petit-trou-de-nippes"}]}, {"s_country_code": "HT", "s_region_name": "Nord", "s_region_slug": "nord", "cities": [{"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Acul du Nord", "s_city_slug": "acul-du-nord"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Arrondissement de la Grande Riviere du Nord", "s_city_slug": "arrondissement-de-la-grande-riviere-du-nord"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Arrondissement de Plaisance", "s_city_slug": "arrondissement-de-plaisance"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Arrondissement du Borgne", "s_city_slug": "arrondissement-du-borgne"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Bahon", "s_city_slug": "bahon"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Borgne", "s_city_slug": "borgne"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Dondon", "s_city_slug": "dondon"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Grande Riviere du Nord", "s_city_slug": "grande-riviere-du-nord"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Lenbe", "s_city_slug": "lenbe"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Limonade", "s_city_slug": "limonade"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Milot", "s_city_slug": "milot"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Okap", "s_city_slug": "okap"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Pignon", "s_city_slug": "pignon"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Pilate", "s_city_slug": "pilate"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Plaine du Nord", "s_city_slug": "plaine-du-nord"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Plaisance", "s_city_slug": "plaisance"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Port-Margot", "s_city_slug": "port-margot"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Quartier Morin", "s_city_slug": "quartier-morin"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Ranquitte", "s_city_slug": "ranquitte"}, {"s_country_code": "HT", "s_region_slug": "nord", "s_city_name": "Saint-Raphael", "s_city_slug": "saint-raphael"}]}, {"s_country_code": "HT", "s_region_name": "Nord-Est", "s_region_slug": "nord-est", "cities": [{"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Arrondissement de Fort Liberte", "s_city_slug": "arrondissement-de-fort-liberte"}, {"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Arrondissement du Trou du Nord", "s_city_slug": "arrondissement-du-trou-du-nord"}, {"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Caracol", "s_city_slug": "caracol"}, {"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Carice", "s_city_slug": "carice"}, {"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Derac", "s_city_slug": "derac"}, {"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Ferrier", "s_city_slug": "ferrier"}, {"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Fort Liberte", "s_city_slug": "fort-liberte"}, {"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Montorganize", "s_city_slug": "montorganize"}, {"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Ouanaminthe", "s_city_slug": "ouanaminthe"}, {"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Perches", "s_city_slug": "perches"}, {"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Phaeton", "s_city_slug": "phaeton"}, {"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Trou du Nord", "s_city_slug": "trou-du-nord"}, {"s_country_code": "HT", "s_region_slug": "nord-est", "s_city_name": "Wanament", "s_city_slug": "wanament"}]}, {"s_country_code": "HT", "s_region_name": "Nord-Ouest", "s_region_slug": "nord-ouest", "cities": [{"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Arcahaie", "s_city_slug": "arcahaie"}, {"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Arrondissement de Port-de-Paix", "s_city_slug": "arrondissement-de-port-de-paix"}, {"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Arrondissement de Saint-Louis du Nord", "s_city_slug": "arrondissement-de-saint-louis-du-nord"}, {"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Arrondissement du Mole Saint-Nicolas", "s_city_slug": "arrondissement-du-mole-saint-nicolas"}, {"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Baie de Henne", "s_city_slug": "baie-de-henne"}, {"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Bombardopolis", "s_city_slug": "bombardopolis"}, {"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Fond Bassin Bleu", "s_city_slug": "fond-bassin-bleu"}, {"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Jean-Rabel", "s_city_slug": "jean-rabel"}, {"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Mole Saint-Nicolas", "s_city_slug": "mole-saint-nicolas"}, {"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Petite Anse", "s_city_slug": "petite-anse"}, {"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Port-de-Paix", "s_city_slug": "port-de-paix"}, {"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Saint-Louis du Nord", "s_city_slug": "saint-louis-du-nord"}, {"s_country_code": "HT", "s_region_slug": "nord-ouest", "s_city_name": "Ti Port-de-Paix", "s_city_slug": "ti-port-de-paix"}]}, {"s_country_code": "HT", "s_region_name": "Ouest", "s_region_slug": "ouest", "cities": [{"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Anse a Galets", "s_city_slug": "anse-a-galets"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Arcahaie", "s_city_slug": "arcahaie"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Arrondissement de Croix des Bouquets", "s_city_slug": "arrondissement-de-croix-des-bouquets"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Arrondissement de Leogane", "s_city_slug": "arrondissement-de-leogane"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Arrondissement de Port-au-Prince", "s_city_slug": "arrondissement-de-port-au-prince"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Cabaret", "s_city_slug": "cabaret"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Carrefour", "s_city_slug": "carrefour"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Cornillon", "s_city_slug": "cornillon"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Croix-des-Bouquets", "s_city_slug": "croix-des-bouquets"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Delmas 73", "s_city_slug": "delmas-73"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Fond Parisien", "s_city_slug": "fond-parisien"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Fonds Verrettes", "s_city_slug": "fonds-verrettes"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Grangwav", "s_city_slug": "grangwav"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Gressier", "s_city_slug": "gressier"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Kenscoff", "s_city_slug": "kenscoff"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Lagonav", "s_city_slug": "lagonav"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Leogane", "s_city_slug": "leogane"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Petionville", "s_city_slug": "petionville"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Port-au-Prince", "s_city_slug": "port-au-prince"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Thomazeau", "s_city_slug": "thomazeau"}, {"s_country_code": "HT", "s_region_slug": "ouest", "s_city_name": "Tigwav", "s_city_slug": "tigwav"}]}, {"s_country_code": "HT", "s_region_name": "Sud", "s_region_slug": "sud", "cities": [{"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Aquin", "s_city_slug": "aquin"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Arrondissement de Port-Salut", "s_city_slug": "arrondissement-de-port-salut"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Arrondissement des Cayes", "s_city_slug": "arrondissement-des-cayes"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Cavaillon", "s_city_slug": "cavaillon"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Chantal", "s_city_slug": "chantal"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Chardonniere", "s_city_slug": "chardonniere"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Fond des Blancs", "s_city_slug": "fond-des-blancs"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Koto", "s_city_slug": "koto"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Les Anglais", "s_city_slug": "les-anglais"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Les Cayes", "s_city_slug": "les-cayes"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Port-a-Piment", "s_city_slug": "port-a-piment"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Roche-a-Bateau", "s_city_slug": "roche-a-bateau"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Saint-Louis du Sud", "s_city_slug": "saint-louis-du-sud"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Tiburon", "s_city_slug": "tiburon"}, {"s_country_code": "HT", "s_region_slug": "sud", "s_city_name": "Torbeck", "s_city_slug": "torbeck"}]}, {"s_country_code": "HT", "s_region_name": "Sud-Est", "s_region_slug": "sud-est", "cities": [{"s_country_code": "HT", "s_region_slug": "sud-est", "s_city_name": "Anse-a-Pitre", "s_city_slug": "anse-a-pitre"}, {"s_country_code": "HT", "s_region_slug": "sud-est", "s_city_name": "Arrondissement de Bainet", "s_city_slug": "arrondissement-de-bainet"}, {"s_country_code": "HT", "s_region_slug": "sud-est", "s_city_name": "Arrondissement de Jacmel", "s_city_slug": "arrondissement-de-jacmel"}, {"s_country_code": "HT", "s_region_slug": "sud-est", "s_city_name": "Belle-Anse", "s_city_slug": "belle-anse"}, {"s_country_code": "HT", "s_region_slug": "sud-est", "s_city_name": "Cayes-Jacmel", "s_city_slug": "cayes-jacmel"}, {"s_country_code": "HT", "s_region_slug": "sud-est", "s_city_name": "Jacmel", "s_city_slug": "jacmel"}, {"s_country_code": "HT", "s_region_slug": "sud-est", "s_city_name": "Kotdefe", "s_city_slug": "kotdefe"}, {"s_country_code": "HT", "s_region_slug": "sud-est", "s_city_name": "Marigot", "s_city_slug": "marigot"}, {"s_country_code": "HT", "s_region_slug": "sud-est", "s_city_name": "Thiotte", "s_city_slug": "thiotte"}]}]}
+{
+    "s_country_code": "HT",
+    "s_country_name": "Haiti",
+    "s_country_slug": "haiti",
+    "regions": [
+        {
+            "s_country_code": "HT",
+            "s_region_name": "Artibonite",
+            "s_region_slug": "artibonite",
+            "cities": [
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "artibonite",
+                    "s_city_name": "Anse Rouge",
+                    "s_city_slug": "anse-rouge"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "artibonite",
+                    "s_city_name": "Arrondissement de Saint-Marc",
+                    "s_city_slug": "arrondissement-de-saint-marc"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "artibonite",
+                    "s_city_name": "Desarmes",
+                    "s_city_slug": "desarmes"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "artibonite",
+                    "s_city_name": "Dessalines",
+                    "s_city_slug": "dessalines"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "artibonite",
+                    "s_city_name": "Ennery",
+                    "s_city_slug": "ennery"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "artibonite",
+                    "s_city_name": "Gonaives",
+                    "s_city_slug": "gonaives"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "artibonite",
+                    "s_city_name": "Grande Saline",
+                    "s_city_slug": "grande-saline"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "artibonite",
+                    "s_city_name": "Gros Morne",
+                    "s_city_slug": "gros-morne"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "artibonite",
+                    "s_city_name": "Marmelade",
+                    "s_city_slug": "marmelade"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "artibonite",
+                    "s_city_name": "Saint-Marc",
+                    "s_city_slug": "saint-marc"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "artibonite",
+                    "s_city_name": "Verrettes",
+                    "s_city_slug": "verrettes"
+                }
+            ]
+        },
+        {
+            "s_country_code": "HT",
+            "s_region_name": "Centre",
+            "s_region_slug": "centre",
+            "cities": [
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "centre",
+                    "s_city_name": "Arrondissement de Cerca La Source",
+                    "s_city_slug": "arrondissement-de-cerca-la-source"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "centre",
+                    "s_city_name": "Cerca la Source",
+                    "s_city_slug": "cerca-la-source"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "centre",
+                    "s_city_name": "Hinche",
+                    "s_city_slug": "hinche"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "centre",
+                    "s_city_name": "Lascahobas",
+                    "s_city_slug": "lascahobas"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "centre",
+                    "s_city_name": "Mayisad",
+                    "s_city_slug": "mayisad"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "centre",
+                    "s_city_name": "Mirebalais",
+                    "s_city_slug": "mirebalais"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "centre",
+                    "s_city_name": "Thomassique",
+                    "s_city_slug": "thomassique"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "centre",
+                    "s_city_name": "Thomonde",
+                    "s_city_slug": "thomonde"
+                }
+            ]
+        },
+        {
+            "s_country_code": "HT",
+            "s_region_name": "Grand'Anse",
+            "s_region_slug": "grandanse",
+            "cities": [
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "grandanse",
+                    "s_city_name": "Anse-a-Veau",
+                    "s_city_slug": "anse-a-veau"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "grandanse",
+                    "s_city_name": "Chambellan",
+                    "s_city_slug": "chambellan"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "grandanse",
+                    "s_city_name": "Corail",
+                    "s_city_slug": "corail"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "grandanse",
+                    "s_city_name": "Dame-Marie",
+                    "s_city_slug": "dame-marie"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "grandanse",
+                    "s_city_name": "Jeremi",
+                    "s_city_slug": "jeremi"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "grandanse",
+                    "s_city_name": "Jeremie",
+                    "s_city_slug": "jeremie"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "grandanse",
+                    "s_city_name": "Les Abricots",
+                    "s_city_slug": "les-abricots"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "grandanse",
+                    "s_city_name": "Les Irois",
+                    "s_city_slug": "les-irois"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "grandanse",
+                    "s_city_name": "Moron",
+                    "s_city_slug": "moron"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "grandanse",
+                    "s_city_name": "Petite Riviere de Nippes",
+                    "s_city_slug": "petite-riviere-de-nippes"
+                }
+            ]
+        },
+        {
+            "s_country_code": "HT",
+            "s_region_name": "Nippes",
+            "s_region_slug": "nippes",
+            "cities": [
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nippes",
+                    "s_city_name": "Ansavo",
+                    "s_city_slug": "ansavo"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nippes",
+                    "s_city_name": "Baraderes",
+                    "s_city_slug": "baraderes"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nippes",
+                    "s_city_name": "Miragoane",
+                    "s_city_slug": "miragoane"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nippes",
+                    "s_city_name": "Petit Trou de Nippes",
+                    "s_city_slug": "petit-trou-de-nippes"
+                }
+            ]
+        },
+        {
+            "s_country_code": "HT",
+            "s_region_name": "Nord",
+            "s_region_slug": "nord",
+            "cities": [
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Acul du Nord",
+                    "s_city_slug": "acul-du-nord"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Arrondissement de la Grande Riviere du Nord",
+                    "s_city_slug": "arrondissement-de-la-grande-riviere-du-nord"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Arrondissement de Plaisance",
+                    "s_city_slug": "arrondissement-de-plaisance"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Arrondissement du Borgne",
+                    "s_city_slug": "arrondissement-du-borgne"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Bahon",
+                    "s_city_slug": "bahon"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Borgne",
+                    "s_city_slug": "borgne"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Dondon",
+                    "s_city_slug": "dondon"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Grande Riviere du Nord",
+                    "s_city_slug": "grande-riviere-du-nord"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Lenbe",
+                    "s_city_slug": "lenbe"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Limonade",
+                    "s_city_slug": "limonade"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Milot",
+                    "s_city_slug": "milot"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Okap",
+                    "s_city_slug": "okap"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Pignon",
+                    "s_city_slug": "pignon"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Pilate",
+                    "s_city_slug": "pilate"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Plaine du Nord",
+                    "s_city_slug": "plaine-du-nord"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Plaisance",
+                    "s_city_slug": "plaisance"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Port-Margot",
+                    "s_city_slug": "port-margot"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Quartier Morin",
+                    "s_city_slug": "quartier-morin"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Ranquitte",
+                    "s_city_slug": "ranquitte"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord",
+                    "s_city_name": "Saint-Raphael",
+                    "s_city_slug": "saint-raphael"
+                }
+            ]
+        },
+        {
+            "s_country_code": "HT",
+            "s_region_name": "Nord-Est",
+            "s_region_slug": "nord-est",
+            "cities": [
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Arrondissement de Fort Liberte",
+                    "s_city_slug": "arrondissement-de-fort-liberte"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Arrondissement du Trou du Nord",
+                    "s_city_slug": "arrondissement-du-trou-du-nord"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Caracol",
+                    "s_city_slug": "caracol"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Carice",
+                    "s_city_slug": "carice"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Derac",
+                    "s_city_slug": "derac"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Ferrier",
+                    "s_city_slug": "ferrier"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Fort Liberte",
+                    "s_city_slug": "fort-liberte"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Montorganize",
+                    "s_city_slug": "montorganize"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Ouanaminthe",
+                    "s_city_slug": "ouanaminthe"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Perches",
+                    "s_city_slug": "perches"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Phaeton",
+                    "s_city_slug": "phaeton"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Trou du Nord",
+                    "s_city_slug": "trou-du-nord"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-est",
+                    "s_city_name": "Wanament",
+                    "s_city_slug": "wanament"
+                }
+            ]
+        },
+        {
+            "s_country_code": "HT",
+            "s_region_name": "Nord-Ouest",
+            "s_region_slug": "nord-ouest",
+            "cities": [
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Arcahaie",
+                    "s_city_slug": "arcahaie"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Arrondissement de Port-de-Paix",
+                    "s_city_slug": "arrondissement-de-port-de-paix"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Arrondissement de Saint-Louis du Nord",
+                    "s_city_slug": "arrondissement-de-saint-louis-du-nord"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Arrondissement du Mole Saint-Nicolas",
+                    "s_city_slug": "arrondissement-du-mole-saint-nicolas"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Baie de Henne",
+                    "s_city_slug": "baie-de-henne"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Bombardopolis",
+                    "s_city_slug": "bombardopolis"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Fond Bassin Bleu",
+                    "s_city_slug": "fond-bassin-bleu"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Jean-Rabel",
+                    "s_city_slug": "jean-rabel"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Mole Saint-Nicolas",
+                    "s_city_slug": "mole-saint-nicolas"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Petite Anse",
+                    "s_city_slug": "petite-anse"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Port-de-Paix",
+                    "s_city_slug": "port-de-paix"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Saint-Louis du Nord",
+                    "s_city_slug": "saint-louis-du-nord"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "nord-ouest",
+                    "s_city_name": "Ti Port-de-Paix",
+                    "s_city_slug": "ti-port-de-paix"
+                }
+            ]
+        },
+        {
+            "s_country_code": "HT",
+            "s_region_name": "Ouest",
+            "s_region_slug": "ouest",
+            "cities": [
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Anse a Galets",
+                    "s_city_slug": "anse-a-galets"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Arcahaie",
+                    "s_city_slug": "arcahaie"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Arrondissement de Croix des Bouquets",
+                    "s_city_slug": "arrondissement-de-croix-des-bouquets"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Arrondissement de Leogane",
+                    "s_city_slug": "arrondissement-de-leogane"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Arrondissement de Port-au-Prince",
+                    "s_city_slug": "arrondissement-de-port-au-prince"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Cabaret",
+                    "s_city_slug": "cabaret"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Carrefour",
+                    "s_city_slug": "carrefour"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Cornillon",
+                    "s_city_slug": "cornillon"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Croix-des-Bouquets",
+                    "s_city_slug": "croix-des-bouquets"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Delmas 73",
+                    "s_city_slug": "delmas-73"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Fond Parisien",
+                    "s_city_slug": "fond-parisien"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Fonds Verrettes",
+                    "s_city_slug": "fonds-verrettes"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Grangwav",
+                    "s_city_slug": "grangwav"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Gressier",
+                    "s_city_slug": "gressier"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Kenscoff",
+                    "s_city_slug": "kenscoff"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Lagonav",
+                    "s_city_slug": "lagonav"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Leogane",
+                    "s_city_slug": "leogane"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Petionville",
+                    "s_city_slug": "petionville"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Port-au-Prince",
+                    "s_city_slug": "port-au-prince"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Thomazeau",
+                    "s_city_slug": "thomazeau"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "ouest",
+                    "s_city_name": "Tigwav",
+                    "s_city_slug": "tigwav"
+                }
+            ]
+        },
+        {
+            "s_country_code": "HT",
+            "s_region_name": "Sud",
+            "s_region_slug": "sud",
+            "cities": [
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Aquin",
+                    "s_city_slug": "aquin"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Arrondissement de Port-Salut",
+                    "s_city_slug": "arrondissement-de-port-salut"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Arrondissement des Cayes",
+                    "s_city_slug": "arrondissement-des-cayes"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Cavaillon",
+                    "s_city_slug": "cavaillon"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Chantal",
+                    "s_city_slug": "chantal"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Chardonniere",
+                    "s_city_slug": "chardonniere"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Fond des Blancs",
+                    "s_city_slug": "fond-des-blancs"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Koto",
+                    "s_city_slug": "koto"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Les Anglais",
+                    "s_city_slug": "les-anglais"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Les Cayes",
+                    "s_city_slug": "les-cayes"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Port-a-Piment",
+                    "s_city_slug": "port-a-piment"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Roche-a-Bateau",
+                    "s_city_slug": "roche-a-bateau"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Saint-Louis du Sud",
+                    "s_city_slug": "saint-louis-du-sud"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Tiburon",
+                    "s_city_slug": "tiburon"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud",
+                    "s_city_name": "Torbeck",
+                    "s_city_slug": "torbeck"
+                }
+            ]
+        },
+        {
+            "s_country_code": "HT",
+            "s_region_name": "Sud-Est",
+            "s_region_slug": "sud-est",
+            "cities": [
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud-est",
+                    "s_city_name": "Anse-a-Pitre",
+                    "s_city_slug": "anse-a-pitre"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud-est",
+                    "s_city_name": "Arrondissement de Bainet",
+                    "s_city_slug": "arrondissement-de-bainet"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud-est",
+                    "s_city_name": "Arrondissement de Jacmel",
+                    "s_city_slug": "arrondissement-de-jacmel"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud-est",
+                    "s_city_name": "Belle-Anse",
+                    "s_city_slug": "belle-anse"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud-est",
+                    "s_city_name": "Cayes-Jacmel",
+                    "s_city_slug": "cayes-jacmel"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud-est",
+                    "s_city_name": "Jacmel",
+                    "s_city_slug": "jacmel"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud-est",
+                    "s_city_name": "Kotdefe",
+                    "s_city_slug": "kotdefe"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud-est",
+                    "s_city_name": "Marigot",
+                    "s_city_slug": "marigot"
+                },
+                {
+                    "s_country_code": "HT",
+                    "s_region_slug": "sud-est",
+                    "s_city_name": "Thiotte",
+                    "s_city_slug": "thiotte"
+                }
+            ]
+        }
+    ]
+}

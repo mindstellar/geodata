@@ -1,1 +1,503 @@
-{"s_country_code": "ZM", "s_country_name": "Zambia", "s_country_slug": "zambia", "regions": [{"s_country_code": "ZM", "s_region_name": "Central Province", "s_region_slug": "central-province", "cities": [{"s_country_code": "ZM", "s_region_slug": "central-province", "s_city_name": "Chibombo", "s_city_slug": "chibombo"}, {"s_country_code": "ZM", "s_region_slug": "central-province", "s_city_name": "Chibombo District", "s_city_slug": "chibombo-district"}, {"s_country_code": "ZM", "s_region_slug": "central-province", "s_city_name": "Kabwe", "s_city_slug": "kabwe"}, {"s_country_code": "ZM", "s_region_slug": "central-province", "s_city_name": "Kapiri Mposhi", "s_city_slug": "kapiri-mposhi"}, {"s_country_code": "ZM", "s_region_slug": "central-province", "s_city_name": "Mkushi", "s_city_slug": "mkushi"}, {"s_country_code": "ZM", "s_region_slug": "central-province", "s_city_name": "Mumbwa", "s_city_slug": "mumbwa"}, {"s_country_code": "ZM", "s_region_slug": "central-province", "s_city_name": "Serenje", "s_city_slug": "serenje"}]}, {"s_country_code": "ZM", "s_region_name": "Copperbelt Province", "s_region_slug": "copperbelt-province", "cities": [{"s_country_code": "ZM", "s_region_slug": "copperbelt-province", "s_city_name": "Chambishi", "s_city_slug": "chambishi"}, {"s_country_code": "ZM", "s_region_slug": "copperbelt-province", "s_city_name": "Chililabombwe", "s_city_slug": "chililabombwe"}, {"s_country_code": "ZM", "s_region_slug": "copperbelt-province", "s_city_name": "Chingola", "s_city_slug": "chingola"}, {"s_country_code": "ZM", "s_region_slug": "copperbelt-province", "s_city_name": "Chingola District", "s_city_slug": "chingola-district"}, {"s_country_code": "ZM", "s_region_slug": "copperbelt-province", "s_city_name": "Kalulushi", "s_city_slug": "kalulushi"}, {"s_country_code": "ZM", "s_region_slug": "copperbelt-province", "s_city_name": "Kataba", "s_city_slug": "kataba"}, {"s_country_code": "ZM", "s_region_slug": "copperbelt-province", "s_city_name": "Kitwe", "s_city_slug": "kitwe"}, {"s_country_code": "ZM", "s_region_slug": "copperbelt-province", "s_city_name": "Luanshya", "s_city_slug": "luanshya"}, {"s_country_code": "ZM", "s_region_slug": "copperbelt-province", "s_city_name": "Mpongwe", "s_city_slug": "mpongwe"}, {"s_country_code": "ZM", "s_region_slug": "copperbelt-province", "s_city_name": "Mufulira", "s_city_slug": "mufulira"}, {"s_country_code": "ZM", "s_region_slug": "copperbelt-province", "s_city_name": "Ndola", "s_city_slug": "ndola"}]}, {"s_country_code": "ZM", "s_region_name": "Eastern Province", "s_region_slug": "eastern-province", "cities": [{"s_country_code": "ZM", "s_region_slug": "eastern-province", "s_city_name": "Chadiza", "s_city_slug": "chadiza"}, {"s_country_code": "ZM", "s_region_slug": "eastern-province", "s_city_name": "Chipata", "s_city_slug": "chipata"}, {"s_country_code": "ZM", "s_region_slug": "eastern-province", "s_city_name": "Lundazi", "s_city_slug": "lundazi"}, {"s_country_code": "ZM", "s_region_slug": "eastern-province", "s_city_name": "Nyimba", "s_city_slug": "nyimba"}, {"s_country_code": "ZM", "s_region_slug": "eastern-province", "s_city_name": "Petauke", "s_city_slug": "petauke"}]}, {"s_country_code": "ZM", "s_region_name": "Luapula Province", "s_region_slug": "luapula-province", "cities": [{"s_country_code": "ZM", "s_region_slug": "luapula-province", "s_city_name": "Kawambwa", "s_city_slug": "kawambwa"}, {"s_country_code": "ZM", "s_region_slug": "luapula-province", "s_city_name": "Mansa", "s_city_slug": "mansa"}, {"s_country_code": "ZM", "s_region_slug": "luapula-province", "s_city_name": "Mwense", "s_city_slug": "mwense"}, {"s_country_code": "ZM", "s_region_slug": "luapula-province", "s_city_name": "Nchelenge", "s_city_slug": "nchelenge"}, {"s_country_code": "ZM", "s_region_slug": "luapula-province", "s_city_name": "Samfya", "s_city_slug": "samfya"}]}, {"s_country_code": "ZM", "s_region_name": "Lusaka Province", "s_region_slug": "lusaka-province", "cities": [{"s_country_code": "ZM", "s_region_slug": "lusaka-province", "s_city_name": "Chongwe", "s_city_slug": "chongwe"}, {"s_country_code": "ZM", "s_region_slug": "lusaka-province", "s_city_name": "Kafue", "s_city_slug": "kafue"}, {"s_country_code": "ZM", "s_region_slug": "lusaka-province", "s_city_name": "Luangwa", "s_city_slug": "luangwa"}, {"s_country_code": "ZM", "s_region_slug": "lusaka-province", "s_city_name": "Lusaka", "s_city_slug": "lusaka"}]}, {"s_country_code": "ZM", "s_region_name": "Muchinga Province", "s_region_slug": "muchinga-province", "cities": [{"s_country_code": "ZM", "s_region_slug": "muchinga-province", "s_city_name": "Chama", "s_city_slug": "chama"}, {"s_country_code": "ZM", "s_region_slug": "muchinga-province", "s_city_name": "Chinsali", "s_city_slug": "chinsali"}, {"s_country_code": "ZM", "s_region_slug": "muchinga-province", "s_city_name": "Isoka", "s_city_slug": "isoka"}, {"s_country_code": "ZM", "s_region_slug": "muchinga-province", "s_city_name": "Mpika", "s_city_slug": "mpika"}, {"s_country_code": "ZM", "s_region_slug": "muchinga-province", "s_city_name": "Nakonde", "s_city_slug": "nakonde"}]}, {"s_country_code": "ZM", "s_region_name": "Northern Province", "s_region_slug": "northern-province", "cities": [{"s_country_code": "ZM", "s_region_slug": "northern-province", "s_city_name": "Kaputa", "s_city_slug": "kaputa"}, {"s_country_code": "ZM", "s_region_slug": "northern-province", "s_city_name": "Kasama", "s_city_slug": "kasama"}, {"s_country_code": "ZM", "s_region_slug": "northern-province", "s_city_name": "Luwingu", "s_city_slug": "luwingu"}, {"s_country_code": "ZM", "s_region_slug": "northern-province", "s_city_name": "Mbala", "s_city_slug": "mbala"}, {"s_country_code": "ZM", "s_region_slug": "northern-province", "s_city_name": "Mporokoso", "s_city_slug": "mporokoso"}, {"s_country_code": "ZM", "s_region_slug": "northern-province", "s_city_name": "Mpulungu", "s_city_slug": "mpulungu"}, {"s_country_code": "ZM", "s_region_slug": "northern-province", "s_city_name": "Mungwi", "s_city_slug": "mungwi"}]}, {"s_country_code": "ZM", "s_region_name": "Northwestern Province", "s_region_slug": "northwestern-province", "cities": [{"s_country_code": "ZM", "s_region_slug": "northwestern-province", "s_city_name": "Kabompo", "s_city_slug": "kabompo"}, {"s_country_code": "ZM", "s_region_slug": "northwestern-province", "s_city_name": "Kalengwa", "s_city_slug": "kalengwa"}, {"s_country_code": "ZM", "s_region_slug": "northwestern-province", "s_city_name": "Kansanshi", "s_city_slug": "kansanshi"}, {"s_country_code": "ZM", "s_region_slug": "northwestern-province", "s_city_name": "Kasempa", "s_city_slug": "kasempa"}, {"s_country_code": "ZM", "s_region_slug": "northwestern-province", "s_city_name": "Mufumbwe", "s_city_slug": "mufumbwe"}, {"s_country_code": "ZM", "s_region_slug": "northwestern-province", "s_city_name": "Mwinilunga", "s_city_slug": "mwinilunga"}, {"s_country_code": "ZM", "s_region_slug": "northwestern-province", "s_city_name": "Solwezi", "s_city_slug": "solwezi"}, {"s_country_code": "ZM", "s_region_slug": "northwestern-province", "s_city_name": "Zambezi", "s_city_slug": "zambezi"}]}, {"s_country_code": "ZM", "s_region_name": "Southern Province", "s_region_slug": "southern-province", "cities": [{"s_country_code": "ZM", "s_region_slug": "southern-province", "s_city_name": "Choma", "s_city_slug": "choma"}, {"s_country_code": "ZM", "s_region_slug": "southern-province", "s_city_name": "Gwembe", "s_city_slug": "gwembe"}, {"s_country_code": "ZM", "s_region_slug": "southern-province", "s_city_name": "Itezhi-Tezhi District", "s_city_slug": "itezhi-tezhi-district"}, {"s_country_code": "ZM", "s_region_slug": "southern-province", "s_city_name": "Livingstone", "s_city_slug": "livingstone"}, {"s_country_code": "ZM", "s_region_slug": "southern-province", "s_city_name": "Maamba", "s_city_slug": "maamba"}, {"s_country_code": "ZM", "s_region_slug": "southern-province", "s_city_name": "Mazabuka", "s_city_slug": "mazabuka"}, {"s_country_code": "ZM", "s_region_slug": "southern-province", "s_city_name": "Monze", "s_city_slug": "monze"}, {"s_country_code": "ZM", "s_region_slug": "southern-province", "s_city_name": "Nakambala", "s_city_slug": "nakambala"}, {"s_country_code": "ZM", "s_region_slug": "southern-province", "s_city_name": "Namwala", "s_city_slug": "namwala"}, {"s_country_code": "ZM", "s_region_slug": "southern-province", "s_city_name": "Siavonga", "s_city_slug": "siavonga"}, {"s_country_code": "ZM", "s_region_slug": "southern-province", "s_city_name": "Siavonga District", "s_city_slug": "siavonga-district"}, {"s_country_code": "ZM", "s_region_slug": "southern-province", "s_city_name": "Sinazongwe", "s_city_slug": "sinazongwe"}]}, {"s_country_code": "ZM", "s_region_name": "Western Province", "s_region_slug": "western-province", "cities": [{"s_country_code": "ZM", "s_region_slug": "western-province", "s_city_name": "Kalabo", "s_city_slug": "kalabo"}, {"s_country_code": "ZM", "s_region_slug": "western-province", "s_city_name": "Kaoma", "s_city_slug": "kaoma"}, {"s_country_code": "ZM", "s_region_slug": "western-province", "s_city_name": "Limulunga", "s_city_slug": "limulunga"}, {"s_country_code": "ZM", "s_region_slug": "western-province", "s_city_name": "Lukulu", "s_city_slug": "lukulu"}, {"s_country_code": "ZM", "s_region_slug": "western-province", "s_city_name": "Mongu", "s_city_slug": "mongu"}, {"s_country_code": "ZM", "s_region_slug": "western-province", "s_city_name": "Senanga", "s_city_slug": "senanga"}, {"s_country_code": "ZM", "s_region_slug": "western-province", "s_city_name": "Sesheke", "s_city_slug": "sesheke"}]}]}
+{
+    "s_country_code": "ZM",
+    "s_country_name": "Zambia",
+    "s_country_slug": "zambia",
+    "regions": [
+        {
+            "s_country_code": "ZM",
+            "s_region_name": "Central Province",
+            "s_region_slug": "central-province",
+            "cities": [
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Chibombo",
+                    "s_city_slug": "chibombo"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Chibombo District",
+                    "s_city_slug": "chibombo-district"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Kabwe",
+                    "s_city_slug": "kabwe"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Kapiri Mposhi",
+                    "s_city_slug": "kapiri-mposhi"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Mkushi",
+                    "s_city_slug": "mkushi"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Mumbwa",
+                    "s_city_slug": "mumbwa"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Serenje",
+                    "s_city_slug": "serenje"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ZM",
+            "s_region_name": "Copperbelt Province",
+            "s_region_slug": "copperbelt-province",
+            "cities": [
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "copperbelt-province",
+                    "s_city_name": "Chambishi",
+                    "s_city_slug": "chambishi"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "copperbelt-province",
+                    "s_city_name": "Chililabombwe",
+                    "s_city_slug": "chililabombwe"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "copperbelt-province",
+                    "s_city_name": "Chingola",
+                    "s_city_slug": "chingola"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "copperbelt-province",
+                    "s_city_name": "Chingola District",
+                    "s_city_slug": "chingola-district"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "copperbelt-province",
+                    "s_city_name": "Kalulushi",
+                    "s_city_slug": "kalulushi"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "copperbelt-province",
+                    "s_city_name": "Kataba",
+                    "s_city_slug": "kataba"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "copperbelt-province",
+                    "s_city_name": "Kitwe",
+                    "s_city_slug": "kitwe"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "copperbelt-province",
+                    "s_city_name": "Luanshya",
+                    "s_city_slug": "luanshya"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "copperbelt-province",
+                    "s_city_name": "Mpongwe",
+                    "s_city_slug": "mpongwe"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "copperbelt-province",
+                    "s_city_name": "Mufulira",
+                    "s_city_slug": "mufulira"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "copperbelt-province",
+                    "s_city_name": "Ndola",
+                    "s_city_slug": "ndola"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ZM",
+            "s_region_name": "Eastern Province",
+            "s_region_slug": "eastern-province",
+            "cities": [
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Chadiza",
+                    "s_city_slug": "chadiza"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Chipata",
+                    "s_city_slug": "chipata"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Lundazi",
+                    "s_city_slug": "lundazi"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Nyimba",
+                    "s_city_slug": "nyimba"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "eastern-province",
+                    "s_city_name": "Petauke",
+                    "s_city_slug": "petauke"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ZM",
+            "s_region_name": "Luapula Province",
+            "s_region_slug": "luapula-province",
+            "cities": [
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "luapula-province",
+                    "s_city_name": "Kawambwa",
+                    "s_city_slug": "kawambwa"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "luapula-province",
+                    "s_city_name": "Mansa",
+                    "s_city_slug": "mansa"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "luapula-province",
+                    "s_city_name": "Mwense",
+                    "s_city_slug": "mwense"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "luapula-province",
+                    "s_city_name": "Nchelenge",
+                    "s_city_slug": "nchelenge"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "luapula-province",
+                    "s_city_name": "Samfya",
+                    "s_city_slug": "samfya"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ZM",
+            "s_region_name": "Lusaka Province",
+            "s_region_slug": "lusaka-province",
+            "cities": [
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "lusaka-province",
+                    "s_city_name": "Chongwe",
+                    "s_city_slug": "chongwe"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "lusaka-province",
+                    "s_city_name": "Kafue",
+                    "s_city_slug": "kafue"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "lusaka-province",
+                    "s_city_name": "Luangwa",
+                    "s_city_slug": "luangwa"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "lusaka-province",
+                    "s_city_name": "Lusaka",
+                    "s_city_slug": "lusaka"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ZM",
+            "s_region_name": "Muchinga Province",
+            "s_region_slug": "muchinga-province",
+            "cities": [
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "muchinga-province",
+                    "s_city_name": "Chama",
+                    "s_city_slug": "chama"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "muchinga-province",
+                    "s_city_name": "Chinsali",
+                    "s_city_slug": "chinsali"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "muchinga-province",
+                    "s_city_name": "Isoka",
+                    "s_city_slug": "isoka"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "muchinga-province",
+                    "s_city_name": "Mpika",
+                    "s_city_slug": "mpika"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "muchinga-province",
+                    "s_city_name": "Nakonde",
+                    "s_city_slug": "nakonde"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ZM",
+            "s_region_name": "Northern Province",
+            "s_region_slug": "northern-province",
+            "cities": [
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Kaputa",
+                    "s_city_slug": "kaputa"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Kasama",
+                    "s_city_slug": "kasama"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Luwingu",
+                    "s_city_slug": "luwingu"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Mbala",
+                    "s_city_slug": "mbala"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Mporokoso",
+                    "s_city_slug": "mporokoso"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Mpulungu",
+                    "s_city_slug": "mpulungu"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northern-province",
+                    "s_city_name": "Mungwi",
+                    "s_city_slug": "mungwi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ZM",
+            "s_region_name": "Northwestern Province",
+            "s_region_slug": "northwestern-province",
+            "cities": [
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northwestern-province",
+                    "s_city_name": "Kabompo",
+                    "s_city_slug": "kabompo"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northwestern-province",
+                    "s_city_name": "Kalengwa",
+                    "s_city_slug": "kalengwa"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northwestern-province",
+                    "s_city_name": "Kansanshi",
+                    "s_city_slug": "kansanshi"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northwestern-province",
+                    "s_city_name": "Kasempa",
+                    "s_city_slug": "kasempa"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northwestern-province",
+                    "s_city_name": "Mufumbwe",
+                    "s_city_slug": "mufumbwe"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northwestern-province",
+                    "s_city_name": "Mwinilunga",
+                    "s_city_slug": "mwinilunga"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northwestern-province",
+                    "s_city_name": "Solwezi",
+                    "s_city_slug": "solwezi"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "northwestern-province",
+                    "s_city_name": "Zambezi",
+                    "s_city_slug": "zambezi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ZM",
+            "s_region_name": "Southern Province",
+            "s_region_slug": "southern-province",
+            "cities": [
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Choma",
+                    "s_city_slug": "choma"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Gwembe",
+                    "s_city_slug": "gwembe"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Itezhi-Tezhi District",
+                    "s_city_slug": "itezhi-tezhi-district"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Livingstone",
+                    "s_city_slug": "livingstone"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Maamba",
+                    "s_city_slug": "maamba"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Mazabuka",
+                    "s_city_slug": "mazabuka"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Monze",
+                    "s_city_slug": "monze"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Nakambala",
+                    "s_city_slug": "nakambala"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Namwala",
+                    "s_city_slug": "namwala"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Siavonga",
+                    "s_city_slug": "siavonga"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Siavonga District",
+                    "s_city_slug": "siavonga-district"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "southern-province",
+                    "s_city_name": "Sinazongwe",
+                    "s_city_slug": "sinazongwe"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ZM",
+            "s_region_name": "Western Province",
+            "s_region_slug": "western-province",
+            "cities": [
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Kalabo",
+                    "s_city_slug": "kalabo"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Kaoma",
+                    "s_city_slug": "kaoma"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Limulunga",
+                    "s_city_slug": "limulunga"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Lukulu",
+                    "s_city_slug": "lukulu"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Mongu",
+                    "s_city_slug": "mongu"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Senanga",
+                    "s_city_slug": "senanga"
+                },
+                {
+                    "s_country_code": "ZM",
+                    "s_region_slug": "western-province",
+                    "s_city_name": "Sesheke",
+                    "s_city_slug": "sesheke"
+                }
+            ]
+        }
+    ]
+}

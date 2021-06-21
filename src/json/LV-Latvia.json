@@ -1,1 +1,1649 @@
-{"s_country_code": "LV", "s_country_name": "Latvia", "s_country_slug": "latvia", "regions": [{"s_country_code": "LV", "s_region_name": "Aglona Municipality", "s_region_slug": "aglona-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "aglona-municipality", "s_city_name": "Aglona", "s_city_slug": "aglona"}]}, {"s_country_code": "LV", "s_region_name": "Aizkraukle Municipality", "s_region_slug": "aizkraukle-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "aizkraukle-municipality", "s_city_name": "Aizkraukle", "s_city_slug": "aizkraukle"}]}, {"s_country_code": "LV", "s_region_name": "Aizpute Municipality", "s_region_slug": "aizpute-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "aizpute-municipality", "s_city_name": "Aizpute", "s_city_slug": "aizpute"}]}, {"s_country_code": "LV", "s_region_name": "Akniste Municipality", "s_region_slug": "akniste-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "akniste-municipality", "s_city_name": "Akniste", "s_city_slug": "akniste"}]}, {"s_country_code": "LV", "s_region_name": "Aloja Municipality", "s_region_slug": "aloja-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "aloja-municipality", "s_city_name": "Aloja", "s_city_slug": "aloja"}, {"s_country_code": "LV", "s_region_slug": "aloja-municipality", "s_city_name": "Staicele", "s_city_slug": "staicele"}]}, {"s_country_code": "LV", "s_region_name": "Alsunga Municipality", "s_region_slug": "alsunga-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "alsunga-municipality", "s_city_name": "Alsunga", "s_city_slug": "alsunga"}]}, {"s_country_code": "LV", "s_region_name": "Aluksne Municipality", "s_region_slug": "aluksne-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "aluksne-municipality", "s_city_name": "Aluksne", "s_city_slug": "aluksne"}]}, {"s_country_code": "LV", "s_region_name": "Amata Municipality", "s_region_slug": "amata-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "amata-municipality", "s_city_name": "Amata Municipality", "s_city_slug": "amata-municipality"}]}, {"s_country_code": "LV", "s_region_name": "Ape Municipality", "s_region_slug": "ape-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "ape-municipality", "s_city_name": "Ape", "s_city_slug": "ape"}]}, {"s_country_code": "LV", "s_region_name": "Auce Municipality", "s_region_slug": "auce-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "auce-municipality", "s_city_name": "Auce", "s_city_slug": "auce"}]}, {"s_country_code": "LV", "s_region_name": "Babite Municipality", "s_region_slug": "babite-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "babite-municipality", "s_city_name": "Pinki", "s_city_slug": "pinki"}]}, {"s_country_code": "LV", "s_region_name": "Baldone Municipality", "s_region_slug": "baldone-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "baldone-municipality", "s_city_name": "Baldone", "s_city_slug": "baldone"}]}, {"s_country_code": "LV", "s_region_name": "Baltinava Municipality", "s_region_slug": "baltinava-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "baltinava-municipality", "s_city_name": "Baltinava", "s_city_slug": "baltinava"}]}, {"s_country_code": "LV", "s_region_name": "Balvi Municipality", "s_region_slug": "balvi-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "balvi-municipality", "s_city_name": "Balvi", "s_city_slug": "balvi"}]}, {"s_country_code": "LV", "s_region_name": "Bauska Municipality", "s_region_slug": "bauska-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "bauska-municipality", "s_city_name": "Bauska", "s_city_slug": "bauska"}]}, {"s_country_code": "LV", "s_region_name": "Beverina Municipality", "s_region_slug": "beverina-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "beverina-municipality", "s_city_name": "Murmuiza", "s_city_slug": "murmuiza"}]}, {"s_country_code": "LV", "s_region_name": "Broceni Municipality", "s_region_slug": "broceni-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "broceni-municipality", "s_city_name": "Broceni", "s_city_slug": "broceni"}]}, {"s_country_code": "LV", "s_region_name": "Burtnieki Municipality", "s_region_slug": "burtnieki-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "burtnieki-municipality", "s_city_name": "Burtnieki Municipality", "s_city_slug": "burtnieki-municipality"}]}, {"s_country_code": "LV", "s_region_name": "Carnikava Municipality", "s_region_slug": "carnikava-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "carnikava-municipality", "s_city_name": "Carnikava", "s_city_slug": "carnikava"}]}, {"s_country_code": "LV", "s_region_name": "Cesis Municipality", "s_region_slug": "cesis-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "cesis-municipality", "s_city_name": "Cesis", "s_city_slug": "cesis"}]}, {"s_country_code": "LV", "s_region_name": "Cesvaine Municipality", "s_region_slug": "cesvaine-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "cesvaine-municipality", "s_city_name": "Cesvaine", "s_city_slug": "cesvaine"}]}, {"s_country_code": "LV", "s_region_name": "Cibla Municipality", "s_region_slug": "cibla-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "cibla-municipality", "s_city_name": "Cibla", "s_city_slug": "cibla"}]}, {"s_country_code": "LV", "s_region_name": "Dagda Municipality", "s_region_slug": "dagda-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "dagda-municipality", "s_city_name": "Dagda", "s_city_slug": "dagda"}]}, {"s_country_code": "LV", "s_region_name": "Daugavpils", "s_region_slug": "daugavpils", "cities": [{"s_country_code": "LV", "s_region_slug": "daugavpils", "s_city_name": "Daugavpils", "s_city_slug": "daugavpils"}]}, {"s_country_code": "LV", "s_region_name": "Daugavpils Municipality", "s_region_slug": "daugavpils-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "daugavpils-municipality", "s_city_name": "Daugavpils", "s_city_slug": "daugavpils"}]}, {"s_country_code": "LV", "s_region_name": "Dobele Municipality", "s_region_slug": "dobele-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "dobele-municipality", "s_city_name": "Dobele", "s_city_slug": "dobele"}]}, {"s_country_code": "LV", "s_region_name": "Dundaga Municipality", "s_region_slug": "dundaga-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "dundaga-municipality", "s_city_name": "Dundaga", "s_city_slug": "dundaga"}]}, {"s_country_code": "LV", "s_region_name": "Durbe Municipality", "s_region_slug": "durbe-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "durbe-municipality", "s_city_name": "Liegi", "s_city_slug": "liegi"}]}, {"s_country_code": "LV", "s_region_name": "Engure Municipality", "s_region_slug": "engure-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "engure-municipality", "s_city_name": "Smarde", "s_city_slug": "smarde"}]}, {"s_country_code": "LV", "s_region_name": "Ergli Municipality", "s_region_slug": "ergli-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "ergli-municipality", "s_city_name": "Ergli", "s_city_slug": "ergli"}]}, {"s_country_code": "LV", "s_region_name": "Garkalne Municipality", "s_region_slug": "garkalne-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "garkalne-municipality", "s_city_name": "Garkalne", "s_city_slug": "garkalne"}]}, {"s_country_code": "LV", "s_region_name": "Grobina Municipality", "s_region_slug": "grobina-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "grobina-municipality", "s_city_name": "Grobina", "s_city_slug": "grobina"}]}, {"s_country_code": "LV", "s_region_name": "Gulbene Municipality", "s_region_slug": "gulbene-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "gulbene-municipality", "s_city_name": "Gulbene", "s_city_slug": "gulbene"}]}, {"s_country_code": "LV", "s_region_name": "Iecava Municipality", "s_region_slug": "iecava-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "iecava-municipality", "s_city_name": "Iecava", "s_city_slug": "iecava"}]}, {"s_country_code": "LV", "s_region_name": "Ikskile Municipality", "s_region_slug": "ikskile-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "ikskile-municipality", "s_city_name": "Ikskile", "s_city_slug": "ikskile"}]}, {"s_country_code": "LV", "s_region_name": "Ilukste Municipality", "s_region_slug": "ilukste-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "ilukste-municipality", "s_city_name": "Ilukste", "s_city_slug": "ilukste"}]}, {"s_country_code": "LV", "s_region_name": "Incukalns Municipality", "s_region_slug": "incukalns-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "incukalns-municipality", "s_city_name": "Incukalns", "s_city_slug": "incukalns"}, {"s_country_code": "LV", "s_region_slug": "incukalns-municipality", "s_city_name": "Vangazi", "s_city_slug": "vangazi"}]}, {"s_country_code": "LV", "s_region_name": "Jaunjelgava Municipality", "s_region_slug": "jaunjelgava-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "jaunjelgava-municipality", "s_city_name": "Jaunjelgava", "s_city_slug": "jaunjelgava"}]}, {"s_country_code": "LV", "s_region_name": "Jaunpiebalga Municipality", "s_region_slug": "jaunpiebalga-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "jaunpiebalga-municipality", "s_city_name": "Jaunpiebalga Municipality", "s_city_slug": "jaunpiebalga-municipality"}]}, {"s_country_code": "LV", "s_region_name": "Jaunpils Municipality", "s_region_slug": "jaunpils-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "jaunpils-municipality", "s_city_name": "Jaunpils", "s_city_slug": "jaunpils"}]}, {"s_country_code": "LV", "s_region_name": "Jekabpils", "s_region_slug": "jekabpils", "cities": [{"s_country_code": "LV", "s_region_slug": "jekabpils", "s_city_name": "Jekabpils", "s_city_slug": "jekabpils"}]}, {"s_country_code": "LV", "s_region_name": "Jekabpils Municipality", "s_region_slug": "jekabpils-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "jekabpils-municipality", "s_city_name": "Jekabpils", "s_city_slug": "jekabpils"}, {"s_country_code": "LV", "s_region_slug": "jekabpils-municipality", "s_city_name": "Krustpils", "s_city_slug": "krustpils"}]}, {"s_country_code": "LV", "s_region_name": "Jelgava", "s_region_slug": "jelgava", "cities": [{"s_country_code": "LV", "s_region_slug": "jelgava", "s_city_name": "Jelgava", "s_city_slug": "jelgava"}]}, {"s_country_code": "LV", "s_region_name": "Jelgava Municipality", "s_region_slug": "jelgava-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "jelgava-municipality", "s_city_name": "Tireli", "s_city_slug": "tireli"}]}, {"s_country_code": "LV", "s_region_name": "Jurmala", "s_region_slug": "jurmala", "cities": [{"s_country_code": "LV", "s_region_slug": "jurmala", "s_city_name": "Jurmala", "s_city_slug": "jurmala"}]}, {"s_country_code": "LV", "s_region_name": "Kandava Municipality", "s_region_slug": "kandava-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "kandava-municipality", "s_city_name": "Kandava", "s_city_slug": "kandava"}]}, {"s_country_code": "LV", "s_region_name": "Karsava Municipality", "s_region_slug": "karsava-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "karsava-municipality", "s_city_name": "Karsava", "s_city_slug": "karsava"}]}, {"s_country_code": "LV", "s_region_name": "Kegums Municipality", "s_region_slug": "kegums-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "kegums-municipality", "s_city_name": "Kegums", "s_city_slug": "kegums"}]}, {"s_country_code": "LV", "s_region_name": "Kekava Municipality", "s_region_slug": "kekava-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "kekava-municipality", "s_city_name": "Balozi", "s_city_slug": "balozi"}, {"s_country_code": "LV", "s_region_slug": "kekava-municipality", "s_city_name": "Kekava", "s_city_slug": "kekava"}]}, {"s_country_code": "LV", "s_region_name": "Koceni Municipality", "s_region_slug": "koceni-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "koceni-municipality", "s_city_name": "Koceni", "s_city_slug": "koceni"}]}, {"s_country_code": "LV", "s_region_name": "Koknese Municipality", "s_region_slug": "koknese-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "koknese-municipality", "s_city_name": "Koknese", "s_city_slug": "koknese"}]}, {"s_country_code": "LV", "s_region_name": "Kraslava Municipality", "s_region_slug": "kraslava-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "kraslava-municipality", "s_city_name": "Kraslava", "s_city_slug": "kraslava"}]}, {"s_country_code": "LV", "s_region_name": "Krimulda Municipality", "s_region_slug": "krimulda-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "krimulda-municipality", "s_city_name": "Krimulda Municipality", "s_city_slug": "krimulda-municipality"}]}, {"s_country_code": "LV", "s_region_name": "Krustpils Municipality", "s_region_slug": "krustpils-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "krustpils-municipality", "s_city_name": "Krustpils Municipality", "s_city_slug": "krustpils-municipality"}]}, {"s_country_code": "LV", "s_region_name": "Kuldiga Municipality", "s_region_slug": "kuldiga-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "kuldiga-municipality", "s_city_name": "Kuldiga", "s_city_slug": "kuldiga"}]}, {"s_country_code": "LV", "s_region_name": "Lielvarde Municipality", "s_region_slug": "lielvarde-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "lielvarde-municipality", "s_city_name": "Lielvarde", "s_city_slug": "lielvarde"}]}, {"s_country_code": "LV", "s_region_name": "Liepaja", "s_region_slug": "liepaja", "cities": [{"s_country_code": "LV", "s_region_slug": "liepaja", "s_city_name": "Karosta", "s_city_slug": "karosta"}, {"s_country_code": "LV", "s_region_slug": "liepaja", "s_city_name": "Liepaja", "s_city_slug": "liepaja"}]}, {"s_country_code": "LV", "s_region_name": "Ligatne Municipality", "s_region_slug": "ligatne-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "ligatne-municipality", "s_city_name": "Ligatne", "s_city_slug": "ligatne"}]}, {"s_country_code": "LV", "s_region_name": "Limbazi Municipality", "s_region_slug": "limbazi-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "limbazi-municipality", "s_city_name": "Limbazi", "s_city_slug": "limbazi"}]}, {"s_country_code": "LV", "s_region_name": "Livani Municipality", "s_region_slug": "livani-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "livani-municipality", "s_city_name": "Livani", "s_city_slug": "livani"}]}, {"s_country_code": "LV", "s_region_name": "Lubana Municipality", "s_region_slug": "lubana-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "lubana-municipality", "s_city_name": "Lubana", "s_city_slug": "lubana"}]}, {"s_country_code": "LV", "s_region_name": "Ludza Municipality", "s_region_slug": "ludza-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "ludza-municipality", "s_city_name": "Ludza", "s_city_slug": "ludza"}]}, {"s_country_code": "LV", "s_region_name": "Madona Municipality", "s_region_slug": "madona-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "madona-municipality", "s_city_name": "Madona", "s_city_slug": "madona"}]}, {"s_country_code": "LV", "s_region_name": "Malpils Municipality", "s_region_slug": "malpils-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "malpils-municipality", "s_city_name": "Malpils", "s_city_slug": "malpils"}]}, {"s_country_code": "LV", "s_region_name": "Marupe Municipality", "s_region_slug": "marupe-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "marupe-municipality", "s_city_name": "Marupe", "s_city_slug": "marupe"}]}, {"s_country_code": "LV", "s_region_name": "Mazsalaca Municipality", "s_region_slug": "mazsalaca-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "mazsalaca-municipality", "s_city_name": "Mazsalaca", "s_city_slug": "mazsalaca"}]}, {"s_country_code": "LV", "s_region_name": "Mersrags Municipality", "s_region_slug": "mersrags-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "mersrags-municipality", "s_city_name": "Mersrags Municipality", "s_city_slug": "mersrags-municipality"}]}, {"s_country_code": "LV", "s_region_name": "Naukseni Municipality", "s_region_slug": "naukseni-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "naukseni-municipality", "s_city_name": "Naukseni", "s_city_slug": "naukseni"}]}, {"s_country_code": "LV", "s_region_name": "Nereta Municipality", "s_region_slug": "nereta-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "nereta-municipality", "s_city_name": "Nereta", "s_city_slug": "nereta"}]}, {"s_country_code": "LV", "s_region_name": "Nica Municipality", "s_region_slug": "nica-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "nica-municipality", "s_city_name": "Nica", "s_city_slug": "nica"}]}, {"s_country_code": "LV", "s_region_name": "Ogre Municipality", "s_region_slug": "ogre-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "ogre-municipality", "s_city_name": "Jumprava", "s_city_slug": "jumprava"}, {"s_country_code": "LV", "s_region_slug": "ogre-municipality", "s_city_name": "Ogre", "s_city_slug": "ogre"}]}, {"s_country_code": "LV", "s_region_name": "Olaine Municipality", "s_region_slug": "olaine-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "olaine-municipality", "s_city_name": "Olaine", "s_city_slug": "olaine"}]}, {"s_country_code": "LV", "s_region_name": "Ozolnieki Municipality", "s_region_slug": "ozolnieki-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "ozolnieki-municipality", "s_city_name": "Ozolnieki", "s_city_slug": "ozolnieki"}]}, {"s_country_code": "LV", "s_region_name": "Pargauja Municipality", "s_region_slug": "pargauja-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "pargauja-municipality", "s_city_name": "Stalbe", "s_city_slug": "stalbe"}]}, {"s_country_code": "LV", "s_region_name": "Pavilosta Municipality", "s_region_slug": "pavilosta-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "pavilosta-municipality", "s_city_name": "Pavilosta", "s_city_slug": "pavilosta"}]}, {"s_country_code": "LV", "s_region_name": "Plavinas Municipality", "s_region_slug": "plavinas-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "plavinas-municipality", "s_city_name": "Plavinas", "s_city_slug": "plavinas"}]}, {"s_country_code": "LV", "s_region_name": "Preili Municipality", "s_region_slug": "preili-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "preili-municipality", "s_city_name": "Jaunaglona", "s_city_slug": "jaunaglona"}, {"s_country_code": "LV", "s_region_slug": "preili-municipality", "s_city_name": "Preili", "s_city_slug": "preili"}]}, {"s_country_code": "LV", "s_region_name": "Priekule Municipality", "s_region_slug": "priekule-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "priekule-municipality", "s_city_name": "Priekule", "s_city_slug": "priekule"}]}, {"s_country_code": "LV", "s_region_name": "Priekuli Municipality", "s_region_slug": "priekuli-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "priekuli-municipality", "s_city_name": "Priekuli", "s_city_slug": "priekuli"}]}, {"s_country_code": "LV", "s_region_name": "Rauna Municipality", "s_region_slug": "rauna-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "rauna-municipality", "s_city_name": "Rauna", "s_city_slug": "rauna"}]}, {"s_country_code": "LV", "s_region_name": "Rezekne", "s_region_slug": "rezekne", "cities": [{"s_country_code": "LV", "s_region_slug": "rezekne", "s_city_name": "Rezekne", "s_city_slug": "rezekne"}]}, {"s_country_code": "LV", "s_region_name": "Rezekne Municipality", "s_region_slug": "rezekne-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "rezekne-municipality", "s_city_name": "Rezekne Municipality", "s_city_slug": "rezekne-municipality"}]}, {"s_country_code": "LV", "s_region_name": "Riebini Municipality", "s_region_slug": "riebini-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "riebini-municipality", "s_city_name": "Riebini", "s_city_slug": "riebini"}]}, {"s_country_code": "LV", "s_region_name": "Riga", "s_region_slug": "riga", "cities": [{"s_country_code": "LV", "s_region_slug": "riga", "s_city_name": "Bolderaja", "s_city_slug": "bolderaja"}, {"s_country_code": "LV", "s_region_slug": "riga", "s_city_name": "Daugavgriva", "s_city_slug": "daugavgriva"}, {"s_country_code": "LV", "s_region_slug": "riga", "s_city_name": "Jaunciems", "s_city_slug": "jaunciems"}, {"s_country_code": "LV", "s_region_slug": "riga", "s_city_name": "Mezaparks", "s_city_slug": "mezaparks"}, {"s_country_code": "LV", "s_region_slug": "riga", "s_city_name": "Riga", "s_city_slug": "riga"}]}, {"s_country_code": "LV", "s_region_name": "Roja Municipality", "s_region_slug": "roja-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "roja-municipality", "s_city_name": "Roja", "s_city_slug": "roja"}]}, {"s_country_code": "LV", "s_region_name": "Ropazi Municipality", "s_region_slug": "ropazi-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "ropazi-municipality", "s_city_name": "Ropazi", "s_city_slug": "ropazi"}]}, {"s_country_code": "LV", "s_region_name": "Rucava Municipality", "s_region_slug": "rucava-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "rucava-municipality", "s_city_name": "Rucava", "s_city_slug": "rucava"}]}, {"s_country_code": "LV", "s_region_name": "Rugaji Municipality", "s_region_slug": "rugaji-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "rugaji-municipality", "s_city_name": "Rugaji", "s_city_slug": "rugaji"}]}, {"s_country_code": "LV", "s_region_name": "Rujiena Municipality", "s_region_slug": "rujiena-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "rujiena-municipality", "s_city_name": "Rujiena", "s_city_slug": "rujiena"}]}, {"s_country_code": "LV", "s_region_name": "Rundale Municipality", "s_region_slug": "rundale-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "rundale-municipality", "s_city_name": "Pilsrundale", "s_city_slug": "pilsrundale"}]}, {"s_country_code": "LV", "s_region_name": "Sala Municipality", "s_region_slug": "sala-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "sala-municipality", "s_city_name": "Sala Municipality", "s_city_slug": "sala-municipality"}]}, {"s_country_code": "LV", "s_region_name": "Salacgriva Municipality", "s_region_slug": "salacgriva-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "salacgriva-municipality", "s_city_name": "Ainazi", "s_city_slug": "ainazi"}, {"s_country_code": "LV", "s_region_slug": "salacgriva-municipality", "s_city_name": "Salacgriva", "s_city_slug": "salacgriva"}]}, {"s_country_code": "LV", "s_region_name": "Salaspils Municipality", "s_region_slug": "salaspils-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "salaspils-municipality", "s_city_name": "Salaspils", "s_city_slug": "salaspils"}]}, {"s_country_code": "LV", "s_region_name": "Saldus Municipality", "s_region_slug": "saldus-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "saldus-municipality", "s_city_name": "Saldus", "s_city_slug": "saldus"}]}, {"s_country_code": "LV", "s_region_name": "Saulkrasti Municipality", "s_region_slug": "saulkrasti-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "saulkrasti-municipality", "s_city_name": "Saulkrasti", "s_city_slug": "saulkrasti"}]}, {"s_country_code": "LV", "s_region_name": "Seja Municipality", "s_region_slug": "seja-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "seja-municipality", "s_city_name": "Engure", "s_city_slug": "engure"}, {"s_country_code": "LV", "s_region_slug": "seja-municipality", "s_city_name": "Tukums", "s_city_slug": "tukums"}]}, {"s_country_code": "LV", "s_region_name": "Sigulda Municipality", "s_region_slug": "sigulda-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "sigulda-municipality", "s_city_name": "Sigulda", "s_city_slug": "sigulda"}]}, {"s_country_code": "LV", "s_region_name": "Skriveri Municipality", "s_region_slug": "skriveri-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "skriveri-municipality", "s_city_name": "Skriveri", "s_city_slug": "skriveri"}]}, {"s_country_code": "LV", "s_region_name": "Skrunda Municipality", "s_region_slug": "skrunda-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "skrunda-municipality", "s_city_name": "Skrunda", "s_city_slug": "skrunda"}]}, {"s_country_code": "LV", "s_region_name": "Smiltene Municipality", "s_region_slug": "smiltene-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "smiltene-municipality", "s_city_name": "Smiltene", "s_city_slug": "smiltene"}]}, {"s_country_code": "LV", "s_region_name": "Stopini Municipality", "s_region_slug": "stopini-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "stopini-municipality", "s_city_name": "Ulbroka", "s_city_slug": "ulbroka"}]}, {"s_country_code": "LV", "s_region_name": "Strenci Municipality", "s_region_slug": "strenci-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "strenci-municipality", "s_city_name": "Seda", "s_city_slug": "seda"}, {"s_country_code": "LV", "s_region_slug": "strenci-municipality", "s_city_name": "Strenci", "s_city_slug": "strenci"}]}, {"s_country_code": "LV", "s_region_name": "Talsi Municipality", "s_region_slug": "talsi-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "talsi-municipality", "s_city_name": "Sabile", "s_city_slug": "sabile"}, {"s_country_code": "LV", "s_region_slug": "talsi-municipality", "s_city_name": "Stende", "s_city_slug": "stende"}, {"s_country_code": "LV", "s_region_slug": "talsi-municipality", "s_city_name": "Talsi", "s_city_slug": "talsi"}, {"s_country_code": "LV", "s_region_slug": "talsi-municipality", "s_city_name": "Valdemarpils", "s_city_slug": "valdemarpils"}]}, {"s_country_code": "LV", "s_region_name": "Tervete Municipality", "s_region_slug": "tervete-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "tervete-municipality", "s_city_name": "Tervete", "s_city_slug": "tervete"}, {"s_country_code": "LV", "s_region_slug": "tervete-municipality", "s_city_name": "Zelmeni", "s_city_slug": "zelmeni"}]}, {"s_country_code": "LV", "s_region_name": "Tukums Municipality", "s_region_slug": "tukums-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "tukums-municipality", "s_city_name": "Tukums Municipality", "s_city_slug": "tukums-municipality"}]}, {"s_country_code": "LV", "s_region_name": "Vainode Municipality", "s_region_slug": "vainode-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "vainode-municipality", "s_city_name": "Vainode", "s_city_slug": "vainode"}]}, {"s_country_code": "LV", "s_region_name": "Valka Municipality", "s_region_slug": "valka-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "valka-municipality", "s_city_name": "Valka", "s_city_slug": "valka"}]}, {"s_country_code": "LV", "s_region_name": "Valmiera", "s_region_slug": "valmiera", "cities": [{"s_country_code": "LV", "s_region_slug": "valmiera", "s_city_name": "Valmiera", "s_city_slug": "valmiera"}]}, {"s_country_code": "LV", "s_region_name": "Varaklani Municipality", "s_region_slug": "varaklani-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "varaklani-municipality", "s_city_name": "Varaklani", "s_city_slug": "varaklani"}]}, {"s_country_code": "LV", "s_region_name": "Varkava Municipality", "s_region_slug": "varkava-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "varkava-municipality", "s_city_name": "Vecvarkava", "s_city_slug": "vecvarkava"}]}, {"s_country_code": "LV", "s_region_name": "Vecpiebalga Municipality", "s_region_slug": "vecpiebalga-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "vecpiebalga-municipality", "s_city_name": "Vecpiebalga", "s_city_slug": "vecpiebalga"}]}, {"s_country_code": "LV", "s_region_name": "Vecumnieki Municipality", "s_region_slug": "vecumnieki-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "vecumnieki-municipality", "s_city_name": "Vecumnieki", "s_city_slug": "vecumnieki"}]}, {"s_country_code": "LV", "s_region_name": "Ventspils", "s_region_slug": "ventspils", "cities": [{"s_country_code": "LV", "s_region_slug": "ventspils", "s_city_name": "Ventspils", "s_city_slug": "ventspils"}]}, {"s_country_code": "LV", "s_region_name": "Ventspils Municipality", "s_region_slug": "ventspils-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "ventspils-municipality", "s_city_name": "Piltene", "s_city_slug": "piltene"}]}, {"s_country_code": "LV", "s_region_name": "Viesite Municipality", "s_region_slug": "viesite-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "viesite-municipality", "s_city_name": "Viesite", "s_city_slug": "viesite"}]}, {"s_country_code": "LV", "s_region_name": "Vilaka Municipality", "s_region_slug": "vilaka-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "vilaka-municipality", "s_city_name": "Vilaka", "s_city_slug": "vilaka"}]}, {"s_country_code": "LV", "s_region_name": "Vilani Municipality", "s_region_slug": "vilani-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "vilani-municipality", "s_city_name": "Vilani", "s_city_slug": "vilani"}]}, {"s_country_code": "LV", "s_region_name": "Zilupe Municipality", "s_region_slug": "zilupe-municipality", "cities": [{"s_country_code": "LV", "s_region_slug": "zilupe-municipality", "s_city_name": "Zilupe", "s_city_slug": "zilupe"}]}]}
+{
+    "s_country_code": "LV",
+    "s_country_name": "Latvia",
+    "s_country_slug": "latvia",
+    "regions": [
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Aglona Municipality",
+            "s_region_slug": "aglona-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "aglona-municipality",
+                    "s_city_name": "Aglona",
+                    "s_city_slug": "aglona"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Aizkraukle Municipality",
+            "s_region_slug": "aizkraukle-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "aizkraukle-municipality",
+                    "s_city_name": "Aizkraukle",
+                    "s_city_slug": "aizkraukle"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Aizpute Municipality",
+            "s_region_slug": "aizpute-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "aizpute-municipality",
+                    "s_city_name": "Aizpute",
+                    "s_city_slug": "aizpute"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Akniste Municipality",
+            "s_region_slug": "akniste-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "akniste-municipality",
+                    "s_city_name": "Akniste",
+                    "s_city_slug": "akniste"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Aloja Municipality",
+            "s_region_slug": "aloja-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "aloja-municipality",
+                    "s_city_name": "Aloja",
+                    "s_city_slug": "aloja"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "aloja-municipality",
+                    "s_city_name": "Staicele",
+                    "s_city_slug": "staicele"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Alsunga Municipality",
+            "s_region_slug": "alsunga-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "alsunga-municipality",
+                    "s_city_name": "Alsunga",
+                    "s_city_slug": "alsunga"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Aluksne Municipality",
+            "s_region_slug": "aluksne-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "aluksne-municipality",
+                    "s_city_name": "Aluksne",
+                    "s_city_slug": "aluksne"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Amata Municipality",
+            "s_region_slug": "amata-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "amata-municipality",
+                    "s_city_name": "Amata Municipality",
+                    "s_city_slug": "amata-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Ape Municipality",
+            "s_region_slug": "ape-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "ape-municipality",
+                    "s_city_name": "Ape",
+                    "s_city_slug": "ape"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Auce Municipality",
+            "s_region_slug": "auce-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "auce-municipality",
+                    "s_city_name": "Auce",
+                    "s_city_slug": "auce"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Babite Municipality",
+            "s_region_slug": "babite-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "babite-municipality",
+                    "s_city_name": "Pinki",
+                    "s_city_slug": "pinki"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Baldone Municipality",
+            "s_region_slug": "baldone-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "baldone-municipality",
+                    "s_city_name": "Baldone",
+                    "s_city_slug": "baldone"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Baltinava Municipality",
+            "s_region_slug": "baltinava-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "baltinava-municipality",
+                    "s_city_name": "Baltinava",
+                    "s_city_slug": "baltinava"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Balvi Municipality",
+            "s_region_slug": "balvi-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "balvi-municipality",
+                    "s_city_name": "Balvi",
+                    "s_city_slug": "balvi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Bauska Municipality",
+            "s_region_slug": "bauska-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "bauska-municipality",
+                    "s_city_name": "Bauska",
+                    "s_city_slug": "bauska"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Beverina Municipality",
+            "s_region_slug": "beverina-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "beverina-municipality",
+                    "s_city_name": "Murmuiza",
+                    "s_city_slug": "murmuiza"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Broceni Municipality",
+            "s_region_slug": "broceni-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "broceni-municipality",
+                    "s_city_name": "Broceni",
+                    "s_city_slug": "broceni"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Burtnieki Municipality",
+            "s_region_slug": "burtnieki-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "burtnieki-municipality",
+                    "s_city_name": "Burtnieki Municipality",
+                    "s_city_slug": "burtnieki-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Carnikava Municipality",
+            "s_region_slug": "carnikava-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "carnikava-municipality",
+                    "s_city_name": "Carnikava",
+                    "s_city_slug": "carnikava"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Cesis Municipality",
+            "s_region_slug": "cesis-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "cesis-municipality",
+                    "s_city_name": "Cesis",
+                    "s_city_slug": "cesis"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Cesvaine Municipality",
+            "s_region_slug": "cesvaine-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "cesvaine-municipality",
+                    "s_city_name": "Cesvaine",
+                    "s_city_slug": "cesvaine"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Cibla Municipality",
+            "s_region_slug": "cibla-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "cibla-municipality",
+                    "s_city_name": "Cibla",
+                    "s_city_slug": "cibla"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Dagda Municipality",
+            "s_region_slug": "dagda-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "dagda-municipality",
+                    "s_city_name": "Dagda",
+                    "s_city_slug": "dagda"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Daugavpils",
+            "s_region_slug": "daugavpils",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "daugavpils",
+                    "s_city_name": "Daugavpils",
+                    "s_city_slug": "daugavpils"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Daugavpils Municipality",
+            "s_region_slug": "daugavpils-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "daugavpils-municipality",
+                    "s_city_name": "Daugavpils",
+                    "s_city_slug": "daugavpils"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Dobele Municipality",
+            "s_region_slug": "dobele-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "dobele-municipality",
+                    "s_city_name": "Dobele",
+                    "s_city_slug": "dobele"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Dundaga Municipality",
+            "s_region_slug": "dundaga-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "dundaga-municipality",
+                    "s_city_name": "Dundaga",
+                    "s_city_slug": "dundaga"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Durbe Municipality",
+            "s_region_slug": "durbe-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "durbe-municipality",
+                    "s_city_name": "Liegi",
+                    "s_city_slug": "liegi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Engure Municipality",
+            "s_region_slug": "engure-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "engure-municipality",
+                    "s_city_name": "Smarde",
+                    "s_city_slug": "smarde"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Ergli Municipality",
+            "s_region_slug": "ergli-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "ergli-municipality",
+                    "s_city_name": "Ergli",
+                    "s_city_slug": "ergli"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Garkalne Municipality",
+            "s_region_slug": "garkalne-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "garkalne-municipality",
+                    "s_city_name": "Garkalne",
+                    "s_city_slug": "garkalne"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Grobina Municipality",
+            "s_region_slug": "grobina-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "grobina-municipality",
+                    "s_city_name": "Grobina",
+                    "s_city_slug": "grobina"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Gulbene Municipality",
+            "s_region_slug": "gulbene-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "gulbene-municipality",
+                    "s_city_name": "Gulbene",
+                    "s_city_slug": "gulbene"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Iecava Municipality",
+            "s_region_slug": "iecava-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "iecava-municipality",
+                    "s_city_name": "Iecava",
+                    "s_city_slug": "iecava"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Ikskile Municipality",
+            "s_region_slug": "ikskile-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "ikskile-municipality",
+                    "s_city_name": "Ikskile",
+                    "s_city_slug": "ikskile"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Ilukste Municipality",
+            "s_region_slug": "ilukste-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "ilukste-municipality",
+                    "s_city_name": "Ilukste",
+                    "s_city_slug": "ilukste"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Incukalns Municipality",
+            "s_region_slug": "incukalns-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "incukalns-municipality",
+                    "s_city_name": "Incukalns",
+                    "s_city_slug": "incukalns"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "incukalns-municipality",
+                    "s_city_name": "Vangazi",
+                    "s_city_slug": "vangazi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Jaunjelgava Municipality",
+            "s_region_slug": "jaunjelgava-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "jaunjelgava-municipality",
+                    "s_city_name": "Jaunjelgava",
+                    "s_city_slug": "jaunjelgava"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Jaunpiebalga Municipality",
+            "s_region_slug": "jaunpiebalga-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "jaunpiebalga-municipality",
+                    "s_city_name": "Jaunpiebalga Municipality",
+                    "s_city_slug": "jaunpiebalga-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Jaunpils Municipality",
+            "s_region_slug": "jaunpils-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "jaunpils-municipality",
+                    "s_city_name": "Jaunpils",
+                    "s_city_slug": "jaunpils"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Jekabpils",
+            "s_region_slug": "jekabpils",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "jekabpils",
+                    "s_city_name": "Jekabpils",
+                    "s_city_slug": "jekabpils"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Jekabpils Municipality",
+            "s_region_slug": "jekabpils-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "jekabpils-municipality",
+                    "s_city_name": "Jekabpils",
+                    "s_city_slug": "jekabpils"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "jekabpils-municipality",
+                    "s_city_name": "Krustpils",
+                    "s_city_slug": "krustpils"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Jelgava",
+            "s_region_slug": "jelgava",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "jelgava",
+                    "s_city_name": "Jelgava",
+                    "s_city_slug": "jelgava"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Jelgava Municipality",
+            "s_region_slug": "jelgava-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "jelgava-municipality",
+                    "s_city_name": "Tireli",
+                    "s_city_slug": "tireli"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Jurmala",
+            "s_region_slug": "jurmala",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "jurmala",
+                    "s_city_name": "Jurmala",
+                    "s_city_slug": "jurmala"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Kandava Municipality",
+            "s_region_slug": "kandava-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "kandava-municipality",
+                    "s_city_name": "Kandava",
+                    "s_city_slug": "kandava"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Karsava Municipality",
+            "s_region_slug": "karsava-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "karsava-municipality",
+                    "s_city_name": "Karsava",
+                    "s_city_slug": "karsava"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Kegums Municipality",
+            "s_region_slug": "kegums-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "kegums-municipality",
+                    "s_city_name": "Kegums",
+                    "s_city_slug": "kegums"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Kekava Municipality",
+            "s_region_slug": "kekava-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "kekava-municipality",
+                    "s_city_name": "Balozi",
+                    "s_city_slug": "balozi"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "kekava-municipality",
+                    "s_city_name": "Kekava",
+                    "s_city_slug": "kekava"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Koceni Municipality",
+            "s_region_slug": "koceni-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "koceni-municipality",
+                    "s_city_name": "Koceni",
+                    "s_city_slug": "koceni"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Koknese Municipality",
+            "s_region_slug": "koknese-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "koknese-municipality",
+                    "s_city_name": "Koknese",
+                    "s_city_slug": "koknese"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Kraslava Municipality",
+            "s_region_slug": "kraslava-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "kraslava-municipality",
+                    "s_city_name": "Kraslava",
+                    "s_city_slug": "kraslava"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Krimulda Municipality",
+            "s_region_slug": "krimulda-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "krimulda-municipality",
+                    "s_city_name": "Krimulda Municipality",
+                    "s_city_slug": "krimulda-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Krustpils Municipality",
+            "s_region_slug": "krustpils-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "krustpils-municipality",
+                    "s_city_name": "Krustpils Municipality",
+                    "s_city_slug": "krustpils-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Kuldiga Municipality",
+            "s_region_slug": "kuldiga-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "kuldiga-municipality",
+                    "s_city_name": "Kuldiga",
+                    "s_city_slug": "kuldiga"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Lielvarde Municipality",
+            "s_region_slug": "lielvarde-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "lielvarde-municipality",
+                    "s_city_name": "Lielvarde",
+                    "s_city_slug": "lielvarde"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Liepaja",
+            "s_region_slug": "liepaja",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "liepaja",
+                    "s_city_name": "Karosta",
+                    "s_city_slug": "karosta"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "liepaja",
+                    "s_city_name": "Liepaja",
+                    "s_city_slug": "liepaja"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Ligatne Municipality",
+            "s_region_slug": "ligatne-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "ligatne-municipality",
+                    "s_city_name": "Ligatne",
+                    "s_city_slug": "ligatne"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Limbazi Municipality",
+            "s_region_slug": "limbazi-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "limbazi-municipality",
+                    "s_city_name": "Limbazi",
+                    "s_city_slug": "limbazi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Livani Municipality",
+            "s_region_slug": "livani-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "livani-municipality",
+                    "s_city_name": "Livani",
+                    "s_city_slug": "livani"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Lubana Municipality",
+            "s_region_slug": "lubana-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "lubana-municipality",
+                    "s_city_name": "Lubana",
+                    "s_city_slug": "lubana"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Ludza Municipality",
+            "s_region_slug": "ludza-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "ludza-municipality",
+                    "s_city_name": "Ludza",
+                    "s_city_slug": "ludza"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Madona Municipality",
+            "s_region_slug": "madona-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "madona-municipality",
+                    "s_city_name": "Madona",
+                    "s_city_slug": "madona"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Malpils Municipality",
+            "s_region_slug": "malpils-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "malpils-municipality",
+                    "s_city_name": "Malpils",
+                    "s_city_slug": "malpils"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Marupe Municipality",
+            "s_region_slug": "marupe-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "marupe-municipality",
+                    "s_city_name": "Marupe",
+                    "s_city_slug": "marupe"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Mazsalaca Municipality",
+            "s_region_slug": "mazsalaca-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "mazsalaca-municipality",
+                    "s_city_name": "Mazsalaca",
+                    "s_city_slug": "mazsalaca"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Mersrags Municipality",
+            "s_region_slug": "mersrags-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "mersrags-municipality",
+                    "s_city_name": "Mersrags Municipality",
+                    "s_city_slug": "mersrags-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Naukseni Municipality",
+            "s_region_slug": "naukseni-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "naukseni-municipality",
+                    "s_city_name": "Naukseni",
+                    "s_city_slug": "naukseni"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Nereta Municipality",
+            "s_region_slug": "nereta-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "nereta-municipality",
+                    "s_city_name": "Nereta",
+                    "s_city_slug": "nereta"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Nica Municipality",
+            "s_region_slug": "nica-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "nica-municipality",
+                    "s_city_name": "Nica",
+                    "s_city_slug": "nica"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Ogre Municipality",
+            "s_region_slug": "ogre-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "ogre-municipality",
+                    "s_city_name": "Jumprava",
+                    "s_city_slug": "jumprava"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "ogre-municipality",
+                    "s_city_name": "Ogre",
+                    "s_city_slug": "ogre"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Olaine Municipality",
+            "s_region_slug": "olaine-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "olaine-municipality",
+                    "s_city_name": "Olaine",
+                    "s_city_slug": "olaine"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Ozolnieki Municipality",
+            "s_region_slug": "ozolnieki-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "ozolnieki-municipality",
+                    "s_city_name": "Ozolnieki",
+                    "s_city_slug": "ozolnieki"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Pargauja Municipality",
+            "s_region_slug": "pargauja-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "pargauja-municipality",
+                    "s_city_name": "Stalbe",
+                    "s_city_slug": "stalbe"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Pavilosta Municipality",
+            "s_region_slug": "pavilosta-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "pavilosta-municipality",
+                    "s_city_name": "Pavilosta",
+                    "s_city_slug": "pavilosta"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Plavinas Municipality",
+            "s_region_slug": "plavinas-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "plavinas-municipality",
+                    "s_city_name": "Plavinas",
+                    "s_city_slug": "plavinas"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Preili Municipality",
+            "s_region_slug": "preili-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "preili-municipality",
+                    "s_city_name": "Jaunaglona",
+                    "s_city_slug": "jaunaglona"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "preili-municipality",
+                    "s_city_name": "Preili",
+                    "s_city_slug": "preili"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Priekule Municipality",
+            "s_region_slug": "priekule-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "priekule-municipality",
+                    "s_city_name": "Priekule",
+                    "s_city_slug": "priekule"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Priekuli Municipality",
+            "s_region_slug": "priekuli-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "priekuli-municipality",
+                    "s_city_name": "Priekuli",
+                    "s_city_slug": "priekuli"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Rauna Municipality",
+            "s_region_slug": "rauna-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "rauna-municipality",
+                    "s_city_name": "Rauna",
+                    "s_city_slug": "rauna"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Rezekne",
+            "s_region_slug": "rezekne",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "rezekne",
+                    "s_city_name": "Rezekne",
+                    "s_city_slug": "rezekne"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Rezekne Municipality",
+            "s_region_slug": "rezekne-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "rezekne-municipality",
+                    "s_city_name": "Rezekne Municipality",
+                    "s_city_slug": "rezekne-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Riebini Municipality",
+            "s_region_slug": "riebini-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "riebini-municipality",
+                    "s_city_name": "Riebini",
+                    "s_city_slug": "riebini"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Riga",
+            "s_region_slug": "riga",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "riga",
+                    "s_city_name": "Bolderaja",
+                    "s_city_slug": "bolderaja"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "riga",
+                    "s_city_name": "Daugavgriva",
+                    "s_city_slug": "daugavgriva"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "riga",
+                    "s_city_name": "Jaunciems",
+                    "s_city_slug": "jaunciems"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "riga",
+                    "s_city_name": "Mezaparks",
+                    "s_city_slug": "mezaparks"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "riga",
+                    "s_city_name": "Riga",
+                    "s_city_slug": "riga"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Roja Municipality",
+            "s_region_slug": "roja-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "roja-municipality",
+                    "s_city_name": "Roja",
+                    "s_city_slug": "roja"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Ropazi Municipality",
+            "s_region_slug": "ropazi-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "ropazi-municipality",
+                    "s_city_name": "Ropazi",
+                    "s_city_slug": "ropazi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Rucava Municipality",
+            "s_region_slug": "rucava-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "rucava-municipality",
+                    "s_city_name": "Rucava",
+                    "s_city_slug": "rucava"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Rugaji Municipality",
+            "s_region_slug": "rugaji-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "rugaji-municipality",
+                    "s_city_name": "Rugaji",
+                    "s_city_slug": "rugaji"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Rujiena Municipality",
+            "s_region_slug": "rujiena-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "rujiena-municipality",
+                    "s_city_name": "Rujiena",
+                    "s_city_slug": "rujiena"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Rundale Municipality",
+            "s_region_slug": "rundale-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "rundale-municipality",
+                    "s_city_name": "Pilsrundale",
+                    "s_city_slug": "pilsrundale"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Sala Municipality",
+            "s_region_slug": "sala-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "sala-municipality",
+                    "s_city_name": "Sala Municipality",
+                    "s_city_slug": "sala-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Salacgriva Municipality",
+            "s_region_slug": "salacgriva-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "salacgriva-municipality",
+                    "s_city_name": "Ainazi",
+                    "s_city_slug": "ainazi"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "salacgriva-municipality",
+                    "s_city_name": "Salacgriva",
+                    "s_city_slug": "salacgriva"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Salaspils Municipality",
+            "s_region_slug": "salaspils-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "salaspils-municipality",
+                    "s_city_name": "Salaspils",
+                    "s_city_slug": "salaspils"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Saldus Municipality",
+            "s_region_slug": "saldus-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "saldus-municipality",
+                    "s_city_name": "Saldus",
+                    "s_city_slug": "saldus"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Saulkrasti Municipality",
+            "s_region_slug": "saulkrasti-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "saulkrasti-municipality",
+                    "s_city_name": "Saulkrasti",
+                    "s_city_slug": "saulkrasti"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Seja Municipality",
+            "s_region_slug": "seja-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "seja-municipality",
+                    "s_city_name": "Engure",
+                    "s_city_slug": "engure"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "seja-municipality",
+                    "s_city_name": "Tukums",
+                    "s_city_slug": "tukums"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Sigulda Municipality",
+            "s_region_slug": "sigulda-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "sigulda-municipality",
+                    "s_city_name": "Sigulda",
+                    "s_city_slug": "sigulda"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Skriveri Municipality",
+            "s_region_slug": "skriveri-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "skriveri-municipality",
+                    "s_city_name": "Skriveri",
+                    "s_city_slug": "skriveri"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Skrunda Municipality",
+            "s_region_slug": "skrunda-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "skrunda-municipality",
+                    "s_city_name": "Skrunda",
+                    "s_city_slug": "skrunda"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Smiltene Municipality",
+            "s_region_slug": "smiltene-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "smiltene-municipality",
+                    "s_city_name": "Smiltene",
+                    "s_city_slug": "smiltene"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Stopini Municipality",
+            "s_region_slug": "stopini-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "stopini-municipality",
+                    "s_city_name": "Ulbroka",
+                    "s_city_slug": "ulbroka"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Strenci Municipality",
+            "s_region_slug": "strenci-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "strenci-municipality",
+                    "s_city_name": "Seda",
+                    "s_city_slug": "seda"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "strenci-municipality",
+                    "s_city_name": "Strenci",
+                    "s_city_slug": "strenci"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Talsi Municipality",
+            "s_region_slug": "talsi-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "talsi-municipality",
+                    "s_city_name": "Sabile",
+                    "s_city_slug": "sabile"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "talsi-municipality",
+                    "s_city_name": "Stende",
+                    "s_city_slug": "stende"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "talsi-municipality",
+                    "s_city_name": "Talsi",
+                    "s_city_slug": "talsi"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "talsi-municipality",
+                    "s_city_name": "Valdemarpils",
+                    "s_city_slug": "valdemarpils"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Tervete Municipality",
+            "s_region_slug": "tervete-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "tervete-municipality",
+                    "s_city_name": "Tervete",
+                    "s_city_slug": "tervete"
+                },
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "tervete-municipality",
+                    "s_city_name": "Zelmeni",
+                    "s_city_slug": "zelmeni"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Tukums Municipality",
+            "s_region_slug": "tukums-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "tukums-municipality",
+                    "s_city_name": "Tukums Municipality",
+                    "s_city_slug": "tukums-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Vainode Municipality",
+            "s_region_slug": "vainode-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "vainode-municipality",
+                    "s_city_name": "Vainode",
+                    "s_city_slug": "vainode"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Valka Municipality",
+            "s_region_slug": "valka-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "valka-municipality",
+                    "s_city_name": "Valka",
+                    "s_city_slug": "valka"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Valmiera",
+            "s_region_slug": "valmiera",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "valmiera",
+                    "s_city_name": "Valmiera",
+                    "s_city_slug": "valmiera"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Varaklani Municipality",
+            "s_region_slug": "varaklani-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "varaklani-municipality",
+                    "s_city_name": "Varaklani",
+                    "s_city_slug": "varaklani"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Varkava Municipality",
+            "s_region_slug": "varkava-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "varkava-municipality",
+                    "s_city_name": "Vecvarkava",
+                    "s_city_slug": "vecvarkava"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Vecpiebalga Municipality",
+            "s_region_slug": "vecpiebalga-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "vecpiebalga-municipality",
+                    "s_city_name": "Vecpiebalga",
+                    "s_city_slug": "vecpiebalga"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Vecumnieki Municipality",
+            "s_region_slug": "vecumnieki-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "vecumnieki-municipality",
+                    "s_city_name": "Vecumnieki",
+                    "s_city_slug": "vecumnieki"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Ventspils",
+            "s_region_slug": "ventspils",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "ventspils",
+                    "s_city_name": "Ventspils",
+                    "s_city_slug": "ventspils"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Ventspils Municipality",
+            "s_region_slug": "ventspils-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "ventspils-municipality",
+                    "s_city_name": "Piltene",
+                    "s_city_slug": "piltene"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Viesite Municipality",
+            "s_region_slug": "viesite-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "viesite-municipality",
+                    "s_city_name": "Viesite",
+                    "s_city_slug": "viesite"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Vilaka Municipality",
+            "s_region_slug": "vilaka-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "vilaka-municipality",
+                    "s_city_name": "Vilaka",
+                    "s_city_slug": "vilaka"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Vilani Municipality",
+            "s_region_slug": "vilani-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "vilani-municipality",
+                    "s_city_name": "Vilani",
+                    "s_city_slug": "vilani"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LV",
+            "s_region_name": "Zilupe Municipality",
+            "s_region_slug": "zilupe-municipality",
+            "cities": [
+                {
+                    "s_country_code": "LV",
+                    "s_region_slug": "zilupe-municipality",
+                    "s_city_name": "Zilupe",
+                    "s_city_slug": "zilupe"
+                }
+            ]
+        }
+    ]
+}

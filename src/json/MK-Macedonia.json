@@ -1,1 +1,1813 @@
-{"s_country_code": "MK", "s_country_name": "Macedonia", "s_country_slug": "macedonia", "regions": [{"s_country_code": "MK", "s_region_name": "Aerodrom Municipality", "s_region_slug": "aerodrom-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "aerodrom-municipality", "s_city_name": "Aerodrom Municipality", "s_city_slug": "aerodrom-municipality"}]}, {"s_country_code": "MK", "s_region_name": "Aracinovo Municipality", "s_region_slug": "aracinovo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "aracinovo-municipality", "s_city_name": "Arachinovo", "s_city_slug": "arachinovo"}]}, {"s_country_code": "MK", "s_region_name": "Berovo Municipality", "s_region_slug": "berovo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "berovo-municipality", "s_city_name": "Berovo", "s_city_slug": "berovo"}, {"s_country_code": "MK", "s_region_slug": "berovo-municipality", "s_city_name": "Rusinovo", "s_city_slug": "rusinovo"}, {"s_country_code": "MK", "s_region_slug": "berovo-municipality", "s_city_name": "Vladimirovo", "s_city_slug": "vladimirovo"}]}, {"s_country_code": "MK", "s_region_name": "Bitola Municipality", "s_region_slug": "bitola-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "bitola-municipality", "s_city_name": "Bistrica", "s_city_slug": "bistrica"}, {"s_country_code": "MK", "s_region_slug": "bitola-municipality", "s_city_name": "Bitola", "s_city_slug": "bitola"}, {"s_country_code": "MK", "s_region_slug": "bitola-municipality", "s_city_name": "Capari", "s_city_slug": "capari"}, {"s_country_code": "MK", "s_region_slug": "bitola-municipality", "s_city_name": "Dolno Orizari", "s_city_slug": "dolno-orizari"}, {"s_country_code": "MK", "s_region_slug": "bitola-municipality", "s_city_name": "Gorno Orizari", "s_city_slug": "gorno-orizari"}, {"s_country_code": "MK", "s_region_slug": "bitola-municipality", "s_city_name": "Kukurecani", "s_city_slug": "kukurecani"}, {"s_country_code": "MK", "s_region_slug": "bitola-municipality", "s_city_name": "Logovardi", "s_city_slug": "logovardi"}]}, {"s_country_code": "MK", "s_region_name": "Bogdanci Municipality", "s_region_slug": "bogdanci-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "bogdanci-municipality", "s_city_name": "Bogdanci", "s_city_slug": "bogdanci"}, {"s_country_code": "MK", "s_region_slug": "bogdanci-municipality", "s_city_name": "Stojakovo", "s_city_slug": "stojakovo"}]}, {"s_country_code": "MK", "s_region_name": "Bogovinje Municipality", "s_region_slug": "bogovinje-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "bogovinje-municipality", "s_city_name": "Bogovinje", "s_city_slug": "bogovinje"}, {"s_country_code": "MK", "s_region_slug": "bogovinje-municipality", "s_city_name": "Dolno Palciste", "s_city_slug": "dolno-palciste"}, {"s_country_code": "MK", "s_region_slug": "bogovinje-municipality", "s_city_name": "Gradec", "s_city_slug": "gradec"}, {"s_country_code": "MK", "s_region_slug": "bogovinje-municipality", "s_city_name": "Kamenjane", "s_city_slug": "kamenjane"}]}, {"s_country_code": "MK", "s_region_name": "Bosilovo Municipality", "s_region_slug": "bosilovo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "bosilovo-municipality", "s_city_name": "Bosilovo", "s_city_slug": "bosilovo"}, {"s_country_code": "MK", "s_region_slug": "bosilovo-municipality", "s_city_name": "Ilovica", "s_city_slug": "ilovica"}, {"s_country_code": "MK", "s_region_slug": "bosilovo-municipality", "s_city_name": "Sekirnik", "s_city_slug": "sekirnik"}]}, {"s_country_code": "MK", "s_region_name": "Brvenica Municipality", "s_region_slug": "brvenica-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "brvenica-municipality", "s_city_name": "Brvenica", "s_city_slug": "brvenica"}, {"s_country_code": "MK", "s_region_slug": "brvenica-municipality", "s_city_name": "Celopek", "s_city_slug": "celopek"}, {"s_country_code": "MK", "s_region_slug": "brvenica-municipality", "s_city_name": "Gurgurnica", "s_city_slug": "gurgurnica"}, {"s_country_code": "MK", "s_region_slug": "brvenica-municipality", "s_city_name": "Miletino", "s_city_slug": "miletino"}]}, {"s_country_code": "MK", "s_region_name": "Butel Municipality", "s_region_slug": "butel-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "butel-municipality", "s_city_name": "Butel", "s_city_slug": "butel"}, {"s_country_code": "MK", "s_region_slug": "butel-municipality", "s_city_name": "Radishani", "s_city_slug": "radishani"}]}, {"s_country_code": "MK", "s_region_name": "Cair Municipality", "s_region_slug": "cair-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "cair-municipality", "s_city_name": "Cair", "s_city_slug": "cair"}]}, {"s_country_code": "MK", "s_region_name": "Caska Municipality", "s_region_slug": "caska-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "caska-municipality", "s_city_name": "Bogomila", "s_city_slug": "bogomila"}, {"s_country_code": "MK", "s_region_slug": "caska-municipality", "s_city_name": "Caska", "s_city_slug": "caska"}]}, {"s_country_code": "MK", "s_region_name": "Centar Municipality", "s_region_slug": "centar-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "centar-municipality", "s_city_name": "Centar Municipality", "s_city_slug": "centar-municipality"}]}, {"s_country_code": "MK", "s_region_name": "Centar Zupa Municipality", "s_region_slug": "centar-zupa-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "centar-zupa-municipality", "s_city_name": "Centar Zupa", "s_city_slug": "centar-zupa"}]}, {"s_country_code": "MK", "s_region_name": "Cesinovo-Oblesevo Municipality", "s_region_slug": "cesinovo-oblesevo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "cesinovo-oblesevo-municipality", "s_city_name": "Cesinovo", "s_city_slug": "cesinovo"}, {"s_country_code": "MK", "s_region_slug": "cesinovo-oblesevo-municipality", "s_city_name": "Oblesevo", "s_city_slug": "oblesevo"}]}, {"s_country_code": "MK", "s_region_name": "Cucer-Sandevo Municipality", "s_region_slug": "cucer-sandevo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "cucer-sandevo-municipality", "s_city_name": " - ", "s_city_slug": "-"}]}, {"s_country_code": "MK", "s_region_name": "Debarca Municipality", "s_region_slug": "debarca-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "debarca-municipality", "s_city_name": "Belcista", "s_city_slug": "belcista"}, {"s_country_code": "MK", "s_region_slug": "debarca-municipality", "s_city_name": "Meseista", "s_city_slug": "meseista"}]}, {"s_country_code": "MK", "s_region_name": "Delcevo Municipality", "s_region_slug": "delcevo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "delcevo-municipality", "s_city_name": "Delcevo", "s_city_slug": "delcevo"}]}, {"s_country_code": "MK", "s_region_name": "Demir Hisar Municipality", "s_region_slug": "demir-hisar-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "demir-hisar-municipality", "s_city_name": "Demir Hisar", "s_city_slug": "demir-hisar"}, {"s_country_code": "MK", "s_region_slug": "demir-hisar-municipality", "s_city_name": "Slepce", "s_city_slug": "slepce"}, {"s_country_code": "MK", "s_region_slug": "demir-hisar-municipality", "s_city_name": "Sopotnica", "s_city_slug": "sopotnica"}]}, {"s_country_code": "MK", "s_region_name": "Demir Kapija Municipality", "s_region_slug": "demir-kapija-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "demir-kapija-municipality", "s_city_name": "Demir Kapija", "s_city_slug": "demir-kapija"}]}, {"s_country_code": "MK", "s_region_name": "Dojran Municipality", "s_region_slug": "dojran-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "dojran-municipality", "s_city_name": "Star Dojran", "s_city_slug": "star-dojran"}]}, {"s_country_code": "MK", "s_region_name": "Dolneni Municipality", "s_region_slug": "dolneni-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "dolneni-municipality", "s_city_name": "Crniliste", "s_city_slug": "crniliste"}, {"s_country_code": "MK", "s_region_slug": "dolneni-municipality", "s_city_name": "Desovo", "s_city_slug": "desovo"}, {"s_country_code": "MK", "s_region_slug": "dolneni-municipality", "s_city_name": "Dolneni", "s_city_slug": "dolneni"}, {"s_country_code": "MK", "s_region_slug": "dolneni-municipality", "s_city_name": "Lazani", "s_city_slug": "lazani"}, {"s_country_code": "MK", "s_region_slug": "dolneni-municipality", "s_city_name": "Zitose", "s_city_slug": "zitose"}]}, {"s_country_code": "MK", "s_region_name": "Drugovo Municipality", "s_region_slug": "drugovo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "drugovo-municipality", "s_city_name": "Drugovo Municipality", "s_city_slug": "drugovo-municipality"}]}, {"s_country_code": "MK", "s_region_name": "Gazi Baba Municipality", "s_region_slug": "gazi-baba-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "gazi-baba-municipality", "s_city_name": "Cresevo", "s_city_slug": "cresevo"}]}, {"s_country_code": "MK", "s_region_name": "Gevgelija Municipality", "s_region_slug": "gevgelija-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "gevgelija-municipality", "s_city_name": "Gevgelija", "s_city_slug": "gevgelija"}, {"s_country_code": "MK", "s_region_slug": "gevgelija-municipality", "s_city_name": "Miravci", "s_city_slug": "miravci"}]}, {"s_country_code": "MK", "s_region_name": "Gjorce Petrov Municipality", "s_region_slug": "gjorce-petrov-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "gjorce-petrov-municipality", "s_city_name": "Gjorce Petro", "s_city_slug": "gjorce-petro"}]}, {"s_country_code": "MK", "s_region_name": "Gostivar Municipality", "s_region_slug": "gostivar-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "gostivar-municipality", "s_city_name": "Cegrane", "s_city_slug": "cegrane"}, {"s_country_code": "MK", "s_region_slug": "gostivar-municipality", "s_city_name": "Dolna Banjica", "s_city_slug": "dolna-banjica"}, {"s_country_code": "MK", "s_region_slug": "gostivar-municipality", "s_city_name": "Forino", "s_city_slug": "forino"}, {"s_country_code": "MK", "s_region_slug": "gostivar-municipality", "s_city_name": "Gostivar", "s_city_slug": "gostivar"}, {"s_country_code": "MK", "s_region_slug": "gostivar-municipality", "s_city_name": "Srbinovo", "s_city_slug": "srbinovo"}, {"s_country_code": "MK", "s_region_slug": "gostivar-municipality", "s_city_name": "Vrutok", "s_city_slug": "vrutok"}]}, {"s_country_code": "MK", "s_region_name": "Gradsko Municipality", "s_region_slug": "gradsko-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "gradsko-municipality", "s_city_name": "Gradsko", "s_city_slug": "gradsko"}]}, {"s_country_code": "MK", "s_region_name": "Greater Skopje", "s_region_slug": "greater-skopje", "cities": [{"s_country_code": "MK", "s_region_slug": "greater-skopje", "s_city_name": "Bojane", "s_city_slug": "bojane"}, {"s_country_code": "MK", "s_region_slug": "greater-skopje", "s_city_name": "Dracevo", "s_city_slug": "dracevo"}, {"s_country_code": "MK", "s_region_slug": "greater-skopje", "s_city_name": "Ljubin", "s_city_slug": "ljubin"}, {"s_country_code": "MK", "s_region_slug": "greater-skopje", "s_city_name": "Saraj", "s_city_slug": "saraj"}, {"s_country_code": "MK", "s_region_slug": "greater-skopje", "s_city_name": "Usje", "s_city_slug": "usje"}]}, {"s_country_code": "MK", "s_region_name": "Ilinden Municipality", "s_region_slug": "ilinden-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "ilinden-municipality", "s_city_name": "Ilinden", "s_city_slug": "ilinden"}, {"s_country_code": "MK", "s_region_slug": "ilinden-municipality", "s_city_name": "Kadino", "s_city_slug": "kadino"}, {"s_country_code": "MK", "s_region_slug": "ilinden-municipality", "s_city_name": "Marino", "s_city_slug": "marino"}, {"s_country_code": "MK", "s_region_slug": "ilinden-municipality", "s_city_name": "Miladinovci", "s_city_slug": "miladinovci"}, {"s_country_code": "MK", "s_region_slug": "ilinden-municipality", "s_city_name": "Idrizovo", "s_city_slug": "idrizovo"}, {"s_country_code": "MK", "s_region_slug": "ilinden-municipality", "s_city_name": "Jurumleri", "s_city_slug": "jurumleri"}]}, {"s_country_code": "MK", "s_region_name": "Jegunovce Municipality", "s_region_slug": "jegunovce-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "jegunovce-municipality", "s_city_name": "Jegunovce", "s_city_slug": "jegunovce"}, {"s_country_code": "MK", "s_region_slug": "jegunovce-municipality", "s_city_name": "Vratnica", "s_city_slug": "vratnica"}]}, {"s_country_code": "MK", "s_region_name": "Karbinci", "s_region_slug": "karbinci", "cities": [{"s_country_code": "MK", "s_region_slug": "karbinci", "s_city_name": "Karbinci", "s_city_slug": "karbinci"}]}, {"s_country_code": "MK", "s_region_name": "Karpos Municipality", "s_region_slug": "karpos-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "karpos-municipality", "s_city_name": "Skopje", "s_city_slug": "skopje"}]}, {"s_country_code": "MK", "s_region_name": "Kavadarci Municipality", "s_region_slug": "kavadarci-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "kavadarci-municipality", "s_city_name": "Kavadarci", "s_city_slug": "kavadarci"}, {"s_country_code": "MK", "s_region_slug": "kavadarci-municipality", "s_city_name": "Vatasa", "s_city_slug": "vatasa"}]}, {"s_country_code": "MK", "s_region_name": "Kicevo Municipality", "s_region_slug": "kicevo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "kicevo-municipality", "s_city_name": "Drugovo", "s_city_slug": "drugovo"}, {"s_country_code": "MK", "s_region_slug": "kicevo-municipality", "s_city_name": "Kicevo", "s_city_slug": "kicevo"}, {"s_country_code": "MK", "s_region_slug": "kicevo-municipality", "s_city_name": "Srbica", "s_city_slug": "srbica"}, {"s_country_code": "MK", "s_region_slug": "kicevo-municipality", "s_city_name": "Strelci", "s_city_slug": "strelci"}, {"s_country_code": "MK", "s_region_slug": "kicevo-municipality", "s_city_name": "Tuin", "s_city_slug": "tuin"}, {"s_country_code": "MK", "s_region_slug": "kicevo-municipality", "s_city_name": "Vranestica", "s_city_slug": "vranestica"}, {"s_country_code": "MK", "s_region_slug": "kicevo-municipality", "s_city_name": "Zajas", "s_city_slug": "zajas"}]}, {"s_country_code": "MK", "s_region_name": "Kisela Voda Municipality", "s_region_slug": "kisela-voda-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "kisela-voda-municipality", "s_city_name": "Kisela Voda", "s_city_slug": "kisela-voda"}]}, {"s_country_code": "MK", "s_region_name": "Kocani Municipality", "s_region_slug": "kocani-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "kocani-municipality", "s_city_name": "Kochani", "s_city_slug": "kochani"}, {"s_country_code": "MK", "s_region_slug": "kocani-municipality", "s_city_name": "Orizari", "s_city_slug": "orizari"}]}, {"s_country_code": "MK", "s_region_name": "Konce Municipality", "s_region_slug": "konce-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "konce-municipality", "s_city_name": "Konce", "s_city_slug": "konce"}]}, {"s_country_code": "MK", "s_region_name": "Kratovo Municipality", "s_region_slug": "kratovo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "kratovo-municipality", "s_city_name": "Kratovo", "s_city_slug": "kratovo"}]}, {"s_country_code": "MK", "s_region_name": "Kriva Palanka Municipality", "s_region_slug": "kriva-palanka-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "kriva-palanka-municipality", "s_city_name": "Kriva Palanka", "s_city_slug": "kriva-palanka"}]}, {"s_country_code": "MK", "s_region_name": "Krivogastani Municipality", "s_region_slug": "krivogastani-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "krivogastani-municipality", "s_city_name": "Krivogashtani", "s_city_slug": "krivogashtani"}, {"s_country_code": "MK", "s_region_slug": "krivogastani-municipality", "s_city_name": "Obrsani", "s_city_slug": "obrsani"}, {"s_country_code": "MK", "s_region_slug": "krivogastani-municipality", "s_city_name": "Klechovtse", "s_city_slug": "klechovtse"}]}, {"s_country_code": "MK", "s_region_name": "Krusevo Municipality", "s_region_slug": "krusevo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "krusevo-municipality", "s_city_name": "Bucin", "s_city_slug": "bucin"}, {"s_country_code": "MK", "s_region_slug": "krusevo-municipality", "s_city_name": "Krusevo", "s_city_slug": "krusevo"}]}, {"s_country_code": "MK", "s_region_name": "Kumanovo Municipality", "s_region_slug": "kumanovo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "kumanovo-municipality", "s_city_name": "Bedinje", "s_city_slug": "bedinje"}, {"s_country_code": "MK", "s_region_slug": "kumanovo-municipality", "s_city_name": "Kumanovo", "s_city_slug": "kumanovo"}, {"s_country_code": "MK", "s_region_slug": "kumanovo-municipality", "s_city_name": "Romanovci", "s_city_slug": "romanovci"}]}, {"s_country_code": "MK", "s_region_name": "Lipkovo Municipality", "s_region_slug": "lipkovo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "lipkovo-municipality", "s_city_name": "Izvor", "s_city_slug": "izvor"}, {"s_country_code": "MK", "s_region_slug": "lipkovo-municipality", "s_city_name": "Lipkovo", "s_city_slug": "lipkovo"}, {"s_country_code": "MK", "s_region_slug": "lipkovo-municipality", "s_city_name": "Lojane", "s_city_slug": "lojane"}, {"s_country_code": "MK", "s_region_slug": "lipkovo-municipality", "s_city_name": "Matejce", "s_city_slug": "matejce"}, {"s_country_code": "MK", "s_region_slug": "lipkovo-municipality", "s_city_name": "Otlja", "s_city_slug": "otlja"}, {"s_country_code": "MK", "s_region_slug": "lipkovo-municipality", "s_city_name": "Vaksince", "s_city_slug": "vaksince"}, {"s_country_code": "MK", "s_region_slug": "lipkovo-municipality", "s_city_name": "Slupcane", "s_city_slug": "slupcane"}]}, {"s_country_code": "MK", "s_region_name": "Lozovo Municipality", "s_region_slug": "lozovo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "lozovo-municipality", "s_city_name": "Lozovo", "s_city_slug": "lozovo"}]}, {"s_country_code": "MK", "s_region_name": "Makedonska Kamenica Municipality", "s_region_slug": "makedonska-kamenica-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "makedonska-kamenica-municipality", "s_city_name": "Makedonska Kamenica", "s_city_slug": "makedonska-kamenica"}]}, {"s_country_code": "MK", "s_region_name": "Makedonski Brod Municipality", "s_region_slug": "makedonski-brod-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "makedonski-brod-municipality", "s_city_name": "Makedonski Brod", "s_city_slug": "makedonski-brod"}, {"s_country_code": "MK", "s_region_slug": "makedonski-brod-municipality", "s_city_name": "Samokov", "s_city_slug": "samokov"}]}, {"s_country_code": "MK", "s_region_name": "Mavrovo and Rostusa Municipality", "s_region_slug": "mavrovo-and-rostusa-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "mavrovo-and-rostusa-municipality", "s_city_name": "Rostusa", "s_city_slug": "rostusa"}]}, {"s_country_code": "MK", "s_region_name": "Mogila Municipality", "s_region_slug": "mogila-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "mogila-municipality", "s_city_name": "Beranci", "s_city_slug": "beranci"}, {"s_country_code": "MK", "s_region_slug": "mogila-municipality", "s_city_name": "Dobrusevo", "s_city_slug": "dobrusevo"}, {"s_country_code": "MK", "s_region_slug": "mogila-municipality", "s_city_name": "Dolno Srpci", "s_city_slug": "dolno-srpci"}, {"s_country_code": "MK", "s_region_slug": "mogila-municipality", "s_city_name": "Mogila", "s_city_slug": "mogila"}]}, {"s_country_code": "MK", "s_region_name": "Negotino Municipality", "s_region_slug": "negotino-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "negotino-municipality", "s_city_name": "Negotino", "s_city_slug": "negotino"}]}, {"s_country_code": "MK", "s_region_name": "Novaci Municipality", "s_region_slug": "novaci-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "novaci-municipality", "s_city_name": "Novaci", "s_city_slug": "novaci"}]}, {"s_country_code": "MK", "s_region_name": "Novo Selo Municipality", "s_region_slug": "novo-selo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "novo-selo-municipality", "s_city_name": "Novo Selo", "s_city_slug": "novo-selo"}, {"s_country_code": "MK", "s_region_slug": "novo-selo-municipality", "s_city_name": "Susica", "s_city_slug": "susica"}]}, {"s_country_code": "MK", "s_region_name": "Ohrid Municipality", "s_region_slug": "ohrid-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "ohrid-municipality", "s_city_name": "Kosel", "s_city_slug": "kosel"}, {"s_country_code": "MK", "s_region_slug": "ohrid-municipality", "s_city_name": "Ohrid", "s_city_slug": "ohrid"}, {"s_country_code": "MK", "s_region_slug": "ohrid-municipality", "s_city_name": "Ohrid Opstina", "s_city_slug": "ohrid-opstina"}]}, {"s_country_code": "MK", "s_region_name": "Oslomej Municipality", "s_region_slug": "oslomej-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "oslomej-municipality", "s_city_name": "Oslomej Municipality", "s_city_slug": "oslomej-municipality"}]}, {"s_country_code": "MK", "s_region_name": "Pehcevo Municipality", "s_region_slug": "pehcevo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "pehcevo-municipality", "s_city_name": "Pehcevo", "s_city_slug": "pehcevo"}]}, {"s_country_code": "MK", "s_region_name": "Petrovec Municipality", "s_region_slug": "petrovec-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "petrovec-municipality", "s_city_name": "Sredno Konjare", "s_city_slug": "sredno-konjare"}, {"s_country_code": "MK", "s_region_slug": "petrovec-municipality", "s_city_name": "Petrovec", "s_city_slug": "petrovec"}]}, {"s_country_code": "MK", "s_region_name": "Plasnica Municipality", "s_region_slug": "plasnica-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "plasnica-municipality", "s_city_name": "Lisicani", "s_city_slug": "lisicani"}, {"s_country_code": "MK", "s_region_slug": "plasnica-municipality", "s_city_name": "Plasnica", "s_city_slug": "plasnica"}]}, {"s_country_code": "MK", "s_region_name": "Prilep Municipality", "s_region_slug": "prilep-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "prilep-municipality", "s_city_name": "Kanatlarci", "s_city_slug": "kanatlarci"}, {"s_country_code": "MK", "s_region_slug": "prilep-municipality", "s_city_name": "Markov Grad", "s_city_slug": "markov-grad"}, {"s_country_code": "MK", "s_region_slug": "prilep-municipality", "s_city_name": "Prilep", "s_city_slug": "prilep"}, {"s_country_code": "MK", "s_region_slug": "prilep-municipality", "s_city_name": "Topolcani", "s_city_slug": "topolcani"}]}, {"s_country_code": "MK", "s_region_name": "Probistip Municipality", "s_region_slug": "probistip-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "probistip-municipality", "s_city_name": "Probishtip", "s_city_slug": "probishtip"}, {"s_country_code": "MK", "s_region_slug": "probistip-municipality", "s_city_name": "Zletovo", "s_city_slug": "zletovo"}]}, {"s_country_code": "MK", "s_region_name": "Radovis Municipality", "s_region_slug": "radovis-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "radovis-municipality", "s_city_name": "Oraovica", "s_city_slug": "oraovica"}, {"s_country_code": "MK", "s_region_slug": "radovis-municipality", "s_city_name": "Podares", "s_city_slug": "podares"}, {"s_country_code": "MK", "s_region_slug": "radovis-municipality", "s_city_name": "Radovis", "s_city_slug": "radovis"}]}, {"s_country_code": "MK", "s_region_name": "Rankovce Municipality", "s_region_slug": "rankovce-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "rankovce-municipality", "s_city_name": "Rankovtse", "s_city_slug": "rankovtse"}]}, {"s_country_code": "MK", "s_region_name": "Resen Municipality", "s_region_slug": "resen-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "resen-municipality", "s_city_name": "Grncari", "s_city_slug": "grncari"}, {"s_country_code": "MK", "s_region_slug": "resen-municipality", "s_city_name": "Jankovec", "s_city_slug": "jankovec"}, {"s_country_code": "MK", "s_region_slug": "resen-municipality", "s_city_name": "Krani", "s_city_slug": "krani"}, {"s_country_code": "MK", "s_region_slug": "resen-municipality", "s_city_name": "Resen", "s_city_slug": "resen"}]}, {"s_country_code": "MK", "s_region_name": "Rosoman Municipality", "s_region_slug": "rosoman-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "rosoman-municipality", "s_city_name": "Rosoman", "s_city_slug": "rosoman"}]}, {"s_country_code": "MK", "s_region_name": "Saraj Municipality", "s_region_slug": "saraj-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "saraj-municipality", "s_city_name": "Bukovik", "s_city_slug": "bukovik"}, {"s_country_code": "MK", "s_region_slug": "saraj-municipality", "s_city_name": "Grcec", "s_city_slug": "grcec"}, {"s_country_code": "MK", "s_region_slug": "saraj-municipality", "s_city_name": "Kondovo", "s_city_slug": "kondovo"}, {"s_country_code": "MK", "s_region_slug": "saraj-municipality", "s_city_name": "Krusopek", "s_city_slug": "krusopek"}]}, {"s_country_code": "MK", "s_region_name": "Sopiste Municipality", "s_region_slug": "sopiste-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "sopiste-municipality", "s_city_name": "Sopishte", "s_city_slug": "sopishte"}]}, {"s_country_code": "MK", "s_region_name": "Staro Nagoricane Municipality", "s_region_slug": "staro-nagoricane-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "staro-nagoricane-municipality", "s_city_name": " ", "s_city_slug": NaN}]}, {"s_country_code": "MK", "s_region_name": "Stip Municipality", "s_region_slug": "stip-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "stip-municipality", "s_city_name": "Shtip", "s_city_slug": "shtip"}]}, {"s_country_code": "MK", "s_region_name": "Struga Municipality", "s_region_slug": "struga-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "struga-municipality", "s_city_name": "Delogozda", "s_city_slug": "delogozda"}, {"s_country_code": "MK", "s_region_slug": "struga-municipality", "s_city_name": "Labunista", "s_city_slug": "labunista"}, {"s_country_code": "MK", "s_region_slug": "struga-municipality", "s_city_name": "Lukovo", "s_city_slug": "lukovo"}, {"s_country_code": "MK", "s_region_slug": "struga-municipality", "s_city_name": "Mislesevo", "s_city_slug": "mislesevo"}, {"s_country_code": "MK", "s_region_slug": "struga-municipality", "s_city_name": "Oktisi", "s_city_slug": "oktisi"}, {"s_country_code": "MK", "s_region_slug": "struga-municipality", "s_city_name": "Radolista", "s_city_slug": "radolista"}, {"s_country_code": "MK", "s_region_slug": "struga-municipality", "s_city_name": "Struga", "s_city_slug": "struga"}, {"s_country_code": "MK", "s_region_slug": "struga-municipality", "s_city_name": "Velesta", "s_city_slug": "velesta"}]}, {"s_country_code": "MK", "s_region_name": "Strumica Municipality", "s_region_slug": "strumica-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "strumica-municipality", "s_city_name": "Kuklis", "s_city_slug": "kuklis"}, {"s_country_code": "MK", "s_region_slug": "strumica-municipality", "s_city_name": "Murtino", "s_city_slug": "murtino"}, {"s_country_code": "MK", "s_region_slug": "strumica-municipality", "s_city_name": "Strumica", "s_city_slug": "strumica"}, {"s_country_code": "MK", "s_region_slug": "strumica-municipality", "s_city_name": "Veljusa", "s_city_slug": "veljusa"}]}, {"s_country_code": "MK", "s_region_name": "Studenicani Municipality", "s_region_slug": "studenicani-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "studenicani-municipality", "s_city_name": "Batinci", "s_city_slug": "batinci"}, {"s_country_code": "MK", "s_region_slug": "studenicani-municipality", "s_city_name": "Dolno Kolicani", "s_city_slug": "dolno-kolicani"}, {"s_country_code": "MK", "s_region_slug": "studenicani-municipality", "s_city_name": "Morani", "s_city_slug": "morani"}, {"s_country_code": "MK", "s_region_slug": "studenicani-municipality", "s_city_name": "Studenicane", "s_city_slug": "studenicane"}]}, {"s_country_code": "MK", "s_region_name": "Suto Orizari Municipality", "s_region_slug": "suto-orizari-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "suto-orizari-municipality", "s_city_name": "Suto Orizare", "s_city_slug": "suto-orizare"}]}, {"s_country_code": "MK", "s_region_name": "Sveti Nikole Municipality", "s_region_slug": "sveti-nikole-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "sveti-nikole-municipality", "s_city_name": "Gorobinci", "s_city_slug": "gorobinci"}, {"s_country_code": "MK", "s_region_slug": "sveti-nikole-municipality", "s_city_name": "Sveti Nikole", "s_city_slug": "sveti-nikole"}]}, {"s_country_code": "MK", "s_region_name": "Tearce Municipality", "s_region_slug": "tearce-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "tearce-municipality", "s_city_name": "Neraste", "s_city_slug": "neraste"}, {"s_country_code": "MK", "s_region_slug": "tearce-municipality", "s_city_name": "Orashac", "s_city_slug": "orashac"}, {"s_country_code": "MK", "s_region_slug": "tearce-municipality", "s_city_name": "Prsovce", "s_city_slug": "prsovce"}, {"s_country_code": "MK", "s_region_slug": "tearce-municipality", "s_city_name": "Slatino", "s_city_slug": "slatino"}, {"s_country_code": "MK", "s_region_slug": "tearce-municipality", "s_city_name": "Tearce", "s_city_slug": "tearce"}]}, {"s_country_code": "MK", "s_region_name": "Tetovo Municipality", "s_region_slug": "tetovo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "tetovo-municipality", "s_city_name": "Dobroste", "s_city_slug": "dobroste"}, {"s_country_code": "MK", "s_region_slug": "tetovo-municipality", "s_city_name": "Dzepciste", "s_city_slug": "dzepciste"}, {"s_country_code": "MK", "s_region_slug": "tetovo-municipality", "s_city_name": "Golema Recica", "s_city_slug": "golema-recica"}, {"s_country_code": "MK", "s_region_slug": "tetovo-municipality", "s_city_name": "Pirok", "s_city_slug": "pirok"}, {"s_country_code": "MK", "s_region_slug": "tetovo-municipality", "s_city_name": "Poroj", "s_city_slug": "poroj"}, {"s_country_code": "MK", "s_region_slug": "tetovo-municipality", "s_city_name": "Selce", "s_city_slug": "selce"}, {"s_country_code": "MK", "s_region_slug": "tetovo-municipality", "s_city_name": "Sipkovica", "s_city_slug": "sipkovica"}, {"s_country_code": "MK", "s_region_slug": "tetovo-municipality", "s_city_name": "Tetovo", "s_city_slug": "tetovo"}]}, {"s_country_code": "MK", "s_region_name": "Valandovo Municipality", "s_region_slug": "valandovo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "valandovo-municipality", "s_city_name": "Pirava", "s_city_slug": "pirava"}, {"s_country_code": "MK", "s_region_slug": "valandovo-municipality", "s_city_name": "Valandovo", "s_city_slug": "valandovo"}]}, {"s_country_code": "MK", "s_region_name": "Vasilevo Municipality", "s_region_slug": "vasilevo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "vasilevo-municipality", "s_city_name": "Vasilevo", "s_city_slug": "vasilevo"}]}, {"s_country_code": "MK", "s_region_name": "Veles Municipality", "s_region_slug": "veles-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "veles-municipality", "s_city_name": "Gorno Orizari", "s_city_slug": "gorno-orizari"}, {"s_country_code": "MK", "s_region_slug": "veles-municipality", "s_city_name": "Ivankovci", "s_city_slug": "ivankovci"}, {"s_country_code": "MK", "s_region_slug": "veles-municipality", "s_city_name": "Veles", "s_city_slug": "veles"}]}, {"s_country_code": "MK", "s_region_name": "Vevcani Municipality", "s_region_slug": "vevcani-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "vevcani-municipality", "s_city_name": "Vevcani", "s_city_slug": "vevcani"}]}, {"s_country_code": "MK", "s_region_name": "Vinica Municipality", "s_region_slug": "vinica-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "vinica-municipality", "s_city_name": "Blatec", "s_city_slug": "blatec"}, {"s_country_code": "MK", "s_region_slug": "vinica-municipality", "s_city_name": "Gradec", "s_city_slug": "gradec"}, {"s_country_code": "MK", "s_region_slug": "vinica-municipality", "s_city_name": "Vinica", "s_city_slug": "vinica"}]}, {"s_country_code": "MK", "s_region_name": "Vranestica Municipality", "s_region_slug": "vranestica-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "vranestica-municipality", "s_city_name": "Vranestica Municipality", "s_city_slug": "vranestica-municipality"}]}, {"s_country_code": "MK", "s_region_name": "Vrapciste Municipality", "s_region_slug": "vrapciste-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "vrapciste-municipality", "s_city_name": "Dobri Dol", "s_city_slug": "dobri-dol"}, {"s_country_code": "MK", "s_region_slug": "vrapciste-municipality", "s_city_name": "Negotino", "s_city_slug": "negotino"}, {"s_country_code": "MK", "s_region_slug": "vrapciste-municipality", "s_city_name": "Vrapciste", "s_city_slug": "vrapciste"}]}, {"s_country_code": "MK", "s_region_name": "Zajas Municipality", "s_region_slug": "zajas-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "zajas-municipality", "s_city_name": "Zajas Municipality", "s_city_slug": "zajas-municipality"}]}, {"s_country_code": "MK", "s_region_name": "Zelenikovo Municipality", "s_region_slug": "zelenikovo-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "zelenikovo-municipality", "s_city_name": "Zelenikovo", "s_city_slug": "zelenikovo"}]}, {"s_country_code": "MK", "s_region_name": "Zelino Municipality", "s_region_slug": "zelino-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "zelino-municipality", "s_city_name": "Dobarce", "s_city_slug": "dobarce"}, {"s_country_code": "MK", "s_region_slug": "zelino-municipality", "s_city_name": "Larce", "s_city_slug": "larce"}, {"s_country_code": "MK", "s_region_slug": "zelino-municipality", "s_city_name": "Sedlarevo", "s_city_slug": "sedlarevo"}, {"s_country_code": "MK", "s_region_slug": "zelino-municipality", "s_city_name": "Strimnica", "s_city_slug": "strimnica"}, {"s_country_code": "MK", "s_region_slug": "zelino-municipality", "s_city_name": "Zelino", "s_city_slug": "zelino"}]}, {"s_country_code": "MK", "s_region_name": "Zrnovci Municipality", "s_region_slug": "zrnovci-municipality", "cities": [{"s_country_code": "MK", "s_region_slug": "zrnovci-municipality", "s_city_name": "Zrnovci", "s_city_slug": "zrnovci"}]}]}
+{
+    "s_country_code": "MK",
+    "s_country_name": "Macedonia",
+    "s_country_slug": "macedonia",
+    "regions": [
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Aerodrom Municipality",
+            "s_region_slug": "aerodrom-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "aerodrom-municipality",
+                    "s_city_name": "Aerodrom Municipality",
+                    "s_city_slug": "aerodrom-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Aracinovo Municipality",
+            "s_region_slug": "aracinovo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "aracinovo-municipality",
+                    "s_city_name": "Arachinovo",
+                    "s_city_slug": "arachinovo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Berovo Municipality",
+            "s_region_slug": "berovo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "berovo-municipality",
+                    "s_city_name": "Berovo",
+                    "s_city_slug": "berovo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "berovo-municipality",
+                    "s_city_name": "Rusinovo",
+                    "s_city_slug": "rusinovo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "berovo-municipality",
+                    "s_city_name": "Vladimirovo",
+                    "s_city_slug": "vladimirovo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Bitola Municipality",
+            "s_region_slug": "bitola-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bitola-municipality",
+                    "s_city_name": "Bistrica",
+                    "s_city_slug": "bistrica"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bitola-municipality",
+                    "s_city_name": "Bitola",
+                    "s_city_slug": "bitola"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bitola-municipality",
+                    "s_city_name": "Capari",
+                    "s_city_slug": "capari"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bitola-municipality",
+                    "s_city_name": "Dolno Orizari",
+                    "s_city_slug": "dolno-orizari"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bitola-municipality",
+                    "s_city_name": "Gorno Orizari",
+                    "s_city_slug": "gorno-orizari"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bitola-municipality",
+                    "s_city_name": "Kukurecani",
+                    "s_city_slug": "kukurecani"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bitola-municipality",
+                    "s_city_name": "Logovardi",
+                    "s_city_slug": "logovardi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Bogdanci Municipality",
+            "s_region_slug": "bogdanci-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bogdanci-municipality",
+                    "s_city_name": "Bogdanci",
+                    "s_city_slug": "bogdanci"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bogdanci-municipality",
+                    "s_city_name": "Stojakovo",
+                    "s_city_slug": "stojakovo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Bogovinje Municipality",
+            "s_region_slug": "bogovinje-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bogovinje-municipality",
+                    "s_city_name": "Bogovinje",
+                    "s_city_slug": "bogovinje"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bogovinje-municipality",
+                    "s_city_name": "Dolno Palciste",
+                    "s_city_slug": "dolno-palciste"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bogovinje-municipality",
+                    "s_city_name": "Gradec",
+                    "s_city_slug": "gradec"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bogovinje-municipality",
+                    "s_city_name": "Kamenjane",
+                    "s_city_slug": "kamenjane"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Bosilovo Municipality",
+            "s_region_slug": "bosilovo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bosilovo-municipality",
+                    "s_city_name": "Bosilovo",
+                    "s_city_slug": "bosilovo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bosilovo-municipality",
+                    "s_city_name": "Ilovica",
+                    "s_city_slug": "ilovica"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "bosilovo-municipality",
+                    "s_city_name": "Sekirnik",
+                    "s_city_slug": "sekirnik"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Brvenica Municipality",
+            "s_region_slug": "brvenica-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "brvenica-municipality",
+                    "s_city_name": "Brvenica",
+                    "s_city_slug": "brvenica"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "brvenica-municipality",
+                    "s_city_name": "Celopek",
+                    "s_city_slug": "celopek"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "brvenica-municipality",
+                    "s_city_name": "Gurgurnica",
+                    "s_city_slug": "gurgurnica"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "brvenica-municipality",
+                    "s_city_name": "Miletino",
+                    "s_city_slug": "miletino"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Butel Municipality",
+            "s_region_slug": "butel-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "butel-municipality",
+                    "s_city_name": "Butel",
+                    "s_city_slug": "butel"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "butel-municipality",
+                    "s_city_name": "Radishani",
+                    "s_city_slug": "radishani"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Cair Municipality",
+            "s_region_slug": "cair-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "cair-municipality",
+                    "s_city_name": "Cair",
+                    "s_city_slug": "cair"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Caska Municipality",
+            "s_region_slug": "caska-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "caska-municipality",
+                    "s_city_name": "Bogomila",
+                    "s_city_slug": "bogomila"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "caska-municipality",
+                    "s_city_name": "Caska",
+                    "s_city_slug": "caska"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Centar Municipality",
+            "s_region_slug": "centar-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "centar-municipality",
+                    "s_city_name": "Centar Municipality",
+                    "s_city_slug": "centar-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Centar Zupa Municipality",
+            "s_region_slug": "centar-zupa-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "centar-zupa-municipality",
+                    "s_city_name": "Centar Zupa",
+                    "s_city_slug": "centar-zupa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Cesinovo-Oblesevo Municipality",
+            "s_region_slug": "cesinovo-oblesevo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "cesinovo-oblesevo-municipality",
+                    "s_city_name": "Cesinovo",
+                    "s_city_slug": "cesinovo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "cesinovo-oblesevo-municipality",
+                    "s_city_name": "Oblesevo",
+                    "s_city_slug": "oblesevo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Cucer-Sandevo Municipality",
+            "s_region_slug": "cucer-sandevo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "cucer-sandevo-municipality",
+                    "s_city_name": " - ",
+                    "s_city_slug": "-"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Debarca Municipality",
+            "s_region_slug": "debarca-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "debarca-municipality",
+                    "s_city_name": "Belcista",
+                    "s_city_slug": "belcista"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "debarca-municipality",
+                    "s_city_name": "Meseista",
+                    "s_city_slug": "meseista"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Delcevo Municipality",
+            "s_region_slug": "delcevo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "delcevo-municipality",
+                    "s_city_name": "Delcevo",
+                    "s_city_slug": "delcevo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Demir Hisar Municipality",
+            "s_region_slug": "demir-hisar-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "demir-hisar-municipality",
+                    "s_city_name": "Demir Hisar",
+                    "s_city_slug": "demir-hisar"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "demir-hisar-municipality",
+                    "s_city_name": "Slepce",
+                    "s_city_slug": "slepce"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "demir-hisar-municipality",
+                    "s_city_name": "Sopotnica",
+                    "s_city_slug": "sopotnica"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Demir Kapija Municipality",
+            "s_region_slug": "demir-kapija-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "demir-kapija-municipality",
+                    "s_city_name": "Demir Kapija",
+                    "s_city_slug": "demir-kapija"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Dojran Municipality",
+            "s_region_slug": "dojran-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "dojran-municipality",
+                    "s_city_name": "Star Dojran",
+                    "s_city_slug": "star-dojran"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Dolneni Municipality",
+            "s_region_slug": "dolneni-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "dolneni-municipality",
+                    "s_city_name": "Crniliste",
+                    "s_city_slug": "crniliste"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "dolneni-municipality",
+                    "s_city_name": "Desovo",
+                    "s_city_slug": "desovo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "dolneni-municipality",
+                    "s_city_name": "Dolneni",
+                    "s_city_slug": "dolneni"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "dolneni-municipality",
+                    "s_city_name": "Lazani",
+                    "s_city_slug": "lazani"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "dolneni-municipality",
+                    "s_city_name": "Zitose",
+                    "s_city_slug": "zitose"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Drugovo Municipality",
+            "s_region_slug": "drugovo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "drugovo-municipality",
+                    "s_city_name": "Drugovo Municipality",
+                    "s_city_slug": "drugovo-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Gazi Baba Municipality",
+            "s_region_slug": "gazi-baba-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "gazi-baba-municipality",
+                    "s_city_name": "Cresevo",
+                    "s_city_slug": "cresevo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Gevgelija Municipality",
+            "s_region_slug": "gevgelija-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "gevgelija-municipality",
+                    "s_city_name": "Gevgelija",
+                    "s_city_slug": "gevgelija"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "gevgelija-municipality",
+                    "s_city_name": "Miravci",
+                    "s_city_slug": "miravci"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Gjorce Petrov Municipality",
+            "s_region_slug": "gjorce-petrov-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "gjorce-petrov-municipality",
+                    "s_city_name": "Gjorce Petro",
+                    "s_city_slug": "gjorce-petro"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Gostivar Municipality",
+            "s_region_slug": "gostivar-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "gostivar-municipality",
+                    "s_city_name": "Cegrane",
+                    "s_city_slug": "cegrane"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "gostivar-municipality",
+                    "s_city_name": "Dolna Banjica",
+                    "s_city_slug": "dolna-banjica"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "gostivar-municipality",
+                    "s_city_name": "Forino",
+                    "s_city_slug": "forino"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "gostivar-municipality",
+                    "s_city_name": "Gostivar",
+                    "s_city_slug": "gostivar"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "gostivar-municipality",
+                    "s_city_name": "Srbinovo",
+                    "s_city_slug": "srbinovo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "gostivar-municipality",
+                    "s_city_name": "Vrutok",
+                    "s_city_slug": "vrutok"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Gradsko Municipality",
+            "s_region_slug": "gradsko-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "gradsko-municipality",
+                    "s_city_name": "Gradsko",
+                    "s_city_slug": "gradsko"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Greater Skopje",
+            "s_region_slug": "greater-skopje",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "greater-skopje",
+                    "s_city_name": "Bojane",
+                    "s_city_slug": "bojane"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "greater-skopje",
+                    "s_city_name": "Dracevo",
+                    "s_city_slug": "dracevo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "greater-skopje",
+                    "s_city_name": "Ljubin",
+                    "s_city_slug": "ljubin"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "greater-skopje",
+                    "s_city_name": "Saraj",
+                    "s_city_slug": "saraj"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "greater-skopje",
+                    "s_city_name": "Usje",
+                    "s_city_slug": "usje"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Ilinden Municipality",
+            "s_region_slug": "ilinden-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "ilinden-municipality",
+                    "s_city_name": "Ilinden",
+                    "s_city_slug": "ilinden"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "ilinden-municipality",
+                    "s_city_name": "Kadino",
+                    "s_city_slug": "kadino"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "ilinden-municipality",
+                    "s_city_name": "Marino",
+                    "s_city_slug": "marino"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "ilinden-municipality",
+                    "s_city_name": "Miladinovci",
+                    "s_city_slug": "miladinovci"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "ilinden-municipality",
+                    "s_city_name": "Idrizovo",
+                    "s_city_slug": "idrizovo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "ilinden-municipality",
+                    "s_city_name": "Jurumleri",
+                    "s_city_slug": "jurumleri"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Jegunovce Municipality",
+            "s_region_slug": "jegunovce-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "jegunovce-municipality",
+                    "s_city_name": "Jegunovce",
+                    "s_city_slug": "jegunovce"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "jegunovce-municipality",
+                    "s_city_name": "Vratnica",
+                    "s_city_slug": "vratnica"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Karbinci",
+            "s_region_slug": "karbinci",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "karbinci",
+                    "s_city_name": "Karbinci",
+                    "s_city_slug": "karbinci"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Karpos Municipality",
+            "s_region_slug": "karpos-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "karpos-municipality",
+                    "s_city_name": "Skopje",
+                    "s_city_slug": "skopje"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Kavadarci Municipality",
+            "s_region_slug": "kavadarci-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kavadarci-municipality",
+                    "s_city_name": "Kavadarci",
+                    "s_city_slug": "kavadarci"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kavadarci-municipality",
+                    "s_city_name": "Vatasa",
+                    "s_city_slug": "vatasa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Kicevo Municipality",
+            "s_region_slug": "kicevo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kicevo-municipality",
+                    "s_city_name": "Drugovo",
+                    "s_city_slug": "drugovo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kicevo-municipality",
+                    "s_city_name": "Kicevo",
+                    "s_city_slug": "kicevo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kicevo-municipality",
+                    "s_city_name": "Srbica",
+                    "s_city_slug": "srbica"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kicevo-municipality",
+                    "s_city_name": "Strelci",
+                    "s_city_slug": "strelci"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kicevo-municipality",
+                    "s_city_name": "Tuin",
+                    "s_city_slug": "tuin"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kicevo-municipality",
+                    "s_city_name": "Vranestica",
+                    "s_city_slug": "vranestica"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kicevo-municipality",
+                    "s_city_name": "Zajas",
+                    "s_city_slug": "zajas"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Kisela Voda Municipality",
+            "s_region_slug": "kisela-voda-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kisela-voda-municipality",
+                    "s_city_name": "Kisela Voda",
+                    "s_city_slug": "kisela-voda"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Kocani Municipality",
+            "s_region_slug": "kocani-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kocani-municipality",
+                    "s_city_name": "Kochani",
+                    "s_city_slug": "kochani"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kocani-municipality",
+                    "s_city_name": "Orizari",
+                    "s_city_slug": "orizari"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Konce Municipality",
+            "s_region_slug": "konce-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "konce-municipality",
+                    "s_city_name": "Konce",
+                    "s_city_slug": "konce"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Kratovo Municipality",
+            "s_region_slug": "kratovo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kratovo-municipality",
+                    "s_city_name": "Kratovo",
+                    "s_city_slug": "kratovo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Kriva Palanka Municipality",
+            "s_region_slug": "kriva-palanka-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kriva-palanka-municipality",
+                    "s_city_name": "Kriva Palanka",
+                    "s_city_slug": "kriva-palanka"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Krivogastani Municipality",
+            "s_region_slug": "krivogastani-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "krivogastani-municipality",
+                    "s_city_name": "Krivogashtani",
+                    "s_city_slug": "krivogashtani"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "krivogastani-municipality",
+                    "s_city_name": "Obrsani",
+                    "s_city_slug": "obrsani"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "krivogastani-municipality",
+                    "s_city_name": "Klechovtse",
+                    "s_city_slug": "klechovtse"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Krusevo Municipality",
+            "s_region_slug": "krusevo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "krusevo-municipality",
+                    "s_city_name": "Bucin",
+                    "s_city_slug": "bucin"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "krusevo-municipality",
+                    "s_city_name": "Krusevo",
+                    "s_city_slug": "krusevo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Kumanovo Municipality",
+            "s_region_slug": "kumanovo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kumanovo-municipality",
+                    "s_city_name": "Bedinje",
+                    "s_city_slug": "bedinje"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kumanovo-municipality",
+                    "s_city_name": "Kumanovo",
+                    "s_city_slug": "kumanovo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "kumanovo-municipality",
+                    "s_city_name": "Romanovci",
+                    "s_city_slug": "romanovci"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Lipkovo Municipality",
+            "s_region_slug": "lipkovo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "lipkovo-municipality",
+                    "s_city_name": "Izvor",
+                    "s_city_slug": "izvor"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "lipkovo-municipality",
+                    "s_city_name": "Lipkovo",
+                    "s_city_slug": "lipkovo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "lipkovo-municipality",
+                    "s_city_name": "Lojane",
+                    "s_city_slug": "lojane"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "lipkovo-municipality",
+                    "s_city_name": "Matejce",
+                    "s_city_slug": "matejce"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "lipkovo-municipality",
+                    "s_city_name": "Otlja",
+                    "s_city_slug": "otlja"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "lipkovo-municipality",
+                    "s_city_name": "Vaksince",
+                    "s_city_slug": "vaksince"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "lipkovo-municipality",
+                    "s_city_name": "Slupcane",
+                    "s_city_slug": "slupcane"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Lozovo Municipality",
+            "s_region_slug": "lozovo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "lozovo-municipality",
+                    "s_city_name": "Lozovo",
+                    "s_city_slug": "lozovo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Makedonska Kamenica Municipality",
+            "s_region_slug": "makedonska-kamenica-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "makedonska-kamenica-municipality",
+                    "s_city_name": "Makedonska Kamenica",
+                    "s_city_slug": "makedonska-kamenica"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Makedonski Brod Municipality",
+            "s_region_slug": "makedonski-brod-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "makedonski-brod-municipality",
+                    "s_city_name": "Makedonski Brod",
+                    "s_city_slug": "makedonski-brod"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "makedonski-brod-municipality",
+                    "s_city_name": "Samokov",
+                    "s_city_slug": "samokov"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Mavrovo and Rostusa Municipality",
+            "s_region_slug": "mavrovo-and-rostusa-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "mavrovo-and-rostusa-municipality",
+                    "s_city_name": "Rostusa",
+                    "s_city_slug": "rostusa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Mogila Municipality",
+            "s_region_slug": "mogila-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "mogila-municipality",
+                    "s_city_name": "Beranci",
+                    "s_city_slug": "beranci"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "mogila-municipality",
+                    "s_city_name": "Dobrusevo",
+                    "s_city_slug": "dobrusevo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "mogila-municipality",
+                    "s_city_name": "Dolno Srpci",
+                    "s_city_slug": "dolno-srpci"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "mogila-municipality",
+                    "s_city_name": "Mogila",
+                    "s_city_slug": "mogila"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Negotino Municipality",
+            "s_region_slug": "negotino-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "negotino-municipality",
+                    "s_city_name": "Negotino",
+                    "s_city_slug": "negotino"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Novaci Municipality",
+            "s_region_slug": "novaci-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "novaci-municipality",
+                    "s_city_name": "Novaci",
+                    "s_city_slug": "novaci"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Novo Selo Municipality",
+            "s_region_slug": "novo-selo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "novo-selo-municipality",
+                    "s_city_name": "Novo Selo",
+                    "s_city_slug": "novo-selo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "novo-selo-municipality",
+                    "s_city_name": "Susica",
+                    "s_city_slug": "susica"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Ohrid Municipality",
+            "s_region_slug": "ohrid-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "ohrid-municipality",
+                    "s_city_name": "Kosel",
+                    "s_city_slug": "kosel"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "ohrid-municipality",
+                    "s_city_name": "Ohrid",
+                    "s_city_slug": "ohrid"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "ohrid-municipality",
+                    "s_city_name": "Ohrid Opstina",
+                    "s_city_slug": "ohrid-opstina"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Oslomej Municipality",
+            "s_region_slug": "oslomej-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "oslomej-municipality",
+                    "s_city_name": "Oslomej Municipality",
+                    "s_city_slug": "oslomej-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Pehcevo Municipality",
+            "s_region_slug": "pehcevo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "pehcevo-municipality",
+                    "s_city_name": "Pehcevo",
+                    "s_city_slug": "pehcevo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Petrovec Municipality",
+            "s_region_slug": "petrovec-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "petrovec-municipality",
+                    "s_city_name": "Sredno Konjare",
+                    "s_city_slug": "sredno-konjare"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "petrovec-municipality",
+                    "s_city_name": "Petrovec",
+                    "s_city_slug": "petrovec"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Plasnica Municipality",
+            "s_region_slug": "plasnica-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "plasnica-municipality",
+                    "s_city_name": "Lisicani",
+                    "s_city_slug": "lisicani"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "plasnica-municipality",
+                    "s_city_name": "Plasnica",
+                    "s_city_slug": "plasnica"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Prilep Municipality",
+            "s_region_slug": "prilep-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "prilep-municipality",
+                    "s_city_name": "Kanatlarci",
+                    "s_city_slug": "kanatlarci"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "prilep-municipality",
+                    "s_city_name": "Markov Grad",
+                    "s_city_slug": "markov-grad"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "prilep-municipality",
+                    "s_city_name": "Prilep",
+                    "s_city_slug": "prilep"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "prilep-municipality",
+                    "s_city_name": "Topolcani",
+                    "s_city_slug": "topolcani"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Probistip Municipality",
+            "s_region_slug": "probistip-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "probistip-municipality",
+                    "s_city_name": "Probishtip",
+                    "s_city_slug": "probishtip"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "probistip-municipality",
+                    "s_city_name": "Zletovo",
+                    "s_city_slug": "zletovo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Radovis Municipality",
+            "s_region_slug": "radovis-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "radovis-municipality",
+                    "s_city_name": "Oraovica",
+                    "s_city_slug": "oraovica"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "radovis-municipality",
+                    "s_city_name": "Podares",
+                    "s_city_slug": "podares"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "radovis-municipality",
+                    "s_city_name": "Radovis",
+                    "s_city_slug": "radovis"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Rankovce Municipality",
+            "s_region_slug": "rankovce-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "rankovce-municipality",
+                    "s_city_name": "Rankovtse",
+                    "s_city_slug": "rankovtse"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Resen Municipality",
+            "s_region_slug": "resen-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "resen-municipality",
+                    "s_city_name": "Grncari",
+                    "s_city_slug": "grncari"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "resen-municipality",
+                    "s_city_name": "Jankovec",
+                    "s_city_slug": "jankovec"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "resen-municipality",
+                    "s_city_name": "Krani",
+                    "s_city_slug": "krani"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "resen-municipality",
+                    "s_city_name": "Resen",
+                    "s_city_slug": "resen"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Rosoman Municipality",
+            "s_region_slug": "rosoman-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "rosoman-municipality",
+                    "s_city_name": "Rosoman",
+                    "s_city_slug": "rosoman"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Saraj Municipality",
+            "s_region_slug": "saraj-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "saraj-municipality",
+                    "s_city_name": "Bukovik",
+                    "s_city_slug": "bukovik"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "saraj-municipality",
+                    "s_city_name": "Grcec",
+                    "s_city_slug": "grcec"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "saraj-municipality",
+                    "s_city_name": "Kondovo",
+                    "s_city_slug": "kondovo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "saraj-municipality",
+                    "s_city_name": "Krusopek",
+                    "s_city_slug": "krusopek"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Sopiste Municipality",
+            "s_region_slug": "sopiste-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "sopiste-municipality",
+                    "s_city_name": "Sopishte",
+                    "s_city_slug": "sopishte"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Staro Nagoricane Municipality",
+            "s_region_slug": "staro-nagoricane-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "staro-nagoricane-municipality",
+                    "s_city_name": " ",
+                    "s_city_slug": NaN
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Stip Municipality",
+            "s_region_slug": "stip-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "stip-municipality",
+                    "s_city_name": "Shtip",
+                    "s_city_slug": "shtip"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Struga Municipality",
+            "s_region_slug": "struga-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "struga-municipality",
+                    "s_city_name": "Delogozda",
+                    "s_city_slug": "delogozda"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "struga-municipality",
+                    "s_city_name": "Labunista",
+                    "s_city_slug": "labunista"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "struga-municipality",
+                    "s_city_name": "Lukovo",
+                    "s_city_slug": "lukovo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "struga-municipality",
+                    "s_city_name": "Mislesevo",
+                    "s_city_slug": "mislesevo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "struga-municipality",
+                    "s_city_name": "Oktisi",
+                    "s_city_slug": "oktisi"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "struga-municipality",
+                    "s_city_name": "Radolista",
+                    "s_city_slug": "radolista"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "struga-municipality",
+                    "s_city_name": "Struga",
+                    "s_city_slug": "struga"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "struga-municipality",
+                    "s_city_name": "Velesta",
+                    "s_city_slug": "velesta"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Strumica Municipality",
+            "s_region_slug": "strumica-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "strumica-municipality",
+                    "s_city_name": "Kuklis",
+                    "s_city_slug": "kuklis"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "strumica-municipality",
+                    "s_city_name": "Murtino",
+                    "s_city_slug": "murtino"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "strumica-municipality",
+                    "s_city_name": "Strumica",
+                    "s_city_slug": "strumica"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "strumica-municipality",
+                    "s_city_name": "Veljusa",
+                    "s_city_slug": "veljusa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Studenicani Municipality",
+            "s_region_slug": "studenicani-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "studenicani-municipality",
+                    "s_city_name": "Batinci",
+                    "s_city_slug": "batinci"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "studenicani-municipality",
+                    "s_city_name": "Dolno Kolicani",
+                    "s_city_slug": "dolno-kolicani"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "studenicani-municipality",
+                    "s_city_name": "Morani",
+                    "s_city_slug": "morani"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "studenicani-municipality",
+                    "s_city_name": "Studenicane",
+                    "s_city_slug": "studenicane"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Suto Orizari Municipality",
+            "s_region_slug": "suto-orizari-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "suto-orizari-municipality",
+                    "s_city_name": "Suto Orizare",
+                    "s_city_slug": "suto-orizare"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Sveti Nikole Municipality",
+            "s_region_slug": "sveti-nikole-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "sveti-nikole-municipality",
+                    "s_city_name": "Gorobinci",
+                    "s_city_slug": "gorobinci"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "sveti-nikole-municipality",
+                    "s_city_name": "Sveti Nikole",
+                    "s_city_slug": "sveti-nikole"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Tearce Municipality",
+            "s_region_slug": "tearce-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tearce-municipality",
+                    "s_city_name": "Neraste",
+                    "s_city_slug": "neraste"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tearce-municipality",
+                    "s_city_name": "Orashac",
+                    "s_city_slug": "orashac"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tearce-municipality",
+                    "s_city_name": "Prsovce",
+                    "s_city_slug": "prsovce"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tearce-municipality",
+                    "s_city_name": "Slatino",
+                    "s_city_slug": "slatino"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tearce-municipality",
+                    "s_city_name": "Tearce",
+                    "s_city_slug": "tearce"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Tetovo Municipality",
+            "s_region_slug": "tetovo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tetovo-municipality",
+                    "s_city_name": "Dobroste",
+                    "s_city_slug": "dobroste"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tetovo-municipality",
+                    "s_city_name": "Dzepciste",
+                    "s_city_slug": "dzepciste"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tetovo-municipality",
+                    "s_city_name": "Golema Recica",
+                    "s_city_slug": "golema-recica"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tetovo-municipality",
+                    "s_city_name": "Pirok",
+                    "s_city_slug": "pirok"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tetovo-municipality",
+                    "s_city_name": "Poroj",
+                    "s_city_slug": "poroj"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tetovo-municipality",
+                    "s_city_name": "Selce",
+                    "s_city_slug": "selce"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tetovo-municipality",
+                    "s_city_name": "Sipkovica",
+                    "s_city_slug": "sipkovica"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "tetovo-municipality",
+                    "s_city_name": "Tetovo",
+                    "s_city_slug": "tetovo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Valandovo Municipality",
+            "s_region_slug": "valandovo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "valandovo-municipality",
+                    "s_city_name": "Pirava",
+                    "s_city_slug": "pirava"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "valandovo-municipality",
+                    "s_city_name": "Valandovo",
+                    "s_city_slug": "valandovo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Vasilevo Municipality",
+            "s_region_slug": "vasilevo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "vasilevo-municipality",
+                    "s_city_name": "Vasilevo",
+                    "s_city_slug": "vasilevo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Veles Municipality",
+            "s_region_slug": "veles-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "veles-municipality",
+                    "s_city_name": "Gorno Orizari",
+                    "s_city_slug": "gorno-orizari"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "veles-municipality",
+                    "s_city_name": "Ivankovci",
+                    "s_city_slug": "ivankovci"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "veles-municipality",
+                    "s_city_name": "Veles",
+                    "s_city_slug": "veles"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Vevcani Municipality",
+            "s_region_slug": "vevcani-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "vevcani-municipality",
+                    "s_city_name": "Vevcani",
+                    "s_city_slug": "vevcani"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Vinica Municipality",
+            "s_region_slug": "vinica-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "vinica-municipality",
+                    "s_city_name": "Blatec",
+                    "s_city_slug": "blatec"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "vinica-municipality",
+                    "s_city_name": "Gradec",
+                    "s_city_slug": "gradec"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "vinica-municipality",
+                    "s_city_name": "Vinica",
+                    "s_city_slug": "vinica"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Vranestica Municipality",
+            "s_region_slug": "vranestica-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "vranestica-municipality",
+                    "s_city_name": "Vranestica Municipality",
+                    "s_city_slug": "vranestica-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Vrapciste Municipality",
+            "s_region_slug": "vrapciste-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "vrapciste-municipality",
+                    "s_city_name": "Dobri Dol",
+                    "s_city_slug": "dobri-dol"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "vrapciste-municipality",
+                    "s_city_name": "Negotino",
+                    "s_city_slug": "negotino"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "vrapciste-municipality",
+                    "s_city_name": "Vrapciste",
+                    "s_city_slug": "vrapciste"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Zajas Municipality",
+            "s_region_slug": "zajas-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "zajas-municipality",
+                    "s_city_name": "Zajas Municipality",
+                    "s_city_slug": "zajas-municipality"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Zelenikovo Municipality",
+            "s_region_slug": "zelenikovo-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "zelenikovo-municipality",
+                    "s_city_name": "Zelenikovo",
+                    "s_city_slug": "zelenikovo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Zelino Municipality",
+            "s_region_slug": "zelino-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "zelino-municipality",
+                    "s_city_name": "Dobarce",
+                    "s_city_slug": "dobarce"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "zelino-municipality",
+                    "s_city_name": "Larce",
+                    "s_city_slug": "larce"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "zelino-municipality",
+                    "s_city_name": "Sedlarevo",
+                    "s_city_slug": "sedlarevo"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "zelino-municipality",
+                    "s_city_name": "Strimnica",
+                    "s_city_slug": "strimnica"
+                },
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "zelino-municipality",
+                    "s_city_name": "Zelino",
+                    "s_city_slug": "zelino"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MK",
+            "s_region_name": "Zrnovci Municipality",
+            "s_region_slug": "zrnovci-municipality",
+            "cities": [
+                {
+                    "s_country_code": "MK",
+                    "s_region_slug": "zrnovci-municipality",
+                    "s_city_name": "Zrnovci",
+                    "s_city_slug": "zrnovci"
+                }
+            ]
+        }
+    ]
+}

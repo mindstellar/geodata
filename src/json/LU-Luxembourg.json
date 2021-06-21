@@ -1,1 +1,994 @@
-{"s_country_code": "LU", "s_country_name": "Luxembourg", "s_country_slug": "luxembourg", "regions": [{"s_country_code": "LU", "s_region_name": "Canton of Capellen", "s_region_slug": "canton-of-capellen", "cities": [{"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Bascharage", "s_city_slug": "bascharage"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Bridel", "s_city_slug": "bridel"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Capellen", "s_city_slug": "capellen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Clemency", "s_city_slug": "clemency"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Dippach", "s_city_slug": "dippach"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Eischen", "s_city_slug": "eischen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Garnich", "s_city_slug": "garnich"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Hautcharage", "s_city_slug": "hautcharage"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Hobscheid", "s_city_slug": "hobscheid"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Kaerjeng", "s_city_slug": "kaerjeng"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Kehlen", "s_city_slug": "kehlen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Koerich", "s_city_slug": "koerich"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Kopstal", "s_city_slug": "kopstal"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Mamer", "s_city_slug": "mamer"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Schouweiler", "s_city_slug": "schouweiler"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Septfontaines", "s_city_slug": "septfontaines"}, {"s_country_code": "LU", "s_region_slug": "canton-of-capellen", "s_city_name": "Steinfort", "s_city_slug": "steinfort"}]}, {"s_country_code": "LU", "s_region_name": "Canton of Clervaux", "s_region_slug": "canton-of-clervaux", "cities": [{"s_country_code": "LU", "s_region_slug": "canton-of-clervaux", "s_city_name": "Clervaux", "s_city_slug": "clervaux"}, {"s_country_code": "LU", "s_region_slug": "canton-of-clervaux", "s_city_name": "Hosingen", "s_city_slug": "hosingen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-clervaux", "s_city_name": "Parc Hosingen", "s_city_slug": "parc-hosingen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-clervaux", "s_city_name": "Troisvierges", "s_city_slug": "troisvierges"}, {"s_country_code": "LU", "s_region_slug": "canton-of-clervaux", "s_city_name": "Weiswampach", "s_city_slug": "weiswampach"}, {"s_country_code": "LU", "s_region_slug": "canton-of-clervaux", "s_city_name": "Wincrange", "s_city_slug": "wincrange"}]}, {"s_country_code": "LU", "s_region_name": "Canton of Diekirch", "s_region_slug": "canton-of-diekirch", "cities": [{"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Bettendorf", "s_city_slug": "bettendorf"}, {"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Bourscheid", "s_city_slug": "bourscheid"}, {"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Commune de la Vallee de lErnz", "s_city_slug": "commune-de-la-vallee-de-lernz"}, {"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Diekirch", "s_city_slug": "diekirch"}, {"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Erpeldange", "s_city_slug": "erpeldange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Ettelbruck", "s_city_slug": "ettelbruck"}, {"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Feulen", "s_city_slug": "feulen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Medernach", "s_city_slug": "medernach"}, {"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Mertzig", "s_city_slug": "mertzig"}, {"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Niederfeulen", "s_city_slug": "niederfeulen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Reisdorf", "s_city_slug": "reisdorf"}, {"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Schieren", "s_city_slug": "schieren"}, {"s_country_code": "LU", "s_region_slug": "canton-of-diekirch", "s_city_name": "Warken", "s_city_slug": "warken"}]}, {"s_country_code": "LU", "s_region_name": "Canton of Echternach", "s_region_slug": "canton-of-echternach", "cities": [{"s_country_code": "LU", "s_region_slug": "canton-of-echternach", "s_city_name": "Beaufort", "s_city_slug": "beaufort"}, {"s_country_code": "LU", "s_region_slug": "canton-of-echternach", "s_city_name": "Bech", "s_city_slug": "bech"}, {"s_country_code": "LU", "s_region_slug": "canton-of-echternach", "s_city_name": "Berdorf", "s_city_slug": "berdorf"}, {"s_country_code": "LU", "s_region_slug": "canton-of-echternach", "s_city_name": "Consdorf", "s_city_slug": "consdorf"}, {"s_country_code": "LU", "s_region_slug": "canton-of-echternach", "s_city_name": "Echternach", "s_city_slug": "echternach"}, {"s_country_code": "LU", "s_region_slug": "canton-of-echternach", "s_city_name": "Mompach", "s_city_slug": "mompach"}, {"s_country_code": "LU", "s_region_slug": "canton-of-echternach", "s_city_name": "Rosport", "s_city_slug": "rosport"}, {"s_country_code": "LU", "s_region_slug": "canton-of-echternach", "s_city_name": "Waldbillig", "s_city_slug": "waldbillig"}]}, {"s_country_code": "LU", "s_region_name": "Canton of Esch-sur-Alzette", "s_region_slug": "canton-of-esch-sur-alzette", "cities": [{"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Aspelt", "s_city_slug": "aspelt"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Belvaux", "s_city_slug": "belvaux"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Bergem", "s_city_slug": "bergem"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Bettembourg", "s_city_slug": "bettembourg"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Crauthem", "s_city_slug": "crauthem"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Differdange", "s_city_slug": "differdange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Dudelange", "s_city_slug": "dudelange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Esch-sur-Alzette", "s_city_slug": "esch-sur-alzette"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Frisange", "s_city_slug": "frisange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Kayl", "s_city_slug": "kayl"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Lamadelaine", "s_city_slug": "lamadelaine"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Leudelange", "s_city_slug": "leudelange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Mondercange", "s_city_slug": "mondercange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Niedercorn", "s_city_slug": "niedercorn"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Obercorn", "s_city_slug": "obercorn"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Petange", "s_city_slug": "petange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Pontpierre", "s_city_slug": "pontpierre"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Reckange-sur-Mess", "s_city_slug": "reckange-sur-mess"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Rodange", "s_city_slug": "rodange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Roeser", "s_city_slug": "roeser"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Rumelange", "s_city_slug": "rumelange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Sanem", "s_city_slug": "sanem"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Schifflange", "s_city_slug": "schifflange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Soleuvre", "s_city_slug": "soleuvre"}, {"s_country_code": "LU", "s_region_slug": "canton-of-esch-sur-alzette", "s_city_name": "Tetange", "s_city_slug": "tetange"}]}, {"s_country_code": "LU", "s_region_name": "Canton of Grevenmacher", "s_region_slug": "canton-of-grevenmacher", "cities": [{"s_country_code": "LU", "s_region_slug": "canton-of-grevenmacher", "s_city_name": "Betzdorf", "s_city_slug": "betzdorf"}, {"s_country_code": "LU", "s_region_slug": "canton-of-grevenmacher", "s_city_name": "Biwer", "s_city_slug": "biwer"}, {"s_country_code": "LU", "s_region_slug": "canton-of-grevenmacher", "s_city_name": "Flaxweiler", "s_city_slug": "flaxweiler"}, {"s_country_code": "LU", "s_region_slug": "canton-of-grevenmacher", "s_city_name": "Gonderange", "s_city_slug": "gonderange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-grevenmacher", "s_city_name": "Grevenmacher", "s_city_slug": "grevenmacher"}, {"s_country_code": "LU", "s_region_slug": "canton-of-grevenmacher", "s_city_name": "Junglinster", "s_city_slug": "junglinster"}, {"s_country_code": "LU", "s_region_slug": "canton-of-grevenmacher", "s_city_name": "Manternach", "s_city_slug": "manternach"}, {"s_country_code": "LU", "s_region_slug": "canton-of-grevenmacher", "s_city_name": "Mertert", "s_city_slug": "mertert"}, {"s_country_code": "LU", "s_region_slug": "canton-of-grevenmacher", "s_city_name": "Wasserbillig", "s_city_slug": "wasserbillig"}, {"s_country_code": "LU", "s_region_slug": "canton-of-grevenmacher", "s_city_name": "Wormeldange", "s_city_slug": "wormeldange"}]}, {"s_country_code": "LU", "s_region_name": "Canton of Luxembourg", "s_region_slug": "canton-of-luxembourg", "cities": [{"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Alzingen", "s_city_slug": "alzingen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Bereldange", "s_city_slug": "bereldange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Bertrange", "s_city_slug": "bertrange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Contern", "s_city_slug": "contern"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Fentange", "s_city_slug": "fentange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Heisdorf", "s_city_slug": "heisdorf"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Helmsange", "s_city_slug": "helmsange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Hesperange", "s_city_slug": "hesperange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Itzig", "s_city_slug": "itzig"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Kirchberg", "s_city_slug": "kirchberg"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Luxembourg", "s_city_slug": "luxembourg"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Moutfort", "s_city_slug": "moutfort"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Mullendorf", "s_city_slug": "mullendorf"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Niederanven", "s_city_slug": "niederanven"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Olm", "s_city_slug": "olm"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Sandweiler", "s_city_slug": "sandweiler"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Schrassig", "s_city_slug": "schrassig"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Schuttrange", "s_city_slug": "schuttrange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Steinsel", "s_city_slug": "steinsel"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Strassen", "s_city_slug": "strassen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Walferdange", "s_city_slug": "walferdange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-luxembourg", "s_city_name": "Weiler-la-Tour", "s_city_slug": "weiler-la-tour"}]}, {"s_country_code": "LU", "s_region_name": "Canton of Mersch", "s_region_slug": "canton-of-mersch", "cities": [{"s_country_code": "LU", "s_region_slug": "canton-of-mersch", "s_city_name": "Bissen", "s_city_slug": "bissen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-mersch", "s_city_name": "Boevange-sur-Attert", "s_city_slug": "boevange-sur-attert"}, {"s_country_code": "LU", "s_region_slug": "canton-of-mersch", "s_city_name": "Colmar", "s_city_slug": "colmar"}, {"s_country_code": "LU", "s_region_slug": "canton-of-mersch", "s_city_name": "Fischbach", "s_city_slug": "fischbach"}, {"s_country_code": "LU", "s_region_slug": "canton-of-mersch", "s_city_name": "Heffingen", "s_city_slug": "heffingen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-mersch", "s_city_name": "Larochette", "s_city_slug": "larochette"}, {"s_country_code": "LU", "s_region_slug": "canton-of-mersch", "s_city_name": "Lintgen", "s_city_slug": "lintgen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-mersch", "s_city_name": "Lorentzweiler", "s_city_slug": "lorentzweiler"}, {"s_country_code": "LU", "s_region_slug": "canton-of-mersch", "s_city_name": "Mersch", "s_city_slug": "mersch"}, {"s_country_code": "LU", "s_region_slug": "canton-of-mersch", "s_city_name": "Nommern", "s_city_slug": "nommern"}, {"s_country_code": "LU", "s_region_slug": "canton-of-mersch", "s_city_name": "Rollingen", "s_city_slug": "rollingen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-mersch", "s_city_name": "Tuntange", "s_city_slug": "tuntange"}]}, {"s_country_code": "LU", "s_region_name": "Canton of Redange", "s_region_slug": "canton-of-redange", "cities": [{"s_country_code": "LU", "s_region_slug": "canton-of-redange", "s_city_name": "Beckerich", "s_city_slug": "beckerich"}, {"s_country_code": "LU", "s_region_slug": "canton-of-redange", "s_city_name": "Bettborn", "s_city_slug": "bettborn"}, {"s_country_code": "LU", "s_region_slug": "canton-of-redange", "s_city_name": "Commune de Preizerdaul", "s_city_slug": "commune-de-preizerdaul"}, {"s_country_code": "LU", "s_region_slug": "canton-of-redange", "s_city_name": "Ell", "s_city_slug": "ell"}, {"s_country_code": "LU", "s_region_slug": "canton-of-redange", "s_city_name": "Grosbous", "s_city_slug": "grosbous"}, {"s_country_code": "LU", "s_region_slug": "canton-of-redange", "s_city_name": "Rambrouch", "s_city_slug": "rambrouch"}, {"s_country_code": "LU", "s_region_slug": "canton-of-redange", "s_city_name": "Redange-sur-Attert", "s_city_slug": "redange-sur-attert"}, {"s_country_code": "LU", "s_region_slug": "canton-of-redange", "s_city_name": "Saeul", "s_city_slug": "saeul"}, {"s_country_code": "LU", "s_region_slug": "canton-of-redange", "s_city_name": "Useldange", "s_city_slug": "useldange"}, {"s_country_code": "LU", "s_region_slug": "canton-of-redange", "s_city_name": "Vichten", "s_city_slug": "vichten"}, {"s_country_code": "LU", "s_region_slug": "canton-of-redange", "s_city_name": "Wahl", "s_city_slug": "wahl"}]}, {"s_country_code": "LU", "s_region_name": "Canton of Remich", "s_region_slug": "canton-of-remich", "cities": [{"s_country_code": "LU", "s_region_slug": "canton-of-remich", "s_city_name": "Bous", "s_city_slug": "bous"}, {"s_country_code": "LU", "s_region_slug": "canton-of-remich", "s_city_name": "Dalheim", "s_city_slug": "dalheim"}, {"s_country_code": "LU", "s_region_slug": "canton-of-remich", "s_city_name": "Lenningen", "s_city_slug": "lenningen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-remich", "s_city_name": "Mondorf-les-Bains", "s_city_slug": "mondorf-les-bains"}, {"s_country_code": "LU", "s_region_slug": "canton-of-remich", "s_city_name": "Remich", "s_city_slug": "remich"}, {"s_country_code": "LU", "s_region_slug": "canton-of-remich", "s_city_name": "Schengen", "s_city_slug": "schengen"}, {"s_country_code": "LU", "s_region_slug": "canton-of-remich", "s_city_name": "Stadtbredimus", "s_city_slug": "stadtbredimus"}, {"s_country_code": "LU", "s_region_slug": "canton-of-remich", "s_city_name": "Waldbredimus", "s_city_slug": "waldbredimus"}]}, {"s_country_code": "LU", "s_region_name": "Canton of Vianden", "s_region_slug": "canton-of-vianden", "cities": [{"s_country_code": "LU", "s_region_slug": "canton-of-vianden", "s_city_name": "Putscheid", "s_city_slug": "putscheid"}, {"s_country_code": "LU", "s_region_slug": "canton-of-vianden", "s_city_name": "Tandel", "s_city_slug": "tandel"}, {"s_country_code": "LU", "s_region_slug": "canton-of-vianden", "s_city_name": "Vianden", "s_city_slug": "vianden"}]}, {"s_country_code": "LU", "s_region_name": "Canton of Wiltz", "s_region_slug": "canton-of-wiltz", "cities": [{"s_country_code": "LU", "s_region_slug": "canton-of-wiltz", "s_city_name": "Bavigne", "s_city_slug": "bavigne"}, {"s_country_code": "LU", "s_region_slug": "canton-of-wiltz", "s_city_name": "Boulaide", "s_city_slug": "boulaide"}, {"s_country_code": "LU", "s_region_slug": "canton-of-wiltz", "s_city_name": "Esch-sur-Sure", "s_city_slug": "esch-sur-sure"}, {"s_country_code": "LU", "s_region_slug": "canton-of-wiltz", "s_city_name": "Goesdorf", "s_city_slug": "goesdorf"}, {"s_country_code": "LU", "s_region_slug": "canton-of-wiltz", "s_city_name": "Kiischpelt", "s_city_slug": "kiischpelt"}, {"s_country_code": "LU", "s_region_slug": "canton-of-wiltz", "s_city_name": "Lac de la Haute-Sure", "s_city_slug": "lac-de-la-haute-sure"}, {"s_country_code": "LU", "s_region_slug": "canton-of-wiltz", "s_city_name": "Wiltz", "s_city_slug": "wiltz"}, {"s_country_code": "LU", "s_region_slug": "canton-of-wiltz", "s_city_name": "Wilwerwiltz", "s_city_slug": "wilwerwiltz"}, {"s_country_code": "LU", "s_region_slug": "canton-of-wiltz", "s_city_name": "Winseler", "s_city_slug": "winseler"}]}, {"s_country_code": "LU", "s_region_name": "Diekirch District", "s_region_slug": "diekirch-district", "cities": [{"s_country_code": "LU", "s_region_slug": "diekirch-district", "s_city_name": "Diekirch District", "s_city_slug": "diekirch-district"}]}, {"s_country_code": "LU", "s_region_name": "Grevenmacher District", "s_region_slug": "grevenmacher-district", "cities": [{"s_country_code": "LU", "s_region_slug": "grevenmacher-district", "s_city_name": "Grevenmacher District", "s_city_slug": "grevenmacher-district"}]}, {"s_country_code": "LU", "s_region_name": "Luxembourg District", "s_region_slug": "luxembourg-district", "cities": [{"s_country_code": "LU", "s_region_slug": "luxembourg-district", "s_city_name": "Luxembourg District", "s_city_slug": "luxembourg-district"}]}]}
+{
+    "s_country_code": "LU",
+    "s_country_name": "Luxembourg",
+    "s_country_slug": "luxembourg",
+    "regions": [
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Canton of Capellen",
+            "s_region_slug": "canton-of-capellen",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Bascharage",
+                    "s_city_slug": "bascharage"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Bridel",
+                    "s_city_slug": "bridel"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Capellen",
+                    "s_city_slug": "capellen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Clemency",
+                    "s_city_slug": "clemency"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Dippach",
+                    "s_city_slug": "dippach"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Eischen",
+                    "s_city_slug": "eischen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Garnich",
+                    "s_city_slug": "garnich"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Hautcharage",
+                    "s_city_slug": "hautcharage"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Hobscheid",
+                    "s_city_slug": "hobscheid"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Kaerjeng",
+                    "s_city_slug": "kaerjeng"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Kehlen",
+                    "s_city_slug": "kehlen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Koerich",
+                    "s_city_slug": "koerich"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Kopstal",
+                    "s_city_slug": "kopstal"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Mamer",
+                    "s_city_slug": "mamer"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Schouweiler",
+                    "s_city_slug": "schouweiler"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Septfontaines",
+                    "s_city_slug": "septfontaines"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-capellen",
+                    "s_city_name": "Steinfort",
+                    "s_city_slug": "steinfort"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Canton of Clervaux",
+            "s_region_slug": "canton-of-clervaux",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-clervaux",
+                    "s_city_name": "Clervaux",
+                    "s_city_slug": "clervaux"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-clervaux",
+                    "s_city_name": "Hosingen",
+                    "s_city_slug": "hosingen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-clervaux",
+                    "s_city_name": "Parc Hosingen",
+                    "s_city_slug": "parc-hosingen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-clervaux",
+                    "s_city_name": "Troisvierges",
+                    "s_city_slug": "troisvierges"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-clervaux",
+                    "s_city_name": "Weiswampach",
+                    "s_city_slug": "weiswampach"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-clervaux",
+                    "s_city_name": "Wincrange",
+                    "s_city_slug": "wincrange"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Canton of Diekirch",
+            "s_region_slug": "canton-of-diekirch",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Bettendorf",
+                    "s_city_slug": "bettendorf"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Bourscheid",
+                    "s_city_slug": "bourscheid"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Commune de la Vallee de lErnz",
+                    "s_city_slug": "commune-de-la-vallee-de-lernz"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Diekirch",
+                    "s_city_slug": "diekirch"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Erpeldange",
+                    "s_city_slug": "erpeldange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Ettelbruck",
+                    "s_city_slug": "ettelbruck"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Feulen",
+                    "s_city_slug": "feulen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Medernach",
+                    "s_city_slug": "medernach"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Mertzig",
+                    "s_city_slug": "mertzig"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Niederfeulen",
+                    "s_city_slug": "niederfeulen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Reisdorf",
+                    "s_city_slug": "reisdorf"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Schieren",
+                    "s_city_slug": "schieren"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-diekirch",
+                    "s_city_name": "Warken",
+                    "s_city_slug": "warken"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Canton of Echternach",
+            "s_region_slug": "canton-of-echternach",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-echternach",
+                    "s_city_name": "Beaufort",
+                    "s_city_slug": "beaufort"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-echternach",
+                    "s_city_name": "Bech",
+                    "s_city_slug": "bech"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-echternach",
+                    "s_city_name": "Berdorf",
+                    "s_city_slug": "berdorf"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-echternach",
+                    "s_city_name": "Consdorf",
+                    "s_city_slug": "consdorf"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-echternach",
+                    "s_city_name": "Echternach",
+                    "s_city_slug": "echternach"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-echternach",
+                    "s_city_name": "Mompach",
+                    "s_city_slug": "mompach"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-echternach",
+                    "s_city_name": "Rosport",
+                    "s_city_slug": "rosport"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-echternach",
+                    "s_city_name": "Waldbillig",
+                    "s_city_slug": "waldbillig"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Canton of Esch-sur-Alzette",
+            "s_region_slug": "canton-of-esch-sur-alzette",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Aspelt",
+                    "s_city_slug": "aspelt"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Belvaux",
+                    "s_city_slug": "belvaux"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Bergem",
+                    "s_city_slug": "bergem"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Bettembourg",
+                    "s_city_slug": "bettembourg"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Crauthem",
+                    "s_city_slug": "crauthem"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Differdange",
+                    "s_city_slug": "differdange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Dudelange",
+                    "s_city_slug": "dudelange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Esch-sur-Alzette",
+                    "s_city_slug": "esch-sur-alzette"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Frisange",
+                    "s_city_slug": "frisange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Kayl",
+                    "s_city_slug": "kayl"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Lamadelaine",
+                    "s_city_slug": "lamadelaine"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Leudelange",
+                    "s_city_slug": "leudelange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Mondercange",
+                    "s_city_slug": "mondercange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Niedercorn",
+                    "s_city_slug": "niedercorn"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Obercorn",
+                    "s_city_slug": "obercorn"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Petange",
+                    "s_city_slug": "petange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Pontpierre",
+                    "s_city_slug": "pontpierre"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Reckange-sur-Mess",
+                    "s_city_slug": "reckange-sur-mess"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Rodange",
+                    "s_city_slug": "rodange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Roeser",
+                    "s_city_slug": "roeser"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Rumelange",
+                    "s_city_slug": "rumelange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Sanem",
+                    "s_city_slug": "sanem"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Schifflange",
+                    "s_city_slug": "schifflange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Soleuvre",
+                    "s_city_slug": "soleuvre"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-esch-sur-alzette",
+                    "s_city_name": "Tetange",
+                    "s_city_slug": "tetange"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Canton of Grevenmacher",
+            "s_region_slug": "canton-of-grevenmacher",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-grevenmacher",
+                    "s_city_name": "Betzdorf",
+                    "s_city_slug": "betzdorf"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-grevenmacher",
+                    "s_city_name": "Biwer",
+                    "s_city_slug": "biwer"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-grevenmacher",
+                    "s_city_name": "Flaxweiler",
+                    "s_city_slug": "flaxweiler"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-grevenmacher",
+                    "s_city_name": "Gonderange",
+                    "s_city_slug": "gonderange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-grevenmacher",
+                    "s_city_name": "Grevenmacher",
+                    "s_city_slug": "grevenmacher"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-grevenmacher",
+                    "s_city_name": "Junglinster",
+                    "s_city_slug": "junglinster"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-grevenmacher",
+                    "s_city_name": "Manternach",
+                    "s_city_slug": "manternach"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-grevenmacher",
+                    "s_city_name": "Mertert",
+                    "s_city_slug": "mertert"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-grevenmacher",
+                    "s_city_name": "Wasserbillig",
+                    "s_city_slug": "wasserbillig"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-grevenmacher",
+                    "s_city_name": "Wormeldange",
+                    "s_city_slug": "wormeldange"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Canton of Luxembourg",
+            "s_region_slug": "canton-of-luxembourg",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Alzingen",
+                    "s_city_slug": "alzingen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Bereldange",
+                    "s_city_slug": "bereldange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Bertrange",
+                    "s_city_slug": "bertrange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Contern",
+                    "s_city_slug": "contern"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Fentange",
+                    "s_city_slug": "fentange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Heisdorf",
+                    "s_city_slug": "heisdorf"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Helmsange",
+                    "s_city_slug": "helmsange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Hesperange",
+                    "s_city_slug": "hesperange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Itzig",
+                    "s_city_slug": "itzig"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Kirchberg",
+                    "s_city_slug": "kirchberg"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Luxembourg",
+                    "s_city_slug": "luxembourg"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Moutfort",
+                    "s_city_slug": "moutfort"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Mullendorf",
+                    "s_city_slug": "mullendorf"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Niederanven",
+                    "s_city_slug": "niederanven"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Olm",
+                    "s_city_slug": "olm"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Sandweiler",
+                    "s_city_slug": "sandweiler"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Schrassig",
+                    "s_city_slug": "schrassig"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Schuttrange",
+                    "s_city_slug": "schuttrange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Steinsel",
+                    "s_city_slug": "steinsel"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Strassen",
+                    "s_city_slug": "strassen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Walferdange",
+                    "s_city_slug": "walferdange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-luxembourg",
+                    "s_city_name": "Weiler-la-Tour",
+                    "s_city_slug": "weiler-la-tour"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Canton of Mersch",
+            "s_region_slug": "canton-of-mersch",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-mersch",
+                    "s_city_name": "Bissen",
+                    "s_city_slug": "bissen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-mersch",
+                    "s_city_name": "Boevange-sur-Attert",
+                    "s_city_slug": "boevange-sur-attert"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-mersch",
+                    "s_city_name": "Colmar",
+                    "s_city_slug": "colmar"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-mersch",
+                    "s_city_name": "Fischbach",
+                    "s_city_slug": "fischbach"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-mersch",
+                    "s_city_name": "Heffingen",
+                    "s_city_slug": "heffingen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-mersch",
+                    "s_city_name": "Larochette",
+                    "s_city_slug": "larochette"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-mersch",
+                    "s_city_name": "Lintgen",
+                    "s_city_slug": "lintgen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-mersch",
+                    "s_city_name": "Lorentzweiler",
+                    "s_city_slug": "lorentzweiler"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-mersch",
+                    "s_city_name": "Mersch",
+                    "s_city_slug": "mersch"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-mersch",
+                    "s_city_name": "Nommern",
+                    "s_city_slug": "nommern"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-mersch",
+                    "s_city_name": "Rollingen",
+                    "s_city_slug": "rollingen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-mersch",
+                    "s_city_name": "Tuntange",
+                    "s_city_slug": "tuntange"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Canton of Redange",
+            "s_region_slug": "canton-of-redange",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-redange",
+                    "s_city_name": "Beckerich",
+                    "s_city_slug": "beckerich"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-redange",
+                    "s_city_name": "Bettborn",
+                    "s_city_slug": "bettborn"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-redange",
+                    "s_city_name": "Commune de Preizerdaul",
+                    "s_city_slug": "commune-de-preizerdaul"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-redange",
+                    "s_city_name": "Ell",
+                    "s_city_slug": "ell"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-redange",
+                    "s_city_name": "Grosbous",
+                    "s_city_slug": "grosbous"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-redange",
+                    "s_city_name": "Rambrouch",
+                    "s_city_slug": "rambrouch"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-redange",
+                    "s_city_name": "Redange-sur-Attert",
+                    "s_city_slug": "redange-sur-attert"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-redange",
+                    "s_city_name": "Saeul",
+                    "s_city_slug": "saeul"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-redange",
+                    "s_city_name": "Useldange",
+                    "s_city_slug": "useldange"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-redange",
+                    "s_city_name": "Vichten",
+                    "s_city_slug": "vichten"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-redange",
+                    "s_city_name": "Wahl",
+                    "s_city_slug": "wahl"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Canton of Remich",
+            "s_region_slug": "canton-of-remich",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-remich",
+                    "s_city_name": "Bous",
+                    "s_city_slug": "bous"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-remich",
+                    "s_city_name": "Dalheim",
+                    "s_city_slug": "dalheim"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-remich",
+                    "s_city_name": "Lenningen",
+                    "s_city_slug": "lenningen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-remich",
+                    "s_city_name": "Mondorf-les-Bains",
+                    "s_city_slug": "mondorf-les-bains"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-remich",
+                    "s_city_name": "Remich",
+                    "s_city_slug": "remich"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-remich",
+                    "s_city_name": "Schengen",
+                    "s_city_slug": "schengen"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-remich",
+                    "s_city_name": "Stadtbredimus",
+                    "s_city_slug": "stadtbredimus"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-remich",
+                    "s_city_name": "Waldbredimus",
+                    "s_city_slug": "waldbredimus"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Canton of Vianden",
+            "s_region_slug": "canton-of-vianden",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-vianden",
+                    "s_city_name": "Putscheid",
+                    "s_city_slug": "putscheid"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-vianden",
+                    "s_city_name": "Tandel",
+                    "s_city_slug": "tandel"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-vianden",
+                    "s_city_name": "Vianden",
+                    "s_city_slug": "vianden"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Canton of Wiltz",
+            "s_region_slug": "canton-of-wiltz",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-wiltz",
+                    "s_city_name": "Bavigne",
+                    "s_city_slug": "bavigne"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-wiltz",
+                    "s_city_name": "Boulaide",
+                    "s_city_slug": "boulaide"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-wiltz",
+                    "s_city_name": "Esch-sur-Sure",
+                    "s_city_slug": "esch-sur-sure"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-wiltz",
+                    "s_city_name": "Goesdorf",
+                    "s_city_slug": "goesdorf"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-wiltz",
+                    "s_city_name": "Kiischpelt",
+                    "s_city_slug": "kiischpelt"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-wiltz",
+                    "s_city_name": "Lac de la Haute-Sure",
+                    "s_city_slug": "lac-de-la-haute-sure"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-wiltz",
+                    "s_city_name": "Wiltz",
+                    "s_city_slug": "wiltz"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-wiltz",
+                    "s_city_name": "Wilwerwiltz",
+                    "s_city_slug": "wilwerwiltz"
+                },
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "canton-of-wiltz",
+                    "s_city_name": "Winseler",
+                    "s_city_slug": "winseler"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Diekirch District",
+            "s_region_slug": "diekirch-district",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "diekirch-district",
+                    "s_city_name": "Diekirch District",
+                    "s_city_slug": "diekirch-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Grevenmacher District",
+            "s_region_slug": "grevenmacher-district",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "grevenmacher-district",
+                    "s_city_name": "Grevenmacher District",
+                    "s_city_slug": "grevenmacher-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LU",
+            "s_region_name": "Luxembourg District",
+            "s_region_slug": "luxembourg-district",
+            "cities": [
+                {
+                    "s_country_code": "LU",
+                    "s_region_slug": "luxembourg-district",
+                    "s_city_name": "Luxembourg District",
+                    "s_city_slug": "luxembourg-district"
+                }
+            ]
+        }
+    ]
+}

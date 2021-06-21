@@ -1,1 +1,384 @@
-{"s_country_code": "ML", "s_country_name": "Mali", "s_country_slug": "mali", "regions": [{"s_country_code": "ML", "s_region_name": "Bamako", "s_region_slug": "bamako", "cities": [{"s_country_code": "ML", "s_region_slug": "bamako", "s_city_name": "Bamako", "s_city_slug": "bamako"}]}, {"s_country_code": "ML", "s_region_name": "Gao Region", "s_region_slug": "gao-region", "cities": [{"s_country_code": "ML", "s_region_slug": "gao-region", "s_city_name": "Ansongo", "s_city_slug": "ansongo"}, {"s_country_code": "ML", "s_region_slug": "gao-region", "s_city_name": "Cercle de Bourem", "s_city_slug": "cercle-de-bourem"}, {"s_country_code": "ML", "s_region_slug": "gao-region", "s_city_name": "Gao", "s_city_slug": "gao"}, {"s_country_code": "ML", "s_region_slug": "gao-region", "s_city_name": "Gao Cercle", "s_city_slug": "gao-cercle"}, {"s_country_code": "ML", "s_region_slug": "gao-region", "s_city_name": "Inekar", "s_city_slug": "inekar"}]}, {"s_country_code": "ML", "s_region_name": "Kayes Region", "s_region_slug": "kayes-region", "cities": [{"s_country_code": "ML", "s_region_slug": "kayes-region", "s_city_name": "Bafoulabe", "s_city_slug": "bafoulabe"}, {"s_country_code": "ML", "s_region_slug": "kayes-region", "s_city_name": "Kayes", "s_city_slug": "kayes"}, {"s_country_code": "ML", "s_region_slug": "kayes-region", "s_city_name": "Kita", "s_city_slug": "kita"}, {"s_country_code": "ML", "s_region_slug": "kayes-region", "s_city_name": "Kokofata", "s_city_slug": "kokofata"}, {"s_country_code": "ML", "s_region_slug": "kayes-region", "s_city_name": "Sagalo", "s_city_slug": "sagalo"}]}, {"s_country_code": "ML", "s_region_name": "Kidal Region", "s_region_slug": "kidal-region", "cities": [{"s_country_code": "ML", "s_region_slug": "kidal-region", "s_city_name": "Abeibara", "s_city_slug": "abeibara"}, {"s_country_code": "ML", "s_region_slug": "kidal-region", "s_city_name": "Cercle dAbeibara", "s_city_slug": "cercle-dabeibara"}, {"s_country_code": "ML", "s_region_slug": "kidal-region", "s_city_name": "Kidal", "s_city_slug": "kidal"}]}, {"s_country_code": "ML", "s_region_name": "Koulikoro Region", "s_region_slug": "koulikoro-region", "cities": [{"s_country_code": "ML", "s_region_slug": "koulikoro-region", "s_city_name": "Banamba", "s_city_slug": "banamba"}, {"s_country_code": "ML", "s_region_slug": "koulikoro-region", "s_city_name": "Kangaba", "s_city_slug": "kangaba"}, {"s_country_code": "ML", "s_region_slug": "koulikoro-region", "s_city_name": "Kati", "s_city_slug": "kati"}, {"s_country_code": "ML", "s_region_slug": "koulikoro-region", "s_city_name": "Kolokani", "s_city_slug": "kolokani"}, {"s_country_code": "ML", "s_region_slug": "koulikoro-region", "s_city_name": "Koulikoro", "s_city_slug": "koulikoro"}]}, {"s_country_code": "ML", "s_region_name": "Menaka Region", "s_region_slug": "menaka-region", "cities": [{"s_country_code": "ML", "s_region_slug": "menaka-region", "s_city_name": "Menaka Region", "s_city_slug": "menaka-region"}]}, {"s_country_code": "ML", "s_region_name": "Mopti Region", "s_region_slug": "mopti-region", "cities": [{"s_country_code": "ML", "s_region_slug": "mopti-region", "s_city_name": "Bandiagara", "s_city_slug": "bandiagara"}, {"s_country_code": "ML", "s_region_slug": "mopti-region", "s_city_name": "Djenne", "s_city_slug": "djenne"}, {"s_country_code": "ML", "s_region_slug": "mopti-region", "s_city_name": "Douentza", "s_city_slug": "douentza"}, {"s_country_code": "ML", "s_region_slug": "mopti-region", "s_city_name": "Douentza Cercle", "s_city_slug": "douentza-cercle"}, {"s_country_code": "ML", "s_region_slug": "mopti-region", "s_city_name": "Mopti", "s_city_slug": "mopti"}, {"s_country_code": "ML", "s_region_slug": "mopti-region", "s_city_name": "Tenenkou", "s_city_slug": "tenenkou"}]}, {"s_country_code": "ML", "s_region_name": "Segou Region", "s_region_slug": "segou-region", "cities": [{"s_country_code": "ML", "s_region_slug": "segou-region", "s_city_name": "Baroueli", "s_city_slug": "baroueli"}, {"s_country_code": "ML", "s_region_slug": "segou-region", "s_city_name": "Cercle de San", "s_city_slug": "cercle-de-san"}, {"s_country_code": "ML", "s_region_slug": "segou-region", "s_city_name": "Ke-Macina", "s_city_slug": "ke-macina"}, {"s_country_code": "ML", "s_region_slug": "segou-region", "s_city_name": "Kinmparana", "s_city_slug": "kinmparana"}, {"s_country_code": "ML", "s_region_slug": "segou-region", "s_city_name": "Markala", "s_city_slug": "markala"}, {"s_country_code": "ML", "s_region_slug": "segou-region", "s_city_name": "San", "s_city_slug": "san"}, {"s_country_code": "ML", "s_region_slug": "segou-region", "s_city_name": "Segou", "s_city_slug": "segou"}, {"s_country_code": "ML", "s_region_slug": "segou-region", "s_city_name": "Sokolo", "s_city_slug": "sokolo"}]}, {"s_country_code": "ML", "s_region_name": "Sikasso Region", "s_region_slug": "sikasso-region", "cities": [{"s_country_code": "ML", "s_region_slug": "sikasso-region", "s_city_name": "Bougouni", "s_city_slug": "bougouni"}, {"s_country_code": "ML", "s_region_slug": "sikasso-region", "s_city_name": "Kolondieba", "s_city_slug": "kolondieba"}, {"s_country_code": "ML", "s_region_slug": "sikasso-region", "s_city_name": "Koutiala", "s_city_slug": "koutiala"}, {"s_country_code": "ML", "s_region_slug": "sikasso-region", "s_city_name": "Koutiala Cercle", "s_city_slug": "koutiala-cercle"}, {"s_country_code": "ML", "s_region_slug": "sikasso-region", "s_city_name": "Ntossoni", "s_city_slug": "ntossoni"}, {"s_country_code": "ML", "s_region_slug": "sikasso-region", "s_city_name": "Sikasso", "s_city_slug": "sikasso"}, {"s_country_code": "ML", "s_region_slug": "sikasso-region", "s_city_name": "Yorosso", "s_city_slug": "yorosso"}]}, {"s_country_code": "ML", "s_region_name": "Taoudenit Region", "s_region_slug": "taoudenit-region", "cities": [{"s_country_code": "ML", "s_region_slug": "taoudenit-region", "s_city_name": "Taoudenit Region", "s_city_slug": "taoudenit-region"}]}, {"s_country_code": "ML", "s_region_name": "Tombouctou Region", "s_region_slug": "tombouctou-region", "cities": [{"s_country_code": "ML", "s_region_slug": "tombouctou-region", "s_city_name": "Araouane", "s_city_slug": "araouane"}, {"s_country_code": "ML", "s_region_slug": "tombouctou-region", "s_city_name": "Cercle de Goundam", "s_city_slug": "cercle-de-goundam"}, {"s_country_code": "ML", "s_region_slug": "tombouctou-region", "s_city_name": "Dire", "s_city_slug": "dire"}, {"s_country_code": "ML", "s_region_slug": "tombouctou-region", "s_city_name": "Dire", "s_city_slug": "dire"}, {"s_country_code": "ML", "s_region_slug": "tombouctou-region", "s_city_name": "Goundam", "s_city_slug": "goundam"}, {"s_country_code": "ML", "s_region_slug": "tombouctou-region", "s_city_name": "Gourma-Rharous Cercle", "s_city_slug": "gourma-rharous-cercle"}, {"s_country_code": "ML", "s_region_slug": "tombouctou-region", "s_city_name": "Niafunke", "s_city_slug": "niafunke"}, {"s_country_code": "ML", "s_region_slug": "tombouctou-region", "s_city_name": "Timbuktu", "s_city_slug": "timbuktu"}]}]}
+{
+    "s_country_code": "ML",
+    "s_country_name": "Mali",
+    "s_country_slug": "mali",
+    "regions": [
+        {
+            "s_country_code": "ML",
+            "s_region_name": "Bamako",
+            "s_region_slug": "bamako",
+            "cities": [
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "bamako",
+                    "s_city_name": "Bamako",
+                    "s_city_slug": "bamako"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ML",
+            "s_region_name": "Gao Region",
+            "s_region_slug": "gao-region",
+            "cities": [
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "gao-region",
+                    "s_city_name": "Ansongo",
+                    "s_city_slug": "ansongo"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "gao-region",
+                    "s_city_name": "Cercle de Bourem",
+                    "s_city_slug": "cercle-de-bourem"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "gao-region",
+                    "s_city_name": "Gao",
+                    "s_city_slug": "gao"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "gao-region",
+                    "s_city_name": "Gao Cercle",
+                    "s_city_slug": "gao-cercle"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "gao-region",
+                    "s_city_name": "Inekar",
+                    "s_city_slug": "inekar"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ML",
+            "s_region_name": "Kayes Region",
+            "s_region_slug": "kayes-region",
+            "cities": [
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "kayes-region",
+                    "s_city_name": "Bafoulabe",
+                    "s_city_slug": "bafoulabe"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "kayes-region",
+                    "s_city_name": "Kayes",
+                    "s_city_slug": "kayes"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "kayes-region",
+                    "s_city_name": "Kita",
+                    "s_city_slug": "kita"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "kayes-region",
+                    "s_city_name": "Kokofata",
+                    "s_city_slug": "kokofata"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "kayes-region",
+                    "s_city_name": "Sagalo",
+                    "s_city_slug": "sagalo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ML",
+            "s_region_name": "Kidal Region",
+            "s_region_slug": "kidal-region",
+            "cities": [
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "kidal-region",
+                    "s_city_name": "Abeibara",
+                    "s_city_slug": "abeibara"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "kidal-region",
+                    "s_city_name": "Cercle dAbeibara",
+                    "s_city_slug": "cercle-dabeibara"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "kidal-region",
+                    "s_city_name": "Kidal",
+                    "s_city_slug": "kidal"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ML",
+            "s_region_name": "Koulikoro Region",
+            "s_region_slug": "koulikoro-region",
+            "cities": [
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "koulikoro-region",
+                    "s_city_name": "Banamba",
+                    "s_city_slug": "banamba"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "koulikoro-region",
+                    "s_city_name": "Kangaba",
+                    "s_city_slug": "kangaba"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "koulikoro-region",
+                    "s_city_name": "Kati",
+                    "s_city_slug": "kati"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "koulikoro-region",
+                    "s_city_name": "Kolokani",
+                    "s_city_slug": "kolokani"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "koulikoro-region",
+                    "s_city_name": "Koulikoro",
+                    "s_city_slug": "koulikoro"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ML",
+            "s_region_name": "Menaka Region",
+            "s_region_slug": "menaka-region",
+            "cities": [
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "menaka-region",
+                    "s_city_name": "Menaka Region",
+                    "s_city_slug": "menaka-region"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ML",
+            "s_region_name": "Mopti Region",
+            "s_region_slug": "mopti-region",
+            "cities": [
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "mopti-region",
+                    "s_city_name": "Bandiagara",
+                    "s_city_slug": "bandiagara"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "mopti-region",
+                    "s_city_name": "Djenne",
+                    "s_city_slug": "djenne"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "mopti-region",
+                    "s_city_name": "Douentza",
+                    "s_city_slug": "douentza"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "mopti-region",
+                    "s_city_name": "Douentza Cercle",
+                    "s_city_slug": "douentza-cercle"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "mopti-region",
+                    "s_city_name": "Mopti",
+                    "s_city_slug": "mopti"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "mopti-region",
+                    "s_city_name": "Tenenkou",
+                    "s_city_slug": "tenenkou"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ML",
+            "s_region_name": "Segou Region",
+            "s_region_slug": "segou-region",
+            "cities": [
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "segou-region",
+                    "s_city_name": "Baroueli",
+                    "s_city_slug": "baroueli"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "segou-region",
+                    "s_city_name": "Cercle de San",
+                    "s_city_slug": "cercle-de-san"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "segou-region",
+                    "s_city_name": "Ke-Macina",
+                    "s_city_slug": "ke-macina"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "segou-region",
+                    "s_city_name": "Kinmparana",
+                    "s_city_slug": "kinmparana"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "segou-region",
+                    "s_city_name": "Markala",
+                    "s_city_slug": "markala"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "segou-region",
+                    "s_city_name": "San",
+                    "s_city_slug": "san"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "segou-region",
+                    "s_city_name": "Segou",
+                    "s_city_slug": "segou"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "segou-region",
+                    "s_city_name": "Sokolo",
+                    "s_city_slug": "sokolo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ML",
+            "s_region_name": "Sikasso Region",
+            "s_region_slug": "sikasso-region",
+            "cities": [
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "sikasso-region",
+                    "s_city_name": "Bougouni",
+                    "s_city_slug": "bougouni"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "sikasso-region",
+                    "s_city_name": "Kolondieba",
+                    "s_city_slug": "kolondieba"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "sikasso-region",
+                    "s_city_name": "Koutiala",
+                    "s_city_slug": "koutiala"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "sikasso-region",
+                    "s_city_name": "Koutiala Cercle",
+                    "s_city_slug": "koutiala-cercle"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "sikasso-region",
+                    "s_city_name": "Ntossoni",
+                    "s_city_slug": "ntossoni"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "sikasso-region",
+                    "s_city_name": "Sikasso",
+                    "s_city_slug": "sikasso"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "sikasso-region",
+                    "s_city_name": "Yorosso",
+                    "s_city_slug": "yorosso"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ML",
+            "s_region_name": "Taoudenit Region",
+            "s_region_slug": "taoudenit-region",
+            "cities": [
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "taoudenit-region",
+                    "s_city_name": "Taoudenit Region",
+                    "s_city_slug": "taoudenit-region"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ML",
+            "s_region_name": "Tombouctou Region",
+            "s_region_slug": "tombouctou-region",
+            "cities": [
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "tombouctou-region",
+                    "s_city_name": "Araouane",
+                    "s_city_slug": "araouane"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "tombouctou-region",
+                    "s_city_name": "Cercle de Goundam",
+                    "s_city_slug": "cercle-de-goundam"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "tombouctou-region",
+                    "s_city_name": "Dire",
+                    "s_city_slug": "dire"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "tombouctou-region",
+                    "s_city_name": "Dire",
+                    "s_city_slug": "dire"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "tombouctou-region",
+                    "s_city_name": "Goundam",
+                    "s_city_slug": "goundam"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "tombouctou-region",
+                    "s_city_name": "Gourma-Rharous Cercle",
+                    "s_city_slug": "gourma-rharous-cercle"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "tombouctou-region",
+                    "s_city_name": "Niafunke",
+                    "s_city_slug": "niafunke"
+                },
+                {
+                    "s_country_code": "ML",
+                    "s_region_slug": "tombouctou-region",
+                    "s_city_name": "Timbuktu",
+                    "s_city_slug": "timbuktu"
+                }
+            ]
+        }
+    ]
+}

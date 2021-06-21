@@ -1,1 +1,290 @@
-{"s_country_code": "BT", "s_country_name": "Bhutan", "s_country_slug": "bhutan", "regions": [{"s_country_code": "BT", "s_region_name": "Bumthang District", "s_region_slug": "bumthang-district", "cities": [{"s_country_code": "BT", "s_region_slug": "bumthang-district", "s_city_name": "Jakar", "s_city_slug": "jakar"}]}, {"s_country_code": "BT", "s_region_name": "Chukha District", "s_region_slug": "chukha-district", "cities": [{"s_country_code": "BT", "s_region_slug": "chukha-district", "s_city_name": "Daphu", "s_city_slug": "daphu"}, {"s_country_code": "BT", "s_region_slug": "chukha-district", "s_city_name": "Phuntsholing", "s_city_slug": "phuntsholing"}, {"s_country_code": "BT", "s_region_slug": "chukha-district", "s_city_name": "Tsimasham", "s_city_slug": "tsimasham"}]}, {"s_country_code": "BT", "s_region_name": "Dagana District", "s_region_slug": "dagana-district", "cities": [{"s_country_code": "BT", "s_region_slug": "dagana-district", "s_city_name": "Daga", "s_city_slug": "daga"}, {"s_country_code": "BT", "s_region_slug": "dagana-district", "s_city_name": "Wangdue Phodrang", "s_city_slug": "wangdue-phodrang"}]}, {"s_country_code": "BT", "s_region_name": "Gasa District", "s_region_slug": "gasa-district", "cities": [{"s_country_code": "BT", "s_region_slug": "gasa-district", "s_city_name": "Gasa", "s_city_slug": "gasa"}]}, {"s_country_code": "BT", "s_region_name": "Haa District", "s_region_slug": "haa-district", "cities": [{"s_country_code": "BT", "s_region_slug": "haa-district", "s_city_name": "Ha", "s_city_slug": "ha"}]}, {"s_country_code": "BT", "s_region_name": "Lhuntse District", "s_region_slug": "lhuntse-district", "cities": [{"s_country_code": "BT", "s_region_slug": "lhuntse-district", "s_city_name": "Lhuentse", "s_city_slug": "lhuentse"}]}, {"s_country_code": "BT", "s_region_name": "Mongar District", "s_region_slug": "mongar-district", "cities": [{"s_country_code": "BT", "s_region_slug": "mongar-district", "s_city_name": "Mongar", "s_city_slug": "mongar"}]}, {"s_country_code": "BT", "s_region_name": "Paro District", "s_region_slug": "paro-district", "cities": [{"s_country_code": "BT", "s_region_slug": "paro-district", "s_city_name": "Paro", "s_city_slug": "paro"}]}, {"s_country_code": "BT", "s_region_name": "Pemagatshel District", "s_region_slug": "pemagatshel-district", "cities": [{"s_country_code": "BT", "s_region_slug": "pemagatshel-district", "s_city_name": "Pemagatshel", "s_city_slug": "pemagatshel"}]}, {"s_country_code": "BT", "s_region_name": "Punakha District", "s_region_slug": "punakha-district", "cities": [{"s_country_code": "BT", "s_region_slug": "punakha-district", "s_city_name": "Pajo", "s_city_slug": "pajo"}, {"s_country_code": "BT", "s_region_slug": "punakha-district", "s_city_name": "Punakha", "s_city_slug": "punakha"}]}, {"s_country_code": "BT", "s_region_name": "Samdrup Jongkhar District", "s_region_slug": "samdrup-jongkhar-district", "cities": [{"s_country_code": "BT", "s_region_slug": "samdrup-jongkhar-district", "s_city_name": "Samdrup Jongkhar", "s_city_slug": "samdrup-jongkhar"}]}, {"s_country_code": "BT", "s_region_name": "Samtse District", "s_region_slug": "samtse-district", "cities": [{"s_country_code": "BT", "s_region_slug": "samtse-district", "s_city_name": "Samtse", "s_city_slug": "samtse"}]}, {"s_country_code": "BT", "s_region_name": "Sarpang District", "s_region_slug": "sarpang-district", "cities": [{"s_country_code": "BT", "s_region_slug": "sarpang-district", "s_city_name": "Sarpang", "s_city_slug": "sarpang"}]}, {"s_country_code": "BT", "s_region_name": "Thimphu District", "s_region_slug": "thimphu-district", "cities": [{"s_country_code": "BT", "s_region_slug": "thimphu-district", "s_city_name": "Thimphu", "s_city_slug": "thimphu"}]}, {"s_country_code": "BT", "s_region_name": "Trashigang District", "s_region_slug": "trashigang-district", "cities": [{"s_country_code": "BT", "s_region_slug": "trashigang-district", "s_city_name": "Trashigang", "s_city_slug": "trashigang"}]}, {"s_country_code": "BT", "s_region_name": "Trongsa District", "s_region_slug": "trongsa-district", "cities": [{"s_country_code": "BT", "s_region_slug": "trongsa-district", "s_city_name": "Trongsa District", "s_city_slug": "trongsa-district"}]}, {"s_country_code": "BT", "s_region_name": "Tsirang District", "s_region_slug": "tsirang-district", "cities": [{"s_country_code": "BT", "s_region_slug": "tsirang-district", "s_city_name": "Trongsa", "s_city_slug": "trongsa"}, {"s_country_code": "BT", "s_region_slug": "tsirang-district", "s_city_name": "Tsirang", "s_city_slug": "tsirang"}]}, {"s_country_code": "BT", "s_region_name": "Wangdue Phodrang District", "s_region_slug": "wangdue-phodrang-district", "cities": [{"s_country_code": "BT", "s_region_slug": "wangdue-phodrang-district", "s_city_name": "Trashi Yangtse", "s_city_slug": "trashi-yangtse"}]}, {"s_country_code": "BT", "s_region_name": "Zhemgang District", "s_region_slug": "zhemgang-district", "cities": [{"s_country_code": "BT", "s_region_slug": "zhemgang-district", "s_city_name": "Panbang", "s_city_slug": "panbang"}, {"s_country_code": "BT", "s_region_slug": "zhemgang-district", "s_city_name": "Shemgang", "s_city_slug": "shemgang"}]}]}
+{
+    "s_country_code": "BT",
+    "s_country_name": "Bhutan",
+    "s_country_slug": "bhutan",
+    "regions": [
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Bumthang District",
+            "s_region_slug": "bumthang-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "bumthang-district",
+                    "s_city_name": "Jakar",
+                    "s_city_slug": "jakar"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Chukha District",
+            "s_region_slug": "chukha-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "chukha-district",
+                    "s_city_name": "Daphu",
+                    "s_city_slug": "daphu"
+                },
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "chukha-district",
+                    "s_city_name": "Phuntsholing",
+                    "s_city_slug": "phuntsholing"
+                },
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "chukha-district",
+                    "s_city_name": "Tsimasham",
+                    "s_city_slug": "tsimasham"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Dagana District",
+            "s_region_slug": "dagana-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "dagana-district",
+                    "s_city_name": "Daga",
+                    "s_city_slug": "daga"
+                },
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "dagana-district",
+                    "s_city_name": "Wangdue Phodrang",
+                    "s_city_slug": "wangdue-phodrang"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Gasa District",
+            "s_region_slug": "gasa-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "gasa-district",
+                    "s_city_name": "Gasa",
+                    "s_city_slug": "gasa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Haa District",
+            "s_region_slug": "haa-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "haa-district",
+                    "s_city_name": "Ha",
+                    "s_city_slug": "ha"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Lhuntse District",
+            "s_region_slug": "lhuntse-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "lhuntse-district",
+                    "s_city_name": "Lhuentse",
+                    "s_city_slug": "lhuentse"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Mongar District",
+            "s_region_slug": "mongar-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "mongar-district",
+                    "s_city_name": "Mongar",
+                    "s_city_slug": "mongar"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Paro District",
+            "s_region_slug": "paro-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "paro-district",
+                    "s_city_name": "Paro",
+                    "s_city_slug": "paro"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Pemagatshel District",
+            "s_region_slug": "pemagatshel-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "pemagatshel-district",
+                    "s_city_name": "Pemagatshel",
+                    "s_city_slug": "pemagatshel"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Punakha District",
+            "s_region_slug": "punakha-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "punakha-district",
+                    "s_city_name": "Pajo",
+                    "s_city_slug": "pajo"
+                },
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "punakha-district",
+                    "s_city_name": "Punakha",
+                    "s_city_slug": "punakha"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Samdrup Jongkhar District",
+            "s_region_slug": "samdrup-jongkhar-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "samdrup-jongkhar-district",
+                    "s_city_name": "Samdrup Jongkhar",
+                    "s_city_slug": "samdrup-jongkhar"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Samtse District",
+            "s_region_slug": "samtse-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "samtse-district",
+                    "s_city_name": "Samtse",
+                    "s_city_slug": "samtse"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Sarpang District",
+            "s_region_slug": "sarpang-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "sarpang-district",
+                    "s_city_name": "Sarpang",
+                    "s_city_slug": "sarpang"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Thimphu District",
+            "s_region_slug": "thimphu-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "thimphu-district",
+                    "s_city_name": "Thimphu",
+                    "s_city_slug": "thimphu"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Trashigang District",
+            "s_region_slug": "trashigang-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "trashigang-district",
+                    "s_city_name": "Trashigang",
+                    "s_city_slug": "trashigang"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Trongsa District",
+            "s_region_slug": "trongsa-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "trongsa-district",
+                    "s_city_name": "Trongsa District",
+                    "s_city_slug": "trongsa-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Tsirang District",
+            "s_region_slug": "tsirang-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "tsirang-district",
+                    "s_city_name": "Trongsa",
+                    "s_city_slug": "trongsa"
+                },
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "tsirang-district",
+                    "s_city_name": "Tsirang",
+                    "s_city_slug": "tsirang"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Wangdue Phodrang District",
+            "s_region_slug": "wangdue-phodrang-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "wangdue-phodrang-district",
+                    "s_city_name": "Trashi Yangtse",
+                    "s_city_slug": "trashi-yangtse"
+                }
+            ]
+        },
+        {
+            "s_country_code": "BT",
+            "s_region_name": "Zhemgang District",
+            "s_region_slug": "zhemgang-district",
+            "cities": [
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "zhemgang-district",
+                    "s_city_name": "Panbang",
+                    "s_city_slug": "panbang"
+                },
+                {
+                    "s_country_code": "BT",
+                    "s_region_slug": "zhemgang-district",
+                    "s_city_name": "Shemgang",
+                    "s_city_slug": "shemgang"
+                }
+            ]
+        }
+    ]
+}

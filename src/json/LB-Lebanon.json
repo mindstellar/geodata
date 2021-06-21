@@ -1,1 +1,219 @@
-{"s_country_code": "LB", "s_country_name": "Lebanon", "s_country_slug": "lebanon", "regions": [{"s_country_code": "LB", "s_region_name": "Akkar Governorate", "s_region_slug": "akkar-governorate", "cities": [{"s_country_code": "LB", "s_region_slug": "akkar-governorate", "s_city_name": "Caza de Aakkar", "s_city_slug": "caza-de-aakkar"}]}, {"s_country_code": "LB", "s_region_name": "Baalbek-Hermel Governorate", "s_region_slug": "baalbek-hermel-governorate", "cities": [{"s_country_code": "LB", "s_region_slug": "baalbek-hermel-governorate", "s_city_name": "Baalbek", "s_city_slug": "baalbek"}, {"s_country_code": "LB", "s_region_slug": "baalbek-hermel-governorate", "s_city_name": "Caza de Baalbek", "s_city_slug": "caza-de-baalbek"}]}, {"s_country_code": "LB", "s_region_name": "Beirut Governorate", "s_region_slug": "beirut-governorate", "cities": [{"s_country_code": "LB", "s_region_slug": "beirut-governorate", "s_city_name": "Beirut", "s_city_slug": "beirut"}, {"s_country_code": "LB", "s_region_slug": "beirut-governorate", "s_city_name": "Ras Bayrut", "s_city_slug": "ras-bayrut"}]}, {"s_country_code": "LB", "s_region_name": "Beqaa Governorate", "s_region_slug": "beqaa-governorate", "cities": [{"s_country_code": "LB", "s_region_slug": "beqaa-governorate", "s_city_name": "Aanjar", "s_city_slug": "aanjar"}, {"s_country_code": "LB", "s_region_slug": "beqaa-governorate", "s_city_name": "Zahle", "s_city_slug": "zahle"}]}, {"s_country_code": "LB", "s_region_name": "Mount Lebanon Governorate", "s_region_slug": "mount-lebanon-governorate", "cities": [{"s_country_code": "LB", "s_region_slug": "mount-lebanon-governorate", "s_city_name": "Baabda", "s_city_slug": "baabda"}, {"s_country_code": "LB", "s_region_slug": "mount-lebanon-governorate", "s_city_name": "Bhamdoun", "s_city_slug": "bhamdoun"}, {"s_country_code": "LB", "s_region_slug": "mount-lebanon-governorate", "s_city_name": "Bhamdoun el Mhatta", "s_city_slug": "bhamdoun-el-mhatta"}, {"s_country_code": "LB", "s_region_slug": "mount-lebanon-governorate", "s_city_name": "Caza de Baabda", "s_city_slug": "caza-de-baabda"}, {"s_country_code": "LB", "s_region_slug": "mount-lebanon-governorate", "s_city_name": "Jbail", "s_city_slug": "jbail"}, {"s_country_code": "LB", "s_region_slug": "mount-lebanon-governorate", "s_city_name": "Jounieh", "s_city_slug": "jounieh"}]}, {"s_country_code": "LB", "s_region_name": "Nabatieh Governorate", "s_region_slug": "nabatieh-governorate", "cities": [{"s_country_code": "LB", "s_region_slug": "nabatieh-governorate", "s_city_name": "Ain Ebel", "s_city_slug": "ain-ebel"}, {"s_country_code": "LB", "s_region_slug": "nabatieh-governorate", "s_city_name": "Caza de Bent Jbail", "s_city_slug": "caza-de-bent-jbail"}, {"s_country_code": "LB", "s_region_slug": "nabatieh-governorate", "s_city_name": "Caza de Nabatiye", "s_city_slug": "caza-de-nabatiye"}, {"s_country_code": "LB", "s_region_slug": "nabatieh-governorate", "s_city_name": "Habbouch", "s_city_slug": "habbouch"}, {"s_country_code": "LB", "s_region_slug": "nabatieh-governorate", "s_city_name": "Marjayoun", "s_city_slug": "marjayoun"}, {"s_country_code": "LB", "s_region_slug": "nabatieh-governorate", "s_city_name": "Nabatiye et Tahta", "s_city_slug": "nabatiye-et-tahta"}]}, {"s_country_code": "LB", "s_region_name": "North Governorate", "s_region_slug": "north-governorate", "cities": [{"s_country_code": "LB", "s_region_slug": "north-governorate", "s_city_name": "Batroun", "s_city_slug": "batroun"}, {"s_country_code": "LB", "s_region_slug": "north-governorate", "s_city_name": "Bcharre", "s_city_slug": "bcharre"}, {"s_country_code": "LB", "s_region_slug": "north-governorate", "s_city_name": "Tripoli", "s_city_slug": "tripoli"}]}, {"s_country_code": "LB", "s_region_name": "South Governorate", "s_region_slug": "south-governorate", "cities": [{"s_country_code": "LB", "s_region_slug": "south-governorate", "s_city_name": "En Naqoura", "s_city_slug": "en-naqoura"}, {"s_country_code": "LB", "s_region_slug": "south-governorate", "s_city_name": "Ghazieh", "s_city_slug": "ghazieh"}, {"s_country_code": "LB", "s_region_slug": "south-governorate", "s_city_name": "Sidon", "s_city_slug": "sidon"}, {"s_country_code": "LB", "s_region_slug": "south-governorate", "s_city_name": "Tyre", "s_city_slug": "tyre"}]}]}
+{
+    "s_country_code": "LB",
+    "s_country_name": "Lebanon",
+    "s_country_slug": "lebanon",
+    "regions": [
+        {
+            "s_country_code": "LB",
+            "s_region_name": "Akkar Governorate",
+            "s_region_slug": "akkar-governorate",
+            "cities": [
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "akkar-governorate",
+                    "s_city_name": "Caza de Aakkar",
+                    "s_city_slug": "caza-de-aakkar"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LB",
+            "s_region_name": "Baalbek-Hermel Governorate",
+            "s_region_slug": "baalbek-hermel-governorate",
+            "cities": [
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "baalbek-hermel-governorate",
+                    "s_city_name": "Baalbek",
+                    "s_city_slug": "baalbek"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "baalbek-hermel-governorate",
+                    "s_city_name": "Caza de Baalbek",
+                    "s_city_slug": "caza-de-baalbek"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LB",
+            "s_region_name": "Beirut Governorate",
+            "s_region_slug": "beirut-governorate",
+            "cities": [
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "beirut-governorate",
+                    "s_city_name": "Beirut",
+                    "s_city_slug": "beirut"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "beirut-governorate",
+                    "s_city_name": "Ras Bayrut",
+                    "s_city_slug": "ras-bayrut"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LB",
+            "s_region_name": "Beqaa Governorate",
+            "s_region_slug": "beqaa-governorate",
+            "cities": [
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "beqaa-governorate",
+                    "s_city_name": "Aanjar",
+                    "s_city_slug": "aanjar"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "beqaa-governorate",
+                    "s_city_name": "Zahle",
+                    "s_city_slug": "zahle"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LB",
+            "s_region_name": "Mount Lebanon Governorate",
+            "s_region_slug": "mount-lebanon-governorate",
+            "cities": [
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "mount-lebanon-governorate",
+                    "s_city_name": "Baabda",
+                    "s_city_slug": "baabda"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "mount-lebanon-governorate",
+                    "s_city_name": "Bhamdoun",
+                    "s_city_slug": "bhamdoun"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "mount-lebanon-governorate",
+                    "s_city_name": "Bhamdoun el Mhatta",
+                    "s_city_slug": "bhamdoun-el-mhatta"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "mount-lebanon-governorate",
+                    "s_city_name": "Caza de Baabda",
+                    "s_city_slug": "caza-de-baabda"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "mount-lebanon-governorate",
+                    "s_city_name": "Jbail",
+                    "s_city_slug": "jbail"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "mount-lebanon-governorate",
+                    "s_city_name": "Jounieh",
+                    "s_city_slug": "jounieh"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LB",
+            "s_region_name": "Nabatieh Governorate",
+            "s_region_slug": "nabatieh-governorate",
+            "cities": [
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "nabatieh-governorate",
+                    "s_city_name": "Ain Ebel",
+                    "s_city_slug": "ain-ebel"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "nabatieh-governorate",
+                    "s_city_name": "Caza de Bent Jbail",
+                    "s_city_slug": "caza-de-bent-jbail"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "nabatieh-governorate",
+                    "s_city_name": "Caza de Nabatiye",
+                    "s_city_slug": "caza-de-nabatiye"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "nabatieh-governorate",
+                    "s_city_name": "Habbouch",
+                    "s_city_slug": "habbouch"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "nabatieh-governorate",
+                    "s_city_name": "Marjayoun",
+                    "s_city_slug": "marjayoun"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "nabatieh-governorate",
+                    "s_city_name": "Nabatiye et Tahta",
+                    "s_city_slug": "nabatiye-et-tahta"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LB",
+            "s_region_name": "North Governorate",
+            "s_region_slug": "north-governorate",
+            "cities": [
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "north-governorate",
+                    "s_city_name": "Batroun",
+                    "s_city_slug": "batroun"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "north-governorate",
+                    "s_city_name": "Bcharre",
+                    "s_city_slug": "bcharre"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "north-governorate",
+                    "s_city_name": "Tripoli",
+                    "s_city_slug": "tripoli"
+                }
+            ]
+        },
+        {
+            "s_country_code": "LB",
+            "s_region_name": "South Governorate",
+            "s_region_slug": "south-governorate",
+            "cities": [
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "south-governorate",
+                    "s_city_name": "En Naqoura",
+                    "s_city_slug": "en-naqoura"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "south-governorate",
+                    "s_city_name": "Ghazieh",
+                    "s_city_slug": "ghazieh"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "south-governorate",
+                    "s_city_name": "Sidon",
+                    "s_city_slug": "sidon"
+                },
+                {
+                    "s_country_code": "LB",
+                    "s_region_slug": "south-governorate",
+                    "s_city_name": "Tyre",
+                    "s_city_slug": "tyre"
+                }
+            ]
+        }
+    ]
+}

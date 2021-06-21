@@ -1,1 +1,115 @@
-{"s_country_code": "ER", "s_country_name": "Eritrea", "s_country_slug": "eritrea", "regions": [{"s_country_code": "ER", "s_region_name": "Anseba Region", "s_region_slug": "anseba-region", "cities": [{"s_country_code": "ER", "s_region_slug": "anseba-region", "s_city_name": "Keren", "s_city_slug": "keren"}]}, {"s_country_code": "ER", "s_region_name": "Debub Region", "s_region_slug": "debub-region", "cities": [{"s_country_code": "ER", "s_region_slug": "debub-region", "s_city_name": "Adi Keyh", "s_city_slug": "adi-keyh"}, {"s_country_code": "ER", "s_region_slug": "debub-region", "s_city_name": "Dekemhare", "s_city_slug": "dekemhare"}, {"s_country_code": "ER", "s_region_slug": "debub-region", "s_city_name": "Mendefera", "s_city_slug": "mendefera"}]}, {"s_country_code": "ER", "s_region_name": "Gash-Barka Region", "s_region_slug": "gash-barka-region", "cities": [{"s_country_code": "ER", "s_region_slug": "gash-barka-region", "s_city_name": "Akordat", "s_city_slug": "akordat"}, {"s_country_code": "ER", "s_region_slug": "gash-barka-region", "s_city_name": "Barentu", "s_city_slug": "barentu"}, {"s_country_code": "ER", "s_region_slug": "gash-barka-region", "s_city_name": "Teseney", "s_city_slug": "teseney"}]}, {"s_country_code": "ER", "s_region_name": "Maekel Region", "s_region_slug": "maekel-region", "cities": [{"s_country_code": "ER", "s_region_slug": "maekel-region", "s_city_name": "Asmara", "s_city_slug": "asmara"}]}, {"s_country_code": "ER", "s_region_name": "Northern Red Sea Region", "s_region_slug": "northern-red-sea-region", "cities": [{"s_country_code": "ER", "s_region_slug": "northern-red-sea-region", "s_city_name": "Massawa", "s_city_slug": "massawa"}]}, {"s_country_code": "ER", "s_region_name": "Southern Red Sea Region", "s_region_slug": "southern-red-sea-region", "cities": [{"s_country_code": "ER", "s_region_slug": "southern-red-sea-region", "s_city_name": "Assab", "s_city_slug": "assab"}, {"s_country_code": "ER", "s_region_slug": "southern-red-sea-region", "s_city_name": "Edd", "s_city_slug": "edd"}]}]}
+{
+    "s_country_code": "ER",
+    "s_country_name": "Eritrea",
+    "s_country_slug": "eritrea",
+    "regions": [
+        {
+            "s_country_code": "ER",
+            "s_region_name": "Anseba Region",
+            "s_region_slug": "anseba-region",
+            "cities": [
+                {
+                    "s_country_code": "ER",
+                    "s_region_slug": "anseba-region",
+                    "s_city_name": "Keren",
+                    "s_city_slug": "keren"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ER",
+            "s_region_name": "Debub Region",
+            "s_region_slug": "debub-region",
+            "cities": [
+                {
+                    "s_country_code": "ER",
+                    "s_region_slug": "debub-region",
+                    "s_city_name": "Adi Keyh",
+                    "s_city_slug": "adi-keyh"
+                },
+                {
+                    "s_country_code": "ER",
+                    "s_region_slug": "debub-region",
+                    "s_city_name": "Dekemhare",
+                    "s_city_slug": "dekemhare"
+                },
+                {
+                    "s_country_code": "ER",
+                    "s_region_slug": "debub-region",
+                    "s_city_name": "Mendefera",
+                    "s_city_slug": "mendefera"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ER",
+            "s_region_name": "Gash-Barka Region",
+            "s_region_slug": "gash-barka-region",
+            "cities": [
+                {
+                    "s_country_code": "ER",
+                    "s_region_slug": "gash-barka-region",
+                    "s_city_name": "Akordat",
+                    "s_city_slug": "akordat"
+                },
+                {
+                    "s_country_code": "ER",
+                    "s_region_slug": "gash-barka-region",
+                    "s_city_name": "Barentu",
+                    "s_city_slug": "barentu"
+                },
+                {
+                    "s_country_code": "ER",
+                    "s_region_slug": "gash-barka-region",
+                    "s_city_name": "Teseney",
+                    "s_city_slug": "teseney"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ER",
+            "s_region_name": "Maekel Region",
+            "s_region_slug": "maekel-region",
+            "cities": [
+                {
+                    "s_country_code": "ER",
+                    "s_region_slug": "maekel-region",
+                    "s_city_name": "Asmara",
+                    "s_city_slug": "asmara"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ER",
+            "s_region_name": "Northern Red Sea Region",
+            "s_region_slug": "northern-red-sea-region",
+            "cities": [
+                {
+                    "s_country_code": "ER",
+                    "s_region_slug": "northern-red-sea-region",
+                    "s_city_name": "Massawa",
+                    "s_city_slug": "massawa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "ER",
+            "s_region_name": "Southern Red Sea Region",
+            "s_region_slug": "southern-red-sea-region",
+            "cities": [
+                {
+                    "s_country_code": "ER",
+                    "s_region_slug": "southern-red-sea-region",
+                    "s_city_name": "Assab",
+                    "s_city_slug": "assab"
+                },
+                {
+                    "s_country_code": "ER",
+                    "s_region_slug": "southern-red-sea-region",
+                    "s_city_name": "Edd",
+                    "s_city_slug": "edd"
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,226 @@
-{"s_country_code": "MR", "s_country_name": "Mauritania", "s_country_slug": "mauritania", "regions": [{"s_country_code": "MR", "s_region_name": "Adrar Region", "s_region_slug": "adrar-region", "cities": [{"s_country_code": "MR", "s_region_slug": "adrar-region", "s_city_name": "Atar", "s_city_slug": "atar"}, {"s_country_code": "MR", "s_region_slug": "adrar-region", "s_city_name": "Chinguetti", "s_city_slug": "chinguetti"}]}, {"s_country_code": "MR", "s_region_name": "Assaba Region", "s_region_slug": "assaba-region", "cities": [{"s_country_code": "MR", "s_region_slug": "assaba-region", "s_city_name": "Barkewol", "s_city_slug": "barkewol"}, {"s_country_code": "MR", "s_region_slug": "assaba-region", "s_city_name": "Kiffa", "s_city_slug": "kiffa"}]}, {"s_country_code": "MR", "s_region_name": "Brakna Region", "s_region_slug": "brakna-region", "cities": [{"s_country_code": "MR", "s_region_slug": "brakna-region", "s_city_name": "Elb el Jmel", "s_city_slug": "elb-el-jmel"}, {"s_country_code": "MR", "s_region_slug": "brakna-region", "s_city_name": "Aleg", "s_city_slug": "aleg"}]}, {"s_country_code": "MR", "s_region_name": "Dakhlet Nouadhibou", "s_region_slug": "dakhlet-nouadhibou", "cities": [{"s_country_code": "MR", "s_region_slug": "dakhlet-nouadhibou", "s_city_name": "Nouadhibou", "s_city_slug": "nouadhibou"}]}, {"s_country_code": "MR", "s_region_name": "Gorgol Region", "s_region_slug": "gorgol-region", "cities": [{"s_country_code": "MR", "s_region_slug": "gorgol-region", "s_city_name": "Kaedi", "s_city_slug": "kaedi"}]}, {"s_country_code": "MR", "s_region_name": "Guidimaka Region", "s_region_slug": "guidimaka-region", "cities": [{"s_country_code": "MR", "s_region_slug": "guidimaka-region", "s_city_name": "Selibaby", "s_city_slug": "selibaby"}]}, {"s_country_code": "MR", "s_region_name": "Hodh Ech Chargui Region", "s_region_slug": "hodh-ech-chargui-region", "cities": [{"s_country_code": "MR", "s_region_slug": "hodh-ech-chargui-region", "s_city_name": "Nema", "s_city_slug": "nema"}]}, {"s_country_code": "MR", "s_region_name": "Hodh El Gharbi Region", "s_region_slug": "hodh-el-gharbi-region", "cities": [{"s_country_code": "MR", "s_region_slug": "hodh-el-gharbi-region", "s_city_name": "Aioun", "s_city_slug": "aioun"}]}, {"s_country_code": "MR", "s_region_name": "Inchiri Region", "s_region_slug": "inchiri-region", "cities": [{"s_country_code": "MR", "s_region_slug": "inchiri-region", "s_city_name": "Akjoujt", "s_city_slug": "akjoujt"}]}, {"s_country_code": "MR", "s_region_name": "Nouakchott-Nord Region", "s_region_slug": "nouakchott-nord-region", "cities": [{"s_country_code": "MR", "s_region_slug": "nouakchott-nord-region", "s_city_name": "Nouakchott-Nord Region", "s_city_slug": "nouakchott-nord-region"}]}, {"s_country_code": "MR", "s_region_name": "Nouakchott-Ouest Region", "s_region_slug": "nouakchott-ouest-region", "cities": [{"s_country_code": "MR", "s_region_slug": "nouakchott-ouest-region", "s_city_name": "Nouakchott-Ouest Region", "s_city_slug": "nouakchott-ouest-region"}]}, {"s_country_code": "MR", "s_region_name": "Nouakchott-Sud Region", "s_region_slug": "nouakchott-sud-region", "cities": [{"s_country_code": "MR", "s_region_slug": "nouakchott-sud-region", "s_city_name": "Nouakchott-Sud Region", "s_city_slug": "nouakchott-sud-region"}]}, {"s_country_code": "MR", "s_region_name": "Tagant Region", "s_region_slug": "tagant-region", "cities": [{"s_country_code": "MR", "s_region_slug": "tagant-region", "s_city_name": "Tagant Region", "s_city_slug": "tagant-region"}]}, {"s_country_code": "MR", "s_region_name": "Tiris Zemmour Region", "s_region_slug": "tiris-zemmour-region", "cities": [{"s_country_code": "MR", "s_region_slug": "tiris-zemmour-region", "s_city_name": "Zouerate", "s_city_slug": "zouerate"}]}, {"s_country_code": "MR", "s_region_name": "Trarza Region", "s_region_slug": "trarza-region", "cities": [{"s_country_code": "MR", "s_region_slug": "trarza-region", "s_city_name": "Rosso", "s_city_slug": "rosso"}, {"s_country_code": "MR", "s_region_slug": "trarza-region", "s_city_name": "Tekane", "s_city_slug": "tekane"}]}]}
+{
+    "s_country_code": "MR",
+    "s_country_name": "Mauritania",
+    "s_country_slug": "mauritania",
+    "regions": [
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Adrar Region",
+            "s_region_slug": "adrar-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "adrar-region",
+                    "s_city_name": "Atar",
+                    "s_city_slug": "atar"
+                },
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "adrar-region",
+                    "s_city_name": "Chinguetti",
+                    "s_city_slug": "chinguetti"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Assaba Region",
+            "s_region_slug": "assaba-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "assaba-region",
+                    "s_city_name": "Barkewol",
+                    "s_city_slug": "barkewol"
+                },
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "assaba-region",
+                    "s_city_name": "Kiffa",
+                    "s_city_slug": "kiffa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Brakna Region",
+            "s_region_slug": "brakna-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "brakna-region",
+                    "s_city_name": "Elb el Jmel",
+                    "s_city_slug": "elb-el-jmel"
+                },
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "brakna-region",
+                    "s_city_name": "Aleg",
+                    "s_city_slug": "aleg"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Dakhlet Nouadhibou",
+            "s_region_slug": "dakhlet-nouadhibou",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "dakhlet-nouadhibou",
+                    "s_city_name": "Nouadhibou",
+                    "s_city_slug": "nouadhibou"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Gorgol Region",
+            "s_region_slug": "gorgol-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "gorgol-region",
+                    "s_city_name": "Kaedi",
+                    "s_city_slug": "kaedi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Guidimaka Region",
+            "s_region_slug": "guidimaka-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "guidimaka-region",
+                    "s_city_name": "Selibaby",
+                    "s_city_slug": "selibaby"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Hodh Ech Chargui Region",
+            "s_region_slug": "hodh-ech-chargui-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "hodh-ech-chargui-region",
+                    "s_city_name": "Nema",
+                    "s_city_slug": "nema"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Hodh El Gharbi Region",
+            "s_region_slug": "hodh-el-gharbi-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "hodh-el-gharbi-region",
+                    "s_city_name": "Aioun",
+                    "s_city_slug": "aioun"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Inchiri Region",
+            "s_region_slug": "inchiri-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "inchiri-region",
+                    "s_city_name": "Akjoujt",
+                    "s_city_slug": "akjoujt"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Nouakchott-Nord Region",
+            "s_region_slug": "nouakchott-nord-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "nouakchott-nord-region",
+                    "s_city_name": "Nouakchott-Nord Region",
+                    "s_city_slug": "nouakchott-nord-region"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Nouakchott-Ouest Region",
+            "s_region_slug": "nouakchott-ouest-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "nouakchott-ouest-region",
+                    "s_city_name": "Nouakchott-Ouest Region",
+                    "s_city_slug": "nouakchott-ouest-region"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Nouakchott-Sud Region",
+            "s_region_slug": "nouakchott-sud-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "nouakchott-sud-region",
+                    "s_city_name": "Nouakchott-Sud Region",
+                    "s_city_slug": "nouakchott-sud-region"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Tagant Region",
+            "s_region_slug": "tagant-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "tagant-region",
+                    "s_city_name": "Tagant Region",
+                    "s_city_slug": "tagant-region"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Tiris Zemmour Region",
+            "s_region_slug": "tiris-zemmour-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "tiris-zemmour-region",
+                    "s_city_name": "Zouerate",
+                    "s_city_slug": "zouerate"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MR",
+            "s_region_name": "Trarza Region",
+            "s_region_slug": "trarza-region",
+            "cities": [
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "trarza-region",
+                    "s_city_name": "Rosso",
+                    "s_city_slug": "rosso"
+                },
+                {
+                    "s_country_code": "MR",
+                    "s_region_slug": "trarza-region",
+                    "s_city_name": "Tekane",
+                    "s_city_slug": "tekane"
+                }
+            ]
+        }
+    ]
+}

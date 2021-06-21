@@ -1,1 +1,222 @@
-{"s_country_code": "WS", "s_country_name": "Samoa", "s_country_slug": "samoa", "regions": [{"s_country_code": "WS", "s_region_name": "A'ana", "s_region_slug": "aana", "cities": [{"s_country_code": "WS", "s_region_slug": "aana", "s_city_name": "Fasitoouta", "s_city_slug": "fasitoouta"}, {"s_country_code": "WS", "s_region_slug": "aana", "s_city_name": "Leulumoega", "s_city_slug": "leulumoega"}, {"s_country_code": "WS", "s_region_slug": "aana", "s_city_name": "Nofoalii", "s_city_slug": "nofoalii"}, {"s_country_code": "WS", "s_region_slug": "aana", "s_city_name": "Satapuala", "s_city_slug": "satapuala"}]}, {"s_country_code": "WS", "s_region_name": "Aiga-i-le-Tai", "s_region_slug": "aiga-i-le-tai", "cities": [{"s_country_code": "WS", "s_region_slug": "aiga-i-le-tai", "s_city_name": "Mulifanua", "s_city_slug": "mulifanua"}]}, {"s_country_code": "WS", "s_region_name": "Atua", "s_region_slug": "atua", "cities": [{"s_country_code": "WS", "s_region_slug": "atua", "s_city_name": "Falefa", "s_city_slug": "falefa"}, {"s_country_code": "WS", "s_region_slug": "atua", "s_city_name": "Lotofaga", "s_city_slug": "lotofaga"}, {"s_country_code": "WS", "s_region_slug": "atua", "s_city_name": "Lufilufi", "s_city_slug": "lufilufi"}, {"s_country_code": "WS", "s_region_slug": "atua", "s_city_name": "Solosolo", "s_city_slug": "solosolo"}]}, {"s_country_code": "WS", "s_region_name": "Fa'asaleleaga", "s_region_slug": "faasaleleaga", "cities": [{"s_country_code": "WS", "s_region_slug": "faasaleleaga", "s_city_name": "Fa'asaleleaga", "s_city_slug": "faasaleleaga"}]}, {"s_country_code": "WS", "s_region_name": "Gaga'emauga", "s_region_slug": "gagaemauga", "cities": [{"s_country_code": "WS", "s_region_slug": "gagaemauga", "s_city_name": "Gaga'emauga", "s_city_slug": "gagaemauga"}]}, {"s_country_code": "WS", "s_region_name": "Gaga'ifomauga", "s_region_slug": "gagaifomauga", "cities": [{"s_country_code": "WS", "s_region_slug": "gagaifomauga", "s_city_name": "Matavai", "s_city_slug": "matavai"}, {"s_country_code": "WS", "s_region_slug": "gagaifomauga", "s_city_name": "Safotu", "s_city_slug": "safotu"}]}, {"s_country_code": "WS", "s_region_name": "Palauli", "s_region_slug": "palauli", "cities": [{"s_country_code": "WS", "s_region_slug": "palauli", "s_city_name": "Gataivai", "s_city_slug": "gataivai"}, {"s_country_code": "WS", "s_region_slug": "palauli", "s_city_name": "Vailoa", "s_city_slug": "vailoa"}]}, {"s_country_code": "WS", "s_region_name": "Satupa'itea", "s_region_slug": "satupaitea", "cities": [{"s_country_code": "WS", "s_region_slug": "satupaitea", "s_city_name": "Satupa'itea", "s_city_slug": "satupaitea"}]}, {"s_country_code": "WS", "s_region_name": "Tuamasaga", "s_region_slug": "tuamasaga", "cities": [{"s_country_code": "WS", "s_region_slug": "tuamasaga", "s_city_name": "Afega", "s_city_slug": "afega"}, {"s_country_code": "WS", "s_region_slug": "tuamasaga", "s_city_name": "Apia", "s_city_slug": "apia"}, {"s_country_code": "WS", "s_region_slug": "tuamasaga", "s_city_name": "Malie", "s_city_slug": "malie"}, {"s_country_code": "WS", "s_region_slug": "tuamasaga", "s_city_name": "Vailima", "s_city_slug": "vailima"}, {"s_country_code": "WS", "s_region_slug": "tuamasaga", "s_city_name": "Vaiusu", "s_city_slug": "vaiusu"}]}, {"s_country_code": "WS", "s_region_name": "Va'a-o-Fonoti", "s_region_slug": "vaa-o-fonoti", "cities": [{"s_country_code": "WS", "s_region_slug": "vaa-o-fonoti", "s_city_name": "Samamea", "s_city_slug": "samamea"}]}, {"s_country_code": "WS", "s_region_name": "Vaisigano", "s_region_slug": "vaisigano", "cities": [{"s_country_code": "WS", "s_region_slug": "vaisigano", "s_city_name": "Asau", "s_city_slug": "asau"}]}]}
+{
+    "s_country_code": "WS",
+    "s_country_name": "Samoa",
+    "s_country_slug": "samoa",
+    "regions": [
+        {
+            "s_country_code": "WS",
+            "s_region_name": "A'ana",
+            "s_region_slug": "aana",
+            "cities": [
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "aana",
+                    "s_city_name": "Fasitoouta",
+                    "s_city_slug": "fasitoouta"
+                },
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "aana",
+                    "s_city_name": "Leulumoega",
+                    "s_city_slug": "leulumoega"
+                },
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "aana",
+                    "s_city_name": "Nofoalii",
+                    "s_city_slug": "nofoalii"
+                },
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "aana",
+                    "s_city_name": "Satapuala",
+                    "s_city_slug": "satapuala"
+                }
+            ]
+        },
+        {
+            "s_country_code": "WS",
+            "s_region_name": "Aiga-i-le-Tai",
+            "s_region_slug": "aiga-i-le-tai",
+            "cities": [
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "aiga-i-le-tai",
+                    "s_city_name": "Mulifanua",
+                    "s_city_slug": "mulifanua"
+                }
+            ]
+        },
+        {
+            "s_country_code": "WS",
+            "s_region_name": "Atua",
+            "s_region_slug": "atua",
+            "cities": [
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "atua",
+                    "s_city_name": "Falefa",
+                    "s_city_slug": "falefa"
+                },
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "atua",
+                    "s_city_name": "Lotofaga",
+                    "s_city_slug": "lotofaga"
+                },
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "atua",
+                    "s_city_name": "Lufilufi",
+                    "s_city_slug": "lufilufi"
+                },
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "atua",
+                    "s_city_name": "Solosolo",
+                    "s_city_slug": "solosolo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "WS",
+            "s_region_name": "Fa'asaleleaga",
+            "s_region_slug": "faasaleleaga",
+            "cities": [
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "faasaleleaga",
+                    "s_city_name": "Fa'asaleleaga",
+                    "s_city_slug": "faasaleleaga"
+                }
+            ]
+        },
+        {
+            "s_country_code": "WS",
+            "s_region_name": "Gaga'emauga",
+            "s_region_slug": "gagaemauga",
+            "cities": [
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "gagaemauga",
+                    "s_city_name": "Gaga'emauga",
+                    "s_city_slug": "gagaemauga"
+                }
+            ]
+        },
+        {
+            "s_country_code": "WS",
+            "s_region_name": "Gaga'ifomauga",
+            "s_region_slug": "gagaifomauga",
+            "cities": [
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "gagaifomauga",
+                    "s_city_name": "Matavai",
+                    "s_city_slug": "matavai"
+                },
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "gagaifomauga",
+                    "s_city_name": "Safotu",
+                    "s_city_slug": "safotu"
+                }
+            ]
+        },
+        {
+            "s_country_code": "WS",
+            "s_region_name": "Palauli",
+            "s_region_slug": "palauli",
+            "cities": [
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "palauli",
+                    "s_city_name": "Gataivai",
+                    "s_city_slug": "gataivai"
+                },
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "palauli",
+                    "s_city_name": "Vailoa",
+                    "s_city_slug": "vailoa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "WS",
+            "s_region_name": "Satupa'itea",
+            "s_region_slug": "satupaitea",
+            "cities": [
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "satupaitea",
+                    "s_city_name": "Satupa'itea",
+                    "s_city_slug": "satupaitea"
+                }
+            ]
+        },
+        {
+            "s_country_code": "WS",
+            "s_region_name": "Tuamasaga",
+            "s_region_slug": "tuamasaga",
+            "cities": [
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "tuamasaga",
+                    "s_city_name": "Afega",
+                    "s_city_slug": "afega"
+                },
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "tuamasaga",
+                    "s_city_name": "Apia",
+                    "s_city_slug": "apia"
+                },
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "tuamasaga",
+                    "s_city_name": "Malie",
+                    "s_city_slug": "malie"
+                },
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "tuamasaga",
+                    "s_city_name": "Vailima",
+                    "s_city_slug": "vailima"
+                },
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "tuamasaga",
+                    "s_city_name": "Vaiusu",
+                    "s_city_slug": "vaiusu"
+                }
+            ]
+        },
+        {
+            "s_country_code": "WS",
+            "s_region_name": "Va'a-o-Fonoti",
+            "s_region_slug": "vaa-o-fonoti",
+            "cities": [
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "vaa-o-fonoti",
+                    "s_city_name": "Samamea",
+                    "s_city_slug": "samamea"
+                }
+            ]
+        },
+        {
+            "s_country_code": "WS",
+            "s_region_name": "Vaisigano",
+            "s_region_slug": "vaisigano",
+            "cities": [
+                {
+                    "s_country_code": "WS",
+                    "s_region_slug": "vaisigano",
+                    "s_city_name": "Asau",
+                    "s_city_slug": "asau"
+                }
+            ]
+        }
+    ]
+}

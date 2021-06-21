@@ -1,1 +1,619 @@
-{"s_country_code": "CY", "s_country_name": "Cyprus", "s_country_slug": "cyprus", "regions": [{"s_country_code": "CY", "s_region_name": "Famagusta District", "s_region_slug": "famagusta-district", "cities": [{"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Acheritou", "s_city_slug": "acheritou"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Achna", "s_city_slug": "achna"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Ammochostos Municipality", "s_city_slug": "ammochostos-municipality"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Avgorou", "s_city_slug": "avgorou"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Ayia Napa", "s_city_slug": "ayia-napa"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Deryneia", "s_city_slug": "deryneia"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Famagusta", "s_city_slug": "famagusta"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Frenaros", "s_city_slug": "frenaros"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Lefkonoiko", "s_city_slug": "lefkonoiko"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Leonarisso", "s_city_slug": "leonarisso"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Liopetri", "s_city_slug": "liopetri"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Paralimni", "s_city_slug": "paralimni"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Protaras", "s_city_slug": "protaras"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Rizokarpaso", "s_city_slug": "rizokarpaso"}, {"s_country_code": "CY", "s_region_slug": "famagusta-district", "s_city_name": "Trikomo", "s_city_slug": "trikomo"}]}, {"s_country_code": "CY", "s_region_name": "Kyrenia District", "s_region_slug": "kyrenia-district", "cities": [{"s_country_code": "CY", "s_region_slug": "kyrenia-district", "s_city_name": "Kyrenia", "s_city_slug": "kyrenia"}, {"s_country_code": "CY", "s_region_slug": "kyrenia-district", "s_city_name": "Kyrenia Municipality", "s_city_slug": "kyrenia-municipality"}, {"s_country_code": "CY", "s_region_slug": "kyrenia-district", "s_city_name": "Lapithos", "s_city_slug": "lapithos"}]}, {"s_country_code": "CY", "s_region_name": "Larnaca District", "s_region_slug": "larnaca-district", "cities": [{"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Agios Tychon", "s_city_slug": "agios-tychon"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Aradippou", "s_city_slug": "aradippou"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Athienou", "s_city_slug": "athienou"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Dhromolaxia", "s_city_slug": "dhromolaxia"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Kiti", "s_city_slug": "kiti"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Kofinou", "s_city_slug": "kofinou"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Kolossi", "s_city_slug": "kolossi"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Kornos", "s_city_slug": "kornos"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Larnaca", "s_city_slug": "larnaca"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Livadia", "s_city_slug": "livadia"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Meneou", "s_city_slug": "meneou"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Mosfiloti", "s_city_slug": "mosfiloti"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Pergamos", "s_city_slug": "pergamos"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Perivolia", "s_city_slug": "perivolia"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Psevdas", "s_city_slug": "psevdas"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Pyla", "s_city_slug": "pyla"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Tersefanou", "s_city_slug": "tersefanou"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Troulloi", "s_city_slug": "troulloi"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Voroklini", "s_city_slug": "voroklini"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Xylofagou", "s_city_slug": "xylofagou"}, {"s_country_code": "CY", "s_region_slug": "larnaca-district", "s_city_name": "Xylotymbou", "s_city_slug": "xylotymbou"}]}, {"s_country_code": "CY", "s_region_name": "Limassol District", "s_region_slug": "limassol-district", "cities": [{"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Agios Tomas", "s_city_slug": "agios-tomas"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Erimi", "s_city_slug": "erimi"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Germasogeia", "s_city_slug": "germasogeia"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Kyperounta", "s_city_slug": "kyperounta"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Lemesos", "s_city_slug": "lemesos"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Limassol", "s_city_slug": "limassol"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Mouttagiaka", "s_city_slug": "mouttagiaka"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Pachna", "s_city_slug": "pachna"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Pano Polemidia", "s_city_slug": "pano-polemidia"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Parekklisha", "s_city_slug": "parekklisha"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Pelendri", "s_city_slug": "pelendri"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Pissouri", "s_city_slug": "pissouri"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Pyrgos", "s_city_slug": "pyrgos"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Sotira", "s_city_slug": "sotira"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Souni-Zanakia", "s_city_slug": "souni-zanakia"}, {"s_country_code": "CY", "s_region_slug": "limassol-district", "s_city_name": "Ypsonas", "s_city_slug": "ypsonas"}]}, {"s_country_code": "CY", "s_region_name": "Nicosia District", "s_region_slug": "nicosia-district", "cities": [{"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Akaki", "s_city_slug": "akaki"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Alampra", "s_city_slug": "alampra"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Arediou", "s_city_slug": "arediou"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Astromeritis", "s_city_slug": "astromeritis"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Dali", "s_city_slug": "dali"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Ergates", "s_city_slug": "ergates"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Geri", "s_city_slug": "geri"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Kakopetria", "s_city_slug": "kakopetria"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Kato Deftera", "s_city_slug": "kato-deftera"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Kato Pyrgos", "s_city_slug": "kato-pyrgos"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Klirou", "s_city_slug": "klirou"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Kokkinotrimithia", "s_city_slug": "kokkinotrimithia"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Lefka", "s_city_slug": "lefka"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Lympia", "s_city_slug": "lympia"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Lythrodontas", "s_city_slug": "lythrodontas"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Mammari", "s_city_slug": "mammari"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Meniko", "s_city_slug": "meniko"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Morfou", "s_city_slug": "morfou"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Nicosia", "s_city_slug": "nicosia"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Nicosia Municipality", "s_city_slug": "nicosia-municipality"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Pano Deftera", "s_city_slug": "pano-deftera"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Pera", "s_city_slug": "pera"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Peristerona", "s_city_slug": "peristerona"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Psimolofou", "s_city_slug": "psimolofou"}, {"s_country_code": "CY", "s_region_slug": "nicosia-district", "s_city_name": "Tseri", "s_city_slug": "tseri"}]}, {"s_country_code": "CY", "s_region_name": "Paphos District", "s_region_slug": "paphos-district", "cities": [{"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Argaka", "s_city_slug": "argaka"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Chlorakas", "s_city_slug": "chlorakas"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Emba", "s_city_slug": "emba"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Geroskipou", "s_city_slug": "geroskipou"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Geroskipou (quarter)", "s_city_slug": "geroskipou-quarter"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Geroskipou Municipality", "s_city_slug": "geroskipou-municipality"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Kissonerga", "s_city_slug": "kissonerga"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Koloni", "s_city_slug": "koloni"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Konia", "s_city_slug": "konia"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Mesogi", "s_city_slug": "mesogi"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Paphos", "s_city_slug": "paphos"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Pegeia", "s_city_slug": "pegeia"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Polis", "s_city_slug": "polis"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Tala", "s_city_slug": "tala"}, {"s_country_code": "CY", "s_region_slug": "paphos-district", "s_city_name": "Tsada", "s_city_slug": "tsada"}]}]}
+{
+    "s_country_code": "CY",
+    "s_country_name": "Cyprus",
+    "s_country_slug": "cyprus",
+    "regions": [
+        {
+            "s_country_code": "CY",
+            "s_region_name": "Famagusta District",
+            "s_region_slug": "famagusta-district",
+            "cities": [
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Acheritou",
+                    "s_city_slug": "acheritou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Achna",
+                    "s_city_slug": "achna"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Ammochostos Municipality",
+                    "s_city_slug": "ammochostos-municipality"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Avgorou",
+                    "s_city_slug": "avgorou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Ayia Napa",
+                    "s_city_slug": "ayia-napa"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Deryneia",
+                    "s_city_slug": "deryneia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Famagusta",
+                    "s_city_slug": "famagusta"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Frenaros",
+                    "s_city_slug": "frenaros"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Lefkonoiko",
+                    "s_city_slug": "lefkonoiko"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Leonarisso",
+                    "s_city_slug": "leonarisso"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Liopetri",
+                    "s_city_slug": "liopetri"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Paralimni",
+                    "s_city_slug": "paralimni"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Protaras",
+                    "s_city_slug": "protaras"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Rizokarpaso",
+                    "s_city_slug": "rizokarpaso"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "famagusta-district",
+                    "s_city_name": "Trikomo",
+                    "s_city_slug": "trikomo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "CY",
+            "s_region_name": "Kyrenia District",
+            "s_region_slug": "kyrenia-district",
+            "cities": [
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "kyrenia-district",
+                    "s_city_name": "Kyrenia",
+                    "s_city_slug": "kyrenia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "kyrenia-district",
+                    "s_city_name": "Kyrenia Municipality",
+                    "s_city_slug": "kyrenia-municipality"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "kyrenia-district",
+                    "s_city_name": "Lapithos",
+                    "s_city_slug": "lapithos"
+                }
+            ]
+        },
+        {
+            "s_country_code": "CY",
+            "s_region_name": "Larnaca District",
+            "s_region_slug": "larnaca-district",
+            "cities": [
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Agios Tychon",
+                    "s_city_slug": "agios-tychon"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Aradippou",
+                    "s_city_slug": "aradippou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Athienou",
+                    "s_city_slug": "athienou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Dhromolaxia",
+                    "s_city_slug": "dhromolaxia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Kiti",
+                    "s_city_slug": "kiti"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Kofinou",
+                    "s_city_slug": "kofinou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Kolossi",
+                    "s_city_slug": "kolossi"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Kornos",
+                    "s_city_slug": "kornos"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Larnaca",
+                    "s_city_slug": "larnaca"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Livadia",
+                    "s_city_slug": "livadia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Meneou",
+                    "s_city_slug": "meneou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Mosfiloti",
+                    "s_city_slug": "mosfiloti"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Pergamos",
+                    "s_city_slug": "pergamos"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Perivolia",
+                    "s_city_slug": "perivolia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Psevdas",
+                    "s_city_slug": "psevdas"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Pyla",
+                    "s_city_slug": "pyla"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Tersefanou",
+                    "s_city_slug": "tersefanou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Troulloi",
+                    "s_city_slug": "troulloi"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Voroklini",
+                    "s_city_slug": "voroklini"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Xylofagou",
+                    "s_city_slug": "xylofagou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "larnaca-district",
+                    "s_city_name": "Xylotymbou",
+                    "s_city_slug": "xylotymbou"
+                }
+            ]
+        },
+        {
+            "s_country_code": "CY",
+            "s_region_name": "Limassol District",
+            "s_region_slug": "limassol-district",
+            "cities": [
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Agios Tomas",
+                    "s_city_slug": "agios-tomas"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Erimi",
+                    "s_city_slug": "erimi"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Germasogeia",
+                    "s_city_slug": "germasogeia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Kyperounta",
+                    "s_city_slug": "kyperounta"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Lemesos",
+                    "s_city_slug": "lemesos"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Limassol",
+                    "s_city_slug": "limassol"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Mouttagiaka",
+                    "s_city_slug": "mouttagiaka"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Pachna",
+                    "s_city_slug": "pachna"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Pano Polemidia",
+                    "s_city_slug": "pano-polemidia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Parekklisha",
+                    "s_city_slug": "parekklisha"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Pelendri",
+                    "s_city_slug": "pelendri"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Pissouri",
+                    "s_city_slug": "pissouri"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Pyrgos",
+                    "s_city_slug": "pyrgos"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Sotira",
+                    "s_city_slug": "sotira"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Souni-Zanakia",
+                    "s_city_slug": "souni-zanakia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "limassol-district",
+                    "s_city_name": "Ypsonas",
+                    "s_city_slug": "ypsonas"
+                }
+            ]
+        },
+        {
+            "s_country_code": "CY",
+            "s_region_name": "Nicosia District",
+            "s_region_slug": "nicosia-district",
+            "cities": [
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Akaki",
+                    "s_city_slug": "akaki"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Alampra",
+                    "s_city_slug": "alampra"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Arediou",
+                    "s_city_slug": "arediou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Astromeritis",
+                    "s_city_slug": "astromeritis"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Dali",
+                    "s_city_slug": "dali"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Ergates",
+                    "s_city_slug": "ergates"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Geri",
+                    "s_city_slug": "geri"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Kakopetria",
+                    "s_city_slug": "kakopetria"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Kato Deftera",
+                    "s_city_slug": "kato-deftera"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Kato Pyrgos",
+                    "s_city_slug": "kato-pyrgos"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Klirou",
+                    "s_city_slug": "klirou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Kokkinotrimithia",
+                    "s_city_slug": "kokkinotrimithia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Lefka",
+                    "s_city_slug": "lefka"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Lympia",
+                    "s_city_slug": "lympia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Lythrodontas",
+                    "s_city_slug": "lythrodontas"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Mammari",
+                    "s_city_slug": "mammari"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Meniko",
+                    "s_city_slug": "meniko"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Morfou",
+                    "s_city_slug": "morfou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Nicosia",
+                    "s_city_slug": "nicosia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Nicosia Municipality",
+                    "s_city_slug": "nicosia-municipality"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Pano Deftera",
+                    "s_city_slug": "pano-deftera"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Pera",
+                    "s_city_slug": "pera"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Peristerona",
+                    "s_city_slug": "peristerona"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Psimolofou",
+                    "s_city_slug": "psimolofou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "nicosia-district",
+                    "s_city_name": "Tseri",
+                    "s_city_slug": "tseri"
+                }
+            ]
+        },
+        {
+            "s_country_code": "CY",
+            "s_region_name": "Paphos District",
+            "s_region_slug": "paphos-district",
+            "cities": [
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Argaka",
+                    "s_city_slug": "argaka"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Chlorakas",
+                    "s_city_slug": "chlorakas"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Emba",
+                    "s_city_slug": "emba"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Geroskipou",
+                    "s_city_slug": "geroskipou"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Geroskipou (quarter)",
+                    "s_city_slug": "geroskipou-quarter"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Geroskipou Municipality",
+                    "s_city_slug": "geroskipou-municipality"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Kissonerga",
+                    "s_city_slug": "kissonerga"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Koloni",
+                    "s_city_slug": "koloni"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Konia",
+                    "s_city_slug": "konia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Mesogi",
+                    "s_city_slug": "mesogi"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Paphos",
+                    "s_city_slug": "paphos"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Pegeia",
+                    "s_city_slug": "pegeia"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Polis",
+                    "s_city_slug": "polis"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Tala",
+                    "s_city_slug": "tala"
+                },
+                {
+                    "s_country_code": "CY",
+                    "s_region_slug": "paphos-district",
+                    "s_city_name": "Tsada",
+                    "s_city_slug": "tsada"
+                }
+            ]
+        }
+    ]
+}

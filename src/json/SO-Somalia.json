@@ -1,1 +1,401 @@
-{"s_country_code": "SO", "s_country_name": "Somalia", "s_country_slug": "somalia", "regions": [{"s_country_code": "SO", "s_region_name": "Awdal Region", "s_region_slug": "awdal-region", "cities": [{"s_country_code": "SO", "s_region_slug": "awdal-region", "s_city_name": "Awdal Region", "s_city_slug": "awdal-region"}]}, {"s_country_code": "SO", "s_region_name": "Bakool", "s_region_slug": "bakool", "cities": [{"s_country_code": "SO", "s_region_slug": "bakool", "s_city_name": "Tayeeglow", "s_city_slug": "tayeeglow"}, {"s_country_code": "SO", "s_region_slug": "bakool", "s_city_name": "Waajid", "s_city_slug": "waajid"}, {"s_country_code": "SO", "s_region_slug": "bakool", "s_city_name": "Xuddur", "s_city_slug": "xuddur"}, {"s_country_code": "SO", "s_region_slug": "bakool", "s_city_name": "Yeed", "s_city_slug": "yeed"}]}, {"s_country_code": "SO", "s_region_name": "Banaadir", "s_region_slug": "banaadir", "cities": [{"s_country_code": "SO", "s_region_slug": "banaadir", "s_city_name": "Mogadishu", "s_city_slug": "mogadishu"}]}, {"s_country_code": "SO", "s_region_name": "Bari", "s_region_slug": "bari", "cities": [{"s_country_code": "SO", "s_region_slug": "bari", "s_city_name": "Bandarbeyla", "s_city_slug": "bandarbeyla"}, {"s_country_code": "SO", "s_region_slug": "bari", "s_city_name": "Bargaal", "s_city_slug": "bargaal"}, {"s_country_code": "SO", "s_region_slug": "bari", "s_city_name": "Bereeda", "s_city_slug": "bereeda"}, {"s_country_code": "SO", "s_region_slug": "bari", "s_city_name": "Bosaso", "s_city_slug": "bosaso"}, {"s_country_code": "SO", "s_region_slug": "bari", "s_city_name": "Caluula", "s_city_slug": "caluula"}, {"s_country_code": "SO", "s_region_slug": "bari", "s_city_name": "Iskushuban", "s_city_slug": "iskushuban"}, {"s_country_code": "SO", "s_region_slug": "bari", "s_city_name": "Qandala", "s_city_slug": "qandala"}]}, {"s_country_code": "SO", "s_region_name": "Bay", "s_region_slug": "bay", "cities": [{"s_country_code": "SO", "s_region_slug": "bay", "s_city_name": "Baidoa", "s_city_slug": "baidoa"}, {"s_country_code": "SO", "s_region_slug": "bay", "s_city_name": "Buurhakaba", "s_city_slug": "buurhakaba"}]}, {"s_country_code": "SO", "s_region_name": "Galguduud", "s_region_slug": "galguduud", "cities": [{"s_country_code": "SO", "s_region_slug": "galguduud", "s_city_name": "Ceelbuur", "s_city_slug": "ceelbuur"}, {"s_country_code": "SO", "s_region_slug": "galguduud", "s_city_name": "Ceeldheer", "s_city_slug": "ceeldheer"}, {"s_country_code": "SO", "s_region_slug": "galguduud", "s_city_name": "Dhuusamarreeb", "s_city_slug": "dhuusamarreeb"}]}, {"s_country_code": "SO", "s_region_name": "Gedo", "s_region_slug": "gedo", "cities": [{"s_country_code": "SO", "s_region_slug": "gedo", "s_city_name": "Baardheere", "s_city_slug": "baardheere"}, {"s_country_code": "SO", "s_region_slug": "gedo", "s_city_name": "Garbahaarrey", "s_city_slug": "garbahaarrey"}, {"s_country_code": "SO", "s_region_slug": "gedo", "s_city_name": "Luuq", "s_city_slug": "luuq"}]}, {"s_country_code": "SO", "s_region_name": "Hiran", "s_region_slug": "hiran", "cities": [{"s_country_code": "SO", "s_region_slug": "hiran", "s_city_name": "Beledweyne", "s_city_slug": "beledweyne"}, {"s_country_code": "SO", "s_region_slug": "hiran", "s_city_name": "Buulobarde", "s_city_slug": "buulobarde"}, {"s_country_code": "SO", "s_region_slug": "hiran", "s_city_name": "Jalalaqsi", "s_city_slug": "jalalaqsi"}]}, {"s_country_code": "SO", "s_region_name": "Lower Juba", "s_region_slug": "lower-juba", "cities": [{"s_country_code": "SO", "s_region_slug": "lower-juba", "s_city_name": "Buur Gaabo", "s_city_slug": "buur-gaabo"}, {"s_country_code": "SO", "s_region_slug": "lower-juba", "s_city_name": "Jamaame", "s_city_slug": "jamaame"}, {"s_country_code": "SO", "s_region_slug": "lower-juba", "s_city_name": "Kismayo", "s_city_slug": "kismayo"}]}, {"s_country_code": "SO", "s_region_name": "Lower Shebelle", "s_region_slug": "lower-shebelle", "cities": [{"s_country_code": "SO", "s_region_slug": "lower-shebelle", "s_city_name": "Afgooye", "s_city_slug": "afgooye"}, {"s_country_code": "SO", "s_region_slug": "lower-shebelle", "s_city_name": "Marka", "s_city_slug": "marka"}, {"s_country_code": "SO", "s_region_slug": "lower-shebelle", "s_city_name": "Qoryooley", "s_city_slug": "qoryooley"}, {"s_country_code": "SO", "s_region_slug": "lower-shebelle", "s_city_name": "Wanlaweyn", "s_city_slug": "wanlaweyn"}]}, {"s_country_code": "SO", "s_region_name": "Middle Juba", "s_region_slug": "middle-juba", "cities": [{"s_country_code": "SO", "s_region_slug": "middle-juba", "s_city_name": "Dujuuma", "s_city_slug": "dujuuma"}, {"s_country_code": "SO", "s_region_slug": "middle-juba", "s_city_name": "Jilib", "s_city_slug": "jilib"}, {"s_country_code": "SO", "s_region_slug": "middle-juba", "s_city_name": "Saacow", "s_city_slug": "saacow"}]}, {"s_country_code": "SO", "s_region_name": "Middle Shebelle", "s_region_slug": "middle-shebelle", "cities": [{"s_country_code": "SO", "s_region_slug": "middle-shebelle", "s_city_name": "Cadale", "s_city_slug": "cadale"}, {"s_country_code": "SO", "s_region_slug": "middle-shebelle", "s_city_name": "Jawhar", "s_city_slug": "jawhar"}, {"s_country_code": "SO", "s_region_slug": "middle-shebelle", "s_city_name": "Mahaddayweyne", "s_city_slug": "mahaddayweyne"}]}, {"s_country_code": "SO", "s_region_name": "Mudug", "s_region_slug": "mudug", "cities": [{"s_country_code": "SO", "s_region_slug": "mudug", "s_city_name": "Gaalkacyo", "s_city_slug": "gaalkacyo"}, {"s_country_code": "SO", "s_region_slug": "mudug", "s_city_name": "Hobyo", "s_city_slug": "hobyo"}, {"s_country_code": "SO", "s_region_slug": "mudug", "s_city_name": "Xarardheere", "s_city_slug": "xarardheere"}]}, {"s_country_code": "SO", "s_region_name": "Nugal", "s_region_slug": "nugal", "cities": [{"s_country_code": "SO", "s_region_slug": "nugal", "s_city_name": "Eyl", "s_city_slug": "eyl"}, {"s_country_code": "SO", "s_region_slug": "nugal", "s_city_name": "Garoowe", "s_city_slug": "garoowe"}]}, {"s_country_code": "SO", "s_region_name": "Sanaag Region", "s_region_slug": "sanaag-region", "cities": [{"s_country_code": "SO", "s_region_slug": "sanaag-region", "s_city_name": "Ceerigaabo", "s_city_slug": "ceerigaabo"}, {"s_country_code": "SO", "s_region_slug": "sanaag-region", "s_city_name": "Las Khorey", "s_city_slug": "las-khorey"}]}, {"s_country_code": "SO", "s_region_name": "Togdheer Region", "s_region_slug": "togdheer-region", "cities": [{"s_country_code": "SO", "s_region_slug": "togdheer-region", "s_city_name": "Burao", "s_city_slug": "burao"}, {"s_country_code": "SO", "s_region_slug": "togdheer-region", "s_city_name": "Ceek", "s_city_slug": "ceek"}, {"s_country_code": "SO", "s_region_slug": "togdheer-region", "s_city_name": "Oodweyne", "s_city_slug": "oodweyne"}]}]}
+{
+    "s_country_code": "SO",
+    "s_country_name": "Somalia",
+    "s_country_slug": "somalia",
+    "regions": [
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Awdal Region",
+            "s_region_slug": "awdal-region",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "awdal-region",
+                    "s_city_name": "Awdal Region",
+                    "s_city_slug": "awdal-region"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Bakool",
+            "s_region_slug": "bakool",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bakool",
+                    "s_city_name": "Tayeeglow",
+                    "s_city_slug": "tayeeglow"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bakool",
+                    "s_city_name": "Waajid",
+                    "s_city_slug": "waajid"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bakool",
+                    "s_city_name": "Xuddur",
+                    "s_city_slug": "xuddur"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bakool",
+                    "s_city_name": "Yeed",
+                    "s_city_slug": "yeed"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Banaadir",
+            "s_region_slug": "banaadir",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "banaadir",
+                    "s_city_name": "Mogadishu",
+                    "s_city_slug": "mogadishu"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Bari",
+            "s_region_slug": "bari",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bari",
+                    "s_city_name": "Bandarbeyla",
+                    "s_city_slug": "bandarbeyla"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bari",
+                    "s_city_name": "Bargaal",
+                    "s_city_slug": "bargaal"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bari",
+                    "s_city_name": "Bereeda",
+                    "s_city_slug": "bereeda"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bari",
+                    "s_city_name": "Bosaso",
+                    "s_city_slug": "bosaso"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bari",
+                    "s_city_name": "Caluula",
+                    "s_city_slug": "caluula"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bari",
+                    "s_city_name": "Iskushuban",
+                    "s_city_slug": "iskushuban"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bari",
+                    "s_city_name": "Qandala",
+                    "s_city_slug": "qandala"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Bay",
+            "s_region_slug": "bay",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bay",
+                    "s_city_name": "Baidoa",
+                    "s_city_slug": "baidoa"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "bay",
+                    "s_city_name": "Buurhakaba",
+                    "s_city_slug": "buurhakaba"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Galguduud",
+            "s_region_slug": "galguduud",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "galguduud",
+                    "s_city_name": "Ceelbuur",
+                    "s_city_slug": "ceelbuur"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "galguduud",
+                    "s_city_name": "Ceeldheer",
+                    "s_city_slug": "ceeldheer"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "galguduud",
+                    "s_city_name": "Dhuusamarreeb",
+                    "s_city_slug": "dhuusamarreeb"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Gedo",
+            "s_region_slug": "gedo",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "gedo",
+                    "s_city_name": "Baardheere",
+                    "s_city_slug": "baardheere"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "gedo",
+                    "s_city_name": "Garbahaarrey",
+                    "s_city_slug": "garbahaarrey"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "gedo",
+                    "s_city_name": "Luuq",
+                    "s_city_slug": "luuq"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Hiran",
+            "s_region_slug": "hiran",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "hiran",
+                    "s_city_name": "Beledweyne",
+                    "s_city_slug": "beledweyne"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "hiran",
+                    "s_city_name": "Buulobarde",
+                    "s_city_slug": "buulobarde"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "hiran",
+                    "s_city_name": "Jalalaqsi",
+                    "s_city_slug": "jalalaqsi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Lower Juba",
+            "s_region_slug": "lower-juba",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "lower-juba",
+                    "s_city_name": "Buur Gaabo",
+                    "s_city_slug": "buur-gaabo"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "lower-juba",
+                    "s_city_name": "Jamaame",
+                    "s_city_slug": "jamaame"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "lower-juba",
+                    "s_city_name": "Kismayo",
+                    "s_city_slug": "kismayo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Lower Shebelle",
+            "s_region_slug": "lower-shebelle",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "lower-shebelle",
+                    "s_city_name": "Afgooye",
+                    "s_city_slug": "afgooye"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "lower-shebelle",
+                    "s_city_name": "Marka",
+                    "s_city_slug": "marka"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "lower-shebelle",
+                    "s_city_name": "Qoryooley",
+                    "s_city_slug": "qoryooley"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "lower-shebelle",
+                    "s_city_name": "Wanlaweyn",
+                    "s_city_slug": "wanlaweyn"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Middle Juba",
+            "s_region_slug": "middle-juba",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "middle-juba",
+                    "s_city_name": "Dujuuma",
+                    "s_city_slug": "dujuuma"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "middle-juba",
+                    "s_city_name": "Jilib",
+                    "s_city_slug": "jilib"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "middle-juba",
+                    "s_city_name": "Saacow",
+                    "s_city_slug": "saacow"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Middle Shebelle",
+            "s_region_slug": "middle-shebelle",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "middle-shebelle",
+                    "s_city_name": "Cadale",
+                    "s_city_slug": "cadale"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "middle-shebelle",
+                    "s_city_name": "Jawhar",
+                    "s_city_slug": "jawhar"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "middle-shebelle",
+                    "s_city_name": "Mahaddayweyne",
+                    "s_city_slug": "mahaddayweyne"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Mudug",
+            "s_region_slug": "mudug",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "mudug",
+                    "s_city_name": "Gaalkacyo",
+                    "s_city_slug": "gaalkacyo"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "mudug",
+                    "s_city_name": "Hobyo",
+                    "s_city_slug": "hobyo"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "mudug",
+                    "s_city_name": "Xarardheere",
+                    "s_city_slug": "xarardheere"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Nugal",
+            "s_region_slug": "nugal",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "nugal",
+                    "s_city_name": "Eyl",
+                    "s_city_slug": "eyl"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "nugal",
+                    "s_city_name": "Garoowe",
+                    "s_city_slug": "garoowe"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Sanaag Region",
+            "s_region_slug": "sanaag-region",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "sanaag-region",
+                    "s_city_name": "Ceerigaabo",
+                    "s_city_slug": "ceerigaabo"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "sanaag-region",
+                    "s_city_name": "Las Khorey",
+                    "s_city_slug": "las-khorey"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SO",
+            "s_region_name": "Togdheer Region",
+            "s_region_slug": "togdheer-region",
+            "cities": [
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "togdheer-region",
+                    "s_city_name": "Burao",
+                    "s_city_slug": "burao"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "togdheer-region",
+                    "s_city_name": "Ceek",
+                    "s_city_slug": "ceek"
+                },
+                {
+                    "s_country_code": "SO",
+                    "s_region_slug": "togdheer-region",
+                    "s_city_name": "Oodweyne",
+                    "s_city_slug": "oodweyne"
+                }
+            ]
+        }
+    ]
+}

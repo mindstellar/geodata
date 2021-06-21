@@ -1,1 +1,2446 @@
-{"s_country_code": "GT", "s_country_name": "Guatemala", "s_country_slug": "guatemala", "regions": [{"s_country_code": "GT", "s_region_name": "Alta Verapaz Department", "s_region_slug": "alta-verapaz-department", "cities": [{"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "Cahabon", "s_city_slug": "cahabon"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "Chahal Guatemala", "s_city_slug": "chahal-guatemala"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "Chisec", "s_city_slug": "chisec"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "Coban", "s_city_slug": "coban"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "La Tinta", "s_city_slug": "la-tinta"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "Lanquin", "s_city_slug": "lanquin"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "Panzos", "s_city_slug": "panzos"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "San Cristobal Verapaz", "s_city_slug": "san-cristobal-verapaz"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "San Juan Chamelco", "s_city_slug": "san-juan-chamelco"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "San Pedro Carcha", "s_city_slug": "san-pedro-carcha"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "Santa Cruz Verapaz", "s_city_slug": "santa-cruz-verapaz"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "Senahu", "s_city_slug": "senahu"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "Tactic", "s_city_slug": "tactic"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "Tamahu", "s_city_slug": "tamahu"}, {"s_country_code": "GT", "s_region_slug": "alta-verapaz-department", "s_city_name": "Tucuru", "s_city_slug": "tucuru"}]}, {"s_country_code": "GT", "s_region_name": "Baja Verapaz Department", "s_region_slug": "baja-verapaz-department", "cities": [{"s_country_code": "GT", "s_region_slug": "baja-verapaz-department", "s_city_name": "Cubulco", "s_city_slug": "cubulco"}, {"s_country_code": "GT", "s_region_slug": "baja-verapaz-department", "s_city_name": "El Chol", "s_city_slug": "el-chol"}, {"s_country_code": "GT", "s_region_slug": "baja-verapaz-department", "s_city_name": "Granados", "s_city_slug": "granados"}, {"s_country_code": "GT", "s_region_slug": "baja-verapaz-department", "s_city_name": "Purulha", "s_city_slug": "purulha"}, {"s_country_code": "GT", "s_region_slug": "baja-verapaz-department", "s_city_name": "Rabinal", "s_city_slug": "rabinal"}, {"s_country_code": "GT", "s_region_slug": "baja-verapaz-department", "s_city_name": "Salama", "s_city_slug": "salama"}, {"s_country_code": "GT", "s_region_slug": "baja-verapaz-department", "s_city_name": "San Jeronimo", "s_city_slug": "san-jeronimo"}, {"s_country_code": "GT", "s_region_slug": "baja-verapaz-department", "s_city_name": "San Miguel Chicaj", "s_city_slug": "san-miguel-chicaj"}]}, {"s_country_code": "GT", "s_region_name": "Chimaltenango Department", "s_region_slug": "chimaltenango-department", "cities": [{"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "Acatenango", "s_city_slug": "acatenango"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "Chimaltenango", "s_city_slug": "chimaltenango"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "Comalapa", "s_city_slug": "comalapa"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "El Tejar", "s_city_slug": "el-tejar"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "Parramos", "s_city_slug": "parramos"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "Patzicia", "s_city_slug": "patzicia"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "Patzun", "s_city_slug": "patzun"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "Pochuta", "s_city_slug": "pochuta"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "San Andres Itzapa", "s_city_slug": "san-andres-itzapa"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "San Jose Poaquil", "s_city_slug": "san-jose-poaquil"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "San Martin Jilotepeque", "s_city_slug": "san-martin-jilotepeque"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "Santa Apolonia", "s_city_slug": "santa-apolonia"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "Santa Cruz Balanya", "s_city_slug": "santa-cruz-balanya"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "Tecpan Guatemala", "s_city_slug": "tecpan-guatemala"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "Yepocapa", "s_city_slug": "yepocapa"}, {"s_country_code": "GT", "s_region_slug": "chimaltenango-department", "s_city_name": "Zaragoza", "s_city_slug": "zaragoza"}]}, {"s_country_code": "GT", "s_region_name": "Chiquimula Department", "s_region_slug": "chiquimula-department", "cities": [{"s_country_code": "GT", "s_region_slug": "chiquimula-department", "s_city_name": "Camotan", "s_city_slug": "camotan"}, {"s_country_code": "GT", "s_region_slug": "chiquimula-department", "s_city_name": "Chiquimula", "s_city_slug": "chiquimula"}, {"s_country_code": "GT", "s_region_slug": "chiquimula-department", "s_city_name": "Concepcion Las Minas", "s_city_slug": "concepcion-las-minas"}, {"s_country_code": "GT", "s_region_slug": "chiquimula-department", "s_city_name": "Esquipulas", "s_city_slug": "esquipulas"}, {"s_country_code": "GT", "s_region_slug": "chiquimula-department", "s_city_name": "Ipala", "s_city_slug": "ipala"}, {"s_country_code": "GT", "s_region_slug": "chiquimula-department", "s_city_name": "Jocotan", "s_city_slug": "jocotan"}, {"s_country_code": "GT", "s_region_slug": "chiquimula-department", "s_city_name": "Olopa", "s_city_slug": "olopa"}, {"s_country_code": "GT", "s_region_slug": "chiquimula-department", "s_city_name": "Quezaltepeque", "s_city_slug": "quezaltepeque"}, {"s_country_code": "GT", "s_region_slug": "chiquimula-department", "s_city_name": "San Jacinto", "s_city_slug": "san-jacinto"}, {"s_country_code": "GT", "s_region_slug": "chiquimula-department", "s_city_name": "San Jose La Arada", "s_city_slug": "san-jose-la-arada"}, {"s_country_code": "GT", "s_region_slug": "chiquimula-department", "s_city_name": "San Juan Ermita", "s_city_slug": "san-juan-ermita"}]}, {"s_country_code": "GT", "s_region_name": "El Progreso Department", "s_region_slug": "el-progreso-department", "cities": [{"s_country_code": "GT", "s_region_slug": "el-progreso-department", "s_city_name": "El Jicaro", "s_city_slug": "el-jicaro"}, {"s_country_code": "GT", "s_region_slug": "el-progreso-department", "s_city_name": "Guastatoya", "s_city_slug": "guastatoya"}, {"s_country_code": "GT", "s_region_slug": "el-progreso-department", "s_city_name": "Morazan", "s_city_slug": "morazan"}, {"s_country_code": "GT", "s_region_slug": "el-progreso-department", "s_city_name": "San Agustin Acasaguastlan", "s_city_slug": "san-agustin-acasaguastlan"}, {"s_country_code": "GT", "s_region_slug": "el-progreso-department", "s_city_name": "San Antonio La Paz", "s_city_slug": "san-antonio-la-paz"}, {"s_country_code": "GT", "s_region_slug": "el-progreso-department", "s_city_name": "San Cristobal Acasaguastlan", "s_city_slug": "san-cristobal-acasaguastlan"}, {"s_country_code": "GT", "s_region_slug": "el-progreso-department", "s_city_name": "Sanarate", "s_city_slug": "sanarate"}, {"s_country_code": "GT", "s_region_slug": "el-progreso-department", "s_city_name": "Sansare", "s_city_slug": "sansare"}]}, {"s_country_code": "GT", "s_region_name": "Escuintla Department", "s_region_slug": "escuintla-department", "cities": [{"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "Escuintla", "s_city_slug": "escuintla"}, {"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "Guanagazapa", "s_city_slug": "guanagazapa"}, {"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "Iztapa", "s_city_slug": "iztapa"}, {"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "La Democracia", "s_city_slug": "la-democracia"}, {"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "La Gomera", "s_city_slug": "la-gomera"}, {"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "Masagua", "s_city_slug": "masagua"}, {"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "Nueva Concepcion", "s_city_slug": "nueva-concepcion"}, {"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "Palin", "s_city_slug": "palin"}, {"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "Puerto San Jose", "s_city_slug": "puerto-san-jose"}, {"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "San Vicente Pacaya", "s_city_slug": "san-vicente-pacaya"}, {"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "Santa Lucia Cotzumalguapa", "s_city_slug": "santa-lucia-cotzumalguapa"}, {"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "Siquinala", "s_city_slug": "siquinala"}, {"s_country_code": "GT", "s_region_slug": "escuintla-department", "s_city_name": "Tiquisate", "s_city_slug": "tiquisate"}]}, {"s_country_code": "GT", "s_region_name": "Guatemala Department", "s_region_slug": "guatemala-department", "cities": [{"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "Amatitlan", "s_city_slug": "amatitlan"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "Chinautla", "s_city_slug": "chinautla"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "Chuarrancho", "s_city_slug": "chuarrancho"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "Fraijanes", "s_city_slug": "fraijanes"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "Guatemala City", "s_city_slug": "guatemala-city"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "Mixco", "s_city_slug": "mixco"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "Palencia", "s_city_slug": "palencia"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "Petapa", "s_city_slug": "petapa"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "San Jose del Golfo", "s_city_slug": "san-jose-del-golfo"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "San Jose Pinula", "s_city_slug": "san-jose-pinula"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "San Juan Sacatepequez", "s_city_slug": "san-juan-sacatepequez"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "San Pedro Ayampuc", "s_city_slug": "san-pedro-ayampuc"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "San Pedro Sacatepequez", "s_city_slug": "san-pedro-sacatepequez"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "San Raimundo", "s_city_slug": "san-raimundo"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "Santa Catarina Pinula", "s_city_slug": "santa-catarina-pinula"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "Villa Canales", "s_city_slug": "villa-canales"}, {"s_country_code": "GT", "s_region_slug": "guatemala-department", "s_city_name": "Villa Nueva", "s_city_slug": "villa-nueva"}]}, {"s_country_code": "GT", "s_region_name": "Huehuetenango Department", "s_region_slug": "huehuetenango-department", "cities": [{"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Aguacatan", "s_city_slug": "aguacatan"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Barillas", "s_city_slug": "barillas"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Chiantla", "s_city_slug": "chiantla"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Colotenango", "s_city_slug": "colotenango"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Concepcion Huista", "s_city_slug": "concepcion-huista"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Cuilco", "s_city_slug": "cuilco"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Huehuetenango", "s_city_slug": "huehuetenango"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Ixtahuacan", "s_city_slug": "ixtahuacan"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Jacaltenango", "s_city_slug": "jacaltenango"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "La Libertad", "s_city_slug": "la-libertad"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Malacatancito", "s_city_slug": "malacatancito"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Nenton", "s_city_slug": "nenton"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "San Antonio Huista", "s_city_slug": "san-antonio-huista"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "San Gaspar Ixchil", "s_city_slug": "san-gaspar-ixchil"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "San Juan Atitan", "s_city_slug": "san-juan-atitan"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "San Juan Ixcoy", "s_city_slug": "san-juan-ixcoy"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "San Mateo Ixtatan", "s_city_slug": "san-mateo-ixtatan"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "San Miguel Acatan", "s_city_slug": "san-miguel-acatan"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "San Pedro Necta", "s_city_slug": "san-pedro-necta"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "San Rafael La Independencia", "s_city_slug": "san-rafael-la-independencia"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "San Rafael Petzal", "s_city_slug": "san-rafael-petzal"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "San Sebastian Coatan", "s_city_slug": "san-sebastian-coatan"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "San Sebastian Huehuetenango", "s_city_slug": "san-sebastian-huehuetenango"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Santa Ana Huista", "s_city_slug": "santa-ana-huista"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Santa Barbara", "s_city_slug": "santa-barbara"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Santa Eulalia", "s_city_slug": "santa-eulalia"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Santiago Chimaltenango", "s_city_slug": "santiago-chimaltenango"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Soloma", "s_city_slug": "soloma"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Tectitan", "s_city_slug": "tectitan"}, {"s_country_code": "GT", "s_region_slug": "huehuetenango-department", "s_city_name": "Todos Santos Cuchumatan", "s_city_slug": "todos-santos-cuchumatan"}]}, {"s_country_code": "GT", "s_region_name": "Izabal Department", "s_region_slug": "izabal-department", "cities": [{"s_country_code": "GT", "s_region_slug": "izabal-department", "s_city_name": "El Estor", "s_city_slug": "el-estor"}, {"s_country_code": "GT", "s_region_slug": "izabal-department", "s_city_name": "Livingston", "s_city_slug": "livingston"}, {"s_country_code": "GT", "s_region_slug": "izabal-department", "s_city_name": "Los Amates", "s_city_slug": "los-amates"}, {"s_country_code": "GT", "s_region_slug": "izabal-department", "s_city_name": "Morales", "s_city_slug": "morales"}, {"s_country_code": "GT", "s_region_slug": "izabal-department", "s_city_name": "Municipio de Morales", "s_city_slug": "municipio-de-morales"}, {"s_country_code": "GT", "s_region_slug": "izabal-department", "s_city_name": "Municipio de Puerto Barrios", "s_city_slug": "municipio-de-puerto-barrios"}, {"s_country_code": "GT", "s_region_slug": "izabal-department", "s_city_name": "Puerto Barrios", "s_city_slug": "puerto-barrios"}]}, {"s_country_code": "GT", "s_region_name": "Jalapa Department", "s_region_slug": "jalapa-department", "cities": [{"s_country_code": "GT", "s_region_slug": "jalapa-department", "s_city_name": "Jalapa", "s_city_slug": "jalapa"}, {"s_country_code": "GT", "s_region_slug": "jalapa-department", "s_city_name": "Mataquescuintla", "s_city_slug": "mataquescuintla"}, {"s_country_code": "GT", "s_region_slug": "jalapa-department", "s_city_name": "Monjas", "s_city_slug": "monjas"}, {"s_country_code": "GT", "s_region_slug": "jalapa-department", "s_city_name": "Municipio de Jalapa", "s_city_slug": "municipio-de-jalapa"}, {"s_country_code": "GT", "s_region_slug": "jalapa-department", "s_city_name": "Municipio de Mataquescuintla", "s_city_slug": "municipio-de-mataquescuintla"}, {"s_country_code": "GT", "s_region_slug": "jalapa-department", "s_city_name": "San Luis Jilotepeque", "s_city_slug": "san-luis-jilotepeque"}, {"s_country_code": "GT", "s_region_slug": "jalapa-department", "s_city_name": "San Manuel Chaparron", "s_city_slug": "san-manuel-chaparron"}, {"s_country_code": "GT", "s_region_slug": "jalapa-department", "s_city_name": "San Pedro Pinula", "s_city_slug": "san-pedro-pinula"}]}, {"s_country_code": "GT", "s_region_name": "Jutiapa Department", "s_region_slug": "jutiapa-department", "cities": [{"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Agua Blanca", "s_city_slug": "agua-blanca"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Asuncion Mita", "s_city_slug": "asuncion-mita"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Atescatempa", "s_city_slug": "atescatempa"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Comapa", "s_city_slug": "comapa"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Conguaco", "s_city_slug": "conguaco"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "El Adelanto", "s_city_slug": "el-adelanto"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "El Progreso", "s_city_slug": "el-progreso"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Jalpatagua", "s_city_slug": "jalpatagua"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Jerez", "s_city_slug": "jerez"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Jutiapa", "s_city_slug": "jutiapa"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Moyuta", "s_city_slug": "moyuta"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Municipio de Asuncion Mita", "s_city_slug": "municipio-de-asuncion-mita"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Pasaco", "s_city_slug": "pasaco"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Quesada", "s_city_slug": "quesada"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "San Jose Acatempa", "s_city_slug": "san-jose-acatempa"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Santa Catarina Mita", "s_city_slug": "santa-catarina-mita"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Yupiltepeque", "s_city_slug": "yupiltepeque"}, {"s_country_code": "GT", "s_region_slug": "jutiapa-department", "s_city_name": "Zapotitlan", "s_city_slug": "zapotitlan"}]}, {"s_country_code": "GT", "s_region_name": "Peten Department", "s_region_slug": "peten-department", "cities": [{"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Dolores", "s_city_slug": "dolores"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Flores", "s_city_slug": "flores"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "La Libertad", "s_city_slug": "la-libertad"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Melchor de Mencos", "s_city_slug": "melchor-de-mencos"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Municipio de Flores", "s_city_slug": "municipio-de-flores"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Municipio de Poptun", "s_city_slug": "municipio-de-poptun"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Municipio de San Andres", "s_city_slug": "municipio-de-san-andres"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Municipio de San Benito", "s_city_slug": "municipio-de-san-benito"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Municipio de San Francisco", "s_city_slug": "municipio-de-san-francisco"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Municipio de Santa Ana", "s_city_slug": "municipio-de-santa-ana"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Municipio de Sayaxche", "s_city_slug": "municipio-de-sayaxche"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Poptun", "s_city_slug": "poptun"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "San Andres", "s_city_slug": "san-andres"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "San Benito", "s_city_slug": "san-benito"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "San Francisco", "s_city_slug": "san-francisco"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "San Jose", "s_city_slug": "san-jose"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "San Luis", "s_city_slug": "san-luis"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Santa Ana", "s_city_slug": "santa-ana"}, {"s_country_code": "GT", "s_region_slug": "peten-department", "s_city_name": "Sayaxche", "s_city_slug": "sayaxche"}]}, {"s_country_code": "GT", "s_region_name": "Quetzaltenango Department", "s_region_slug": "quetzaltenango-department", "cities": [{"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Almolonga", "s_city_slug": "almolonga"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Cabrican", "s_city_slug": "cabrican"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Cajola", "s_city_slug": "cajola"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Cantel", "s_city_slug": "cantel"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Coatepeque", "s_city_slug": "coatepeque"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Colomba", "s_city_slug": "colomba"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Concepcion Chiquirichapa", "s_city_slug": "concepcion-chiquirichapa"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "El Palmar", "s_city_slug": "el-palmar"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Flores Costa Cuca", "s_city_slug": "flores-costa-cuca"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Genova", "s_city_slug": "genova"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Huitan", "s_city_slug": "huitan"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "La Esperanza", "s_city_slug": "la-esperanza"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Municipio de Almolonga", "s_city_slug": "municipio-de-almolonga"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Municipio de Cabrican", "s_city_slug": "municipio-de-cabrican"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Municipio de Cantel", "s_city_slug": "municipio-de-cantel"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Municipio de Coatepeque", "s_city_slug": "municipio-de-coatepeque"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Municipio de Colomba", "s_city_slug": "municipio-de-colomba"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Municipio de Concepcion Chiquirichapa", "s_city_slug": "municipio-de-concepcion-chiquirichapa"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Municipio de Flores Costa Cuca", "s_city_slug": "municipio-de-flores-costa-cuca"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Municipio de San Juan Ostuncalco", "s_city_slug": "municipio-de-san-juan-ostuncalco"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Olintepeque", "s_city_slug": "olintepeque"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Ostuncalco", "s_city_slug": "ostuncalco"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Palestina de los Altos", "s_city_slug": "palestina-de-los-altos"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Quetzaltenango", "s_city_slug": "quetzaltenango"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Salcaja", "s_city_slug": "salcaja"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Samayac", "s_city_slug": "samayac"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "San Carlos Sija", "s_city_slug": "san-carlos-sija"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "San Francisco la Union", "s_city_slug": "san-francisco-la-union"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "San Martin Sacatepequez", "s_city_slug": "san-martin-sacatepequez"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "San Mateo", "s_city_slug": "san-mateo"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "San Miguel Siguila", "s_city_slug": "san-miguel-siguila"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Sibilia", "s_city_slug": "sibilia"}, {"s_country_code": "GT", "s_region_slug": "quetzaltenango-department", "s_city_name": "Zunil", "s_city_slug": "zunil"}]}, {"s_country_code": "GT", "s_region_name": "Quiche Department", "s_region_slug": "quiche-department", "cities": [{"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Canilla", "s_city_slug": "canilla"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Chajul", "s_city_slug": "chajul"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Chicaman", "s_city_slug": "chicaman"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Chiche", "s_city_slug": "chiche"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Chichicastenango", "s_city_slug": "chichicastenango"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Chinique", "s_city_slug": "chinique"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Cunen", "s_city_slug": "cunen"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Joyabaj", "s_city_slug": "joyabaj"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Canilla", "s_city_slug": "municipio-de-canilla"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Chajul", "s_city_slug": "municipio-de-chajul"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Chicaman", "s_city_slug": "municipio-de-chicaman"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Chiche", "s_city_slug": "municipio-de-chiche"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Chichicastenango", "s_city_slug": "municipio-de-chichicastenango"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Chinique", "s_city_slug": "municipio-de-chinique"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Cunen", "s_city_slug": "municipio-de-cunen"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Ixcan", "s_city_slug": "municipio-de-ixcan"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Joyabaj", "s_city_slug": "municipio-de-joyabaj"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Pachalum", "s_city_slug": "municipio-de-pachalum"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Patzite", "s_city_slug": "municipio-de-patzite"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de San Andres Sajcabaja", "s_city_slug": "municipio-de-san-andres-sajcabaja"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de San Antonio Ilotenango", "s_city_slug": "municipio-de-san-antonio-ilotenango"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de San Juan Cotzal", "s_city_slug": "municipio-de-san-juan-cotzal"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de San Pedro Jocopilas", "s_city_slug": "municipio-de-san-pedro-jocopilas"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Uspantan", "s_city_slug": "municipio-de-uspantan"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Municipio de Zacualpa", "s_city_slug": "municipio-de-zacualpa"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Nebaj", "s_city_slug": "nebaj"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Pachalum", "s_city_slug": "pachalum"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Patzite", "s_city_slug": "patzite"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Playa Grande", "s_city_slug": "playa-grande"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Sacapulas", "s_city_slug": "sacapulas"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "San Andres Sajcabaja", "s_city_slug": "san-andres-sajcabaja"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "San Antonio Ilotenango", "s_city_slug": "san-antonio-ilotenango"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "San Bartolome Jocotenango", "s_city_slug": "san-bartolome-jocotenango"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "San Juan Cotzal", "s_city_slug": "san-juan-cotzal"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "San Luis Ixcan", "s_city_slug": "san-luis-ixcan"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "San Pedro Jocopilas", "s_city_slug": "san-pedro-jocopilas"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Santa Cruz del Quiche", "s_city_slug": "santa-cruz-del-quiche"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Uspantan", "s_city_slug": "uspantan"}, {"s_country_code": "GT", "s_region_slug": "quiche-department", "s_city_name": "Zacualpa", "s_city_slug": "zacualpa"}]}, {"s_country_code": "GT", "s_region_name": "Retalhuleu Department", "s_region_slug": "retalhuleu-department", "cities": [{"s_country_code": "GT", "s_region_slug": "retalhuleu-department", "s_city_name": "Champerico", "s_city_slug": "champerico"}, {"s_country_code": "GT", "s_region_slug": "retalhuleu-department", "s_city_name": "El Asintal", "s_city_slug": "el-asintal"}, {"s_country_code": "GT", "s_region_slug": "retalhuleu-department", "s_city_name": "Municipio de San Felipe", "s_city_slug": "municipio-de-san-felipe"}, {"s_country_code": "GT", "s_region_slug": "retalhuleu-department", "s_city_name": "Nuevo San Carlos", "s_city_slug": "nuevo-san-carlos"}, {"s_country_code": "GT", "s_region_slug": "retalhuleu-department", "s_city_name": "Retalhuleu", "s_city_slug": "retalhuleu"}, {"s_country_code": "GT", "s_region_slug": "retalhuleu-department", "s_city_name": "San Andres Villa Seca", "s_city_slug": "san-andres-villa-seca"}, {"s_country_code": "GT", "s_region_slug": "retalhuleu-department", "s_city_name": "San Felipe", "s_city_slug": "san-felipe"}, {"s_country_code": "GT", "s_region_slug": "retalhuleu-department", "s_city_name": "San Martin Zapotitlan", "s_city_slug": "san-martin-zapotitlan"}, {"s_country_code": "GT", "s_region_slug": "retalhuleu-department", "s_city_name": "San Sebastian", "s_city_slug": "san-sebastian"}, {"s_country_code": "GT", "s_region_slug": "retalhuleu-department", "s_city_name": "Santa Cruz Mulua", "s_city_slug": "santa-cruz-mulua"}]}, {"s_country_code": "GT", "s_region_name": "Sacatepequez Department", "s_region_slug": "sacatepequez-department", "cities": [{"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Alotenango", "s_city_slug": "alotenango"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Antigua Guatemala", "s_city_slug": "antigua-guatemala"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Ciudad Vieja", "s_city_slug": "ciudad-vieja"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Jocotenango", "s_city_slug": "jocotenango"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Magdalena Milpas Altas", "s_city_slug": "magdalena-milpas-altas"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Municipio de Alotenango", "s_city_slug": "municipio-de-alotenango"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Municipio de Antigua Guatemala", "s_city_slug": "municipio-de-antigua-guatemala"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Municipio de Ciudad Vieja", "s_city_slug": "municipio-de-ciudad-vieja"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Municipio de Jocotenango", "s_city_slug": "municipio-de-jocotenango"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Municipio de Magdalena Milpas Altas", "s_city_slug": "municipio-de-magdalena-milpas-altas"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Municipio de Santa Lucia Milpas Altas", "s_city_slug": "municipio-de-santa-lucia-milpas-altas"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Municipio de Santa Maria de Jesus", "s_city_slug": "municipio-de-santa-maria-de-jesus"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Pastores", "s_city_slug": "pastores"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "San Antonio Aguas Calientes", "s_city_slug": "san-antonio-aguas-calientes"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "San Bartolome Milpas Altas", "s_city_slug": "san-bartolome-milpas-altas"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "San Lucas Sacatepequez", "s_city_slug": "san-lucas-sacatepequez"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "San Miguel Duenas", "s_city_slug": "san-miguel-duenas"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Santa Catarina Barahona", "s_city_slug": "santa-catarina-barahona"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Santa Lucia Milpas Altas", "s_city_slug": "santa-lucia-milpas-altas"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Santa Maria de Jesus", "s_city_slug": "santa-maria-de-jesus"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Santiago Sacatepequez", "s_city_slug": "santiago-sacatepequez"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Santo Domingo Xenacoj", "s_city_slug": "santo-domingo-xenacoj"}, {"s_country_code": "GT", "s_region_slug": "sacatepequez-department", "s_city_name": "Sumpango", "s_city_slug": "sumpango"}]}, {"s_country_code": "GT", "s_region_name": "San Marcos Department", "s_region_slug": "san-marcos-department", "cities": [{"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Catarina", "s_city_slug": "catarina"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Ciudad Tecun Uman", "s_city_slug": "ciudad-tecun-uman"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Comitancillo", "s_city_slug": "comitancillo"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Concepcion Tutuapa", "s_city_slug": "concepcion-tutuapa"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "El Quetzal", "s_city_slug": "el-quetzal"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "El Rodeo", "s_city_slug": "el-rodeo"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "El Tumbador", "s_city_slug": "el-tumbador"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Esquipulas Palo Gordo", "s_city_slug": "esquipulas-palo-gordo"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Ixchiguan", "s_city_slug": "ixchiguan"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "La Reforma", "s_city_slug": "la-reforma"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Malacatan", "s_city_slug": "malacatan"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Municipio de Concepcion Tutuapa", "s_city_slug": "municipio-de-concepcion-tutuapa"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Municipio de Malacatan", "s_city_slug": "municipio-de-malacatan"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Municipio de Sipacapa", "s_city_slug": "municipio-de-sipacapa"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Municipio de Tejutla", "s_city_slug": "municipio-de-tejutla"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Nuevo Progreso", "s_city_slug": "nuevo-progreso"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Ocos", "s_city_slug": "ocos"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Pajapita", "s_city_slug": "pajapita"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Rio Blanco", "s_city_slug": "rio-blanco"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "San Antonio Sacatepequez", "s_city_slug": "san-antonio-sacatepequez"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "San Cristobal Cucho", "s_city_slug": "san-cristobal-cucho"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "San Jose Ojetenam", "s_city_slug": "san-jose-ojetenam"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "San Jose Ojetenan", "s_city_slug": "san-jose-ojetenan"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "San Lorenzo", "s_city_slug": "san-lorenzo"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "San Marcos", "s_city_slug": "san-marcos"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "San Miguel Ixtahuacan", "s_city_slug": "san-miguel-ixtahuacan"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "San Pablo", "s_city_slug": "san-pablo"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "San Pedro Sacatepequez", "s_city_slug": "san-pedro-sacatepequez"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "San Rafael Pie de la Cuesta", "s_city_slug": "san-rafael-pie-de-la-cuesta"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Sibinal", "s_city_slug": "sibinal"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Sipacapa", "s_city_slug": "sipacapa"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Tacana", "s_city_slug": "tacana"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Tajumulco", "s_city_slug": "tajumulco"}, {"s_country_code": "GT", "s_region_slug": "san-marcos-department", "s_city_name": "Tejutla", "s_city_slug": "tejutla"}]}, {"s_country_code": "GT", "s_region_name": "Santa Rosa Department", "s_region_slug": "santa-rosa-department", "cities": [{"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Barberena", "s_city_slug": "barberena"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Casillas", "s_city_slug": "casillas"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Chiquimulilla", "s_city_slug": "chiquimulilla"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Cuilapa", "s_city_slug": "cuilapa"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Guazacapan", "s_city_slug": "guazacapan"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Municipio de Casillas", "s_city_slug": "municipio-de-casillas"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Municipio de Chiquimulilla", "s_city_slug": "municipio-de-chiquimulilla"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Municipio de Guazacapan", "s_city_slug": "municipio-de-guazacapan"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Nueva Santa Rosa", "s_city_slug": "nueva-santa-rosa"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Oratorio", "s_city_slug": "oratorio"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Pueblo Nuevo Vinas", "s_city_slug": "pueblo-nuevo-vinas"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "San Juan Tecuaco", "s_city_slug": "san-juan-tecuaco"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "San Rafael Las Flores", "s_city_slug": "san-rafael-las-flores"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Santa Cruz Naranjo", "s_city_slug": "santa-cruz-naranjo"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Santa Maria Ixhuatan", "s_city_slug": "santa-maria-ixhuatan"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Santa Rosa de Lima", "s_city_slug": "santa-rosa-de-lima"}, {"s_country_code": "GT", "s_region_slug": "santa-rosa-department", "s_city_name": "Taxisco", "s_city_slug": "taxisco"}]}, {"s_country_code": "GT", "s_region_name": "Solola Department", "s_region_slug": "solola-department", "cities": [{"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Concepcion", "s_city_slug": "concepcion"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Municipio de Nahuala", "s_city_slug": "municipio-de-nahuala"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Municipio de Panajachel", "s_city_slug": "municipio-de-panajachel"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Municipio de Santa Catarina Palopo", "s_city_slug": "municipio-de-santa-catarina-palopo"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Municipio de Santa Cruz La Laguna", "s_city_slug": "municipio-de-santa-cruz-la-laguna"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Nahuala", "s_city_slug": "nahuala"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Panajachel", "s_city_slug": "panajachel"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "San Andres Semetabaj", "s_city_slug": "san-andres-semetabaj"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "San Antonio Palopo", "s_city_slug": "san-antonio-palopo"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "San Jose Chacaya", "s_city_slug": "san-jose-chacaya"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "San Juan La Laguna", "s_city_slug": "san-juan-la-laguna"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "San Lucas Toliman", "s_city_slug": "san-lucas-toliman"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "San Marcos La Laguna", "s_city_slug": "san-marcos-la-laguna"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "San Pablo La Laguna", "s_city_slug": "san-pablo-la-laguna"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "San Pedro La Laguna", "s_city_slug": "san-pedro-la-laguna"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Santa Catarina Ixtahuacan", "s_city_slug": "santa-catarina-ixtahuacan"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Santa Catarina Palopo", "s_city_slug": "santa-catarina-palopo"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Santa Clara La Laguna", "s_city_slug": "santa-clara-la-laguna"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Santa Cruz La Laguna", "s_city_slug": "santa-cruz-la-laguna"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Santa Lucia Utatlan", "s_city_slug": "santa-lucia-utatlan"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Santa Maria Visitacion", "s_city_slug": "santa-maria-visitacion"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Santiago Atitlan", "s_city_slug": "santiago-atitlan"}, {"s_country_code": "GT", "s_region_slug": "solola-department", "s_city_name": "Solola", "s_city_slug": "solola"}]}, {"s_country_code": "GT", "s_region_name": "Suchitepequez Department", "s_region_slug": "suchitepequez-department", "cities": [{"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Chicacao", "s_city_slug": "chicacao"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Cuyotenango", "s_city_slug": "cuyotenango"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Mazatenango", "s_city_slug": "mazatenango"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Municipio de San Antonio Suchitepequez", "s_city_slug": "municipio-de-san-antonio-suchitepequez"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Municipio de San Miguel Panan", "s_city_slug": "municipio-de-san-miguel-panan"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Municipio de Santa Barbara", "s_city_slug": "municipio-de-santa-barbara"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Patulul", "s_city_slug": "patulul"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Pueblo Nuevo", "s_city_slug": "pueblo-nuevo"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Rio Bravo", "s_city_slug": "rio-bravo"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "San Antonio Suchitepequez", "s_city_slug": "san-antonio-suchitepequez"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "San Bernardino", "s_city_slug": "san-bernardino"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "San Francisco Zapotitlan", "s_city_slug": "san-francisco-zapotitlan"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "San Gabriel", "s_city_slug": "san-gabriel"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "San Jose El Idolo", "s_city_slug": "san-jose-el-idolo"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "San Juan Bautista", "s_city_slug": "san-juan-bautista"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "San Lorenzo", "s_city_slug": "san-lorenzo"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "San Miguel Panan", "s_city_slug": "san-miguel-panan"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "San Pablo Jocopilas", "s_city_slug": "san-pablo-jocopilas"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Santa Barbara", "s_city_slug": "santa-barbara"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Santo Domingo Suchitepequez", "s_city_slug": "santo-domingo-suchitepequez"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Santo Tomas La Union", "s_city_slug": "santo-tomas-la-union"}, {"s_country_code": "GT", "s_region_slug": "suchitepequez-department", "s_city_name": "Zunilito", "s_city_slug": "zunilito"}]}, {"s_country_code": "GT", "s_region_name": "Totonicapan Department", "s_region_slug": "totonicapan-department", "cities": [{"s_country_code": "GT", "s_region_slug": "totonicapan-department", "s_city_name": "Momostenango", "s_city_slug": "momostenango"}, {"s_country_code": "GT", "s_region_slug": "totonicapan-department", "s_city_name": "Municipio de Momostenango", "s_city_slug": "municipio-de-momostenango"}, {"s_country_code": "GT", "s_region_slug": "totonicapan-department", "s_city_name": "Municipio de Santa Maria Chiquimula", "s_city_slug": "municipio-de-santa-maria-chiquimula"}, {"s_country_code": "GT", "s_region_slug": "totonicapan-department", "s_city_name": "Municipio de Totonicapan", "s_city_slug": "municipio-de-totonicapan"}, {"s_country_code": "GT", "s_region_slug": "totonicapan-department", "s_city_name": "San Andres Xecul", "s_city_slug": "san-andres-xecul"}, {"s_country_code": "GT", "s_region_slug": "totonicapan-department", "s_city_name": "San Bartolo", "s_city_slug": "san-bartolo"}, {"s_country_code": "GT", "s_region_slug": "totonicapan-department", "s_city_name": "San Cristobal Totonicapan", "s_city_slug": "san-cristobal-totonicapan"}, {"s_country_code": "GT", "s_region_slug": "totonicapan-department", "s_city_name": "San Francisco El Alto", "s_city_slug": "san-francisco-el-alto"}, {"s_country_code": "GT", "s_region_slug": "totonicapan-department", "s_city_name": "Santa Lucia La Reforma", "s_city_slug": "santa-lucia-la-reforma"}, {"s_country_code": "GT", "s_region_slug": "totonicapan-department", "s_city_name": "Santa Maria Chiquimula", "s_city_slug": "santa-maria-chiquimula"}, {"s_country_code": "GT", "s_region_slug": "totonicapan-department", "s_city_name": "Totonicapan", "s_city_slug": "totonicapan"}]}]}
+{
+    "s_country_code": "GT",
+    "s_country_name": "Guatemala",
+    "s_country_slug": "guatemala",
+    "regions": [
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Alta Verapaz Department",
+            "s_region_slug": "alta-verapaz-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "Cahabon",
+                    "s_city_slug": "cahabon"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "Chahal Guatemala",
+                    "s_city_slug": "chahal-guatemala"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "Chisec",
+                    "s_city_slug": "chisec"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "Coban",
+                    "s_city_slug": "coban"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "La Tinta",
+                    "s_city_slug": "la-tinta"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "Lanquin",
+                    "s_city_slug": "lanquin"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "Panzos",
+                    "s_city_slug": "panzos"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "San Cristobal Verapaz",
+                    "s_city_slug": "san-cristobal-verapaz"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "San Juan Chamelco",
+                    "s_city_slug": "san-juan-chamelco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "San Pedro Carcha",
+                    "s_city_slug": "san-pedro-carcha"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "Santa Cruz Verapaz",
+                    "s_city_slug": "santa-cruz-verapaz"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "Senahu",
+                    "s_city_slug": "senahu"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "Tactic",
+                    "s_city_slug": "tactic"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "Tamahu",
+                    "s_city_slug": "tamahu"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "alta-verapaz-department",
+                    "s_city_name": "Tucuru",
+                    "s_city_slug": "tucuru"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Baja Verapaz Department",
+            "s_region_slug": "baja-verapaz-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "baja-verapaz-department",
+                    "s_city_name": "Cubulco",
+                    "s_city_slug": "cubulco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "baja-verapaz-department",
+                    "s_city_name": "El Chol",
+                    "s_city_slug": "el-chol"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "baja-verapaz-department",
+                    "s_city_name": "Granados",
+                    "s_city_slug": "granados"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "baja-verapaz-department",
+                    "s_city_name": "Purulha",
+                    "s_city_slug": "purulha"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "baja-verapaz-department",
+                    "s_city_name": "Rabinal",
+                    "s_city_slug": "rabinal"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "baja-verapaz-department",
+                    "s_city_name": "Salama",
+                    "s_city_slug": "salama"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "baja-verapaz-department",
+                    "s_city_name": "San Jeronimo",
+                    "s_city_slug": "san-jeronimo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "baja-verapaz-department",
+                    "s_city_name": "San Miguel Chicaj",
+                    "s_city_slug": "san-miguel-chicaj"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Chimaltenango Department",
+            "s_region_slug": "chimaltenango-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "Acatenango",
+                    "s_city_slug": "acatenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "Chimaltenango",
+                    "s_city_slug": "chimaltenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "Comalapa",
+                    "s_city_slug": "comalapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "El Tejar",
+                    "s_city_slug": "el-tejar"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "Parramos",
+                    "s_city_slug": "parramos"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "Patzicia",
+                    "s_city_slug": "patzicia"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "Patzun",
+                    "s_city_slug": "patzun"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "Pochuta",
+                    "s_city_slug": "pochuta"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "San Andres Itzapa",
+                    "s_city_slug": "san-andres-itzapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "San Jose Poaquil",
+                    "s_city_slug": "san-jose-poaquil"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "San Martin Jilotepeque",
+                    "s_city_slug": "san-martin-jilotepeque"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "Santa Apolonia",
+                    "s_city_slug": "santa-apolonia"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "Santa Cruz Balanya",
+                    "s_city_slug": "santa-cruz-balanya"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "Tecpan Guatemala",
+                    "s_city_slug": "tecpan-guatemala"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "Yepocapa",
+                    "s_city_slug": "yepocapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chimaltenango-department",
+                    "s_city_name": "Zaragoza",
+                    "s_city_slug": "zaragoza"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Chiquimula Department",
+            "s_region_slug": "chiquimula-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chiquimula-department",
+                    "s_city_name": "Camotan",
+                    "s_city_slug": "camotan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chiquimula-department",
+                    "s_city_name": "Chiquimula",
+                    "s_city_slug": "chiquimula"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chiquimula-department",
+                    "s_city_name": "Concepcion Las Minas",
+                    "s_city_slug": "concepcion-las-minas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chiquimula-department",
+                    "s_city_name": "Esquipulas",
+                    "s_city_slug": "esquipulas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chiquimula-department",
+                    "s_city_name": "Ipala",
+                    "s_city_slug": "ipala"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chiquimula-department",
+                    "s_city_name": "Jocotan",
+                    "s_city_slug": "jocotan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chiquimula-department",
+                    "s_city_name": "Olopa",
+                    "s_city_slug": "olopa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chiquimula-department",
+                    "s_city_name": "Quezaltepeque",
+                    "s_city_slug": "quezaltepeque"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chiquimula-department",
+                    "s_city_name": "San Jacinto",
+                    "s_city_slug": "san-jacinto"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chiquimula-department",
+                    "s_city_name": "San Jose La Arada",
+                    "s_city_slug": "san-jose-la-arada"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "chiquimula-department",
+                    "s_city_name": "San Juan Ermita",
+                    "s_city_slug": "san-juan-ermita"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "El Progreso Department",
+            "s_region_slug": "el-progreso-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "el-progreso-department",
+                    "s_city_name": "El Jicaro",
+                    "s_city_slug": "el-jicaro"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "el-progreso-department",
+                    "s_city_name": "Guastatoya",
+                    "s_city_slug": "guastatoya"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "el-progreso-department",
+                    "s_city_name": "Morazan",
+                    "s_city_slug": "morazan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "el-progreso-department",
+                    "s_city_name": "San Agustin Acasaguastlan",
+                    "s_city_slug": "san-agustin-acasaguastlan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "el-progreso-department",
+                    "s_city_name": "San Antonio La Paz",
+                    "s_city_slug": "san-antonio-la-paz"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "el-progreso-department",
+                    "s_city_name": "San Cristobal Acasaguastlan",
+                    "s_city_slug": "san-cristobal-acasaguastlan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "el-progreso-department",
+                    "s_city_name": "Sanarate",
+                    "s_city_slug": "sanarate"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "el-progreso-department",
+                    "s_city_name": "Sansare",
+                    "s_city_slug": "sansare"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Escuintla Department",
+            "s_region_slug": "escuintla-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "Escuintla",
+                    "s_city_slug": "escuintla"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "Guanagazapa",
+                    "s_city_slug": "guanagazapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "Iztapa",
+                    "s_city_slug": "iztapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "La Democracia",
+                    "s_city_slug": "la-democracia"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "La Gomera",
+                    "s_city_slug": "la-gomera"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "Masagua",
+                    "s_city_slug": "masagua"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "Nueva Concepcion",
+                    "s_city_slug": "nueva-concepcion"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "Palin",
+                    "s_city_slug": "palin"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "Puerto San Jose",
+                    "s_city_slug": "puerto-san-jose"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "San Vicente Pacaya",
+                    "s_city_slug": "san-vicente-pacaya"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "Santa Lucia Cotzumalguapa",
+                    "s_city_slug": "santa-lucia-cotzumalguapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "Siquinala",
+                    "s_city_slug": "siquinala"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "escuintla-department",
+                    "s_city_name": "Tiquisate",
+                    "s_city_slug": "tiquisate"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Guatemala Department",
+            "s_region_slug": "guatemala-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "Amatitlan",
+                    "s_city_slug": "amatitlan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "Chinautla",
+                    "s_city_slug": "chinautla"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "Chuarrancho",
+                    "s_city_slug": "chuarrancho"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "Fraijanes",
+                    "s_city_slug": "fraijanes"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "Guatemala City",
+                    "s_city_slug": "guatemala-city"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "Mixco",
+                    "s_city_slug": "mixco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "Palencia",
+                    "s_city_slug": "palencia"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "Petapa",
+                    "s_city_slug": "petapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "San Jose del Golfo",
+                    "s_city_slug": "san-jose-del-golfo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "San Jose Pinula",
+                    "s_city_slug": "san-jose-pinula"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "San Juan Sacatepequez",
+                    "s_city_slug": "san-juan-sacatepequez"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "San Pedro Ayampuc",
+                    "s_city_slug": "san-pedro-ayampuc"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "San Pedro Sacatepequez",
+                    "s_city_slug": "san-pedro-sacatepequez"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "San Raimundo",
+                    "s_city_slug": "san-raimundo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "Santa Catarina Pinula",
+                    "s_city_slug": "santa-catarina-pinula"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "Villa Canales",
+                    "s_city_slug": "villa-canales"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "guatemala-department",
+                    "s_city_name": "Villa Nueva",
+                    "s_city_slug": "villa-nueva"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Huehuetenango Department",
+            "s_region_slug": "huehuetenango-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Aguacatan",
+                    "s_city_slug": "aguacatan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Barillas",
+                    "s_city_slug": "barillas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Chiantla",
+                    "s_city_slug": "chiantla"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Colotenango",
+                    "s_city_slug": "colotenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Concepcion Huista",
+                    "s_city_slug": "concepcion-huista"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Cuilco",
+                    "s_city_slug": "cuilco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Huehuetenango",
+                    "s_city_slug": "huehuetenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Ixtahuacan",
+                    "s_city_slug": "ixtahuacan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Jacaltenango",
+                    "s_city_slug": "jacaltenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "La Libertad",
+                    "s_city_slug": "la-libertad"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Malacatancito",
+                    "s_city_slug": "malacatancito"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Nenton",
+                    "s_city_slug": "nenton"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "San Antonio Huista",
+                    "s_city_slug": "san-antonio-huista"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "San Gaspar Ixchil",
+                    "s_city_slug": "san-gaspar-ixchil"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "San Juan Atitan",
+                    "s_city_slug": "san-juan-atitan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "San Juan Ixcoy",
+                    "s_city_slug": "san-juan-ixcoy"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "San Mateo Ixtatan",
+                    "s_city_slug": "san-mateo-ixtatan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "San Miguel Acatan",
+                    "s_city_slug": "san-miguel-acatan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "San Pedro Necta",
+                    "s_city_slug": "san-pedro-necta"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "San Rafael La Independencia",
+                    "s_city_slug": "san-rafael-la-independencia"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "San Rafael Petzal",
+                    "s_city_slug": "san-rafael-petzal"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "San Sebastian Coatan",
+                    "s_city_slug": "san-sebastian-coatan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "San Sebastian Huehuetenango",
+                    "s_city_slug": "san-sebastian-huehuetenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Santa Ana Huista",
+                    "s_city_slug": "santa-ana-huista"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Santa Barbara",
+                    "s_city_slug": "santa-barbara"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Santa Eulalia",
+                    "s_city_slug": "santa-eulalia"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Santiago Chimaltenango",
+                    "s_city_slug": "santiago-chimaltenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Soloma",
+                    "s_city_slug": "soloma"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Tectitan",
+                    "s_city_slug": "tectitan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "huehuetenango-department",
+                    "s_city_name": "Todos Santos Cuchumatan",
+                    "s_city_slug": "todos-santos-cuchumatan"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Izabal Department",
+            "s_region_slug": "izabal-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "izabal-department",
+                    "s_city_name": "El Estor",
+                    "s_city_slug": "el-estor"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "izabal-department",
+                    "s_city_name": "Livingston",
+                    "s_city_slug": "livingston"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "izabal-department",
+                    "s_city_name": "Los Amates",
+                    "s_city_slug": "los-amates"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "izabal-department",
+                    "s_city_name": "Morales",
+                    "s_city_slug": "morales"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "izabal-department",
+                    "s_city_name": "Municipio de Morales",
+                    "s_city_slug": "municipio-de-morales"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "izabal-department",
+                    "s_city_name": "Municipio de Puerto Barrios",
+                    "s_city_slug": "municipio-de-puerto-barrios"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "izabal-department",
+                    "s_city_name": "Puerto Barrios",
+                    "s_city_slug": "puerto-barrios"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Jalapa Department",
+            "s_region_slug": "jalapa-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jalapa-department",
+                    "s_city_name": "Jalapa",
+                    "s_city_slug": "jalapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jalapa-department",
+                    "s_city_name": "Mataquescuintla",
+                    "s_city_slug": "mataquescuintla"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jalapa-department",
+                    "s_city_name": "Monjas",
+                    "s_city_slug": "monjas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jalapa-department",
+                    "s_city_name": "Municipio de Jalapa",
+                    "s_city_slug": "municipio-de-jalapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jalapa-department",
+                    "s_city_name": "Municipio de Mataquescuintla",
+                    "s_city_slug": "municipio-de-mataquescuintla"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jalapa-department",
+                    "s_city_name": "San Luis Jilotepeque",
+                    "s_city_slug": "san-luis-jilotepeque"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jalapa-department",
+                    "s_city_name": "San Manuel Chaparron",
+                    "s_city_slug": "san-manuel-chaparron"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jalapa-department",
+                    "s_city_name": "San Pedro Pinula",
+                    "s_city_slug": "san-pedro-pinula"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Jutiapa Department",
+            "s_region_slug": "jutiapa-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Agua Blanca",
+                    "s_city_slug": "agua-blanca"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Asuncion Mita",
+                    "s_city_slug": "asuncion-mita"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Atescatempa",
+                    "s_city_slug": "atescatempa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Comapa",
+                    "s_city_slug": "comapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Conguaco",
+                    "s_city_slug": "conguaco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "El Adelanto",
+                    "s_city_slug": "el-adelanto"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "El Progreso",
+                    "s_city_slug": "el-progreso"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Jalpatagua",
+                    "s_city_slug": "jalpatagua"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Jerez",
+                    "s_city_slug": "jerez"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Jutiapa",
+                    "s_city_slug": "jutiapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Moyuta",
+                    "s_city_slug": "moyuta"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Municipio de Asuncion Mita",
+                    "s_city_slug": "municipio-de-asuncion-mita"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Pasaco",
+                    "s_city_slug": "pasaco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Quesada",
+                    "s_city_slug": "quesada"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "San Jose Acatempa",
+                    "s_city_slug": "san-jose-acatempa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Santa Catarina Mita",
+                    "s_city_slug": "santa-catarina-mita"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Yupiltepeque",
+                    "s_city_slug": "yupiltepeque"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "jutiapa-department",
+                    "s_city_name": "Zapotitlan",
+                    "s_city_slug": "zapotitlan"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Peten Department",
+            "s_region_slug": "peten-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Dolores",
+                    "s_city_slug": "dolores"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Flores",
+                    "s_city_slug": "flores"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "La Libertad",
+                    "s_city_slug": "la-libertad"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Melchor de Mencos",
+                    "s_city_slug": "melchor-de-mencos"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Municipio de Flores",
+                    "s_city_slug": "municipio-de-flores"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Municipio de Poptun",
+                    "s_city_slug": "municipio-de-poptun"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Municipio de San Andres",
+                    "s_city_slug": "municipio-de-san-andres"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Municipio de San Benito",
+                    "s_city_slug": "municipio-de-san-benito"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Municipio de San Francisco",
+                    "s_city_slug": "municipio-de-san-francisco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Municipio de Santa Ana",
+                    "s_city_slug": "municipio-de-santa-ana"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Municipio de Sayaxche",
+                    "s_city_slug": "municipio-de-sayaxche"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Poptun",
+                    "s_city_slug": "poptun"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "San Andres",
+                    "s_city_slug": "san-andres"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "San Benito",
+                    "s_city_slug": "san-benito"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "San Francisco",
+                    "s_city_slug": "san-francisco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "San Jose",
+                    "s_city_slug": "san-jose"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "San Luis",
+                    "s_city_slug": "san-luis"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Santa Ana",
+                    "s_city_slug": "santa-ana"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "peten-department",
+                    "s_city_name": "Sayaxche",
+                    "s_city_slug": "sayaxche"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Quetzaltenango Department",
+            "s_region_slug": "quetzaltenango-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Almolonga",
+                    "s_city_slug": "almolonga"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Cabrican",
+                    "s_city_slug": "cabrican"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Cajola",
+                    "s_city_slug": "cajola"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Cantel",
+                    "s_city_slug": "cantel"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Coatepeque",
+                    "s_city_slug": "coatepeque"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Colomba",
+                    "s_city_slug": "colomba"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Concepcion Chiquirichapa",
+                    "s_city_slug": "concepcion-chiquirichapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "El Palmar",
+                    "s_city_slug": "el-palmar"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Flores Costa Cuca",
+                    "s_city_slug": "flores-costa-cuca"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Genova",
+                    "s_city_slug": "genova"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Huitan",
+                    "s_city_slug": "huitan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "La Esperanza",
+                    "s_city_slug": "la-esperanza"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Municipio de Almolonga",
+                    "s_city_slug": "municipio-de-almolonga"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Municipio de Cabrican",
+                    "s_city_slug": "municipio-de-cabrican"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Municipio de Cantel",
+                    "s_city_slug": "municipio-de-cantel"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Municipio de Coatepeque",
+                    "s_city_slug": "municipio-de-coatepeque"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Municipio de Colomba",
+                    "s_city_slug": "municipio-de-colomba"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Municipio de Concepcion Chiquirichapa",
+                    "s_city_slug": "municipio-de-concepcion-chiquirichapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Municipio de Flores Costa Cuca",
+                    "s_city_slug": "municipio-de-flores-costa-cuca"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Municipio de San Juan Ostuncalco",
+                    "s_city_slug": "municipio-de-san-juan-ostuncalco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Olintepeque",
+                    "s_city_slug": "olintepeque"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Ostuncalco",
+                    "s_city_slug": "ostuncalco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Palestina de los Altos",
+                    "s_city_slug": "palestina-de-los-altos"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Quetzaltenango",
+                    "s_city_slug": "quetzaltenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Salcaja",
+                    "s_city_slug": "salcaja"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Samayac",
+                    "s_city_slug": "samayac"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "San Carlos Sija",
+                    "s_city_slug": "san-carlos-sija"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "San Francisco la Union",
+                    "s_city_slug": "san-francisco-la-union"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "San Martin Sacatepequez",
+                    "s_city_slug": "san-martin-sacatepequez"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "San Mateo",
+                    "s_city_slug": "san-mateo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "San Miguel Siguila",
+                    "s_city_slug": "san-miguel-siguila"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Sibilia",
+                    "s_city_slug": "sibilia"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quetzaltenango-department",
+                    "s_city_name": "Zunil",
+                    "s_city_slug": "zunil"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Quiche Department",
+            "s_region_slug": "quiche-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Canilla",
+                    "s_city_slug": "canilla"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Chajul",
+                    "s_city_slug": "chajul"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Chicaman",
+                    "s_city_slug": "chicaman"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Chiche",
+                    "s_city_slug": "chiche"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Chichicastenango",
+                    "s_city_slug": "chichicastenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Chinique",
+                    "s_city_slug": "chinique"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Cunen",
+                    "s_city_slug": "cunen"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Joyabaj",
+                    "s_city_slug": "joyabaj"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Canilla",
+                    "s_city_slug": "municipio-de-canilla"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Chajul",
+                    "s_city_slug": "municipio-de-chajul"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Chicaman",
+                    "s_city_slug": "municipio-de-chicaman"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Chiche",
+                    "s_city_slug": "municipio-de-chiche"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Chichicastenango",
+                    "s_city_slug": "municipio-de-chichicastenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Chinique",
+                    "s_city_slug": "municipio-de-chinique"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Cunen",
+                    "s_city_slug": "municipio-de-cunen"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Ixcan",
+                    "s_city_slug": "municipio-de-ixcan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Joyabaj",
+                    "s_city_slug": "municipio-de-joyabaj"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Pachalum",
+                    "s_city_slug": "municipio-de-pachalum"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Patzite",
+                    "s_city_slug": "municipio-de-patzite"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de San Andres Sajcabaja",
+                    "s_city_slug": "municipio-de-san-andres-sajcabaja"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de San Antonio Ilotenango",
+                    "s_city_slug": "municipio-de-san-antonio-ilotenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de San Juan Cotzal",
+                    "s_city_slug": "municipio-de-san-juan-cotzal"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de San Pedro Jocopilas",
+                    "s_city_slug": "municipio-de-san-pedro-jocopilas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Uspantan",
+                    "s_city_slug": "municipio-de-uspantan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Municipio de Zacualpa",
+                    "s_city_slug": "municipio-de-zacualpa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Nebaj",
+                    "s_city_slug": "nebaj"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Pachalum",
+                    "s_city_slug": "pachalum"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Patzite",
+                    "s_city_slug": "patzite"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Playa Grande",
+                    "s_city_slug": "playa-grande"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Sacapulas",
+                    "s_city_slug": "sacapulas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "San Andres Sajcabaja",
+                    "s_city_slug": "san-andres-sajcabaja"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "San Antonio Ilotenango",
+                    "s_city_slug": "san-antonio-ilotenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "San Bartolome Jocotenango",
+                    "s_city_slug": "san-bartolome-jocotenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "San Juan Cotzal",
+                    "s_city_slug": "san-juan-cotzal"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "San Luis Ixcan",
+                    "s_city_slug": "san-luis-ixcan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "San Pedro Jocopilas",
+                    "s_city_slug": "san-pedro-jocopilas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Santa Cruz del Quiche",
+                    "s_city_slug": "santa-cruz-del-quiche"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Uspantan",
+                    "s_city_slug": "uspantan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "quiche-department",
+                    "s_city_name": "Zacualpa",
+                    "s_city_slug": "zacualpa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Retalhuleu Department",
+            "s_region_slug": "retalhuleu-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "retalhuleu-department",
+                    "s_city_name": "Champerico",
+                    "s_city_slug": "champerico"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "retalhuleu-department",
+                    "s_city_name": "El Asintal",
+                    "s_city_slug": "el-asintal"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "retalhuleu-department",
+                    "s_city_name": "Municipio de San Felipe",
+                    "s_city_slug": "municipio-de-san-felipe"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "retalhuleu-department",
+                    "s_city_name": "Nuevo San Carlos",
+                    "s_city_slug": "nuevo-san-carlos"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "retalhuleu-department",
+                    "s_city_name": "Retalhuleu",
+                    "s_city_slug": "retalhuleu"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "retalhuleu-department",
+                    "s_city_name": "San Andres Villa Seca",
+                    "s_city_slug": "san-andres-villa-seca"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "retalhuleu-department",
+                    "s_city_name": "San Felipe",
+                    "s_city_slug": "san-felipe"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "retalhuleu-department",
+                    "s_city_name": "San Martin Zapotitlan",
+                    "s_city_slug": "san-martin-zapotitlan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "retalhuleu-department",
+                    "s_city_name": "San Sebastian",
+                    "s_city_slug": "san-sebastian"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "retalhuleu-department",
+                    "s_city_name": "Santa Cruz Mulua",
+                    "s_city_slug": "santa-cruz-mulua"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Sacatepequez Department",
+            "s_region_slug": "sacatepequez-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Alotenango",
+                    "s_city_slug": "alotenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Antigua Guatemala",
+                    "s_city_slug": "antigua-guatemala"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Ciudad Vieja",
+                    "s_city_slug": "ciudad-vieja"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Jocotenango",
+                    "s_city_slug": "jocotenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Magdalena Milpas Altas",
+                    "s_city_slug": "magdalena-milpas-altas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Municipio de Alotenango",
+                    "s_city_slug": "municipio-de-alotenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Municipio de Antigua Guatemala",
+                    "s_city_slug": "municipio-de-antigua-guatemala"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Municipio de Ciudad Vieja",
+                    "s_city_slug": "municipio-de-ciudad-vieja"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Municipio de Jocotenango",
+                    "s_city_slug": "municipio-de-jocotenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Municipio de Magdalena Milpas Altas",
+                    "s_city_slug": "municipio-de-magdalena-milpas-altas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Municipio de Santa Lucia Milpas Altas",
+                    "s_city_slug": "municipio-de-santa-lucia-milpas-altas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Municipio de Santa Maria de Jesus",
+                    "s_city_slug": "municipio-de-santa-maria-de-jesus"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Pastores",
+                    "s_city_slug": "pastores"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "San Antonio Aguas Calientes",
+                    "s_city_slug": "san-antonio-aguas-calientes"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "San Bartolome Milpas Altas",
+                    "s_city_slug": "san-bartolome-milpas-altas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "San Lucas Sacatepequez",
+                    "s_city_slug": "san-lucas-sacatepequez"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "San Miguel Duenas",
+                    "s_city_slug": "san-miguel-duenas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Santa Catarina Barahona",
+                    "s_city_slug": "santa-catarina-barahona"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Santa Lucia Milpas Altas",
+                    "s_city_slug": "santa-lucia-milpas-altas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Santa Maria de Jesus",
+                    "s_city_slug": "santa-maria-de-jesus"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Santiago Sacatepequez",
+                    "s_city_slug": "santiago-sacatepequez"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Santo Domingo Xenacoj",
+                    "s_city_slug": "santo-domingo-xenacoj"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "sacatepequez-department",
+                    "s_city_name": "Sumpango",
+                    "s_city_slug": "sumpango"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "San Marcos Department",
+            "s_region_slug": "san-marcos-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Catarina",
+                    "s_city_slug": "catarina"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Ciudad Tecun Uman",
+                    "s_city_slug": "ciudad-tecun-uman"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Comitancillo",
+                    "s_city_slug": "comitancillo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Concepcion Tutuapa",
+                    "s_city_slug": "concepcion-tutuapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "El Quetzal",
+                    "s_city_slug": "el-quetzal"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "El Rodeo",
+                    "s_city_slug": "el-rodeo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "El Tumbador",
+                    "s_city_slug": "el-tumbador"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Esquipulas Palo Gordo",
+                    "s_city_slug": "esquipulas-palo-gordo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Ixchiguan",
+                    "s_city_slug": "ixchiguan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "La Reforma",
+                    "s_city_slug": "la-reforma"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Malacatan",
+                    "s_city_slug": "malacatan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Municipio de Concepcion Tutuapa",
+                    "s_city_slug": "municipio-de-concepcion-tutuapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Municipio de Malacatan",
+                    "s_city_slug": "municipio-de-malacatan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Municipio de Sipacapa",
+                    "s_city_slug": "municipio-de-sipacapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Municipio de Tejutla",
+                    "s_city_slug": "municipio-de-tejutla"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Nuevo Progreso",
+                    "s_city_slug": "nuevo-progreso"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Ocos",
+                    "s_city_slug": "ocos"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Pajapita",
+                    "s_city_slug": "pajapita"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Rio Blanco",
+                    "s_city_slug": "rio-blanco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "San Antonio Sacatepequez",
+                    "s_city_slug": "san-antonio-sacatepequez"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "San Cristobal Cucho",
+                    "s_city_slug": "san-cristobal-cucho"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "San Jose Ojetenam",
+                    "s_city_slug": "san-jose-ojetenam"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "San Jose Ojetenan",
+                    "s_city_slug": "san-jose-ojetenan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "San Lorenzo",
+                    "s_city_slug": "san-lorenzo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "San Marcos",
+                    "s_city_slug": "san-marcos"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "San Miguel Ixtahuacan",
+                    "s_city_slug": "san-miguel-ixtahuacan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "San Pablo",
+                    "s_city_slug": "san-pablo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "San Pedro Sacatepequez",
+                    "s_city_slug": "san-pedro-sacatepequez"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "San Rafael Pie de la Cuesta",
+                    "s_city_slug": "san-rafael-pie-de-la-cuesta"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Sibinal",
+                    "s_city_slug": "sibinal"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Sipacapa",
+                    "s_city_slug": "sipacapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Tacana",
+                    "s_city_slug": "tacana"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Tajumulco",
+                    "s_city_slug": "tajumulco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "san-marcos-department",
+                    "s_city_name": "Tejutla",
+                    "s_city_slug": "tejutla"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Santa Rosa Department",
+            "s_region_slug": "santa-rosa-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Barberena",
+                    "s_city_slug": "barberena"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Casillas",
+                    "s_city_slug": "casillas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Chiquimulilla",
+                    "s_city_slug": "chiquimulilla"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Cuilapa",
+                    "s_city_slug": "cuilapa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Guazacapan",
+                    "s_city_slug": "guazacapan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Municipio de Casillas",
+                    "s_city_slug": "municipio-de-casillas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Municipio de Chiquimulilla",
+                    "s_city_slug": "municipio-de-chiquimulilla"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Municipio de Guazacapan",
+                    "s_city_slug": "municipio-de-guazacapan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Nueva Santa Rosa",
+                    "s_city_slug": "nueva-santa-rosa"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Oratorio",
+                    "s_city_slug": "oratorio"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Pueblo Nuevo Vinas",
+                    "s_city_slug": "pueblo-nuevo-vinas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "San Juan Tecuaco",
+                    "s_city_slug": "san-juan-tecuaco"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "San Rafael Las Flores",
+                    "s_city_slug": "san-rafael-las-flores"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Santa Cruz Naranjo",
+                    "s_city_slug": "santa-cruz-naranjo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Santa Maria Ixhuatan",
+                    "s_city_slug": "santa-maria-ixhuatan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Santa Rosa de Lima",
+                    "s_city_slug": "santa-rosa-de-lima"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "santa-rosa-department",
+                    "s_city_name": "Taxisco",
+                    "s_city_slug": "taxisco"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Solola Department",
+            "s_region_slug": "solola-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Concepcion",
+                    "s_city_slug": "concepcion"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Municipio de Nahuala",
+                    "s_city_slug": "municipio-de-nahuala"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Municipio de Panajachel",
+                    "s_city_slug": "municipio-de-panajachel"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Municipio de Santa Catarina Palopo",
+                    "s_city_slug": "municipio-de-santa-catarina-palopo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Municipio de Santa Cruz La Laguna",
+                    "s_city_slug": "municipio-de-santa-cruz-la-laguna"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Nahuala",
+                    "s_city_slug": "nahuala"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Panajachel",
+                    "s_city_slug": "panajachel"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "San Andres Semetabaj",
+                    "s_city_slug": "san-andres-semetabaj"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "San Antonio Palopo",
+                    "s_city_slug": "san-antonio-palopo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "San Jose Chacaya",
+                    "s_city_slug": "san-jose-chacaya"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "San Juan La Laguna",
+                    "s_city_slug": "san-juan-la-laguna"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "San Lucas Toliman",
+                    "s_city_slug": "san-lucas-toliman"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "San Marcos La Laguna",
+                    "s_city_slug": "san-marcos-la-laguna"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "San Pablo La Laguna",
+                    "s_city_slug": "san-pablo-la-laguna"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "San Pedro La Laguna",
+                    "s_city_slug": "san-pedro-la-laguna"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Santa Catarina Ixtahuacan",
+                    "s_city_slug": "santa-catarina-ixtahuacan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Santa Catarina Palopo",
+                    "s_city_slug": "santa-catarina-palopo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Santa Clara La Laguna",
+                    "s_city_slug": "santa-clara-la-laguna"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Santa Cruz La Laguna",
+                    "s_city_slug": "santa-cruz-la-laguna"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Santa Lucia Utatlan",
+                    "s_city_slug": "santa-lucia-utatlan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Santa Maria Visitacion",
+                    "s_city_slug": "santa-maria-visitacion"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Santiago Atitlan",
+                    "s_city_slug": "santiago-atitlan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "solola-department",
+                    "s_city_name": "Solola",
+                    "s_city_slug": "solola"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Suchitepequez Department",
+            "s_region_slug": "suchitepequez-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Chicacao",
+                    "s_city_slug": "chicacao"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Cuyotenango",
+                    "s_city_slug": "cuyotenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Mazatenango",
+                    "s_city_slug": "mazatenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Municipio de San Antonio Suchitepequez",
+                    "s_city_slug": "municipio-de-san-antonio-suchitepequez"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Municipio de San Miguel Panan",
+                    "s_city_slug": "municipio-de-san-miguel-panan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Municipio de Santa Barbara",
+                    "s_city_slug": "municipio-de-santa-barbara"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Patulul",
+                    "s_city_slug": "patulul"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Pueblo Nuevo",
+                    "s_city_slug": "pueblo-nuevo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Rio Bravo",
+                    "s_city_slug": "rio-bravo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "San Antonio Suchitepequez",
+                    "s_city_slug": "san-antonio-suchitepequez"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "San Bernardino",
+                    "s_city_slug": "san-bernardino"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "San Francisco Zapotitlan",
+                    "s_city_slug": "san-francisco-zapotitlan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "San Gabriel",
+                    "s_city_slug": "san-gabriel"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "San Jose El Idolo",
+                    "s_city_slug": "san-jose-el-idolo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "San Juan Bautista",
+                    "s_city_slug": "san-juan-bautista"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "San Lorenzo",
+                    "s_city_slug": "san-lorenzo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "San Miguel Panan",
+                    "s_city_slug": "san-miguel-panan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "San Pablo Jocopilas",
+                    "s_city_slug": "san-pablo-jocopilas"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Santa Barbara",
+                    "s_city_slug": "santa-barbara"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Santo Domingo Suchitepequez",
+                    "s_city_slug": "santo-domingo-suchitepequez"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Santo Tomas La Union",
+                    "s_city_slug": "santo-tomas-la-union"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "suchitepequez-department",
+                    "s_city_name": "Zunilito",
+                    "s_city_slug": "zunilito"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GT",
+            "s_region_name": "Totonicapan Department",
+            "s_region_slug": "totonicapan-department",
+            "cities": [
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "totonicapan-department",
+                    "s_city_name": "Momostenango",
+                    "s_city_slug": "momostenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "totonicapan-department",
+                    "s_city_name": "Municipio de Momostenango",
+                    "s_city_slug": "municipio-de-momostenango"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "totonicapan-department",
+                    "s_city_name": "Municipio de Santa Maria Chiquimula",
+                    "s_city_slug": "municipio-de-santa-maria-chiquimula"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "totonicapan-department",
+                    "s_city_name": "Municipio de Totonicapan",
+                    "s_city_slug": "municipio-de-totonicapan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "totonicapan-department",
+                    "s_city_name": "San Andres Xecul",
+                    "s_city_slug": "san-andres-xecul"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "totonicapan-department",
+                    "s_city_name": "San Bartolo",
+                    "s_city_slug": "san-bartolo"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "totonicapan-department",
+                    "s_city_name": "San Cristobal Totonicapan",
+                    "s_city_slug": "san-cristobal-totonicapan"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "totonicapan-department",
+                    "s_city_name": "San Francisco El Alto",
+                    "s_city_slug": "san-francisco-el-alto"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "totonicapan-department",
+                    "s_city_name": "Santa Lucia La Reforma",
+                    "s_city_slug": "santa-lucia-la-reforma"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "totonicapan-department",
+                    "s_city_name": "Santa Maria Chiquimula",
+                    "s_city_slug": "santa-maria-chiquimula"
+                },
+                {
+                    "s_country_code": "GT",
+                    "s_region_slug": "totonicapan-department",
+                    "s_city_name": "Totonicapan",
+                    "s_city_slug": "totonicapan"
+                }
+            ]
+        }
+    ]
+}

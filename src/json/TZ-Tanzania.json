@@ -1,1 +1,1788 @@
-{"s_country_code": "TZ", "s_country_name": "Tanzania", "s_country_slug": "tanzania", "regions": [{"s_country_code": "TZ", "s_region_name": "Arusha Region", "s_region_slug": "arusha-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Arusha", "s_city_slug": "arusha"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Kingori", "s_city_slug": "kingori"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Kiratu", "s_city_slug": "kiratu"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Longido", "s_city_slug": "longido"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Mbuguni", "s_city_slug": "mbuguni"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Merelani", "s_city_slug": "merelani"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Meru", "s_city_slug": "meru"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Monduli", "s_city_slug": "monduli"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Mto wa Mbu", "s_city_slug": "mto-wa-mbu"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Namanga", "s_city_slug": "namanga"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Ngorongoro", "s_city_slug": "ngorongoro"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Nkoaranga", "s_city_slug": "nkoaranga"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Poli", "s_city_slug": "poli"}, {"s_country_code": "TZ", "s_region_slug": "arusha-region", "s_city_name": "Usa River", "s_city_slug": "usa-river"}]}, {"s_country_code": "TZ", "s_region_name": "Dar es Salaam Region", "s_region_slug": "dar-es-salaam-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "dar-es-salaam-region", "s_city_name": "Dar es Salaam", "s_city_slug": "dar-es-salaam"}, {"s_country_code": "TZ", "s_region_slug": "dar-es-salaam-region", "s_city_name": "Magomeni", "s_city_slug": "magomeni"}]}, {"s_country_code": "TZ", "s_region_name": "Dodoma Region", "s_region_slug": "dodoma-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "dodoma-region", "s_city_name": "Dodoma", "s_city_slug": "dodoma"}, {"s_country_code": "TZ", "s_region_slug": "dodoma-region", "s_city_name": "Kibakwe", "s_city_slug": "kibakwe"}, {"s_country_code": "TZ", "s_region_slug": "dodoma-region", "s_city_name": "Kisasa", "s_city_slug": "kisasa"}, {"s_country_code": "TZ", "s_region_slug": "dodoma-region", "s_city_name": "Kondoa", "s_city_slug": "kondoa"}, {"s_country_code": "TZ", "s_region_slug": "dodoma-region", "s_city_name": "Kongwa", "s_city_slug": "kongwa"}, {"s_country_code": "TZ", "s_region_slug": "dodoma-region", "s_city_name": "Mpwapwa", "s_city_slug": "mpwapwa"}, {"s_country_code": "TZ", "s_region_slug": "dodoma-region", "s_city_name": "Msanga", "s_city_slug": "msanga"}]}, {"s_country_code": "TZ", "s_region_name": "Geita Region", "s_region_slug": "geita-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "geita-region", "s_city_name": "Buseresere", "s_city_slug": "buseresere"}, {"s_country_code": "TZ", "s_region_slug": "geita-region", "s_city_name": "Chato", "s_city_slug": "chato"}, {"s_country_code": "TZ", "s_region_slug": "geita-region", "s_city_name": "Geita", "s_city_slug": "geita"}, {"s_country_code": "TZ", "s_region_slug": "geita-region", "s_city_name": "Kasamwa", "s_city_slug": "kasamwa"}, {"s_country_code": "TZ", "s_region_slug": "geita-region", "s_city_name": "Katoro", "s_city_slug": "katoro"}, {"s_country_code": "TZ", "s_region_slug": "geita-region", "s_city_name": "Masumbwe", "s_city_slug": "masumbwe"}, {"s_country_code": "TZ", "s_region_slug": "geita-region", "s_city_name": "Ushirombo", "s_city_slug": "ushirombo"}, {"s_country_code": "TZ", "s_region_slug": "geita-region", "s_city_name": "Uyovu", "s_city_slug": "uyovu"}]}, {"s_country_code": "TZ", "s_region_name": "Iringa Region", "s_region_slug": "iringa-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "iringa-region", "s_city_name": "Ilula", "s_city_slug": "ilula"}, {"s_country_code": "TZ", "s_region_slug": "iringa-region", "s_city_name": "Iringa", "s_city_slug": "iringa"}, {"s_country_code": "TZ", "s_region_slug": "iringa-region", "s_city_name": "Izazi", "s_city_slug": "izazi"}, {"s_country_code": "TZ", "s_region_slug": "iringa-region", "s_city_name": "Mafinga", "s_city_slug": "mafinga"}, {"s_country_code": "TZ", "s_region_slug": "iringa-region", "s_city_name": "Makungu", "s_city_slug": "makungu"}, {"s_country_code": "TZ", "s_region_slug": "iringa-region", "s_city_name": "Malangali", "s_city_slug": "malangali"}]}, {"s_country_code": "TZ", "s_region_name": "Kagera Region", "s_region_slug": "kagera-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Biharamulo", "s_city_slug": "biharamulo"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Bugarama", "s_city_slug": "bugarama"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Bugene", "s_city_slug": "bugene"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Bukoba", "s_city_slug": "bukoba"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Kabanga", "s_city_slug": "kabanga"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Kamachumu", "s_city_slug": "kamachumu"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Katerero", "s_city_slug": "katerero"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Katoro", "s_city_slug": "katoro"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Kyaka", "s_city_slug": "kyaka"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Ngara", "s_city_slug": "ngara"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Nshamba", "s_city_slug": "nshamba"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Nsunga", "s_city_slug": "nsunga"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Nyakahanga", "s_city_slug": "nyakahanga"}, {"s_country_code": "TZ", "s_region_slug": "kagera-region", "s_city_name": "Rulenge", "s_city_slug": "rulenge"}]}, {"s_country_code": "TZ", "s_region_name": "Katavi Region", "s_region_slug": "katavi-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "katavi-region", "s_city_name": "Inyonga", "s_city_slug": "inyonga"}, {"s_country_code": "TZ", "s_region_slug": "katavi-region", "s_city_name": "Karema", "s_city_slug": "karema"}, {"s_country_code": "TZ", "s_region_slug": "katavi-region", "s_city_name": "Mpanda", "s_city_slug": "mpanda"}, {"s_country_code": "TZ", "s_region_slug": "katavi-region", "s_city_name": "Usevia", "s_city_slug": "usevia"}]}, {"s_country_code": "TZ", "s_region_name": "Kigoma Region", "s_region_slug": "kigoma-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "kigoma-region", "s_city_name": "Kakonko", "s_city_slug": "kakonko"}, {"s_country_code": "TZ", "s_region_slug": "kigoma-region", "s_city_name": "Kasulu", "s_city_slug": "kasulu"}, {"s_country_code": "TZ", "s_region_slug": "kigoma-region", "s_city_name": "Kibondo", "s_city_slug": "kibondo"}, {"s_country_code": "TZ", "s_region_slug": "kigoma-region", "s_city_name": "Kigoma", "s_city_slug": "kigoma"}, {"s_country_code": "TZ", "s_region_slug": "kigoma-region", "s_city_name": "Mabamba", "s_city_slug": "mabamba"}, {"s_country_code": "TZ", "s_region_slug": "kigoma-region", "s_city_name": "Mwandiga", "s_city_slug": "mwandiga"}, {"s_country_code": "TZ", "s_region_slug": "kigoma-region", "s_city_name": "Nguruka", "s_city_slug": "nguruka"}, {"s_country_code": "TZ", "s_region_slug": "kigoma-region", "s_city_name": "Uvinza", "s_city_slug": "uvinza"}]}, {"s_country_code": "TZ", "s_region_name": "Kilimanjaro Region", "s_region_slug": "kilimanjaro-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "kilimanjaro-region", "s_city_name": "Hedaru", "s_city_slug": "hedaru"}, {"s_country_code": "TZ", "s_region_slug": "kilimanjaro-region", "s_city_name": "Kihurio", "s_city_slug": "kihurio"}, {"s_country_code": "TZ", "s_region_slug": "kilimanjaro-region", "s_city_name": "Kisiwani", "s_city_slug": "kisiwani"}, {"s_country_code": "TZ", "s_region_slug": "kilimanjaro-region", "s_city_name": "Kwakoa", "s_city_slug": "kwakoa"}, {"s_country_code": "TZ", "s_region_slug": "kilimanjaro-region", "s_city_name": "Lembeni", "s_city_slug": "lembeni"}, {"s_country_code": "TZ", "s_region_slug": "kilimanjaro-region", "s_city_name": "Makanya", "s_city_slug": "makanya"}, {"s_country_code": "TZ", "s_region_slug": "kilimanjaro-region", "s_city_name": "Moshi", "s_city_slug": "moshi"}, {"s_country_code": "TZ", "s_region_slug": "kilimanjaro-region", "s_city_name": "Mwembe", "s_city_slug": "mwembe"}, {"s_country_code": "TZ", "s_region_slug": "kilimanjaro-region", "s_city_name": "Ndungu", "s_city_slug": "ndungu"}, {"s_country_code": "TZ", "s_region_slug": "kilimanjaro-region", "s_city_name": "Same", "s_city_slug": "same"}]}, {"s_country_code": "TZ", "s_region_name": "Lindi Region", "s_region_slug": "lindi-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "lindi-region", "s_city_name": "Lindi", "s_city_slug": "lindi"}, {"s_country_code": "TZ", "s_region_slug": "lindi-region", "s_city_name": "Mbekenyera", "s_city_slug": "mbekenyera"}, {"s_country_code": "TZ", "s_region_slug": "lindi-region", "s_city_name": "Mingoyo", "s_city_slug": "mingoyo"}, {"s_country_code": "TZ", "s_region_slug": "lindi-region", "s_city_name": "Mtama", "s_city_slug": "mtama"}, {"s_country_code": "TZ", "s_region_slug": "lindi-region", "s_city_name": "Nachingwea", "s_city_slug": "nachingwea"}, {"s_country_code": "TZ", "s_region_slug": "lindi-region", "s_city_name": "Nyangao", "s_city_slug": "nyangao"}, {"s_country_code": "TZ", "s_region_slug": "lindi-region", "s_city_name": "Ruangwa", "s_city_slug": "ruangwa"}]}, {"s_country_code": "TZ", "s_region_name": "Manyara Region", "s_region_slug": "manyara-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Babati", "s_city_slug": "babati"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Bashanet", "s_city_slug": "bashanet"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Basotu", "s_city_slug": "basotu"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Dareda", "s_city_slug": "dareda"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Dongobesh", "s_city_slug": "dongobesh"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Endasak", "s_city_slug": "endasak"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Galappo", "s_city_slug": "galappo"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Katesh", "s_city_slug": "katesh"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Kibaya", "s_city_slug": "kibaya"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Kirya", "s_city_slug": "kirya"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Magugu", "s_city_slug": "magugu"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Mbulu", "s_city_slug": "mbulu"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Naberera", "s_city_slug": "naberera"}, {"s_country_code": "TZ", "s_region_slug": "manyara-region", "s_city_name": "Nangwa", "s_city_slug": "nangwa"}]}, {"s_country_code": "TZ", "s_region_name": "Mara Region", "s_region_slug": "mara-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "mara-region", "s_city_name": "Bukonyo", "s_city_slug": "bukonyo"}, {"s_country_code": "TZ", "s_region_slug": "mara-region", "s_city_name": "Butiama", "s_city_slug": "butiama"}, {"s_country_code": "TZ", "s_region_slug": "mara-region", "s_city_name": "Issenye", "s_city_slug": "issenye"}, {"s_country_code": "TZ", "s_region_slug": "mara-region", "s_city_name": "Kibara", "s_city_slug": "kibara"}, {"s_country_code": "TZ", "s_region_slug": "mara-region", "s_city_name": "Mugango", "s_city_slug": "mugango"}, {"s_country_code": "TZ", "s_region_slug": "mara-region", "s_city_name": "Mugumu", "s_city_slug": "mugumu"}, {"s_country_code": "TZ", "s_region_slug": "mara-region", "s_city_name": "Muriti", "s_city_slug": "muriti"}, {"s_country_code": "TZ", "s_region_slug": "mara-region", "s_city_name": "Musoma", "s_city_slug": "musoma"}, {"s_country_code": "TZ", "s_region_slug": "mara-region", "s_city_name": "Nakatunguru", "s_city_slug": "nakatunguru"}, {"s_country_code": "TZ", "s_region_slug": "mara-region", "s_city_name": "Nansio", "s_city_slug": "nansio"}, {"s_country_code": "TZ", "s_region_slug": "mara-region", "s_city_name": "Nyamuswa", "s_city_slug": "nyamuswa"}, {"s_country_code": "TZ", "s_region_slug": "mara-region", "s_city_name": "Sirari", "s_city_slug": "sirari"}]}, {"s_country_code": "TZ", "s_region_name": "Morogoro Region", "s_region_slug": "morogoro-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Geiro", "s_city_slug": "geiro"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Ifakara", "s_city_slug": "ifakara"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Kidatu", "s_city_slug": "kidatu"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Kidodi", "s_city_slug": "kidodi"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Kilosa", "s_city_slug": "kilosa"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Kimamba", "s_city_slug": "kimamba"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Kisanga", "s_city_slug": "kisanga"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Lupiro", "s_city_slug": "lupiro"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Magole", "s_city_slug": "magole"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Mahenge", "s_city_slug": "mahenge"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Malinyi", "s_city_slug": "malinyi"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Mikumi", "s_city_slug": "mikumi"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Mlimba", "s_city_slug": "mlimba"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Morogoro", "s_city_slug": "morogoro"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Msowero", "s_city_slug": "msowero"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Mtimbira", "s_city_slug": "mtimbira"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Mvomero District", "s_city_slug": "mvomero-district"}, {"s_country_code": "TZ", "s_region_slug": "morogoro-region", "s_city_name": "Ngerengere", "s_city_slug": "ngerengere"}]}, {"s_country_code": "TZ", "s_region_name": "Mtwara Region", "s_region_slug": "mtwara-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Chiungutwa", "s_city_slug": "chiungutwa"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Kitama", "s_city_slug": "kitama"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Kitangari", "s_city_slug": "kitangari"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Luchingu", "s_city_slug": "luchingu"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Lukuledi", "s_city_slug": "lukuledi"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Lulindi", "s_city_slug": "lulindi"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Madimba", "s_city_slug": "madimba"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Mahuta", "s_city_slug": "mahuta"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Masasi", "s_city_slug": "masasi"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Masuguru", "s_city_slug": "masuguru"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Mtwara", "s_city_slug": "mtwara"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Namalenga", "s_city_slug": "namalenga"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Namikupa", "s_city_slug": "namikupa"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Nanganga", "s_city_slug": "nanganga"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Nangomba", "s_city_slug": "nangomba"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Nanhyanga", "s_city_slug": "nanhyanga"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Nanyamba", "s_city_slug": "nanyamba"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Newala Kisimani", "s_city_slug": "newala-kisimani"}, {"s_country_code": "TZ", "s_region_slug": "mtwara-region", "s_city_name": "Tandahimba", "s_city_slug": "tandahimba"}]}, {"s_country_code": "TZ", "s_region_name": "Mwanza Region", "s_region_slug": "mwanza-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "mwanza-region", "s_city_name": "Ilemela District", "s_city_slug": "ilemela-district"}, {"s_country_code": "TZ", "s_region_slug": "mwanza-region", "s_city_name": "Kihangara", "s_city_slug": "kihangara"}, {"s_country_code": "TZ", "s_region_slug": "mwanza-region", "s_city_name": "Malya", "s_city_slug": "malya"}, {"s_country_code": "TZ", "s_region_slug": "mwanza-region", "s_city_name": "Misasi", "s_city_slug": "misasi"}, {"s_country_code": "TZ", "s_region_slug": "mwanza-region", "s_city_name": "Misungwi", "s_city_slug": "misungwi"}, {"s_country_code": "TZ", "s_region_slug": "mwanza-region", "s_city_name": "Mwanza", "s_city_slug": "mwanza"}, {"s_country_code": "TZ", "s_region_slug": "mwanza-region", "s_city_name": "Ngudu", "s_city_slug": "ngudu"}, {"s_country_code": "TZ", "s_region_slug": "mwanza-region", "s_city_name": "Nyanguge", "s_city_slug": "nyanguge"}, {"s_country_code": "TZ", "s_region_slug": "mwanza-region", "s_city_name": "Usagara", "s_city_slug": "usagara"}]}, {"s_country_code": "TZ", "s_region_name": "Njombe Region", "s_region_slug": "njombe-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "njombe-region", "s_city_name": "Ilembula", "s_city_slug": "ilembula"}, {"s_country_code": "TZ", "s_region_slug": "njombe-region", "s_city_name": "Makumbako", "s_city_slug": "makumbako"}, {"s_country_code": "TZ", "s_region_slug": "njombe-region", "s_city_name": "Manda", "s_city_slug": "manda"}, {"s_country_code": "TZ", "s_region_slug": "njombe-region", "s_city_name": "Matamba", "s_city_slug": "matamba"}, {"s_country_code": "TZ", "s_region_slug": "njombe-region", "s_city_name": "Mlangali", "s_city_slug": "mlangali"}, {"s_country_code": "TZ", "s_region_slug": "njombe-region", "s_city_name": "Mtwango", "s_city_slug": "mtwango"}, {"s_country_code": "TZ", "s_region_slug": "njombe-region", "s_city_name": "Njombe", "s_city_slug": "njombe"}]}, {"s_country_code": "TZ", "s_region_name": "North Pemba Region", "s_region_slug": "north-pemba-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "north-pemba-region", "s_city_name": "Konde", "s_city_slug": "konde"}, {"s_country_code": "TZ", "s_region_slug": "north-pemba-region", "s_city_name": "Micheweni", "s_city_slug": "micheweni"}, {"s_country_code": "TZ", "s_region_slug": "north-pemba-region", "s_city_name": "Wete", "s_city_slug": "wete"}]}, {"s_country_code": "TZ", "s_region_name": "Pwani Region", "s_region_slug": "pwani-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Bagamoyo", "s_city_slug": "bagamoyo"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Bungu", "s_city_slug": "bungu"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Chalinze", "s_city_slug": "chalinze"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Ikwiriri", "s_city_slug": "ikwiriri"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Kibaha", "s_city_slug": "kibaha"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Kibiti", "s_city_slug": "kibiti"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Kilindoni", "s_city_slug": "kilindoni"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Kisarawe", "s_city_slug": "kisarawe"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Lugoba", "s_city_slug": "lugoba"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Maneromango", "s_city_slug": "maneromango"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Mbumi", "s_city_slug": "mbumi"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Mkuranga", "s_city_slug": "mkuranga"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Mlandizi", "s_city_slug": "mlandizi"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Mvomero", "s_city_slug": "mvomero"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Utete", "s_city_slug": "utete"}, {"s_country_code": "TZ", "s_region_slug": "pwani-region", "s_city_name": "Vikindu", "s_city_slug": "vikindu"}]}, {"s_country_code": "TZ", "s_region_name": "Rukwa Region", "s_region_slug": "rukwa-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "rukwa-region", "s_city_name": "Chala", "s_city_slug": "chala"}, {"s_country_code": "TZ", "s_region_slug": "rukwa-region", "s_city_name": "Kirando", "s_city_slug": "kirando"}, {"s_country_code": "TZ", "s_region_slug": "rukwa-region", "s_city_name": "Laela", "s_city_slug": "laela"}, {"s_country_code": "TZ", "s_region_slug": "rukwa-region", "s_city_name": "Matai", "s_city_slug": "matai"}, {"s_country_code": "TZ", "s_region_slug": "rukwa-region", "s_city_name": "Namanyere", "s_city_slug": "namanyere"}, {"s_country_code": "TZ", "s_region_slug": "rukwa-region", "s_city_name": "Nkove", "s_city_slug": "nkove"}, {"s_country_code": "TZ", "s_region_slug": "rukwa-region", "s_city_name": "Sumbawanga", "s_city_slug": "sumbawanga"}]}, {"s_country_code": "TZ", "s_region_name": "Ruvuma Region", "s_region_slug": "ruvuma-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "ruvuma-region", "s_city_name": "Kigonsera", "s_city_slug": "kigonsera"}, {"s_country_code": "TZ", "s_region_slug": "ruvuma-region", "s_city_name": "Liuli", "s_city_slug": "liuli"}, {"s_country_code": "TZ", "s_region_slug": "ruvuma-region", "s_city_name": "Mahanje", "s_city_slug": "mahanje"}, {"s_country_code": "TZ", "s_region_slug": "ruvuma-region", "s_city_name": "Maposeni", "s_city_slug": "maposeni"}, {"s_country_code": "TZ", "s_region_slug": "ruvuma-region", "s_city_name": "Matiri", "s_city_slug": "matiri"}, {"s_country_code": "TZ", "s_region_slug": "ruvuma-region", "s_city_name": "Mbamba Bay", "s_city_slug": "mbamba-bay"}, {"s_country_code": "TZ", "s_region_slug": "ruvuma-region", "s_city_name": "Mbinga", "s_city_slug": "mbinga"}, {"s_country_code": "TZ", "s_region_slug": "ruvuma-region", "s_city_name": "Songea", "s_city_slug": "songea"}, {"s_country_code": "TZ", "s_region_slug": "ruvuma-region", "s_city_name": "Tingi", "s_city_slug": "tingi"}]}, {"s_country_code": "TZ", "s_region_name": "Shinyanga Region", "s_region_slug": "shinyanga-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "shinyanga-region", "s_city_name": "Isaka", "s_city_slug": "isaka"}, {"s_country_code": "TZ", "s_region_slug": "shinyanga-region", "s_city_name": "Kahama", "s_city_slug": "kahama"}, {"s_country_code": "TZ", "s_region_slug": "shinyanga-region", "s_city_name": "Kishapu", "s_city_slug": "kishapu"}, {"s_country_code": "TZ", "s_region_slug": "shinyanga-region", "s_city_name": "Mhango", "s_city_slug": "mhango"}, {"s_country_code": "TZ", "s_region_slug": "shinyanga-region", "s_city_name": "Mwadui", "s_city_slug": "mwadui"}, {"s_country_code": "TZ", "s_region_slug": "shinyanga-region", "s_city_name": "Old Shinyanga", "s_city_slug": "old-shinyanga"}, {"s_country_code": "TZ", "s_region_slug": "shinyanga-region", "s_city_name": "Shinyanga", "s_city_slug": "shinyanga"}, {"s_country_code": "TZ", "s_region_slug": "shinyanga-region", "s_city_name": "Songwa", "s_city_slug": "songwa"}, {"s_country_code": "TZ", "s_region_slug": "shinyanga-region", "s_city_name": "Tinde", "s_city_slug": "tinde"}]}, {"s_country_code": "TZ", "s_region_name": "Simiyu Region", "s_region_slug": "simiyu-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "simiyu-region", "s_city_name": "Bariadi", "s_city_slug": "bariadi"}, {"s_country_code": "TZ", "s_region_slug": "simiyu-region", "s_city_name": "Kisesa", "s_city_slug": "kisesa"}, {"s_country_code": "TZ", "s_region_slug": "simiyu-region", "s_city_name": "Lalago", "s_city_slug": "lalago"}, {"s_country_code": "TZ", "s_region_slug": "simiyu-region", "s_city_name": "Malampaka", "s_city_slug": "malampaka"}, {"s_country_code": "TZ", "s_region_slug": "simiyu-region", "s_city_name": "Maswa", "s_city_slug": "maswa"}, {"s_country_code": "TZ", "s_region_slug": "simiyu-region", "s_city_name": "Matonga", "s_city_slug": "matonga"}, {"s_country_code": "TZ", "s_region_slug": "simiyu-region", "s_city_name": "Nyakabindi", "s_city_slug": "nyakabindi"}, {"s_country_code": "TZ", "s_region_slug": "simiyu-region", "s_city_name": "Nyalikungu", "s_city_slug": "nyalikungu"}, {"s_country_code": "TZ", "s_region_slug": "simiyu-region", "s_city_name": "Somanda", "s_city_slug": "somanda"}]}, {"s_country_code": "TZ", "s_region_name": "Singida Region", "s_region_slug": "singida-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Igugunu", "s_city_slug": "igugunu"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Ikungi", "s_city_slug": "ikungi"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Ilongero", "s_city_slug": "ilongero"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Itigi", "s_city_slug": "itigi"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Kilimatinde", "s_city_slug": "kilimatinde"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Kintinku", "s_city_slug": "kintinku"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Kiomboi", "s_city_slug": "kiomboi"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Mgandu", "s_city_slug": "mgandu"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Mtinko", "s_city_slug": "mtinko"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Mungaa", "s_city_slug": "mungaa"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Ndago", "s_city_slug": "ndago"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Puma", "s_city_slug": "puma"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Sepuka", "s_city_slug": "sepuka"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Shelui", "s_city_slug": "shelui"}, {"s_country_code": "TZ", "s_region_slug": "singida-region", "s_city_name": "Singida", "s_city_slug": "singida"}]}, {"s_country_code": "TZ", "s_region_name": "South Pemba Region", "s_region_slug": "south-pemba-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "south-pemba-region", "s_city_name": "Chake Chake", "s_city_slug": "chake-chake"}, {"s_country_code": "TZ", "s_region_slug": "south-pemba-region", "s_city_name": "Mtambile", "s_city_slug": "mtambile"}, {"s_country_code": "TZ", "s_region_slug": "south-pemba-region", "s_city_name": "Uwelini", "s_city_slug": "uwelini"}]}, {"s_country_code": "TZ", "s_region_name": "Tabora Region", "s_region_slug": "tabora-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "tabora-region", "s_city_name": "Bukene", "s_city_slug": "bukene"}, {"s_country_code": "TZ", "s_region_slug": "tabora-region", "s_city_name": "Igurubi", "s_city_slug": "igurubi"}, {"s_country_code": "TZ", "s_region_slug": "tabora-region", "s_city_name": "Kaliua", "s_city_slug": "kaliua"}, {"s_country_code": "TZ", "s_region_slug": "tabora-region", "s_city_name": "Mabama", "s_city_slug": "mabama"}, {"s_country_code": "TZ", "s_region_slug": "tabora-region", "s_city_name": "Sikonge", "s_city_slug": "sikonge"}, {"s_country_code": "TZ", "s_region_slug": "tabora-region", "s_city_name": "Tabora", "s_city_slug": "tabora"}, {"s_country_code": "TZ", "s_region_slug": "tabora-region", "s_city_name": "Tumbi", "s_city_slug": "tumbi"}, {"s_country_code": "TZ", "s_region_slug": "tabora-region", "s_city_name": "Usoke", "s_city_slug": "usoke"}]}, {"s_country_code": "TZ", "s_region_name": "Tanga Region", "s_region_slug": "tanga-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Chanika", "s_city_slug": "chanika"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Lushoto", "s_city_slug": "lushoto"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Magomeni", "s_city_slug": "magomeni"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Majengo", "s_city_slug": "majengo"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Makuyuni", "s_city_slug": "makuyuni"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Maramba", "s_city_slug": "maramba"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Matui", "s_city_slug": "matui"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Mazinde", "s_city_slug": "mazinde"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Mlalo", "s_city_slug": "mlalo"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Muheza", "s_city_slug": "muheza"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Mwanga", "s_city_slug": "mwanga"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Pangani", "s_city_slug": "pangani"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Soni", "s_city_slug": "soni"}, {"s_country_code": "TZ", "s_region_slug": "tanga-region", "s_city_name": "Tanga", "s_city_slug": "tanga"}]}, {"s_country_code": "TZ", "s_region_name": "Zanzibar Central/South Region", "s_region_slug": "zanzibar-centralsouth-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "zanzibar-centralsouth-region", "s_city_name": "Koani", "s_city_slug": "koani"}, {"s_country_code": "TZ", "s_region_slug": "zanzibar-centralsouth-region", "s_city_name": "Koani Ndogo", "s_city_slug": "koani-ndogo"}, {"s_country_code": "TZ", "s_region_slug": "zanzibar-centralsouth-region", "s_city_name": "Mahonda", "s_city_slug": "mahonda"}, {"s_country_code": "TZ", "s_region_slug": "zanzibar-centralsouth-region", "s_city_name": "Nganane", "s_city_slug": "nganane"}, {"s_country_code": "TZ", "s_region_slug": "zanzibar-centralsouth-region", "s_city_name": "Sokoni", "s_city_slug": "sokoni"}]}, {"s_country_code": "TZ", "s_region_name": "Zanzibar North Region", "s_region_slug": "zanzibar-north-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "zanzibar-north-region", "s_city_name": "Gamba", "s_city_slug": "gamba"}, {"s_country_code": "TZ", "s_region_slug": "zanzibar-north-region", "s_city_name": "Kijini", "s_city_slug": "kijini"}, {"s_country_code": "TZ", "s_region_slug": "zanzibar-north-region", "s_city_name": "Kiwengwa", "s_city_slug": "kiwengwa"}, {"s_country_code": "TZ", "s_region_slug": "zanzibar-north-region", "s_city_name": "Mkokotoni", "s_city_slug": "mkokotoni"}, {"s_country_code": "TZ", "s_region_slug": "zanzibar-north-region", "s_city_name": "Nungwi", "s_city_slug": "nungwi"}]}, {"s_country_code": "TZ", "s_region_name": "Zanzibar Urban/West Region", "s_region_slug": "zanzibar-urbanwest-region", "cities": [{"s_country_code": "TZ", "s_region_slug": "zanzibar-urbanwest-region", "s_city_name": "Zanzibar", "s_city_slug": "zanzibar"}]}]}
+{
+    "s_country_code": "TZ",
+    "s_country_name": "Tanzania",
+    "s_country_slug": "tanzania",
+    "regions": [
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Arusha Region",
+            "s_region_slug": "arusha-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Arusha",
+                    "s_city_slug": "arusha"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Kingori",
+                    "s_city_slug": "kingori"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Kiratu",
+                    "s_city_slug": "kiratu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Longido",
+                    "s_city_slug": "longido"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Mbuguni",
+                    "s_city_slug": "mbuguni"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Merelani",
+                    "s_city_slug": "merelani"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Meru",
+                    "s_city_slug": "meru"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Monduli",
+                    "s_city_slug": "monduli"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Mto wa Mbu",
+                    "s_city_slug": "mto-wa-mbu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Namanga",
+                    "s_city_slug": "namanga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Ngorongoro",
+                    "s_city_slug": "ngorongoro"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Nkoaranga",
+                    "s_city_slug": "nkoaranga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Poli",
+                    "s_city_slug": "poli"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "arusha-region",
+                    "s_city_name": "Usa River",
+                    "s_city_slug": "usa-river"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Dar es Salaam Region",
+            "s_region_slug": "dar-es-salaam-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "dar-es-salaam-region",
+                    "s_city_name": "Dar es Salaam",
+                    "s_city_slug": "dar-es-salaam"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "dar-es-salaam-region",
+                    "s_city_name": "Magomeni",
+                    "s_city_slug": "magomeni"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Dodoma Region",
+            "s_region_slug": "dodoma-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "dodoma-region",
+                    "s_city_name": "Dodoma",
+                    "s_city_slug": "dodoma"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "dodoma-region",
+                    "s_city_name": "Kibakwe",
+                    "s_city_slug": "kibakwe"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "dodoma-region",
+                    "s_city_name": "Kisasa",
+                    "s_city_slug": "kisasa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "dodoma-region",
+                    "s_city_name": "Kondoa",
+                    "s_city_slug": "kondoa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "dodoma-region",
+                    "s_city_name": "Kongwa",
+                    "s_city_slug": "kongwa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "dodoma-region",
+                    "s_city_name": "Mpwapwa",
+                    "s_city_slug": "mpwapwa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "dodoma-region",
+                    "s_city_name": "Msanga",
+                    "s_city_slug": "msanga"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Geita Region",
+            "s_region_slug": "geita-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "geita-region",
+                    "s_city_name": "Buseresere",
+                    "s_city_slug": "buseresere"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "geita-region",
+                    "s_city_name": "Chato",
+                    "s_city_slug": "chato"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "geita-region",
+                    "s_city_name": "Geita",
+                    "s_city_slug": "geita"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "geita-region",
+                    "s_city_name": "Kasamwa",
+                    "s_city_slug": "kasamwa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "geita-region",
+                    "s_city_name": "Katoro",
+                    "s_city_slug": "katoro"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "geita-region",
+                    "s_city_name": "Masumbwe",
+                    "s_city_slug": "masumbwe"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "geita-region",
+                    "s_city_name": "Ushirombo",
+                    "s_city_slug": "ushirombo"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "geita-region",
+                    "s_city_name": "Uyovu",
+                    "s_city_slug": "uyovu"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Iringa Region",
+            "s_region_slug": "iringa-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "iringa-region",
+                    "s_city_name": "Ilula",
+                    "s_city_slug": "ilula"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "iringa-region",
+                    "s_city_name": "Iringa",
+                    "s_city_slug": "iringa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "iringa-region",
+                    "s_city_name": "Izazi",
+                    "s_city_slug": "izazi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "iringa-region",
+                    "s_city_name": "Mafinga",
+                    "s_city_slug": "mafinga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "iringa-region",
+                    "s_city_name": "Makungu",
+                    "s_city_slug": "makungu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "iringa-region",
+                    "s_city_name": "Malangali",
+                    "s_city_slug": "malangali"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Kagera Region",
+            "s_region_slug": "kagera-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Biharamulo",
+                    "s_city_slug": "biharamulo"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Bugarama",
+                    "s_city_slug": "bugarama"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Bugene",
+                    "s_city_slug": "bugene"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Bukoba",
+                    "s_city_slug": "bukoba"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Kabanga",
+                    "s_city_slug": "kabanga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Kamachumu",
+                    "s_city_slug": "kamachumu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Katerero",
+                    "s_city_slug": "katerero"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Katoro",
+                    "s_city_slug": "katoro"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Kyaka",
+                    "s_city_slug": "kyaka"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Ngara",
+                    "s_city_slug": "ngara"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Nshamba",
+                    "s_city_slug": "nshamba"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Nsunga",
+                    "s_city_slug": "nsunga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Nyakahanga",
+                    "s_city_slug": "nyakahanga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kagera-region",
+                    "s_city_name": "Rulenge",
+                    "s_city_slug": "rulenge"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Katavi Region",
+            "s_region_slug": "katavi-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "katavi-region",
+                    "s_city_name": "Inyonga",
+                    "s_city_slug": "inyonga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "katavi-region",
+                    "s_city_name": "Karema",
+                    "s_city_slug": "karema"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "katavi-region",
+                    "s_city_name": "Mpanda",
+                    "s_city_slug": "mpanda"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "katavi-region",
+                    "s_city_name": "Usevia",
+                    "s_city_slug": "usevia"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Kigoma Region",
+            "s_region_slug": "kigoma-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kigoma-region",
+                    "s_city_name": "Kakonko",
+                    "s_city_slug": "kakonko"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kigoma-region",
+                    "s_city_name": "Kasulu",
+                    "s_city_slug": "kasulu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kigoma-region",
+                    "s_city_name": "Kibondo",
+                    "s_city_slug": "kibondo"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kigoma-region",
+                    "s_city_name": "Kigoma",
+                    "s_city_slug": "kigoma"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kigoma-region",
+                    "s_city_name": "Mabamba",
+                    "s_city_slug": "mabamba"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kigoma-region",
+                    "s_city_name": "Mwandiga",
+                    "s_city_slug": "mwandiga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kigoma-region",
+                    "s_city_name": "Nguruka",
+                    "s_city_slug": "nguruka"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kigoma-region",
+                    "s_city_name": "Uvinza",
+                    "s_city_slug": "uvinza"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Kilimanjaro Region",
+            "s_region_slug": "kilimanjaro-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kilimanjaro-region",
+                    "s_city_name": "Hedaru",
+                    "s_city_slug": "hedaru"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kilimanjaro-region",
+                    "s_city_name": "Kihurio",
+                    "s_city_slug": "kihurio"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kilimanjaro-region",
+                    "s_city_name": "Kisiwani",
+                    "s_city_slug": "kisiwani"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kilimanjaro-region",
+                    "s_city_name": "Kwakoa",
+                    "s_city_slug": "kwakoa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kilimanjaro-region",
+                    "s_city_name": "Lembeni",
+                    "s_city_slug": "lembeni"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kilimanjaro-region",
+                    "s_city_name": "Makanya",
+                    "s_city_slug": "makanya"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kilimanjaro-region",
+                    "s_city_name": "Moshi",
+                    "s_city_slug": "moshi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kilimanjaro-region",
+                    "s_city_name": "Mwembe",
+                    "s_city_slug": "mwembe"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kilimanjaro-region",
+                    "s_city_name": "Ndungu",
+                    "s_city_slug": "ndungu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "kilimanjaro-region",
+                    "s_city_name": "Same",
+                    "s_city_slug": "same"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Lindi Region",
+            "s_region_slug": "lindi-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "lindi-region",
+                    "s_city_name": "Lindi",
+                    "s_city_slug": "lindi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "lindi-region",
+                    "s_city_name": "Mbekenyera",
+                    "s_city_slug": "mbekenyera"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "lindi-region",
+                    "s_city_name": "Mingoyo",
+                    "s_city_slug": "mingoyo"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "lindi-region",
+                    "s_city_name": "Mtama",
+                    "s_city_slug": "mtama"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "lindi-region",
+                    "s_city_name": "Nachingwea",
+                    "s_city_slug": "nachingwea"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "lindi-region",
+                    "s_city_name": "Nyangao",
+                    "s_city_slug": "nyangao"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "lindi-region",
+                    "s_city_name": "Ruangwa",
+                    "s_city_slug": "ruangwa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Manyara Region",
+            "s_region_slug": "manyara-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Babati",
+                    "s_city_slug": "babati"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Bashanet",
+                    "s_city_slug": "bashanet"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Basotu",
+                    "s_city_slug": "basotu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Dareda",
+                    "s_city_slug": "dareda"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Dongobesh",
+                    "s_city_slug": "dongobesh"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Endasak",
+                    "s_city_slug": "endasak"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Galappo",
+                    "s_city_slug": "galappo"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Katesh",
+                    "s_city_slug": "katesh"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Kibaya",
+                    "s_city_slug": "kibaya"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Kirya",
+                    "s_city_slug": "kirya"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Magugu",
+                    "s_city_slug": "magugu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Mbulu",
+                    "s_city_slug": "mbulu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Naberera",
+                    "s_city_slug": "naberera"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "manyara-region",
+                    "s_city_name": "Nangwa",
+                    "s_city_slug": "nangwa"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Mara Region",
+            "s_region_slug": "mara-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mara-region",
+                    "s_city_name": "Bukonyo",
+                    "s_city_slug": "bukonyo"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mara-region",
+                    "s_city_name": "Butiama",
+                    "s_city_slug": "butiama"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mara-region",
+                    "s_city_name": "Issenye",
+                    "s_city_slug": "issenye"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mara-region",
+                    "s_city_name": "Kibara",
+                    "s_city_slug": "kibara"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mara-region",
+                    "s_city_name": "Mugango",
+                    "s_city_slug": "mugango"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mara-region",
+                    "s_city_name": "Mugumu",
+                    "s_city_slug": "mugumu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mara-region",
+                    "s_city_name": "Muriti",
+                    "s_city_slug": "muriti"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mara-region",
+                    "s_city_name": "Musoma",
+                    "s_city_slug": "musoma"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mara-region",
+                    "s_city_name": "Nakatunguru",
+                    "s_city_slug": "nakatunguru"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mara-region",
+                    "s_city_name": "Nansio",
+                    "s_city_slug": "nansio"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mara-region",
+                    "s_city_name": "Nyamuswa",
+                    "s_city_slug": "nyamuswa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mara-region",
+                    "s_city_name": "Sirari",
+                    "s_city_slug": "sirari"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Morogoro Region",
+            "s_region_slug": "morogoro-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Geiro",
+                    "s_city_slug": "geiro"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Ifakara",
+                    "s_city_slug": "ifakara"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Kidatu",
+                    "s_city_slug": "kidatu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Kidodi",
+                    "s_city_slug": "kidodi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Kilosa",
+                    "s_city_slug": "kilosa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Kimamba",
+                    "s_city_slug": "kimamba"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Kisanga",
+                    "s_city_slug": "kisanga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Lupiro",
+                    "s_city_slug": "lupiro"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Magole",
+                    "s_city_slug": "magole"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Mahenge",
+                    "s_city_slug": "mahenge"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Malinyi",
+                    "s_city_slug": "malinyi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Mikumi",
+                    "s_city_slug": "mikumi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Mlimba",
+                    "s_city_slug": "mlimba"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Morogoro",
+                    "s_city_slug": "morogoro"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Msowero",
+                    "s_city_slug": "msowero"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Mtimbira",
+                    "s_city_slug": "mtimbira"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Mvomero District",
+                    "s_city_slug": "mvomero-district"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "morogoro-region",
+                    "s_city_name": "Ngerengere",
+                    "s_city_slug": "ngerengere"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Mtwara Region",
+            "s_region_slug": "mtwara-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Chiungutwa",
+                    "s_city_slug": "chiungutwa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Kitama",
+                    "s_city_slug": "kitama"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Kitangari",
+                    "s_city_slug": "kitangari"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Luchingu",
+                    "s_city_slug": "luchingu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Lukuledi",
+                    "s_city_slug": "lukuledi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Lulindi",
+                    "s_city_slug": "lulindi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Madimba",
+                    "s_city_slug": "madimba"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Mahuta",
+                    "s_city_slug": "mahuta"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Masasi",
+                    "s_city_slug": "masasi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Masuguru",
+                    "s_city_slug": "masuguru"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Mtwara",
+                    "s_city_slug": "mtwara"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Namalenga",
+                    "s_city_slug": "namalenga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Namikupa",
+                    "s_city_slug": "namikupa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Nanganga",
+                    "s_city_slug": "nanganga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Nangomba",
+                    "s_city_slug": "nangomba"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Nanhyanga",
+                    "s_city_slug": "nanhyanga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Nanyamba",
+                    "s_city_slug": "nanyamba"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Newala Kisimani",
+                    "s_city_slug": "newala-kisimani"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mtwara-region",
+                    "s_city_name": "Tandahimba",
+                    "s_city_slug": "tandahimba"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Mwanza Region",
+            "s_region_slug": "mwanza-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mwanza-region",
+                    "s_city_name": "Ilemela District",
+                    "s_city_slug": "ilemela-district"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mwanza-region",
+                    "s_city_name": "Kihangara",
+                    "s_city_slug": "kihangara"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mwanza-region",
+                    "s_city_name": "Malya",
+                    "s_city_slug": "malya"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mwanza-region",
+                    "s_city_name": "Misasi",
+                    "s_city_slug": "misasi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mwanza-region",
+                    "s_city_name": "Misungwi",
+                    "s_city_slug": "misungwi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mwanza-region",
+                    "s_city_name": "Mwanza",
+                    "s_city_slug": "mwanza"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mwanza-region",
+                    "s_city_name": "Ngudu",
+                    "s_city_slug": "ngudu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mwanza-region",
+                    "s_city_name": "Nyanguge",
+                    "s_city_slug": "nyanguge"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "mwanza-region",
+                    "s_city_name": "Usagara",
+                    "s_city_slug": "usagara"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Njombe Region",
+            "s_region_slug": "njombe-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "njombe-region",
+                    "s_city_name": "Ilembula",
+                    "s_city_slug": "ilembula"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "njombe-region",
+                    "s_city_name": "Makumbako",
+                    "s_city_slug": "makumbako"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "njombe-region",
+                    "s_city_name": "Manda",
+                    "s_city_slug": "manda"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "njombe-region",
+                    "s_city_name": "Matamba",
+                    "s_city_slug": "matamba"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "njombe-region",
+                    "s_city_name": "Mlangali",
+                    "s_city_slug": "mlangali"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "njombe-region",
+                    "s_city_name": "Mtwango",
+                    "s_city_slug": "mtwango"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "njombe-region",
+                    "s_city_name": "Njombe",
+                    "s_city_slug": "njombe"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "North Pemba Region",
+            "s_region_slug": "north-pemba-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "north-pemba-region",
+                    "s_city_name": "Konde",
+                    "s_city_slug": "konde"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "north-pemba-region",
+                    "s_city_name": "Micheweni",
+                    "s_city_slug": "micheweni"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "north-pemba-region",
+                    "s_city_name": "Wete",
+                    "s_city_slug": "wete"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Pwani Region",
+            "s_region_slug": "pwani-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Bagamoyo",
+                    "s_city_slug": "bagamoyo"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Bungu",
+                    "s_city_slug": "bungu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Chalinze",
+                    "s_city_slug": "chalinze"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Ikwiriri",
+                    "s_city_slug": "ikwiriri"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Kibaha",
+                    "s_city_slug": "kibaha"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Kibiti",
+                    "s_city_slug": "kibiti"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Kilindoni",
+                    "s_city_slug": "kilindoni"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Kisarawe",
+                    "s_city_slug": "kisarawe"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Lugoba",
+                    "s_city_slug": "lugoba"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Maneromango",
+                    "s_city_slug": "maneromango"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Mbumi",
+                    "s_city_slug": "mbumi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Mkuranga",
+                    "s_city_slug": "mkuranga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Mlandizi",
+                    "s_city_slug": "mlandizi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Mvomero",
+                    "s_city_slug": "mvomero"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Utete",
+                    "s_city_slug": "utete"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "pwani-region",
+                    "s_city_name": "Vikindu",
+                    "s_city_slug": "vikindu"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Rukwa Region",
+            "s_region_slug": "rukwa-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "rukwa-region",
+                    "s_city_name": "Chala",
+                    "s_city_slug": "chala"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "rukwa-region",
+                    "s_city_name": "Kirando",
+                    "s_city_slug": "kirando"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "rukwa-region",
+                    "s_city_name": "Laela",
+                    "s_city_slug": "laela"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "rukwa-region",
+                    "s_city_name": "Matai",
+                    "s_city_slug": "matai"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "rukwa-region",
+                    "s_city_name": "Namanyere",
+                    "s_city_slug": "namanyere"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "rukwa-region",
+                    "s_city_name": "Nkove",
+                    "s_city_slug": "nkove"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "rukwa-region",
+                    "s_city_name": "Sumbawanga",
+                    "s_city_slug": "sumbawanga"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Ruvuma Region",
+            "s_region_slug": "ruvuma-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "ruvuma-region",
+                    "s_city_name": "Kigonsera",
+                    "s_city_slug": "kigonsera"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "ruvuma-region",
+                    "s_city_name": "Liuli",
+                    "s_city_slug": "liuli"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "ruvuma-region",
+                    "s_city_name": "Mahanje",
+                    "s_city_slug": "mahanje"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "ruvuma-region",
+                    "s_city_name": "Maposeni",
+                    "s_city_slug": "maposeni"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "ruvuma-region",
+                    "s_city_name": "Matiri",
+                    "s_city_slug": "matiri"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "ruvuma-region",
+                    "s_city_name": "Mbamba Bay",
+                    "s_city_slug": "mbamba-bay"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "ruvuma-region",
+                    "s_city_name": "Mbinga",
+                    "s_city_slug": "mbinga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "ruvuma-region",
+                    "s_city_name": "Songea",
+                    "s_city_slug": "songea"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "ruvuma-region",
+                    "s_city_name": "Tingi",
+                    "s_city_slug": "tingi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Shinyanga Region",
+            "s_region_slug": "shinyanga-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "shinyanga-region",
+                    "s_city_name": "Isaka",
+                    "s_city_slug": "isaka"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "shinyanga-region",
+                    "s_city_name": "Kahama",
+                    "s_city_slug": "kahama"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "shinyanga-region",
+                    "s_city_name": "Kishapu",
+                    "s_city_slug": "kishapu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "shinyanga-region",
+                    "s_city_name": "Mhango",
+                    "s_city_slug": "mhango"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "shinyanga-region",
+                    "s_city_name": "Mwadui",
+                    "s_city_slug": "mwadui"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "shinyanga-region",
+                    "s_city_name": "Old Shinyanga",
+                    "s_city_slug": "old-shinyanga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "shinyanga-region",
+                    "s_city_name": "Shinyanga",
+                    "s_city_slug": "shinyanga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "shinyanga-region",
+                    "s_city_name": "Songwa",
+                    "s_city_slug": "songwa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "shinyanga-region",
+                    "s_city_name": "Tinde",
+                    "s_city_slug": "tinde"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Simiyu Region",
+            "s_region_slug": "simiyu-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "simiyu-region",
+                    "s_city_name": "Bariadi",
+                    "s_city_slug": "bariadi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "simiyu-region",
+                    "s_city_name": "Kisesa",
+                    "s_city_slug": "kisesa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "simiyu-region",
+                    "s_city_name": "Lalago",
+                    "s_city_slug": "lalago"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "simiyu-region",
+                    "s_city_name": "Malampaka",
+                    "s_city_slug": "malampaka"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "simiyu-region",
+                    "s_city_name": "Maswa",
+                    "s_city_slug": "maswa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "simiyu-region",
+                    "s_city_name": "Matonga",
+                    "s_city_slug": "matonga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "simiyu-region",
+                    "s_city_name": "Nyakabindi",
+                    "s_city_slug": "nyakabindi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "simiyu-region",
+                    "s_city_name": "Nyalikungu",
+                    "s_city_slug": "nyalikungu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "simiyu-region",
+                    "s_city_name": "Somanda",
+                    "s_city_slug": "somanda"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Singida Region",
+            "s_region_slug": "singida-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Igugunu",
+                    "s_city_slug": "igugunu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Ikungi",
+                    "s_city_slug": "ikungi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Ilongero",
+                    "s_city_slug": "ilongero"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Itigi",
+                    "s_city_slug": "itigi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Kilimatinde",
+                    "s_city_slug": "kilimatinde"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Kintinku",
+                    "s_city_slug": "kintinku"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Kiomboi",
+                    "s_city_slug": "kiomboi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Mgandu",
+                    "s_city_slug": "mgandu"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Mtinko",
+                    "s_city_slug": "mtinko"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Mungaa",
+                    "s_city_slug": "mungaa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Ndago",
+                    "s_city_slug": "ndago"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Puma",
+                    "s_city_slug": "puma"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Sepuka",
+                    "s_city_slug": "sepuka"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Shelui",
+                    "s_city_slug": "shelui"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "singida-region",
+                    "s_city_name": "Singida",
+                    "s_city_slug": "singida"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "South Pemba Region",
+            "s_region_slug": "south-pemba-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "south-pemba-region",
+                    "s_city_name": "Chake Chake",
+                    "s_city_slug": "chake-chake"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "south-pemba-region",
+                    "s_city_name": "Mtambile",
+                    "s_city_slug": "mtambile"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "south-pemba-region",
+                    "s_city_name": "Uwelini",
+                    "s_city_slug": "uwelini"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Tabora Region",
+            "s_region_slug": "tabora-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tabora-region",
+                    "s_city_name": "Bukene",
+                    "s_city_slug": "bukene"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tabora-region",
+                    "s_city_name": "Igurubi",
+                    "s_city_slug": "igurubi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tabora-region",
+                    "s_city_name": "Kaliua",
+                    "s_city_slug": "kaliua"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tabora-region",
+                    "s_city_name": "Mabama",
+                    "s_city_slug": "mabama"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tabora-region",
+                    "s_city_name": "Sikonge",
+                    "s_city_slug": "sikonge"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tabora-region",
+                    "s_city_name": "Tabora",
+                    "s_city_slug": "tabora"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tabora-region",
+                    "s_city_name": "Tumbi",
+                    "s_city_slug": "tumbi"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tabora-region",
+                    "s_city_name": "Usoke",
+                    "s_city_slug": "usoke"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Tanga Region",
+            "s_region_slug": "tanga-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Chanika",
+                    "s_city_slug": "chanika"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Lushoto",
+                    "s_city_slug": "lushoto"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Magomeni",
+                    "s_city_slug": "magomeni"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Majengo",
+                    "s_city_slug": "majengo"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Makuyuni",
+                    "s_city_slug": "makuyuni"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Maramba",
+                    "s_city_slug": "maramba"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Matui",
+                    "s_city_slug": "matui"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Mazinde",
+                    "s_city_slug": "mazinde"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Mlalo",
+                    "s_city_slug": "mlalo"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Muheza",
+                    "s_city_slug": "muheza"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Mwanga",
+                    "s_city_slug": "mwanga"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Pangani",
+                    "s_city_slug": "pangani"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Soni",
+                    "s_city_slug": "soni"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "tanga-region",
+                    "s_city_name": "Tanga",
+                    "s_city_slug": "tanga"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Zanzibar Central/South Region",
+            "s_region_slug": "zanzibar-centralsouth-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "zanzibar-centralsouth-region",
+                    "s_city_name": "Koani",
+                    "s_city_slug": "koani"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "zanzibar-centralsouth-region",
+                    "s_city_name": "Koani Ndogo",
+                    "s_city_slug": "koani-ndogo"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "zanzibar-centralsouth-region",
+                    "s_city_name": "Mahonda",
+                    "s_city_slug": "mahonda"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "zanzibar-centralsouth-region",
+                    "s_city_name": "Nganane",
+                    "s_city_slug": "nganane"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "zanzibar-centralsouth-region",
+                    "s_city_name": "Sokoni",
+                    "s_city_slug": "sokoni"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Zanzibar North Region",
+            "s_region_slug": "zanzibar-north-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "zanzibar-north-region",
+                    "s_city_name": "Gamba",
+                    "s_city_slug": "gamba"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "zanzibar-north-region",
+                    "s_city_name": "Kijini",
+                    "s_city_slug": "kijini"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "zanzibar-north-region",
+                    "s_city_name": "Kiwengwa",
+                    "s_city_slug": "kiwengwa"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "zanzibar-north-region",
+                    "s_city_name": "Mkokotoni",
+                    "s_city_slug": "mkokotoni"
+                },
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "zanzibar-north-region",
+                    "s_city_name": "Nungwi",
+                    "s_city_slug": "nungwi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "TZ",
+            "s_region_name": "Zanzibar Urban/West Region",
+            "s_region_slug": "zanzibar-urbanwest-region",
+            "cities": [
+                {
+                    "s_country_code": "TZ",
+                    "s_region_slug": "zanzibar-urbanwest-region",
+                    "s_city_name": "Zanzibar",
+                    "s_city_slug": "zanzibar"
+                }
+            ]
+        }
+    ]
+}

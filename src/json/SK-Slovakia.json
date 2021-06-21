@@ -1,1 +1,1461 @@
-{"s_country_code": "SK", "s_country_name": "Slovakia", "s_country_slug": "slovakia", "regions": [{"s_country_code": "SK", "s_region_name": "Banska Bystrica Region", "s_region_slug": "banska-bystrica-region", "cities": [{"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Banska Bystrica", "s_city_slug": "banska-bystrica"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Banska Stiavnica", "s_city_slug": "banska-stiavnica"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Brezno", "s_city_slug": "brezno"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Cierny Balog", "s_city_slug": "cierny-balog"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Detva", "s_city_slug": "detva"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Dudince", "s_city_slug": "dudince"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Filakovo", "s_city_slug": "filakovo"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Hrinova", "s_city_slug": "hrinova"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Hrochot,Slovakia", "s_city_slug": "hrochotslovakia"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Kovacova", "s_city_slug": "kovacova"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Kremnica", "s_city_slug": "kremnica"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Krupina", "s_city_slug": "krupina"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Lucenec", "s_city_slug": "lucenec"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Nova Bana", "s_city_slug": "nova-bana"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Okres Banska Bystrica", "s_city_slug": "okres-banska-bystrica"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Okres Banska Stiavnica", "s_city_slug": "okres-banska-stiavnica"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Okres Brezno", "s_city_slug": "okres-brezno"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Okres Detva", "s_city_slug": "okres-detva"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Okres Krupina", "s_city_slug": "okres-krupina"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Okres Lucenec", "s_city_slug": "okres-lucenec"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Okres Poltar", "s_city_slug": "okres-poltar"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Okres Revuca", "s_city_slug": "okres-revuca"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Okres Velky Krtis", "s_city_slug": "okres-velky-krtis"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Okres Zarnovica", "s_city_slug": "okres-zarnovica"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Okres Ziar nad Hronom", "s_city_slug": "okres-ziar-nad-hronom"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Okres Zvolen", "s_city_slug": "okres-zvolen"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Poltar", "s_city_slug": "poltar"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Revuca", "s_city_slug": "revuca"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Rimavska Sobota", "s_city_slug": "rimavska-sobota"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Svaty Anton", "s_city_slug": "svaty-anton"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Tisovec", "s_city_slug": "tisovec"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Velky Krtis", "s_city_slug": "velky-krtis"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Zarnovica", "s_city_slug": "zarnovica"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Ziar nad Hronom", "s_city_slug": "ziar-nad-hronom"}, {"s_country_code": "SK", "s_region_slug": "banska-bystrica-region", "s_city_name": "Zvolen", "s_city_slug": "zvolen"}]}, {"s_country_code": "SK", "s_region_name": "Bratislava Region", "s_region_slug": "bratislava-region", "cities": [{"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Bratislava", "s_city_slug": "bratislava"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Bratislava - Vajnory", "s_city_slug": "bratislava-vajnory"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Dunajska Luzna", "s_city_slug": "dunajska-luzna"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Ivanka pri Dunaji", "s_city_slug": "ivanka-pri-dunaji"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Malacky", "s_city_slug": "malacky"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Marianka", "s_city_slug": "marianka"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Modra", "s_city_slug": "modra"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Okres Bratislava I", "s_city_slug": "okres-bratislava-i"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Okres Bratislava II", "s_city_slug": "okres-bratislava-ii"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Okres Bratislava III", "s_city_slug": "okres-bratislava-iii"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Okres Bratislava IV", "s_city_slug": "okres-bratislava-iv"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Okres Bratislava V", "s_city_slug": "okres-bratislava-v"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Okres Malacky", "s_city_slug": "okres-malacky"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Okres Pezinok", "s_city_slug": "okres-pezinok"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Okres Senec", "s_city_slug": "okres-senec"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Pezinok", "s_city_slug": "pezinok"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Senec", "s_city_slug": "senec"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Stupava", "s_city_slug": "stupava"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Svaty Jur", "s_city_slug": "svaty-jur"}, {"s_country_code": "SK", "s_region_slug": "bratislava-region", "s_city_name": "Vinosady", "s_city_slug": "vinosady"}]}, {"s_country_code": "SK", "s_region_name": "Kosice Region", "s_region_slug": "kosice-region", "cities": [{"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Cierna nad Tisou", "s_city_slug": "cierna-nad-tisou"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Dobsina", "s_city_slug": "dobsina"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Gelnica", "s_city_slug": "gelnica"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Kavecany", "s_city_slug": "kavecany"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Kosice", "s_city_slug": "kosice"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Kosice I", "s_city_slug": "kosice-i"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Kosice II", "s_city_slug": "kosice-ii"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Kosice III", "s_city_slug": "kosice-iii"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Kosice IV", "s_city_slug": "kosice-iv"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Krompachy", "s_city_slug": "krompachy"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Medzev", "s_city_slug": "medzev"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Michalovce", "s_city_slug": "michalovce"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Moldava nad Bodvou", "s_city_slug": "moldava-nad-bodvou"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Okres Gelnica", "s_city_slug": "okres-gelnica"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Okres Kosice-okolie", "s_city_slug": "okres-kosice-okolie"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Okres Michalovce", "s_city_slug": "okres-michalovce"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Okres Roznava", "s_city_slug": "okres-roznava"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Okres Sobrance", "s_city_slug": "okres-sobrance"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Okres Spisska Nova Ves", "s_city_slug": "okres-spisska-nova-ves"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Okres Trebisov", "s_city_slug": "okres-trebisov"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Roznava", "s_city_slug": "roznava"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Secovce", "s_city_slug": "secovce"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Sobrance", "s_city_slug": "sobrance"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Spisska Nova Ves", "s_city_slug": "spisska-nova-ves"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Strazske", "s_city_slug": "strazske"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Trebisov", "s_city_slug": "trebisov"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Vinne", "s_city_slug": "vinne"}, {"s_country_code": "SK", "s_region_slug": "kosice-region", "s_city_name": "Zehra", "s_city_slug": "zehra"}]}, {"s_country_code": "SK", "s_region_name": "Nitra Region", "s_region_slug": "nitra-region", "cities": [{"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Hurbanovo", "s_city_slug": "hurbanovo"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Kolarovo", "s_city_slug": "kolarovo"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Komarno", "s_city_slug": "komarno"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Levice", "s_city_slug": "levice"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Nitra", "s_city_slug": "nitra"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Nove Zamky", "s_city_slug": "nove-zamky"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Okres Komarno", "s_city_slug": "okres-komarno"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Okres Levice", "s_city_slug": "okres-levice"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Okres Nitra", "s_city_slug": "okres-nitra"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Okres Nove Zamky", "s_city_slug": "okres-nove-zamky"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Okres Sala", "s_city_slug": "okres-sala"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Okres Topolcany", "s_city_slug": "okres-topolcany"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Okres Zlate Moravce", "s_city_slug": "okres-zlate-moravce"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Sahy", "s_city_slug": "sahy"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Sala", "s_city_slug": "sala"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Sturovo", "s_city_slug": "sturovo"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Surany", "s_city_slug": "surany"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Svodin", "s_city_slug": "svodin"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Tlmace", "s_city_slug": "tlmace"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Topolcany", "s_city_slug": "topolcany"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Vrable", "s_city_slug": "vrable"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Zeliezovce", "s_city_slug": "zeliezovce"}, {"s_country_code": "SK", "s_region_slug": "nitra-region", "s_city_name": "Zlate Moravce", "s_city_slug": "zlate-moravce"}]}, {"s_country_code": "SK", "s_region_name": "Presov Region", "s_region_slug": "presov-region", "cities": [{"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Bardejov", "s_city_slug": "bardejov"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Chlmec", "s_city_slug": "chlmec"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Giraltovce", "s_city_slug": "giraltovce"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Humenne", "s_city_slug": "humenne"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Kezmarok", "s_city_slug": "kezmarok"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Levoca", "s_city_slug": "levoca"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Lipany", "s_city_slug": "lipany"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Lubica", "s_city_slug": "lubica"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Medzilaborce", "s_city_slug": "medzilaborce"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Nova Lesna", "s_city_slug": "nova-lesna"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Bardejov", "s_city_slug": "okres-bardejov"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Humenne", "s_city_slug": "okres-humenne"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Kezmarok", "s_city_slug": "okres-kezmarok"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Levoca", "s_city_slug": "okres-levoca"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Medzilaborce", "s_city_slug": "okres-medzilaborce"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Poprad", "s_city_slug": "okres-poprad"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Presov", "s_city_slug": "okres-presov"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Sabinov", "s_city_slug": "okres-sabinov"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Snina", "s_city_slug": "okres-snina"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Stara Lubovna", "s_city_slug": "okres-stara-lubovna"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Stropkov", "s_city_slug": "okres-stropkov"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Svidnik", "s_city_slug": "okres-svidnik"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Okres Vranov nad Toplou", "s_city_slug": "okres-vranov-nad-toplou"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Podolinec", "s_city_slug": "podolinec"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Poprad", "s_city_slug": "poprad"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Presov", "s_city_slug": "presov"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Sabinov", "s_city_slug": "sabinov"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Snina", "s_city_slug": "snina"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Spisska Bela", "s_city_slug": "spisska-bela"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Spisske Podhradie", "s_city_slug": "spisske-podhradie"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Stara Lubovna", "s_city_slug": "stara-lubovna"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Strba", "s_city_slug": "strba"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Stropkov", "s_city_slug": "stropkov"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Svidnik", "s_city_slug": "svidnik"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Svit", "s_city_slug": "svit"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Vranov nad Toplou", "s_city_slug": "vranov-nad-toplou"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Vrbov", "s_city_slug": "vrbov"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Vysne Ruzbachy", "s_city_slug": "vysne-ruzbachy"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Vysoke Tatry", "s_city_slug": "vysoke-tatry"}, {"s_country_code": "SK", "s_region_slug": "presov-region", "s_city_name": "Zdiar", "s_city_slug": "zdiar"}]}, {"s_country_code": "SK", "s_region_name": "Trencin Region", "s_region_slug": "trencin-region", "cities": [{"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Banovce nad Bebravou", "s_city_slug": "banovce-nad-bebravou"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Bojnice", "s_city_slug": "bojnice"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Brezova pod Bradlom", "s_city_slug": "brezova-pod-bradlom"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Cachtice", "s_city_slug": "cachtice"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Dubnica nad Vahom", "s_city_slug": "dubnica-nad-vahom"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Handlova", "s_city_slug": "handlova"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Ilava", "s_city_slug": "ilava"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Lehota pod Vtacnikom", "s_city_slug": "lehota-pod-vtacnikom"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Myjava", "s_city_slug": "myjava"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Nemsova", "s_city_slug": "nemsova"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Nova Dubnica", "s_city_slug": "nova-dubnica"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Novaky", "s_city_slug": "novaky"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Nove Mesto nad Vahom", "s_city_slug": "nove-mesto-nad-vahom"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Okres Banovce nad Bebravou", "s_city_slug": "okres-banovce-nad-bebravou"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Okres Ilava", "s_city_slug": "okres-ilava"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Okres Myjava", "s_city_slug": "okres-myjava"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Okres Nove Mesto nad Vahom", "s_city_slug": "okres-nove-mesto-nad-vahom"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Okres Partizanske", "s_city_slug": "okres-partizanske"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Okres Povazska Bystrica", "s_city_slug": "okres-povazska-bystrica"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Okres Prievidza", "s_city_slug": "okres-prievidza"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Okres Puchov", "s_city_slug": "okres-puchov"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Okres Trencin", "s_city_slug": "okres-trencin"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Partizanske", "s_city_slug": "partizanske"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Povazska Bystrica", "s_city_slug": "povazska-bystrica"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Prievidza", "s_city_slug": "prievidza"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Puchov", "s_city_slug": "puchov"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Stara Tura", "s_city_slug": "stara-tura"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Trencianske Teplice", "s_city_slug": "trencianske-teplice"}, {"s_country_code": "SK", "s_region_slug": "trencin-region", "s_city_name": "Trencin", "s_city_slug": "trencin"}]}, {"s_country_code": "SK", "s_region_name": "Trnava Region", "s_region_slug": "trnava-region", "cities": [{"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Dunajska Streda", "s_city_slug": "dunajska-streda"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Gabcikovo", "s_city_slug": "gabcikovo"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Galanta", "s_city_slug": "galanta"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Gbely", "s_city_slug": "gbely"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Hlohovec", "s_city_slug": "hlohovec"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Holic", "s_city_slug": "holic"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Leopoldov", "s_city_slug": "leopoldov"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Okres Dunajska Streda", "s_city_slug": "okres-dunajska-streda"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Okres Galanta", "s_city_slug": "okres-galanta"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Okres Hlohovec", "s_city_slug": "okres-hlohovec"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Okres Piestany", "s_city_slug": "okres-piestany"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Okres Senica", "s_city_slug": "okres-senica"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Okres Skalica", "s_city_slug": "okres-skalica"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Okres Trnava", "s_city_slug": "okres-trnava"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Piestany", "s_city_slug": "piestany"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Samorin", "s_city_slug": "samorin"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Senica", "s_city_slug": "senica"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Skalica", "s_city_slug": "skalica"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Sladkovicovo", "s_city_slug": "sladkovicovo"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Smolenice", "s_city_slug": "smolenice"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Trnava", "s_city_slug": "trnava"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Velky Meder", "s_city_slug": "velky-meder"}, {"s_country_code": "SK", "s_region_slug": "trnava-region", "s_city_name": "Vrbove", "s_city_slug": "vrbove"}]}, {"s_country_code": "SK", "s_region_name": "Zilina Region", "s_region_slug": "zilina-region", "cities": [{"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Bytca", "s_city_slug": "bytca"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Cadca", "s_city_slug": "cadca"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Dolny Kubin", "s_city_slug": "dolny-kubin"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Hybe", "s_city_slug": "hybe"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Krasnany", "s_city_slug": "krasnany"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Kysucke Nove Mesto", "s_city_slug": "kysucke-nove-mesto"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Liptovsky Hradok", "s_city_slug": "liptovsky-hradok"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Liptovsky Mikulas", "s_city_slug": "liptovsky-mikulas"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Lucky", "s_city_slug": "lucky"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Martin", "s_city_slug": "martin"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Namestovo", "s_city_slug": "namestovo"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Nizna", "s_city_slug": "nizna"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Okres Bytca", "s_city_slug": "okres-bytca"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Okres Cadca", "s_city_slug": "okres-cadca"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Okres Dolny Kubin", "s_city_slug": "okres-dolny-kubin"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Okres Kysucke Nove Mesto", "s_city_slug": "okres-kysucke-nove-mesto"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Okres Liptovsky Mikulas", "s_city_slug": "okres-liptovsky-mikulas"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Okres Martin", "s_city_slug": "okres-martin"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Okres Namestovo", "s_city_slug": "okres-namestovo"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Okres Ruzomberok", "s_city_slug": "okres-ruzomberok"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Okres Turcianske Teplice", "s_city_slug": "okres-turcianske-teplice"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Okres Tvrdosin", "s_city_slug": "okres-tvrdosin"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Okres Zilina", "s_city_slug": "okres-zilina"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Oravska Lesna", "s_city_slug": "oravska-lesna"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Oravsky Podzamok", "s_city_slug": "oravsky-podzamok"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Pribylina", "s_city_slug": "pribylina"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Rajec", "s_city_slug": "rajec"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Ruzomberok", "s_city_slug": "ruzomberok"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Terchova", "s_city_slug": "terchova"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Trstena", "s_city_slug": "trstena"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Turcianske Teplice", "s_city_slug": "turcianske-teplice"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Turzovka", "s_city_slug": "turzovka"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Tvrdosin", "s_city_slug": "tvrdosin"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Vrutky", "s_city_slug": "vrutky"}, {"s_country_code": "SK", "s_region_slug": "zilina-region", "s_city_name": "Zilina", "s_city_slug": "zilina"}]}]}
+{
+    "s_country_code": "SK",
+    "s_country_name": "Slovakia",
+    "s_country_slug": "slovakia",
+    "regions": [
+        {
+            "s_country_code": "SK",
+            "s_region_name": "Banska Bystrica Region",
+            "s_region_slug": "banska-bystrica-region",
+            "cities": [
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Banska Bystrica",
+                    "s_city_slug": "banska-bystrica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Banska Stiavnica",
+                    "s_city_slug": "banska-stiavnica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Brezno",
+                    "s_city_slug": "brezno"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Cierny Balog",
+                    "s_city_slug": "cierny-balog"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Detva",
+                    "s_city_slug": "detva"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Dudince",
+                    "s_city_slug": "dudince"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Filakovo",
+                    "s_city_slug": "filakovo"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Hrinova",
+                    "s_city_slug": "hrinova"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Hrochot,Slovakia",
+                    "s_city_slug": "hrochotslovakia"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Kovacova",
+                    "s_city_slug": "kovacova"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Kremnica",
+                    "s_city_slug": "kremnica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Krupina",
+                    "s_city_slug": "krupina"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Lucenec",
+                    "s_city_slug": "lucenec"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Nova Bana",
+                    "s_city_slug": "nova-bana"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Okres Banska Bystrica",
+                    "s_city_slug": "okres-banska-bystrica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Okres Banska Stiavnica",
+                    "s_city_slug": "okres-banska-stiavnica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Okres Brezno",
+                    "s_city_slug": "okres-brezno"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Okres Detva",
+                    "s_city_slug": "okres-detva"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Okres Krupina",
+                    "s_city_slug": "okres-krupina"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Okres Lucenec",
+                    "s_city_slug": "okres-lucenec"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Okres Poltar",
+                    "s_city_slug": "okres-poltar"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Okres Revuca",
+                    "s_city_slug": "okres-revuca"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Okres Velky Krtis",
+                    "s_city_slug": "okres-velky-krtis"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Okres Zarnovica",
+                    "s_city_slug": "okres-zarnovica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Okres Ziar nad Hronom",
+                    "s_city_slug": "okres-ziar-nad-hronom"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Okres Zvolen",
+                    "s_city_slug": "okres-zvolen"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Poltar",
+                    "s_city_slug": "poltar"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Revuca",
+                    "s_city_slug": "revuca"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Rimavska Sobota",
+                    "s_city_slug": "rimavska-sobota"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Svaty Anton",
+                    "s_city_slug": "svaty-anton"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Tisovec",
+                    "s_city_slug": "tisovec"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Velky Krtis",
+                    "s_city_slug": "velky-krtis"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Zarnovica",
+                    "s_city_slug": "zarnovica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Ziar nad Hronom",
+                    "s_city_slug": "ziar-nad-hronom"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "banska-bystrica-region",
+                    "s_city_name": "Zvolen",
+                    "s_city_slug": "zvolen"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SK",
+            "s_region_name": "Bratislava Region",
+            "s_region_slug": "bratislava-region",
+            "cities": [
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Bratislava",
+                    "s_city_slug": "bratislava"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Bratislava - Vajnory",
+                    "s_city_slug": "bratislava-vajnory"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Dunajska Luzna",
+                    "s_city_slug": "dunajska-luzna"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Ivanka pri Dunaji",
+                    "s_city_slug": "ivanka-pri-dunaji"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Malacky",
+                    "s_city_slug": "malacky"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Marianka",
+                    "s_city_slug": "marianka"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Modra",
+                    "s_city_slug": "modra"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Okres Bratislava I",
+                    "s_city_slug": "okres-bratislava-i"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Okres Bratislava II",
+                    "s_city_slug": "okres-bratislava-ii"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Okres Bratislava III",
+                    "s_city_slug": "okres-bratislava-iii"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Okres Bratislava IV",
+                    "s_city_slug": "okres-bratislava-iv"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Okres Bratislava V",
+                    "s_city_slug": "okres-bratislava-v"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Okres Malacky",
+                    "s_city_slug": "okres-malacky"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Okres Pezinok",
+                    "s_city_slug": "okres-pezinok"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Okres Senec",
+                    "s_city_slug": "okres-senec"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Pezinok",
+                    "s_city_slug": "pezinok"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Senec",
+                    "s_city_slug": "senec"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Stupava",
+                    "s_city_slug": "stupava"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Svaty Jur",
+                    "s_city_slug": "svaty-jur"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "bratislava-region",
+                    "s_city_name": "Vinosady",
+                    "s_city_slug": "vinosady"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SK",
+            "s_region_name": "Kosice Region",
+            "s_region_slug": "kosice-region",
+            "cities": [
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Cierna nad Tisou",
+                    "s_city_slug": "cierna-nad-tisou"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Dobsina",
+                    "s_city_slug": "dobsina"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Gelnica",
+                    "s_city_slug": "gelnica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Kavecany",
+                    "s_city_slug": "kavecany"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Kosice",
+                    "s_city_slug": "kosice"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Kosice I",
+                    "s_city_slug": "kosice-i"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Kosice II",
+                    "s_city_slug": "kosice-ii"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Kosice III",
+                    "s_city_slug": "kosice-iii"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Kosice IV",
+                    "s_city_slug": "kosice-iv"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Krompachy",
+                    "s_city_slug": "krompachy"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Medzev",
+                    "s_city_slug": "medzev"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Michalovce",
+                    "s_city_slug": "michalovce"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Moldava nad Bodvou",
+                    "s_city_slug": "moldava-nad-bodvou"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Okres Gelnica",
+                    "s_city_slug": "okres-gelnica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Okres Kosice-okolie",
+                    "s_city_slug": "okres-kosice-okolie"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Okres Michalovce",
+                    "s_city_slug": "okres-michalovce"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Okres Roznava",
+                    "s_city_slug": "okres-roznava"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Okres Sobrance",
+                    "s_city_slug": "okres-sobrance"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Okres Spisska Nova Ves",
+                    "s_city_slug": "okres-spisska-nova-ves"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Okres Trebisov",
+                    "s_city_slug": "okres-trebisov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Roznava",
+                    "s_city_slug": "roznava"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Secovce",
+                    "s_city_slug": "secovce"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Sobrance",
+                    "s_city_slug": "sobrance"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Spisska Nova Ves",
+                    "s_city_slug": "spisska-nova-ves"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Strazske",
+                    "s_city_slug": "strazske"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Trebisov",
+                    "s_city_slug": "trebisov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Vinne",
+                    "s_city_slug": "vinne"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "kosice-region",
+                    "s_city_name": "Zehra",
+                    "s_city_slug": "zehra"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SK",
+            "s_region_name": "Nitra Region",
+            "s_region_slug": "nitra-region",
+            "cities": [
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Hurbanovo",
+                    "s_city_slug": "hurbanovo"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Kolarovo",
+                    "s_city_slug": "kolarovo"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Komarno",
+                    "s_city_slug": "komarno"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Levice",
+                    "s_city_slug": "levice"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Nitra",
+                    "s_city_slug": "nitra"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Nove Zamky",
+                    "s_city_slug": "nove-zamky"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Okres Komarno",
+                    "s_city_slug": "okres-komarno"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Okres Levice",
+                    "s_city_slug": "okres-levice"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Okres Nitra",
+                    "s_city_slug": "okres-nitra"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Okres Nove Zamky",
+                    "s_city_slug": "okres-nove-zamky"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Okres Sala",
+                    "s_city_slug": "okres-sala"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Okres Topolcany",
+                    "s_city_slug": "okres-topolcany"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Okres Zlate Moravce",
+                    "s_city_slug": "okres-zlate-moravce"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Sahy",
+                    "s_city_slug": "sahy"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Sala",
+                    "s_city_slug": "sala"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Sturovo",
+                    "s_city_slug": "sturovo"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Surany",
+                    "s_city_slug": "surany"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Svodin",
+                    "s_city_slug": "svodin"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Tlmace",
+                    "s_city_slug": "tlmace"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Topolcany",
+                    "s_city_slug": "topolcany"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Vrable",
+                    "s_city_slug": "vrable"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Zeliezovce",
+                    "s_city_slug": "zeliezovce"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "nitra-region",
+                    "s_city_name": "Zlate Moravce",
+                    "s_city_slug": "zlate-moravce"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SK",
+            "s_region_name": "Presov Region",
+            "s_region_slug": "presov-region",
+            "cities": [
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Bardejov",
+                    "s_city_slug": "bardejov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Chlmec",
+                    "s_city_slug": "chlmec"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Giraltovce",
+                    "s_city_slug": "giraltovce"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Humenne",
+                    "s_city_slug": "humenne"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Kezmarok",
+                    "s_city_slug": "kezmarok"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Levoca",
+                    "s_city_slug": "levoca"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Lipany",
+                    "s_city_slug": "lipany"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Lubica",
+                    "s_city_slug": "lubica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Medzilaborce",
+                    "s_city_slug": "medzilaborce"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Nova Lesna",
+                    "s_city_slug": "nova-lesna"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Bardejov",
+                    "s_city_slug": "okres-bardejov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Humenne",
+                    "s_city_slug": "okres-humenne"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Kezmarok",
+                    "s_city_slug": "okres-kezmarok"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Levoca",
+                    "s_city_slug": "okres-levoca"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Medzilaborce",
+                    "s_city_slug": "okres-medzilaborce"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Poprad",
+                    "s_city_slug": "okres-poprad"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Presov",
+                    "s_city_slug": "okres-presov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Sabinov",
+                    "s_city_slug": "okres-sabinov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Snina",
+                    "s_city_slug": "okres-snina"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Stara Lubovna",
+                    "s_city_slug": "okres-stara-lubovna"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Stropkov",
+                    "s_city_slug": "okres-stropkov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Svidnik",
+                    "s_city_slug": "okres-svidnik"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Okres Vranov nad Toplou",
+                    "s_city_slug": "okres-vranov-nad-toplou"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Podolinec",
+                    "s_city_slug": "podolinec"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Poprad",
+                    "s_city_slug": "poprad"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Presov",
+                    "s_city_slug": "presov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Sabinov",
+                    "s_city_slug": "sabinov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Snina",
+                    "s_city_slug": "snina"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Spisska Bela",
+                    "s_city_slug": "spisska-bela"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Spisske Podhradie",
+                    "s_city_slug": "spisske-podhradie"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Stara Lubovna",
+                    "s_city_slug": "stara-lubovna"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Strba",
+                    "s_city_slug": "strba"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Stropkov",
+                    "s_city_slug": "stropkov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Svidnik",
+                    "s_city_slug": "svidnik"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Svit",
+                    "s_city_slug": "svit"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Vranov nad Toplou",
+                    "s_city_slug": "vranov-nad-toplou"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Vrbov",
+                    "s_city_slug": "vrbov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Vysne Ruzbachy",
+                    "s_city_slug": "vysne-ruzbachy"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Vysoke Tatry",
+                    "s_city_slug": "vysoke-tatry"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "presov-region",
+                    "s_city_name": "Zdiar",
+                    "s_city_slug": "zdiar"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SK",
+            "s_region_name": "Trencin Region",
+            "s_region_slug": "trencin-region",
+            "cities": [
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Banovce nad Bebravou",
+                    "s_city_slug": "banovce-nad-bebravou"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Bojnice",
+                    "s_city_slug": "bojnice"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Brezova pod Bradlom",
+                    "s_city_slug": "brezova-pod-bradlom"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Cachtice",
+                    "s_city_slug": "cachtice"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Dubnica nad Vahom",
+                    "s_city_slug": "dubnica-nad-vahom"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Handlova",
+                    "s_city_slug": "handlova"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Ilava",
+                    "s_city_slug": "ilava"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Lehota pod Vtacnikom",
+                    "s_city_slug": "lehota-pod-vtacnikom"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Myjava",
+                    "s_city_slug": "myjava"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Nemsova",
+                    "s_city_slug": "nemsova"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Nova Dubnica",
+                    "s_city_slug": "nova-dubnica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Novaky",
+                    "s_city_slug": "novaky"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Nove Mesto nad Vahom",
+                    "s_city_slug": "nove-mesto-nad-vahom"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Okres Banovce nad Bebravou",
+                    "s_city_slug": "okres-banovce-nad-bebravou"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Okres Ilava",
+                    "s_city_slug": "okres-ilava"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Okres Myjava",
+                    "s_city_slug": "okres-myjava"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Okres Nove Mesto nad Vahom",
+                    "s_city_slug": "okres-nove-mesto-nad-vahom"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Okres Partizanske",
+                    "s_city_slug": "okres-partizanske"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Okres Povazska Bystrica",
+                    "s_city_slug": "okres-povazska-bystrica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Okres Prievidza",
+                    "s_city_slug": "okres-prievidza"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Okres Puchov",
+                    "s_city_slug": "okres-puchov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Okres Trencin",
+                    "s_city_slug": "okres-trencin"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Partizanske",
+                    "s_city_slug": "partizanske"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Povazska Bystrica",
+                    "s_city_slug": "povazska-bystrica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Prievidza",
+                    "s_city_slug": "prievidza"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Puchov",
+                    "s_city_slug": "puchov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Stara Tura",
+                    "s_city_slug": "stara-tura"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Trencianske Teplice",
+                    "s_city_slug": "trencianske-teplice"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trencin-region",
+                    "s_city_name": "Trencin",
+                    "s_city_slug": "trencin"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SK",
+            "s_region_name": "Trnava Region",
+            "s_region_slug": "trnava-region",
+            "cities": [
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Dunajska Streda",
+                    "s_city_slug": "dunajska-streda"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Gabcikovo",
+                    "s_city_slug": "gabcikovo"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Galanta",
+                    "s_city_slug": "galanta"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Gbely",
+                    "s_city_slug": "gbely"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Hlohovec",
+                    "s_city_slug": "hlohovec"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Holic",
+                    "s_city_slug": "holic"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Leopoldov",
+                    "s_city_slug": "leopoldov"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Okres Dunajska Streda",
+                    "s_city_slug": "okres-dunajska-streda"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Okres Galanta",
+                    "s_city_slug": "okres-galanta"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Okres Hlohovec",
+                    "s_city_slug": "okres-hlohovec"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Okres Piestany",
+                    "s_city_slug": "okres-piestany"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Okres Senica",
+                    "s_city_slug": "okres-senica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Okres Skalica",
+                    "s_city_slug": "okres-skalica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Okres Trnava",
+                    "s_city_slug": "okres-trnava"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Piestany",
+                    "s_city_slug": "piestany"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Samorin",
+                    "s_city_slug": "samorin"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Senica",
+                    "s_city_slug": "senica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Skalica",
+                    "s_city_slug": "skalica"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Sladkovicovo",
+                    "s_city_slug": "sladkovicovo"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Smolenice",
+                    "s_city_slug": "smolenice"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Trnava",
+                    "s_city_slug": "trnava"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Velky Meder",
+                    "s_city_slug": "velky-meder"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "trnava-region",
+                    "s_city_name": "Vrbove",
+                    "s_city_slug": "vrbove"
+                }
+            ]
+        },
+        {
+            "s_country_code": "SK",
+            "s_region_name": "Zilina Region",
+            "s_region_slug": "zilina-region",
+            "cities": [
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Bytca",
+                    "s_city_slug": "bytca"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Cadca",
+                    "s_city_slug": "cadca"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Dolny Kubin",
+                    "s_city_slug": "dolny-kubin"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Hybe",
+                    "s_city_slug": "hybe"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Krasnany",
+                    "s_city_slug": "krasnany"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Kysucke Nove Mesto",
+                    "s_city_slug": "kysucke-nove-mesto"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Liptovsky Hradok",
+                    "s_city_slug": "liptovsky-hradok"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Liptovsky Mikulas",
+                    "s_city_slug": "liptovsky-mikulas"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Lucky",
+                    "s_city_slug": "lucky"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Martin",
+                    "s_city_slug": "martin"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Namestovo",
+                    "s_city_slug": "namestovo"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Nizna",
+                    "s_city_slug": "nizna"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Okres Bytca",
+                    "s_city_slug": "okres-bytca"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Okres Cadca",
+                    "s_city_slug": "okres-cadca"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Okres Dolny Kubin",
+                    "s_city_slug": "okres-dolny-kubin"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Okres Kysucke Nove Mesto",
+                    "s_city_slug": "okres-kysucke-nove-mesto"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Okres Liptovsky Mikulas",
+                    "s_city_slug": "okres-liptovsky-mikulas"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Okres Martin",
+                    "s_city_slug": "okres-martin"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Okres Namestovo",
+                    "s_city_slug": "okres-namestovo"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Okres Ruzomberok",
+                    "s_city_slug": "okres-ruzomberok"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Okres Turcianske Teplice",
+                    "s_city_slug": "okres-turcianske-teplice"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Okres Tvrdosin",
+                    "s_city_slug": "okres-tvrdosin"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Okres Zilina",
+                    "s_city_slug": "okres-zilina"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Oravska Lesna",
+                    "s_city_slug": "oravska-lesna"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Oravsky Podzamok",
+                    "s_city_slug": "oravsky-podzamok"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Pribylina",
+                    "s_city_slug": "pribylina"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Rajec",
+                    "s_city_slug": "rajec"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Ruzomberok",
+                    "s_city_slug": "ruzomberok"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Terchova",
+                    "s_city_slug": "terchova"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Trstena",
+                    "s_city_slug": "trstena"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Turcianske Teplice",
+                    "s_city_slug": "turcianske-teplice"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Turzovka",
+                    "s_city_slug": "turzovka"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Tvrdosin",
+                    "s_city_slug": "tvrdosin"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Vrutky",
+                    "s_city_slug": "vrutky"
+                },
+                {
+                    "s_country_code": "SK",
+                    "s_region_slug": "zilina-region",
+                    "s_city_name": "Zilina",
+                    "s_city_slug": "zilina"
+                }
+            ]
+        }
+    ]
+}

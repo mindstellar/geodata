@@ -1,1 +1,369 @@
-{"s_country_code": "MV", "s_country_name": "Maldives", "s_country_slug": "maldives", "regions": [{"s_country_code": "MV", "s_region_name": "Addu Atoll", "s_region_slug": "addu-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "addu-atoll", "s_city_name": "Hithadhoo", "s_city_slug": "hithadhoo"}, {"s_country_code": "MV", "s_region_slug": "addu-atoll", "s_city_name": "Meedhoo", "s_city_slug": "meedhoo"}]}, {"s_country_code": "MV", "s_region_name": "Alif Alif Atoll", "s_region_slug": "alif-alif-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "alif-alif-atoll", "s_city_name": "Alif Alif Atoll", "s_city_slug": "alif-alif-atoll"}]}, {"s_country_code": "MV", "s_region_name": "Alif Dhaal Atoll", "s_region_slug": "alif-dhaal-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "alif-dhaal-atoll", "s_city_name": "Alif Dhaal Atoll", "s_city_slug": "alif-dhaal-atoll"}]}, {"s_country_code": "MV", "s_region_name": "Central Province", "s_region_slug": "central-province", "cities": [{"s_country_code": "MV", "s_region_slug": "central-province", "s_city_name": "Central Province", "s_city_slug": "central-province"}]}, {"s_country_code": "MV", "s_region_name": "Dhaalu Atoll", "s_region_slug": "dhaalu-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "dhaalu-atoll", "s_city_name": "Kudahuvadhoo", "s_city_slug": "kudahuvadhoo"}]}, {"s_country_code": "MV", "s_region_name": "Faafu Atoll", "s_region_slug": "faafu-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "faafu-atoll", "s_city_name": "Faafu Atoll", "s_city_slug": "faafu-atoll"}]}, {"s_country_code": "MV", "s_region_name": "Gaafu Alif Atoll", "s_region_slug": "gaafu-alif-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "gaafu-alif-atoll", "s_city_name": "Viligili", "s_city_slug": "viligili"}]}, {"s_country_code": "MV", "s_region_name": "Gaafu Dhaalu Atoll", "s_region_slug": "gaafu-dhaalu-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "gaafu-dhaalu-atoll", "s_city_name": "Thinadhoo", "s_city_slug": "thinadhoo"}]}, {"s_country_code": "MV", "s_region_name": "Gnaviyani Atoll", "s_region_slug": "gnaviyani-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "gnaviyani-atoll", "s_city_name": "Fuvahmulah", "s_city_slug": "fuvahmulah"}]}, {"s_country_code": "MV", "s_region_name": "Haa Alif Atoll", "s_region_slug": "haa-alif-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "haa-alif-atoll", "s_city_name": "Dhidhdhoo", "s_city_slug": "dhidhdhoo"}]}, {"s_country_code": "MV", "s_region_name": "Haa Dhaalu Atoll", "s_region_slug": "haa-dhaalu-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "haa-dhaalu-atoll", "s_city_name": "Kulhudhuffushi", "s_city_slug": "kulhudhuffushi"}]}, {"s_country_code": "MV", "s_region_name": "Kaafu Atoll", "s_region_slug": "kaafu-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "kaafu-atoll", "s_city_name": "Guraidhoo", "s_city_slug": "guraidhoo"}, {"s_country_code": "MV", "s_region_slug": "kaafu-atoll", "s_city_name": "Hulhumale", "s_city_slug": "hulhumale"}, {"s_country_code": "MV", "s_region_slug": "kaafu-atoll", "s_city_name": "Maafushi", "s_city_slug": "maafushi"}, {"s_country_code": "MV", "s_region_slug": "kaafu-atoll", "s_city_name": "Male", "s_city_slug": "male"}]}, {"s_country_code": "MV", "s_region_name": "Laamu Atoll", "s_region_slug": "laamu-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "laamu-atoll", "s_city_name": "Fonadhoo", "s_city_slug": "fonadhoo"}]}, {"s_country_code": "MV", "s_region_name": "Lhaviyani Atoll", "s_region_slug": "lhaviyani-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "lhaviyani-atoll", "s_city_name": "Naifaru", "s_city_slug": "naifaru"}]}, {"s_country_code": "MV", "s_region_name": "Male", "s_region_slug": "male", "cities": [{"s_country_code": "MV", "s_region_slug": "male", "s_city_name": "Male", "s_city_slug": "male"}]}, {"s_country_code": "MV", "s_region_name": "Meemu Atoll", "s_region_slug": "meemu-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "meemu-atoll", "s_city_name": "Muli", "s_city_slug": "muli"}]}, {"s_country_code": "MV", "s_region_name": "Noonu Atoll", "s_region_slug": "noonu-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "noonu-atoll", "s_city_name": "Manadhoo", "s_city_slug": "manadhoo"}]}, {"s_country_code": "MV", "s_region_name": "North Central Province", "s_region_slug": "north-central-province", "cities": [{"s_country_code": "MV", "s_region_slug": "north-central-province", "s_city_name": "North Central Province", "s_city_slug": "north-central-province"}]}, {"s_country_code": "MV", "s_region_name": "North Province", "s_region_slug": "north-province", "cities": [{"s_country_code": "MV", "s_region_slug": "north-province", "s_city_name": "North Province", "s_city_slug": "north-province"}]}, {"s_country_code": "MV", "s_region_name": "Raa Atoll", "s_region_slug": "raa-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "raa-atoll", "s_city_name": "Ugoofaaru", "s_city_slug": "ugoofaaru"}]}, {"s_country_code": "MV", "s_region_name": "Shaviyani Atoll", "s_region_slug": "shaviyani-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "shaviyani-atoll", "s_city_name": "Funadhoo", "s_city_slug": "funadhoo"}]}, {"s_country_code": "MV", "s_region_name": "South Central Province", "s_region_slug": "south-central-province", "cities": [{"s_country_code": "MV", "s_region_slug": "south-central-province", "s_city_name": "Mahibadhoo", "s_city_slug": "mahibadhoo"}]}, {"s_country_code": "MV", "s_region_name": "South Province", "s_region_slug": "south-province", "cities": [{"s_country_code": "MV", "s_region_slug": "south-province", "s_city_name": "South Province", "s_city_slug": "south-province"}]}, {"s_country_code": "MV", "s_region_name": "Thaa Atoll", "s_region_slug": "thaa-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "thaa-atoll", "s_city_name": "Veymandoo", "s_city_slug": "veymandoo"}]}, {"s_country_code": "MV", "s_region_name": "Upper South Province", "s_region_slug": "upper-south-province", "cities": [{"s_country_code": "MV", "s_region_slug": "upper-south-province", "s_city_name": "Upper South Province", "s_city_slug": "upper-south-province"}]}, {"s_country_code": "MV", "s_region_name": "Vaavu Atoll", "s_region_slug": "vaavu-atoll", "cities": [{"s_country_code": "MV", "s_region_slug": "vaavu-atoll", "s_city_name": "Felidhoo", "s_city_slug": "felidhoo"}]}]}
+{
+    "s_country_code": "MV",
+    "s_country_name": "Maldives",
+    "s_country_slug": "maldives",
+    "regions": [
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Addu Atoll",
+            "s_region_slug": "addu-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "addu-atoll",
+                    "s_city_name": "Hithadhoo",
+                    "s_city_slug": "hithadhoo"
+                },
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "addu-atoll",
+                    "s_city_name": "Meedhoo",
+                    "s_city_slug": "meedhoo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Alif Alif Atoll",
+            "s_region_slug": "alif-alif-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "alif-alif-atoll",
+                    "s_city_name": "Alif Alif Atoll",
+                    "s_city_slug": "alif-alif-atoll"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Alif Dhaal Atoll",
+            "s_region_slug": "alif-dhaal-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "alif-dhaal-atoll",
+                    "s_city_name": "Alif Dhaal Atoll",
+                    "s_city_slug": "alif-dhaal-atoll"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Central Province",
+            "s_region_slug": "central-province",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "central-province",
+                    "s_city_name": "Central Province",
+                    "s_city_slug": "central-province"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Dhaalu Atoll",
+            "s_region_slug": "dhaalu-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "dhaalu-atoll",
+                    "s_city_name": "Kudahuvadhoo",
+                    "s_city_slug": "kudahuvadhoo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Faafu Atoll",
+            "s_region_slug": "faafu-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "faafu-atoll",
+                    "s_city_name": "Faafu Atoll",
+                    "s_city_slug": "faafu-atoll"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Gaafu Alif Atoll",
+            "s_region_slug": "gaafu-alif-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "gaafu-alif-atoll",
+                    "s_city_name": "Viligili",
+                    "s_city_slug": "viligili"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Gaafu Dhaalu Atoll",
+            "s_region_slug": "gaafu-dhaalu-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "gaafu-dhaalu-atoll",
+                    "s_city_name": "Thinadhoo",
+                    "s_city_slug": "thinadhoo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Gnaviyani Atoll",
+            "s_region_slug": "gnaviyani-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "gnaviyani-atoll",
+                    "s_city_name": "Fuvahmulah",
+                    "s_city_slug": "fuvahmulah"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Haa Alif Atoll",
+            "s_region_slug": "haa-alif-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "haa-alif-atoll",
+                    "s_city_name": "Dhidhdhoo",
+                    "s_city_slug": "dhidhdhoo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Haa Dhaalu Atoll",
+            "s_region_slug": "haa-dhaalu-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "haa-dhaalu-atoll",
+                    "s_city_name": "Kulhudhuffushi",
+                    "s_city_slug": "kulhudhuffushi"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Kaafu Atoll",
+            "s_region_slug": "kaafu-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "kaafu-atoll",
+                    "s_city_name": "Guraidhoo",
+                    "s_city_slug": "guraidhoo"
+                },
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "kaafu-atoll",
+                    "s_city_name": "Hulhumale",
+                    "s_city_slug": "hulhumale"
+                },
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "kaafu-atoll",
+                    "s_city_name": "Maafushi",
+                    "s_city_slug": "maafushi"
+                },
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "kaafu-atoll",
+                    "s_city_name": "Male",
+                    "s_city_slug": "male"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Laamu Atoll",
+            "s_region_slug": "laamu-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "laamu-atoll",
+                    "s_city_name": "Fonadhoo",
+                    "s_city_slug": "fonadhoo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Lhaviyani Atoll",
+            "s_region_slug": "lhaviyani-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "lhaviyani-atoll",
+                    "s_city_name": "Naifaru",
+                    "s_city_slug": "naifaru"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Male",
+            "s_region_slug": "male",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "male",
+                    "s_city_name": "Male",
+                    "s_city_slug": "male"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Meemu Atoll",
+            "s_region_slug": "meemu-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "meemu-atoll",
+                    "s_city_name": "Muli",
+                    "s_city_slug": "muli"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Noonu Atoll",
+            "s_region_slug": "noonu-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "noonu-atoll",
+                    "s_city_name": "Manadhoo",
+                    "s_city_slug": "manadhoo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "North Central Province",
+            "s_region_slug": "north-central-province",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "north-central-province",
+                    "s_city_name": "North Central Province",
+                    "s_city_slug": "north-central-province"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "North Province",
+            "s_region_slug": "north-province",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "north-province",
+                    "s_city_name": "North Province",
+                    "s_city_slug": "north-province"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Raa Atoll",
+            "s_region_slug": "raa-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "raa-atoll",
+                    "s_city_name": "Ugoofaaru",
+                    "s_city_slug": "ugoofaaru"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Shaviyani Atoll",
+            "s_region_slug": "shaviyani-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "shaviyani-atoll",
+                    "s_city_name": "Funadhoo",
+                    "s_city_slug": "funadhoo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "South Central Province",
+            "s_region_slug": "south-central-province",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "south-central-province",
+                    "s_city_name": "Mahibadhoo",
+                    "s_city_slug": "mahibadhoo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "South Province",
+            "s_region_slug": "south-province",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "south-province",
+                    "s_city_name": "South Province",
+                    "s_city_slug": "south-province"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Thaa Atoll",
+            "s_region_slug": "thaa-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "thaa-atoll",
+                    "s_city_name": "Veymandoo",
+                    "s_city_slug": "veymandoo"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Upper South Province",
+            "s_region_slug": "upper-south-province",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "upper-south-province",
+                    "s_city_name": "Upper South Province",
+                    "s_city_slug": "upper-south-province"
+                }
+            ]
+        },
+        {
+            "s_country_code": "MV",
+            "s_region_name": "Vaavu Atoll",
+            "s_region_slug": "vaavu-atoll",
+            "cities": [
+                {
+                    "s_country_code": "MV",
+                    "s_region_slug": "vaavu-atoll",
+                    "s_city_name": "Felidhoo",
+                    "s_city_slug": "felidhoo"
+                }
+            ]
+        }
+    ]
+}

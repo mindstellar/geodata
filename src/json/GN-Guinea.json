@@ -1,1 +1,809 @@
-{"s_country_code": "GN", "s_country_name": "Guinea", "s_country_slug": "guinea", "regions": [{"s_country_code": "GN", "s_region_name": "Beyla Prefecture", "s_region_slug": "beyla-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "beyla-prefecture", "s_city_name": "Beyla Prefecture", "s_city_slug": "beyla-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Boffa Prefecture", "s_region_slug": "boffa-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "boffa-prefecture", "s_city_name": "Boffa Prefecture", "s_city_slug": "boffa-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Boke Prefecture", "s_region_slug": "boke-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "boke-prefecture", "s_city_name": "Boke Prefecture", "s_city_slug": "boke-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Boke Region", "s_region_slug": "boke-region", "cities": [{"s_country_code": "GN", "s_region_slug": "boke-region", "s_city_name": "Boffa", "s_city_slug": "boffa"}, {"s_country_code": "GN", "s_region_slug": "boke-region", "s_city_name": "Boke", "s_city_slug": "boke"}, {"s_country_code": "GN", "s_region_slug": "boke-region", "s_city_name": "Boke Prefecture", "s_city_slug": "boke-prefecture"}, {"s_country_code": "GN", "s_region_slug": "boke-region", "s_city_name": "Fria", "s_city_slug": "fria"}, {"s_country_code": "GN", "s_region_slug": "boke-region", "s_city_name": "Gaoual", "s_city_slug": "gaoual"}, {"s_country_code": "GN", "s_region_slug": "boke-region", "s_city_name": "Gaoual Prefecture", "s_city_slug": "gaoual-prefecture"}, {"s_country_code": "GN", "s_region_slug": "boke-region", "s_city_name": "Kimbo", "s_city_slug": "kimbo"}, {"s_country_code": "GN", "s_region_slug": "boke-region", "s_city_name": "Koundara", "s_city_slug": "koundara"}, {"s_country_code": "GN", "s_region_slug": "boke-region", "s_city_name": "Koundara Prefecture", "s_city_slug": "koundara-prefecture"}, {"s_country_code": "GN", "s_region_slug": "boke-region", "s_city_name": "Sangueya", "s_city_slug": "sangueya"}, {"s_country_code": "GN", "s_region_slug": "boke-region", "s_city_name": "Youkounkoun", "s_city_slug": "youkounkoun"}]}, {"s_country_code": "GN", "s_region_name": "Conakry", "s_region_slug": "conakry", "cities": [{"s_country_code": "GN", "s_region_slug": "conakry", "s_city_name": "Camayenne", "s_city_slug": "camayenne"}, {"s_country_code": "GN", "s_region_slug": "conakry", "s_city_name": "Conakry", "s_city_slug": "conakry"}]}, {"s_country_code": "GN", "s_region_name": "Coyah Prefecture", "s_region_slug": "coyah-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "coyah-prefecture", "s_city_name": "Coyah Prefecture", "s_city_slug": "coyah-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Dabola Prefecture", "s_region_slug": "dabola-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "dabola-prefecture", "s_city_name": "Dabola Prefecture", "s_city_slug": "dabola-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Dalaba Prefecture", "s_region_slug": "dalaba-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "dalaba-prefecture", "s_city_name": "Dalaba Prefecture", "s_city_slug": "dalaba-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Dinguiraye Prefecture", "s_region_slug": "dinguiraye-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "dinguiraye-prefecture", "s_city_name": "Dinguiraye Prefecture", "s_city_slug": "dinguiraye-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Dubreka Prefecture", "s_region_slug": "dubreka-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "dubreka-prefecture", "s_city_name": "Dubreka Prefecture", "s_city_slug": "dubreka-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Faranah Prefecture", "s_region_slug": "faranah-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "faranah-prefecture", "s_city_name": "Faranah Prefecture", "s_city_slug": "faranah-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Forecariah Prefecture", "s_region_slug": "forecariah-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "forecariah-prefecture", "s_city_name": "Forecariah Prefecture", "s_city_slug": "forecariah-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Fria Prefecture", "s_region_slug": "fria-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "fria-prefecture", "s_city_name": "Fria Prefecture", "s_city_slug": "fria-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Gaoual Prefecture", "s_region_slug": "gaoual-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "gaoual-prefecture", "s_city_name": "Gaoual Prefecture", "s_city_slug": "gaoual-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Gueckedou Prefecture", "s_region_slug": "gueckedou-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "gueckedou-prefecture", "s_city_name": "Gueckedou Prefecture", "s_city_slug": "gueckedou-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Kankan Prefecture", "s_region_slug": "kankan-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "kankan-prefecture", "s_city_name": "Kankan Prefecture", "s_city_slug": "kankan-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Kankan Region", "s_region_slug": "kankan-region", "cities": [{"s_country_code": "GN", "s_region_slug": "kankan-region", "s_city_name": "Kankan", "s_city_slug": "kankan"}, {"s_country_code": "GN", "s_region_slug": "kankan-region", "s_city_name": "Kankan Prefecture", "s_city_slug": "kankan-prefecture"}, {"s_country_code": "GN", "s_region_slug": "kankan-region", "s_city_name": "Kerouane", "s_city_slug": "kerouane"}, {"s_country_code": "GN", "s_region_slug": "kankan-region", "s_city_name": "Kerouane Prefecture", "s_city_slug": "kerouane-prefecture"}, {"s_country_code": "GN", "s_region_slug": "kankan-region", "s_city_name": "Kouroussa", "s_city_slug": "kouroussa"}, {"s_country_code": "GN", "s_region_slug": "kankan-region", "s_city_name": "Mandiana", "s_city_slug": "mandiana"}, {"s_country_code": "GN", "s_region_slug": "kankan-region", "s_city_name": "Mandiana Prefecture", "s_city_slug": "mandiana-prefecture"}, {"s_country_code": "GN", "s_region_slug": "kankan-region", "s_city_name": "Siguiri", "s_city_slug": "siguiri"}, {"s_country_code": "GN", "s_region_slug": "kankan-region", "s_city_name": "Siguiri Prefecture", "s_city_slug": "siguiri-prefecture"}, {"s_country_code": "GN", "s_region_slug": "kankan-region", "s_city_name": "Tokonou", "s_city_slug": "tokonou"}]}, {"s_country_code": "GN", "s_region_name": "Kerouane Prefecture", "s_region_slug": "kerouane-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "kerouane-prefecture", "s_city_name": "Kerouane Prefecture", "s_city_slug": "kerouane-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Kindia Prefecture", "s_region_slug": "kindia-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "kindia-prefecture", "s_city_name": "Kindia Prefecture", "s_city_slug": "kindia-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Kindia Region", "s_region_slug": "kindia-region", "cities": [{"s_country_code": "GN", "s_region_slug": "kindia-region", "s_city_name": "Coyah", "s_city_slug": "coyah"}, {"s_country_code": "GN", "s_region_slug": "kindia-region", "s_city_name": "Dubreka", "s_city_slug": "dubreka"}, {"s_country_code": "GN", "s_region_slug": "kindia-region", "s_city_name": "Forecariah", "s_city_slug": "forecariah"}, {"s_country_code": "GN", "s_region_slug": "kindia-region", "s_city_name": "Kindia", "s_city_slug": "kindia"}, {"s_country_code": "GN", "s_region_slug": "kindia-region", "s_city_name": "Prefecture de Dubreka", "s_city_slug": "prefecture-de-dubreka"}, {"s_country_code": "GN", "s_region_slug": "kindia-region", "s_city_name": "Prefecture de Forecariah", "s_city_slug": "prefecture-de-forecariah"}, {"s_country_code": "GN", "s_region_slug": "kindia-region", "s_city_name": "Telimele", "s_city_slug": "telimele"}, {"s_country_code": "GN", "s_region_slug": "kindia-region", "s_city_name": "Telimele Prefecture", "s_city_slug": "telimele-prefecture"}, {"s_country_code": "GN", "s_region_slug": "kindia-region", "s_city_name": "Tondon", "s_city_slug": "tondon"}]}, {"s_country_code": "GN", "s_region_name": "Kissidougou Prefecture", "s_region_slug": "kissidougou-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "kissidougou-prefecture", "s_city_name": "Kissidougou Prefecture", "s_city_slug": "kissidougou-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Koubia Prefecture", "s_region_slug": "koubia-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "koubia-prefecture", "s_city_name": "Koubia Prefecture", "s_city_slug": "koubia-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Koundara Prefecture", "s_region_slug": "koundara-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "koundara-prefecture", "s_city_name": "Koundara Prefecture", "s_city_slug": "koundara-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Kouroussa Prefecture", "s_region_slug": "kouroussa-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "kouroussa-prefecture", "s_city_name": "Kouroussa Prefecture", "s_city_slug": "kouroussa-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Labe Prefecture", "s_region_slug": "labe-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "labe-prefecture", "s_city_name": "Labe Prefecture", "s_city_slug": "labe-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Labe Region", "s_region_slug": "labe-region", "cities": [{"s_country_code": "GN", "s_region_slug": "labe-region", "s_city_name": "Koubia", "s_city_slug": "koubia"}, {"s_country_code": "GN", "s_region_slug": "labe-region", "s_city_name": "Labe", "s_city_slug": "labe"}, {"s_country_code": "GN", "s_region_slug": "labe-region", "s_city_name": "Labe Prefecture", "s_city_slug": "labe-prefecture"}, {"s_country_code": "GN", "s_region_slug": "labe-region", "s_city_name": "Lelouma", "s_city_slug": "lelouma"}, {"s_country_code": "GN", "s_region_slug": "labe-region", "s_city_name": "Lelouma Prefecture", "s_city_slug": "lelouma-prefecture"}, {"s_country_code": "GN", "s_region_slug": "labe-region", "s_city_name": "Mali", "s_city_slug": "mali"}, {"s_country_code": "GN", "s_region_slug": "labe-region", "s_city_name": "Mali Prefecture", "s_city_slug": "mali-prefecture"}, {"s_country_code": "GN", "s_region_slug": "labe-region", "s_city_name": "Tougue", "s_city_slug": "tougue"}, {"s_country_code": "GN", "s_region_slug": "labe-region", "s_city_name": "Tougue Prefecture", "s_city_slug": "tougue-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Lelouma Prefecture", "s_region_slug": "lelouma-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "lelouma-prefecture", "s_city_name": "Lelouma Prefecture", "s_city_slug": "lelouma-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Lola Prefecture", "s_region_slug": "lola-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "lola-prefecture", "s_city_name": "Lola Prefecture", "s_city_slug": "lola-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Macenta Prefecture", "s_region_slug": "macenta-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "macenta-prefecture", "s_city_name": "Macenta Prefecture", "s_city_slug": "macenta-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Mali Prefecture", "s_region_slug": "mali-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "mali-prefecture", "s_city_name": "Mali Prefecture", "s_city_slug": "mali-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Mamou Prefecture", "s_region_slug": "mamou-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "mamou-prefecture", "s_city_name": "Mamou Prefecture", "s_city_slug": "mamou-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Mamou Region", "s_region_slug": "mamou-region", "cities": [{"s_country_code": "GN", "s_region_slug": "mamou-region", "s_city_name": "Dalaba", "s_city_slug": "dalaba"}, {"s_country_code": "GN", "s_region_slug": "mamou-region", "s_city_name": "Mamou", "s_city_slug": "mamou"}, {"s_country_code": "GN", "s_region_slug": "mamou-region", "s_city_name": "Mamou Prefecture", "s_city_slug": "mamou-prefecture"}, {"s_country_code": "GN", "s_region_slug": "mamou-region", "s_city_name": "Pita", "s_city_slug": "pita"}]}, {"s_country_code": "GN", "s_region_name": "Mandiana Prefecture", "s_region_slug": "mandiana-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "mandiana-prefecture", "s_city_name": "Mandiana Prefecture", "s_city_slug": "mandiana-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Nzerekore Prefecture", "s_region_slug": "nzerekore-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "nzerekore-prefecture", "s_city_name": "Nzerekore Prefecture", "s_city_slug": "nzerekore-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Nzerekore Region", "s_region_slug": "nzerekore-region", "cities": [{"s_country_code": "GN", "s_region_slug": "nzerekore-region", "s_city_name": "Beyla", "s_city_slug": "beyla"}, {"s_country_code": "GN", "s_region_slug": "nzerekore-region", "s_city_name": "Beyla Prefecture", "s_city_slug": "beyla-prefecture"}, {"s_country_code": "GN", "s_region_slug": "nzerekore-region", "s_city_name": "Gueckedou", "s_city_slug": "gueckedou"}, {"s_country_code": "GN", "s_region_slug": "nzerekore-region", "s_city_name": "Lola", "s_city_slug": "lola"}, {"s_country_code": "GN", "s_region_slug": "nzerekore-region", "s_city_name": "Macenta", "s_city_slug": "macenta"}, {"s_country_code": "GN", "s_region_slug": "nzerekore-region", "s_city_name": "Nzerekore", "s_city_slug": "nzerekore"}, {"s_country_code": "GN", "s_region_slug": "nzerekore-region", "s_city_name": "Nzerekore Prefecture", "s_city_slug": "nzerekore-prefecture"}, {"s_country_code": "GN", "s_region_slug": "nzerekore-region", "s_city_name": "Prefecture de Guekedou", "s_city_slug": "prefecture-de-guekedou"}, {"s_country_code": "GN", "s_region_slug": "nzerekore-region", "s_city_name": "Yomou", "s_city_slug": "yomou"}]}, {"s_country_code": "GN", "s_region_name": "Pita Prefecture", "s_region_slug": "pita-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "pita-prefecture", "s_city_name": "Pita Prefecture", "s_city_slug": "pita-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Siguiri Prefecture", "s_region_slug": "siguiri-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "siguiri-prefecture", "s_city_name": "Siguiri Prefecture", "s_city_slug": "siguiri-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Telimele Prefecture", "s_region_slug": "telimele-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "telimele-prefecture", "s_city_name": "Telimele Prefecture", "s_city_slug": "telimele-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Tougue Prefecture", "s_region_slug": "tougue-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "tougue-prefecture", "s_city_name": "Tougue Prefecture", "s_city_slug": "tougue-prefecture"}]}, {"s_country_code": "GN", "s_region_name": "Yomou Prefecture", "s_region_slug": "yomou-prefecture", "cities": [{"s_country_code": "GN", "s_region_slug": "yomou-prefecture", "s_city_name": "Yomou Prefecture", "s_city_slug": "yomou-prefecture"}]}]}
+{
+    "s_country_code": "GN",
+    "s_country_name": "Guinea",
+    "s_country_slug": "guinea",
+    "regions": [
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Beyla Prefecture",
+            "s_region_slug": "beyla-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "beyla-prefecture",
+                    "s_city_name": "Beyla Prefecture",
+                    "s_city_slug": "beyla-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Boffa Prefecture",
+            "s_region_slug": "boffa-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boffa-prefecture",
+                    "s_city_name": "Boffa Prefecture",
+                    "s_city_slug": "boffa-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Boke Prefecture",
+            "s_region_slug": "boke-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boke-prefecture",
+                    "s_city_name": "Boke Prefecture",
+                    "s_city_slug": "boke-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Boke Region",
+            "s_region_slug": "boke-region",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boke-region",
+                    "s_city_name": "Boffa",
+                    "s_city_slug": "boffa"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boke-region",
+                    "s_city_name": "Boke",
+                    "s_city_slug": "boke"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boke-region",
+                    "s_city_name": "Boke Prefecture",
+                    "s_city_slug": "boke-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boke-region",
+                    "s_city_name": "Fria",
+                    "s_city_slug": "fria"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boke-region",
+                    "s_city_name": "Gaoual",
+                    "s_city_slug": "gaoual"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boke-region",
+                    "s_city_name": "Gaoual Prefecture",
+                    "s_city_slug": "gaoual-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boke-region",
+                    "s_city_name": "Kimbo",
+                    "s_city_slug": "kimbo"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boke-region",
+                    "s_city_name": "Koundara",
+                    "s_city_slug": "koundara"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boke-region",
+                    "s_city_name": "Koundara Prefecture",
+                    "s_city_slug": "koundara-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boke-region",
+                    "s_city_name": "Sangueya",
+                    "s_city_slug": "sangueya"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "boke-region",
+                    "s_city_name": "Youkounkoun",
+                    "s_city_slug": "youkounkoun"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Conakry",
+            "s_region_slug": "conakry",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "conakry",
+                    "s_city_name": "Camayenne",
+                    "s_city_slug": "camayenne"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "conakry",
+                    "s_city_name": "Conakry",
+                    "s_city_slug": "conakry"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Coyah Prefecture",
+            "s_region_slug": "coyah-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "coyah-prefecture",
+                    "s_city_name": "Coyah Prefecture",
+                    "s_city_slug": "coyah-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Dabola Prefecture",
+            "s_region_slug": "dabola-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "dabola-prefecture",
+                    "s_city_name": "Dabola Prefecture",
+                    "s_city_slug": "dabola-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Dalaba Prefecture",
+            "s_region_slug": "dalaba-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "dalaba-prefecture",
+                    "s_city_name": "Dalaba Prefecture",
+                    "s_city_slug": "dalaba-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Dinguiraye Prefecture",
+            "s_region_slug": "dinguiraye-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "dinguiraye-prefecture",
+                    "s_city_name": "Dinguiraye Prefecture",
+                    "s_city_slug": "dinguiraye-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Dubreka Prefecture",
+            "s_region_slug": "dubreka-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "dubreka-prefecture",
+                    "s_city_name": "Dubreka Prefecture",
+                    "s_city_slug": "dubreka-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Faranah Prefecture",
+            "s_region_slug": "faranah-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "faranah-prefecture",
+                    "s_city_name": "Faranah Prefecture",
+                    "s_city_slug": "faranah-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Forecariah Prefecture",
+            "s_region_slug": "forecariah-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "forecariah-prefecture",
+                    "s_city_name": "Forecariah Prefecture",
+                    "s_city_slug": "forecariah-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Fria Prefecture",
+            "s_region_slug": "fria-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "fria-prefecture",
+                    "s_city_name": "Fria Prefecture",
+                    "s_city_slug": "fria-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Gaoual Prefecture",
+            "s_region_slug": "gaoual-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "gaoual-prefecture",
+                    "s_city_name": "Gaoual Prefecture",
+                    "s_city_slug": "gaoual-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Gueckedou Prefecture",
+            "s_region_slug": "gueckedou-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "gueckedou-prefecture",
+                    "s_city_name": "Gueckedou Prefecture",
+                    "s_city_slug": "gueckedou-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Kankan Prefecture",
+            "s_region_slug": "kankan-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kankan-prefecture",
+                    "s_city_name": "Kankan Prefecture",
+                    "s_city_slug": "kankan-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Kankan Region",
+            "s_region_slug": "kankan-region",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kankan-region",
+                    "s_city_name": "Kankan",
+                    "s_city_slug": "kankan"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kankan-region",
+                    "s_city_name": "Kankan Prefecture",
+                    "s_city_slug": "kankan-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kankan-region",
+                    "s_city_name": "Kerouane",
+                    "s_city_slug": "kerouane"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kankan-region",
+                    "s_city_name": "Kerouane Prefecture",
+                    "s_city_slug": "kerouane-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kankan-region",
+                    "s_city_name": "Kouroussa",
+                    "s_city_slug": "kouroussa"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kankan-region",
+                    "s_city_name": "Mandiana",
+                    "s_city_slug": "mandiana"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kankan-region",
+                    "s_city_name": "Mandiana Prefecture",
+                    "s_city_slug": "mandiana-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kankan-region",
+                    "s_city_name": "Siguiri",
+                    "s_city_slug": "siguiri"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kankan-region",
+                    "s_city_name": "Siguiri Prefecture",
+                    "s_city_slug": "siguiri-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kankan-region",
+                    "s_city_name": "Tokonou",
+                    "s_city_slug": "tokonou"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Kerouane Prefecture",
+            "s_region_slug": "kerouane-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kerouane-prefecture",
+                    "s_city_name": "Kerouane Prefecture",
+                    "s_city_slug": "kerouane-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Kindia Prefecture",
+            "s_region_slug": "kindia-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kindia-prefecture",
+                    "s_city_name": "Kindia Prefecture",
+                    "s_city_slug": "kindia-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Kindia Region",
+            "s_region_slug": "kindia-region",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kindia-region",
+                    "s_city_name": "Coyah",
+                    "s_city_slug": "coyah"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kindia-region",
+                    "s_city_name": "Dubreka",
+                    "s_city_slug": "dubreka"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kindia-region",
+                    "s_city_name": "Forecariah",
+                    "s_city_slug": "forecariah"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kindia-region",
+                    "s_city_name": "Kindia",
+                    "s_city_slug": "kindia"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kindia-region",
+                    "s_city_name": "Prefecture de Dubreka",
+                    "s_city_slug": "prefecture-de-dubreka"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kindia-region",
+                    "s_city_name": "Prefecture de Forecariah",
+                    "s_city_slug": "prefecture-de-forecariah"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kindia-region",
+                    "s_city_name": "Telimele",
+                    "s_city_slug": "telimele"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kindia-region",
+                    "s_city_name": "Telimele Prefecture",
+                    "s_city_slug": "telimele-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kindia-region",
+                    "s_city_name": "Tondon",
+                    "s_city_slug": "tondon"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Kissidougou Prefecture",
+            "s_region_slug": "kissidougou-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kissidougou-prefecture",
+                    "s_city_name": "Kissidougou Prefecture",
+                    "s_city_slug": "kissidougou-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Koubia Prefecture",
+            "s_region_slug": "koubia-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "koubia-prefecture",
+                    "s_city_name": "Koubia Prefecture",
+                    "s_city_slug": "koubia-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Koundara Prefecture",
+            "s_region_slug": "koundara-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "koundara-prefecture",
+                    "s_city_name": "Koundara Prefecture",
+                    "s_city_slug": "koundara-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Kouroussa Prefecture",
+            "s_region_slug": "kouroussa-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "kouroussa-prefecture",
+                    "s_city_name": "Kouroussa Prefecture",
+                    "s_city_slug": "kouroussa-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Labe Prefecture",
+            "s_region_slug": "labe-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "labe-prefecture",
+                    "s_city_name": "Labe Prefecture",
+                    "s_city_slug": "labe-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Labe Region",
+            "s_region_slug": "labe-region",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "labe-region",
+                    "s_city_name": "Koubia",
+                    "s_city_slug": "koubia"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "labe-region",
+                    "s_city_name": "Labe",
+                    "s_city_slug": "labe"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "labe-region",
+                    "s_city_name": "Labe Prefecture",
+                    "s_city_slug": "labe-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "labe-region",
+                    "s_city_name": "Lelouma",
+                    "s_city_slug": "lelouma"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "labe-region",
+                    "s_city_name": "Lelouma Prefecture",
+                    "s_city_slug": "lelouma-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "labe-region",
+                    "s_city_name": "Mali",
+                    "s_city_slug": "mali"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "labe-region",
+                    "s_city_name": "Mali Prefecture",
+                    "s_city_slug": "mali-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "labe-region",
+                    "s_city_name": "Tougue",
+                    "s_city_slug": "tougue"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "labe-region",
+                    "s_city_name": "Tougue Prefecture",
+                    "s_city_slug": "tougue-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Lelouma Prefecture",
+            "s_region_slug": "lelouma-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "lelouma-prefecture",
+                    "s_city_name": "Lelouma Prefecture",
+                    "s_city_slug": "lelouma-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Lola Prefecture",
+            "s_region_slug": "lola-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "lola-prefecture",
+                    "s_city_name": "Lola Prefecture",
+                    "s_city_slug": "lola-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Macenta Prefecture",
+            "s_region_slug": "macenta-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "macenta-prefecture",
+                    "s_city_name": "Macenta Prefecture",
+                    "s_city_slug": "macenta-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Mali Prefecture",
+            "s_region_slug": "mali-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "mali-prefecture",
+                    "s_city_name": "Mali Prefecture",
+                    "s_city_slug": "mali-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Mamou Prefecture",
+            "s_region_slug": "mamou-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "mamou-prefecture",
+                    "s_city_name": "Mamou Prefecture",
+                    "s_city_slug": "mamou-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Mamou Region",
+            "s_region_slug": "mamou-region",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "mamou-region",
+                    "s_city_name": "Dalaba",
+                    "s_city_slug": "dalaba"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "mamou-region",
+                    "s_city_name": "Mamou",
+                    "s_city_slug": "mamou"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "mamou-region",
+                    "s_city_name": "Mamou Prefecture",
+                    "s_city_slug": "mamou-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "mamou-region",
+                    "s_city_name": "Pita",
+                    "s_city_slug": "pita"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Mandiana Prefecture",
+            "s_region_slug": "mandiana-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "mandiana-prefecture",
+                    "s_city_name": "Mandiana Prefecture",
+                    "s_city_slug": "mandiana-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Nzerekore Prefecture",
+            "s_region_slug": "nzerekore-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "nzerekore-prefecture",
+                    "s_city_name": "Nzerekore Prefecture",
+                    "s_city_slug": "nzerekore-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Nzerekore Region",
+            "s_region_slug": "nzerekore-region",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "nzerekore-region",
+                    "s_city_name": "Beyla",
+                    "s_city_slug": "beyla"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "nzerekore-region",
+                    "s_city_name": "Beyla Prefecture",
+                    "s_city_slug": "beyla-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "nzerekore-region",
+                    "s_city_name": "Gueckedou",
+                    "s_city_slug": "gueckedou"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "nzerekore-region",
+                    "s_city_name": "Lola",
+                    "s_city_slug": "lola"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "nzerekore-region",
+                    "s_city_name": "Macenta",
+                    "s_city_slug": "macenta"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "nzerekore-region",
+                    "s_city_name": "Nzerekore",
+                    "s_city_slug": "nzerekore"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "nzerekore-region",
+                    "s_city_name": "Nzerekore Prefecture",
+                    "s_city_slug": "nzerekore-prefecture"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "nzerekore-region",
+                    "s_city_name": "Prefecture de Guekedou",
+                    "s_city_slug": "prefecture-de-guekedou"
+                },
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "nzerekore-region",
+                    "s_city_name": "Yomou",
+                    "s_city_slug": "yomou"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Pita Prefecture",
+            "s_region_slug": "pita-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "pita-prefecture",
+                    "s_city_name": "Pita Prefecture",
+                    "s_city_slug": "pita-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Siguiri Prefecture",
+            "s_region_slug": "siguiri-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "siguiri-prefecture",
+                    "s_city_name": "Siguiri Prefecture",
+                    "s_city_slug": "siguiri-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Telimele Prefecture",
+            "s_region_slug": "telimele-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "telimele-prefecture",
+                    "s_city_name": "Telimele Prefecture",
+                    "s_city_slug": "telimele-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Tougue Prefecture",
+            "s_region_slug": "tougue-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "tougue-prefecture",
+                    "s_city_name": "Tougue Prefecture",
+                    "s_city_slug": "tougue-prefecture"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GN",
+            "s_region_name": "Yomou Prefecture",
+            "s_region_slug": "yomou-prefecture",
+            "cities": [
+                {
+                    "s_country_code": "GN",
+                    "s_region_slug": "yomou-prefecture",
+                    "s_city_name": "Yomou Prefecture",
+                    "s_city_slug": "yomou-prefecture"
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,202 @@
-{"s_country_code": "KN", "s_country_name": "Saint Kitts And Nevis", "s_country_slug": "saint-kitts-and-nevis", "regions": [{"s_country_code": "KN", "s_region_name": "Christ Church Nichola Town Parish", "s_region_slug": "christ-church-nichola-town-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "christ-church-nichola-town-parish", "s_city_name": "Nicola Town", "s_city_slug": "nicola-town"}]}, {"s_country_code": "KN", "s_region_name": "Nevis", "s_region_slug": "nevis", "cities": [{"s_country_code": "KN", "s_region_slug": "nevis", "s_city_name": "Nevis", "s_city_slug": "nevis"}]}, {"s_country_code": "KN", "s_region_name": "Saint Anne Sandy Point Parish", "s_region_slug": "saint-anne-sandy-point-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "saint-anne-sandy-point-parish", "s_city_name": "Sandy Point Town", "s_city_slug": "sandy-point-town"}]}, {"s_country_code": "KN", "s_region_name": "Saint George Gingerland Parish", "s_region_slug": "saint-george-gingerland-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "saint-george-gingerland-parish", "s_city_name": "Market Shop", "s_city_slug": "market-shop"}]}, {"s_country_code": "KN", "s_region_name": "Saint James Windward Parish", "s_region_slug": "saint-james-windward-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "saint-james-windward-parish", "s_city_name": "Newcastle", "s_city_slug": "newcastle"}]}, {"s_country_code": "KN", "s_region_name": "Saint John Capisterre Parish", "s_region_slug": "saint-john-capisterre-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "saint-john-capisterre-parish", "s_city_name": "Dieppe Bay Town", "s_city_slug": "dieppe-bay-town"}]}, {"s_country_code": "KN", "s_region_name": "Saint John Figtree Parish", "s_region_slug": "saint-john-figtree-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "saint-john-figtree-parish", "s_city_name": "Fig Tree", "s_city_slug": "fig-tree"}]}, {"s_country_code": "KN", "s_region_name": "Saint Kitts", "s_region_slug": "saint-kitts", "cities": [{"s_country_code": "KN", "s_region_slug": "saint-kitts", "s_city_name": "Saint Kitts", "s_city_slug": "saint-kitts"}]}, {"s_country_code": "KN", "s_region_name": "Saint Mary Cayon Parish", "s_region_slug": "saint-mary-cayon-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "saint-mary-cayon-parish", "s_city_name": "Cayon", "s_city_slug": "cayon"}]}, {"s_country_code": "KN", "s_region_name": "Saint Paul Capisterre Parish", "s_region_slug": "saint-paul-capisterre-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "saint-paul-capisterre-parish", "s_city_name": "Saint Pauls", "s_city_slug": "saint-pauls"}]}, {"s_country_code": "KN", "s_region_name": "Saint Paul Charlestown Parish", "s_region_slug": "saint-paul-charlestown-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "saint-paul-charlestown-parish", "s_city_name": "Charlestown", "s_city_slug": "charlestown"}]}, {"s_country_code": "KN", "s_region_name": "Saint Peter Basseterre Parish", "s_region_slug": "saint-peter-basseterre-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "saint-peter-basseterre-parish", "s_city_name": "Monkey Hill", "s_city_slug": "monkey-hill"}]}, {"s_country_code": "KN", "s_region_name": "Saint Thomas Lowland Parish", "s_region_slug": "saint-thomas-lowland-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "saint-thomas-lowland-parish", "s_city_name": "Cotton Ground", "s_city_slug": "cotton-ground"}]}, {"s_country_code": "KN", "s_region_name": "Saint Thomas Middle Island Parish", "s_region_slug": "saint-thomas-middle-island-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "saint-thomas-middle-island-parish", "s_city_name": "Middle Island", "s_city_slug": "middle-island"}]}, {"s_country_code": "KN", "s_region_name": "Trinity Palmetto Point Parish", "s_region_slug": "trinity-palmetto-point-parish", "cities": [{"s_country_code": "KN", "s_region_slug": "trinity-palmetto-point-parish", "s_city_name": "Trinity", "s_city_slug": "trinity"}]}]}
+{
+    "s_country_code": "KN",
+    "s_country_name": "Saint Kitts And Nevis",
+    "s_country_slug": "saint-kitts-and-nevis",
+    "regions": [
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Christ Church Nichola Town Parish",
+            "s_region_slug": "christ-church-nichola-town-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "christ-church-nichola-town-parish",
+                    "s_city_name": "Nicola Town",
+                    "s_city_slug": "nicola-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Nevis",
+            "s_region_slug": "nevis",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "nevis",
+                    "s_city_name": "Nevis",
+                    "s_city_slug": "nevis"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Saint Anne Sandy Point Parish",
+            "s_region_slug": "saint-anne-sandy-point-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "saint-anne-sandy-point-parish",
+                    "s_city_name": "Sandy Point Town",
+                    "s_city_slug": "sandy-point-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Saint George Gingerland Parish",
+            "s_region_slug": "saint-george-gingerland-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "saint-george-gingerland-parish",
+                    "s_city_name": "Market Shop",
+                    "s_city_slug": "market-shop"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Saint James Windward Parish",
+            "s_region_slug": "saint-james-windward-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "saint-james-windward-parish",
+                    "s_city_name": "Newcastle",
+                    "s_city_slug": "newcastle"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Saint John Capisterre Parish",
+            "s_region_slug": "saint-john-capisterre-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "saint-john-capisterre-parish",
+                    "s_city_name": "Dieppe Bay Town",
+                    "s_city_slug": "dieppe-bay-town"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Saint John Figtree Parish",
+            "s_region_slug": "saint-john-figtree-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "saint-john-figtree-parish",
+                    "s_city_name": "Fig Tree",
+                    "s_city_slug": "fig-tree"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Saint Kitts",
+            "s_region_slug": "saint-kitts",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "saint-kitts",
+                    "s_city_name": "Saint Kitts",
+                    "s_city_slug": "saint-kitts"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Saint Mary Cayon Parish",
+            "s_region_slug": "saint-mary-cayon-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "saint-mary-cayon-parish",
+                    "s_city_name": "Cayon",
+                    "s_city_slug": "cayon"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Saint Paul Capisterre Parish",
+            "s_region_slug": "saint-paul-capisterre-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "saint-paul-capisterre-parish",
+                    "s_city_name": "Saint Pauls",
+                    "s_city_slug": "saint-pauls"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Saint Paul Charlestown Parish",
+            "s_region_slug": "saint-paul-charlestown-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "saint-paul-charlestown-parish",
+                    "s_city_name": "Charlestown",
+                    "s_city_slug": "charlestown"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Saint Peter Basseterre Parish",
+            "s_region_slug": "saint-peter-basseterre-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "saint-peter-basseterre-parish",
+                    "s_city_name": "Monkey Hill",
+                    "s_city_slug": "monkey-hill"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Saint Thomas Lowland Parish",
+            "s_region_slug": "saint-thomas-lowland-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "saint-thomas-lowland-parish",
+                    "s_city_name": "Cotton Ground",
+                    "s_city_slug": "cotton-ground"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Saint Thomas Middle Island Parish",
+            "s_region_slug": "saint-thomas-middle-island-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "saint-thomas-middle-island-parish",
+                    "s_city_name": "Middle Island",
+                    "s_city_slug": "middle-island"
+                }
+            ]
+        },
+        {
+            "s_country_code": "KN",
+            "s_region_name": "Trinity Palmetto Point Parish",
+            "s_region_slug": "trinity-palmetto-point-parish",
+            "cities": [
+                {
+                    "s_country_code": "KN",
+                    "s_region_slug": "trinity-palmetto-point-parish",
+                    "s_city_name": "Trinity",
+                    "s_city_slug": "trinity"
+                }
+            ]
+        }
+    ]
+}

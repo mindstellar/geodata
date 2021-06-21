@@ -1,1 +1,673 @@
-{"s_country_code": "GM", "s_country_name": "Gambia", "s_country_slug": "gambia", "regions": [{"s_country_code": "GM", "s_region_name": "Banjul", "s_region_slug": "banjul", "cities": [{"s_country_code": "GM", "s_region_slug": "banjul", "s_city_name": "Bakau", "s_city_slug": "bakau"}, {"s_country_code": "GM", "s_region_slug": "banjul", "s_city_name": "Banjul", "s_city_slug": "banjul"}, {"s_country_code": "GM", "s_region_slug": "banjul", "s_city_name": "Kombo Saint Mary District", "s_city_slug": "kombo-saint-mary-district"}, {"s_country_code": "GM", "s_region_slug": "banjul", "s_city_name": "Serekunda", "s_city_slug": "serekunda"}]}, {"s_country_code": "GM", "s_region_name": "Central River Division", "s_region_slug": "central-river-division", "cities": [{"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Bansang", "s_city_slug": "bansang"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Brikama Nding", "s_city_slug": "brikama-nding"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Dankunku", "s_city_slug": "dankunku"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Denton", "s_city_slug": "denton"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Fulladu West", "s_city_slug": "fulladu-west"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Galleh Manda", "s_city_slug": "galleh-manda"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Georgetown", "s_city_slug": "georgetown"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Jakhaly", "s_city_slug": "jakhaly"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Janjanbureh", "s_city_slug": "janjanbureh"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Jarreng", "s_city_slug": "jarreng"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Karantaba", "s_city_slug": "karantaba"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Kass Wollof", "s_city_slug": "kass-wollof"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Kuntaur", "s_city_slug": "kuntaur"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Kunting", "s_city_slug": "kunting"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Lower Saloum", "s_city_slug": "lower-saloum"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Niamina East District", "s_city_slug": "niamina-east-district"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Niamina West District", "s_city_slug": "niamina-west-district"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Niani", "s_city_slug": "niani"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Nianija District", "s_city_slug": "nianija-district"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Pateh Sam", "s_city_slug": "pateh-sam"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Sami", "s_city_slug": "sami"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Sami District", "s_city_slug": "sami-district"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Saruja", "s_city_slug": "saruja"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Sukuta", "s_city_slug": "sukuta"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Upper Saloum", "s_city_slug": "upper-saloum"}, {"s_country_code": "GM", "s_region_slug": "central-river-division", "s_city_name": "Wassu", "s_city_slug": "wassu"}]}, {"s_country_code": "GM", "s_region_name": "Lower River Division", "s_region_slug": "lower-river-division", "cities": [{"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Baro Kunda", "s_city_slug": "baro-kunda"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Bureng", "s_city_slug": "bureng"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Jali", "s_city_slug": "jali"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Jarra Central", "s_city_slug": "jarra-central"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Jarra East", "s_city_slug": "jarra-east"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Jarra West", "s_city_slug": "jarra-west"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Jenoi", "s_city_slug": "jenoi"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Jifarong", "s_city_slug": "jifarong"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Kaiaf", "s_city_slug": "kaiaf"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Karantaba", "s_city_slug": "karantaba"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Keneba", "s_city_slug": "keneba"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Kiang Central", "s_city_slug": "kiang-central"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Kiang East", "s_city_slug": "kiang-east"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Kiang West District", "s_city_slug": "kiang-west-district"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Mansa Konko", "s_city_slug": "mansa-konko"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Nioro", "s_city_slug": "nioro"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Sankwia", "s_city_slug": "sankwia"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Si Kunda", "s_city_slug": "si-kunda"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Soma", "s_city_slug": "soma"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Sutukung", "s_city_slug": "sutukung"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Toniataba", "s_city_slug": "toniataba"}, {"s_country_code": "GM", "s_region_slug": "lower-river-division", "s_city_name": "Wellingara Ba", "s_city_slug": "wellingara-ba"}]}, {"s_country_code": "GM", "s_region_name": "North Bank Division", "s_region_slug": "north-bank-division", "cities": [{"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Bambali", "s_city_slug": "bambali"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Barra", "s_city_slug": "barra"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Central Baddibu", "s_city_slug": "central-baddibu"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Chilla", "s_city_slug": "chilla"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Daru Rilwan", "s_city_slug": "daru-rilwan"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Essau", "s_city_slug": "essau"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Farafenni", "s_city_slug": "farafenni"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Gunjur", "s_city_slug": "gunjur"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Jokadu", "s_city_slug": "jokadu"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Katchang", "s_city_slug": "katchang"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Kerewan", "s_city_slug": "kerewan"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Lamin", "s_city_slug": "lamin"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Lower Baddibu District", "s_city_slug": "lower-baddibu-district"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Lower Niumi District", "s_city_slug": "lower-niumi-district"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "No Kunda", "s_city_slug": "no-kunda"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Saba", "s_city_slug": "saba"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Sara Kunda", "s_city_slug": "sara-kunda"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Upper Baddibu", "s_city_slug": "upper-baddibu"}, {"s_country_code": "GM", "s_region_slug": "north-bank-division", "s_city_name": "Upper Niumi District", "s_city_slug": "upper-niumi-district"}]}, {"s_country_code": "GM", "s_region_name": "Upper River Division", "s_region_slug": "upper-river-division", "cities": [{"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Bakadagy", "s_city_slug": "bakadagy"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Basse Santa Su", "s_city_slug": "basse-santa-su"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Brifu", "s_city_slug": "brifu"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Daba Kunda", "s_city_slug": "daba-kunda"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Demba Kunda", "s_city_slug": "demba-kunda"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Diabugu", "s_city_slug": "diabugu"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Diabugu Basilla", "s_city_slug": "diabugu-basilla"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Fulladu East", "s_city_slug": "fulladu-east"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Gunjur Kuta", "s_city_slug": "gunjur-kuta"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Kantora", "s_city_slug": "kantora"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Koina", "s_city_slug": "koina"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Kumbija", "s_city_slug": "kumbija"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Nyamanari", "s_city_slug": "nyamanari"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Perai", "s_city_slug": "perai"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Sabi", "s_city_slug": "sabi"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Sandu", "s_city_slug": "sandu"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Sudowol", "s_city_slug": "sudowol"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Sun Kunda", "s_city_slug": "sun-kunda"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Sutukoba", "s_city_slug": "sutukoba"}, {"s_country_code": "GM", "s_region_slug": "upper-river-division", "s_city_name": "Wuli", "s_city_slug": "wuli"}]}, {"s_country_code": "GM", "s_region_name": "West Coast Division", "s_region_slug": "west-coast-division", "cities": [{"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Abuko", "s_city_slug": "abuko"}, {"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Brikama", "s_city_slug": "brikama"}, {"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Foni Bondali", "s_city_slug": "foni-bondali"}, {"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Foni Brefet", "s_city_slug": "foni-brefet"}, {"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Foni Jarrol", "s_city_slug": "foni-jarrol"}, {"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Foni Kansala", "s_city_slug": "foni-kansala"}, {"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Gunjur", "s_city_slug": "gunjur"}, {"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Kombo Central District", "s_city_slug": "kombo-central-district"}, {"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Kombo East District", "s_city_slug": "kombo-east-district"}, {"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Kombo North District", "s_city_slug": "kombo-north-district"}, {"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Kombo South District", "s_city_slug": "kombo-south-district"}, {"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Somita", "s_city_slug": "somita"}, {"s_country_code": "GM", "s_region_slug": "west-coast-division", "s_city_name": "Sukuta", "s_city_slug": "sukuta"}]}]}
+{
+    "s_country_code": "GM",
+    "s_country_name": "Gambia",
+    "s_country_slug": "gambia",
+    "regions": [
+        {
+            "s_country_code": "GM",
+            "s_region_name": "Banjul",
+            "s_region_slug": "banjul",
+            "cities": [
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "banjul",
+                    "s_city_name": "Bakau",
+                    "s_city_slug": "bakau"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "banjul",
+                    "s_city_name": "Banjul",
+                    "s_city_slug": "banjul"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "banjul",
+                    "s_city_name": "Kombo Saint Mary District",
+                    "s_city_slug": "kombo-saint-mary-district"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "banjul",
+                    "s_city_name": "Serekunda",
+                    "s_city_slug": "serekunda"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GM",
+            "s_region_name": "Central River Division",
+            "s_region_slug": "central-river-division",
+            "cities": [
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Bansang",
+                    "s_city_slug": "bansang"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Brikama Nding",
+                    "s_city_slug": "brikama-nding"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Dankunku",
+                    "s_city_slug": "dankunku"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Denton",
+                    "s_city_slug": "denton"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Fulladu West",
+                    "s_city_slug": "fulladu-west"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Galleh Manda",
+                    "s_city_slug": "galleh-manda"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Georgetown",
+                    "s_city_slug": "georgetown"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Jakhaly",
+                    "s_city_slug": "jakhaly"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Janjanbureh",
+                    "s_city_slug": "janjanbureh"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Jarreng",
+                    "s_city_slug": "jarreng"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Karantaba",
+                    "s_city_slug": "karantaba"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Kass Wollof",
+                    "s_city_slug": "kass-wollof"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Kuntaur",
+                    "s_city_slug": "kuntaur"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Kunting",
+                    "s_city_slug": "kunting"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Lower Saloum",
+                    "s_city_slug": "lower-saloum"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Niamina East District",
+                    "s_city_slug": "niamina-east-district"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Niamina West District",
+                    "s_city_slug": "niamina-west-district"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Niani",
+                    "s_city_slug": "niani"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Nianija District",
+                    "s_city_slug": "nianija-district"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Pateh Sam",
+                    "s_city_slug": "pateh-sam"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Sami",
+                    "s_city_slug": "sami"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Sami District",
+                    "s_city_slug": "sami-district"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Saruja",
+                    "s_city_slug": "saruja"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Sukuta",
+                    "s_city_slug": "sukuta"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Upper Saloum",
+                    "s_city_slug": "upper-saloum"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "central-river-division",
+                    "s_city_name": "Wassu",
+                    "s_city_slug": "wassu"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GM",
+            "s_region_name": "Lower River Division",
+            "s_region_slug": "lower-river-division",
+            "cities": [
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Baro Kunda",
+                    "s_city_slug": "baro-kunda"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Bureng",
+                    "s_city_slug": "bureng"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Jali",
+                    "s_city_slug": "jali"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Jarra Central",
+                    "s_city_slug": "jarra-central"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Jarra East",
+                    "s_city_slug": "jarra-east"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Jarra West",
+                    "s_city_slug": "jarra-west"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Jenoi",
+                    "s_city_slug": "jenoi"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Jifarong",
+                    "s_city_slug": "jifarong"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Kaiaf",
+                    "s_city_slug": "kaiaf"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Karantaba",
+                    "s_city_slug": "karantaba"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Keneba",
+                    "s_city_slug": "keneba"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Kiang Central",
+                    "s_city_slug": "kiang-central"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Kiang East",
+                    "s_city_slug": "kiang-east"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Kiang West District",
+                    "s_city_slug": "kiang-west-district"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Mansa Konko",
+                    "s_city_slug": "mansa-konko"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Nioro",
+                    "s_city_slug": "nioro"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Sankwia",
+                    "s_city_slug": "sankwia"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Si Kunda",
+                    "s_city_slug": "si-kunda"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Soma",
+                    "s_city_slug": "soma"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Sutukung",
+                    "s_city_slug": "sutukung"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Toniataba",
+                    "s_city_slug": "toniataba"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "lower-river-division",
+                    "s_city_name": "Wellingara Ba",
+                    "s_city_slug": "wellingara-ba"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GM",
+            "s_region_name": "North Bank Division",
+            "s_region_slug": "north-bank-division",
+            "cities": [
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Bambali",
+                    "s_city_slug": "bambali"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Barra",
+                    "s_city_slug": "barra"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Central Baddibu",
+                    "s_city_slug": "central-baddibu"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Chilla",
+                    "s_city_slug": "chilla"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Daru Rilwan",
+                    "s_city_slug": "daru-rilwan"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Essau",
+                    "s_city_slug": "essau"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Farafenni",
+                    "s_city_slug": "farafenni"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Gunjur",
+                    "s_city_slug": "gunjur"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Jokadu",
+                    "s_city_slug": "jokadu"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Katchang",
+                    "s_city_slug": "katchang"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Kerewan",
+                    "s_city_slug": "kerewan"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Lamin",
+                    "s_city_slug": "lamin"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Lower Baddibu District",
+                    "s_city_slug": "lower-baddibu-district"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Lower Niumi District",
+                    "s_city_slug": "lower-niumi-district"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "No Kunda",
+                    "s_city_slug": "no-kunda"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Saba",
+                    "s_city_slug": "saba"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Sara Kunda",
+                    "s_city_slug": "sara-kunda"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Upper Baddibu",
+                    "s_city_slug": "upper-baddibu"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "north-bank-division",
+                    "s_city_name": "Upper Niumi District",
+                    "s_city_slug": "upper-niumi-district"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GM",
+            "s_region_name": "Upper River Division",
+            "s_region_slug": "upper-river-division",
+            "cities": [
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Bakadagy",
+                    "s_city_slug": "bakadagy"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Basse Santa Su",
+                    "s_city_slug": "basse-santa-su"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Brifu",
+                    "s_city_slug": "brifu"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Daba Kunda",
+                    "s_city_slug": "daba-kunda"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Demba Kunda",
+                    "s_city_slug": "demba-kunda"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Diabugu",
+                    "s_city_slug": "diabugu"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Diabugu Basilla",
+                    "s_city_slug": "diabugu-basilla"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Fulladu East",
+                    "s_city_slug": "fulladu-east"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Gunjur Kuta",
+                    "s_city_slug": "gunjur-kuta"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Kantora",
+                    "s_city_slug": "kantora"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Koina",
+                    "s_city_slug": "koina"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Kumbija",
+                    "s_city_slug": "kumbija"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Nyamanari",
+                    "s_city_slug": "nyamanari"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Perai",
+                    "s_city_slug": "perai"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Sabi",
+                    "s_city_slug": "sabi"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Sandu",
+                    "s_city_slug": "sandu"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Sudowol",
+                    "s_city_slug": "sudowol"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Sun Kunda",
+                    "s_city_slug": "sun-kunda"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Sutukoba",
+                    "s_city_slug": "sutukoba"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "upper-river-division",
+                    "s_city_name": "Wuli",
+                    "s_city_slug": "wuli"
+                }
+            ]
+        },
+        {
+            "s_country_code": "GM",
+            "s_region_name": "West Coast Division",
+            "s_region_slug": "west-coast-division",
+            "cities": [
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Abuko",
+                    "s_city_slug": "abuko"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Brikama",
+                    "s_city_slug": "brikama"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Foni Bondali",
+                    "s_city_slug": "foni-bondali"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Foni Brefet",
+                    "s_city_slug": "foni-brefet"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Foni Jarrol",
+                    "s_city_slug": "foni-jarrol"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Foni Kansala",
+                    "s_city_slug": "foni-kansala"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Gunjur",
+                    "s_city_slug": "gunjur"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Kombo Central District",
+                    "s_city_slug": "kombo-central-district"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Kombo East District",
+                    "s_city_slug": "kombo-east-district"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Kombo North District",
+                    "s_city_slug": "kombo-north-district"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Kombo South District",
+                    "s_city_slug": "kombo-south-district"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Somita",
+                    "s_city_slug": "somita"
+                },
+                {
+                    "s_country_code": "GM",
+                    "s_region_slug": "west-coast-division",
+                    "s_city_name": "Sukuta",
+                    "s_city_slug": "sukuta"
+                }
+            ]
+        }
+    ]
+}
