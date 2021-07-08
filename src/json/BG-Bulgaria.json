@@ -1806,6 +1806,19 @@
         {
             "cities": [
                 {
+                    "s_city_name": "Shumen",
+                    "s_city_slug": "shumen",
+                    "s_country_code": "bg",
+                    "s_region_slug": "shumen"
+                }
+            ],
+            "s_country_code": "bg",
+            "s_region_name": "Shumen",
+            "s_region_slug": "shumen"
+        },
+        {
+            "cities": [
+                {
                     "s_city_name": "Alfatar",
                     "s_city_slug": "alfatar",
                     "s_country_code": "bg",

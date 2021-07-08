@@ -1,0 +1,33 @@
+{
+    "regions": [
+        {
+            "cities": [
+                {
+                    "s_city_name": "Ralik Chain",
+                    "s_city_slug": "ralik-chain",
+                    "s_country_code": "mh",
+                    "s_region_slug": "ralik-chain"
+                }
+            ],
+            "s_country_code": "mh",
+            "s_region_name": "Ralik Chain",
+            "s_region_slug": "ralik-chain"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Ratak Chain",
+                    "s_city_slug": "ratak-chain",
+                    "s_country_code": "mh",
+                    "s_region_slug": "ratak-chain"
+                }
+            ],
+            "s_country_code": "mh",
+            "s_region_name": "Ratak Chain",
+            "s_region_slug": "ratak-chain"
+        }
+    ],
+    "s_country_code": "MH",
+    "s_country_name": "Marshall Islands",
+    "s_country_slug": "marshall-islands"
+}

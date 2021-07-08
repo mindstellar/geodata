@@ -977,6 +977,2917 @@
         {
             "cities": [
                 {
+                    "s_city_name": "Ab Meshkin",
+                    "s_city_slug": "ab-meshkin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Abarlaq-e Sofla",
+                    "s_city_slug": "abarlaq-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Abdalan",
+                    "s_city_slug": "abdalan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Abdol Rahim",
+                    "s_city_slug": "abdol-rahim",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Abrumand",
+                    "s_city_slug": "abrumand",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Abshineh",
+                    "s_city_slug": "abshineh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Abu ol Fathabad",
+                    "s_city_slug": "abu-ol-fathabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Aghcheh Qayah",
+                    "s_city_slug": "aghcheh-qayah",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ahmadabad-e Tappeh",
+                    "s_city_slug": "ahmadabad-e-tappeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ahu Tappeh",
+                    "s_city_slug": "ahu-tappeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ajin",
+                    "s_city_slug": "ajin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ajorlu",
+                    "s_city_slug": "ajorlu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Akanlu",
+                    "s_city_slug": "akanlu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Akleh",
+                    "s_city_slug": "akleh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Alan-e Sofla",
+                    "s_city_slug": "alan-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Alanjeh",
+                    "s_city_slug": "alanjeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Alfavut",
+                    "s_city_slug": "alfavut",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Aliabad-e Posht Shahr",
+                    "s_city_slug": "aliabad-e-posht-shahr",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Amirabad-e Kord",
+                    "s_city_slug": "amirabad-e-kord",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Amzajerd",
+                    "s_city_slug": "amzajerd",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Angoshteh",
+                    "s_city_slug": "angoshteh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Anjir Baghi",
+                    "s_city_slug": "anjir-baghi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ansar ol Emam",
+                    "s_city_slug": "ansar-ol-emam",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Anuch",
+                    "s_city_slug": "anuch",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Aq Bolagh-e Aqdaq",
+                    "s_city_slug": "aq-bolagh-e-aqdaq",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Aq Bolagh-e Latgah",
+                    "s_city_slug": "aq-bolagh-e-latgah",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Aq Bolagh-e Morshed",
+                    "s_city_slug": "aq-bolagh-e-morshed",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Aq Chay",
+                    "s_city_slug": "aq-chay",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Aqa Bolaghi",
+                    "s_city_slug": "aqa-bolaghi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Aqa Jan Bolaghi",
+                    "s_city_slug": "aqa-jan-bolaghi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Aqaj",
+                    "s_city_slug": "aqaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Aqcheh Kharabeh",
+                    "s_city_slug": "aqcheh-kharabeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Aqchelu",
+                    "s_city_slug": "aqchelu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Arges-e Sofla",
+                    "s_city_slug": "arges-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Arikan",
+                    "s_city_slug": "arikan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Arpa Darreh",
+                    "s_city_slug": "arpa-darreh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Arteh Bolagh",
+                    "s_city_slug": "arteh-bolagh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Artiman",
+                    "s_city_slug": "artiman",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Arzan Fud",
+                    "s_city_slug": "arzan-fud",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Arzuvaj",
+                    "s_city_slug": "arzuvaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Asadabad",
+                    "s_city_slug": "asadabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ashmizan",
+                    "s_city_slug": "ashmizan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Avarzaman",
+                    "s_city_slug": "avarzaman",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Azandarian",
+                    "s_city_slug": "azandarian",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Aznahri",
+                    "s_city_slug": "aznahri",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Baba Khanjar",
+                    "s_city_slug": "baba-khanjar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Baba Pir",
+                    "s_city_slug": "baba-pir",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Baba Qasem",
+                    "s_city_slug": "baba-qasem",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Babolqani",
+                    "s_city_slug": "babolqani",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bad Khvoreh",
+                    "s_city_slug": "bad-khvoreh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bahar",
+                    "s_city_slug": "bahar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Band Aman",
+                    "s_city_slug": "band-aman",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Banesareh",
+                    "s_city_slug": "banesareh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Baraband",
+                    "s_city_slug": "baraband",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bargecheh",
+                    "s_city_slug": "bargecheh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Barreh Farakh",
+                    "s_city_slug": "barreh-farakh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Barzul",
+                    "s_city_slug": "barzul",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bashqurtaran",
+                    "s_city_slug": "bashqurtaran",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bazeran",
+                    "s_city_slug": "bazeran",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Behkandan",
+                    "s_city_slug": "behkandan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Belartu",
+                    "s_city_slug": "belartu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Beshik Tappeh",
+                    "s_city_slug": "beshik-tappeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Biaj",
+                    "s_city_slug": "biaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Biatan-e Sofla",
+                    "s_city_slug": "biatan-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bid Korpeh-ye Sofla",
+                    "s_city_slug": "bid-korpeh-ye-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bid Korpeh-ye Vosta",
+                    "s_city_slug": "bid-korpeh-ye-vosta",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bifanaj",
+                    "s_city_slug": "bifanaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bighash",
+                    "s_city_slug": "bighash",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bish Aghaj",
+                    "s_city_slug": "bish-aghaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bitervan",
+                    "s_city_slug": "bitervan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Borjaki",
+                    "s_city_slug": "borjaki",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Boyukabad",
+                    "s_city_slug": "boyukabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bozchalu",
+                    "s_city_slug": "bozchalu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bozineh Jerd",
+                    "s_city_slug": "bozineh-jerd",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bujin",
+                    "s_city_slug": "bujin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Bustandar",
+                    "s_city_slug": "bustandar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Buyaqchi",
+                    "s_city_slug": "buyaqchi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Chahar Bolagh",
+                    "s_city_slug": "chahar-bolagh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Chal Boqa",
+                    "s_city_slug": "chal-boqa",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Chaleh Kand",
+                    "s_city_slug": "chaleh-kand",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Charoq",
+                    "s_city_slug": "charoq",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Chasht Khvoreh",
+                    "s_city_slug": "chasht-khvoreh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Chenari",
+                    "s_city_slug": "chenari",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Cheshmeh Malek",
+                    "s_city_slug": "cheshmeh-malek",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Cheshmeh Pahn-e Nanaj",
+                    "s_city_slug": "cheshmeh-pahn-e-nanaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Cheshmeh Qandab",
+                    "s_city_slug": "cheshmeh-qandab",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Cheshmeh Qareh",
+                    "s_city_slug": "cheshmeh-qareh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Cheshmeh Qassaban",
+                    "s_city_slug": "cheshmeh-qassaban",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Cheshmeh Valad",
+                    "s_city_slug": "cheshmeh-valad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Cheshmeh Zowraq",
+                    "s_city_slug": "cheshmeh-zowraq",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Choqa Sarahi",
+                    "s_city_slug": "choqa-sarahi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Chowtash",
+                    "s_city_slug": "chowtash",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Chulak Qapanuri",
+                    "s_city_slug": "chulak-qapanuri",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Dahnejerd",
+                    "s_city_slug": "dahnejerd",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Dali Chu",
+                    "s_city_slug": "dali-chu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Damaq",
+                    "s_city_slug": "damaq",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Daqdaqabad",
+                    "s_city_slug": "daqdaqabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Dar Qeshlaq",
+                    "s_city_slug": "dar-qeshlaq",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Darani-ye Sofla",
+                    "s_city_slug": "darani-ye-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Darcham",
+                    "s_city_slug": "darcham",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Darreh Chenar",
+                    "s_city_slug": "darreh-chenar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Darreh Mianeh-ye Sofla",
+                    "s_city_slug": "darreh-mianeh-ye-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Darreh Mirza",
+                    "s_city_slug": "darreh-mirza",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Darreh-ye Ebrahim",
+                    "s_city_slug": "darreh-ye-ebrahim",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Darsibeh",
+                    "s_city_slug": "darsibeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Davijan",
+                    "s_city_slug": "davijan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Deh Chaneh",
+                    "s_city_slug": "deh-chaneh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Deh Dalian",
+                    "s_city_slug": "deh-dalian",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Deh Ful",
+                    "s_city_slug": "deh-ful",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Deh Mianeh",
+                    "s_city_slug": "deh-mianeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Deh Nush",
+                    "s_city_slug": "deh-nush",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Deh Piaz",
+                    "s_city_slug": "deh-piaz",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Deh-e Shaker",
+                    "s_city_slug": "deh-e-shaker",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Dehnow-e Avarzaman",
+                    "s_city_slug": "dehnow-e-avarzaman",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Dingeleh Kahriz",
+                    "s_city_slug": "dingeleh-kahriz",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Do Rudan",
+                    "s_city_slug": "do-rudan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Doraneh",
+                    "s_city_slug": "doraneh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Dorudgaran",
+                    "s_city_slug": "dorudgaran",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Dow Baraleh",
+                    "s_city_slug": "dow-baraleh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Dowlatabad-e Hajjilu",
+                    "s_city_slug": "dowlatabad-e-hajjilu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Dowlujerdin-e Bala",
+                    "s_city_slug": "dowlujerdin-e-bala",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Durijan",
+                    "s_city_slug": "durijan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Durnian",
+                    "s_city_slug": "durnian",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Emamzadeh Khatun",
+                    "s_city_slug": "emamzadeh-khatun",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Emamzadeh Pir Nahan",
+                    "s_city_slug": "emamzadeh-pir-nahan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Eskanan",
+                    "s_city_slug": "eskanan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Fahrumand",
+                    "s_city_slug": "fahrumand",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Famast",
+                    "s_city_slug": "famast",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Famenin",
+                    "s_city_slug": "famenin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Farasfaj",
+                    "s_city_slug": "farasfaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Farsban",
+                    "s_city_slug": "farsban",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Farvaz",
+                    "s_city_slug": "farvaz",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Faryazan",
+                    "s_city_slug": "faryazan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Fasijan",
+                    "s_city_slug": "fasijan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Fiazaman",
+                    "s_city_slug": "fiazaman",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Firuzabad-e Sofla",
+                    "s_city_slug": "firuzabad-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Firuzan",
+                    "s_city_slug": "firuzan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gamasa",
+                    "s_city_slug": "gamasa",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gamasb",
+                    "s_city_slug": "gamasb",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ganj Tappeh",
+                    "s_city_slug": "ganj-tappeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ganjab",
+                    "s_city_slug": "ganjab",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gashani",
+                    "s_city_slug": "gashani",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gav Zaban",
+                    "s_city_slug": "gav-zaban",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gavkaran",
+                    "s_city_slug": "gavkaran",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ghazyatan",
+                    "s_city_slug": "ghazyatan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gholam Veys",
+                    "s_city_slug": "gholam-veys",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Givaki",
+                    "s_city_slug": "givaki",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Giyan",
+                    "s_city_slug": "giyan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gol Darreh-ye Anuch",
+                    "s_city_slug": "gol-darreh-ye-anuch",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gol Heydar",
+                    "s_city_slug": "gol-heydar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Golparabad",
+                    "s_city_slug": "golparabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Golshir",
+                    "s_city_slug": "golshir",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Golushjerd",
+                    "s_city_slug": "golushjerd",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gomush Bolagh",
+                    "s_city_slug": "gomush-bolagh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gonbad Chay",
+                    "s_city_slug": "gonbad-chay",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gonbad-e Kabud",
+                    "s_city_slug": "gonbad-e-kabud",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gostar",
+                    "s_city_slug": "gostar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gozal Abdal",
+                    "s_city_slug": "gozal-abdal",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gug Qash",
+                    "s_city_slug": "gug-qash",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gujak",
+                    "s_city_slug": "gujak",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gulvand",
+                    "s_city_slug": "gulvand",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gunestan",
+                    "s_city_slug": "gunestan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gur Gaz",
+                    "s_city_slug": "gur-gaz",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gurjiu",
+                    "s_city_slug": "gurjiu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gushalan",
+                    "s_city_slug": "gushalan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Gusheh-ye Kasavand",
+                    "s_city_slug": "gusheh-ye-kasavand",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hajji Kheder",
+                    "s_city_slug": "hajji-kheder",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hajji Maqsud",
+                    "s_city_slug": "hajji-maqsud",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hajji Tu",
+                    "s_city_slug": "hajji-tu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hamadan",
+                    "s_city_slug": "hamadan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hamilabad",
+                    "s_city_slug": "hamilabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hamzehlu-ye Sofla",
+                    "s_city_slug": "hamzehlu-ye-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Haramabad",
+                    "s_city_slug": "haramabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hasan Kusej",
+                    "s_city_slug": "hasan-kusej",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hasan Teymur",
+                    "s_city_slug": "hasan-teymur",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hasanabad-e Emam",
+                    "s_city_slug": "hasanabad-e-emam",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hasanabad-e Qush Bolagh",
+                    "s_city_slug": "hasanabad-e-qush-bolagh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hasanabad-e Sheverin",
+                    "s_city_slug": "hasanabad-e-sheverin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Heriraz",
+                    "s_city_slug": "heriraz",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hesar-e Qarah Baghi",
+                    "s_city_slug": "hesar-e-qarah-baghi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hesar-e Qujeh Baghi",
+                    "s_city_slug": "hesar-e-qujeh-baghi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Heydareh-ye Dar-e Emam",
+                    "s_city_slug": "heydareh-ye-dar-e-emam",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Heydareh-ye Posht-e Shahr",
+                    "s_city_slug": "heydareh-ye-posht-e-shahr",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hizaj",
+                    "s_city_slug": "hizaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Holvar-e Sofla",
+                    "s_city_slug": "holvar-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hom-e Khosrow",
+                    "s_city_slug": "hom-e-khosrow",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Horhoreh",
+                    "s_city_slug": "horhoreh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hoseynabad-e Bahar",
+                    "s_city_slug": "hoseynabad-e-bahar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hoseynabad-e Nazem",
+                    "s_city_slug": "hoseynabad-e-nazem",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hoseynabad-e Shamlu",
+                    "s_city_slug": "hoseynabad-e-shamlu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Hudaraj",
+                    "s_city_slug": "hudaraj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Iraneh",
+                    "s_city_slug": "iraneh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Isti Bolagh",
+                    "s_city_slug": "isti-bolagh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Jamishlu",
+                    "s_city_slug": "jamishlu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Jaria",
+                    "s_city_slug": "jaria",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Javar Sajin",
+                    "s_city_slug": "javar-sajin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Jerbanlu",
+                    "s_city_slug": "jerbanlu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Jighi",
+                    "s_city_slug": "jighi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Jijan Kuh",
+                    "s_city_slug": "jijan-kuh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Jijian Rud",
+                    "s_city_slug": "jijian-rud",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Jin Taraqayah",
+                    "s_city_slug": "jin-taraqayah",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Juraqan",
+                    "s_city_slug": "juraqan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kaboodrahang",
+                    "s_city_slug": "kaboodrahang",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kahard",
+                    "s_city_slug": "kahard",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kahkadan",
+                    "s_city_slug": "kahkadan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kahriz-e Baba Hoseyn",
+                    "s_city_slug": "kahriz-e-baba-hoseyn",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kahriz-e Boqazi",
+                    "s_city_slug": "kahriz-e-boqazi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kahriz-e Hoseynabad-e Nazem",
+                    "s_city_slug": "kahriz-e-hoseynabad-e-nazem",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kahriz-e Jamal",
+                    "s_city_slug": "kahriz-e-jamal",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kahriz-e Salim",
+                    "s_city_slug": "kahriz-e-salim",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kal Kabud",
+                    "s_city_slug": "kal-kabud",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kalb Hesari",
+                    "s_city_slug": "kalb-hesari",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kalilabad",
+                    "s_city_slug": "kalilabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kamak-e Sofla",
+                    "s_city_slug": "kamak-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kamar Boneh",
+                    "s_city_slug": "kamar-boneh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kamazan",
+                    "s_city_slug": "kamazan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kand Halan",
+                    "s_city_slug": "kand-halan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kand Tappeh",
+                    "s_city_slug": "kand-tappeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kand-e Bolaghi",
+                    "s_city_slug": "kand-e-bolaghi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kangavar-e Kohneh",
+                    "s_city_slug": "kangavar-e-kohneh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Karafs",
+                    "s_city_slug": "karafs",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kark-e Sofla",
+                    "s_city_slug": "kark-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kartilabad",
+                    "s_city_slug": "kartilabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kasavand",
+                    "s_city_slug": "kasavand",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kaslan Qayah",
+                    "s_city_slug": "kaslan-qayah",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kavanaj",
+                    "s_city_slug": "kavanaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kesb",
+                    "s_city_slug": "kesb",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Keykaleh",
+                    "s_city_slug": "keykaleh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Keyni Sayeh",
+                    "s_city_slug": "keyni-sayeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Khabar Arkhi",
+                    "s_city_slug": "khabar-arkhi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Khaku",
+                    "s_city_slug": "khaku",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Khaleq Verdi",
+                    "s_city_slug": "khaleq-verdi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Khalil Kord",
+                    "s_city_slug": "khalil-kord",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kheradmand",
+                    "s_city_slug": "kheradmand",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kheyr Qoli",
+                    "s_city_slug": "kheyr-qoli",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Khomeygan",
+                    "s_city_slug": "khomeygan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Khvajeh Hesar",
+                    "s_city_slug": "khvajeh-hesar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Khvajeh Hoseyni",
+                    "s_city_slug": "khvajeh-hoseyni",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Khvajeh Kandi",
+                    "s_city_slug": "khvajeh-kandi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Khvoshab-e Sofla",
+                    "s_city_slug": "khvoshab-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kitu",
+                    "s_city_slug": "kitu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kohnush",
+                    "s_city_slug": "kohnush",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kolanjan",
+                    "s_city_slug": "kolanjan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Konjineh",
+                    "s_city_slug": "konjineh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kord Bolagh",
+                    "s_city_slug": "kord-bolagh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Korzan",
+                    "s_city_slug": "korzan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kowzareh",
+                    "s_city_slug": "kowzareh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kuhani",
+                    "s_city_slug": "kuhani",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kur Kahriz",
+                    "s_city_slug": "kur-kahriz",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kusaj Khalil",
+                    "s_city_slug": "kusaj-khalil",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Kutah Darreh",
+                    "s_city_slug": "kutah-darreh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Laleh Dan",
+                    "s_city_slug": "laleh-dan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Lalejin",
+                    "s_city_slug": "lalejin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Lamiyan",
+                    "s_city_slug": "lamiyan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Latgah",
+                    "s_city_slug": "latgah",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Lavashan",
+                    "s_city_slug": "lavashan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Leyli Yadegar",
+                    "s_city_slug": "leyli-yadegar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Luluhar",
+                    "s_city_slug": "luluhar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mahanabad",
+                    "s_city_slug": "mahanabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mahbar",
+                    "s_city_slug": "mahbar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mahdaviyeh",
+                    "s_city_slug": "mahdaviyeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mahnian",
+                    "s_city_slug": "mahnian",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Malayer",
+                    "s_city_slug": "malayer",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Malek-e Ashtar",
+                    "s_city_slug": "malek-e-ashtar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Malusan",
+                    "s_city_slug": "malusan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mangavi",
+                    "s_city_slug": "mangavi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Marvil",
+                    "s_city_slug": "marvil",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Maryanaj",
+                    "s_city_slug": "maryanaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Masjedin",
+                    "s_city_slug": "masjedin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Menjan",
+                    "s_city_slug": "menjan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mesinak",
+                    "s_city_slug": "mesinak",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Meyvaleh",
+                    "s_city_slug": "meyvaleh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mianzulan",
+                    "s_city_slug": "mianzulan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mihamleh-ye Sofla",
+                    "s_city_slug": "mihamleh-ye-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Milab",
+                    "s_city_slug": "milab",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mirza Hesari",
+                    "s_city_slug": "mirza-hesari",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mishen",
+                    "s_city_slug": "mishen",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mobarakin",
+                    "s_city_slug": "mobarakin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mohajeran",
+                    "s_city_slug": "mohajeran",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mohammadabad-e Chulak",
+                    "s_city_slug": "mohammadabad-e-chulak",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mohammadiyeh-e Sofla",
+                    "s_city_slug": "mohammadiyeh-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mohara",
+                    "s_city_slug": "mohara",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mokarrabi",
+                    "s_city_slug": "mokarrabi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Molham Darreh",
+                    "s_city_slug": "molham-darreh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Molla Bodagh",
+                    "s_city_slug": "molla-bodagh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Monavvar Tappeh",
+                    "s_city_slug": "monavvar-tappeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Morghabad",
+                    "s_city_slug": "morghabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Mowdaran",
+                    "s_city_slug": "mowdaran",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Musa Bolaghi",
+                    "s_city_slug": "musa-bolaghi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Nahandar",
+                    "s_city_slug": "nahandar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Nahavand",
+                    "s_city_slug": "nahavand",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Najafiyeh",
+                    "s_city_slug": "najafiyeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Nakilabad",
+                    "s_city_slug": "nakilabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Nakin",
+                    "s_city_slug": "nakin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Namileh",
+                    "s_city_slug": "namileh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Nanaj",
+                    "s_city_slug": "nanaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Nazul",
+                    "s_city_slug": "nazul",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Negar Khatun",
+                    "s_city_slug": "negar-khatun",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Negarabad",
+                    "s_city_slug": "negarabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Nehenjeh",
+                    "s_city_slug": "nehenjeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Nesar",
+                    "s_city_slug": "nesar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Neshar",
+                    "s_city_slug": "neshar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Niyanj",
+                    "s_city_slug": "niyanj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Nosratabad-e Behraz",
+                    "s_city_slug": "nosratabad-e-behraz",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Nosratabad-e Laklak",
+                    "s_city_slug": "nosratabad-e-laklak",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Nurabad-e Simineh",
+                    "s_city_slug": "nurabad-e-simineh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ojaq",
+                    "s_city_slug": "ojaq",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ommatlar",
+                    "s_city_slug": "ommatlar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Oshtoran",
+                    "s_city_slug": "oshtoran",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Oshtorjin",
+                    "s_city_slug": "oshtorjin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ovraqin",
+                    "s_city_slug": "ovraqin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Owrteh Qamish",
+                    "s_city_slug": "owrteh-qamish",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Owryad",
+                    "s_city_slug": "owryad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Pahnabad",
+                    "s_city_slug": "pahnabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Panbeh Dar",
+                    "s_city_slug": "panbeh-dar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Parluk",
+                    "s_city_slug": "parluk",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Parvaraq",
+                    "s_city_slug": "parvaraq",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Payandeh",
+                    "s_city_slug": "payandeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Peyhan",
+                    "s_city_slug": "peyhan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Pileh Jin",
+                    "s_city_slug": "pileh-jin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Pir Anbar",
+                    "s_city_slug": "pir-anbar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Pir Badam",
+                    "s_city_slug": "pir-badam",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Pir Khodaverdi",
+                    "s_city_slug": "pir-khodaverdi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Pir Malu",
+                    "s_city_slug": "pir-malu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Pir Mishan",
+                    "s_city_slug": "pir-mishan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Pir Savaran",
+                    "s_city_slug": "pir-savaran",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Pir Yusof",
+                    "s_city_slug": "pir-yusof",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Piruz",
+                    "s_city_slug": "piruz",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Poshtjin",
+                    "s_city_slug": "poshtjin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qabanqoli",
+                    "s_city_slug": "qabanqoli",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qader Khalaj",
+                    "s_city_slug": "qader-khalaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qadimi",
+                    "s_city_slug": "qadimi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qahavand",
+                    "s_city_slug": "qahavand",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qajar Ab-e Sofla",
+                    "s_city_slug": "qajar-ab-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qarah Day",
+                    "s_city_slug": "qarah-day",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qarah Tegini",
+                    "s_city_slug": "qarah-tegini",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qaranqu Darreh",
+                    "s_city_slug": "qaranqu-darreh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qasabestan",
+                    "s_city_slug": "qasabestan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qasemabad-e Laklak",
+                    "s_city_slug": "qasemabad-e-laklak",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qater Owlan",
+                    "s_city_slug": "qater-owlan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qayesh",
+                    "s_city_slug": "qayesh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qazan Qarah",
+                    "s_city_slug": "qazan-qarah",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qazi Mardan",
+                    "s_city_slug": "qazi-mardan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qeshlaq Baba Rostam",
+                    "s_city_slug": "qeshlaq-baba-rostam",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qeshlaq-e Anuch",
+                    "s_city_slug": "qeshlaq-e-anuch",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qeshlaq-e Deh Ful",
+                    "s_city_slug": "qeshlaq-e-deh-ful",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qeshlaq-e Dehnow",
+                    "s_city_slug": "qeshlaq-e-dehnow",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qeshlaq-e Mohammadi",
+                    "s_city_slug": "qeshlaq-e-mohammadi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qeshlaq-e Najaf",
+                    "s_city_slug": "qeshlaq-e-najaf",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qeshlaq-e Pust Shuran",
+                    "s_city_slug": "qeshlaq-e-pust-shuran",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qeshlaq-e Qobad",
+                    "s_city_slug": "qeshlaq-e-qobad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qeshlaq-e Shirazi",
+                    "s_city_slug": "qeshlaq-e-shirazi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qeshlaq-e Sofla",
+                    "s_city_slug": "qeshlaq-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qeshlaq-e Valiollah",
+                    "s_city_slug": "qeshlaq-e-valiollah",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qeydli Bolagh",
+                    "s_city_slug": "qeydli-bolagh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qilab",
+                    "s_city_slug": "qilab",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qohurd-e Sofla",
+                    "s_city_slug": "qohurd-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qoli Laleh-ye Sofla",
+                    "s_city_slug": "qoli-laleh-ye-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qolqolabad",
+                    "s_city_slug": "qolqolabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Quch Tappeh",
+                    "s_city_slug": "quch-tappeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Qushjeh",
+                    "s_city_slug": "qushjeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Rahmanabad, Malayer",
+                    "s_city_slug": "rahmanabad-malayer",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ramishan",
+                    "s_city_slug": "ramishan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Rastguyan",
+                    "s_city_slug": "rastguyan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Rasulabad-e Sofla",
+                    "s_city_slug": "rasulabad-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Ravand-e Vosta",
+                    "s_city_slug": "ravand-e-vosta",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Rayegan-e Sofla",
+                    "s_city_slug": "rayegan-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Razaj",
+                    "s_city_slug": "razaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Razan",
+                    "s_city_slug": "razan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Razini",
+                    "s_city_slug": "razini",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Reza Baghi",
+                    "s_city_slug": "reza-baghi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Rezvankadeh",
+                    "s_city_slug": "rezvankadeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Rivasijan",
+                    "s_city_slug": "rivasijan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Robat-e Sheverin",
+                    "s_city_slug": "robat-e-sheverin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Rud Avar",
+                    "s_city_slug": "rud-avar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Rud-e Hasan-e Sofla",
+                    "s_city_slug": "rud-e-hasan-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Safa Riz",
+                    "s_city_slug": "safa-riz",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sahamabad",
+                    "s_city_slug": "sahamabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Salehabad",
+                    "s_city_slug": "salehabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Salilak",
+                    "s_city_slug": "salilak",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Saluk",
+                    "s_city_slug": "saluk",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Samen",
+                    "s_city_slug": "samen",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sanaj",
+                    "s_city_slug": "sanaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sanjuzan",
+                    "s_city_slug": "sanjuzan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sar Duran",
+                    "s_city_slug": "sar-duran",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sarab-e Tajar",
+                    "s_city_slug": "sarab-e-tajar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Saravak",
+                    "s_city_slug": "saravak",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sarayjuq",
+                    "s_city_slug": "sarayjuq",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sarijlu",
+                    "s_city_slug": "sarijlu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sarkan",
+                    "s_city_slug": "sarkan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Saziyan",
+                    "s_city_slug": "saziyan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sefid Khaneh",
+                    "s_city_slug": "sefid-khaneh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Segavi",
+                    "s_city_slug": "segavi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Setaq",
+                    "s_city_slug": "setaq",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Shademaneh",
+                    "s_city_slug": "shademaneh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Shanabad",
+                    "s_city_slug": "shanabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Shanjur",
+                    "s_city_slug": "shanjur",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sharifabad-e Quzan",
+                    "s_city_slug": "sharifabad-e-quzan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sharifabad-e Tajar",
+                    "s_city_slug": "sharifabad-e-tajar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Shatzal",
+                    "s_city_slug": "shatzal",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Shavand",
+                    "s_city_slug": "shavand",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sheverin",
+                    "s_city_slug": "sheverin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sheykh Jarrah",
+                    "s_city_slug": "sheykh-jarrah",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Shilandar-e Sofla",
+                    "s_city_slug": "shilandar-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Shir Barat",
+                    "s_city_slug": "shir-barat",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Shirin Su",
+                    "s_city_slug": "shirin-su",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Shush Ab",
+                    "s_city_slug": "shush-ab",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Siah Goleh",
+                    "s_city_slug": "siah-goleh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sib Dar",
+                    "s_city_slug": "sib-dar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Silvar",
+                    "s_city_slug": "silvar",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Simin-e Abaru",
+                    "s_city_slug": "simin-e-abaru",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Simin-e Zagheh",
+                    "s_city_slug": "simin-e-zagheh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Siravand",
+                    "s_city_slug": "siravand",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sistaneh",
+                    "s_city_slug": "sistaneh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Solulan",
+                    "s_city_slug": "solulan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sorkh Kand",
+                    "s_city_slug": "sorkh-kand",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sulijeh",
+                    "s_city_slug": "sulijeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Surtajin",
+                    "s_city_slug": "surtajin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Sutlaq",
+                    "s_city_slug": "sutlaq",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tafrijan",
+                    "s_city_slug": "tafrijan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tahunabad",
+                    "s_city_slug": "tahunabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tajar-e Samen",
+                    "s_city_slug": "tajar-e-samen",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Takhtiabad",
+                    "s_city_slug": "takhtiabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Taleh Jerd-e Sofla",
+                    "s_city_slug": "taleh-jerd-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tamuzan",
+                    "s_city_slug": "tamuzan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tappeh Yazdan",
+                    "s_city_slug": "tappeh-yazdan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tappeh-ye Dibi",
+                    "s_city_slug": "tappeh-ye-dibi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Taraqayah",
+                    "s_city_slug": "taraqayah",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tarik Darreh-ye Bala",
+                    "s_city_slug": "tarik-darreh-ye-bala",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tarkhinabad",
+                    "s_city_slug": "tarkhinabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tas Tappeh",
+                    "s_city_slug": "tas-tappeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tasbandi",
+                    "s_city_slug": "tasbandi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tasran",
+                    "s_city_slug": "tasran",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tavaleh",
+                    "s_city_slug": "tavaleh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tavaneh",
+                    "s_city_slug": "tavaneh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Taveh",
+                    "s_city_slug": "taveh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tavilan-e Sofla",
+                    "s_city_slug": "tavilan-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tazehnab-e Sofla",
+                    "s_city_slug": "tazehnab-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Termianak",
+                    "s_city_slug": "termianak",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Timi Jan",
+                    "s_city_slug": "timi-jan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tuchaqaz",
+                    "s_city_slug": "tuchaqaz",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tulki Tappeh",
+                    "s_city_slug": "tulki-tappeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tusk-e Sofla",
+                    "s_city_slug": "tusk-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tutal",
+                    "s_city_slug": "tutal",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Tuyserkan",
+                    "s_city_slug": "tuyserkan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vafr-e Jin",
+                    "s_city_slug": "vafr-e-jin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vahandeh",
+                    "s_city_slug": "vahandeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vahman",
+                    "s_city_slug": "vahman",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vahnan",
+                    "s_city_slug": "vahnan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vali Mohammad",
+                    "s_city_slug": "vali-mohammad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vali Sir Ab",
+                    "s_city_slug": "vali-sir-ab",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vandarabad",
+                    "s_city_slug": "vandarabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Varayeneh",
+                    "s_city_slug": "varayeneh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Varazaneh",
+                    "s_city_slug": "varazaneh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Varchaq",
+                    "s_city_slug": "varchaq",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vardavard-e Sofla",
+                    "s_city_slug": "vardavard-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vardavard-e Vosta",
+                    "s_city_slug": "vardavard-e-vosta",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Varkaneh",
+                    "s_city_slug": "varkaneh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Varqestan",
+                    "s_city_slug": "varqestan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Varvazin",
+                    "s_city_slug": "varvazin",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vasaj",
+                    "s_city_slug": "vasaj",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vashur",
+                    "s_city_slug": "vashur",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vasleh",
+                    "s_city_slug": "vasleh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vesht",
+                    "s_city_slug": "vesht",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Vezendan",
+                    "s_city_slug": "vezendan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Yalfan",
+                    "s_city_slug": "yalfan",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Yarom Qayah",
+                    "s_city_slug": "yarom-qayah",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Yaromjeh Bagh",
+                    "s_city_slug": "yaromjeh-bagh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Yeganeh",
+                    "s_city_slug": "yeganeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Yekanabad",
+                    "s_city_slug": "yekanabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Yekleh",
+                    "s_city_slug": "yekleh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Yeserlu",
+                    "s_city_slug": "yeserlu",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Yunes",
+                    "s_city_slug": "yunes",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Yunji",
+                    "s_city_slug": "yunji",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Zagheh-ye Anuch",
+                    "s_city_slug": "zagheh-ye-anuch",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Zagheh-ye Tasbandi",
+                    "s_city_slug": "zagheh-ye-tasbandi",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Zaghlijeh",
+                    "s_city_slug": "zaghlijeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Zamanabad-e Mohammadabad",
+                    "s_city_slug": "zamanabad-e-mohammadabad",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Zangeneh-ye Sofla",
+                    "s_city_slug": "zangeneh-ye-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Zapon",
+                    "s_city_slug": "zapon",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Zaramin-e Sofla",
+                    "s_city_slug": "zaramin-e-sofla",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Zarrin Bagh",
+                    "s_city_slug": "zarrin-bagh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Zeraq",
+                    "s_city_slug": "zeraq",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                },
+                {
+                    "s_city_name": "Zirabiyeh",
+                    "s_city_slug": "zirabiyeh",
+                    "s_country_code": "ir",
+                    "s_region_slug": "hamadan-province"
+                }
+            ],
+            "s_country_code": "ir",
+            "s_region_name": "Hamadan Province",
+            "s_region_slug": "hamadan-province"
+        },
+        {
+            "cities": [
+                {
                     "s_city_name": "Bandar Abbas",
                     "s_city_slug": "bandar-abbas",
                     "s_country_code": "ir",

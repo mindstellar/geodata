@@ -19773,722 +19773,8 @@
         {
             "cities": [
                 {
-                    "s_city_name": "Ahoghill",
-                    "s_city_slug": "ahoghill",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Annahilt",
-                    "s_city_slug": "annahilt",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Annalong",
-                    "s_city_slug": "annalong",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Antrim",
-                    "s_city_slug": "antrim",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Antrim and Newtownabbey",
-                    "s_city_slug": "antrim-and-newtownabbey",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ardglass",
-                    "s_city_slug": "ardglass",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ards and North Down",
-                    "s_city_slug": "ards-and-north-down",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Armagh",
-                    "s_city_slug": "armagh",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Armagh City Banbridge and Craigavon",
-                    "s_city_slug": "armagh-city-banbridge-and-craigavon",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ballinamallard",
-                    "s_city_slug": "ballinamallard",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ballintoy Harbour",
-                    "s_city_slug": "ballintoy-harbour",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ballycastle",
-                    "s_city_slug": "ballycastle",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ballyclare",
-                    "s_city_slug": "ballyclare",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ballygowan",
-                    "s_city_slug": "ballygowan",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ballykelly",
-                    "s_city_slug": "ballykelly",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ballymena",
-                    "s_city_slug": "ballymena",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ballymoney",
-                    "s_city_slug": "ballymoney",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ballynahinch",
-                    "s_city_slug": "ballynahinch",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ballypatrick",
-                    "s_city_slug": "ballypatrick",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Ballywalter",
-                    "s_city_slug": "ballywalter",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Banbridge",
-                    "s_city_slug": "banbridge",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Bangor",
-                    "s_city_slug": "bangor",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Belfast",
-                    "s_city_slug": "belfast",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Bellaghy",
-                    "s_city_slug": "bellaghy",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Broughshane",
-                    "s_city_slug": "broughshane",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Bushmills",
-                    "s_city_slug": "bushmills",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Carnlough",
-                    "s_city_slug": "carnlough",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Carnmoney",
-                    "s_city_slug": "carnmoney",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Carrickfergus",
-                    "s_city_slug": "carrickfergus",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Carryduff",
-                    "s_city_slug": "carryduff",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Castledawson",
-                    "s_city_slug": "castledawson",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Castlederg",
-                    "s_city_slug": "castlederg",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Castlereagh",
-                    "s_city_slug": "castlereagh",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Castlerock",
-                    "s_city_slug": "castlerock",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Castlewellan",
-                    "s_city_slug": "castlewellan",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Causeway Coast and Glens",
-                    "s_city_slug": "causeway-coast-and-glens",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "City of Belfast",
-                    "s_city_slug": "city-of-belfast",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Coalisland",
-                    "s_city_slug": "coalisland",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Coleraine",
-                    "s_city_slug": "coleraine",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Comber",
-                    "s_city_slug": "comber",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Connor",
-                    "s_city_slug": "connor",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Cookstown",
-                    "s_city_slug": "cookstown",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Craigavon",
-                    "s_city_slug": "craigavon",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Crossgar",
-                    "s_city_slug": "crossgar",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Crossmaglen",
-                    "s_city_slug": "crossmaglen",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Crumlin",
-                    "s_city_slug": "crumlin",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Cullybackey",
-                    "s_city_slug": "cullybackey",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Culmore",
-                    "s_city_slug": "culmore",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Cushendall",
-                    "s_city_slug": "cushendall",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Derry",
-                    "s_city_slug": "derry",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Derry City and Strabane",
-                    "s_city_slug": "derry-city-and-strabane",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Doagh",
-                    "s_city_slug": "doagh",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Donaghadee",
-                    "s_city_slug": "donaghadee",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Downpatrick",
-                    "s_city_slug": "downpatrick",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Draperstown",
-                    "s_city_slug": "draperstown",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Dromore",
-                    "s_city_slug": "dromore",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Dundonald",
-                    "s_city_slug": "dundonald",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Dundrum",
-                    "s_city_slug": "dundrum",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Dungannon",
-                    "s_city_slug": "dungannon",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Dungiven",
-                    "s_city_slug": "dungiven",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Dunloy",
-                    "s_city_slug": "dunloy",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Eglinton",
-                    "s_city_slug": "eglinton",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Enniskillen",
-                    "s_city_slug": "enniskillen",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Fermanagh and Omagh",
-                    "s_city_slug": "fermanagh-and-omagh",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Fintona",
-                    "s_city_slug": "fintona",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Fivemiletown",
-                    "s_city_slug": "fivemiletown",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Garvagh",
-                    "s_city_slug": "garvagh",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Gilford",
-                    "s_city_slug": "gilford",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Glenariff",
-                    "s_city_slug": "glenariff",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Glenavy",
-                    "s_city_slug": "glenavy",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Greenisland",
-                    "s_city_slug": "greenisland",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Greyabbey",
-                    "s_city_slug": "greyabbey",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Hillsborough",
-                    "s_city_slug": "hillsborough",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Holywood",
-                    "s_city_slug": "holywood",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Irvinestown",
-                    "s_city_slug": "irvinestown",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Jordanstown",
-                    "s_city_slug": "jordanstown",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Keady",
-                    "s_city_slug": "keady",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Kilkeel",
-                    "s_city_slug": "kilkeel",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Killyleagh",
-                    "s_city_slug": "killyleagh",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Kilrea",
-                    "s_city_slug": "kilrea",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Kircubbin",
-                    "s_city_slug": "kircubbin",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Larne",
-                    "s_city_slug": "larne",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Limavady",
-                    "s_city_slug": "limavady",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Lisburn",
-                    "s_city_slug": "lisburn",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Lisburn and Castlereagh",
-                    "s_city_slug": "lisburn-and-castlereagh",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Lisnaskea",
-                    "s_city_slug": "lisnaskea",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Londonderry County Borough",
-                    "s_city_slug": "londonderry-county-borough",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Maghera",
-                    "s_city_slug": "maghera",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Magherafelt",
-                    "s_city_slug": "magherafelt",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Magheralin",
-                    "s_city_slug": "magheralin",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Mid Ulster",
-                    "s_city_slug": "mid-ulster",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Mid and East Antrim",
-                    "s_city_slug": "mid-and-east-antrim",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Millisle",
-                    "s_city_slug": "millisle",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Moira",
-                    "s_city_slug": "moira",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Moneymore",
-                    "s_city_slug": "moneymore",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Moy",
-                    "s_city_slug": "moy",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Newcastle",
-                    "s_city_slug": "newcastle",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Newry",
-                    "s_city_slug": "newry",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Newry Mourne and Down",
-                    "s_city_slug": "newry-mourne-and-down",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Newtownabbey",
-                    "s_city_slug": "newtownabbey",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Newtownards",
-                    "s_city_slug": "newtownards",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Newtownstewart",
-                    "s_city_slug": "newtownstewart",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Omagh",
-                    "s_city_slug": "omagh",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Portadown",
-                    "s_city_slug": "portadown",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Portaferry",
-                    "s_city_slug": "portaferry",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Portavogie",
-                    "s_city_slug": "portavogie",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Portglenone",
-                    "s_city_slug": "portglenone",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Portrush",
-                    "s_city_slug": "portrush",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Portstewart",
-                    "s_city_slug": "portstewart",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Randalstown",
-                    "s_city_slug": "randalstown",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Rathfriland",
-                    "s_city_slug": "rathfriland",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Rostrevor",
-                    "s_city_slug": "rostrevor",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Saintfield",
-                    "s_city_slug": "saintfield",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Sion Mills",
-                    "s_city_slug": "sion-mills",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Strabane",
-                    "s_city_slug": "strabane",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Tandragee",
-                    "s_city_slug": "tandragee",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Templepatrick",
-                    "s_city_slug": "templepatrick",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Waringstown",
-                    "s_city_slug": "waringstown",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Warrenpoint",
-                    "s_city_slug": "warrenpoint",
-                    "s_country_code": "gb",
-                    "s_region_slug": "north-yorkshire"
-                },
-                {
-                    "s_city_name": "Whitehead",
-                    "s_city_slug": "whitehead",
+                    "s_city_name": "North Yorkshire",
+                    "s_city_slug": "north-yorkshire",
                     "s_country_code": "gb",
                     "s_region_slug": "north-yorkshire"
                 }
@@ -20513,8 +19799,722 @@
         {
             "cities": [
                 {
-                    "s_city_name": "Northern Ireland",
-                    "s_city_slug": "northern-ireland",
+                    "s_city_name": "Ahoghill",
+                    "s_city_slug": "ahoghill",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Annahilt",
+                    "s_city_slug": "annahilt",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Annalong",
+                    "s_city_slug": "annalong",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Antrim",
+                    "s_city_slug": "antrim",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Antrim and Newtownabbey",
+                    "s_city_slug": "antrim-and-newtownabbey",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ardglass",
+                    "s_city_slug": "ardglass",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ards and North Down",
+                    "s_city_slug": "ards-and-north-down",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Armagh",
+                    "s_city_slug": "armagh",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Armagh City Banbridge and Craigavon",
+                    "s_city_slug": "armagh-city-banbridge-and-craigavon",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ballinamallard",
+                    "s_city_slug": "ballinamallard",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ballintoy Harbour",
+                    "s_city_slug": "ballintoy-harbour",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ballycastle",
+                    "s_city_slug": "ballycastle",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ballyclare",
+                    "s_city_slug": "ballyclare",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ballygowan",
+                    "s_city_slug": "ballygowan",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ballykelly",
+                    "s_city_slug": "ballykelly",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ballymena",
+                    "s_city_slug": "ballymena",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ballymoney",
+                    "s_city_slug": "ballymoney",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ballynahinch",
+                    "s_city_slug": "ballynahinch",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ballypatrick",
+                    "s_city_slug": "ballypatrick",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Ballywalter",
+                    "s_city_slug": "ballywalter",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Banbridge",
+                    "s_city_slug": "banbridge",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Bangor",
+                    "s_city_slug": "bangor",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Belfast",
+                    "s_city_slug": "belfast",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Bellaghy",
+                    "s_city_slug": "bellaghy",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Broughshane",
+                    "s_city_slug": "broughshane",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Bushmills",
+                    "s_city_slug": "bushmills",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Carnlough",
+                    "s_city_slug": "carnlough",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Carnmoney",
+                    "s_city_slug": "carnmoney",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Carrickfergus",
+                    "s_city_slug": "carrickfergus",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Carryduff",
+                    "s_city_slug": "carryduff",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Castledawson",
+                    "s_city_slug": "castledawson",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Castlederg",
+                    "s_city_slug": "castlederg",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Castlereagh",
+                    "s_city_slug": "castlereagh",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Castlerock",
+                    "s_city_slug": "castlerock",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Castlewellan",
+                    "s_city_slug": "castlewellan",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Causeway Coast and Glens",
+                    "s_city_slug": "causeway-coast-and-glens",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "City of Belfast",
+                    "s_city_slug": "city-of-belfast",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Coalisland",
+                    "s_city_slug": "coalisland",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Coleraine",
+                    "s_city_slug": "coleraine",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Comber",
+                    "s_city_slug": "comber",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Connor",
+                    "s_city_slug": "connor",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Cookstown",
+                    "s_city_slug": "cookstown",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Craigavon",
+                    "s_city_slug": "craigavon",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Crossgar",
+                    "s_city_slug": "crossgar",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Crossmaglen",
+                    "s_city_slug": "crossmaglen",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Crumlin",
+                    "s_city_slug": "crumlin",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Cullybackey",
+                    "s_city_slug": "cullybackey",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Culmore",
+                    "s_city_slug": "culmore",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Cushendall",
+                    "s_city_slug": "cushendall",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Derry",
+                    "s_city_slug": "derry",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Derry City and Strabane",
+                    "s_city_slug": "derry-city-and-strabane",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Doagh",
+                    "s_city_slug": "doagh",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Donaghadee",
+                    "s_city_slug": "donaghadee",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Downpatrick",
+                    "s_city_slug": "downpatrick",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Draperstown",
+                    "s_city_slug": "draperstown",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Dromore",
+                    "s_city_slug": "dromore",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Dundonald",
+                    "s_city_slug": "dundonald",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Dundrum",
+                    "s_city_slug": "dundrum",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Dungannon",
+                    "s_city_slug": "dungannon",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Dungiven",
+                    "s_city_slug": "dungiven",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Dunloy",
+                    "s_city_slug": "dunloy",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Eglinton",
+                    "s_city_slug": "eglinton",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Enniskillen",
+                    "s_city_slug": "enniskillen",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Fermanagh and Omagh",
+                    "s_city_slug": "fermanagh-and-omagh",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Fintona",
+                    "s_city_slug": "fintona",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Fivemiletown",
+                    "s_city_slug": "fivemiletown",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Garvagh",
+                    "s_city_slug": "garvagh",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Gilford",
+                    "s_city_slug": "gilford",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Glenariff",
+                    "s_city_slug": "glenariff",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Glenavy",
+                    "s_city_slug": "glenavy",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Greenisland",
+                    "s_city_slug": "greenisland",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Greyabbey",
+                    "s_city_slug": "greyabbey",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Hillsborough",
+                    "s_city_slug": "hillsborough",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Holywood",
+                    "s_city_slug": "holywood",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Irvinestown",
+                    "s_city_slug": "irvinestown",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Jordanstown",
+                    "s_city_slug": "jordanstown",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Keady",
+                    "s_city_slug": "keady",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Kilkeel",
+                    "s_city_slug": "kilkeel",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Killyleagh",
+                    "s_city_slug": "killyleagh",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Kilrea",
+                    "s_city_slug": "kilrea",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Kircubbin",
+                    "s_city_slug": "kircubbin",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Larne",
+                    "s_city_slug": "larne",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Limavady",
+                    "s_city_slug": "limavady",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Lisburn",
+                    "s_city_slug": "lisburn",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Lisburn and Castlereagh",
+                    "s_city_slug": "lisburn-and-castlereagh",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Lisnaskea",
+                    "s_city_slug": "lisnaskea",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Londonderry County Borough",
+                    "s_city_slug": "londonderry-county-borough",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Maghera",
+                    "s_city_slug": "maghera",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Magherafelt",
+                    "s_city_slug": "magherafelt",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Magheralin",
+                    "s_city_slug": "magheralin",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Mid Ulster",
+                    "s_city_slug": "mid-ulster",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Mid and East Antrim",
+                    "s_city_slug": "mid-and-east-antrim",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Millisle",
+                    "s_city_slug": "millisle",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Moira",
+                    "s_city_slug": "moira",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Moneymore",
+                    "s_city_slug": "moneymore",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Moy",
+                    "s_city_slug": "moy",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Newcastle",
+                    "s_city_slug": "newcastle",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Newry",
+                    "s_city_slug": "newry",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Newry Mourne and Down",
+                    "s_city_slug": "newry-mourne-and-down",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Newtownabbey",
+                    "s_city_slug": "newtownabbey",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Newtownards",
+                    "s_city_slug": "newtownards",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Newtownstewart",
+                    "s_city_slug": "newtownstewart",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Omagh",
+                    "s_city_slug": "omagh",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Portadown",
+                    "s_city_slug": "portadown",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Portaferry",
+                    "s_city_slug": "portaferry",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Portavogie",
+                    "s_city_slug": "portavogie",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Portglenone",
+                    "s_city_slug": "portglenone",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Portrush",
+                    "s_city_slug": "portrush",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Portstewart",
+                    "s_city_slug": "portstewart",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Randalstown",
+                    "s_city_slug": "randalstown",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Rathfriland",
+                    "s_city_slug": "rathfriland",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Rostrevor",
+                    "s_city_slug": "rostrevor",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Saintfield",
+                    "s_city_slug": "saintfield",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Sion Mills",
+                    "s_city_slug": "sion-mills",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Strabane",
+                    "s_city_slug": "strabane",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Tandragee",
+                    "s_city_slug": "tandragee",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Templepatrick",
+                    "s_city_slug": "templepatrick",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Waringstown",
+                    "s_city_slug": "waringstown",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Warrenpoint",
+                    "s_city_slug": "warrenpoint",
+                    "s_country_code": "gb",
+                    "s_region_slug": "northern-ireland"
+                },
+                {
+                    "s_city_name": "Whitehead",
+                    "s_city_slug": "whitehead",
                     "s_country_code": "gb",
                     "s_region_slug": "northern-ireland"
                 }

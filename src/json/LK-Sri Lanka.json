@@ -61,20 +61,8 @@
                     "s_region_slug": "central-province"
                 },
                 {
-                    "s_city_name": "Gampola",
-                    "s_city_slug": "gampola",
-                    "s_country_code": "lk",
-                    "s_region_slug": "central-province"
-                },
-                {
                     "s_city_name": "Hatton",
                     "s_city_slug": "hatton",
-                    "s_country_code": "lk",
-                    "s_region_slug": "central-province"
-                },
-                {
-                    "s_city_name": "Kadugannawa",
-                    "s_city_slug": "kadugannawa",
                     "s_country_code": "lk",
                     "s_region_slug": "central-province"
                 },
@@ -134,8 +122,74 @@
         {
             "cities": [
                 {
-                    "s_city_name": "Colombo District",
-                    "s_city_slug": "colombo-district",
+                    "s_city_name": "Dehiwala-Mount Lavinia",
+                    "s_city_slug": "dehiwala-mount-lavinia",
+                    "s_country_code": "lk",
+                    "s_region_slug": "colombo-district"
+                },
+                {
+                    "s_city_name": "Homagama",
+                    "s_city_slug": "homagama",
+                    "s_country_code": "lk",
+                    "s_region_slug": "colombo-district"
+                },
+                {
+                    "s_city_name": "Kaduwela",
+                    "s_city_slug": "kaduwela",
+                    "s_country_code": "lk",
+                    "s_region_slug": "colombo-district"
+                },
+                {
+                    "s_city_name": "Kesbewa",
+                    "s_city_slug": "kesbewa",
+                    "s_country_code": "lk",
+                    "s_region_slug": "colombo-district"
+                },
+                {
+                    "s_city_name": "Kolonnawa",
+                    "s_city_slug": "kolonnawa",
+                    "s_country_code": "lk",
+                    "s_region_slug": "colombo-district"
+                },
+                {
+                    "s_city_name": "Kotte",
+                    "s_city_slug": "kotte",
+                    "s_country_code": "lk",
+                    "s_region_slug": "colombo-district"
+                },
+                {
+                    "s_city_name": "Maharagama",
+                    "s_city_slug": "maharagama",
+                    "s_country_code": "lk",
+                    "s_region_slug": "colombo-district"
+                },
+                {
+                    "s_city_name": "Moratuwa",
+                    "s_city_slug": "moratuwa",
+                    "s_country_code": "lk",
+                    "s_region_slug": "colombo-district"
+                },
+                {
+                    "s_city_name": "Padukka",
+                    "s_city_slug": "padukka",
+                    "s_country_code": "lk",
+                    "s_region_slug": "colombo-district"
+                },
+                {
+                    "s_city_name": "Ratmalana",
+                    "s_city_slug": "ratmalana",
+                    "s_country_code": "lk",
+                    "s_region_slug": "colombo-district"
+                },
+                {
+                    "s_city_name": "Seethawaka",
+                    "s_city_slug": "seethawaka",
+                    "s_country_code": "lk",
+                    "s_region_slug": "colombo-district"
+                },
+                {
+                    "s_city_name": "Thimbirigasyaya",
+                    "s_city_slug": "thimbirigasyaya",
                     "s_country_code": "lk",
                     "s_region_slug": "colombo-district"
                 }
@@ -273,8 +327,272 @@
         {
             "cities": [
                 {
-                    "s_city_name": "Kandy District",
-                    "s_city_slug": "kandy-district",
+                    "s_city_name": "Akurana",
+                    "s_city_slug": "akurana",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Alawatugoda",
+                    "s_city_slug": "alawatugoda",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Ambatenna",
+                    "s_city_slug": "ambatenna",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Daskara",
+                    "s_city_slug": "daskara",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Daulagala",
+                    "s_city_slug": "daulagala",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Delthota",
+                    "s_city_slug": "delthota",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Doluwa",
+                    "s_city_slug": "doluwa",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Galagedara",
+                    "s_city_slug": "galagedara",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Galhinna",
+                    "s_city_slug": "galhinna",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Gampola",
+                    "s_city_slug": "gampola",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Ganga Ihala Korale",
+                    "s_city_slug": "ganga-ihala-korale",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Hanguranketa",
+                    "s_city_slug": "hanguranketa",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Hapugastalawa",
+                    "s_city_slug": "hapugastalawa",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Harispattuwa",
+                    "s_city_slug": "harispattuwa",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Hatharaliyadda",
+                    "s_city_slug": "hatharaliyadda",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Kadugannawa",
+                    "s_city_slug": "kadugannawa",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Kandy Four Gravets",
+                    "s_city_slug": "kandy-four-gravets",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Katugastota",
+                    "s_city_slug": "katugastota",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Kundasale",
+                    "s_city_slug": "kundasale",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Madawala",
+                    "s_city_slug": "madawala",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Medadumbara",
+                    "s_city_slug": "medadumbara",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Menikdiwela",
+                    "s_city_slug": "menikdiwela",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Minipe",
+                    "s_city_slug": "minipe",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Nawalapitiya",
+                    "s_city_slug": "nawalapitiya",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Pallekele",
+                    "s_city_slug": "pallekele",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Panvila",
+                    "s_city_slug": "panvila",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Pasbage Korale",
+                    "s_city_slug": "pasbage-korale",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Pathadumbara",
+                    "s_city_slug": "pathadumbara",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Pathahewaheta",
+                    "s_city_slug": "pathahewaheta",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Peradeniya",
+                    "s_city_slug": "peradeniya",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Pilimathalawa",
+                    "s_city_slug": "pilimathalawa",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Poojapitiya",
+                    "s_city_slug": "poojapitiya",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Pussellawa",
+                    "s_city_slug": "pussellawa",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Talatuoya",
+                    "s_city_slug": "talatuoya",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Teldeniya",
+                    "s_city_slug": "teldeniya",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Thumpane",
+                    "s_city_slug": "thumpane",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Udadumbara",
+                    "s_city_slug": "udadumbara",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Udapalatha",
+                    "s_city_slug": "udapalatha",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Ududumbara",
+                    "s_city_slug": "ududumbara",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Udunuwara",
+                    "s_city_slug": "udunuwara",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Ulapane",
+                    "s_city_slug": "ulapane",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Watadeniya",
+                    "s_city_slug": "watadeniya",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Wattegama",
+                    "s_city_slug": "wattegama",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Welamboda",
+                    "s_city_slug": "welamboda",
+                    "s_country_code": "lk",
+                    "s_region_slug": "kandy-district"
+                },
+                {
+                    "s_city_name": "Yatinuwara",
+                    "s_city_slug": "yatinuwara",
                     "s_country_code": "lk",
                     "s_region_slug": "kandy-district"
                 }
@@ -747,12 +1065,6 @@
                     "s_region_slug": "uva-province"
                 },
                 {
-                    "s_city_name": "Wattegama",
-                    "s_city_slug": "wattegama",
-                    "s_country_code": "lk",
-                    "s_region_slug": "uva-province"
-                },
-                {
                     "s_city_name": "Wellawaya",
                     "s_city_slug": "wellawaya",
                     "s_country_code": "lk",
@@ -803,12 +1115,6 @@
                     "s_region_slug": "western-province"
                 },
                 {
-                    "s_city_name": "Dehiwala-Mount Lavinia",
-                    "s_city_slug": "dehiwala-mount-lavinia",
-                    "s_country_code": "lk",
-                    "s_region_slug": "western-province"
-                },
-                {
                     "s_city_name": "Gampaha",
                     "s_city_slug": "gampaha",
                     "s_country_code": "lk",
@@ -829,12 +1135,6 @@
                 {
                     "s_city_name": "Hendala",
                     "s_city_slug": "hendala",
-                    "s_country_code": "lk",
-                    "s_region_slug": "western-province"
-                },
-                {
-                    "s_city_name": "Homagama",
-                    "s_city_slug": "homagama",
                     "s_country_code": "lk",
                     "s_region_slug": "western-province"
                 },
@@ -881,32 +1181,14 @@
                     "s_region_slug": "western-province"
                 },
                 {
-                    "s_city_name": "Kolonnawa",
-                    "s_city_slug": "kolonnawa",
-                    "s_country_code": "lk",
-                    "s_region_slug": "western-province"
-                },
-                {
                     "s_city_name": "Kotikawatta",
                     "s_city_slug": "kotikawatta",
                     "s_country_code": "lk",
                     "s_region_slug": "western-province"
                 },
                 {
-                    "s_city_name": "Maharagama",
-                    "s_city_slug": "maharagama",
-                    "s_country_code": "lk",
-                    "s_region_slug": "western-province"
-                },
-                {
                     "s_city_name": "Minuwangoda",
                     "s_city_slug": "minuwangoda",
-                    "s_country_code": "lk",
-                    "s_region_slug": "western-province"
-                },
-                {
-                    "s_city_name": "Moratuwa",
-                    "s_city_slug": "moratuwa",
                     "s_country_code": "lk",
                     "s_region_slug": "western-province"
                 },

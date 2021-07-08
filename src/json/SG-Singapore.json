@@ -1,0 +1,72 @@
+{
+    "regions": [
+        {
+            "cities": [
+                {
+                    "s_city_name": "Singapore",
+                    "s_city_slug": "singapore",
+                    "s_country_code": "sg",
+                    "s_region_slug": "central-singapore-community-development-council"
+                }
+            ],
+            "s_country_code": "sg",
+            "s_region_name": "Central Singapore Community Development Council",
+            "s_region_slug": "central-singapore-community-development-council"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "North East Community Development Council",
+                    "s_city_slug": "north-east-community-development-council",
+                    "s_country_code": "sg",
+                    "s_region_slug": "north-east-community-development-council"
+                }
+            ],
+            "s_country_code": "sg",
+            "s_region_name": "North East Community Development Council",
+            "s_region_slug": "north-east-community-development-council"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Woodlands",
+                    "s_city_slug": "woodlands",
+                    "s_country_code": "sg",
+                    "s_region_slug": "north-west-community-development-council"
+                }
+            ],
+            "s_country_code": "sg",
+            "s_region_name": "North West Community Development Council",
+            "s_region_slug": "north-west-community-development-council"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "South East Community Development Council",
+                    "s_city_slug": "south-east-community-development-council",
+                    "s_country_code": "sg",
+                    "s_region_slug": "south-east-community-development-council"
+                }
+            ],
+            "s_country_code": "sg",
+            "s_region_name": "South East Community Development Council",
+            "s_region_slug": "south-east-community-development-council"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "South West Community Development Council",
+                    "s_city_slug": "south-west-community-development-council",
+                    "s_country_code": "sg",
+                    "s_region_slug": "south-west-community-development-council"
+                }
+            ],
+            "s_country_code": "sg",
+            "s_region_name": "South West Community Development Council",
+            "s_region_slug": "south-west-community-development-council"
+        }
+    ],
+    "s_country_code": "SG",
+    "s_country_name": "Singapore",
+    "s_country_slug": "singapore"
+}

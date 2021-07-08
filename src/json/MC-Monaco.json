@@ -1,0 +1,46 @@
+{
+    "regions": [
+        {
+            "cities": [
+                {
+                    "s_city_name": "La Colle",
+                    "s_city_slug": "la-colle",
+                    "s_country_code": "mc",
+                    "s_region_slug": "la-colle"
+                }
+            ],
+            "s_country_code": "mc",
+            "s_region_name": "La Colle",
+            "s_region_slug": "la-colle"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "La Condamine",
+                    "s_city_slug": "la-condamine",
+                    "s_country_code": "mc",
+                    "s_region_slug": "la-condamine"
+                }
+            ],
+            "s_country_code": "mc",
+            "s_region_name": "La Condamine",
+            "s_region_slug": "la-condamine"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Moneghetti",
+                    "s_city_slug": "moneghetti",
+                    "s_country_code": "mc",
+                    "s_region_slug": "moneghetti"
+                }
+            ],
+            "s_country_code": "mc",
+            "s_region_name": "Moneghetti",
+            "s_region_slug": "moneghetti"
+        }
+    ],
+    "s_country_code": "MC",
+    "s_country_name": "Monaco",
+    "s_country_slug": "monaco"
+}

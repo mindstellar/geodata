@@ -8991,12 +8991,6 @@
                     "s_region_slug": "campania"
                 },
                 {
-                    "s_city_name": "Campania",
-                    "s_city_slug": "campania",
-                    "s_country_code": "it",
-                    "s_region_slug": "campania"
-                },
-                {
                     "s_city_name": "Campolattaro",
                     "s_city_slug": "campolattaro",
                     "s_country_code": "it",
@@ -11285,6 +11279,12 @@
                 {
                     "s_city_name": "Reino",
                     "s_city_slug": "reino",
+                    "s_country_code": "it",
+                    "s_region_slug": "campania"
+                },
+                {
+                    "s_city_name": "Rettifilo-Vannullo",
+                    "s_city_slug": "rettifilo-vannullo",
                     "s_country_code": "it",
                     "s_region_slug": "campania"
                 },

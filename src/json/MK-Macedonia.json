@@ -14,14 +14,7 @@
             "s_region_slug": "aerodrom-municipality"
         },
         {
-            "cities": [
-                {
-                    "s_city_name": "Arachinovo",
-                    "s_city_slug": "arachinovo",
-                    "s_country_code": "mk",
-                    "s_region_slug": "aracinovo-municipality"
-                }
-            ],
+            "cities": [],
             "s_country_code": "mk",
             "s_region_name": "Aracinovo Municipality",
             "s_region_slug": "aracinovo-municipality"
@@ -589,20 +582,8 @@
         {
             "cities": [
                 {
-                    "s_city_name": "Idrizovo",
-                    "s_city_slug": "idrizovo",
-                    "s_country_code": "mk",
-                    "s_region_slug": "ilinden-municipality"
-                },
-                {
                     "s_city_name": "Ilinden",
                     "s_city_slug": "ilinden",
-                    "s_country_code": "mk",
-                    "s_region_slug": "ilinden-municipality"
-                },
-                {
-                    "s_city_name": "Jurumleri",
-                    "s_city_slug": "jurumleri",
                     "s_country_code": "mk",
                     "s_region_slug": "ilinden-municipality"
                 },
@@ -816,12 +797,6 @@
         {
             "cities": [
                 {
-                    "s_city_name": "Klechovtse",
-                    "s_city_slug": "klechovtse",
-                    "s_country_code": "mk",
-                    "s_region_slug": "krivogastani-municipality"
-                },
-                {
                     "s_city_name": "Krivogashtani",
                     "s_city_slug": "krivogashtani",
                     "s_country_code": "mk",
@@ -911,12 +886,6 @@
                 {
                     "s_city_name": "Otlja",
                     "s_city_slug": "otlja",
-                    "s_country_code": "mk",
-                    "s_region_slug": "lipkovo-municipality"
-                },
-                {
-                    "s_city_name": "Slupcane",
-                    "s_city_slug": "slupcane",
                     "s_country_code": "mk",
                     "s_region_slug": "lipkovo-municipality"
                 },
@@ -1119,12 +1088,6 @@
         {
             "cities": [
                 {
-                    "s_city_name": "Petrovec",
-                    "s_city_slug": "petrovec",
-                    "s_country_code": "mk",
-                    "s_region_slug": "petrovec-municipality"
-                },
-                {
                     "s_city_name": "Sredno Konjare",
                     "s_city_slug": "sredno-konjare",
                     "s_country_code": "mk",
@@ -1230,14 +1193,7 @@
             "s_region_slug": "radovis-municipality"
         },
         {
-            "cities": [
-                {
-                    "s_city_name": "Rankovtse",
-                    "s_city_slug": "rankovtse",
-                    "s_country_code": "mk",
-                    "s_region_slug": "rankovce-municipality"
-                }
-            ],
+            "cities": [],
             "s_country_code": "mk",
             "s_region_name": "Rankovce Municipality",
             "s_region_slug": "rankovce-municipality"
@@ -1318,14 +1274,7 @@
             "s_region_slug": "saraj-municipality"
         },
         {
-            "cities": [
-                {
-                    "s_city_name": "Sopishte",
-                    "s_city_slug": "sopishte",
-                    "s_country_code": "mk",
-                    "s_region_slug": "sopiste-municipality"
-                }
-            ],
+            "cities": [],
             "s_country_code": "mk",
             "s_region_name": "Sopiste Municipality",
             "s_region_slug": "sopiste-municipality"

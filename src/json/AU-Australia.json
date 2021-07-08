@@ -2482,6 +2482,12 @@
                     "s_region_slug": "new-south-wales"
                 },
                 {
+                    "s_city_name": "Cronulla",
+                    "s_city_slug": "cronulla",
+                    "s_country_code": "au",
+                    "s_region_slug": "new-south-wales"
+                },
+                {
                     "s_city_name": "Crookwell",
                     "s_city_slug": "crookwell",
                     "s_country_code": "au",
@@ -5364,12 +5370,6 @@
                 {
                     "s_city_name": "New Lambton Heights",
                     "s_city_slug": "new-lambton-heights",
-                    "s_country_code": "au",
-                    "s_region_slug": "new-south-wales"
-                },
-                {
-                    "s_city_name": "New South Wales",
-                    "s_city_slug": "new-south-wales",
                     "s_country_code": "au",
                     "s_region_slug": "new-south-wales"
                 },
@@ -23872,6 +23872,12 @@
                     "s_region_slug": "western-australia"
                 },
                 {
+                    "s_city_name": "Nullagine",
+                    "s_city_slug": "nullagine",
+                    "s_country_code": "au",
+                    "s_region_slug": "western-australia"
+                },
+                {
                     "s_city_name": "Nulsen",
                     "s_city_slug": "nulsen",
                     "s_country_code": "au",
@@ -24666,12 +24672,6 @@
                 {
                     "s_city_name": "West Perth",
                     "s_city_slug": "west-perth",
-                    "s_country_code": "au",
-                    "s_region_slug": "western-australia"
-                },
-                {
-                    "s_city_name": "Western Australia",
-                    "s_city_slug": "western-australia",
                     "s_country_code": "au",
                     "s_region_slug": "western-australia"
                 },

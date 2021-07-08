@@ -1165,12 +1165,6 @@
                     "s_region_slug": "minsk-region"
                 },
                 {
-                    "s_city_name": "Oktyabrsky",
-                    "s_city_slug": "oktyabrsky",
-                    "s_country_code": "by",
-                    "s_region_slug": "minsk-region"
-                },
-                {
                     "s_city_name": "Plyeshchanitsy",
                     "s_city_slug": "plyeshchanitsy",
                     "s_country_code": "by",

@@ -1012,6 +1012,12 @@
         {
             "cities": [
                 {
+                    "s_city_name": "Albeck",
+                    "s_city_slug": "albeck",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Althofen",
                     "s_city_slug": "althofen",
                     "s_country_code": "at",
@@ -1020,6 +1026,12 @@
                 {
                     "s_city_name": "Annabichl",
                     "s_city_slug": "annabichl",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Arnoldstein",
+                    "s_city_slug": "arnoldstein",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1042,6 +1054,30 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Bad Bleiberg",
+                    "s_city_slug": "bad-bleiberg",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Bad Eisenkappel",
+                    "s_city_slug": "bad-eisenkappel",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Bad Kleinkirchheim",
+                    "s_city_slug": "bad-kleinkirchheim",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Bad Kleinkirchheim",
+                    "s_city_slug": "bad-kleinkirchheim",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Bad Sankt Leonhard im Lavanttal",
                     "s_city_slug": "bad-sankt-leonhard-im-lavanttal",
                     "s_country_code": "at",
@@ -1060,8 +1096,8 @@
                     "s_region_slug": "carinthia"
                 },
                 {
-                    "s_city_name": "Bleiburg/Pliberk",
-                    "s_city_slug": "bleiburgpliberk",
+                    "s_city_name": "Bleiburg",
+                    "s_city_slug": "bleiburg",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1074,6 +1110,18 @@
                 {
                     "s_city_name": "Bruckl",
                     "s_city_slug": "bruckl",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Bruckl",
+                    "s_city_slug": "bruckl",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Dellach",
+                    "s_city_slug": "dellach",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1091,6 +1139,12 @@
                 },
                 {
                     "s_city_name": "Deutsch Griffen",
+                    "s_city_slug": "deutsch-griffen",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Deutsch-Griffen",
                     "s_city_slug": "deutsch-griffen",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
@@ -1132,8 +1186,26 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Ebriach",
+                    "s_city_slug": "ebriach",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Eisenkappel-Vellach",
+                    "s_city_slug": "eisenkappel-vellach",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Faak am See",
                     "s_city_slug": "faak-am-see",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Feffernitz",
+                    "s_city_slug": "feffernitz",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1156,6 +1228,12 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Feistritz im Rosental",
+                    "s_city_slug": "feistritz-im-rosental",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Feistritz ob Bleiburg",
                     "s_city_slug": "feistritz-ob-bleiburg",
                     "s_country_code": "at",
@@ -1168,6 +1246,12 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Feldkirchen District",
+                    "s_city_slug": "feldkirchen-district",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Feldkirchen in Karnten",
                     "s_city_slug": "feldkirchen-in-karnten",
                     "s_country_code": "at",
@@ -1176,6 +1260,12 @@
                 {
                     "s_city_name": "Ferlach",
                     "s_city_slug": "ferlach",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Ferndorf",
+                    "s_city_slug": "ferndorf",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1210,6 +1300,18 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Frantschach-Sankt Gertraud",
+                    "s_city_slug": "frantschach-sankt-gertraud",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Frauenstein",
+                    "s_city_slug": "frauenstein",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Frauenstein",
                     "s_city_slug": "frauenstein",
                     "s_country_code": "at",
@@ -1224,6 +1326,12 @@
                 {
                     "s_city_name": "Fresen",
                     "s_city_slug": "fresen",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Friesach",
+                    "s_city_slug": "friesach",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1252,6 +1360,24 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Gemmersdorf",
+                    "s_city_slug": "gemmersdorf",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Gerlamoos",
+                    "s_city_slug": "gerlamoos",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Gitschtal",
+                    "s_city_slug": "gitschtal",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Glanegg",
                     "s_city_slug": "glanegg",
                     "s_country_code": "at",
@@ -1276,8 +1402,26 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Gmund in Karnten",
+                    "s_city_slug": "gmund-in-karnten",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Gnesau",
                     "s_city_slug": "gnesau",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Gortschach",
+                    "s_city_slug": "gortschach",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Grafenstein",
+                    "s_city_slug": "grafenstein",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1318,6 +1462,12 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Gurk",
+                    "s_city_slug": "gurk",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Guttaring",
                     "s_city_slug": "guttaring",
                     "s_country_code": "at",
@@ -1336,6 +1486,18 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Hermagor District",
+                    "s_city_slug": "hermagor-district",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Hermagor-Pressegger See",
+                    "s_city_slug": "hermagor-pressegger-see",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Himmelberg",
                     "s_city_slug": "himmelberg",
                     "s_country_code": "at",
@@ -1350,6 +1512,12 @@
                 {
                     "s_city_name": "Hortendorf",
                     "s_city_slug": "hortendorf",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Huttenberg",
+                    "s_city_slug": "huttenberg",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1384,8 +1552,32 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Kirchbach",
+                    "s_city_slug": "kirchbach",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Klagenfurt",
+                    "s_city_slug": "klagenfurt",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Klagenfurt am Worthersee",
                     "s_city_slug": "klagenfurt-am-worthersee",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Klagenfurt-Land District",
+                    "s_city_slug": "klagenfurt-land-district",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Kleblach-Lind",
+                    "s_city_slug": "kleblach-lind",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1408,8 +1600,20 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Kotschach-Mauthen",
+                    "s_city_slug": "kotschach-mauthen",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Kottmannsdorf",
                     "s_city_slug": "kottmannsdorf",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Krems",
+                    "s_city_slug": "krems",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1422,6 +1626,12 @@
                 {
                     "s_city_name": "Kuhnsdorf",
                     "s_city_slug": "kuhnsdorf",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Lamnitz",
+                    "s_city_slug": "lamnitz",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1456,6 +1666,24 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Lendorf",
+                    "s_city_slug": "lendorf",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Leppen",
+                    "s_city_slug": "leppen",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Lesachtal",
+                    "s_city_slug": "lesachtal",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Liebenfels",
                     "s_city_slug": "liebenfels",
                     "s_country_code": "at",
@@ -1468,8 +1696,44 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Lobersberg",
+                    "s_city_slug": "lobersberg",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Ludmannsdorf",
                     "s_city_slug": "ludmannsdorf",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Lurnfeld",
+                    "s_city_slug": "lurnfeld",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Magdalensberg",
+                    "s_city_slug": "magdalensberg",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Mallnitz",
+                    "s_city_slug": "mallnitz",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Malta",
+                    "s_city_slug": "malta",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Maria Rain",
+                    "s_city_slug": "maria-rain",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1482,6 +1746,12 @@
                 {
                     "s_city_name": "Maria Saal",
                     "s_city_slug": "maria-saal",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Maria Worth",
+                    "s_city_slug": "maria-worth",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1510,6 +1780,18 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Micheldorf",
+                    "s_city_slug": "micheldorf",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Millstatt",
+                    "s_city_slug": "millstatt",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Millstatt",
                     "s_city_slug": "millstatt",
                     "s_country_code": "at",
@@ -1534,8 +1816,20 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Moosburg",
+                    "s_city_slug": "moosburg",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Mortschach",
                     "s_city_slug": "mortschach",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Muhldorf",
+                    "s_city_slug": "muhldorf",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1564,8 +1858,26 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Notsch im Gailtal",
+                    "s_city_slug": "notsch-im-gailtal",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Oberdorfl",
+                    "s_city_slug": "oberdorfl",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Oberdrauburg",
                     "s_city_slug": "oberdrauburg",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Obermillstatt",
+                    "s_city_slug": "obermillstatt",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1588,56 +1900,20 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Pischeldorf",
+                    "s_city_slug": "pischeldorf",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Pockau",
+                    "s_city_slug": "pockau",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Poggersdorf",
                     "s_city_slug": "poggersdorf",
-                    "s_country_code": "at",
-                    "s_region_slug": "carinthia"
-                },
-                {
-                    "s_city_name": "Politischer Bezirk Feldkirchen",
-                    "s_city_slug": "politischer-bezirk-feldkirchen",
-                    "s_country_code": "at",
-                    "s_region_slug": "carinthia"
-                },
-                {
-                    "s_city_name": "Politischer Bezirk Hermagor",
-                    "s_city_slug": "politischer-bezirk-hermagor",
-                    "s_country_code": "at",
-                    "s_region_slug": "carinthia"
-                },
-                {
-                    "s_city_name": "Politischer Bezirk Klagenfurt Land",
-                    "s_city_slug": "politischer-bezirk-klagenfurt-land",
-                    "s_country_code": "at",
-                    "s_region_slug": "carinthia"
-                },
-                {
-                    "s_city_name": "Politischer Bezirk Sankt Veit an der Glan",
-                    "s_city_slug": "politischer-bezirk-sankt-veit-an-der-glan",
-                    "s_country_code": "at",
-                    "s_region_slug": "carinthia"
-                },
-                {
-                    "s_city_name": "Politischer Bezirk Spittal an der Drau",
-                    "s_city_slug": "politischer-bezirk-spittal-an-der-drau",
-                    "s_country_code": "at",
-                    "s_region_slug": "carinthia"
-                },
-                {
-                    "s_city_name": "Politischer Bezirk Villach Land",
-                    "s_city_slug": "politischer-bezirk-villach-land",
-                    "s_country_code": "at",
-                    "s_region_slug": "carinthia"
-                },
-                {
-                    "s_city_name": "Politischer Bezirk Volkermarkt",
-                    "s_city_slug": "politischer-bezirk-volkermarkt",
-                    "s_country_code": "at",
-                    "s_region_slug": "carinthia"
-                },
-                {
-                    "s_city_name": "Politischer Bezirk Wolfsberg",
-                    "s_city_slug": "politischer-bezirk-wolfsberg",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1656,6 +1932,12 @@
                 {
                     "s_city_name": "Priel",
                     "s_city_slug": "priel",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Pusarnitz",
+                    "s_city_slug": "pusarnitz",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1684,8 +1966,20 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Reichenau",
+                    "s_city_slug": "reichenau",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Reichenfels",
                     "s_city_slug": "reichenfels",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Reieck",
+                    "s_city_slug": "reieck",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1696,8 +1990,20 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Rittersdorf",
+                    "s_city_slug": "rittersdorf",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Rosegg",
                     "s_city_slug": "rosegg",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Ruden",
+                    "s_city_slug": "ruden",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1716,6 +2022,42 @@
                 {
                     "s_city_name": "Sankt Andra",
                     "s_city_slug": "sankt-andra",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Sankt Egyden an der Drau",
+                    "s_city_slug": "sankt-egyden-an-der-drau",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Sankt Georgen am Langsee",
+                    "s_city_slug": "sankt-georgen-am-langsee",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Sankt Georgen im Lavanttal",
+                    "s_city_slug": "sankt-georgen-im-lavanttal",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Sankt Jakob",
+                    "s_city_slug": "sankt-jakob",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Sankt Jakob im Rosental",
+                    "s_city_slug": "sankt-jakob-im-rosental",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Sankt Kanzian am Klopeiner See",
+                    "s_city_slug": "sankt-kanzian-am-klopeiner-see",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1744,8 +2086,8 @@
                     "s_region_slug": "carinthia"
                 },
                 {
-                    "s_city_name": "Sankt Paul im Levanttal",
-                    "s_city_slug": "sankt-paul-im-levanttal",
+                    "s_city_name": "Sankt Paul im Lavanttal",
+                    "s_city_slug": "sankt-paul-im-lavanttal",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1768,8 +2110,32 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Sankt Stefan im Gailtal",
+                    "s_city_slug": "sankt-stefan-im-gailtal",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Sankt Urban",
+                    "s_city_slug": "sankt-urban",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Sankt Veit an der Glan",
                     "s_city_slug": "sankt-veit-an-der-glan",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Sankt Veit an der Glan District",
+                    "s_city_slug": "sankt-veit-an-der-glan-district",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Schiefling am See",
+                    "s_city_slug": "schiefling-am-see",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1798,8 +2164,20 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Seeboden",
+                    "s_city_slug": "seeboden",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Seitenberg",
                     "s_city_slug": "seitenberg",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Sirnitz",
+                    "s_city_slug": "sirnitz",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1816,20 +2194,62 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Spittal an der Drau District",
+                    "s_city_slug": "spittal-an-der-drau-district",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "St. Agathen und Perau",
                     "s_city_slug": "st-agathen-und-perau",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
                 {
-                    "s_city_name": "St. Georgen am Langsee",
-                    "s_city_slug": "st-georgen-am-langsee",
+                    "s_city_name": "St. Andra",
+                    "s_city_slug": "st-andra",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "St. Margareten im Rosental",
+                    "s_city_slug": "st-margareten-im-rosental",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "St. Paul im Lavanttal",
+                    "s_city_slug": "st-paul-im-lavanttal",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "St. Stefan im Gailtal",
+                    "s_city_slug": "st-stefan-im-gailtal",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "St. Urban",
+                    "s_city_slug": "st-urban",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "St. Veit an der Glan",
+                    "s_city_slug": "st-veit-an-der-glan",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
                 {
                     "s_city_name": "St. Veiter Vorstadt",
                     "s_city_slug": "st-veiter-vorstadt",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Stall",
+                    "s_city_slug": "stall",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1852,6 +2272,12 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Steinfeld",
+                    "s_city_slug": "steinfeld",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Steuerberg",
                     "s_city_slug": "steuerberg",
                     "s_country_code": "at",
@@ -1864,8 +2290,32 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Straburg",
+                    "s_city_slug": "straburg",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Straburg-Stadt",
                     "s_city_slug": "straburg-stadt",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Suetschach",
+                    "s_city_slug": "suetschach",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Techelsberg",
+                    "s_city_slug": "techelsberg",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Timenitz",
+                    "s_city_slug": "timenitz",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1876,14 +2326,44 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Trebesing",
+                    "s_city_slug": "trebesing",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Treffen",
+                    "s_city_slug": "treffen",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Treibach",
                     "s_city_slug": "treibach",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Tschachoritsch",
+                    "s_city_slug": "tschachoritsch",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Umberg",
+                    "s_city_slug": "umberg",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Untere Fellach",
                     "s_city_slug": "untere-fellach",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Velden am Worther See",
+                    "s_city_slug": "velden-am-worther-see",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1912,14 +2392,20 @@
                     "s_region_slug": "carinthia"
                 },
                 {
-                    "s_city_name": "Villach Stadt",
-                    "s_city_slug": "villach-stadt",
+                    "s_city_name": "Villach",
+                    "s_city_slug": "villach",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
                 {
                     "s_city_name": "Villach-Innere Stadt",
                     "s_city_slug": "villach-innere-stadt",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Villach-Land District",
+                    "s_city_slug": "villach-land-district",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1942,6 +2428,12 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Volkermarkt District",
+                    "s_city_slug": "volkermarkt-district",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Volkermarkter Vorstadt",
                     "s_city_slug": "volkermarkter-vorstadt",
                     "s_country_code": "at",
@@ -1960,8 +2452,32 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Weiensee",
+                    "s_city_slug": "weiensee",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Weienstein",
+                    "s_city_slug": "weienstein",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Weitensfeld",
                     "s_city_slug": "weitensfeld",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Weitensfeld im Gurktal",
+                    "s_city_slug": "weitensfeld-im-gurktal",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Wernberg",
+                    "s_city_slug": "wernberg",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 },
@@ -1990,8 +2506,26 @@
                     "s_region_slug": "carinthia"
                 },
                 {
+                    "s_city_name": "Wolfsberg",
+                    "s_city_slug": "wolfsberg",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Wolfsberg District",
+                    "s_city_slug": "wolfsberg-district",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
                     "s_city_name": "Wudmath",
                     "s_city_slug": "wudmath",
+                    "s_country_code": "at",
+                    "s_region_slug": "carinthia"
+                },
+                {
+                    "s_city_name": "Zell",
+                    "s_city_slug": "zell",
                     "s_country_code": "at",
                     "s_region_slug": "carinthia"
                 }
@@ -6008,12 +6542,6 @@
                 {
                     "s_city_name": "Politischer Bezirk Tamsweg",
                     "s_city_slug": "politischer-bezirk-tamsweg",
-                    "s_country_code": "at",
-                    "s_region_slug": "salzburg"
-                },
-                {
-                    "s_city_name": "Politischer Bezirk Zell am See",
-                    "s_city_slug": "politischer-bezirk-zell-am-see",
                     "s_country_code": "at",
                     "s_region_slug": "salzburg"
                 },
@@ -12525,8 +13053,8 @@
                     "s_region_slug": "upper-austria"
                 },
                 {
-                    "s_city_name": "Rohrbach in Oberosterreich",
-                    "s_city_slug": "rohrbach-in-oberosterreich",
+                    "s_city_name": "Rohrbach-Berg",
+                    "s_city_slug": "rohrbach-berg",
                     "s_country_code": "at",
                     "s_region_slug": "upper-austria"
                 },

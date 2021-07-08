@@ -16,12 +16,6 @@
         {
             "cities": [
                 {
-                    "s_city_name": "Alytaus rajonas",
-                    "s_city_slug": "alytaus-rajonas",
-                    "s_country_code": "lt",
-                    "s_region_slug": "alytus-city-municipality"
-                },
-                {
                     "s_city_name": "Alytus",
                     "s_city_slug": "alytus",
                     "s_country_code": "lt",
@@ -305,12 +299,6 @@
                     "s_region_slug": "kaunas-city-municipality"
                 },
                 {
-                    "s_city_name": "Kauno rajonas",
-                    "s_city_slug": "kauno-rajonas",
-                    "s_country_code": "lt",
-                    "s_region_slug": "kaunas-city-municipality"
-                },
-                {
                     "s_city_name": "Kedainiai",
                     "s_city_slug": "kedainiai",
                     "s_country_code": "lt",
@@ -477,12 +465,6 @@
                 {
                     "s_city_name": "Klaipeda",
                     "s_city_slug": "klaipeda",
-                    "s_country_code": "lt",
-                    "s_region_slug": "klaipeda-district-municipality"
-                },
-                {
-                    "s_city_name": "Klaipedos rajonas",
-                    "s_city_slug": "klaipedos-rajonas",
                     "s_country_code": "lt",
                     "s_region_slug": "klaipeda-district-municipality"
                 },
@@ -1021,12 +1003,6 @@
                     "s_region_slug": "siauliai-city-municipality"
                 },
                 {
-                    "s_city_name": "Akmenes Rajonas",
-                    "s_city_slug": "akmenes-rajonas",
-                    "s_country_code": "lt",
-                    "s_region_slug": "siauliai-city-municipality"
-                },
-                {
                     "s_city_name": "Joniskis",
                     "s_city_slug": "joniskis",
                     "s_country_code": "lt",
@@ -1083,12 +1059,6 @@
                 {
                     "s_city_name": "Siauliai",
                     "s_city_slug": "siauliai",
-                    "s_country_code": "lt",
-                    "s_region_slug": "siauliai-city-municipality"
-                },
-                {
-                    "s_city_name": "Siauliu rajonas",
-                    "s_city_slug": "siauliu-rajonas",
                     "s_country_code": "lt",
                     "s_region_slug": "siauliai-city-municipality"
                 },

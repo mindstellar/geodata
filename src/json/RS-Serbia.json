@@ -3,19 +3,6 @@
         {
             "cities": [
                 {
-                    "s_city_name": "Autonomous Province of Kosovo and Metohija",
-                    "s_city_slug": "autonomous-province-of-kosovo-and-metohija",
-                    "s_country_code": "rs",
-                    "s_region_slug": "autonomous-province-of-kosovo-and-metohija"
-                }
-            ],
-            "s_country_code": "rs",
-            "s_region_name": "Autonomous Province of Kosovo and Metohija",
-            "s_region_slug": "autonomous-province-of-kosovo-and-metohija"
-        },
-        {
-            "cities": [
-                {
                     "s_city_name": "Belgrade",
                     "s_city_slug": "belgrade",
                     "s_country_code": "rs",
@@ -946,32 +933,6 @@
         {
             "cities": [
                 {
-                    "s_city_name": "Kosovo-Pomoravlje District",
-                    "s_city_slug": "kosovo-pomoravlje-district",
-                    "s_country_code": "rs",
-                    "s_region_slug": "kosovo-pomoravlje-district"
-                }
-            ],
-            "s_country_code": "rs",
-            "s_region_name": "Kosovo-Pomoravlje District",
-            "s_region_slug": "kosovo-pomoravlje-district"
-        },
-        {
-            "cities": [
-                {
-                    "s_city_name": "Kosovska Mitrovica District",
-                    "s_city_slug": "kosovska-mitrovica-district",
-                    "s_country_code": "rs",
-                    "s_region_slug": "kosovska-mitrovica-district"
-                }
-            ],
-            "s_country_code": "rs",
-            "s_region_name": "Kosovska Mitrovica District",
-            "s_region_slug": "kosovska-mitrovica-district"
-        },
-        {
-            "cities": [
-                {
                     "s_city_name": "Macva District",
                     "s_city_slug": "macva-district",
                     "s_country_code": "rs",
@@ -1050,19 +1011,6 @@
         {
             "cities": [
                 {
-                    "s_city_name": "Pec District",
-                    "s_city_slug": "pec-district",
-                    "s_country_code": "rs",
-                    "s_region_slug": "pec-district"
-                }
-            ],
-            "s_country_code": "rs",
-            "s_region_name": "Pec District",
-            "s_region_slug": "pec-district"
-        },
-        {
-            "cities": [
-                {
                     "s_city_name": "Pirot District",
                     "s_city_slug": "pirot-district",
                     "s_country_code": "rs",
@@ -1098,19 +1046,6 @@
             "s_country_code": "rs",
             "s_region_name": "Pomoravlje District",
             "s_region_slug": "pomoravlje-district"
-        },
-        {
-            "cities": [
-                {
-                    "s_city_name": "Prizren District",
-                    "s_city_slug": "prizren-district",
-                    "s_country_code": "rs",
-                    "s_region_slug": "prizren-district"
-                }
-            ],
-            "s_country_code": "rs",
-            "s_region_name": "Prizren District",
-            "s_region_slug": "prizren-district"
         },
         {
             "cities": [

@@ -1,0 +1,51 @@
+{
+    "regions": [
+        {
+            "cities": [
+                {
+                    "s_city_name": "Santo Antonio",
+                    "s_city_slug": "santo-antonio",
+                    "s_country_code": "st",
+                    "s_region_slug": "principe-province"
+                }
+            ],
+            "s_country_code": "st",
+            "s_region_name": "Principe Province",
+            "s_region_slug": "principe-province"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Cantagalo District",
+                    "s_city_slug": "cantagalo-district",
+                    "s_country_code": "st",
+                    "s_region_slug": "sao-tome-province"
+                },
+                {
+                    "s_city_name": "Caue District",
+                    "s_city_slug": "caue-district",
+                    "s_country_code": "st",
+                    "s_region_slug": "sao-tome-province"
+                },
+                {
+                    "s_city_name": "Sao Tome",
+                    "s_city_slug": "sao-tome",
+                    "s_country_code": "st",
+                    "s_region_slug": "sao-tome-province"
+                },
+                {
+                    "s_city_name": "Trindade",
+                    "s_city_slug": "trindade",
+                    "s_country_code": "st",
+                    "s_region_slug": "sao-tome-province"
+                }
+            ],
+            "s_country_code": "st",
+            "s_region_name": "Sao Tome Province",
+            "s_region_slug": "sao-tome-province"
+        }
+    ],
+    "s_country_code": "ST",
+    "s_country_name": "Sao Tome and Principe",
+    "s_country_slug": "sao-tome-and-principe"
+}

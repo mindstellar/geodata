@@ -1618,19 +1618,6 @@
         {
             "cities": [
                 {
-                    "s_city_name": "Kielce",
-                    "s_city_slug": "kielce",
-                    "s_country_code": "pl",
-                    "s_region_slug": "kielce"
-                }
-            ],
-            "s_country_code": "pl",
-            "s_region_name": "Kielce",
-            "s_region_slug": "kielce"
-        },
-        {
-            "cities": [
-                {
                     "s_city_name": "Aleksandrow Kujawski",
                     "s_city_slug": "aleksandrow-kujawski",
                     "s_country_code": "pl",

@@ -3,69 +3,82 @@
         {
             "cities": [
                 {
+                    "s_city_name": "Autonomous City Of Buenos Aires",
+                    "s_city_slug": "autonomous-city-of-buenos-aires",
+                    "s_country_code": "ar",
+                    "s_region_slug": "autonomous-city-of-buenos-aires"
+                }
+            ],
+            "s_country_code": "ar",
+            "s_region_name": "Autonomous City Of Buenos Aires",
+            "s_region_slug": "autonomous-city-of-buenos-aires"
+        },
+        {
+            "cities": [
+                {
                     "s_city_name": "Balvanera",
                     "s_city_slug": "balvanera",
                     "s_country_code": "ar",
-                    "s_region_slug": "buenos-aires"
+                    "s_region_slug": "buenos-aires-province"
                 },
                 {
                     "s_city_name": "Barracas",
                     "s_city_slug": "barracas",
                     "s_country_code": "ar",
-                    "s_region_slug": "buenos-aires"
+                    "s_region_slug": "buenos-aires-province"
                 },
                 {
                     "s_city_name": "Belgrano",
                     "s_city_slug": "belgrano",
                     "s_country_code": "ar",
-                    "s_region_slug": "buenos-aires"
+                    "s_region_slug": "buenos-aires-province"
                 },
                 {
                     "s_city_name": "Boedo",
                     "s_city_slug": "boedo",
                     "s_country_code": "ar",
-                    "s_region_slug": "buenos-aires"
+                    "s_region_slug": "buenos-aires-province"
                 },
                 {
                     "s_city_name": "Buenos Aires",
                     "s_city_slug": "buenos-aires",
                     "s_country_code": "ar",
-                    "s_region_slug": "buenos-aires"
+                    "s_region_slug": "buenos-aires-province"
                 },
                 {
                     "s_city_name": "Colegiales",
                     "s_city_slug": "colegiales",
                     "s_country_code": "ar",
-                    "s_region_slug": "buenos-aires"
+                    "s_region_slug": "buenos-aires-province"
                 },
                 {
                     "s_city_name": "Retiro",
                     "s_city_slug": "retiro",
                     "s_country_code": "ar",
-                    "s_region_slug": "buenos-aires"
+                    "s_region_slug": "buenos-aires-province"
                 },
                 {
                     "s_city_name": "Villa Lugano",
                     "s_city_slug": "villa-lugano",
                     "s_country_code": "ar",
-                    "s_region_slug": "buenos-aires"
+                    "s_region_slug": "buenos-aires-province"
                 },
                 {
                     "s_city_name": "Villa Ortuzar",
                     "s_city_slug": "villa-ortuzar",
                     "s_country_code": "ar",
-                    "s_region_slug": "buenos-aires"
+                    "s_region_slug": "buenos-aires-province"
                 },
                 {
                     "s_city_name": "Villa Santa Rita",
                     "s_city_slug": "villa-santa-rita",
                     "s_country_code": "ar",
-                    "s_region_slug": "buenos-aires"
+                    "s_region_slug": "buenos-aires-province"
                 }
             ],
             "s_country_code": "ar",
-            "s_region_name": "Buenos Aires",
-            "s_region_slug": "buenos-aires"
+            "s_region_name": "Buenos Aires Province",
+            "s_region_slug": "buenos-aires-province"
         },
         {
             "cities": [

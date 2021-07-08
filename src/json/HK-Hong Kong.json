@@ -1,0 +1,241 @@
+{
+    "regions": [
+        {
+            "cities": [
+                {
+                    "s_city_name": "Central and Western District",
+                    "s_city_slug": "central-and-western-district",
+                    "s_country_code": "hk",
+                    "s_region_slug": "central-and-western-district"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Central and Western District",
+            "s_region_slug": "central-and-western-district"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Eastern",
+                    "s_city_slug": "eastern",
+                    "s_country_code": "hk",
+                    "s_region_slug": "eastern"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Eastern",
+            "s_region_slug": "eastern"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Islands District",
+                    "s_city_slug": "islands-district",
+                    "s_country_code": "hk",
+                    "s_region_slug": "islands-district"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Islands District",
+            "s_region_slug": "islands-district"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Kowloon City",
+                    "s_city_slug": "kowloon-city",
+                    "s_country_code": "hk",
+                    "s_region_slug": "kowloon-city"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Kowloon City",
+            "s_region_slug": "kowloon-city"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Kwai Tsing",
+                    "s_city_slug": "kwai-tsing",
+                    "s_country_code": "hk",
+                    "s_region_slug": "kwai-tsing"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Kwai Tsing",
+            "s_region_slug": "kwai-tsing"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Kwun Tong",
+                    "s_city_slug": "kwun-tong",
+                    "s_country_code": "hk",
+                    "s_region_slug": "kwun-tong"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Kwun Tong",
+            "s_region_slug": "kwun-tong"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "North",
+                    "s_city_slug": "north",
+                    "s_country_code": "hk",
+                    "s_region_slug": "north"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "North",
+            "s_region_slug": "north"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Sai Kung District",
+                    "s_city_slug": "sai-kung-district",
+                    "s_country_code": "hk",
+                    "s_region_slug": "sai-kung-district"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Sai Kung District",
+            "s_region_slug": "sai-kung-district"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Sha Tin",
+                    "s_city_slug": "sha-tin",
+                    "s_country_code": "hk",
+                    "s_region_slug": "sha-tin"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Sha Tin",
+            "s_region_slug": "sha-tin"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Sham Shui Po",
+                    "s_city_slug": "sham-shui-po",
+                    "s_country_code": "hk",
+                    "s_region_slug": "sham-shui-po"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Sham Shui Po",
+            "s_region_slug": "sham-shui-po"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Southern",
+                    "s_city_slug": "southern",
+                    "s_country_code": "hk",
+                    "s_region_slug": "southern"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Southern",
+            "s_region_slug": "southern"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Tai Po District",
+                    "s_city_slug": "tai-po-district",
+                    "s_country_code": "hk",
+                    "s_region_slug": "tai-po-district"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Tai Po District",
+            "s_region_slug": "tai-po-district"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Tsuen Wan District",
+                    "s_city_slug": "tsuen-wan-district",
+                    "s_country_code": "hk",
+                    "s_region_slug": "tsuen-wan-district"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Tsuen Wan District",
+            "s_region_slug": "tsuen-wan-district"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Tuen Mun",
+                    "s_city_slug": "tuen-mun",
+                    "s_country_code": "hk",
+                    "s_region_slug": "tuen-mun"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Tuen Mun",
+            "s_region_slug": "tuen-mun"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Wan Chai",
+                    "s_city_slug": "wan-chai",
+                    "s_country_code": "hk",
+                    "s_region_slug": "wan-chai"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Wan Chai",
+            "s_region_slug": "wan-chai"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Wong Tai Sin",
+                    "s_city_slug": "wong-tai-sin",
+                    "s_country_code": "hk",
+                    "s_region_slug": "wong-tai-sin"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Wong Tai Sin",
+            "s_region_slug": "wong-tai-sin"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Yau Tsim Mong",
+                    "s_city_slug": "yau-tsim-mong",
+                    "s_country_code": "hk",
+                    "s_region_slug": "yau-tsim-mong"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Yau Tsim Mong",
+            "s_region_slug": "yau-tsim-mong"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Yuen Long District",
+                    "s_city_slug": "yuen-long-district",
+                    "s_country_code": "hk",
+                    "s_region_slug": "yuen-long-district"
+                }
+            ],
+            "s_country_code": "hk",
+            "s_region_name": "Yuen Long District",
+            "s_region_slug": "yuen-long-district"
+        }
+    ],
+    "s_country_code": "HK",
+    "s_country_name": "Hong Kong",
+    "s_country_slug": "hong-kong"
+}

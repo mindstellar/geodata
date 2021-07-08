@@ -1,0 +1,150 @@
+{
+    "regions": [
+        {
+            "cities": [
+                {
+                    "s_city_name": "Devonshire Parish",
+                    "s_city_slug": "devonshire-parish",
+                    "s_country_code": "bm",
+                    "s_region_slug": "devonshire-parish"
+                }
+            ],
+            "s_country_code": "bm",
+            "s_region_name": "Devonshire Parish",
+            "s_region_slug": "devonshire-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Hamilton Municipality",
+                    "s_city_slug": "hamilton-municipality",
+                    "s_country_code": "bm",
+                    "s_region_slug": "hamilton-municipality"
+                }
+            ],
+            "s_country_code": "bm",
+            "s_region_name": "Hamilton Municipality",
+            "s_region_slug": "hamilton-municipality"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Hamilton Parish",
+                    "s_city_slug": "hamilton-parish",
+                    "s_country_code": "bm",
+                    "s_region_slug": "hamilton-parish"
+                }
+            ],
+            "s_country_code": "bm",
+            "s_region_name": "Hamilton Parish",
+            "s_region_slug": "hamilton-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Paget Parish",
+                    "s_city_slug": "paget-parish",
+                    "s_country_code": "bm",
+                    "s_region_slug": "paget-parish"
+                }
+            ],
+            "s_country_code": "bm",
+            "s_region_name": "Paget Parish",
+            "s_region_slug": "paget-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Pembroke Parish",
+                    "s_city_slug": "pembroke-parish",
+                    "s_country_code": "bm",
+                    "s_region_slug": "pembroke-parish"
+                }
+            ],
+            "s_country_code": "bm",
+            "s_region_name": "Pembroke Parish",
+            "s_region_slug": "pembroke-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Saint George's Municipality",
+                    "s_city_slug": "saint-georges-municipality",
+                    "s_country_code": "bm",
+                    "s_region_slug": "saint-georges-municipality"
+                }
+            ],
+            "s_country_code": "bm",
+            "s_region_name": "Saint George's Municipality",
+            "s_region_slug": "saint-georges-municipality"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Saint George's Parish",
+                    "s_city_slug": "saint-georges-parish",
+                    "s_country_code": "bm",
+                    "s_region_slug": "saint-georges-parish"
+                }
+            ],
+            "s_country_code": "bm",
+            "s_region_name": "Saint George's Parish",
+            "s_region_slug": "saint-georges-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Sandys Parish",
+                    "s_city_slug": "sandys-parish",
+                    "s_country_code": "bm",
+                    "s_region_slug": "sandys-parish"
+                }
+            ],
+            "s_country_code": "bm",
+            "s_region_name": "Sandys Parish",
+            "s_region_slug": "sandys-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Smith's Parish,",
+                    "s_city_slug": "smiths-parish",
+                    "s_country_code": "bm",
+                    "s_region_slug": "smiths-parish"
+                }
+            ],
+            "s_country_code": "bm",
+            "s_region_name": "Smith's Parish,",
+            "s_region_slug": "smiths-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Southampton Parish",
+                    "s_city_slug": "southampton-parish",
+                    "s_country_code": "bm",
+                    "s_region_slug": "southampton-parish"
+                }
+            ],
+            "s_country_code": "bm",
+            "s_region_name": "Southampton Parish",
+            "s_region_slug": "southampton-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Warwick Parish",
+                    "s_city_slug": "warwick-parish",
+                    "s_country_code": "bm",
+                    "s_region_slug": "warwick-parish"
+                }
+            ],
+            "s_country_code": "bm",
+            "s_region_name": "Warwick Parish",
+            "s_region_slug": "warwick-parish"
+        }
+    ],
+    "s_country_code": "BM",
+    "s_country_name": "Bermuda",
+    "s_country_slug": "bermuda"
+}

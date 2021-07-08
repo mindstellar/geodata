@@ -1973,6 +1973,12 @@
                     "s_region_slug": "lima"
                 },
                 {
+                    "s_city_name": "Lima",
+                    "s_city_slug": "lima",
+                    "s_country_code": "pe",
+                    "s_region_slug": "lima"
+                },
+                {
                     "s_city_name": "Mala",
                     "s_city_slug": "mala",
                     "s_country_code": "pe",
@@ -2132,19 +2138,6 @@
             "s_country_code": "pe",
             "s_region_name": "Lima",
             "s_region_slug": "lima"
-        },
-        {
-            "cities": [
-                {
-                    "s_city_name": "Lima",
-                    "s_city_slug": "lima",
-                    "s_country_code": "pe",
-                    "s_region_slug": "lima-province"
-                }
-            ],
-            "s_country_code": "pe",
-            "s_region_name": "Lima Province",
-            "s_region_slug": "lima-province"
         },
         {
             "cities": [

@@ -1,0 +1,98 @@
+{
+    "regions": [
+        {
+            "cities": [
+                {
+                    "s_city_name": "Gjilan District",
+                    "s_city_slug": "gjilan-district",
+                    "s_country_code": "xk",
+                    "s_region_slug": "gjilan-district"
+                }
+            ],
+            "s_country_code": "xk",
+            "s_region_name": "Gjilan District",
+            "s_region_slug": "gjilan-district"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Kosovska Mitrovica District",
+                    "s_city_slug": "kosovska-mitrovica-district",
+                    "s_country_code": "xk",
+                    "s_region_slug": "kosovska-mitrovica-district"
+                }
+            ],
+            "s_country_code": "xk",
+            "s_region_name": "Kosovska Mitrovica District",
+            "s_region_slug": "kosovska-mitrovica-district"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Pec District",
+                    "s_city_slug": "pec-district",
+                    "s_country_code": "xk",
+                    "s_region_slug": "pec-district"
+                }
+            ],
+            "s_country_code": "xk",
+            "s_region_name": "Pec District",
+            "s_region_slug": "pec-district"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Pristina (Pristine)",
+                    "s_city_slug": "pristina-pristine",
+                    "s_country_code": "xk",
+                    "s_region_slug": "pristina-pristine"
+                }
+            ],
+            "s_country_code": "xk",
+            "s_region_name": "Pristina (Pristine)",
+            "s_region_slug": "pristina-pristine"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Prizren District",
+                    "s_city_slug": "prizren-district",
+                    "s_country_code": "xk",
+                    "s_region_slug": "prizren-district"
+                }
+            ],
+            "s_country_code": "xk",
+            "s_region_name": "Prizren District",
+            "s_region_slug": "prizren-district"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Urosevac District (Ferizaj)",
+                    "s_city_slug": "urosevac-district-ferizaj",
+                    "s_country_code": "xk",
+                    "s_region_slug": "urosevac-district-ferizaj"
+                }
+            ],
+            "s_country_code": "xk",
+            "s_region_name": "Urosevac District (Ferizaj)",
+            "s_region_slug": "urosevac-district-ferizaj"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "akovica District (Gjakove)",
+                    "s_city_slug": "akovica-district-gjakove",
+                    "s_country_code": "xk",
+                    "s_region_slug": "akovica-district-gjakove"
+                }
+            ],
+            "s_country_code": "xk",
+            "s_region_name": "akovica District (Gjakove)",
+            "s_region_slug": "akovica-district-gjakove"
+        }
+    ],
+    "s_country_code": "XK",
+    "s_country_name": "Kosovo",
+    "s_country_slug": "kosovo"
+}

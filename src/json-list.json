@@ -69,7 +69,7 @@
         {
             "s_country_code": "BS",
             "s_country_name": "Bahamas",
-            "s_country_slug": "bahamas-the",
+            "s_country_slug": "bahamas",
             "s_file_name": "BS-Bahamas.json"
         },
         {
@@ -113,6 +113,12 @@
             "s_country_name": "Benin",
             "s_country_slug": "benin",
             "s_file_name": "BJ-Benin.json"
+        },
+        {
+            "s_country_code": "BM",
+            "s_country_name": "Bermuda",
+            "s_country_slug": "bermuda",
+            "s_file_name": "BM-Bermuda.json"
         },
         {
             "s_country_code": "BT",
@@ -439,6 +445,12 @@
             "s_file_name": "HN-Honduras.json"
         },
         {
+            "s_country_code": "HK",
+            "s_country_name": "Hong Kong",
+            "s_country_slug": "hong-kong",
+            "s_file_name": "HK-Hong Kong.json"
+        },
+        {
             "s_country_code": "HU",
             "s_country_name": "Hungary",
             "s_country_slug": "hungary",
@@ -545,6 +557,12 @@
             "s_country_name": "Korea South",
             "s_country_slug": "korea-south",
             "s_file_name": "KR-Korea South.json"
+        },
+        {
+            "s_country_code": "XK",
+            "s_country_name": "Kosovo",
+            "s_country_slug": "kosovo",
+            "s_file_name": "XK-Kosovo.json"
         },
         {
             "s_country_code": "KW",
@@ -655,6 +673,12 @@
             "s_file_name": "MT-Malta.json"
         },
         {
+            "s_country_code": "MH",
+            "s_country_name": "Marshall Islands",
+            "s_country_slug": "marshall-islands",
+            "s_file_name": "MH-Marshall Islands.json"
+        },
+        {
             "s_country_code": "MR",
             "s_country_name": "Mauritania",
             "s_country_slug": "mauritania",
@@ -683,6 +707,12 @@
             "s_country_name": "Moldova",
             "s_country_slug": "moldova",
             "s_file_name": "MD-Moldova.json"
+        },
+        {
+            "s_country_code": "MC",
+            "s_country_name": "Monaco",
+            "s_country_slug": "monaco",
+            "s_file_name": "MC-Monaco.json"
         },
         {
             "s_country_code": "MN",
@@ -865,6 +895,12 @@
             "s_file_name": "LC-Saint Lucia.json"
         },
         {
+            "s_country_code": "VC",
+            "s_country_name": "Saint Vincent And The Grenadines",
+            "s_country_slug": "saint-vincent-and-the-grenadines",
+            "s_file_name": "VC-Saint Vincent And The Grenadines.json"
+        },
+        {
             "s_country_code": "WS",
             "s_country_name": "Samoa",
             "s_country_slug": "samoa",
@@ -875,6 +911,12 @@
             "s_country_name": "San Marino",
             "s_country_slug": "san-marino",
             "s_file_name": "SM-San Marino.json"
+        },
+        {
+            "s_country_code": "ST",
+            "s_country_name": "Sao Tome and Principe",
+            "s_country_slug": "sao-tome-and-principe",
+            "s_file_name": "ST-Sao Tome and Principe.json"
         },
         {
             "s_country_code": "SA",
@@ -905,6 +947,12 @@
             "s_country_name": "Sierra Leone",
             "s_country_slug": "sierra-leone",
             "s_file_name": "SL-Sierra Leone.json"
+        },
+        {
+            "s_country_code": "SG",
+            "s_country_name": "Singapore",
+            "s_country_slug": "singapore",
+            "s_file_name": "SG-Singapore.json"
         },
         {
             "s_country_code": "SK",

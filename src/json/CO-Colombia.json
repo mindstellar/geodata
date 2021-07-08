@@ -3449,6 +3449,12 @@
                     "s_region_slug": "cundinamarca-department"
                 },
                 {
+                    "s_city_name": "Barrio San Luis",
+                    "s_city_slug": "barrio-san-luis",
+                    "s_country_code": "co",
+                    "s_region_slug": "cundinamarca-department"
+                },
+                {
                     "s_city_name": "Beltran",
                     "s_city_slug": "beltran",
                     "s_country_code": "co",
@@ -3457,6 +3463,12 @@
                 {
                     "s_city_name": "Bituima",
                     "s_city_slug": "bituima",
+                    "s_country_code": "co",
+                    "s_region_slug": "cundinamarca-department"
+                },
+                {
+                    "s_city_name": "Bogota",
+                    "s_city_slug": "bogota",
                     "s_country_code": "co",
                     "s_region_slug": "cundinamarca-department"
                 },
@@ -3563,6 +3575,12 @@
                     "s_region_slug": "cundinamarca-department"
                 },
                 {
+                    "s_city_name": "El Mariachi",
+                    "s_city_slug": "el-mariachi",
+                    "s_country_code": "co",
+                    "s_region_slug": "cundinamarca-department"
+                },
+                {
                     "s_city_name": "El Penon",
                     "s_city_slug": "el-penon",
                     "s_country_code": "co",
@@ -3653,12 +3671,6 @@
                     "s_region_slug": "cundinamarca-department"
                 },
                 {
-                    "s_city_name": "Girardot City",
-                    "s_city_slug": "girardot-city",
-                    "s_country_code": "co",
-                    "s_region_slug": "cundinamarca-department"
-                },
-                {
                     "s_city_name": "Granada",
                     "s_city_slug": "granada",
                     "s_country_code": "co",
@@ -3733,6 +3745,12 @@
                 {
                     "s_city_name": "La Calera",
                     "s_city_slug": "la-calera",
+                    "s_country_code": "co",
+                    "s_region_slug": "cundinamarca-department"
+                },
+                {
+                    "s_city_name": "La Mesa",
+                    "s_city_slug": "la-mesa",
                     "s_country_code": "co",
                     "s_region_slug": "cundinamarca-department"
                 },
@@ -3829,12 +3847,6 @@
                 {
                     "s_city_name": "Nocaima",
                     "s_city_slug": "nocaima",
-                    "s_country_code": "co",
-                    "s_region_slug": "cundinamarca-department"
-                },
-                {
-                    "s_city_name": "Pacho",
-                    "s_city_slug": "pacho",
                     "s_country_code": "co",
                     "s_region_slug": "cundinamarca-department"
                 },
@@ -4037,6 +4049,12 @@
                     "s_region_slug": "cundinamarca-department"
                 },
                 {
+                    "s_city_name": "Tibacuy",
+                    "s_city_slug": "tibacuy",
+                    "s_country_code": "co",
+                    "s_region_slug": "cundinamarca-department"
+                },
+                {
                     "s_city_name": "Tibirita",
                     "s_city_slug": "tibirita",
                     "s_country_code": "co",
@@ -4075,6 +4093,12 @@
                 {
                     "s_city_name": "Une",
                     "s_city_slug": "une",
+                    "s_country_code": "co",
+                    "s_region_slug": "cundinamarca-department"
+                },
+                {
+                    "s_city_name": "Utica",
+                    "s_city_slug": "utica",
                     "s_country_code": "co",
                     "s_region_slug": "cundinamarca-department"
                 },
@@ -4252,6 +4276,229 @@
             "s_country_code": "co",
             "s_region_name": "Guaviare Department",
             "s_region_slug": "guaviare-department"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Acevedo",
+                    "s_city_slug": "acevedo",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Aipe",
+                    "s_city_slug": "aipe",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Algeciras",
+                    "s_city_slug": "algeciras",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Altamira",
+                    "s_city_slug": "altamira",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Baraya",
+                    "s_city_slug": "baraya",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Campoalegre",
+                    "s_city_slug": "campoalegre",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Colombia",
+                    "s_city_slug": "colombia",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "El Agrado",
+                    "s_city_slug": "el-agrado",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Elias",
+                    "s_city_slug": "elias",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Garzon",
+                    "s_city_slug": "garzon",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Gigante",
+                    "s_city_slug": "gigante",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Guadalupe",
+                    "s_city_slug": "guadalupe",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Hobo",
+                    "s_city_slug": "hobo",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Iquira",
+                    "s_city_slug": "iquira",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Isnos",
+                    "s_city_slug": "isnos",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "La Plata",
+                    "s_city_slug": "la-plata",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Nataga",
+                    "s_city_slug": "nataga",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Neiva",
+                    "s_city_slug": "neiva",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Oporapa",
+                    "s_city_slug": "oporapa",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Paicol",
+                    "s_city_slug": "paicol",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Palermo",
+                    "s_city_slug": "palermo",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Palestina",
+                    "s_city_slug": "palestina",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Pital",
+                    "s_city_slug": "pital",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Pitalito",
+                    "s_city_slug": "pitalito",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Rivera",
+                    "s_city_slug": "rivera",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Saladoblanco",
+                    "s_city_slug": "saladoblanco",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "San Agustin",
+                    "s_city_slug": "san-agustin",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Santa Maria",
+                    "s_city_slug": "santa-maria",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Suaza",
+                    "s_city_slug": "suaza",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Tarqui",
+                    "s_city_slug": "tarqui",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Tello",
+                    "s_city_slug": "tello",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Teruel",
+                    "s_city_slug": "teruel",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Tesalia",
+                    "s_city_slug": "tesalia",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Timana",
+                    "s_city_slug": "timana",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Villavieja",
+                    "s_city_slug": "villavieja",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                },
+                {
+                    "s_city_name": "Yaguara",
+                    "s_city_slug": "yaguara",
+                    "s_country_code": "co",
+                    "s_region_slug": "huila-department"
+                }
+            ],
+            "s_country_code": "co",
+            "s_region_name": "Huila Department",
+            "s_region_slug": "huila-department"
         },
         {
             "cities": [

@@ -27089,8 +27089,38 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Arduzel",
+                    "s_city_slug": "arduzel",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Ariesu de Camp",
+                    "s_city_slug": "ariesu-de-camp",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Ariesu de Padure",
+                    "s_city_slug": "ariesu-de-padure",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Arinis",
                     "s_city_slug": "arinis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Aspra",
+                    "s_city_slug": "aspra",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Asuaju de Jos",
+                    "s_city_slug": "asuaju-de-jos",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27101,8 +27131,26 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Baba",
+                    "s_city_slug": "baba",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Baia Mare",
                     "s_city_slug": "baia-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Baia Mare",
+                    "s_city_slug": "baia-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Baia Sprie",
+                    "s_city_slug": "baia-sprie",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27137,6 +27185,12 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Bargau",
+                    "s_city_slug": "bargau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Barsana",
                     "s_city_slug": "barsana",
                     "s_country_code": "ro",
@@ -27155,6 +27209,18 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Berchez",
+                    "s_city_slug": "berchez",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Berinta",
+                    "s_city_slug": "berinta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Bicaz",
                     "s_city_slug": "bicaz",
                     "s_country_code": "ro",
@@ -27163,6 +27229,18 @@
                 {
                     "s_city_name": "Bistra",
                     "s_city_slug": "bistra",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Blidari",
+                    "s_city_slug": "blidari",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Bocicoel",
+                    "s_city_slug": "bocicoel",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27179,8 +27257,20 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Boiereni",
+                    "s_city_slug": "boiereni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Boiu Mare",
                     "s_city_slug": "boiu-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Bontaieni",
+                    "s_city_slug": "bontaieni",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27197,8 +27287,26 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Borsa",
+                    "s_city_slug": "borsa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Botiza",
                     "s_city_slug": "botiza",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Bozanta Mare",
+                    "s_city_slug": "bozanta-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Bozanta Mica",
+                    "s_city_slug": "bozanta-mica",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27209,8 +27317,38 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Brebeni",
+                    "s_city_slug": "brebeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Buciumi",
+                    "s_city_slug": "buciumi",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Budesti",
                     "s_city_slug": "budesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Busag",
+                    "s_city_slug": "busag",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Buteasa",
+                    "s_city_slug": "buteasa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Buzesti",
+                    "s_city_slug": "buzesti",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27227,6 +27365,30 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Carbunari",
+                    "s_city_slug": "carbunari",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Carpinis",
+                    "s_city_slug": "carpinis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Catalina",
+                    "s_city_slug": "catalina",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Cavnic",
+                    "s_city_slug": "cavnic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Cavnic",
                     "s_city_slug": "cavnic",
                     "s_country_code": "ro",
@@ -27239,8 +27401,26 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Cetatele",
+                    "s_city_slug": "cetatele",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Chechis",
+                    "s_city_slug": "chechis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Chelinta",
                     "s_city_slug": "chelinta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Chiuzbaia",
+                    "s_city_slug": "chiuzbaia",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27251,14 +27431,44 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Ciocotis",
+                    "s_city_slug": "ciocotis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Ciolt",
+                    "s_city_slug": "ciolt",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Ciuta",
+                    "s_city_slug": "ciuta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Coas",
                     "s_city_slug": "coas",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Codru Butesii",
+                    "s_city_slug": "codru-butesii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Coltau",
                     "s_city_slug": "coltau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Coltirea",
+                    "s_city_slug": "coltirea",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27641,14 +27851,50 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Copalnic",
+                    "s_city_slug": "copalnic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Copalnic Manastur",
                     "s_city_slug": "copalnic-manastur",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Cornesti",
+                    "s_city_slug": "cornesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Corni",
+                    "s_city_slug": "corni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Coroieni",
                     "s_city_slug": "coroieni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Coruia",
+                    "s_city_slug": "coruia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Costeni",
+                    "s_city_slug": "costeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Costiui",
+                    "s_city_slug": "costiui",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27665,8 +27911,32 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Cufoaia",
+                    "s_city_slug": "cufoaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Culcea",
+                    "s_city_slug": "culcea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Cupseni",
                     "s_city_slug": "cupseni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Curtuiusu Mare",
+                    "s_city_slug": "curtuiusu-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Curtuiusu Mic",
+                    "s_city_slug": "curtuiusu-mic",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27677,8 +27947,44 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Danesti",
+                    "s_city_slug": "danesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Danestii Chioarului",
+                    "s_city_slug": "danestii-chioarului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Dealu Corbului",
+                    "s_city_slug": "dealu-corbului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Dealu Mare",
+                    "s_city_slug": "dealu-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Desesti",
                     "s_city_slug": "desesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Dobricu Lapusului",
+                    "s_city_slug": "dobricu-lapusului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Draghia",
+                    "s_city_slug": "draghia",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27689,14 +27995,92 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Dragomiresti",
+                    "s_city_slug": "dragomiresti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Dumbrava",
+                    "s_city_slug": "dumbrava",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Dumbravita",
                     "s_city_slug": "dumbravita",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Durusa",
+                    "s_city_slug": "durusa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Fanate",
+                    "s_city_slug": "fanate",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Fantanele",
+                    "s_city_slug": "fantanele",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Farcasa",
                     "s_city_slug": "farcasa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Fauresti",
+                    "s_city_slug": "fauresti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Feresti",
+                    "s_city_slug": "feresti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Fericea",
+                    "s_city_slug": "fericea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Fersig",
+                    "s_city_slug": "fersig",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Finteusu Mare",
+                    "s_city_slug": "finteusu-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Finteusu Mic",
+                    "s_city_slug": "finteusu-mic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Firiza",
+                    "s_city_slug": "firiza",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Francenii Boiului",
+                    "s_city_slug": "francenii-boiului",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27713,6 +28097,18 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Glod",
+                    "s_city_slug": "glod",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Groape",
+                    "s_city_slug": "groape",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Grosi",
                     "s_city_slug": "grosi",
                     "s_country_code": "ro",
@@ -27721,6 +28117,36 @@
                 {
                     "s_city_name": "Grosii Tiblesului",
                     "s_city_slug": "grosii-tiblesului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Handalu Ilbei",
+                    "s_city_slug": "handalu-ilbei",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Harnicesti",
+                    "s_city_slug": "harnicesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Hideaga",
+                    "s_city_slug": "hideaga",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Hoteni",
+                    "s_city_slug": "hoteni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Hovrila",
+                    "s_city_slug": "hovrila",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27749,6 +28175,30 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Inau",
+                    "s_city_slug": "inau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Intrerauri",
+                    "s_city_slug": "intrerauri",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Izvoarele",
+                    "s_city_slug": "izvoarele",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Jugastreni",
+                    "s_city_slug": "jugastreni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Lapus",
                     "s_city_slug": "lapus",
                     "s_country_code": "ro",
@@ -27757,6 +28207,24 @@
                 {
                     "s_city_name": "Lapusel",
                     "s_city_slug": "lapusel",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Larga",
+                    "s_city_slug": "larga",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Laschia",
+                    "s_city_slug": "laschia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Lazu Baciului",
+                    "s_city_slug": "lazu-baciului",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27773,8 +28241,26 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Lucacesti",
+                    "s_city_slug": "lucacesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Lunca la Tisa",
                     "s_city_slug": "lunca-la-tisa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Magureni",
+                    "s_city_slug": "magureni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Manastirea",
+                    "s_city_slug": "manastirea",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27791,8 +28277,32 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Merisor",
+                    "s_city_slug": "merisor",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Mesteacan",
+                    "s_city_slug": "mesteacan",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Miresu Mare",
                     "s_city_slug": "miresu-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Mocira",
+                    "s_city_slug": "mocira",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Mogosesti",
+                    "s_city_slug": "mogosesti",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27803,14 +28313,14 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
-                    "s_city_name": "Municipiul Baia Mare",
-                    "s_city_slug": "municipiul-baia-mare",
+                    "s_city_name": "Nanesti",
+                    "s_city_slug": "nanesti",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
                 {
-                    "s_city_name": "Municipiul Sighetu Marmatiei",
-                    "s_city_slug": "municipiul-sighetu-marmatiei",
+                    "s_city_name": "Negreia",
+                    "s_city_slug": "negreia",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27827,8 +28337,26 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Oarta de Sus",
+                    "s_city_slug": "oarta-de-sus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Ocna Sugatag",
                     "s_city_slug": "ocna-sugatag",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Ocolis",
+                    "s_city_slug": "ocolis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Odesti",
+                    "s_city_slug": "odesti",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27839,74 +28367,38 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
-                    "s_city_name": "Oras Baia Sprie",
-                    "s_city_slug": "oras-baia-sprie",
+                    "s_city_name": "Ortita",
+                    "s_city_slug": "ortita",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
                 {
-                    "s_city_name": "Oras Borsa",
-                    "s_city_slug": "oras-borsa",
-                    "s_country_code": "ro",
-                    "s_region_slug": "maramures-county"
-                },
-                {
-                    "s_city_name": "Oras Cavnic",
-                    "s_city_slug": "oras-cavnic",
-                    "s_country_code": "ro",
-                    "s_region_slug": "maramures-county"
-                },
-                {
-                    "s_city_name": "Oras Dragomiresti",
-                    "s_city_slug": "oras-dragomiresti",
-                    "s_country_code": "ro",
-                    "s_region_slug": "maramures-county"
-                },
-                {
-                    "s_city_name": "Oras Salistea de Sus",
-                    "s_city_slug": "oras-salistea-de-sus",
-                    "s_country_code": "ro",
-                    "s_region_slug": "maramures-county"
-                },
-                {
-                    "s_city_name": "Oras Seini",
-                    "s_city_slug": "oras-seini",
-                    "s_country_code": "ro",
-                    "s_region_slug": "maramures-county"
-                },
-                {
-                    "s_city_name": "Oras Somcuta Mare",
-                    "s_city_slug": "oras-somcuta-mare",
-                    "s_country_code": "ro",
-                    "s_region_slug": "maramures-county"
-                },
-                {
-                    "s_city_name": "Oras Targu Lapus",
-                    "s_city_slug": "oras-targu-lapus",
-                    "s_country_code": "ro",
-                    "s_region_slug": "maramures-county"
-                },
-                {
-                    "s_city_name": "Oras Tautii-Magheraus",
-                    "s_city_slug": "oras-tautii-magheraus",
-                    "s_country_code": "ro",
-                    "s_region_slug": "maramures-county"
-                },
-                {
-                    "s_city_name": "Oras Ulmeni",
-                    "s_city_slug": "oras-ulmeni",
-                    "s_country_code": "ro",
-                    "s_region_slug": "maramures-county"
-                },
-                {
-                    "s_city_name": "Oras Viseu De Sus",
-                    "s_city_slug": "oras-viseu-de-sus",
+                    "s_city_name": "Peteritea",
+                    "s_city_slug": "peteritea",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
                 {
                     "s_city_name": "Petrova",
                     "s_city_slug": "petrova",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Piatra",
+                    "s_city_slug": "piatra",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Plopis",
+                    "s_city_slug": "plopis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Poiana Botizii",
+                    "s_city_slug": "poiana-botizii",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27923,8 +28415,50 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Posta",
+                    "s_city_slug": "posta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Preluca Noua",
+                    "s_city_slug": "preluca-noua",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Preluca Veche",
+                    "s_city_slug": "preluca-veche",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Pribilesti",
+                    "s_city_slug": "pribilesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Prislop",
+                    "s_city_slug": "prislop",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Razoare",
+                    "s_city_slug": "razoare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Recea",
                     "s_city_slug": "recea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Remecioara",
+                    "s_city_slug": "remecioara",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27941,14 +28475,38 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Remeti pe Somes",
+                    "s_city_slug": "remeti-pe-somes",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Repedea",
                     "s_city_slug": "repedea",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Rodina",
+                    "s_city_slug": "rodina",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Rogoz",
                     "s_city_slug": "rogoz",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Rohia",
+                    "s_city_slug": "rohia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Romanesti",
+                    "s_city_slug": "romanesti",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27971,8 +28529,26 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Rus",
+                    "s_city_slug": "rus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Ruscova",
                     "s_city_slug": "ruscova",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Rusor",
+                    "s_city_slug": "rusor",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Sabisa",
+                    "s_city_slug": "sabisa",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -27989,14 +28565,38 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Saliste",
+                    "s_city_slug": "saliste",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Salistea de Sus",
                     "s_city_slug": "salistea-de-sus",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Salistea de Sus",
+                    "s_city_slug": "salistea-de-sus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Salnita",
+                    "s_city_slug": "salnita",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Salsig",
                     "s_city_slug": "salsig",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Salta",
+                    "s_city_slug": "salta",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -28031,8 +28631,26 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Satu Nou de Jos",
+                    "s_city_slug": "satu-nou-de-jos",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Satu Nou de Sus",
+                    "s_city_slug": "satu-nou-de-sus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Satulung",
                     "s_city_slug": "satulung",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Seini",
+                    "s_city_slug": "seini",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -28055,8 +28673,26 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Sighetu Marmatiei",
+                    "s_city_slug": "sighetu-marmatiei",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Sindresti",
+                    "s_city_slug": "sindresti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Sisesti",
                     "s_city_slug": "sisesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Slatioara",
+                    "s_city_slug": "slatioara",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -28067,8 +28703,44 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Somcuta Mare",
+                    "s_city_slug": "somcuta-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Somes-Uileac",
+                    "s_city_slug": "somes-uileac",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Stejera",
+                    "s_city_slug": "stejera",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Stoiceni",
+                    "s_city_slug": "stoiceni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Strambu-Baiut",
+                    "s_city_slug": "strambu-baiut",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Stramtura",
                     "s_city_slug": "stramtura",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Stremt",
+                    "s_city_slug": "stremt",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -28085,8 +28757,32 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Sugau",
+                    "s_city_slug": "sugau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Surdesti",
                     "s_city_slug": "surdesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Tamaia",
+                    "s_city_slug": "tamaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Tamasesti",
+                    "s_city_slug": "tamasesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Targu Lapus",
+                    "s_city_slug": "targu-lapus",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -28109,8 +28805,38 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Tautii-Magheraus",
+                    "s_city_slug": "tautii-magheraus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Teceu Mic",
+                    "s_city_slug": "teceu-mic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Ticau",
+                    "s_city_slug": "ticau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Tisa",
                     "s_city_slug": "tisa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Trestia",
+                    "s_city_slug": "trestia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Tulghies",
+                    "s_city_slug": "tulghies",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -28121,8 +28847,38 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Ulmeni",
+                    "s_city_slug": "ulmeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Ulmoasa",
+                    "s_city_slug": "ulmoasa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Unguras",
+                    "s_city_slug": "unguras",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Ungureni",
                     "s_city_slug": "ungureni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Urmenis",
+                    "s_city_slug": "urmenis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Vad",
+                    "s_city_slug": "vad",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -28139,6 +28895,30 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Valea Cufundoasa",
+                    "s_city_slug": "valea-cufundoasa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Valea Hotarului",
+                    "s_city_slug": "valea-hotarului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Valea Neagra",
+                    "s_city_slug": "valea-neagra",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Valea Stejarului",
+                    "s_city_slug": "valea-stejarului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Valea Viseului",
                     "s_city_slug": "valea-viseului",
                     "s_country_code": "ro",
@@ -28151,14 +28931,50 @@
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Valenii Lapusului",
+                    "s_city_slug": "valenii-lapusului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Valenii Somcutei",
                     "s_city_slug": "valenii-somcutei",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
                 {
+                    "s_city_name": "Varai",
+                    "s_city_slug": "varai",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Vicea",
+                    "s_city_slug": "vicea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Viile Apei",
+                    "s_city_slug": "viile-apei",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Vima Mare",
+                    "s_city_slug": "vima-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
                     "s_city_name": "Vima Mica",
                     "s_city_slug": "vima-mica",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "Viseu De Sus",
+                    "s_city_slug": "viseu-de-sus",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 },
@@ -28177,6 +28993,12 @@
                 {
                     "s_city_name": "Viseu de Sus",
                     "s_city_slug": "viseu-de-sus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "maramures-county"
+                },
+                {
+                    "s_city_name": "tohat",
+                    "s_city_slug": "tohat",
                     "s_country_code": "ro",
                     "s_region_slug": "maramures-county"
                 }
@@ -29115,6 +29937,3007 @@
             "s_country_code": "ro",
             "s_region_name": "Mehedinti County",
             "s_region_slug": "mehedinti-county"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Abus",
+                    "s_city_slug": "abus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Acatari",
+                    "s_city_slug": "acatari",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Adamus",
+                    "s_city_slug": "adamus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Adrian",
+                    "s_city_slug": "adrian",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Adrianu Mare",
+                    "s_city_slug": "adrianu-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Adrianu Mic",
+                    "s_city_slug": "adrianu-mic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Agristeu",
+                    "s_city_slug": "agristeu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Albesti",
+                    "s_city_slug": "albesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Alunis",
+                    "s_city_slug": "alunis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Andreneasa",
+                    "s_city_slug": "andreneasa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Angofa",
+                    "s_city_slug": "angofa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Apalina",
+                    "s_city_slug": "apalina",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Apold",
+                    "s_city_slug": "apold",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Archita",
+                    "s_city_slug": "archita",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Arsita",
+                    "s_city_slug": "arsita",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Atintis",
+                    "s_city_slug": "atintis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Aurel Vlaicu",
+                    "s_city_slug": "aurel-vlaicu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Avramesti",
+                    "s_city_slug": "avramesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bagaciu",
+                    "s_city_slug": "bagaciu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bahnea",
+                    "s_city_slug": "bahnea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Baita",
+                    "s_city_slug": "baita",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bala",
+                    "s_city_slug": "bala",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Balauseri",
+                    "s_city_slug": "balauseri",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Balda",
+                    "s_city_slug": "balda",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Band",
+                    "s_city_slug": "band",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bara",
+                    "s_city_slug": "bara",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Barbosi",
+                    "s_city_slug": "barbosi",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bardesti",
+                    "s_city_slug": "bardesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Barlibas",
+                    "s_city_slug": "barlibas",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Barlibasoaia",
+                    "s_city_slug": "barlibasoaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Barza",
+                    "s_city_slug": "barza",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Batos",
+                    "s_city_slug": "batos",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bedeni",
+                    "s_city_slug": "bedeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Beica de Jos",
+                    "s_city_slug": "beica-de-jos",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Beica de Sus",
+                    "s_city_slug": "beica-de-sus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bereni",
+                    "s_city_slug": "bereni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Berghia",
+                    "s_city_slug": "berghia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bernadea",
+                    "s_city_slug": "bernadea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Beu",
+                    "s_city_slug": "beu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bezid",
+                    "s_city_slug": "bezid",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bicasu",
+                    "s_city_slug": "bicasu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bichis",
+                    "s_city_slug": "bichis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bistra Muresului",
+                    "s_city_slug": "bistra-muresului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Blidireasa",
+                    "s_city_slug": "blidireasa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bobohalma",
+                    "s_city_slug": "bobohalma",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bogata",
+                    "s_city_slug": "bogata",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Boiu",
+                    "s_city_slug": "boiu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bolintineni",
+                    "s_city_slug": "bolintineni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bologaia",
+                    "s_city_slug": "bologaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bord",
+                    "s_city_slug": "bord",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bordosiu",
+                    "s_city_slug": "bordosiu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Borzia",
+                    "s_city_slug": "borzia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Botei",
+                    "s_city_slug": "botei",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Botez",
+                    "s_city_slug": "botez",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Botorca",
+                    "s_city_slug": "botorca",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bozed",
+                    "s_city_slug": "bozed",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bozeni",
+                    "s_city_slug": "bozeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bradetelu",
+                    "s_city_slug": "bradetelu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Brancovenesti",
+                    "s_city_slug": "brancovenesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Breaza",
+                    "s_city_slug": "breaza",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Budiu Mic",
+                    "s_city_slug": "budiu-mic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bujor",
+                    "s_city_slug": "bujor",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Bujor-Hodaie",
+                    "s_city_slug": "bujor-hodaie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Caciulata",
+                    "s_city_slug": "caciulata",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cacuciu",
+                    "s_city_slug": "cacuciu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Calimanesti",
+                    "s_city_slug": "calimanesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Calugareni",
+                    "s_city_slug": "calugareni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Caluseri",
+                    "s_city_slug": "caluseri",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Campenita",
+                    "s_city_slug": "campenita",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Campu Cetatii",
+                    "s_city_slug": "campu-cetatii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Candu",
+                    "s_city_slug": "candu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Capalna de Sus",
+                    "s_city_slug": "capalna-de-sus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Capeti",
+                    "s_city_slug": "capeti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Capusu de Campie",
+                    "s_city_slug": "capusu-de-campie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Casva",
+                    "s_city_slug": "casva",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cecalaca",
+                    "s_city_slug": "cecalaca",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ceie",
+                    "s_city_slug": "ceie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cerghid",
+                    "s_city_slug": "cerghid",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cerghizel",
+                    "s_city_slug": "cerghizel",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ceuas",
+                    "s_city_slug": "ceuas",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ceuasu de Campie",
+                    "s_city_slug": "ceuasu-de-campie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Chendu",
+                    "s_city_slug": "chendu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Chetani",
+                    "s_city_slug": "chetani",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Chibed",
+                    "s_city_slug": "chibed",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Chiheru de Jos",
+                    "s_city_slug": "chiheru-de-jos",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Chiheru de Sus",
+                    "s_city_slug": "chiheru-de-sus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Chinari",
+                    "s_city_slug": "chinari",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Chincius",
+                    "s_city_slug": "chincius",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Chirileu",
+                    "s_city_slug": "chirileu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Chisalita",
+                    "s_city_slug": "chisalita",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ciba",
+                    "s_city_slug": "ciba",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cibu",
+                    "s_city_slug": "cibu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cinta",
+                    "s_city_slug": "cinta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cioarga",
+                    "s_city_slug": "cioarga",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ciobotani",
+                    "s_city_slug": "ciobotani",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cipaieni",
+                    "s_city_slug": "cipaieni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cipau",
+                    "s_city_slug": "cipau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ciretea",
+                    "s_city_slug": "ciretea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cirhagau",
+                    "s_city_slug": "cirhagau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ciulea",
+                    "s_city_slug": "ciulea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ciurgau",
+                    "s_city_slug": "ciurgau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cloasterf",
+                    "s_city_slug": "cloasterf",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Coasta Grindului",
+                    "s_city_slug": "coasta-grindului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Coasta Mare",
+                    "s_city_slug": "coasta-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Comori",
+                    "s_city_slug": "comori",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Comuna Coroisanmartin",
+                    "s_city_slug": "comuna-coroisanmartin",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Comuna Ibanesti Padure",
+                    "s_city_slug": "comuna-ibanesti-padure",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Comuna Rusii Munti",
+                    "s_city_slug": "comuna-rusii-munti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Corbesti",
+                    "s_city_slug": "corbesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cordos",
+                    "s_city_slug": "cordos",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cornesti",
+                    "s_city_slug": "cornesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Coroi",
+                    "s_city_slug": "coroi",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Corunca",
+                    "s_city_slug": "corunca",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cotorinau",
+                    "s_city_slug": "cotorinau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cotus",
+                    "s_city_slug": "cotus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cozma",
+                    "s_city_slug": "cozma",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Craciunesti",
+                    "s_city_slug": "craciunesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Craiesti",
+                    "s_city_slug": "craiesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cris",
+                    "s_city_slug": "cris",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cristesti",
+                    "s_city_slug": "cristesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cucerdea",
+                    "s_city_slug": "cucerdea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cuci",
+                    "s_city_slug": "cuci",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cuiesd",
+                    "s_city_slug": "cuiesd",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Culpiu",
+                    "s_city_slug": "culpiu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Cund",
+                    "s_city_slug": "cund",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Curete",
+                    "s_city_slug": "curete",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Curteni",
+                    "s_city_slug": "curteni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Custelnic",
+                    "s_city_slug": "custelnic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Daia",
+                    "s_city_slug": "daia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dalu",
+                    "s_city_slug": "dalu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dambau",
+                    "s_city_slug": "dambau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dambu",
+                    "s_city_slug": "dambu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Damieni",
+                    "s_city_slug": "damieni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Danes",
+                    "s_city_slug": "danes",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dataseni",
+                    "s_city_slug": "dataseni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Deag",
+                    "s_city_slug": "deag",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Deaj",
+                    "s_city_slug": "deaj",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Deda",
+                    "s_city_slug": "deda",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dedrad",
+                    "s_city_slug": "dedrad",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Deleni",
+                    "s_city_slug": "deleni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dileu Nou",
+                    "s_city_slug": "dileu-nou",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dileu Vechi",
+                    "s_city_slug": "dileu-vechi",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dobra",
+                    "s_city_slug": "dobra",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Draculea Bandului",
+                    "s_city_slug": "draculea-bandului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Drojdii",
+                    "s_city_slug": "drojdii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dubistea de Padure",
+                    "s_city_slug": "dubistea-de-padure",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dulcea",
+                    "s_city_slug": "dulcea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dumbrava",
+                    "s_city_slug": "dumbrava",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dumbravioara",
+                    "s_city_slug": "dumbravioara",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dumitreni",
+                    "s_city_slug": "dumitreni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dumitrestii",
+                    "s_city_slug": "dumitrestii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Dupa Deal",
+                    "s_city_slug": "dupa-deal",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ercea",
+                    "s_city_slug": "ercea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Eremieni",
+                    "s_city_slug": "eremieni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Eremitu",
+                    "s_city_slug": "eremitu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ernei",
+                    "s_city_slug": "ernei",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Fanate",
+                    "s_city_slug": "fanate",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Fanatele Madarasului",
+                    "s_city_slug": "fanatele-madarasului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Fanatele Socolului",
+                    "s_city_slug": "fanatele-socolului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Fantana Babii",
+                    "s_city_slug": "fantana-babii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Fantanele",
+                    "s_city_slug": "fantanele",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Faragau",
+                    "s_city_slug": "faragau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Feleag",
+                    "s_city_slug": "feleag",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Filea",
+                    "s_city_slug": "filea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Filitelnic",
+                    "s_city_slug": "filitelnic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Filpisu Mare",
+                    "s_city_slug": "filpisu-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Filpisu Mic",
+                    "s_city_slug": "filpisu-mic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Fitcau",
+                    "s_city_slug": "fitcau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Foi",
+                    "s_city_slug": "foi",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Frunzeni",
+                    "s_city_slug": "frunzeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Fundatura",
+                    "s_city_slug": "fundatura",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Fundoaia",
+                    "s_city_slug": "fundoaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Gaiesti",
+                    "s_city_slug": "gaiesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Galaoaia",
+                    "s_city_slug": "galaoaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Galateni",
+                    "s_city_slug": "galateni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Galesti",
+                    "s_city_slug": "galesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Gambut",
+                    "s_city_slug": "gambut",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ganesti",
+                    "s_city_slug": "ganesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Gaura Sangerului",
+                    "s_city_slug": "gaura-sangerului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Gheja",
+                    "s_city_slug": "gheja",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Gheorghe Doja",
+                    "s_city_slug": "gheorghe-doja",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ghidasteu",
+                    "s_city_slug": "ghidasteu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ghindari",
+                    "s_city_slug": "ghindari",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ghinesti",
+                    "s_city_slug": "ghinesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Giulus",
+                    "s_city_slug": "giulus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Giurgis",
+                    "s_city_slug": "giurgis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Glajarie",
+                    "s_city_slug": "glajarie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Glodeni",
+                    "s_city_slug": "glodeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Gogan",
+                    "s_city_slug": "gogan",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Goreni",
+                    "s_city_slug": "goreni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Gornesti",
+                    "s_city_slug": "gornesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Gradini",
+                    "s_city_slug": "gradini",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Grausorul",
+                    "s_city_slug": "grausorul",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Grebenisu de Campie",
+                    "s_city_slug": "grebenisu-de-campie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Grindeni",
+                    "s_city_slug": "grindeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Groapa Radaii",
+                    "s_city_slug": "groapa-radaii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Gruisor",
+                    "s_city_slug": "gruisor",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Gurghiu",
+                    "s_city_slug": "gurghiu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Habic",
+                    "s_city_slug": "habic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Hadareni",
+                    "s_city_slug": "hadareni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Hagau",
+                    "s_city_slug": "hagau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Haranglab",
+                    "s_city_slug": "haranglab",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Hartau",
+                    "s_city_slug": "hartau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Herepea",
+                    "s_city_slug": "herepea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Herghelia",
+                    "s_city_slug": "herghelia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Hetiur",
+                    "s_city_slug": "hetiur",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Hodac",
+                    "s_city_slug": "hodac",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Hodaia",
+                    "s_city_slug": "hodaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Hodosa",
+                    "s_city_slug": "hodosa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Iara de Mures",
+                    "s_city_slug": "iara-de-mures",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ibanesti-Padure",
+                    "s_city_slug": "ibanesti-padure",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Icland",
+                    "s_city_slug": "icland",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Iclandu Mare",
+                    "s_city_slug": "iclandu-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Iclanzel",
+                    "s_city_slug": "iclanzel",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Iclanzel",
+                    "s_city_slug": "iclanzel",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ideciu de Jos",
+                    "s_city_slug": "ideciu-de-jos",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Idicel-Padure",
+                    "s_city_slug": "idicel-padure",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Idiciu",
+                    "s_city_slug": "idiciu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Idrifaia",
+                    "s_city_slug": "idrifaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Iernut",
+                    "s_city_slug": "iernut",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Iernuteni",
+                    "s_city_slug": "iernuteni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ihod",
+                    "s_city_slug": "ihod",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ilieni",
+                    "s_city_slug": "ilieni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Iliesi",
+                    "s_city_slug": "iliesi",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ilioara",
+                    "s_city_slug": "ilioara",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Iod",
+                    "s_city_slug": "iod",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Isla",
+                    "s_city_slug": "isla",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Istan-Tau",
+                    "s_city_slug": "istan-tau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Istihaza",
+                    "s_city_slug": "istihaza",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ivanesti",
+                    "s_city_slug": "ivanesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Jabenita",
+                    "s_city_slug": "jabenita",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Jacodu",
+                    "s_city_slug": "jacodu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Jacu",
+                    "s_city_slug": "jacu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Lapusna",
+                    "s_city_slug": "lapusna",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Larga",
+                    "s_city_slug": "larga",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Lascud",
+                    "s_city_slug": "lascud",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Laslau Mare",
+                    "s_city_slug": "laslau-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Laslau Mic",
+                    "s_city_slug": "laslau-mic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Laureni",
+                    "s_city_slug": "laureni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Lechincioara",
+                    "s_city_slug": "lechincioara",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Lechinta",
+                    "s_city_slug": "lechinta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Lefaia",
+                    "s_city_slug": "lefaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Lenis",
+                    "s_city_slug": "lenis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Leordeni",
+                    "s_city_slug": "leordeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Leorinta",
+                    "s_city_slug": "leorinta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Leorinta-Saulia",
+                    "s_city_slug": "leorinta-saulia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Lepindea",
+                    "s_city_slug": "lepindea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Lint",
+                    "s_city_slug": "lint",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Livezeni",
+                    "s_city_slug": "livezeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Logig",
+                    "s_city_slug": "logig",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Lotu",
+                    "s_city_slug": "lotu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ludus",
+                    "s_city_slug": "ludus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Luieriu",
+                    "s_city_slug": "luieriu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Lunca",
+                    "s_city_slug": "lunca",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Lunca Bradului",
+                    "s_city_slug": "lunca-bradului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Lunca Muresului",
+                    "s_city_slug": "lunca-muresului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Macicasesti",
+                    "s_city_slug": "macicasesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Madaras",
+                    "s_city_slug": "madaras",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Madaraseni",
+                    "s_city_slug": "madaraseni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Magherani",
+                    "s_city_slug": "magherani",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Magherus",
+                    "s_city_slug": "magherus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Maia",
+                    "s_city_slug": "maia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Maiad",
+                    "s_city_slug": "maiad",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Maioresti",
+                    "s_city_slug": "maioresti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Malaesti",
+                    "s_city_slug": "malaesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Maldaoci",
+                    "s_city_slug": "maldaoci",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Malea",
+                    "s_city_slug": "malea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Marasesti",
+                    "s_city_slug": "marasesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Marculeni",
+                    "s_city_slug": "marculeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Matrici",
+                    "s_city_slug": "matrici",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Merisor",
+                    "s_city_slug": "merisor",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Merisoru",
+                    "s_city_slug": "merisoru",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Mestera",
+                    "s_city_slug": "mestera",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Mica",
+                    "s_city_slug": "mica",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Miercurea Nirajului",
+                    "s_city_slug": "miercurea-nirajului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Mihai Viteazu",
+                    "s_city_slug": "mihai-viteazu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Mihesu de Campie",
+                    "s_city_slug": "mihesu-de-campie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Milasel",
+                    "s_city_slug": "milasel",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Mirigioaia",
+                    "s_city_slug": "mirigioaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Mitresti",
+                    "s_city_slug": "mitresti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Moara de Jos",
+                    "s_city_slug": "moara-de-jos",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Mogoaia",
+                    "s_city_slug": "mogoaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Moisa",
+                    "s_city_slug": "moisa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Morareni",
+                    "s_city_slug": "morareni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Moresti",
+                    "s_city_slug": "moresti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Morut",
+                    "s_city_slug": "morut",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Mosuni",
+                    "s_city_slug": "mosuni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Mura Mare",
+                    "s_city_slug": "mura-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Mura Mica",
+                    "s_city_slug": "mura-mica",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Mureni",
+                    "s_city_slug": "mureni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Mureseni",
+                    "s_city_slug": "mureseni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Murgesti",
+                    "s_city_slug": "murgesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Nadasa",
+                    "s_city_slug": "nadasa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Nades",
+                    "s_city_slug": "nades",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Nandra",
+                    "s_city_slug": "nandra",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Nazna",
+                    "s_city_slug": "nazna",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Neagra",
+                    "s_city_slug": "neagra",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Neaua",
+                    "s_city_slug": "neaua",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Negrenii de Campie",
+                    "s_city_slug": "negrenii-de-campie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Nicolesti",
+                    "s_city_slug": "nicolesti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Nima Milaselului",
+                    "s_city_slug": "nima-milaselului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Nima Raciului",
+                    "s_city_slug": "nima-raciului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Oarba de Mures",
+                    "s_city_slug": "oarba-de-mures",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Obarsie",
+                    "s_city_slug": "obarsie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Odrihei",
+                    "s_city_slug": "odrihei",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ogra",
+                    "s_city_slug": "ogra",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Onuca",
+                    "s_city_slug": "onuca",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ormenis",
+                    "s_city_slug": "ormenis",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Oroiu",
+                    "s_city_slug": "oroiu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Orosia",
+                    "s_city_slug": "orosia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Orsova",
+                    "s_city_slug": "orsova",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ozd",
+                    "s_city_slug": "ozd",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Pacureni",
+                    "s_city_slug": "pacureni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Padurea",
+                    "s_city_slug": "padurea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Padureni",
+                    "s_city_slug": "padureni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Paingeni",
+                    "s_city_slug": "paingeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Panet",
+                    "s_city_slug": "panet",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Papiu Ilarian",
+                    "s_city_slug": "papiu-ilarian",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Parau Crucii",
+                    "s_city_slug": "parau-crucii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Parau Mare",
+                    "s_city_slug": "parau-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Pasareni",
+                    "s_city_slug": "pasareni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Paucisoara",
+                    "s_city_slug": "paucisoara",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Pauloaia",
+                    "s_city_slug": "pauloaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Peris",
+                    "s_city_slug": "peris",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Petea",
+                    "s_city_slug": "petea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Petelea",
+                    "s_city_slug": "petelea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Petrilaca",
+                    "s_city_slug": "petrilaca",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Petrilaca de Mures",
+                    "s_city_slug": "petrilaca-de-mures",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Pietris",
+                    "s_city_slug": "pietris",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Pipea",
+                    "s_city_slug": "pipea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Poarta",
+                    "s_city_slug": "poarta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Poduri",
+                    "s_city_slug": "poduri",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Pogaceaua",
+                    "s_city_slug": "pogaceaua",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Poienita",
+                    "s_city_slug": "poienita",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Porumbac",
+                    "s_city_slug": "porumbac",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Porumbeni",
+                    "s_city_slug": "porumbeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Pripoare",
+                    "s_city_slug": "pripoare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Pusta",
+                    "s_city_slug": "pusta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Racamet",
+                    "s_city_slug": "racamet",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Raciu",
+                    "s_city_slug": "raciu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ranta",
+                    "s_city_slug": "ranta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Rapa de Jos",
+                    "s_city_slug": "rapa-de-jos",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Rastolita",
+                    "s_city_slug": "rastolita",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Razoare",
+                    "s_city_slug": "razoare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Recea",
+                    "s_city_slug": "recea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Reghin",
+                    "s_city_slug": "reghin",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Remetea",
+                    "s_city_slug": "remetea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Rigmani",
+                    "s_city_slug": "rigmani",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Rora",
+                    "s_city_slug": "rora",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Rosiori",
+                    "s_city_slug": "rosiori",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Roteni",
+                    "s_city_slug": "roteni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Roua",
+                    "s_city_slug": "roua",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Rusii-Munti",
+                    "s_city_slug": "rusii-munti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sabed",
+                    "s_city_slug": "sabed",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sacadat",
+                    "s_city_slug": "sacadat",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sacalu de Padure",
+                    "s_city_slug": "sacalu-de-padure",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sacareni",
+                    "s_city_slug": "sacareni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Saes",
+                    "s_city_slug": "saes",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Salard",
+                    "s_city_slug": "salard",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Salasuri",
+                    "s_city_slug": "salasuri",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Salcud",
+                    "s_city_slug": "salcud",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sambrias",
+                    "s_city_slug": "sambrias",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sancraiu de Mures",
+                    "s_city_slug": "sancraiu-de-mures",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sandru",
+                    "s_city_slug": "sandru",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sangeorgiu de Campie",
+                    "s_city_slug": "sangeorgiu-de-campie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sangeorgiu de Mures",
+                    "s_city_slug": "sangeorgiu-de-mures",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sangeorgiu de Padure",
+                    "s_city_slug": "sangeorgiu-de-padure",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sanger",
+                    "s_city_slug": "sanger",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sangeru de Padure",
+                    "s_city_slug": "sangeru-de-padure",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Saniacob",
+                    "s_city_slug": "saniacob",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sanisor",
+                    "s_city_slug": "sanisor",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sanmarghita",
+                    "s_city_slug": "sanmarghita",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sanmartinu de Campie",
+                    "s_city_slug": "sanmartinu-de-campie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sanmihai de Padure",
+                    "s_city_slug": "sanmihai-de-padure",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sanpaul",
+                    "s_city_slug": "sanpaul",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sanpetru de Campie",
+                    "s_city_slug": "sanpetru-de-campie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sansimion",
+                    "s_city_slug": "sansimion",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Santana de Mures",
+                    "s_city_slug": "santana-de-mures",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Santioana",
+                    "s_city_slug": "santioana",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Santioana de Mures",
+                    "s_city_slug": "santioana-de-mures",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Santu",
+                    "s_city_slug": "santu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sanvasii",
+                    "s_city_slug": "sanvasii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sapartoc",
+                    "s_city_slug": "sapartoc",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sarateni",
+                    "s_city_slug": "sarateni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sardu Nirajului",
+                    "s_city_slug": "sardu-nirajului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sarmasel",
+                    "s_city_slug": "sarmasel",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sarmasu",
+                    "s_city_slug": "sarmasu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Saschiz",
+                    "s_city_slug": "saschiz",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Satu Nou",
+                    "s_city_slug": "satu-nou",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Saulia",
+                    "s_city_slug": "saulia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Saulita",
+                    "s_city_slug": "saulita",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sausa",
+                    "s_city_slug": "sausa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Scurta",
+                    "s_city_slug": "scurta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sebes",
+                    "s_city_slug": "sebes",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Seleus",
+                    "s_city_slug": "seleus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Senereus",
+                    "s_city_slug": "senereus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Serbeni",
+                    "s_city_slug": "serbeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Seuca",
+                    "s_city_slug": "seuca",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Seulia de Mures",
+                    "s_city_slug": "seulia-de-mures",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sfantu Gheorghe",
+                    "s_city_slug": "sfantu-gheorghe",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sicele",
+                    "s_city_slug": "sicele",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sighisoara",
+                    "s_city_slug": "sighisoara",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Silea Nirajului",
+                    "s_city_slug": "silea-nirajului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sincai",
+                    "s_city_slug": "sincai",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sincai-Fanate",
+                    "s_city_slug": "sincai-fanate",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Soard",
+                    "s_city_slug": "soard",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Socolu de Campie",
+                    "s_city_slug": "socolu-de-campie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Soimus",
+                    "s_city_slug": "soimus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Solocma",
+                    "s_city_slug": "solocma",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Solovastru",
+                    "s_city_slug": "solovastru",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Somostelnic",
+                    "s_city_slug": "somostelnic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Soromiclea",
+                    "s_city_slug": "soromiclea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sovata",
+                    "s_city_slug": "sovata",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Stanceni",
+                    "s_city_slug": "stanceni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Stefanca",
+                    "s_city_slug": "stefanca",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Stefaneaca",
+                    "s_city_slug": "stefaneaca",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Stejarenii",
+                    "s_city_slug": "stejarenii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Stejeris",
+                    "s_city_slug": "stejeris",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Sub Padure",
+                    "s_city_slug": "sub-padure",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Suplac",
+                    "s_city_slug": "suplac",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Suseni",
+                    "s_city_slug": "suseni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Suveica",
+                    "s_city_slug": "suveica",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tablaseni",
+                    "s_city_slug": "tablaseni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tampa",
+                    "s_city_slug": "tampa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Targu Mures",
+                    "s_city_slug": "targu-mures",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tarnaveni",
+                    "s_city_slug": "tarnaveni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tau",
+                    "s_city_slug": "tau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Taureni",
+                    "s_city_slug": "taureni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Teleac",
+                    "s_city_slug": "teleac",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tigmandru",
+                    "s_city_slug": "tigmandru",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tiptelnic",
+                    "s_city_slug": "tiptelnic",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tireu",
+                    "s_city_slug": "tireu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tirimia",
+                    "s_city_slug": "tirimia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tirimioara",
+                    "s_city_slug": "tirimioara",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tisieu",
+                    "s_city_slug": "tisieu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Titiana",
+                    "s_city_slug": "titiana",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Toaca",
+                    "s_city_slug": "toaca",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tofalau",
+                    "s_city_slug": "tofalau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Toldal",
+                    "s_city_slug": "toldal",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tonciu",
+                    "s_city_slug": "tonciu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Topa",
+                    "s_city_slug": "topa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Torba",
+                    "s_city_slug": "torba",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Trei Sate",
+                    "s_city_slug": "trei-sate",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Troita",
+                    "s_city_slug": "troita",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Tusinu",
+                    "s_city_slug": "tusinu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Uila",
+                    "s_city_slug": "uila",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ulies",
+                    "s_city_slug": "ulies",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ungheni",
+                    "s_city_slug": "ungheni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Uricea",
+                    "s_city_slug": "uricea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Urisiu de Jos",
+                    "s_city_slug": "urisiu-de-jos",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Urisiu de Sus",
+                    "s_city_slug": "urisiu-de-sus",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Ursoaia",
+                    "s_city_slug": "ursoaia",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Vadas",
+                    "s_city_slug": "vadas",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Vadu",
+                    "s_city_slug": "vadu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Vaidacuta",
+                    "s_city_slug": "vaidacuta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Vaideiu",
+                    "s_city_slug": "vaideiu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea",
+                    "s_city_slug": "valea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Albestiului",
+                    "s_city_slug": "valea-albestiului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Daii",
+                    "s_city_slug": "valea-daii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Fratiei",
+                    "s_city_slug": "valea-fratiei",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Glodului",
+                    "s_city_slug": "valea-glodului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Iclandului",
+                    "s_city_slug": "valea-iclandului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Izvoarelor",
+                    "s_city_slug": "valea-izvoarelor",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Larga",
+                    "s_city_slug": "valea-larga",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Mare",
+                    "s_city_slug": "valea-mare",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Padurii",
+                    "s_city_slug": "valea-padurii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Rece",
+                    "s_city_slug": "valea-rece",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Sanmartinului",
+                    "s_city_slug": "valea-sanmartinului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Sanpetrului",
+                    "s_city_slug": "valea-sanpetrului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Sapartocului",
+                    "s_city_slug": "valea-sapartocului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Sasului",
+                    "s_city_slug": "valea-sasului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Seaca",
+                    "s_city_slug": "valea-seaca",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Surii",
+                    "s_city_slug": "valea-surii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Uliesului",
+                    "s_city_slug": "valea-uliesului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Ungurului",
+                    "s_city_slug": "valea-ungurului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valea Uriesului",
+                    "s_city_slug": "valea-uriesului",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valeni",
+                    "s_city_slug": "valeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valenii",
+                    "s_city_slug": "valenii",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valenii de Mures",
+                    "s_city_slug": "valenii-de-mures",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valisoara",
+                    "s_city_slug": "valisoara",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Valureni",
+                    "s_city_slug": "valureni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Vanatori",
+                    "s_city_slug": "vanatori",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Vargata",
+                    "s_city_slug": "vargata",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Vatava",
+                    "s_city_slug": "vatava",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Venchi",
+                    "s_city_slug": "venchi",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Veta",
+                    "s_city_slug": "veta",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Vetca",
+                    "s_city_slug": "vetca",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Vidrasau",
+                    "s_city_slug": "vidrasau",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Viforoasa",
+                    "s_city_slug": "viforoasa",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Viilor",
+                    "s_city_slug": "viilor",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Viisoara",
+                    "s_city_slug": "viisoara",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Visinelu",
+                    "s_city_slug": "visinelu",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Voiniceni",
+                    "s_city_slug": "voiniceni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Voivodeni",
+                    "s_city_slug": "voivodeni",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Vulcan",
+                    "s_city_slug": "vulcan",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Zagar",
+                    "s_city_slug": "zagar",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Zapodea",
+                    "s_city_slug": "zapodea",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Zau de Campie",
+                    "s_city_slug": "zau-de-campie",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                },
+                {
+                    "s_city_name": "Zimti",
+                    "s_city_slug": "zimti",
+                    "s_country_code": "ro",
+                    "s_region_slug": "mures-county"
+                }
+            ],
+            "s_country_code": "ro",
+            "s_region_name": "Mures County",
+            "s_region_slug": "mures-county"
         },
         {
             "cities": [

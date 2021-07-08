@@ -31497,6 +31497,505 @@
         {
             "cities": [
                 {
+                    "s_city_name": "Alimov-Lyubimovsky",
+                    "s_city_slug": "alimov-lyubimovsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Amochayevsky",
+                    "s_city_slug": "amochayevsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Antipovka",
+                    "s_city_slug": "antipovka",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Archedino-Chernushinsky",
+                    "s_city_slug": "archedino-chernushinsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Archedinskaya",
+                    "s_city_slug": "archedinskaya",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Beluzhino-Koldairov",
+                    "s_city_slug": "beluzhino-koldairov",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Bereslavka",
+                    "s_city_slug": "bereslavka",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Bobrovsky 2-y",
+                    "s_city_slug": "bobrovsky-2-y",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Burnatsky",
+                    "s_city_slug": "burnatsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Buyerak-Popovsky",
+                    "s_city_slug": "buyerak-popovsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Bykovo, Volgograd Oblast",
+                    "s_city_slug": "bykovo-volgograd-oblast",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Chernyshkovsky",
+                    "s_city_slug": "chernyshkovsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Chiganaki 1-ye",
+                    "s_city_slug": "chiganaki-1-ye",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Chiganaki 2-ye",
+                    "s_city_slug": "chiganaki-2-ye",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Danilovka, Volgograd Oblast",
+                    "s_city_slug": "danilovka-volgograd-oblast",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Dubovka",
+                    "s_city_slug": "dubovka",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Elton",
+                    "s_city_slug": "elton",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Fastov",
+                    "s_city_slug": "fastov",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Frolovo",
+                    "s_city_slug": "frolovo",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Glubokovsky",
+                    "s_city_slug": "glubokovsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Gorbatovsky",
+                    "s_city_slug": "gorbatovsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Gornaya Polyana",
+                    "s_city_slug": "gornaya-polyana",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Gorodishche, Volgograd Oblast",
+                    "s_city_slug": "gorodishche-volgograd-oblast",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Ilovlya",
+                    "s_city_slug": "ilovlya",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Kalach-na-Donu",
+                    "s_city_slug": "kalach-na-donu",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Kamyshin",
+                    "s_city_slug": "kamyshin",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Karpovsky",
+                    "s_city_slug": "karpovsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Kletskaya",
+                    "s_city_slug": "kletskaya",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Kolotsky",
+                    "s_city_slug": "kolotsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Kotelnikovo",
+                    "s_city_slug": "kotelnikovo",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Kotovo",
+                    "s_city_slug": "kotovo",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Krasnoslobodsk",
+                    "s_city_slug": "krasnoslobodsk",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Krasny Yar, Volgograd Oblast",
+                    "s_city_slug": "krasny-yar-volgograd-oblast",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Kumylzhenskaya",
+                    "s_city_slug": "kumylzhenskaya",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Leninsk",
+                    "s_city_slug": "leninsk",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Log",
+                    "s_city_slug": "log",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Medveditsky",
+                    "s_city_slug": "medveditsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Mikhaylovka",
+                    "s_city_slug": "mikhaylovka",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Mikhaylovka Urban Okrug",
+                    "s_city_slug": "mikhaylovka-urban-okrug",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Mitkin",
+                    "s_city_slug": "mitkin",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Nekhayevskaya",
+                    "s_city_slug": "nekhayevskaya",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Nikolayevsk",
+                    "s_city_slug": "nikolayevsk",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Nizhny Chir",
+                    "s_city_slug": "nizhny-chir",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Novoanninsky",
+                    "s_city_slug": "novoanninsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Novonikolayevsky, Volgograd Oblast",
+                    "s_city_slug": "novonikolayevsky-volgograd-oblast",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Novonikolskoe",
+                    "s_city_slug": "novonikolskoe",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Novy Rogachik",
+                    "s_city_slug": "novy-rogachik",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Oktyabrsky",
+                    "s_city_slug": "oktyabrsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Olkhovka, Volgograd Oblast",
+                    "s_city_slug": "olkhovka-volgograd-oblast",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Otruba",
+                    "s_city_slug": "otruba",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Pallasovka",
+                    "s_city_slug": "pallasovka",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Petrov Val",
+                    "s_city_slug": "petrov-val",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Poltavsky",
+                    "s_city_slug": "poltavsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Popovsky",
+                    "s_city_slug": "popovsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Preobrazhenskaya, Volgograd Oblast",
+                    "s_city_slug": "preobrazhenskaya-volgograd-oblast",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Primorsk",
+                    "s_city_slug": "primorsk",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Repino",
+                    "s_city_slug": "repino",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Rogachev",
+                    "s_city_slug": "rogachev",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Rubyozhny",
+                    "s_city_slug": "rubyozhny",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Rudnya, Volgograd Oblast",
+                    "s_city_slug": "rudnya-volgograd-oblast",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Russko-Osinovsky",
+                    "s_city_slug": "russko-osinovsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Samoylovsky",
+                    "s_city_slug": "samoylovsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Satarovsky",
+                    "s_city_slug": "satarovsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Savinka",
+                    "s_city_slug": "savinka",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Sebrovo",
+                    "s_city_slug": "sebrovo",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Serafimovich",
+                    "s_city_slug": "serafimovich",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Shirokov",
+                    "s_city_slug": "shirokov",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Slashchyovskaya",
+                    "s_city_slug": "slashchyovskaya",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Sovetsky District",
+                    "s_city_slug": "sovetsky-district",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Srednyaya Akhtuba",
+                    "s_city_slug": "srednyaya-akhtuba",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Staraya Poltavka",
+                    "s_city_slug": "staraya-poltavka",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Surovikino",
+                    "s_city_slug": "surovikino",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Svetly Yar",
+                    "s_city_slug": "svetly-yar",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Tochilkin",
+                    "s_city_slug": "tochilkin",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Uryupinsk",
+                    "s_city_slug": "uryupinsk",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Vodstroy",
+                    "s_city_slug": "vodstroy",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Volgograd",
+                    "s_city_slug": "volgograd",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Volzhsky",
+                    "s_city_slug": "volzhsky",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Voroshilovskiy District, Volgograd",
+                    "s_city_slug": "voroshilovskiy-district-volgograd",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Yelan",
+                    "s_city_slug": "yelan",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Zaplavnoye",
+                    "s_city_slug": "zaplavnoye",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                },
+                {
+                    "s_city_name": "Zhirnovsk",
+                    "s_city_slug": "zhirnovsk",
+                    "s_country_code": "ru",
+                    "s_region_slug": "volgograd-oblast"
+                }
+            ],
+            "s_country_code": "ru",
+            "s_region_name": "Volgograd Oblast",
+            "s_region_slug": "volgograd-oblast"
+        },
+        {
+            "cities": [
+                {
                     "s_city_name": "Babayevo",
                     "s_city_slug": "babayevo",
                     "s_country_code": "ru",

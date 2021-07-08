@@ -1,0 +1,103 @@
+{
+    "regions": [
+        {
+            "cities": [
+                {
+                    "s_city_name": "Biabou",
+                    "s_city_slug": "biabou",
+                    "s_country_code": "vc",
+                    "s_region_slug": "charlotte-parish"
+                },
+                {
+                    "s_city_name": "Byera Village",
+                    "s_city_slug": "byera-village",
+                    "s_country_code": "vc",
+                    "s_region_slug": "charlotte-parish"
+                },
+                {
+                    "s_city_name": "Georgetown",
+                    "s_city_slug": "georgetown",
+                    "s_country_code": "vc",
+                    "s_region_slug": "charlotte-parish"
+                }
+            ],
+            "s_country_code": "vc",
+            "s_region_name": "Charlotte Parish",
+            "s_region_slug": "charlotte-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Port Elizabeth",
+                    "s_city_slug": "port-elizabeth",
+                    "s_country_code": "vc",
+                    "s_region_slug": "grenadines-parish"
+                }
+            ],
+            "s_country_code": "vc",
+            "s_region_name": "Grenadines Parish",
+            "s_region_slug": "grenadines-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Layou",
+                    "s_city_slug": "layou",
+                    "s_country_code": "vc",
+                    "s_region_slug": "saint-andrew-parish"
+                }
+            ],
+            "s_country_code": "vc",
+            "s_region_name": "Saint Andrew Parish",
+            "s_region_slug": "saint-andrew-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Chateaubelair",
+                    "s_city_slug": "chateaubelair",
+                    "s_country_code": "vc",
+                    "s_region_slug": "saint-david-parish"
+                }
+            ],
+            "s_country_code": "vc",
+            "s_region_name": "Saint David Parish",
+            "s_region_slug": "saint-david-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Kingstown",
+                    "s_city_slug": "kingstown",
+                    "s_country_code": "vc",
+                    "s_region_slug": "saint-george-parish"
+                },
+                {
+                    "s_city_name": "Kingstown Park",
+                    "s_city_slug": "kingstown-park",
+                    "s_country_code": "vc",
+                    "s_region_slug": "saint-george-parish"
+                }
+            ],
+            "s_country_code": "vc",
+            "s_region_name": "Saint George Parish",
+            "s_region_slug": "saint-george-parish"
+        },
+        {
+            "cities": [
+                {
+                    "s_city_name": "Barrouallie",
+                    "s_city_slug": "barrouallie",
+                    "s_country_code": "vc",
+                    "s_region_slug": "saint-patrick-parish"
+                }
+            ],
+            "s_country_code": "vc",
+            "s_region_name": "Saint Patrick Parish",
+            "s_region_slug": "saint-patrick-parish"
+        }
+    ],
+    "s_country_code": "VC",
+    "s_country_name": "Saint Vincent And The Grenadines",
+    "s_country_slug": "saint-vincent-and-the-grenadines"
+}

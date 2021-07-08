@@ -347,6 +347,19 @@
         {
             "cities": [
                 {
+                    "s_city_name": "Nassau",
+                    "s_city_slug": "nassau",
+                    "s_country_code": "bs",
+                    "s_region_slug": "new-providence"
+                }
+            ],
+            "s_country_code": "bs",
+            "s_region_name": "New Providence",
+            "s_region_slug": "new-providence"
+        },
+        {
+            "cities": [
+                {
                     "s_city_name": "Nichollstown and Berry Islands",
                     "s_city_slug": "nichollstown-and-berry-islands",
                     "s_country_code": "bs",
@@ -548,5 +561,5 @@
     ],
     "s_country_code": "BS",
     "s_country_name": "Bahamas",
-    "s_country_slug": "bahamas-the"
+    "s_country_slug": "bahamas"
 }
